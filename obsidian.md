@@ -1,0 +1,1 @@
+this is my first time using obsidian im gonna try to maximise my use on this app.
