@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2d56e4a301f33bfb",
+        "id": "d6f762db01017923",
         "type": "tabs",
         "children": [
           {
-            "id": "6eba6fc009e8ca7c",
+            "id": "bbab8765bea529c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08 Summaries/Full Edit Page Breakdown - Max Gladysh.md",
+                "file": "01 Updates/Yaqeen Institute.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Full Edit Page Breakdown - Max Gladysh"
+              "title": "Yaqeen Institute"
             }
           }
         ]
@@ -184,6 +184,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -193,12 +194,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "6eba6fc009e8ca7c",
+  "active": "bbab8765bea529c4",
   "lastOpenFiles": [
-    "daily/2026-06-02.md",
-    "08 Summaries/Full Edit Page Breakdown - Max Gladysh.md",
+    "README.md",
     "01 Updates/📰 Daily News.md",
+    "08 Summaries/Yaqeen Institute — June 2026.md",
     "01 Updates/📌 Daily Brief.md",
+    "01 Updates/Yaqeen Institute.md",
+    "02 Daily/2026/06/06-04-26 Thu.md",
+    "02 Daily/2026/06/06-03-26 Wed.md",
+    "08 Summaries/Full Edit Page Breakdown - Max Gladysh.md",
+    "daily/2026-06-02.md",
     "Untitled.base",
     "obsidian.md",
     "CLAUDE.md",
