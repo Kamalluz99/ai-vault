@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Updates/📰 Daily News.md",
+                "file": "01 Updates/Yaqeen Institute.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "📰 Daily News"
+              "title": "Yaqeen Institute"
             }
           }
         ]
@@ -194,36 +194,39 @@
       "bases:Create new base": false
     }
   },
-  "active": "bbab8765bea529c4",
+  "active": "d2c0aedbcbdb72a6",
   "lastOpenFiles": [
+    "07 References/Al-Aqsa Series.md",
+    "07 References/Bayt al-Maqdis.md",
+    "07 References/Surah at-Teen.md",
+    "07 References/Palestine.md",
+    "07 References/Isra wal-Miraj.md",
+    "07 References/Qibla.md",
+    "07 References/Masjid Al-Aqsa.md",
+    "07 References/Al-Quds.md",
+    "04 People/Luqman al-Hakim.md",
+    "04 People/Umar ibn al-Khattab (ra).md",
+    "04 People/Sulayman (as).md",
+    "04 People/Sulayman (as).md.tmp.13312.31e2a85d5099",
+    "04 People/Musa (as).md",
+    "04 People/Dr. Omar Suleiman.md",
+    "04 People/Ibrahim (as).md",
+    "04 People/Maimuna (ra).md",
+    "08 Summaries/Yaqeen Institute/Summaries/The Many Virtues of Al-Quds (Jerusalem) — Ep. 1 — Al-Aqsa Series.md",
+    "04 People/Abdullah ibn Umar (ra).md",
+    "04 People/Anas ibn Malik (ra).md",
+    "07 References/unread-dot.md",
+    "08 Summaries/Yaqeen Institute/Summaries",
+    "08 Summaries/Yaqeen Institute",
+    "07 References/Open Source Models.md",
+    "07 References/Douglas Hofstadter.md",
+    "02 Daily/2026/06/06-04-26 Thu.md",
     "01 Updates/Yaqeen Institute.md",
     "01 Updates/📰 Daily News.md",
+    "AGENTS.md",
     "01 Updates/📌 Daily Brief.md",
-    "04 People/Max Gladysh.md",
-    "04 People/Andrej Karpathy.md",
-    "04 People/Reysu.md",
-    "08 Summaries/Yaqeen Institute — June 2026.md",
-    "07 References/Douglas Hofstadter.md",
-    "08 Summaries/Full Edit Page Breakdown - Max Gladysh.md",
-    "07 References/unread-dot.md",
-    "08 Summaries/Reysu/Summaries/A look inside my LLM second-brain setup (Full walkthrough).md",
-    "07 References/Frontier Models.md",
-    "07 References/Open Source Models.md",
-    "07 References/Speaker Diarization.md",
-    "07 References/Spaced Repetition.md",
-    "07 References/Anki.md",
-    "07 References/Anthropic.md",
-    "07 References/Claude Code.md",
-    "07 References/I Am a Strange Loop.md",
-    "07 References/LLM.md",
-    "07 References/LM Studio.md",
-    "07 References/Obsidian.md",
-    "07 References/Prompt Injection.md",
-    "07 References/Second Brain.md",
     "08 Summaries/Reysu/Summaries",
     "08 Summaries/Reysu",
-    "02 Daily/2026/06/06-04-26 Thu.md",
-    "PROJECTS.md",
     "Untitled.base",
     "daily"
   ]
