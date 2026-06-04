@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Updates/Yaqeen Institute.md",
-                "mode": "source",
+                "file": "01 Updates/📰 Daily News.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Yaqeen Institute"
+              "title": "📰 Daily News"
             }
           }
         ]
@@ -196,19 +196,35 @@
   },
   "active": "bbab8765bea529c4",
   "lastOpenFiles": [
-    "README.md",
-    "01 Updates/📰 Daily News.md",
-    "08 Summaries/Yaqeen Institute — June 2026.md",
-    "01 Updates/📌 Daily Brief.md",
     "01 Updates/Yaqeen Institute.md",
-    "02 Daily/2026/06/06-04-26 Thu.md",
-    "02 Daily/2026/06/06-03-26 Wed.md",
+    "01 Updates/📰 Daily News.md",
+    "01 Updates/📌 Daily Brief.md",
+    "04 People/Max Gladysh.md",
+    "04 People/Andrej Karpathy.md",
+    "04 People/Reysu.md",
+    "08 Summaries/Yaqeen Institute — June 2026.md",
+    "07 References/Douglas Hofstadter.md",
     "08 Summaries/Full Edit Page Breakdown - Max Gladysh.md",
-    "daily/2026-06-02.md",
+    "07 References/unread-dot.md",
+    "08 Summaries/Reysu/Summaries/A look inside my LLM second-brain setup (Full walkthrough).md",
+    "07 References/Frontier Models.md",
+    "07 References/Open Source Models.md",
+    "07 References/Speaker Diarization.md",
+    "07 References/Spaced Repetition.md",
+    "07 References/Anki.md",
+    "07 References/Anthropic.md",
+    "07 References/Claude Code.md",
+    "07 References/I Am a Strange Loop.md",
+    "07 References/LLM.md",
+    "07 References/LM Studio.md",
+    "07 References/Obsidian.md",
+    "07 References/Prompt Injection.md",
+    "07 References/Second Brain.md",
+    "08 Summaries/Reysu/Summaries",
+    "08 Summaries/Reysu",
+    "02 Daily/2026/06/06-04-26 Thu.md",
+    "PROJECTS.md",
     "Untitled.base",
-    "obsidian.md",
-    "CLAUDE.md",
-    "# starting Obsidian.md",
     "daily"
   ]
 }
