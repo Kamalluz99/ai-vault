@@ -1,3 +1,9 @@
+---
+created: 2026-06-04
+updated: 2026-06-04
+unread: false
+---
+
 # How Claude should treat this vault
 
 > [!important] **NEVER add `# Title` headings to any note.** Obsidian shows the filename as the title; a duplicate H1 is redundant. Start every file with frontmatter, then go straight into body content (callouts, prose, lists). This applies to ALL notes — no exceptions.
