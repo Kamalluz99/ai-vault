@@ -1,6 +1,6 @@
 ---
 created: 2026-06-04T00:00
-updated: 2026-06-04T00:00
+updated: 2026-06-05T23:34
 tags:
   - people
 birthday: 1986-03-18
@@ -27,3 +27,4 @@ unread: true
 ## updates
 
 - [[06-04-26 Thu]] — summarised [[The Many Virtues of Al-Quds (Jerusalem) — Ep. 1 — Al-Aqsa Series]] — Ep. 1 of 10-lecture series on the virtues of Al-Quds and Masjid Al-Aqsa
+- [[09-15-25 Mon Dr Omar Suleiman]] — 3.4-hour live lecture in [[Singapore]]: *A Day in the Life of Our Beloved, Muhammad ﷺ* — covered Surah Al-Asr framework, the four Khulafa, barakah in time, daily Prophet sunnahs, Q&A on depression and family balance
