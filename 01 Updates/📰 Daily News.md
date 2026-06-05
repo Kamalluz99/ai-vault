@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-06-05T05:06
+updated: 2026-06-05T19:06
 topic: daily news
 frequency: daily
 ongoing: false
@@ -80,6 +80,26 @@ unread: true
 
 > [!note]- Science: Researchers reverse energy flow in turbulence, upending 80-year-old theory (ScienceDaily)
 > A team from the University of Pittsburgh and the University of Turin discovered that the direction of energy transfer in turbulence can be reversed under specific geometric conditions — challenging Kolmogorov's 1941 prediction that energy in 3D flows always cascades from large to small scales. Using a tensor-alignment framework, they showed energy can instead propagate via a "zig-zag" pattern from small to large scales, published in Scientific Reports. Applications include controlling ocean currents, improving medical fluid dynamics, and enhancing climate models. [Source](https://www.sciencedaily.com/releases/2026/06/260602021655.htm)
+
+> **Evening update**
+
+> [!note]- SG & MY: Malaysia challenges double standards at SLD; Singapore hosts 550 defence officials (IISS)
+> Malaysia's defence delegation used the Shangri-La Dialogue stage — hosted in Singapore from 29–31 May — to challenge what it termed double standards in international law, citing selective application of UN resolutions on Gaza and broader global governance failures. Singapore hosted over 550 defence ministers and officials from 40+ countries for the 23rd edition of Asia's premier security summit. The dialogue concluded with cautious optimism around renewed Sino-US communication channels, though China sent no high-level representative for a second consecutive year. [Source](https://www.iiss.org/events/shangri-la-dialogue/shangri-la-dialogue-2026/)
+
+> [!note]- Malaysia: Norway revokes Naval Strike Missile export licence; KL scouts alternative suppliers (NST)
+> Norway's government revoked the export licence for the Naval Strike Missile system sold to Malaysia, leaving the Royal Malaysian Navy's frigate armament programme in limbo over undisclosed end-use concerns. Malaysia's Ministry of Defence confirmed it is evaluating alternative ship-launched and air-launched missile systems from European and Asian suppliers. The move comes as Malaysia accelerates its 15-to-5 Naval Transformation Plan to modernise an ageing fleet ahead of its 2030 deadline. [Source](https://www.nst.com.my/)
+
+> [!breaking]- World: North Korea unveils third uranium enrichment site; Kim vows exponential nuclear expansion (NPR)
+> Kim Jong Un inspected a newly built uranium enrichment plant on 3 June, ordering production of weapons-grade material to be ramped up "at an exponential rate," with state media images showing dense rows of centrifuge tubes analysts assessed as a fully operational enrichment hall. This is North Korea's third known enrichment site, after Yongbyon and the covert Kangson complex revealed in 2024, and represents a substantial expansion of the country's fissile material capacity. South Korea's Joint Chiefs of Staff said it is closely coordinating with Washington to monitor the development. [Source](https://www.npr.org/2026/06/04/g-s1-126041/north-korea-unveils-a-new-plant-to-produce-fuel-for-nuclear-weapons)
+
+> [!note]- World: SLD 2026 closes with fragile Sino-US stability signals as China skips for second year (NUS)
+> The 23rd Shangri-La Dialogue (29–31 May, Singapore) produced back-channel Sino-US contacts on avoiding accidental escalation in the South China Sea and Taiwan Strait, even as Beijing sent no ministerial delegation for a second consecutive year. NUS analysts described the signals as positive but fragile, with both sides carefully managing public optics while probing each other's red lines on AI weapons, undersea cables, and Taiwan contingencies. US Secretary Pete Hegseth pressed Indo-Pacific allies on higher defence spending and reaffirmed US commitment to regional deterrence. [Source](https://news.nus.edu.sg/shangri-la-dialogue-2026-highlights-renewed-positive-signals-in-sino-us-pursuit-of-strategic-stability)
+
+> [!note]- Tech: COMPUTEX 2026 closes in Taipei; 1,500 firms showcase AI robotics and smart manufacturing (PR Newswire)
+> COMPUTEX 2026 wrapped its four-day run in Taipei today (2–5 June) with a record 1,500 exhibiting companies from 33 countries, headlined by a new AI Robotics Pavilion and a Tech Application & Experience Zone. Major themes spanned AI computing infrastructure, autonomous manufacturing, and next-generation memory — SK Hynix marked its $1 trillion market-cap milestone on the sidelines, joining Samsung and Micron as AI memory demand reshapes the chip industry. The show attracted over 100,000 trade visitors, underscoring Asia's pivotal role in the global AI hardware supply chain. [Source](https://www.prnewswire.com/news-releases/computex-2026-opens-amid-surging-global-demand-for-ai-infrastructure-302788497.html)
+
+> [!note]- Science: Cambridge & DIOSynVax launch first human trial of fully computer-designed vaccine (Rio Times)
+> Researchers at the University of Cambridge and DIOSynVax initiated the first human clinical trial of a vaccine whose active component — a synthetic immunogen — was designed entirely by computer simulation, with no traditional wet-lab antigen derivation involved. The Phase 1 trial aims to generate broad cross-reactive immunity against multiple viral strains and marks a milestone in computational vaccinology. Success could substantially shorten future vaccine development timelines and reduce reliance on animal-derived biological inputs. [Source](https://www.riotimesonline.com/global-economy-briefing-june-5-2026/)
 
 > [!note]- [[06-04-26 Thu]]
 >
