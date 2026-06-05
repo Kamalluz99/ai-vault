@@ -14,7 +14,7 @@ home:
 unread: true
 ---
 
-> [!info] Known as **Qalbean**. Contact of the user.
+> [!info] Known as **Qalbean** (saved in phone as *Qalbean 🍰*). Malaysian — half Kuantan (Pahang) and half Sarawakian. Full name: Nurul Atiqah Binte Hafidz Murshidi.
 
 ## updates
 -
