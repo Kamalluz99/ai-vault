@@ -1,0 +1,2 @@
+# Daily notes are always edited locally — keep local version on merge conflicts
+02 Daily/**/*.md merge=ours
