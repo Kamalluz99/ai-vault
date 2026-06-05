@@ -10,6 +10,7 @@ associates:
 affiliated:
 aliases:
   - Qalbean
+phone: "+60137020702"
 home:
 unread: true
 ---
