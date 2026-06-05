@@ -39,7 +39,7 @@ When a project is created or updated, also update `PROJECTS.md` at the vault roo
 - Always include `## calls/meetings` if any occurred
 - `## TODO for next session` at the bottom for carryover
 
-**Mandatory**: at the end of every session that touched the vault, update or create the daily note. Work that isn't logged here is invisible.
+**Mandatory**: at the end of EVERY turn that touched the vault, update or create the daily note WITHOUT waiting to be asked. Work that isn't logged here is invisible. Never require the user to say "update log" — just do it automatically before finishing your response.
 
 ## Person notes
 

@@ -11,6 +11,17 @@
           }
         ]
       }
+    ],
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash .claude/stop-log-hook.sh",
+            "timeout": 10
+          }
+        ]
+      }
     ]
   }
 }
