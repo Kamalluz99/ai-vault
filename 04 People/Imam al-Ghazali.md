@@ -26,3 +26,4 @@ unread: true
 ## updates
 
 - 2026-06-05 — extensively referenced throughout [[The Book of Assistance]] as the primary spiritual guide and predecessor; al-Haddad explicitly models his work on al-Ghazali's Ihya
+- 2026-06-06 — [[06-06-26 Sat Teh & Slay Reading Room]]: cited for Zayd-in-a-room illustration (degrees of certainty from *Ihya'*) and *Alchemy of Happiness* quote on lust vs true happiness

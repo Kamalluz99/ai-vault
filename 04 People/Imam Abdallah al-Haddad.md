@@ -21,3 +21,4 @@ unread: true
 ## updates
 
 - 2026-06-05 — mentioned throughout [[The Book of Assistance]] as the author; summarized his 32-chapter spiritual guide
+- 2026-06-06 — [[06-06-26 Sat Teh & Slay Reading Room]]: Teh & Slay Reading Room Session 1 on *Risalat al-Mu'awanah*; biography covered, Chapter 1 (Yaqin) taught by [[Ustaz Asamud Nazali]]

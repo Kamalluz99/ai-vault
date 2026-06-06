@@ -17,3 +17,4 @@ unread: true
 ## updates
 
 - 2026-06-05 — quoted in [[The Book of Assistance]] on the obligation of following the Prophet's footsteps as the only open road to God
+- 2026-06-06 — [[06-06-26 Sat Teh & Slay Reading Room]]: definition of Yaqin cited — "the settling of knowledge in the heart such that it neither reverses, fluctuates, nor changes"

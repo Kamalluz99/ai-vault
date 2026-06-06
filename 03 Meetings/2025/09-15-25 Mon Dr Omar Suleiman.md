@@ -75,10 +75,10 @@ unread: true
 
 ## Action Items
 - [ ] Set a monthly Quran reading goal with a specific deadline (not "inshallah someday")
-- [ ] Learn and track the current Hijri calendar month
+- [x] Learn and track the current Hijri calendar month
 - [ ] Establish Fajr in jama'ah as a non-negotiable daily anchor
 - [ ] Look up the Wednesday sunnah dua (between Dhuhr and Asr)
-- [ ] Review Dr. Suleiman's free books at [[Yaqeen Institute]]
+- [x] Review Dr. Suleiman's free books at [[Yaqeen Institute]]
 
 ## People Mentioned
 
