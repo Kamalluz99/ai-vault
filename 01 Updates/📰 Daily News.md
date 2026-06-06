@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-06-07T05:06
+updated: 2026-06-07T05:30
 topic: daily news
 frequency: daily
 ongoing: false
@@ -80,6 +80,9 @@ unread: true
 
 > [!note]- Science: Octopuses use mirrors to find hidden prey — first invertebrates to show mirror-guided cognition (Current Biology)
 > Dartmouth researchers trained California two-spot octopuses to use mirrors to locate food hidden outside their line of sight, achieving 73% accuracy — a skill previously documented only in vertebrates such as primates, dolphins, and elephants. The study, published in Current Biology, used a projected virtual crab stimulus to rule out olfactory and tactile cues, confirming true visual spatial inference from mirror reflection. The finding is the first evidence of mirror-guided spatial navigation in any invertebrate, expanding the known boundary of complex cognition across the animal kingdom. [Source](https://www.sciencedaily.com/releases/2026/06/260605023402.htm)
+
+> [!note]- Nike (NKE): $42.98 last close — football/World Cup turnaround under analyst scrutiny (Yahoo Finance)
+> Nike closed at $42.98 on Friday June 5, its last trade before the weekend — near its 52-week low of $41.35 (high: $80.17), and significantly below the user's average cost of $71.69 on 46 shares. The company is doubling down on a football-led recovery centred on FIFA World Cup 2026, with Goldman Sachs 'constructive' after Nike's Global Football showcase and UBS 'incrementally positive' following the event. Market cap: $64.02B. [Source](https://finance.yahoo.com/quote/NKE/news/)
 
 > [!note]- [[06-06-26 Sat]]
 >
