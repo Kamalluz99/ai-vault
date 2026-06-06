@@ -14,14 +14,14 @@ BASE_URL = "https://datamall2.mytransport.sg/ltaodataservice"
 LOAD_MAP = {"SEA": "seats avail", "SDA": "standing", "LSD": "limited standing"}
 
 
-def _headers():
+def _headers() -> dict:
     key = os.environ.get("LTA_API_KEY", "")
     if not key:
         raise RuntimeError("LTA_API_KEY environment variable is not set.")
     return {"AccountKey": key, "accept": "application/json"}
 
 
-def _fmt_arrival(bus: dict) -> str | None:
+def _fmt_arrival(bus: dict):
     eta = bus.get("EstimatedArrival", "")
     if not eta:
         return None
@@ -35,26 +35,26 @@ def _fmt_arrival(bus: dict) -> str | None:
         return eta
 
 
-async def _paginate(client: httpx.AsyncClient, endpoint: str) -> list:
+def _paginate(endpoint: str) -> list:
     results, skip = [], 0
-    while True:
-        resp = await client.get(
-            f"{BASE_URL}/{endpoint}",
-            headers=_headers(),
-            params={"$skip": skip},
-            timeout=30,
-        )
-        resp.raise_for_status()
-        batch = resp.json().get("value", [])
-        results.extend(batch)
-        if len(batch) < 500:
-            break
-        skip += 500
+    with httpx.Client(timeout=30) as client:
+        while True:
+            resp = client.get(
+                f"{BASE_URL}/{endpoint}",
+                headers=_headers(),
+                params={"$skip": skip},
+            )
+            resp.raise_for_status()
+            batch = resp.json().get("value", [])
+            results.extend(batch)
+            if len(batch) < 500:
+                break
+            skip += 500
     return results
 
 
 @mcp.tool()
-async def get_bus_arrivals(bus_stop_code: str, service_no: str = "") -> str:
+def get_bus_arrivals(bus_stop_code: str, service_no: str = "") -> str:
     """Get real-time bus arrival times for a Singapore bus stop.
 
     Args:
@@ -65,10 +65,8 @@ async def get_bus_arrivals(bus_stop_code: str, service_no: str = "") -> str:
     if service_no:
         params["ServiceNo"] = service_no
 
-    async with httpx.AsyncClient() as client:
-        resp = await client.get(
-            f"{BASE_URL}/BusArrivalv2", headers=_headers(), params=params
-        )
+    with httpx.Client(timeout=10) as client:
+        resp = client.get(f"{BASE_URL}/BusArrivalv2", headers=_headers(), params=params)
         resp.raise_for_status()
         services = resp.json().get("Services", [])
 
@@ -77,26 +75,24 @@ async def get_bus_arrivals(bus_stop_code: str, service_no: str = "") -> str:
 
     lines = [f"Stop {bus_stop_code}:"]
     for svc in services:
-        arrivals = list(filter(None, [
+        arrivals = [a for a in [
             _fmt_arrival(svc.get("NextBus", {})),
             _fmt_arrival(svc.get("NextBus2", {})),
             _fmt_arrival(svc.get("NextBus3", {})),
-        ]))
+        ] if a]
         lines.append(f"  {svc['ServiceNo']:>4s}: {' | '.join(arrivals) or 'No data'}")
 
     return "\n".join(lines)
 
 
 @mcp.tool()
-async def search_bus_stops(query: str) -> str:
+def search_bus_stops(query: str) -> str:
     """Search for Singapore bus stops by road name or description.
 
     Args:
         query: Keyword to search — road name, landmark, or area (e.g. 'Orchard', 'Clementi')
     """
-    async with httpx.AsyncClient() as client:
-        stops = await _paginate(client, "BusStops")
-
+    stops = _paginate("BusStops")
     q = query.lower()
     matches = [
         s for s in stops
@@ -116,20 +112,18 @@ async def search_bus_stops(query: str) -> str:
 
 
 @mcp.tool()
-async def get_bus_route(service_no: str) -> str:
+def get_bus_route(service_no: str) -> str:
     """Get all stops along a Singapore bus route.
 
     Args:
         service_no: Bus service number (e.g. '15', '196E', '850E')
     """
-    async with httpx.AsyncClient() as client:
-        all_routes = await _paginate(client, "BusRoutes")
-
+    all_routes = _paginate("BusRoutes")
     svc_routes = [r for r in all_routes if r["ServiceNo"] == service_no]
     if not svc_routes:
         return f"No route found for bus {service_no}."
 
-    dirs: dict[int, list] = defaultdict(list)
+    dirs: dict = defaultdict(list)
     for r in svc_routes:
         dirs[r["Direction"]].append(r)
 
