@@ -138,4 +138,4 @@ def get_bus_route(service_no: str) -> str:
 
 
 if __name__ == "__main__":
-    mcp.run(transport="stdio")
+    mcp.run()
