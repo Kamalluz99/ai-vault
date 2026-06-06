@@ -10,7 +10,7 @@ import httpx
 import mcp.server.stdio
 import mcp.types as types
 from mcp.server import Server
-from mcp.server.models import InitializationOptions
+from mcp.server.models import InitializationOptions, NotificationOptions
 
 BASE_URL = "https://datamall2.mytransport.sg/ltaodataservice"
 LOAD_MAP = {"SEA": "seats avail", "SDA": "standing", "LSD": "limited standing"}
@@ -184,7 +184,7 @@ async def main():
                 server_name="lta-bus",
                 server_version="1.0.0",
                 capabilities=server.get_capabilities(
-                    notification_options=None,
+                    notification_options=NotificationOptions(),
                     experimental_capabilities={},
                 ),
             ),
