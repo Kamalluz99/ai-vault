@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-06-06T05:08
+updated: 2026-06-06T19:08
 topic: daily news
 frequency: daily
 ongoing: false
@@ -80,6 +80,26 @@ unread: true
 
 > [!note]- Science: NASA ISS crew 3D-bioprints cartilage; ESA astronaut grows bone on wood scaffold (NASA)
 > NASA flight engineer Jack Hathaway conducted 3D bioprinting of high-quality cartilage tissue aboard the International Space Station this week, leveraging microgravity to produce structures superior to those achievable on Earth, while ESA astronaut Sophie Adenot simultaneously grew human bone cells on a rattan-wood scaffold to simulate osteoporosis progression. Both experiments are part of the ISS's ongoing regenerative medicine programme, targeting on-demand patient-specific implants and improved bone-healing therapies for both spaceflight and terrestrial use. [Source](https://www.nasa.gov/blogs/spacestation/2026/06/03/human-research-biotechnology-for-advanced-health-fill-station-research-schedule/)
+
+> **Evening update**
+
+> [!note]- SG & MY: Singapore-to-Malaysia corporate exodus reshapes Southeast Asia's economic map (bne IntelliNews)
+> Rising costs, persistent inflation, and a tight labour market are driving Singapore-based companies to offshore operations to Malaysia and Vietnam. H&M confirmed the relocation of its Southeast Asian headquarters from Singapore to Kuala Lumpur, while Yeo's and Asia Pacific Breweries announced plans to shift production lines to Malaysia and Vietnam. Johor is emerging as the primary beneficiary, attracting manufacturing and corporate functions, though analysts warn the influx risks widening Malaysia's wage inequality. [Source](https://www.intellinews.com/the-singapore-to-malaysia-migration-reshaping-southeast-asia-446097/)
+
+> [!note]- Malaysia: King Sultan Ibrahim urges political restraint as twin state polls loom (The Star)
+> His Majesty Sultan Ibrahim, the Yang di-Pertuan Agong, called on Malaysian political leaders to exercise caution and proper conduct in public statements amid a volatile election period. Both Johor (dissolved June 1) and Negeri Sembilan (dissolved June 5) now head to state elections within 60 days, making 2026 an unusually dense political calendar. Observers note the King's intervention signals concern over rhetorical escalation between parties ahead of hotly contested seats. [Source](https://www.thestar.com.my/)
+
+> [!note]- World: US Senate passes $70B immigration enforcement bill without settlement fund limits (NPR)
+> The Senate passed legislation funding Trump's immigration enforcement agencies early Friday, after weeks of deadlock over an unrelated $1.776 billion legal settlement fund that critics say lets the executive branch bypass congressional appropriations. The bill cleared without the guardrails Democrats demanded on the settlement mechanism, marking a significant win for the administration's border and deportation agenda. The legislation now heads to the House, where conservatives are expected to push for further amendments. [Source](https://www.npr.org/2026/06/05/nx-s1-5847589/senate-passes-immigration-enforcement-bill-without-limits-on-trump-settlement-fund)
+
+> [!note]- World: World Cup 2026 attendance blow — US visa rejections and Iran war deter fans (Al Jazeera)
+> High US visa fees, elevated rejection rates, and the ongoing Iran conflict are deterring large numbers of international fans from attending FIFA World Cup 2026 in the United States. Iranian fans face outright travel restrictions, while visitors from dozens of other countries report processing delays and denials months before tournament kickoff. The accessibility crisis casts a shadow over what was projected to be the most commercially successful World Cup in history. [Source](https://www.aljazeera.com/sports/2026/6/5/us-visa-rejections-war-on-iran-keep-fans-away-from-world-cup)
+
+> [!note]- Tech: Uber, WeRide and AVOMO launch Spain's first commercial robotaxi service in Madrid (AIapps)
+> Uber, WeRide, and Spanish mobility startup AVOMO launched Spain's first commercial autonomous ride-hailing service in the Madrid metropolitan region, marking autonomous mobility's debut in continental Europe at commercial scale. The service operates through Uber's app with no safety driver during daytime hours, using WeRide's Gen 4 autonomous vehicle platform. The launch follows Uber's similar deployments with Waymo in the US and positions WeRide for broader European regulatory approvals. [Source](https://www.aiapps.com/blog/ai-news-breakthroughs-launches-trends-must-read/)
+
+> [!note]- Science: Flesh-eating New World screwworm detected in Texas calf; USDA escalates monitoring (CBS News)
+> The USDA confirmed detection of the New World screwworm — a flesh-eating parasitic fly eradicated from North America in 1966 — in a three-week-old calf in Zavala County, Texas, marking a potentially significant reemergence event. Larvae were identified in the calf's umbilical area, following detections in southern Mexico and Central America in 2025. The USDA is deploying sterile fly release operations and urging livestock owners to report unusual wound myiasis cases. [Source](https://www.cbsnews.com/news/flesh-eating-new-world-screwworm-found-texas-calf-usda/)
 
 > [!note]- [[06-05-26 Fri]]
 >
