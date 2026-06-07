@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-06-05T05:06
+updated: 2026-06-07T09:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -61,25 +61,42 @@ unread: true
 
 ## 2026-06
 
-### [[06-05-26 Fri]]
+### [[06-07-26 Sun]]
 
-> [!breaking]- AI: Anthropic files confidential IPO at $965B valuation, eyes October listing (Fortune)
-> Anthropic submitted a confidential S-1 to the SEC on June 1, targeting an October 2026 IPO at a $965 billion pre-money valuation — the highest ever for a private AI company — after closing a $65 billion Series H round. The company projects Q2 2026 revenue of $10.9 billion, more than doubling Q1's $4.8 billion and exceeding all of 2025 in a single quarter. If the listing proceeds at that valuation, Anthropic would debut as one of the most valuable companies ever to go public, surpassing OpenAI's last private round. [Source](https://fortune.com/2026/06/01/anthropic-confidentially-files-ipo-965-billion-valuation/)
+> [!note]- AI: Apple WWDC 2026 opens tomorrow — Gemini-powered Siri and iOS 27 expected (TechTimes)
+> Apple's Worldwide Developers Conference 2026 kicks off Monday with its most anticipated software overhaul in years: a rebuilt Siri powered by a custom 1.2-trillion-parameter Google Gemini model, for which Apple reportedly pays $1 billion per year. iOS 27, iPadOS 27, and macOS 27 will debut alongside a dedicated Siri app with an "Extensions" feature, letting users hand off queries to third-party assistants including Claude or Gemini. The deal marks a historic shift for Apple — outsourcing its core AI to a competitor — and signals a direct challenge to ChatGPT in the mass consumer market. [Source](https://www.techtimes.com/articles/317902/20260606/wwdc-2026-opens-monday-gemini-powers-rebuilt-siri-iphone-11-faces-ios-27-cut.htm)
 
-> [!note]- Tech: Microsoft and Google enter AI coding race vs Anthropic and OpenAI (CNBC)
-> Microsoft and Google are making major pushes into AI coding assistants — using Azure and Google Cloud scale — to challenge Anthropic's Claude Code and OpenAI's Codex, which have dominated developer mindshare. Anthropic's Claude Code is widely credited with driving the company's explosive Q2 revenue surge, making it the primary competitive target for both hyperscalers. The contest marks a new phase in the AI wars, with coding infrastructure and developer loyalty as the decisive battleground. [Source](https://www.cnbc.com/2026/06/01/microsoft-and-google-take-on-anthropic-and-openai-in-ai-coding-models.html)
+> [!breaking]- Macro: US adds 172k jobs in May — double consensus — rate-cut hopes collapse (CNBC)
+> The May payrolls report blew past expectations with 172,000 new jobs against an 80,000 consensus, and the unemployment rate held steady at 4.3%. Leisure and hospitality led with 70,000 gains. Markets reacted with a "good news is bad news" sell-off: the 10-year Treasury yield jumped to 4.54%, S&P 500 and Nasdaq 100 futures fell 0.7% and 1.4% respectively, and CME FedWatch now prices a rate hike — not a cut — as the likelier outcome by October. [Source](https://www.cnbc.com/2026/06/05/the-jobs-report-doubled-expectations-why-the-stock-market-doesnt-like-it.html)
 
-> [!note]- Macro: Broadcom plunges 15% on flat guidance, dragging chip stocks lower (CNBC)
-> Broadcom's Q2 FY2026 earnings barely missed expectations ($22.19B vs. $22.27B) and CEO Hock Tan declined to raise the full-year $100B AI chip target despite 143% YoY AI revenue growth, sending the stock down 15% and erasing over $270B in market value. Nasdaq 100 futures fell 1.1% and the VanEck Semiconductor ETF (SMH) dropped 3%+ before the open Friday. The miss amplified investor concern over whether the ~$700B hyperscaler AI capex wave can sustain its pace through H2 2026. [Source](https://www.cnbc.com/2026/06/03/broadcom-avgo-earnings-report-q2-2026.html)
+> [!note]- World: Armenia's ruling Civil Contract leads 55.7% in landmark parliamentary vote (Armenpress)
+> Armenians went to the polls on June 7 for the first scheduled parliamentary election since 2017, with turnout at 58.97% — nearly 10 points above the last election. Early counts from 204 precincts put PM Nikol Pashinyan's Civil Contract at 55.7%, with opposition Strong Armenia distant at 21.9%. The result shapes Armenia's continued pivot away from Russia toward EU alignment and its fragile peace process with Azerbaijan over the former Nagorno-Karabakh region. [Source](https://armenpress.am/en/article/1252293)
 
-> [!breaking]- World: Iran strikes Kuwait airport; US retaliates as Gulf ceasefire frays (CNN/NPR)
-> Iran's IRGC launched missiles at Kuwait International Airport on June 2–3 in retaliation for US strikes, killing at least one person and injuring 63, forcing airport closure. The US responded with "self-defense strikes" against an Iranian military ground control station on Qeshm Island in the Strait of Hormuz. The exchange puts the fragile 60-day ceasefire MOU — still awaiting Trump's final approval — under severe strain, with Kuwait's FM heading to Washington to meet Secretary Rubio in an emergency session. [Source](https://www.npr.org/2026/06/01/g-s1-125126/us-iran-war-updates)
+> [!note]- Malaysia/SG: Malaysia sets Q1 tourism record at 10.6M arrivals; SIA signs joint MoU (Travel & Tour World)
+> Malaysia received a record 10.6 million international visitors in Q1 2026, outpacing Bali and Thailand to top Asia's tropical resort market. Singapore led the source-market list, followed by Australia, China, Indonesia, India, and the UK. Singapore Airlines and Tourism Malaysia sealed a memorandum of understanding to run joint promotional campaigns across Europe, Asia-Pacific, and Australia to sustain the momentum. [Source](https://www.travelandtourworld.com/news/article/tici221p16wq/)
 
-> [!note]- Malaysia: Negeri Sembilan assembly dissolved; snap election imminent (FMT)
-> Menteri Besar Datuk Seri Aminuddin Harun dissolved the Negeri Sembilan state assembly on June 5 after losing support within the legislature, with the Yang di-Pertuan Besar Tuanku Muhriz granting consent. All 36 seats will be contested; Pakatan Harapan has confirmed it will field candidates in every constituency, with coalition seat allocations to be finalised next week. The dissolution follows Johor's on June 1, making Malaysia's 2026 political calendar unusually dense ahead of a potential general election cycle. [Source](https://www.freemalaysiatoday.com/category/nation/2026/06/04/negeri-sembilan-assembly-dissolved)
+> [!note]- Science: GLP-1 drugs linked to 30% lower breast cancer risk in Penn Medicine study of 111k women (ScienceDaily)
+> A retrospective Penn Medicine study of 111,646 women aged 45–80 found those prescribed GLP-1 medications (Ozempic, Wegovy, Mounjaro) had 30.5% lower breast cancer incidence after controlling for confounders, presented at ASCO 2026 and published in JCO Oncology Practice. The absolute difference was 0.7 percentage points (2.3% vs 1.6%), and researchers caution that randomised controlled trials are still needed to confirm causality. If confirmed, it would add oncology prevention to the growing roster of GLP-1 benefits beyond diabetes and weight management. [Source](https://www.sciencedaily.com/releases/2026/06/260605023400.htm)
 
-> [!note]- Science: Researchers reverse energy flow in turbulence, upending 80-year-old theory (ScienceDaily)
-> A team from the University of Pittsburgh and the University of Turin discovered that the direction of energy transfer in turbulence can be reversed under specific geometric conditions — challenging Kolmogorov's 1941 prediction that energy in 3D flows always cascades from large to small scales. Using a tensor-alignment framework, they showed energy can instead propagate via a "zig-zag" pattern from small to large scales, published in Scientific Reports. Applications include controlling ocean currents, improving medical fluid dynamics, and enhancing climate models. [Source](https://www.sciencedaily.com/releases/2026/06/260602021655.htm)
+> [!note]- [[06-05-26 Fri]]
+>
+> > [!breaking]- AI: Anthropic files confidential IPO at $965B valuation, eyes October listing (Fortune)
+> > Anthropic submitted a confidential S-1 to the SEC on June 1, targeting an October 2026 IPO at a $965 billion pre-money valuation — the highest ever for a private AI company — after closing a $65 billion Series H round. The company projects Q2 2026 revenue of $10.9 billion, more than doubling Q1's $4.8 billion and exceeding all of 2025 in a single quarter. If the listing proceeds at that valuation, Anthropic would debut as one of the most valuable companies ever to go public, surpassing OpenAI's last private round. [Source](https://fortune.com/2026/06/01/anthropic-confidentially-files-ipo-965-billion-valuation/)
+>
+> > [!note]- Tech: Microsoft and Google enter AI coding race vs Anthropic and OpenAI (CNBC)
+> > Microsoft and Google are making major pushes into AI coding assistants — using Azure and Google Cloud scale — to challenge Anthropic's Claude Code and OpenAI's Codex, which have dominated developer mindshare. Anthropic's Claude Code is widely credited with driving the company's explosive Q2 revenue surge, making it the primary competitive target for both hyperscalers. The contest marks a new phase in the AI wars, with coding infrastructure and developer loyalty as the decisive battleground. [Source](https://www.cnbc.com/2026/06/01/microsoft-and-google-take-on-anthropic-and-openai-in-ai-coding-models.html)
+>
+> > [!note]- Macro: Broadcom plunges 15% on flat guidance, dragging chip stocks lower (CNBC)
+> > Broadcom's Q2 FY2026 earnings barely missed expectations ($22.19B vs. $22.27B) and CEO Hock Tan declined to raise the full-year $100B AI chip target despite 143% YoY AI revenue growth, sending the stock down 15% and erasing over $270B in market value. Nasdaq 100 futures fell 1.1% and the VanEck Semiconductor ETF (SMH) dropped 3%+ before the open Friday. The miss amplified investor concern over whether the ~$700B hyperscaler AI capex wave can sustain its pace through H2 2026. [Source](https://www.cnbc.com/2026/06/03/broadcom-avgo-earnings-report-q2-2026.html)
+>
+> > [!breaking]- World: Iran strikes Kuwait airport; US retaliates as Gulf ceasefire frays (CNN/NPR)
+> > Iran's IRGC launched missiles at Kuwait International Airport on June 2–3 in retaliation for US strikes, killing at least one person and injuring 63, forcing airport closure. The US responded with "self-defense strikes" against an Iranian military ground control station on Qeshm Island in the Strait of Hormuz. The exchange puts the fragile 60-day ceasefire MOU — still awaiting Trump's final approval — under severe strain, with Kuwait's FM heading to Washington to meet Secretary Rubio in an emergency session. [Source](https://www.npr.org/2026/06/01/g-s1-125126/us-iran-war-updates)
+>
+> > [!note]- Malaysia: Negeri Sembilan assembly dissolved; snap election imminent (FMT)
+> > Menteri Besar Datuk Seri Aminuddin Harun dissolved the Negeri Sembilan state assembly on June 5 after losing support within the legislature, with the Yang di-Pertuan Besar Tuanku Muhriz granting consent. All 36 seats will be contested; Pakatan Harapan has confirmed it will field candidates in every constituency, with coalition seat allocations to be finalised next week. The dissolution follows Johor's on June 1, making Malaysia's 2026 political calendar unusually dense ahead of a potential general election cycle. [Source](https://www.freemalaysiatoday.com/category/nation/2026/06/04/negeri-sembilan-assembly-dissolved)
+>
+> > [!note]- Science: Researchers reverse energy flow in turbulence, upending 80-year-old theory (ScienceDaily)
+> > A team from the University of Pittsburgh and the University of Turin discovered that the direction of energy transfer in turbulence can be reversed under specific geometric conditions — challenging Kolmogorov's 1941 prediction that energy in 3D flows always cascades from large to small scales. Using a tensor-alignment framework, they showed energy can instead propagate via a "zig-zag" pattern from small to large scales, published in Scientific Reports. Applications include controlling ocean currents, improving medical fluid dynamics, and enhancing climate models. [Source](https://www.sciencedaily.com/releases/2026/06/260602021655.htm)
 
 > [!note]- [[06-04-26 Thu]]
 >
