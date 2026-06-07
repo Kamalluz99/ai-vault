@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-06-07T05:30
+updated: 2026-06-07T19:07
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,26 @@ unread: true
 
 > [!note]- Nike (NKE): $42.98 last close — football/World Cup turnaround under analyst scrutiny (Yahoo Finance)
 > Nike closed at $42.98 on Friday June 5, its last trade before the weekend — near its 52-week low of $41.35 (high: $80.17), and significantly below the user's average cost of $71.69 on 46 shares. The company is doubling down on a football-led recovery centred on FIFA World Cup 2026, with Goldman Sachs 'constructive' after Nike's Global Football showcase and UBS 'incrementally positive' following the event. Market cap: $64.02B. [Source](https://finance.yahoo.com/quote/NKE/news/)
+
+> **Evening update**
+
+> [!note]- SG & MY: Luxury superyacht Eagle Wings III sinks at Sentosa Cove after morning fire (Mothership)
+> A 112-foot superyacht, the Eagle Wings III, caught fire at the ONE°15 Marina Club in Sentosa Cove at around 8:10am Sunday, partially sinking after SCDF crews battled the blaze. No injuries were reported among the crew; the founder said he was devastated to see the boat burn but relieved everyone was safe. The yacht can accommodate up to 50 guests and is used for private charters and events. The cause of the fire remains under investigation. [Mothership](https://mothership.sg/2026/06/sentosa-cove-marina-yacht-fire/)
+
+> [!note]- Malaysia: PM Anwar departs Monday for Japan — RM6.56 bln in investments on the table (The Star)
+> Prime Minister Anwar Ibrahim undertakes a three-day official visit to Japan from Monday (June 8), meeting PM Sanae Takaichi to discuss bilateral ties, regional security, and the Middle East situation. The trip is expected to attract RM6.56 billion in potential investments, with Anwar accompanied by his ministers of foreign affairs, trade, and entrepreneurship. He will also address a conference themed "Working together for a more resilient and prosperous Asia." [The Star](https://www.thestar.com.my/news/nation/2026/06/07/pm-anwar-to-undertake-three-day-official-visit-to-japan-from-june-8)
+
+> [!breaking]- World: Iran and US trade strikes again as Gulf ceasefire edges toward collapse (CNN)
+> The US and Iran exchanged military strikes early Saturday, days after issuing contradictory statements about ceasefire negotiations. Kuwait briefly shut its main airport after Iranian drones damaged a terminal, killing one person and wounding dozens. Tehran has halted communications with ceasefire mediators, demanding enforcement of a separate Lebanon ceasefire first. The episode marks the most serious threat yet to the fragile agreement that ended five weeks of fighting in April. [CNN](https://www.cnn.com/2026/06/06/world/live-news/iran-war-trump-israel-lebanon)
+
+> [!note]- World: Ebola rages in DRC; US-Kenya quarantine facility sparks violent protests (Al Jazeera)
+> The 17th Ebola outbreak in the DRC's Ituri Province continues, complicated by the Bundibugyo strain for which the approved Zaire-strain vaccine offers reduced protection. Kenya, with no confirmed cases, became the centre of international controversy after plans emerged to build a US-funded quarantine facility on a military base in Nanyuki — protests turned violent, killing two people. Kenya's High Court has since blocked the facility's establishment and barred admission of virus-exposed individuals. [Al Jazeera](https://www.aljazeera.com/news/2026/6/4/why-is-a-us-ebola-facility-in-kenya-sparking-protests)
+
+> [!note]- Tech: OpenAI's "Dreaming V3" overhauled ChatGPT memory — factual recall jumps to 82.8% (Neowin)
+> OpenAI launched Dreaming V3 on June 4, a fully rebuilt memory architecture that lifts ChatGPT's factual recall from 67.9% to 82.8%, preference adherence from 55.3% to 71.3%, and accuracy over time from 52.2% to 75.1%. The system auto-updates stale memories and gives users a readable summary page with controls over what ChatGPT remembers about them. A 5x compute reduction makes free-tier rollout viable; Plus and Pro users in the US receive doubled memory capacity immediately. [Neowin](https://www.neowin.net/news/openai-is-rolling-out-a-major-upgrade-to-chatgpt-memory/)
+
+> [!note]- Science/Economy: Bank of Korea: AI chip exports to add 0.7pp to GDP in 2026, outweighing oil drag (Deloitte)
+> South Korea's new central bank governor estimates that surging AI-semiconductor exports — driven by Samsung and SK Hynix's HBM production for global AI data centres — will add 0.7 percentage points to real GDP growth in 2026, more than offsetting the 0.4pp drag from elevated oil prices. The forecast underscores how AI hardware demand is generating measurable macroeconomic lift in chip-exporting nations and reshaping growth models across East and Southeast Asia. [Deloitte Insights](https://www.deloitte.com/us/en/insights/topics/economy/global-economic-outlook/weekly-update.html)
 
 > [!note]- [[06-06-26 Sat]]
 >
