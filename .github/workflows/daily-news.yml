@@ -2,7 +2,7 @@ name: Daily News Update
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # midnight UTC = 8am SGT
+    - cron: '0 21 * * *'  # 9pm UTC = 5am SGT
   workflow_dispatch:     # manual trigger from GitHub Actions UI
 
 jobs:
