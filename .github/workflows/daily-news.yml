@@ -1,0 +1,31 @@
+name: Daily News Update
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # midnight UTC = 8am SGT
+  workflow_dispatch:     # manual trigger from GitHub Actions UI
+
+jobs:
+  daily-news:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: anthropics/claude-code-action@v1
+        with:
+          prompt: |
+            Update my daily news in "01 Updates/📰 Daily News.md".
+            Follow the format instructions in the [!prompt]- callout at the top of that file exactly:
+            - Web-search each topic (AI, Tech, Macro, World, Malaysia/SG, Science)
+            - Pick the single most important story per topic
+            - Collapse the previous day into a > [!note]- [[date]] callout
+            - Insert the new day entry at the top under the correct ## YYYY-MM header
+            - Set unread: true and update the updated: timestamp in frontmatter
+            - Commit and push to main
+          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
