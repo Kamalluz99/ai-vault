@@ -81,6 +81,9 @@ unread: true
 > [!note]- Science: James Webb maps the cosmic web across 13.7 billion years — most detailed survey ever (UCR News)
 > Astronomers at UC Riverside led by PhD student Hossein Hatamnia published the most detailed map of the universe's cosmic web ever made, using JWST's COSMOS-Web survey to trace 800,000 galaxies back to when the universe was one billion years old. The study, in The Astrophysical Journal, reveals how galaxies and dark matter filaments have evolved across the full 13.7-billion-year history of the cosmos, and the complete large-scale structure catalog has been released publicly — surpassing all previous dark matter surveys in scale and resolution. [Source](https://news.ucr.edu/articles/2026/05/11/astronomers-produce-most-detailed-map-cosmic-web)
 
+> [!note]- Nike (NKE): $42.98 last close (Jun 5) — near 52-wk low; Goldman & UBS cautiously positive on World Cup catalyst (Yahoo Finance)
+> Nike closed at $42.98 on Friday June 5 — near its 52-week low of $41.35 (high: $80.17) and well below the avg cost of $71.69 on 46 shares (unrealised loss: ~$1,321). Goldman Sachs described the tone at Nike's Global Football showcase as 'constructive' and UBS was 'incrementally positive', with FIFA World Cup 2026 as the central near-term brand-recovery catalyst. [Source](https://finance.yahoo.com/quote/NKE/)
+
 > [!note]- [[06-07-26 Sun]]
 >
 > > [!note]- AI: OpenAI releases GPT-5.5 — new SOTA on agentic coding and computer-use benchmarks (LLM Stats)
