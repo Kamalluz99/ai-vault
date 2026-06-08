@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-06-08T05:08
+updated: 2026-06-08T20:30
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,26 @@ unread: true
 
 > [!note]- Nike (NKE): $42.98 last close (Jun 5) — near 52-wk low; Goldman & UBS cautiously positive on World Cup catalyst (Yahoo Finance)
 > Nike closed at $42.98 on Friday June 5 — near its 52-week low of $41.35 (high: $80.17) and well below the avg cost of $71.69 on 46 shares (unrealised loss: ~$1,321). Goldman Sachs described the tone at Nike's Global Football showcase as 'constructive' and UBS was 'incrementally positive', with FIFA World Cup 2026 as the central near-term brand-recovery catalyst. [Source](https://finance.yahoo.com/quote/NKE/)
+
+> **Evening update**
+
+> [!note]- SG & MY: Singapore economists cut 2026 GDP forecast to 3.3%; inflation raised to 2.3% (Bloomberg)
+> A Bloomberg survey of economists conducted June 2–5 lowered Singapore's full-year 2026 GDP forecast to 3.3% (from 3.5%) and trimmed the Q2 estimate to 3.9% (from 4.5%), citing US tariff headwinds and cooling external demand. Headline and core inflation projections were revised up to 2.3% and 2%, respectively, from 1.5% previously — a sign of persistent domestic price pressures. The downgrade reflects growing caution about Singapore's near-term resilience even as the broader Southeast Asian economy holds up. [The Edge Malaysia](https://theedgemalaysia.com/node/806207)
+
+> [!note]- Malaysia: Selangor accelerates pig farming ban — Sultan reaffirms no consent; all farms to phase out (NST)
+> Sultan Sharafuddin Idris Shah reiterated in May 2026 that he does not consent to pig farming in any district of Selangor, with the State Executive Council resolving to halt new licences and phase out existing operations. Environmental concerns — river pollution from waste discharge, land scarcity, and high property values — underpin the ban, which will shift Selangor entirely to imported pork to meet non-Muslim demand. Roughly 70% of the state's pork consumption already comes from other states and overseas, easing the industry's transition burden. [NST](https://www.nst.com.my/news/regional/2026/05/1434391/updated-sultan-selangor-makes-it-clear-no-consent-pig-farming-state)
+
+> [!breaking]- World: Philippines 7.8 earthquake kills 19, triggers tsunami warning — worst quake since 1990 (Al Jazeera)
+> A magnitude 7.8 earthquake struck off Sarangani Province in Mindanao on Monday morning, killing at least 19 people and triggering tsunami warnings along Philippine and Indonesian coastlines and as far as Okinawa, Japan. Maximum intensity VII (Destructive) was recorded at General Santos City, where buildings including a commercial block and a high school in Matanao collapsed; tsunami waves of over one metre above normal tides were expected, with first arrivals forecast between 7:37 and 9:37 am. The quake is the strongest to hit the Philippines since 1990; initial PHIVOLCS readings of Mw 7.0 were revised up to 7.8, while Indonesia's BMKG placed the magnitude as high as 8.2. [Al Jazeera](https://www.aljazeera.com/news/2026/6/8/tsunami-warnings-issued-after-8-2-magnitude-earthquake-off-philippines)
+
+> [!breaking]- World: Seoul KOSPI craters 8.3%, circuit breakers triggered — US jobs data revives Fed rate-hike bets (US News)
+> South Korea's KOSPI plunged 8.3% to 7,484 on Monday — its biggest single-day drop since March 4 — after the blowout US May jobs report (172K vs. 85K expected) revived bets that the Federal Reserve will raise rather than hold rates at its June 16–17 FOMC meeting. Chip giants Samsung Electronics tumbled 10.2% and SK Hynix fell 7.7%, leading the tech-heavy selloff that briefly triggered market circuit breakers intraday. Despite the sharp rout, the KOSPI remains up 78% year-to-date after an AI-chip-driven bull run, with Monday's crash a partial unwind of those gains. [US News](https://money.usnews.com/investing/news/articles/2026-06-08/south-koreas-kospi-craters-nearly-9-as-fed-fears-hammer-tech-stocks)
+
+> [!note]- Tech: Gemini 3.5 Flash broadly deployed — 4× faster than frontier rivals; agentic AI shift dominates June (TheAITrack)
+> Google's Gemini 3.5 Flash, widely rolled out in June 2026, runs at 284 tokens per second — four times faster than competing frontier models — and scores 55 on the AI Intelligence Index, positioning it as the speed layer of choice for agentic workflows. The broader June AI theme is a shift from conversational chat to end-to-end task completion: research, coding, legal work, payments, and commerce are being delegated wholesale to AI rather than merely assisted by it. Gemini 3.5 Pro remains on track for a July release and is expected to lead on reasoning benchmarks. [TheAITrack](https://theaitrack.com/ai-news-june-2026-in-depth-and-concise/)
+
+> [!note]- Science/Economy: Taiwan raises 2026 GDP forecast to 9.64% — fastest growth in 16 years on AI export boom (Focus Taiwan)
+> Taiwan's Directorate General of Budget, Accounting and Statistics lifted its 2026 GDP growth forecast to 9.64% — the highest since 2010 — as AI-driven demand for semiconductors and servers propels merchandise exports up an estimated 40%, the fastest growth in five decades. AI servers and related goods now account for nearly 40% of total Taiwan exports (up from 30% in 2025), with TSMC and IC packaging firms accelerating capital investment to meet surging global AI infrastructure demand. The boom cements Taiwan as one of the world's fastest-growing major economies in 2026, though analysts note widening income inequality as gains concentrate in high-tech sectors. [Focus Taiwan](https://focustaiwan.tw/business/202605290022)
 
 > [!note]- [[06-07-26 Sun]]
 >
