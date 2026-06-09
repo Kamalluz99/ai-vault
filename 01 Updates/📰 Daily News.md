@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-06-09T05:00
+updated: 2026-06-09T19:09
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,26 @@ unread: true
 
 > [!note]- Nike (NKE): $43.63 (+1.51%) — ticks up from Mon close; 52-wk range $41.35–$80.17; World Cup catalyst Thursday (Yahoo Finance)
 > Nike closed at $43.63 on June 8 (Monday), up $0.65 (+1.51%) from the prior close of $42.98 — still well below the 46-share avg cost of $71.69 (unrealised loss: ~$1,275). The near-term catalyst is FIFA World Cup 2026 opening Thursday; analysts at Goldman Sachs (constructive) and UBS (incrementally positive) cite the tournament as the central brand-recovery trigger. The stock's YTD decline stands at 32.1%. [Source](https://finance.yahoo.com/quote/NKE/)
+
+> **Evening update**
+
+> [!note]- SG & MY: Singapore Pioneer Generation to get MediSave top-ups of $300–$1,200 in July (MOF)
+> Singapore's Ministry of Finance confirmed that about 300,000 Pioneer Generation seniors will receive MediSave top-ups totalling over S$145 million in mid-July 2026, with amounts ranging from S$300 to S$1,200 based on birth year — Pioneers born in or before 1934 receive the maximum amount. Eligible seniors registered on Singpass will receive SMS notifications by June 15; the rest receive letters by end-June. Top-ups are automatically credited to CPF MediSave Accounts with no action required from recipients. [Source](https://www.humanresourcesonline.net/pioneer-generation-seniors-in-singapore-to-receive-annual-medisave-top-ups-in-mid-july-2026)
+
+> [!note]- Malaysia: PAS severs ties with Bersatu, plunging opposition Perikatan into turmoil (Malay Mail)
+> PAS president Abdul Hadi Awang announced the termination of political cooperation with Bersatu on June 8, after a special central working committee meeting, citing Bersatu's alleged broken promises and moves to block new parties from joining Perikatan Nasional. PAS information chief Ahmad Fadhli Shaari said the party remains in the PN coalition for now, while Bersatu has vowed to stay in PN regardless. Analysts say the split severely weakens the opposition's prospects ahead of GE16, with the rift rooted partly in the Perlis MB saga of December 2025. [Source](https://www.malaymail.com/news/malaysia/2026/06/09/pas-stays-in-perikatan-for-now-despite-bersatu-split-says-partys-information-chief/223043)
+
+> [!breaking]- World: Iran and Israel halt mutual strikes; ceasefire resumes but remains fragile (Al Jazeera)
+> Iran and Israel exchanged their worst missile and drone attacks in months overnight Sunday — the first mutual strikes since the April ceasefire — before both sides announced a halt on Monday. Iran struck Israel in retaliation for Israeli attacks on Beirut's southern suburbs, then agreed to suspend operations while warning it would resume if Israeli Lebanon strikes continue; Netanyahu confirmed Lebanese operations will not stop. Airports across the region have reopened, but both governments stress they remain ready to return to military action swiftly if provoked. [Source](https://www.aljazeera.com/news/2026/6/8/israel-and-iran-exchange-attacks-as-ceasefire-falters)
+
+> [!note]- World: US Army Apache crashes near Strait of Hormuz; crew rescued, cause under probe (NPR)
+> A US Army Apache attack helicopter went down near the Strait of Hormuz on Monday, with both crew members rescued and President Trump confirming they were unharmed. Investigators are examining whether the aircraft was shot down by Iranian fire or suffered a mechanical failure — no determination has been made. Apaches have been central to enforcing the US blockade on Iranian crude shipments, and this is the first Apache reported lost in the conflict, contrasting with roughly 30 Reaper drones shot down previously. [Source](https://www.npr.org/2026/06/09/nx-s1-5851482/trump-pilots-us-helicopter-crash)
+
+> [!note]- Tech: Agentic AI shift accelerates as Gemini 3.5 Flash, Claude Opus 4.8 set new benchmarks (TheAITrack)
+> The defining tech story of June 2026 is AI moving from conversational chat to end-to-end task completion, with Google pushing Gemini toward becoming the "operating layer" for daily tasks via Managed Agents and expanded Google AI Studio workflows. Anthropic's Claude Opus 4.8 debuts with improved reasoning, agentic coding, and effort control, while MiniMax M3 cuts per-token compute to 1/20th of prior models, delivering 9× faster prefilling and 15× faster decoding at 1M-token contexts. Governments are now treating AI compute access as national infrastructure, with US-Japan and UK-Canada bilateral deals shaping who can build and sell into regulated markets. [Source](https://theaitrack.com/ai-news-june-2026-in-depth-and-concise/)
+
+> [!note]- Science/Economy: China May trade surplus hits record $105.4B; ECB and BoE hike expected this week (Rio Times)
+> China's May exports surged 19.4% year-on-year as the trade surplus hit a record $105.4 billion, underscoring Beijing's export machine is finding new markets despite US tariffs. Germany's factory orders collapsed 3.8% in April while India posted a surprise current-account surplus and 7.8% GDP growth — highlighting a widening divergence between advanced and emerging economies. The ECB and Bank of England are expected to hike rates this week even against a contracting Eurozone, while the Federal Reserve's first meeting under new Chair Kevin Warsh on June 16–17 is expected to hold, with a rate hike seen as more likely toward year-end. [Source](https://www.riotimesonline.com/global-economy-briefing-june-9-2026/)
 
 > [!note]- [[06-08-26 Mon]]
 >
