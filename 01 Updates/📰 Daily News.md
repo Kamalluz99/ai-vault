@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-06-10T05:08
+updated: 2026-06-10T20:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,14 @@ unread: true
 
 > [!note]- Nike (NKE): $43.23 (~−0.9%) — World Cup 2026 opens Thursday; CEO Elliott Hill reset on watch (Yahoo Finance)
 > Nike's latest close is approximately $43.23, down ~$0.40 from the June 8 close of $43.63 — still 40% below the 46-share avg cost of $71.69 (unrealised loss: ~$1,310). FIFA World Cup 2026 opens tomorrow (June 11), the central near-term brand catalyst for CEO Elliott Hill's football-led recovery strategy. Next earnings June 30; analyst avg target $60.49; 52-week range $41.35–$80.17. [Source](https://finance.yahoo.com/quote/NKE/)
+
+> **Evening update**
+
+> [!breaking]- World: Iran IRGC strikes US bases in Bahrain, Kuwait & Jordan — most dangerous Iran-US exchange yet (Al Jazeera)
+> Iran's IRGC launched drone and missile attacks on the US Fifth Fleet in Bahrain, Ali Al Salem airbase in Kuwait, and Azraq airbase in Jordan — the largest direct Iran-US military exchange since the April ceasefire. Tehran claimed 21 targets struck and four destroyed, including an F-35 hangar in Jordan; all three host nations said they intercepted the majority of incoming fire with no confirmed fatalities. The strikes were retaliation for earlier US attacks on Iranian positions near the Strait of Hormuz, and the escalation has cast serious doubt on the survival of the 60-day ceasefire MOU. [Source](https://www.aljazeera.com/news/2026/6/10/iran-strikes-bahrain-and-jordan-in-retaliation-for-us-attacks-in-hormuz)
+
+> [!note]- Nike (NKE): RBC downgrades to Sector Perform, slashes target from $70 → $50 — Elliott Hill recovery doubted (GuruFocus)
+> RBC Capital Markets analyst Piral Dadhania cut Nike from Outperform to Sector Perform on June 10, reducing the 12-month price target 28% to $50, citing a slower-than-expected brand recovery under CEO Elliott Hill — Nike is down ~50% since his appointment while rival Adidas rose 70% over the same period. At ~$44.65, the stock remains 38% below the 46-share avg cost of $71.69 (unrealised loss ~$1,242). World Cup 2026 opens tomorrow and earnings are due June 30. [Source](https://www.gurufocus.com/news/8909475/nike-nke-stock-drops-over-1-amid-rbc-downgrade-report)
 
 > [!note]- [[06-09-26 Tue]]
 >
