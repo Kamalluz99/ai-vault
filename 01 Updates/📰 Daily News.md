@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-06-13T22:00
+updated: 2026-06-14T05:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -61,71 +61,94 @@ unread: true
 
 ## 2026-06
 
-### [[06-13-26 Sat]]
+### [[06-14-26 Sun]]
 
-> [!breaking]- World: Trump cancels Iran strikes tonight — signals deal imminent after 2 days of US-Iran exchanges (NBC News)
-> President Trump announced he has called off planned US strikes on Iran for tonight, saying a deal with Tehran is expected to be "finalized" soon — though Iran has not confirmed any agreement. The announcement follows two consecutive days of US-Iran military exchanges after a US Apache was downed near the Strait of Hormuz. Trump also threatened to seize Kharg Island and take "total control" of Iran's oil and gas sector if talks collapse. [Source](https://www.nbcnews.com/world/iran/live-blog/live-updates-us-strikes-iran-trump-hormuz-closed-rcna349554)
+> [!note]- AI: Bezos bets $12B on "artificial general engineer" to autonomously redesign jet engines and medicines (Bloomberg)
+> Jeff Bezos has committed $12 billion to a startup building what he calls an "artificial general engineer" — an AI system capable of autonomously redesigning physical products including jet engines, pharmaceuticals, and industrial systems. The bet reflects a broader 2026 shift where AI races are increasingly won at the hardware and simulation layer, not the model layer. [Source](https://merittechnologies.com/technologies-insider-june-2026/)
 
-> [!note]- World: South Korea's Yoon Suk Yeol sentenced to 30 years for Pyongyang drone operation (CNN)
-> The Seoul Central District Court convicted former President Yoon Suk Yeol of abuse of power and aiding the enemy, ruling he orchestrated the October 2024 military drone flights over North Korea to manufacture a pretext for his December martial law declaration. Yoon, already in custody, denied ordering or approving the operation and can appeal; his former defence minister received the same 30-year sentence. [Source](https://www.cnn.com/2026/06/11/asia/south-korean-yoon-suk-yeol-drone-case-jail-intl-hnk)
+> [!note]- Tech: Google embeds Gemini 3.5 Flash in Search globally — AI agents auto-book and monitor around the clock (Google I/O 2026)
+> Google announced at I/O 2026 that Gemini 3.5 Flash is now the intelligence layer behind Google Search globally, with "intelligent agents" that continuously monitor information on behalf of users and make automatic bookings. The move marks Google's sharpest pivot from search-as-lookup to search-as-action. [Source](https://techstartups.com/2026/06/12/top-tech-news-today-june-12-2026/)
 
-> [!note]- Tech: SpaceX (SPCX) enters MSCI indices — first full trading day as index constituent after $1.75T IPO (Build Fast With AI)
-> SpaceX began entering MSCI index products today, its first full trading day as a public company after pricing the largest IPO in history at $75B raised and a $1.75T post-money valuation. Inclusion forces passive funds globally to absorb the stock, adding significant institutional demand on top of Friday's retail debut. [Source](https://www.buildfastwithai.com/blogs/ai-news-today-june-12-2026)
+> [!note]- Macro: US-Iran ceasefire pulls Brent from $119 high; Q1 profits +28.6% — double estimates; FOMC Mon–Tue (FactSet / Carnegie)
+> A fragile US-Iran ceasefire pulled Brent crude back sharply from its late-April high above $119. Q1 S&P 500 profits grew 28.6% — more than double the 13.1% expected at quarter-end — with FactSet's blended net margin hitting 14.8%, a record since 2009. Rate-cut hopes are fading as persistent inflation and oil-price risk push Treasury yields higher; all eyes on FOMC June 16–17. [Source](https://blog.carnegieinvest.com/monthly-market-commentary-june-2026)
 
-> [!note]- AI: New York passes 7 AI bills to governor's desk — hiring, healthcare, and automated-decision rules (Transparency Coalition)
-> New York legislators wrapped their 2026 session by sending seven AI-related bills to Governor Hochul, covering algorithmic hiring decisions, AI in healthcare, and automated consumer systems — the most significant US state-level AI legislative package to date. Rhode Island simultaneously passed a ban on AI-powered therapy chatbots. Both moves accelerate a US state patchwork ahead of an expected federal framework in late 2026. [Source](https://www.transparencycoalition.ai/news/ai-legislative-update-june12-2026)
+> [!note]- World: FIFA World Cup Day 4 — five matches Sunday incl. Netherlands vs Japan and Germany vs Curaçao (local10.com)
+> Day 4 of the 2026 FIFA World Cup brings five group-stage matches: Australia vs Turkey (Vancouver), Germany vs Curaçao (Houston, 1pm ET), Netherlands vs Japan (Dallas, 4pm ET), Ivory Coast vs Ecuador (Philadelphia, 7pm ET), and Sweden vs Tunisia (Guadalajara, 10pm ET). Also today: UFC Freedom 250 on the White House South Lawn — Trump's 80th birthday. [Source](https://www.local10.com/sports/2026/06/13/fifa-world-cup-2026-here-is-the-june-14-schedule-for-day-4-of-group-matches/)
 
-> [!note]- Macro: Bitcoin holds ~$68-70K; crypto ETFs decouple from equities, now track bond flows; FOMC Jun 16–17 (Bitget)
-> Bitcoin is consolidating near $68,000–$70,000 as a structural shift emerges: crypto ETF inflows for BTC and ETH now correlate with corporate bond and long-duration Treasury flows rather than equities. Ethereum recovered to ~$1,661 (+1.44%); XRP at $1.13 (+2.69%). Markets are in a holding pattern ahead of the Fed's June 16–17 FOMC — no rate change expected, but language on the Iran-driven oil spike will be closely watched. [Source](https://www.bitget.com/news/detail/12560605451843)
+> [!note]- Malaysia/Singapore: Corporate exodus from Singapore to Malaysia accelerates — CNBC documents wave of HQ relocations (CNBC)
+> CNBC reported on a visible acceleration of companies moving operations from Singapore to Malaysia in 2026, citing H&M relocating its Southeast Asian HQ to Kuala Lumpur and Heineken shifting large-scale production to regional Malaysian and Vietnamese breweries. Cost pressures, labour tightness, and policy signals are cited; Johor is absorbing the bulk of manufacturing relocations, though analysts warn of widening wage inequality. [Source](https://www.cnbc.com/2026/06/11/global-mobility-firms-move-operations-from-singapore-to-malaysia.html)
 
-> [!note]- Malaysia/Singapore: CNBC confirms accelerating corporate exodus from Singapore to Malaysia (CNBC)
-> CNBC ran a feature documenting the wave of companies relocating operations from Singapore to Malaysia, driven by cost pressures, tight labour markets, and rising inflation. H&M confirmed its Southeast Asian headquarters move from Singapore to Kuala Lumpur; Asia Pacific Breweries is shifting production to Malaysia and Vietnam. Johor is absorbing the bulk of manufacturing relocation, though analysts warn the influx risks widening Malaysia's domestic wage inequality. [Source](https://www.cnbc.com/2026/06/11/global-mobility-firms-move-operations-from-singapore-to-malaysia.html)
+> [!note]- Science: China's JUNO neutrino observatory delivers first breakthrough — most precise neutrino oscillation measurement ever (ScienceDaily)
+> The JUNO detector, buried deep underground in China, has published its first major physics result: the most precise measurement yet of neutrino oscillation parameters, advancing understanding of the fundamental matter-antimatter asymmetry that explains why the universe has matter at all. The result helps constrain the "neutrino mass ordering" — a key unknown in particle physics. [Source](https://www.sciencedaily.com/news/top/science/)
 
-> [!note]- Sports: World Cup Day 3 — Canada-Bosnia draw; Brazil vs Morocco; Qatar vs Switzerland today (SBS / ESPN)
-> Day 3 of FIFA World Cup 2026 opened with Canada drawing Bosnia and Herzegovina, with Canadian striker Cyle Larin scoring the equaliser. Saturday schedule: Qatar vs Switzerland (3pm ET), Brazil vs Morocco (6pm ET), Haiti vs Scotland (9pm ET). The expanded 48-team format continues to deliver Group Stage variety across all three host nations. [Source](https://www.sbs.com.au/news/fifa-world-cup-2026/article/fifa-world-cup-2026-results-june-13/vcv3xxpnf)
+> [!note]- Nike (NKE): ~$45.37 (mkt closed Sun; last close Fri Jun 12) — Citi cuts to $47, UBS to $50; Q4 earnings Jun 30 (Citi / UBS)
+> Markets closed Sunday; last price ~$45.37 (Fri Jun 12, −1.28%). Citi trimmed its target to $47 (from $53) and UBS to $50 (from $54) on June 10, both citing continued inventory challenges and weak China results. The 46-share position (avg $71.69) carries an unrealised loss of ~$1,211. Q4 FY2026 earnings June 30 remain the next hard catalyst. [Source](https://finance.yahoo.com/quote/NKE/)
 
-> [!note]- Nike (NKE): ~$45.37 (−1.28% Fri) — quiet post-World Cup week; June 30 earnings 17 days away (Yahoo Finance)
-> Nike closed approximately $45.37 on Friday June 12, down 1.28% from the June 11 close of $45.96 — a quiet week after the World Cup open bounce dissipated. The 46-share position (avg $71.69) carries an unrealised loss of ~$1,211. Next hard catalyst: Q4 FY2026 earnings June 30 at ~1:15pm PT. Analyst consensus: 38 analysts, avg target $59.58 (+31% upside), rating "Buy." [Source](https://finance.yahoo.com/quote/NKE/)
-
-> **Evening update**
-
-> [!note]- SG & MY: Three dead after supply boat sinks off Pasir Panjang Terminal in collision (Mothership)
-> A supply boat collided with a landing craft and sank off Singapore's Pasir Panjang Terminal on June 12, with the Police Coast Guard recovering three bodies believed to be crew members of the sunken vessel. Diving and search operations continued into Saturday to determine if any crew remain missing; the landing craft was stable with no injuries to its crew. The Maritime and Port Authority confirmed port operations were unaffected while investigations are ongoing. [Source](https://mothership.sg/2026/06/supply-boat-sinks-off-pasir-panjang-terminal/)
-
-> [!note]- Malaysia: Anwar inaugurates Sabah Southern Madani Link electricity grid project in Sipitang (Bernama)
-> Prime Minister Datuk Seri Anwar Ibrahim attended the implementation ceremony for the Sabah Southern Madani Link (SSML) electricity grid project in Sipitang, reaffirming the federal government's commitment to closing infrastructure gaps in Sabah's interior. The SSML project is a flagship Malaysia Madani initiative to deliver reliable power to communities previously underserved by the national grid, part of Putrajaya's broader East Malaysia development push. [Source](https://www.bernama.com/en/news.php?id=2301194)
-
-> [!note]- World: Police fire water cannon as Belfast anti-migrant unrest enters second night (BBC)
-> Northern Ireland police deployed water cannon for a second consecutive night as anti-migrant protests escalated in Belfast, triggered by a stabbing that far-right groups blamed on immigrants. Buildings were vandalised and vehicles set alight, prompting condemnation from political leaders across Northern Ireland and Britain who called for calm and respect for community cohesion. The unrest echoes the riots that swept England in summer 2024 and has raised fresh concerns about far-right organising across the UK. [Source](https://www.bbc.com/news/uk-northern-ireland)
-
-> [!note]- World: Pope Leo XIV honours Atlantic crossing victims with wreath ceremony off Canary Islands (NBC News)
-> Pope Leo XIV cast a floral wreath into the waters off Spain's Canary Islands, paying tribute to the thousands of migrants who have died attempting the treacherous Atlantic route from West Africa — one of the world's deadliest migration corridors, with record crossings and fatalities in 2025–2026. The ceremony forms part of his ongoing pastoral visit to Spain, which earlier included the historic blessing of Barcelona's Sagrada Família, and underscores migration as a defining moral priority of his papacy. [Source](https://www.nbcnews.com/world)
-
-> [!note]- Tech: Singapore IMDA and Microsoft sign MoU on frontier AI safety and model access (OpenGov Asia)
-> Singapore's Infocomm Media Development Authority and Microsoft signed a Memorandum of Understanding to deepen collaboration on AI safety and security, committing to joint research, governance frameworks, and policy development for advanced AI systems. Working alongside the Singapore AI Safety Institute, the partnership will build a framework enabling governments and critical infrastructure operators to responsibly access and test frontier AI models, with a joint white paper on demand-side and supply-side considerations as a first deliverable. [Source](https://opengovasia.com/singapore-imda-partners-on-ai-safety-and-security-research/)
-
-> [!note]- Science/Economy: IMF sees global growth easing to 2.6% in 2026; AI supercycle drives 13–15% above-trend earnings (IMF / J.P. Morgan)
-> The IMF projects world GDP growth will slow to 2.6% in 2026 — the weakest pace for emerging market economies since the pandemic — as persistent inflation near 3%, geopolitical tensions, and uneven post-pandemic recovery weigh on developing nations. Counterbalancing the slowdown, J.P. Morgan Global Research estimates the AI investment supercycle is driving 13–15% above-trend corporate earnings growth globally for at least two more years, as AI shifts from a speculative market theme to a core driver of capex and profits. Markets are in a pre-FOMC holding pattern ahead of the Fed's June 16–17 meeting, where no rate change is expected but commentary on Iran-driven oil prices will be closely watched. [Source](https://www.imf.org/en/publications/weo/issues/2026/01/19/world-economic-outlook-update-january-2026)
-
-> **Afternoon update**
-
-> [!breaking]- AI: US orders Anthropic to pull Fable 5 and Mythos 5 worldwide (TechRadar)
-> Three days after launch, Anthropic suspended all global access to Fable 5 and Mythos 5 after a US export control directive prohibited any foreign national — including Anthropic's own foreign-national employees in the US — from using either model. The government cited a potential jailbreak that could expose national-security-sensitive capabilities; Anthropic reviewed the technique and called the order a "misunderstanding," saying the identified vulnerability was minor and already known. All other Claude models remain available; the company is working urgently to restore access. [Source](https://www.techradar.com/ai-platforms-assistants/claude/after-a-potential-jailbreak-anthropic-is-shutting-off-access-to-its-mythos-5-and-fable-5-models-under-national-security-orders-from-the-us-government)
-
-> [!note]- World: US downs Iranian drones near Hormuz even as draft peace deal text agreed (RFERL)
-> US military shot down multiple Iranian attack drones near the Strait of Hormuz on Saturday even as negotiators confirmed they reached agreement on the final text of a draft peace deal on June 12. The framework covers a ceasefire extension, Hormuz reopening, sanctions relief, and an Iranian commitment never to acquire nuclear weapons; core technical issues — enrichment limits, stockpile disposition, inspection verification — remain for a follow-on 30–60 day phase. Polymarket traders are pricing a 61% probability of a formal nuclear agreement by July 31. [Source](https://www.rferl.org/a/iran-war-us-hormuz-oil-blockade-gulf-israel/33640284.html)
-
-> [!note]- Macro: Oil falls 2% to ~$85 on Iran deal momentum; crypto-linked equities surge (Schwab)
-> Crude oil fell ~2% to around $85/barrel Saturday as markets priced out the geopolitical risk premium on Iran-US peace deal momentum — still elevated but well off the $96 peak of early June. Crypto-linked equities surged across the board: COIN +4.2%, MARA +8%, RIOT +9%, IBIT +2.8%, as Bitcoin held near $70K. The S&P 500 is tracking a positive week; all eyes now turn to the Fed's June 16–17 FOMC meeting, where no rate change is expected but guidance on oil-driven inflation will matter. [Source](https://www.schwab.com/learn/story/stock-market-update-open)
-
-> [!note]- Tech: Snap cuts 1,000 jobs (16%) — CEO calls AI shift a "crucible moment" (Variety)
-> Snapchat parent Snap eliminated 1,000 employees — 16% of its workforce — and closed 300 open roles, targeting $500M in annual cost savings. CEO Evan Spiegel described the restructuring as a "crucible moment" driven by AI-generated efficiency: AI now produces more than 65% of Snap's new code, with projected annualised savings exceeding $500M. The move adds to a 2026 tech-layoff total that has surpassed 183,000 workers across 247 events year-to-date. [Source](https://variety.com/2026/digital/news/snap-layoffs-snapchat-ceo-evan-spiegel-cites-ai-1236722228/)
-
-> [!note]- Science: Scripps Research fentanyl vaccine blocks opioids before they reach the brain (ScienceDaily)
-> Scientists at Scripps Research published a vaccine in the Journal of Medicinal Chemistry that trains the immune system to neutralise fentanyl and a broad class of synthetic designer opioids before they reach the brain, by targeting a shared structural core rather than the drug molecule itself — offering protection against the future black-market variants that labs routinely synthesise to evade countermeasures. Fentanyl and related synthetics now kill more Americans annually than car crashes and gun violence combined; this is the first broad-spectrum opioid vaccine to demonstrate efficacy across the fentanyl analogue class. [Source](https://www.sciencedaily.com/releases/2026/06/260612032029.htm)
-
-> [!note]- Nike (NKE): $44.97 Sat (range $44.84–$46.29); P/E 29.6×; div 3.6%; unrealised loss −$1,229 (Yahoo Finance)
-> Nike's Saturday trading range was $44.84 to $46.29, last quoted at $44.97 — slightly below Friday's close of ~$45.37. The 46-share position at avg cost $71.69 carries an unrealised loss of approximately −$1,229 (46 × −$26.72). P/E stands at 29.56× with a 3.6% dividend yield. Key upcoming catalysts: FOMC June 16–17 (risk-on sentiment could lift consumer discretionary) and Q4 FY2026 earnings on June 30. [Source](https://finance.yahoo.com/quote/NKE/)
+> [!note]- [[06-13-26 Sat]]
+>
+> > [!breaking]- World: Trump cancels Iran strikes tonight — signals deal imminent after 2 days of US-Iran exchanges (NBC News)
+> > President Trump announced he has called off planned US strikes on Iran for tonight, saying a deal with Tehran is expected to be "finalized" soon — though Iran has not confirmed any agreement. The announcement follows two consecutive days of US-Iran military exchanges after a US Apache was downed near the Strait of Hormuz. Trump also threatened to seize Kharg Island and take "total control" of Iran's oil and gas sector if talks collapse. [Source](https://www.nbcnews.com/world/iran/live-blog/live-updates-us-strikes-iran-trump-hormuz-closed-rcna349554)
+>
+> > [!note]- World: South Korea's Yoon Suk Yeol sentenced to 30 years for Pyongyang drone operation (CNN)
+> > The Seoul Central District Court convicted former President Yoon Suk Yeol of abuse of power and aiding the enemy, ruling he orchestrated the October 2024 military drone flights over North Korea to manufacture a pretext for his December martial law declaration. Yoon, already in custody, denied ordering or approving the operation and can appeal; his former defence minister received the same 30-year sentence. [Source](https://www.cnn.com/2026/06/11/asia/south-korean-yoon-suk-yeol-drone-case-jail-intl-hnk)
+>
+> > [!note]- Tech: SpaceX (SPCX) enters MSCI indices — first full trading day as index constituent after $1.75T IPO (Build Fast With AI)
+> > SpaceX began entering MSCI index products today, its first full trading day as a public company after pricing the largest IPO in history at $75B raised and a $1.75T post-money valuation. Inclusion forces passive funds globally to absorb the stock, adding significant institutional demand on top of Friday's retail debut. [Source](https://www.buildfastwithai.com/blogs/ai-news-today-june-12-2026)
+>
+> > [!note]- AI: New York passes 7 AI bills to governor's desk — hiring, healthcare, and automated-decision rules (Transparency Coalition)
+> > New York legislators wrapped their 2026 session by sending seven AI-related bills to Governor Hochul, covering algorithmic hiring decisions, AI in healthcare, and automated consumer systems — the most significant US state-level AI legislative package to date. Rhode Island simultaneously passed a ban on AI-powered therapy chatbots. Both moves accelerate a US state patchwork ahead of an expected federal framework in late 2026. [Source](https://www.transparencycoalition.ai/news/ai-legislative-update-june12-2026)
+>
+> > [!note]- Macro: Bitcoin holds ~$68-70K; crypto ETFs decouple from equities, now track bond flows; FOMC Jun 16–17 (Bitget)
+> > Bitcoin is consolidating near $68,000–$70,000 as a structural shift emerges: crypto ETF inflows for BTC and ETH now correlate with corporate bond and long-duration Treasury flows rather than equities. Ethereum recovered to ~$1,661 (+1.44%); XRP at $1.13 (+2.69%). Markets are in a holding pattern ahead of the Fed's June 16–17 FOMC — no rate change expected, but language on the Iran-driven oil spike will be closely watched. [Source](https://www.bitget.com/news/detail/12560605451843)
+>
+> > [!note]- Malaysia/Singapore: CNBC confirms accelerating corporate exodus from Singapore to Malaysia (CNBC)
+> > CNBC ran a feature documenting the wave of companies relocating operations from Singapore to Malaysia, driven by cost pressures, tight labour markets, and rising inflation. H&M confirmed its Southeast Asian headquarters move from Singapore to Kuala Lumpur; Asia Pacific Breweries is shifting production to Malaysia and Vietnam. Johor is absorbing the bulk of manufacturing relocation, though analysts warn the influx risks widening Malaysia's domestic wage inequality. [Source](https://www.cnbc.com/2026/06/11/global-mobility-firms-move-operations-from-singapore-to-malaysia.html)
+>
+> > [!note]- Sports: World Cup Day 3 — Canada-Bosnia draw; Brazil vs Morocco; Qatar vs Switzerland today (SBS / ESPN)
+> > Day 3 of FIFA World Cup 2026 opened with Canada drawing Bosnia and Herzegovina, with Canadian striker Cyle Larin scoring the equaliser. Saturday schedule: Qatar vs Switzerland (3pm ET), Brazil vs Morocco (6pm ET), Haiti vs Scotland (9pm ET). The expanded 48-team format continues to deliver Group Stage variety across all three host nations. [Source](https://www.sbs.com.au/news/fifa-world-cup-2026/article/fifa-world-cup-2026-results-june-13/vcv3xxpnf)
+>
+> > [!note]- Nike (NKE): ~$45.37 (−1.28% Fri) — quiet post-World Cup week; June 30 earnings 17 days away (Yahoo Finance)
+> > Nike closed approximately $45.37 on Friday June 12, down 1.28% from the June 11 close of $45.96 — a quiet week after the World Cup open bounce dissipated. The 46-share position (avg $71.69) carries an unrealised loss of ~$1,211. Next hard catalyst: Q4 FY2026 earnings June 30 at ~1:15pm PT. Analyst consensus: 38 analysts, avg target $59.58 (+31% upside), rating "Buy." [Source](https://finance.yahoo.com/quote/NKE/)
+>
+> > **Evening update**
+>
+> > [!note]- SG & MY: Three dead after supply boat sinks off Pasir Panjang Terminal in collision (Mothership)
+> > A supply boat collided with a landing craft and sank off Singapore's Pasir Panjang Terminal on June 12, with the Police Coast Guard recovering three bodies believed to be crew members of the sunken vessel. Diving and search operations continued into Saturday to determine if any crew remain missing; the landing craft was stable with no injuries to its crew. The Maritime and Port Authority confirmed port operations were unaffected while investigations are ongoing. [Source](https://mothership.sg/2026/06/supply-boat-sinks-off-pasir-panjang-terminal/)
+>
+> > [!note]- Malaysia: Anwar inaugurates Sabah Southern Madani Link electricity grid project in Sipitang (Bernama)
+> > Prime Minister Datuk Seri Anwar Ibrahim attended the implementation ceremony for the Sabah Southern Madani Link (SSML) electricity grid project in Sipitang, reaffirming the federal government's commitment to closing infrastructure gaps in Sabah's interior. The SSML project is a flagship Malaysia Madani initiative to deliver reliable power to communities previously underserved by the national grid, part of Putrajaya's broader East Malaysia development push. [Source](https://www.bernama.com/en/news.php?id=2301194)
+>
+> > [!note]- World: Police fire water cannon as Belfast anti-migrant unrest enters second night (BBC)
+> > Northern Ireland police deployed water cannon for a second consecutive night as anti-migrant protests escalated in Belfast, triggered by a stabbing that far-right groups blamed on immigrants. Buildings were vandalised and vehicles set alight, prompting condemnation from political leaders across Northern Ireland and Britain who called for calm and respect for community cohesion. The unrest echoes the riots that swept England in summer 2024 and has raised fresh concerns about far-right organising across the UK. [Source](https://www.bbc.com/news/uk-northern-ireland)
+>
+> > [!note]- World: Pope Leo XIV honours Atlantic crossing victims with wreath ceremony off Canary Islands (NBC News)
+> > Pope Leo XIV cast a floral wreath into the waters off Spain's Canary Islands, paying tribute to the thousands of migrants who have died attempting the treacherous Atlantic route from West Africa — one of the world's deadliest migration corridors, with record crossings and fatalities in 2025–2026. The ceremony forms part of his ongoing pastoral visit to Spain, which earlier included the historic blessing of Barcelona's Sagrada Família, and underscores migration as a defining moral priority of his papacy. [Source](https://www.nbcnews.com/world)
+>
+> > [!note]- Tech: Singapore IMDA and Microsoft sign MoU on frontier AI safety and model access (OpenGov Asia)
+> > Singapore's Infocomm Media Development Authority and Microsoft signed a Memorandum of Understanding to deepen collaboration on AI safety and security, committing to joint research, governance frameworks, and policy development for advanced AI systems. Working alongside the Singapore AI Safety Institute, the partnership will build a framework enabling governments and critical infrastructure operators to responsibly access and test frontier AI models, with a joint white paper on demand-side and supply-side considerations as a first deliverable. [Source](https://opengovasia.com/singapore-imda-partners-on-ai-safety-and-security-research/)
+>
+> > [!note]- Science/Economy: IMF sees global growth easing to 2.6% in 2026; AI supercycle drives 13–15% above-trend earnings (IMF / J.P. Morgan)
+> > The IMF projects world GDP growth will slow to 2.6% in 2026 — the weakest pace for emerging market economies since the pandemic — as persistent inflation near 3%, geopolitical tensions, and uneven post-pandemic recovery weigh on developing nations. Counterbalancing the slowdown, J.P. Morgan Global Research estimates the AI investment supercycle is driving 13–15% above-trend corporate earnings growth globally for at least two more years, as AI shifts from a speculative market theme to a core driver of capex and profits. Markets are in a pre-FOMC holding pattern ahead of the Fed's June 16–17 meeting, where no rate change is expected but commentary on Iran-driven oil prices will be closely watched. [Source](https://www.imf.org/en/publications/weo/issues/2026/01/19/world-economic-outlook-update-january-2026)
+>
+> > **Afternoon update**
+>
+> > [!breaking]- AI: US orders Anthropic to pull Fable 5 and Mythos 5 worldwide (TechRadar)
+> > Three days after launch, Anthropic suspended all global access to Fable 5 and Mythos 5 after a US export control directive prohibited any foreign national — including Anthropic's own foreign-national employees in the US — from using either model. The government cited a potential jailbreak that could expose national-security-sensitive capabilities; Anthropic reviewed the technique and called the order a "misunderstanding," saying the identified vulnerability was minor and already known. All other Claude models remain available; the company is working urgently to restore access. [Source](https://www.techradar.com/ai-platforms-assistants/claude/after-a-potential-jailbreak-anthropic-is-shutting-off-access-to-its-mythos-5-and-fable-5-models-under-national-security-orders-from-the-us-government)
+>
+> > [!note]- World: US downs Iranian drones near Hormuz even as draft peace deal text agreed (RFERL)
+> > US military shot down multiple Iranian attack drones near the Strait of Hormuz on Saturday even as negotiators confirmed they reached agreement on the final text of a draft peace deal on June 12. The framework covers a ceasefire extension, Hormuz reopening, sanctions relief, and an Iranian commitment never to acquire nuclear weapons; core technical issues — enrichment limits, stockpile disposition, inspection verification — remain for a follow-on 30–60 day phase. Polymarket traders are pricing a 61% probability of a formal nuclear agreement by July 31. [Source](https://www.rferl.org/a/iran-war-us-hormuz-oil-blockade-gulf-israel/33640284.html)
+>
+> > [!note]- Macro: Oil falls 2% to ~$85 on Iran deal momentum; crypto-linked equities surge (Schwab)
+> > Crude oil fell ~2% to around $85/barrel Saturday as markets priced out the geopolitical risk premium on Iran-US peace deal momentum — still elevated but well off the $96 peak of early June. Crypto-linked equities surged across the board: COIN +4.2%, MARA +8%, RIOT +9%, IBIT +2.8%, as Bitcoin held near $70K. The S&P 500 is tracking a positive week; all eyes now turn to the Fed's June 16–17 FOMC meeting, where no rate change is expected but guidance on oil-driven inflation will matter. [Source](https://www.schwab.com/learn/story/stock-market-update-open)
+>
+> > [!note]- Tech: Snap cuts 1,000 jobs (16%) — CEO calls AI shift a "crucible moment" (Variety)
+> > Snapchat parent Snap eliminated 1,000 employees — 16% of its workforce — and closed 300 open roles, targeting $500M in annual cost savings. CEO Evan Spiegel described the restructuring as a "crucible moment" driven by AI-generated efficiency: AI now produces more than 65% of Snap's new code, with projected annualised savings exceeding $500M. The move adds to a 2026 tech-layoff total that has surpassed 183,000 workers across 247 events year-to-date. [Source](https://variety.com/2026/digital/news/snap-layoffs-snapchat-ceo-evan-spiegel-cites-ai-1236722228/)
+>
+> > [!note]- Science: Scripps Research fentanyl vaccine blocks opioids before they reach the brain (ScienceDaily)
+> > Scientists at Scripps Research published a vaccine in the Journal of Medicinal Chemistry that trains the immune system to neutralise fentanyl and a broad class of synthetic designer opioids before they reach the brain, by targeting a shared structural core rather than the drug molecule itself — offering protection against the future black-market variants that labs routinely synthesise to evade countermeasures. Fentanyl and related synthetics now kill more Americans annually than car crashes and gun violence combined; this is the first broad-spectrum opioid vaccine to demonstrate efficacy across the fentanyl analogue class. [Source](https://www.sciencedaily.com/releases/2026/06/260612032029.htm)
+>
+> > [!note]- Nike (NKE): $44.97 Sat (range $44.84–$46.29); P/E 29.6×; div 3.6%; unrealised loss −$1,229 (Yahoo Finance)
+> > Nike's Saturday trading range was $44.84 to $46.29, last quoted at $44.97 — slightly below Friday's close of ~$45.37. The 46-share position at avg cost $71.69 carries an unrealised loss of approximately −$1,229 (46 × −$26.72). P/E stands at 29.56× with a 3.6% dividend yield. Key upcoming catalysts: FOMC June 16–17 (risk-on sentiment could lift consumer discretionary) and Q4 FY2026 earnings on June 30. [Source](https://finance.yahoo.com/quote/NKE/)
 
 > [!note]- [[06-11-26 Thu]]
 >
