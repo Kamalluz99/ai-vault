@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-06-13T21:00
+updated: 2026-06-13T22:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -106,6 +106,26 @@ unread: true
 
 > [!note]- Science/Economy: IMF sees global growth easing to 2.6% in 2026; AI supercycle drives 13–15% above-trend earnings (IMF / J.P. Morgan)
 > The IMF projects world GDP growth will slow to 2.6% in 2026 — the weakest pace for emerging market economies since the pandemic — as persistent inflation near 3%, geopolitical tensions, and uneven post-pandemic recovery weigh on developing nations. Counterbalancing the slowdown, J.P. Morgan Global Research estimates the AI investment supercycle is driving 13–15% above-trend corporate earnings growth globally for at least two more years, as AI shifts from a speculative market theme to a core driver of capex and profits. Markets are in a pre-FOMC holding pattern ahead of the Fed's June 16–17 meeting, where no rate change is expected but commentary on Iran-driven oil prices will be closely watched. [Source](https://www.imf.org/en/publications/weo/issues/2026/01/19/world-economic-outlook-update-january-2026)
+
+> **Afternoon update**
+
+> [!breaking]- AI: US orders Anthropic to pull Fable 5 and Mythos 5 worldwide (TechRadar)
+> Three days after launch, Anthropic suspended all global access to Fable 5 and Mythos 5 after a US export control directive prohibited any foreign national — including Anthropic's own foreign-national employees in the US — from using either model. The government cited a potential jailbreak that could expose national-security-sensitive capabilities; Anthropic reviewed the technique and called the order a "misunderstanding," saying the identified vulnerability was minor and already known. All other Claude models remain available; the company is working urgently to restore access. [Source](https://www.techradar.com/ai-platforms-assistants/claude/after-a-potential-jailbreak-anthropic-is-shutting-off-access-to-its-mythos-5-and-fable-5-models-under-national-security-orders-from-the-us-government)
+
+> [!note]- World: US downs Iranian drones near Hormuz even as draft peace deal text agreed (RFERL)
+> US military shot down multiple Iranian attack drones near the Strait of Hormuz on Saturday even as negotiators confirmed they reached agreement on the final text of a draft peace deal on June 12. The framework covers a ceasefire extension, Hormuz reopening, sanctions relief, and an Iranian commitment never to acquire nuclear weapons; core technical issues — enrichment limits, stockpile disposition, inspection verification — remain for a follow-on 30–60 day phase. Polymarket traders are pricing a 61% probability of a formal nuclear agreement by July 31. [Source](https://www.rferl.org/a/iran-war-us-hormuz-oil-blockade-gulf-israel/33640284.html)
+
+> [!note]- Macro: Oil falls 2% to ~$85 on Iran deal momentum; crypto-linked equities surge (Schwab)
+> Crude oil fell ~2% to around $85/barrel Saturday as markets priced out the geopolitical risk premium on Iran-US peace deal momentum — still elevated but well off the $96 peak of early June. Crypto-linked equities surged across the board: COIN +4.2%, MARA +8%, RIOT +9%, IBIT +2.8%, as Bitcoin held near $70K. The S&P 500 is tracking a positive week; all eyes now turn to the Fed's June 16–17 FOMC meeting, where no rate change is expected but guidance on oil-driven inflation will matter. [Source](https://www.schwab.com/learn/story/stock-market-update-open)
+
+> [!note]- Tech: Snap cuts 1,000 jobs (16%) — CEO calls AI shift a "crucible moment" (Variety)
+> Snapchat parent Snap eliminated 1,000 employees — 16% of its workforce — and closed 300 open roles, targeting $500M in annual cost savings. CEO Evan Spiegel described the restructuring as a "crucible moment" driven by AI-generated efficiency: AI now produces more than 65% of Snap's new code, with projected annualised savings exceeding $500M. The move adds to a 2026 tech-layoff total that has surpassed 183,000 workers across 247 events year-to-date. [Source](https://variety.com/2026/digital/news/snap-layoffs-snapchat-ceo-evan-spiegel-cites-ai-1236722228/)
+
+> [!note]- Science: Scripps Research fentanyl vaccine blocks opioids before they reach the brain (ScienceDaily)
+> Scientists at Scripps Research published a vaccine in the Journal of Medicinal Chemistry that trains the immune system to neutralise fentanyl and a broad class of synthetic designer opioids before they reach the brain, by targeting a shared structural core rather than the drug molecule itself — offering protection against the future black-market variants that labs routinely synthesise to evade countermeasures. Fentanyl and related synthetics now kill more Americans annually than car crashes and gun violence combined; this is the first broad-spectrum opioid vaccine to demonstrate efficacy across the fentanyl analogue class. [Source](https://www.sciencedaily.com/releases/2026/06/260612032029.htm)
+
+> [!note]- Nike (NKE): $44.97 Sat (range $44.84–$46.29); P/E 29.6×; div 3.6%; unrealised loss −$1,229 (Yahoo Finance)
+> Nike's Saturday trading range was $44.84 to $46.29, last quoted at $44.97 — slightly below Friday's close of ~$45.37. The 46-share position at avg cost $71.69 carries an unrealised loss of approximately −$1,229 (46 × −$26.72). P/E stands at 29.56× with a 3.6% dividend yield. Key upcoming catalysts: FOMC June 16–17 (risk-on sentiment could lift consumer discretionary) and Q4 FY2026 earnings on June 30. [Source](https://finance.yahoo.com/quote/NKE/)
 
 > [!note]- [[06-11-26 Thu]]
 >
