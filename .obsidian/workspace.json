@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Daily/2026/06/06-06-26 Sat.md",
-                "mode": "source",
+                "file": "01 Updates/📰 Daily News.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "06-06-26 Sat"
+              "title": "📰 Daily News"
             }
           }
         ]
@@ -194,43 +194,42 @@
       "bases:Create new base": false
     }
   },
-  "active": "d2c0aedbcbdb72a6",
+  "active": "bbab8765bea529c4",
   "lastOpenFiles": [
+    "02 Daily/2026/06/06-11-26 Thu.md",
+    "02 Daily/2026/06/06-10-26 Wed.md",
+    "01 Updates/Yaqeen Institute.md",
+    "01 Updates/📰 Daily News.md.tmp.5475.d726368ac6cc",
+    "01 Updates/📰 Daily News.md",
+    "01 Updates/📌 Daily Brief.md",
+    "_Attachments/teh-slay-book-of-assistance/recording-1.mp3",
+    "lta-mcp/server.py",
+    "lta-mcp/requirements.txt",
+    "lta-mcp",
+    "02 Daily/2026/06/06-09-26 Tue.md",
+    "02 Daily/2026/06/06-07-26 Sun.md",
+    "02 Daily/2026/06/06-05-26 Fri.md",
+    "02 Daily/2026/06/06-03-26 Wed.md",
+    "_Attachments/teh-slay-book-of-assistance/recording-1.mp4",
+    "_Attachments/teh-slay-book-of-assistance/recording-2.mp4",
+    "_Attachments/teh-slay-book-of-assistance/recording-2.mp3",
+    "03 Meetings/2025/09-15-25 Mon Dr Omar Suleiman.md",
+    "_Attachments/teh-slay-book-of-assistance/recording-1.mp4.md",
+    "_Attachments/Dr Omar Suleiman - A Day in The Life/Part 3 - QnA (27 min).mp4",
+    "_Attachments/Dr Omar Suleiman - A Day in The Life/Part 2 - Session 2 (92 min).mp4",
+    "03 Meetings/Transcriptions/09-15-25 Mon Dr Omar Suleiman Transcript.md",
+    "03 Meetings/Transcriptions/06-06-26 Teh & Slay Reading Room - Recording 2.md",
+    "03 Meetings/Transcriptions/06-06-26 Teh & Slay Reading Room - Recording 1.md",
+    "02 Daily/2026/06/06-08-26 Mon.md",
+    "03 Meetings/2026/06-06-26 Sat Teh & Slay Reading Room.md",
+    "08 Summaries/Full Edit Page Breakdown - Max Gladysh.md",
+    "02 Daily/2026/06/06-06-26 Sat.md",
     "04 People/Sheikh Amru Biridani.md",
     "04 People/Habib Ali al-Jufri.md",
     "04 People/Ustaz Asamud Nazali.md",
-    "03 Meetings/2026/06-06-26 Sat Teh & Slay Reading Room.md",
-    "03 Meetings/2026/06-06-26 Sat Teh & Slay Reading Room.md.tmp.63442.342e9fee392e",
-    "03 Meetings/Transcriptions/06-06-26 Teh & Slay Reading Room - Recording 2.md",
-    "03 Meetings/Transcriptions/06-06-26 Teh & Slay Reading Room - Recording 1.md",
-    "03 Meetings/2026",
     "08 Summaries/Yaqeen Institute/Summaries/The Many Virtues of Al-Quds (Jerusalem) — Ep. 1 — Al-Aqsa Series.md",
-    "02 Daily/2026/06/06-06-26 Sat.md",
-    "Untitled",
-    "_Attachments/Dr Omar Suleiman - A Day in The Life/Part 3 - QnA (27 min).mp4",
-    "_Attachments/Dr Omar Suleiman - A Day in The Life/Part 2 - Session 2 (92 min).mp4",
-    "_Attachments/Dr Omar Suleiman - A Day in The Life/Part 1 - Session 1 (87 min).mp4",
-    "_Attachments/Dr Omar Suleiman - A Day in The Life",
     "04 People/Prophet Muhammad ﷺ.md",
     "10 Places/Singapore.md",
-    "10 Places/Medina.md",
-    "10 Places/Mecca.md",
-    "07 References/Mus'haf.md",
-    "07 References/Expedition of Tabuk.md",
-    "07 References/Bir Rumah.md",
-    "07 References/Dhul Hijjah.md",
-    "07 References/Sha'ban.md",
-    "07 References/Ramadan.md",
-    "07 References/Dhuhr.md",
-    "07 References/Fajr.md",
-    "07 References/Hijrah.md",
-    "07 References/Dajjal.md",
-    "07 References/Sahaba.md",
-    "07 References/Sadaqah.md",
-    "07 References/Yaqeen Institute.md",
-    "07 References/Huzn and Hamm.md",
-    "04 People/Michael Hart.md.tmp.48340.79e8ab34a4a1",
-    "03 Meetings/2025",
-    "books.base"
+    "10 Places/Medina.md"
   ]
 }

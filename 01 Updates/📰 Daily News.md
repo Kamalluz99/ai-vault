@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-06-11T05:00
+updated: 2026-06-13T10:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -61,28 +61,71 @@ unread: true
 
 ## 2026-06
 
-### [[06-11-26 Thu]]
+### [[06-13-26 Sat]]
 
-> [!note]- AI: White House signs executive order on AI Innovation and Security (Whitehouse.gov)
-> The White House published "Promoting Advanced Artificial Intelligence Innovation and Security," directing federal agencies to accelerate AI deployment and set security standards for national-security AI systems. The EO arrives as Colorado's AI Consumer Protections Act takes effect June 30 and the EU AI Act's high-risk provisions kick in August — a pivotal regulatory convergence week. [Source](https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/)
+> [!breaking]- World: Trump cancels Iran strikes tonight — signals deal imminent after 2 days of US-Iran exchanges (NBC News)
+> President Trump announced he has called off planned US strikes on Iran for tonight, saying a deal with Tehran is expected to be "finalized" soon — though Iran has not confirmed any agreement. The announcement follows two consecutive days of US-Iran military exchanges after a US Apache was downed near the Strait of Hormuz. Trump also threatened to seize Kharg Island and take "total control" of Iran's oil and gas sector if talks collapse. [Source](https://www.nbcnews.com/world/iran/live-blog/live-updates-us-strikes-iran-trump-hormuz-closed-rcna349554)
 
-> [!breaking]- Tech: SpaceX prices $75B IPO at $1.75T valuation — largest IPO in recorded history; SPCX opens Friday (Reuters)
-> SpaceX is pricing its IPO today targeting $75 billion in proceeds at a $1.75 trillion valuation, which would surpass Saudi Aramco's 2019 listing as the largest IPO in history. Elon Musk resisted going public for years; the listing arrives as Starship reaches full operational status and Starlink generates strong recurring revenue. Trading opens Friday on Nasdaq under ticker SPCX. [Source](https://www.buildfastwithai.com/blogs/ai-news-today-june-8-2026)
+> [!note]- World: South Korea's Yoon Suk Yeol sentenced to 30 years for Pyongyang drone operation (CNN)
+> The Seoul Central District Court convicted former President Yoon Suk Yeol of abuse of power and aiding the enemy, ruling he orchestrated the October 2024 military drone flights over North Korea to manufacture a pretext for his December martial law declaration. Yoon, already in custody, denied ordering or approving the operation and can appeal; his former defence minister received the same 30-year sentence. [Source](https://www.cnn.com/2026/06/11/asia/south-korean-yoon-suk-yeol-drone-case-jail-intl-hnk)
 
-> [!breaking]- Macro: Dow −800pts (+CPI 4.2% YoY, above forecast); US-Iran escalation drives oil higher (TheStreet)
-> US equities fell sharply Wednesday as May CPI printed 4.2% YoY — above the 3.8% consensus and highest since May 2023 — reviving rate-hike bets ahead of the Fed's June 16–17 FOMC. The Dow lost 800+ pts (−1.65%), S&P −0.37%, Nasdaq −0.42%; oil surged on US-Iran military exchange fears around the Strait of Hormuz. The ECB rate decision is due today. [Source](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-10-2026)
+> [!note]- Tech: SpaceX (SPCX) enters MSCI indices — first full trading day as index constituent after $1.75T IPO (Build Fast With AI)
+> SpaceX began entering MSCI index products today, its first full trading day as a public company after pricing the largest IPO in history at $75B raised and a $1.75T post-money valuation. Inclusion forces passive funds globally to absorb the stock, adding significant institutional demand on top of Friday's retail debut. [Source](https://www.buildfastwithai.com/blogs/ai-news-today-june-12-2026)
 
-> [!note]- World: FIFA World Cup 2026 opens in Mexico City — 48 nations, first 3-host-nation tournament (ESPN)
-> The 2026 FIFA World Cup launches today with Mexico vs South Africa in Mexico City — the same fixture as the 2010 opener, exactly 16 years later. The 48-team, 104-match tournament spans USA, Mexico, and Canada, running until July 19 in New York. Mexico City declared today a public holiday with ~200,000 expected across combined opening ceremonies. [Source](https://www.aljazeera.com/sports/2026/6/9/world-cup-opening-ceremony-whos-performing-when-it-starts-how-to-watch)
+> [!note]- AI: New York passes 7 AI bills to governor's desk — hiring, healthcare, and automated-decision rules (Transparency Coalition)
+> New York legislators wrapped their 2026 session by sending seven AI-related bills to Governor Hochul, covering algorithmic hiring decisions, AI in healthcare, and automated consumer systems — the most significant US state-level AI legislative package to date. Rhode Island simultaneously passed a ban on AI-powered therapy chatbots. Both moves accelerate a US state patchwork ahead of an expected federal framework in late 2026. [Source](https://www.transparencycoalition.ai/news/ai-legislative-update-june12-2026)
 
-> [!note]- Malaysia/Singapore: Singaporean arrested in Malaysia for links to Cambodia-based scam ring (SCMP)
-> A Singaporean man was arrested in Malaysia for alleged ties to a Cambodia-based scam syndicate that targeted Singaporean victims, the latest cross-border cybercrime takedown involving Singapore, Malaysia, and Cambodian authorities. The case reflects ongoing challenges dismantling transnational fraud networks operating from Southeast Asian special economic zones. [Source](https://www.scmp.com/topics/singapore)
+> [!note]- Macro: Bitcoin holds ~$68-70K; crypto ETFs decouple from equities, now track bond flows; FOMC Jun 16–17 (Bitget)
+> Bitcoin is consolidating near $68,000–$70,000 as a structural shift emerges: crypto ETF inflows for BTC and ETH now correlate with corporate bond and long-duration Treasury flows rather than equities. Ethereum recovered to ~$1,661 (+1.44%); XRP at $1.13 (+2.69%). Markets are in a holding pattern ahead of the Fed's June 16–17 FOMC — no rate change expected, but language on the Iran-driven oil spike will be closely watched. [Source](https://www.bitget.com/news/detail/12560605451843)
 
-> [!note]- Science: Mercury joins Venus-Jupiter 3-planet parade — visible after sunset Jun 11–15 from Singapore (NASA)
-> From today through June 15, Mercury enters the western sky after sunset alongside Venus and Jupiter, creating a rare three-planet parade within a single binocular field of view. The Venus-Jupiter conjunction peaked June 9–11; Mercury now completes the grouping low on the western horizon shortly after dusk. [Source](https://science.nasa.gov/solar-system/whats-up-june-2026-skywatching-tips-from-nasa/)
+> [!note]- Malaysia/Singapore: CNBC confirms accelerating corporate exodus from Singapore to Malaysia (CNBC)
+> CNBC ran a feature documenting the wave of companies relocating operations from Singapore to Malaysia, driven by cost pressures, tight labour markets, and rising inflation. H&M confirmed its Southeast Asian headquarters move from Singapore to Kuala Lumpur; Asia Pacific Breweries is shifting production to Malaysia and Vietnam. Johor is absorbing the bulk of manufacturing relocation, though analysts warn the influx risks widening Malaysia's domestic wage inequality. [Source](https://www.cnbc.com/2026/06/11/global-mobility-firms-move-operations-from-singapore-to-malaysia.html)
 
-> [!note]- Nike (NKE): $44.65 (+3.28% Jun 9) — RBC downgrades to Sector Perform, cuts 12-mo target to $50 (GuruFocus)
-> Nike's last close was $44.65 on June 9 (+3.28%), but RBC cut the stock from Outperform to Sector Perform on June 10, slashing the 12-month target from $70 to $50, citing a slower-than-expected brand recovery under CEO Elliott Hill (NKE −50% since appointment vs Adidas +70%). At $44.65, the 46-share position (avg cost $71.69) carries an unrealised loss of ~$1,242. World Cup 2026 opens today — the central near-term brand catalyst; next earnings June 30. [Source](https://www.gurufocus.com/news/8909475/nike-nke-stock-drops-over-1-amid-rbc-downgrade-report)
+> [!note]- Sports: World Cup Day 3 — Canada-Bosnia draw; Brazil vs Morocco; Qatar vs Switzerland today (SBS / ESPN)
+> Day 3 of FIFA World Cup 2026 opened with Canada drawing Bosnia and Herzegovina, with Canadian striker Cyle Larin scoring the equaliser. Saturday schedule: Qatar vs Switzerland (3pm ET), Brazil vs Morocco (6pm ET), Haiti vs Scotland (9pm ET). The expanded 48-team format continues to deliver Group Stage variety across all three host nations. [Source](https://www.sbs.com.au/news/fifa-world-cup-2026/article/fifa-world-cup-2026-results-june-13/vcv3xxpnf)
+
+> [!note]- Nike (NKE): ~$45.37 (−1.28% Fri) — quiet post-World Cup week; June 30 earnings 17 days away (Yahoo Finance)
+> Nike closed approximately $45.37 on Friday June 12, down 1.28% from the June 11 close of $45.96 — a quiet week after the World Cup open bounce dissipated. The 46-share position (avg $71.69) carries an unrealised loss of ~$1,211. Next hard catalyst: Q4 FY2026 earnings June 30 at ~1:15pm PT. Analyst consensus: 38 analysts, avg target $59.58 (+31% upside), rating "Buy." [Source](https://finance.yahoo.com/quote/NKE/)
+
+> [!note]- [[06-11-26 Thu]]
+>
+> > [!note]- AI: White House signs executive order on AI Innovation and Security (Whitehouse.gov)
+> > The White House published "Promoting Advanced Artificial Intelligence Innovation and Security," directing federal agencies to accelerate AI deployment and set security standards for national-security AI systems. The EO arrives as Colorado's AI Consumer Protections Act takes effect June 30 and the EU AI Act's high-risk provisions kick in August — a pivotal regulatory convergence week. [Source](https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/)
+>
+> > [!breaking]- Tech: SpaceX prices $75B IPO at $1.75T valuation — largest IPO in recorded history; SPCX opens Friday (Reuters)
+> > SpaceX is pricing its IPO today targeting $75 billion in proceeds at a $1.75 trillion valuation, which would surpass Saudi Aramco's 2019 listing as the largest IPO in history. Elon Musk resisted going public for years; the listing arrives as Starship reaches full operational status and Starlink generates strong recurring revenue. Trading opens Friday on Nasdaq under ticker SPCX. [Source](https://www.buildfastwithai.com/blogs/ai-news-today-june-8-2026)
+>
+> > [!breaking]- Macro: Dow −800pts (+CPI 4.2% YoY, above forecast); US-Iran escalation drives oil higher (TheStreet)
+> > US equities fell sharply Wednesday as May CPI printed 4.2% YoY — above the 3.8% consensus and highest since May 2023 — reviving rate-hike bets ahead of the Fed's June 16–17 FOMC. The Dow lost 800+ pts (−1.65%), S&P −0.37%, Nasdaq −0.42%; oil surged on US-Iran military exchange fears around the Strait of Hormuz. The ECB rate decision is due today. [Source](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-10-2026)
+>
+> > [!note]- World: FIFA World Cup 2026 opens in Mexico City — 48 nations, first 3-host-nation tournament (ESPN)
+> > The 2026 FIFA World Cup launches today with Mexico vs South Africa in Mexico City — the same fixture as the 2010 opener, exactly 16 years later. The 48-team, 104-match tournament spans USA, Mexico, and Canada, running until July 19 in New York. Mexico City declared today a public holiday with ~200,000 expected across combined opening ceremonies. [Source](https://www.aljazeera.com/sports/2026/6/9/world-cup-opening-ceremony-whos-performing-when-it-starts-how-to-watch)
+>
+> > [!note]- Malaysia/Singapore: Singaporean arrested in Malaysia for links to Cambodia-based scam ring (SCMP)
+> > A Singaporean man was arrested in Malaysia for alleged ties to a Cambodia-based scam syndicate that targeted Singaporean victims, the latest cross-border cybercrime takedown involving Singapore, Malaysia, and Cambodian authorities. The case reflects ongoing challenges dismantling transnational fraud networks operating from Southeast Asian special economic zones. [Source](https://www.scmp.com/topics/singapore)
+>
+> > [!note]- Science: Mercury joins Venus-Jupiter 3-planet parade — visible after sunset Jun 11–15 from Singapore (NASA)
+> > From today through June 15, Mercury enters the western sky after sunset alongside Venus and Jupiter, creating a rare three-planet parade within a single binocular field of view. The Venus-Jupiter conjunction peaked June 9–11; Mercury now completes the grouping low on the western horizon shortly after dusk. [Source](https://science.nasa.gov/solar-system/whats-up-june-2026-skywatching-tips-from-nasa/)
+>
+> > [!note]- Nike (NKE): ~$44.45 (+2.8% intraday, World Cup open) — "Rip The Script" campaign live; June 30 earnings next (Investing.com)
+> > Nike is rallying ~2.8% intraday to ~$44.45 as FIFA World Cup 2026 opens in Mexico City — the central near-term brand catalyst. Nike's "Rip The Script" campaign is live with Ronaldo, Mbappé, Haaland, Vinícius Jr., LeBron, and Travis Scott, and Nike is kitting out 12 teams. Despite the boost, RBC's June 10 downgrade to Sector Perform ($50 target) looms — stock still down ~50% since CEO Elliott Hill's appointment vs. Adidas +70%. At ~$44.45, the 46-share position (avg $71.69) carries an unrealised loss of ~$1,253. Next hard catalyst: June 30 earnings. [Source](https://stocktwits.com/news-articles/markets/equity/nke-stock-red-week-before-fifa-world-cup/cZ0Z2F7Reyc)
+>
+> > **Afternoon update**
+>
+> > [!breaking]- World: Taiwan fires HIMARS into Taiwan Strait — first use of US-supplied rockets in military drill (NBC News)
+> > Taiwan's military conducted a drill firing US-supplied HIMARS precision rocket artillery into the Taiwan Strait — the first time the system has been deployed in this manner. The exercise is a deliberate signal of deterrence capability, demonstrating willingness to strike sea-lane approaches. Beijing has not yet issued an official response, though the exercise is expected to draw sharp condemnation from China. [Source](https://www.nbcnews.com)
+>
+> > [!note]- US: House passes $70B immigration package — ICE funding locked through end of Trump presidency (Fox News)
+> > The House passed a $70 billion immigration enforcement and border security bill on June 11, ending months of standoff with Democrats and locking in ICE funding through the end of Trump's term. The package includes expanded detention capacity and deportation logistics. Combined with the Senate's earlier enforcement bill, it represents the largest single-year US immigration enforcement appropriation in history. [Source](https://www.foxnews.com/politics/trump-locks-ice-funding-through-end-presidency-after-house-passes-70b-package)
+>
+> > [!note]- Tech: Apple iOS 27 makes Claude an iPhone option for first time via multi-AI Extensions system (AIApps)
+> > Apple's iOS 27 ships a multi-AI Extensions system that lets users set Anthropic's Claude as the default AI for Writing Tools and system-level tasks — the first time Claude has been natively available as an iPhone AI option. The update also ships with the Gemini-powered Siri announced at WWDC on June 8. Apple is clearly moving from a single-AI-partner model to an open multi-model ecosystem across its platforms. [Source](https://www.aiapps.com/blog/ai-news-breakthroughs-launches-trends-must-read/)
+>
+> > [!note]- World: Pope Leo blesses Sagrada Família in Barcelona — landmark papal visit to Gaudí's cathedral (NBC News)
+> > Pope Leo visited Barcelona's Sagrada Família and bestowed a formal papal blessing on the UNESCO-protected basilica, which has been under continuous construction since 1882 and is nearing final completion. It is the first papal visit specifically for this blessing. The visit drew large crowds across Barcelona and marks a culturally significant moment for both Spain and the Catholic Church. [Source](https://www.nbcnews.com/world/spain/pope-leo-bless-sagrada-familia-barcelona-gaudi-rcna349263)
+>
+> > [!note]- World: Global conflict fatalities hit record 244,600 in 2025 — highest count ever recorded (NPR)
+> > New data shows approximately 244,600 people were killed in armed conflict in 2025, the highest annual toll on record, as conflicts in Ukraine, Gaza, Sudan, and the Sahel drove the surge. The figure marks a continued multi-year upward trend and has reset baseline assumptions about global peace and security. International mediators are calling for renewed investment in conflict prevention mechanisms. [Source](https://www.npr.org/sections/world/)
 
 > [!note]- [[06-10-26 Wed]]
 >
