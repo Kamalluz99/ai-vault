@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-06-13T10:00
+updated: 2026-06-13T21:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -86,6 +86,26 @@ unread: true
 
 > [!note]- Nike (NKE): ~$45.37 (−1.28% Fri) — quiet post-World Cup week; June 30 earnings 17 days away (Yahoo Finance)
 > Nike closed approximately $45.37 on Friday June 12, down 1.28% from the June 11 close of $45.96 — a quiet week after the World Cup open bounce dissipated. The 46-share position (avg $71.69) carries an unrealised loss of ~$1,211. Next hard catalyst: Q4 FY2026 earnings June 30 at ~1:15pm PT. Analyst consensus: 38 analysts, avg target $59.58 (+31% upside), rating "Buy." [Source](https://finance.yahoo.com/quote/NKE/)
+
+> **Evening update**
+
+> [!note]- SG & MY: Three dead after supply boat sinks off Pasir Panjang Terminal in collision (Mothership)
+> A supply boat collided with a landing craft and sank off Singapore's Pasir Panjang Terminal on June 12, with the Police Coast Guard recovering three bodies believed to be crew members of the sunken vessel. Diving and search operations continued into Saturday to determine if any crew remain missing; the landing craft was stable with no injuries to its crew. The Maritime and Port Authority confirmed port operations were unaffected while investigations are ongoing. [Source](https://mothership.sg/2026/06/supply-boat-sinks-off-pasir-panjang-terminal/)
+
+> [!note]- Malaysia: Anwar inaugurates Sabah Southern Madani Link electricity grid project in Sipitang (Bernama)
+> Prime Minister Datuk Seri Anwar Ibrahim attended the implementation ceremony for the Sabah Southern Madani Link (SSML) electricity grid project in Sipitang, reaffirming the federal government's commitment to closing infrastructure gaps in Sabah's interior. The SSML project is a flagship Malaysia Madani initiative to deliver reliable power to communities previously underserved by the national grid, part of Putrajaya's broader East Malaysia development push. [Source](https://www.bernama.com/en/news.php?id=2301194)
+
+> [!note]- World: Police fire water cannon as Belfast anti-migrant unrest enters second night (BBC)
+> Northern Ireland police deployed water cannon for a second consecutive night as anti-migrant protests escalated in Belfast, triggered by a stabbing that far-right groups blamed on immigrants. Buildings were vandalised and vehicles set alight, prompting condemnation from political leaders across Northern Ireland and Britain who called for calm and respect for community cohesion. The unrest echoes the riots that swept England in summer 2024 and has raised fresh concerns about far-right organising across the UK. [Source](https://www.bbc.com/news/uk-northern-ireland)
+
+> [!note]- World: Pope Leo XIV honours Atlantic crossing victims with wreath ceremony off Canary Islands (NBC News)
+> Pope Leo XIV cast a floral wreath into the waters off Spain's Canary Islands, paying tribute to the thousands of migrants who have died attempting the treacherous Atlantic route from West Africa — one of the world's deadliest migration corridors, with record crossings and fatalities in 2025–2026. The ceremony forms part of his ongoing pastoral visit to Spain, which earlier included the historic blessing of Barcelona's Sagrada Família, and underscores migration as a defining moral priority of his papacy. [Source](https://www.nbcnews.com/world)
+
+> [!note]- Tech: Singapore IMDA and Microsoft sign MoU on frontier AI safety and model access (OpenGov Asia)
+> Singapore's Infocomm Media Development Authority and Microsoft signed a Memorandum of Understanding to deepen collaboration on AI safety and security, committing to joint research, governance frameworks, and policy development for advanced AI systems. Working alongside the Singapore AI Safety Institute, the partnership will build a framework enabling governments and critical infrastructure operators to responsibly access and test frontier AI models, with a joint white paper on demand-side and supply-side considerations as a first deliverable. [Source](https://opengovasia.com/singapore-imda-partners-on-ai-safety-and-security-research/)
+
+> [!note]- Science/Economy: IMF sees global growth easing to 2.6% in 2026; AI supercycle drives 13–15% above-trend earnings (IMF / J.P. Morgan)
+> The IMF projects world GDP growth will slow to 2.6% in 2026 — the weakest pace for emerging market economies since the pandemic — as persistent inflation near 3%, geopolitical tensions, and uneven post-pandemic recovery weigh on developing nations. Counterbalancing the slowdown, J.P. Morgan Global Research estimates the AI investment supercycle is driving 13–15% above-trend corporate earnings growth globally for at least two more years, as AI shifts from a speculative market theme to a core driver of capex and profits. Markets are in a pre-FOMC holding pattern ahead of the Fed's June 16–17 meeting, where no rate change is expected but commentary on Iran-driven oil prices will be closely watched. [Source](https://www.imf.org/en/publications/weo/issues/2026/01/19/world-economic-outlook-update-january-2026)
 
 > [!note]- [[06-11-26 Thu]]
 >
