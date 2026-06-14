@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-06-14T21:00
+updated: 2026-06-14T23:30
 topic: daily news
 frequency: daily
 ongoing: false
@@ -103,6 +103,14 @@ unread: true
 
 > [!note]- Economy: Warsh's FOMC debut Mon — rate hold expected, dot plot key (IndexBox)
 > The Federal Reserve's June 16-17 FOMC meeting — Kevin Warsh's first as Chair after Jerome Powell — is widely expected to hold the federal funds rate at 3.50-3.75% despite May CPI printing at 4.2% (highest since May 2023) and a blowout jobs report (+172K vs 85K forecast). Markets are focused on the dot plot rather than the rate decision itself: whether new projections shift the first cut from late 2026 into 2027, or signal an outright tightening bias; Warsh's press conference tone on Sunday is the key wildcard for risk assets on Monday. [Source](https://www.indexbox.io/blog/fed-meeting-preview-june-1617-fomc-decision-and-potential-bias-shift/)
+
+> **Late update**
+
+> [!note]- World: Germany 7–1 Curaçao — biggest scoreline of World Cup Day 4 (Yahoo Sports)
+> Germany produced the standout result of FIFA World Cup 2026 Day 4, routing Curaçao 7–1 at NRG Stadium in Houston — the tournament's most emphatic win so far. Netherlands also played Japan at AT&T Stadium in Arlington and Ivory Coast faced Ecuador in Philadelphia, with Sweden vs Tunisia in Guadalajara completing the five-match day. Australia defeated Turkey in Vancouver earlier in the day, rounding out a full Group Stage Sunday. [Source](https://sports.yahoo.com/soccer/live/world-cup-2026-live-updates-scores-schedule-results-135432872.html)
+
+> [!note]- AI: Altman, Hassabis & Amodei all join G7 — first summit with all three major lab CEOs (Dataconomy)
+> Sam Altman (OpenAI), Demis Hassabis (Google DeepMind), and Dario Amodei (Anthropic) are all confirmed to attend the G7 Summit in Évian-les-Bains, France, June 15–17 — the first G7 meeting with representation from every major frontier AI lab. AI governance, compute export controls, and international coordination on frontier model safety are expected to dominate the technology agenda alongside world leaders from the G7 nations. [Source](https://dataconomy.com/2026/06/12/ai-leaders-openai-google-deepmind-anthropic-g7-summit/)
 
 > [!note]- [[06-13-26 Sat]]
 >
