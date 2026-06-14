@@ -81,6 +81,9 @@ unread: true
 > [!note]- Science: Blood cancer mutations trigger Alzheimer's via inflammatory brain immune cells — first causal link (ScienceDaily)
 > Researchers have found that somatic mutations linked to clonal hematopoiesis — common blood-cell mutations in older adults also associated with leukaemia — drive microglia (the brain's immune cells) to become abnormally inflammatory, accelerating amyloid and tau accumulation linked to Alzheimer's disease. The study establishes for the first time a direct causal pathway from blood-derived mutations to neurodegeneration, raising the possibility that targeting these mutations early could prevent or delay cognitive decline. The finding is especially significant given that clonal hematopoiesis affects an estimated 10–20% of people over 70. [Source](https://www.sciencedaily.com/news/top/science/)
 
+> [!note]- Nike (NKE): ~$45.37 (last close Fri Jun 12; markets open today) — Citi $47, UBS $50 post-Jun 10 downgrades; Q4 earnings Jun 30 (Yahoo Finance)
+> Nike enters Monday's session at ~$45.37 (Fri Jun 12 close, −1.28%) with markets reopening after the weekend. Citi trimmed its target to $47 (from $53) and UBS to $50 (from $54) on June 10, both citing inventory challenges and weak China results; the 46-share position (avg $71.69) carries an unrealised loss of ~$1,211. Today's Iran-deal risk-on could provide a modest lift to consumer discretionary. Next hard catalyst: Q4 FY2026 earnings June 30. [Source](https://finance.yahoo.com/quote/NKE/)
+
 > [!note]- [[06-14-26 Sun]]
 >
 > > [!note]- AI: Bezos bets $12B on "artificial general engineer" to autonomously redesign jet engines and medicines (Bloomberg)
