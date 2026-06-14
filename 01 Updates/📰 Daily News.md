@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-06-14T05:00
+updated: 2026-06-14T21:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,26 @@ unread: true
 
 > [!note]- Nike (NKE): ~$45.37 (mkt closed Sun; last close Fri Jun 12) — Citi cuts to $47, UBS to $50; Q4 earnings Jun 30 (Citi / UBS)
 > Markets closed Sunday; last price ~$45.37 (Fri Jun 12, −1.28%). Citi trimmed its target to $47 (from $53) and UBS to $50 (from $54) on June 10, both citing continued inventory challenges and weak China results. The 46-share position (avg $71.69) carries an unrealised loss of ~$1,211. Q4 FY2026 earnings June 30 remain the next hard catalyst. [Source](https://finance.yahoo.com/quote/NKE/)
+
+> **Evening update**
+
+> [!breaking]- World: Trump says Iran deal signing Sunday; Tehran signals delay (CBS News)
+> President Trump declared on Sunday that the US-Iran deal would be signed today and that the Strait of Hormuz would reopen "to all" immediately after, but Iran's Foreign Ministry said the signing "will not be tomorrow" — less than two hours after Pakistan PM Shehbaz Sharif predicted agreement within 24 hours. Qatari mediators travelled to Tehran as the draft framework (60-day ceasefire extension, Hormuz reopening, $24B frozen Iranian assets, Iran committing to no uranium enrichment for 15-20 years) remained contested on core technical points. [Source](https://www.cbsnews.com/live-updates/iran-war-us-trump-peace-deal-agreement/)
+
+> [!note]- SG & MY: Johor polls July 11, Negri Sembilan Aug 1 — BN vs PH on every seat (The Star)
+> Malaysia's Election Commission confirmed July 11 as Johor's polling day (56 seats, 2.73M voters) and August 1 for Negeri Sembilan (36 seats, 889K voters), with nomination days on June 27 and July 18 respectively and a combined election budget of RM167.4 million. In an unprecedented scenario, BN and Pakatan Harapan — federal unity coalition partners — will contest every seat against each other in both states, making the twin elections a critical bellwether for GE16. [Source](https://www.thestar.com.my/news/nation/2026/06/12/state-polls-ec-sets-july-11-for-johor-polling-day-aug-1-for-negri-polling-day)
+
+> [!note]- Malaysia: Rosmah files police report denying US$13M NJ mansion link (FMT)
+> Datin Seri Rosmah Mansor lodged a police report on Sunday categorically denying allegations that she directed and funded the July 2025 purchase of a US$13 million mansion in New Jersey, later transferred to a BVI company in May 2026 — purportedly to secure Najib Razak's release from prison. Prominent businessman Tan Sri Daing A Malek Daing Rahaman separately filed his own report denying being a shareholder of the BVI entity; both called the claims false, malicious, and defamatory and demanded a full investigation into the parties behind the posts. [Source](https://www.freemalaysiatoday.com/category/nation/2026/06/14/rosmah-files-report-over-links-to-purchase-transfer-of-us-mansion)
+
+> [!note]- World: UFC Freedom 250 at White House — Trump turns 80 with MMA bash (ABC News)
+> President Donald Trump marks his 80th birthday today with "UFC Freedom 250," staged in a $60 million, 92-foot temporary octagon on the White House South Lawn — the first professional MMA event held at the presidential residence. Seven bouts are scheduled with 4,000 ticketed fans; Trump's family is expected to attend and the main card begins at 8 pm. The White House called it "a once-in-a-generation celebration of the American fighting spirit," though Trump told Dr Oz he was personally "not happy" about turning 80. [Source](https://abcnews.com/Sports/wireStory/time-rage-cage-white-house-ufc-main-event-133843848)
+
+> [!note]- Tech: ChatGPT falls to 55% — Gemini surges 104%, Claude triples (Momentic)
+> New AI chatbot market data shows ChatGPT's web-visit share has fallen from 76.5% in February 2025 to 54.7% in April 2026, while Google Gemini surged from roughly 5.6% to 27.4% (up 104% in six months) and Anthropic's Claude grew 306% in a single quarter — from 203 million to 824 million monthly visits. In the US, Claude holds a higher 12.5% share with Claude Code widely credited for the surge; the shift marks generative AI's transition from a ChatGPT monoculture to a contested multi-model ecosystem where users route tasks to best-fit tools. [Source](https://momenticmarketing.com/blog/top-ai-chatbots)
+
+> [!note]- Economy: Warsh's FOMC debut Mon — rate hold expected, dot plot key (IndexBox)
+> The Federal Reserve's June 16-17 FOMC meeting — Kevin Warsh's first as Chair after Jerome Powell — is widely expected to hold the federal funds rate at 3.50-3.75% despite May CPI printing at 4.2% (highest since May 2023) and a blowout jobs report (+172K vs 85K forecast). Markets are focused on the dot plot rather than the rate decision itself: whether new projections shift the first cut from late 2026 into 2027, or signal an outright tightening bias; Warsh's press conference tone on Sunday is the key wildcard for risk assets on Monday. [Source](https://www.indexbox.io/blog/fed-meeting-preview-june-1617-fomc-decision-and-potential-bias-shift/)
 
 > [!note]- [[06-13-26 Sat]]
 >
