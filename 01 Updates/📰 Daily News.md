@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-06-14T23:30
+updated: 2026-06-15T05:09
 topic: daily news
 frequency: daily
 ongoing: false
@@ -61,56 +61,76 @@ unread: true
 
 ## 2026-06
 
-### [[06-14-26 Sun]]
+### [[06-15-26 Mon]]
 
-> [!note]- AI: Bezos bets $12B on "artificial general engineer" to autonomously redesign jet engines and medicines (Bloomberg)
-> Jeff Bezos has committed $12 billion to a startup building what he calls an "artificial general engineer" — an AI system capable of autonomously redesigning physical products including jet engines, pharmaceuticals, and industrial systems. The bet reflects a broader 2026 shift where AI races are increasingly won at the hardware and simulation layer, not the model layer. [Source](https://merittechnologies.com/technologies-insider-june-2026/)
+> [!note]- AI: Rival AI lab CEOs make first joint G7 appearance — safety, biosecurity & regulation on table (Bloomberg)
+> Sam Altman (OpenAI), Dario Amodei (Anthropic), and Demis Hassabis (Google DeepMind) are at the 52nd G7 Summit in Évian-les-Bains, France (June 15–17) — the first time all three rival AI lab leaders have briefed G7 heads of government together. A G7 working lunch today puts frontier AI safety and infrastructure on the agenda alongside defence and trade; the trio recently co-signed a letter to Congress urging tighter regulation of synthetic DNA and AI-enabled biological threats. French President Macron personally invited Altman, reflecting France's push to make AI the defining policy priority of its G7 presidency. [Source](https://www.bloomberg.com/news/articles/2026-06-12/anthropic-openai-google-executives-plan-to-attend-g7-summit)
 
-> [!note]- Tech: Google embeds Gemini 3.5 Flash in Search globally — AI agents auto-book and monitor around the clock (Google I/O 2026)
-> Google announced at I/O 2026 that Gemini 3.5 Flash is now the intelligence layer behind Google Search globally, with "intelligent agents" that continuously monitor information on behalf of users and make automatic bookings. The move marks Google's sharpest pivot from search-as-lookup to search-as-action. [Source](https://techstartups.com/2026/06/12/top-tech-news-today-june-12-2026/)
+> [!note]- Tech: G7 debates "sovereign compute" — chip access, data centres & AI export controls on agenda (Bloomberg / Dataconomy)
+> Alongside the AI CEOs' working lunch, G7 finance and technology ministers are debating a coordinated AI industrial policy framework covering access to advanced chips, cross-border data-centre investment, and export controls on frontier AI for non-allied nations. France is championing "sovereign compute" — government-backed AI infrastructure reducing dependence on US hyperscalers — a concept gaining traction in Germany and Japan. The G7 communiqué, expected Wednesday, is set to be the first to label AI infrastructure a strategic national-security asset. [Source](https://dataconomy.com/2026/06/12/ai-leaders-openai-google-deepmind-anthropic-g7-summit/)
 
-> [!note]- Macro: US-Iran ceasefire pulls Brent from $119 high; Q1 profits +28.6% — double estimates; FOMC Mon–Tue (FactSet / Carnegie)
-> A fragile US-Iran ceasefire pulled Brent crude back sharply from its late-April high above $119. Q1 S&P 500 profits grew 28.6% — more than double the 13.1% expected at quarter-end — with FactSet's blended net margin hitting 14.8%, a record since 2009. Rate-cut hopes are fading as persistent inflation and oil-price risk push Treasury yields higher; all eyes on FOMC June 16–17. [Source](https://blog.carnegieinvest.com/monthly-market-commentary-june-2026)
+> [!note]- Macro: Warsh's inaugural FOMC opens Tuesday — hold near-certain, dot plot & press conference tone are the real event (Chase / CNBC)
+> The Federal Reserve's June 16–17 FOMC meeting — Kevin Warsh's first as Chair — opens tomorrow with a 99.5% market-implied probability of no rate change, keeping the federal funds rate at 3.50–3.75%. With May CPI at 4.2% and the labour market still strong, the market focus is entirely on the dot plot: will new projections push the first cut into 2027, and does Warsh signal a neutral or hawkish bias? Oil holds near $85/barrel on Iran deal uncertainty; gold is near $4,400 and Bitcoin around $70K ahead of the decision. [Source](https://www.chase.com/personal/investments/learning-and-insights/article/kevin-warsh-first-federal-reserve-meeting-as-chair-june-2026)
 
-> [!note]- World: FIFA World Cup Day 4 — five matches Sunday incl. Netherlands vs Japan and Germany vs Curaçao (local10.com)
-> Day 4 of the 2026 FIFA World Cup brings five group-stage matches: Australia vs Turkey (Vancouver), Germany vs Curaçao (Houston, 1pm ET), Netherlands vs Japan (Dallas, 4pm ET), Ivory Coast vs Ecuador (Philadelphia, 7pm ET), and Sweden vs Tunisia (Guadalajara, 10pm ET). Also today: UFC Freedom 250 on the White House South Lawn — Trump's 80th birthday. [Source](https://www.local10.com/sports/2026/06/13/fifa-world-cup-2026-here-is-the-june-14-schedule-for-day-4-of-group-matches/)
+> [!note]- World: Iran deal unsigned as week opens — Trump's Sunday signing claim contradicted by Tehran (CBS News / PBS)
+> President Trump declared on Sunday that a US-Iran ceasefire deal would be signed that day and the Strait of Hormuz would reopen immediately, but Iran's Foreign Ministry contradicted him within hours — the deal remains unsigned entering Monday. Qatari and Pakistani mediators are expected to resume shuttling between Washington and Tehran this week; core sticking points include disposal of Iran's 60%-enriched uranium stockpile (440.9 kg) and verification mechanisms. Polymarket traders price a 61% probability of a formal nuclear agreement by July 31, with the unresolved status keeping oil volatility elevated. [Source](https://www.pbs.org/newshour/world/u-s-and-iranian-negotiators-reach-tentative-deal-to-extend-ceasefire-and-start-new-nuclear-talks)
 
-> [!note]- Malaysia/Singapore: Corporate exodus from Singapore to Malaysia accelerates — CNBC documents wave of HQ relocations (CNBC)
-> CNBC reported on a visible acceleration of companies moving operations from Singapore to Malaysia in 2026, citing H&M relocating its Southeast Asian HQ to Kuala Lumpur and Heineken shifting large-scale production to regional Malaysian and Vietnamese breweries. Cost pressures, labour tightness, and policy signals are cited; Johor is absorbing the bulk of manufacturing relocations, though analysts warn of widening wage inequality. [Source](https://www.cnbc.com/2026/06/11/global-mobility-firms-move-operations-from-singapore-to-malaysia.html)
+> [!note]- Malaysia: Johor BN vs PH — all-seat battle crystallises as June 27 nomination day nears; PAS split reshapes ground (SCMP / The Star)
+> With Johor's nomination day set for June 27 and polling day July 11, Barisan Nasional is finalising its all-56-seat solo strategy against federal coalition partner Pakatan Harapan in an unprecedented contest. The PAS-Bersatu split last week reshapes the Malay vote calculation: without Perikatan Nasional running candidates in Johor, some former PN Malay votes could now flow to BN — or to PH. South China Morning Post analysis frames the election as a test of whether UMNO can convert its Johor stronghold into a GE16 launch pad, while PH aims to show it can win Malay-majority seats without PAS. [Source](https://www.scmp.com/week-asia/politics/article/3355587/snap-polls-malaysias-johor-tests-umno-comeback-bid-and-anwars-ruling-alliance)
 
-> [!note]- Science: China's JUNO neutrino observatory delivers first breakthrough — most precise neutrino oscillation measurement ever (ScienceDaily)
-> The JUNO detector, buried deep underground in China, has published its first major physics result: the most precise measurement yet of neutrino oscillation parameters, advancing understanding of the fundamental matter-antimatter asymmetry that explains why the universe has matter at all. The result helps constrain the "neutrino mass ordering" — a key unknown in particle physics. [Source](https://www.sciencedaily.com/news/top/science/)
+> [!note]- Science: Blood cancer mutations trigger Alzheimer's via inflammatory brain immune cells — first causal link (ScienceDaily)
+> Researchers have found that somatic mutations linked to clonal hematopoiesis — common blood-cell mutations in older adults also associated with leukaemia — drive microglia (the brain's immune cells) to become abnormally inflammatory, accelerating amyloid and tau accumulation linked to Alzheimer's disease. The study establishes for the first time a direct causal pathway from blood-derived mutations to neurodegeneration, raising the possibility that targeting these mutations early could prevent or delay cognitive decline. The finding is especially significant given that clonal hematopoiesis affects an estimated 10–20% of people over 70. [Source](https://www.sciencedaily.com/news/top/science/)
 
-> [!note]- Nike (NKE): ~$45.37 (mkt closed Sun; last close Fri Jun 12) — Citi cuts to $47, UBS to $50; Q4 earnings Jun 30 (Citi / UBS)
-> Markets closed Sunday; last price ~$45.37 (Fri Jun 12, −1.28%). Citi trimmed its target to $47 (from $53) and UBS to $50 (from $54) on June 10, both citing continued inventory challenges and weak China results. The 46-share position (avg $71.69) carries an unrealised loss of ~$1,211. Q4 FY2026 earnings June 30 remain the next hard catalyst. [Source](https://finance.yahoo.com/quote/NKE/)
-
-> **Evening update**
-
-> [!breaking]- World: Trump says Iran deal signing Sunday; Tehran signals delay (CBS News)
-> President Trump declared on Sunday that the US-Iran deal would be signed today and that the Strait of Hormuz would reopen "to all" immediately after, but Iran's Foreign Ministry said the signing "will not be tomorrow" — less than two hours after Pakistan PM Shehbaz Sharif predicted agreement within 24 hours. Qatari mediators travelled to Tehran as the draft framework (60-day ceasefire extension, Hormuz reopening, $24B frozen Iranian assets, Iran committing to no uranium enrichment for 15-20 years) remained contested on core technical points. [Source](https://www.cbsnews.com/live-updates/iran-war-us-trump-peace-deal-agreement/)
-
-> [!note]- SG & MY: Johor polls July 11, Negri Sembilan Aug 1 — BN vs PH on every seat (The Star)
-> Malaysia's Election Commission confirmed July 11 as Johor's polling day (56 seats, 2.73M voters) and August 1 for Negeri Sembilan (36 seats, 889K voters), with nomination days on June 27 and July 18 respectively and a combined election budget of RM167.4 million. In an unprecedented scenario, BN and Pakatan Harapan — federal unity coalition partners — will contest every seat against each other in both states, making the twin elections a critical bellwether for GE16. [Source](https://www.thestar.com.my/news/nation/2026/06/12/state-polls-ec-sets-july-11-for-johor-polling-day-aug-1-for-negri-polling-day)
-
-> [!note]- Malaysia: Rosmah files police report denying US$13M NJ mansion link (FMT)
-> Datin Seri Rosmah Mansor lodged a police report on Sunday categorically denying allegations that she directed and funded the July 2025 purchase of a US$13 million mansion in New Jersey, later transferred to a BVI company in May 2026 — purportedly to secure Najib Razak's release from prison. Prominent businessman Tan Sri Daing A Malek Daing Rahaman separately filed his own report denying being a shareholder of the BVI entity; both called the claims false, malicious, and defamatory and demanded a full investigation into the parties behind the posts. [Source](https://www.freemalaysiatoday.com/category/nation/2026/06/14/rosmah-files-report-over-links-to-purchase-transfer-of-us-mansion)
-
-> [!note]- World: UFC Freedom 250 at White House — Trump turns 80 with MMA bash (ABC News)
-> President Donald Trump marks his 80th birthday today with "UFC Freedom 250," staged in a $60 million, 92-foot temporary octagon on the White House South Lawn — the first professional MMA event held at the presidential residence. Seven bouts are scheduled with 4,000 ticketed fans; Trump's family is expected to attend and the main card begins at 8 pm. The White House called it "a once-in-a-generation celebration of the American fighting spirit," though Trump told Dr Oz he was personally "not happy" about turning 80. [Source](https://abcnews.com/Sports/wireStory/time-rage-cage-white-house-ufc-main-event-133843848)
-
-> [!note]- Tech: ChatGPT falls to 55% — Gemini surges 104%, Claude triples (Momentic)
-> New AI chatbot market data shows ChatGPT's web-visit share has fallen from 76.5% in February 2025 to 54.7% in April 2026, while Google Gemini surged from roughly 5.6% to 27.4% (up 104% in six months) and Anthropic's Claude grew 306% in a single quarter — from 203 million to 824 million monthly visits. In the US, Claude holds a higher 12.5% share with Claude Code widely credited for the surge; the shift marks generative AI's transition from a ChatGPT monoculture to a contested multi-model ecosystem where users route tasks to best-fit tools. [Source](https://momenticmarketing.com/blog/top-ai-chatbots)
-
-> [!note]- Economy: Warsh's FOMC debut Mon — rate hold expected, dot plot key (IndexBox)
-> The Federal Reserve's June 16-17 FOMC meeting — Kevin Warsh's first as Chair after Jerome Powell — is widely expected to hold the federal funds rate at 3.50-3.75% despite May CPI printing at 4.2% (highest since May 2023) and a blowout jobs report (+172K vs 85K forecast). Markets are focused on the dot plot rather than the rate decision itself: whether new projections shift the first cut from late 2026 into 2027, or signal an outright tightening bias; Warsh's press conference tone on Sunday is the key wildcard for risk assets on Monday. [Source](https://www.indexbox.io/blog/fed-meeting-preview-june-1617-fomc-decision-and-potential-bias-shift/)
-
-> **Late update**
-
-> [!note]- World: Germany 7–1 Curaçao — biggest scoreline of World Cup Day 4 (Yahoo Sports)
-> Germany produced the standout result of FIFA World Cup 2026 Day 4, routing Curaçao 7–1 at NRG Stadium in Houston — the tournament's most emphatic win so far. Netherlands also played Japan at AT&T Stadium in Arlington and Ivory Coast faced Ecuador in Philadelphia, with Sweden vs Tunisia in Guadalajara completing the five-match day. Australia defeated Turkey in Vancouver earlier in the day, rounding out a full Group Stage Sunday. [Source](https://sports.yahoo.com/soccer/live/world-cup-2026-live-updates-scores-schedule-results-135432872.html)
-
-> [!note]- AI: Altman, Hassabis & Amodei all join G7 — first summit with all three major lab CEOs (Dataconomy)
-> Sam Altman (OpenAI), Demis Hassabis (Google DeepMind), and Dario Amodei (Anthropic) are all confirmed to attend the G7 Summit in Évian-les-Bains, France, June 15–17 — the first G7 meeting with representation from every major frontier AI lab. AI governance, compute export controls, and international coordination on frontier model safety are expected to dominate the technology agenda alongside world leaders from the G7 nations. [Source](https://dataconomy.com/2026/06/12/ai-leaders-openai-google-deepmind-anthropic-g7-summit/)
+> [!note]- [[06-14-26 Sun]]
+>
+> > [!note]- AI: Bezos bets $12B on "artificial general engineer" to autonomously redesign jet engines and medicines (Bloomberg)
+> > Jeff Bezos has committed $12 billion to a startup building what he calls an "artificial general engineer" — an AI system capable of autonomously redesigning physical products including jet engines, pharmaceuticals, and industrial systems. The bet reflects a broader 2026 shift where AI races are increasingly won at the hardware and simulation layer, not the model layer. [Source](https://merittechnologies.com/technologies-insider-june-2026/)
+>
+> > [!note]- Tech: Google embeds Gemini 3.5 Flash in Search globally — AI agents auto-book and monitor around the clock (Google I/O 2026)
+> > Google announced at I/O 2026 that Gemini 3.5 Flash is now the intelligence layer behind Google Search globally, with "intelligent agents" that continuously monitor information on behalf of users and make automatic bookings. The move marks Google's sharpest pivot from search-as-lookup to search-as-action. [Source](https://techstartups.com/2026/06/12/top-tech-news-today-june-12-2026/)
+>
+> > [!note]- Macro: US-Iran ceasefire pulls Brent from $119 high; Q1 profits +28.6% — double estimates; FOMC Mon–Tue (FactSet / Carnegie)
+> > A fragile US-Iran ceasefire pulled Brent crude back sharply from its late-April high above $119. Q1 S&P 500 profits grew 28.6% — more than double the 13.1% expected at quarter-end — with FactSet's blended net margin hitting 14.8%, a record since 2009. Rate-cut hopes are fading as persistent inflation and oil-price risk push Treasury yields higher; all eyes on FOMC June 16–17. [Source](https://blog.carnegieinvest.com/monthly-market-commentary-june-2026)
+>
+> > [!note]- World: FIFA World Cup Day 4 — five matches Sunday incl. Netherlands vs Japan and Germany vs Curaçao (local10.com)
+> > Day 4 of the 2026 FIFA World Cup brings five group-stage matches: Australia vs Turkey (Vancouver), Germany vs Curaçao (Houston, 1pm ET), Netherlands vs Japan (Dallas, 4pm ET), Ivory Coast vs Ecuador (Philadelphia, 7pm ET), and Sweden vs Tunisia (Guadalajara, 10pm ET). Also today: UFC Freedom 250 on the White House South Lawn — Trump's 80th birthday. [Source](https://www.local10.com/sports/2026/06/13/fifa-world-cup-2026-here-is-the-june-14-schedule-for-day-4-of-group-matches/)
+>
+> > [!note]- Malaysia/Singapore: Corporate exodus from Singapore to Malaysia accelerates — CNBC documents wave of HQ relocations (CNBC)
+> > CNBC reported on a visible acceleration of companies moving operations from Singapore to Malaysia in 2026, citing H&M relocating its Southeast Asian HQ to Kuala Lumpur and Heineken shifting large-scale production to regional Malaysian and Vietnamese breweries. Cost pressures, labour tightness, and policy signals are cited; Johor is absorbing the bulk of manufacturing relocations, though analysts warn of widening wage inequality. [Source](https://www.cnbc.com/2026/06/11/global-mobility-firms-move-operations-from-singapore-to-malaysia.html)
+>
+> > [!note]- Science: China's JUNO neutrino observatory delivers first breakthrough — most precise neutrino oscillation measurement ever (ScienceDaily)
+> > The JUNO detector, buried deep underground in China, has published its first major physics result: the most precise measurement yet of neutrino oscillation parameters, advancing understanding of the fundamental matter-antimatter asymmetry that explains why the universe has matter at all. The result helps constrain the "neutrino mass ordering" — a key unknown in particle physics. [Source](https://www.sciencedaily.com/news/top/science/)
+>
+> > [!note]- Nike (NKE): ~$45.37 (mkt closed Sun; last close Fri Jun 12) — Citi cuts to $47, UBS to $50; Q4 earnings Jun 30 (Citi / UBS)
+> > Markets closed Sunday; last price ~$45.37 (Fri Jun 12, −1.28%). Citi trimmed its target to $47 (from $53) and UBS to $50 (from $54) on June 10, both citing continued inventory challenges and weak China results. The 46-share position (avg $71.69) carries an unrealised loss of ~$1,211. Q4 FY2026 earnings June 30 remain the next hard catalyst. [Source](https://finance.yahoo.com/quote/NKE/)
+>
+> > **Evening update**
+>
+> > [!breaking]- World: Trump says Iran deal signing Sunday; Tehran signals delay (CBS News)
+> > President Trump declared on Sunday that the US-Iran deal would be signed today and that the Strait of Hormuz would reopen "to all" immediately after, but Iran's Foreign Ministry said the signing "will not be tomorrow" — less than two hours after Pakistan PM Shehbaz Sharif predicted agreement within 24 hours. Qatari mediators travelled to Tehran as the draft framework (60-day ceasefire extension, Hormuz reopening, $24B frozen Iranian assets, Iran committing to no uranium enrichment for 15-20 years) remained contested on core technical points. [Source](https://www.cbsnews.com/live-updates/iran-war-us-trump-peace-deal-agreement/)
+>
+> > [!note]- SG & MY: Johor polls July 11, Negri Sembilan Aug 1 — BN vs PH on every seat (The Star)
+> > Malaysia's Election Commission confirmed July 11 as Johor's polling day (56 seats, 2.73M voters) and August 1 for Negeri Sembilan (36 seats, 889K voters), with nomination days on June 27 and July 18 respectively and a combined election budget of RM167.4 million. In an unprecedented scenario, BN and Pakatan Harapan — federal unity coalition partners — will contest every seat against each other in both states, making the twin elections a critical bellwether for GE16. [Source](https://www.thestar.com.my/news/nation/2026/06/12/state-polls-ec-sets-july-11-for-johor-polling-day-aug-1-for-negri-polling-day)
+>
+> > [!note]- Malaysia: Rosmah files police report denying US$13M NJ mansion link (FMT)
+> > Datin Seri Rosmah Mansor lodged a police report on Sunday categorically denying allegations that she directed and funded the July 2025 purchase of a US$13 million mansion in New Jersey, later transferred to a BVI company in May 2026 — purportedly to secure Najib Razak's release from prison. Prominent businessman Tan Sri Daing A Malek Daing Rahaman separately filed his own report denying being a shareholder of the BVI entity; both called the claims false, malicious, and defamatory and demanded a full investigation into the parties behind the posts. [Source](https://www.freemalaysiatoday.com/category/nation/2026/06/14/rosmah-files-report-over-links-to-purchase-transfer-of-us-mansion)
+>
+> > [!note]- World: UFC Freedom 250 at White House — Trump turns 80 with MMA bash (ABC News)
+> > President Donald Trump marks his 80th birthday today with "UFC Freedom 250," staged in a $60 million, 92-foot temporary octagon on the White House South Lawn — the first professional MMA event held at the presidential residence. Seven bouts are scheduled with 4,000 ticketed fans; Trump's family is expected to attend and the main card begins at 8 pm. The White House called it "a once-in-a-generation celebration of the American fighting spirit," though Trump told Dr Oz he was personally "not happy" about turning 80. [Source](https://abcnews.com/Sports/wireStory/time-rage-cage-white-house-ufc-main-event-133843848)
+>
+> > [!note]- Tech: ChatGPT falls to 55% — Gemini surges 104%, Claude triples (Momentic)
+> > New AI chatbot market data shows ChatGPT's web-visit share has fallen from 76.5% in February 2025 to 54.7% in April 2026, while Google Gemini surged from roughly 5.6% to 27.4% (up 104% in six months) and Anthropic's Claude grew 306% in a single quarter — from 203 million to 824 million monthly visits. In the US, Claude holds a higher 12.5% share with Claude Code widely credited for the surge; the shift marks generative AI's transition from a ChatGPT monoculture to a contested multi-model ecosystem where users route tasks to best-fit tools. [Source](https://momenticmarketing.com/blog/top-ai-chatbots)
+>
+> > [!note]- Economy: Warsh's FOMC debut Mon — rate hold expected, dot plot key (IndexBox)
+> > The Federal Reserve's June 16-17 FOMC meeting — Kevin Warsh's first as Chair after Jerome Powell — is widely expected to hold the federal funds rate at 3.50-3.75% despite May CPI printing at 4.2% (highest since May 2023) and a blowout jobs report (+172K vs 85K forecast). Markets are focused on the dot plot rather than the rate decision itself: whether new projections shift the first cut from late 2026 into 2027, or signal an outright tightening bias; Warsh's press conference tone on Sunday is the key wildcard for risk assets on Monday. [Source](https://www.indexbox.io/blog/fed-meeting-preview-june-1617-fomc-decision-and-potential-bias-shift/)
+>
+> > **Late update**
+>
+> > [!note]- World: Germany 7–1 Curaçao — biggest scoreline of World Cup Day 4 (Yahoo Sports)
+> > Germany produced the standout result of FIFA World Cup 2026 Day 4, routing Curaçao 7–1 at NRG Stadium in Houston — the tournament's most emphatic win so far. Netherlands also played Japan at AT&T Stadium in Arlington and Ivory Coast faced Ecuador in Philadelphia, with Sweden vs Tunisia in Guadalajara completing the five-match day. Australia defeated Turkey in Vancouver earlier in the day, rounding out a full Group Stage Sunday. [Source](https://sports.yahoo.com/soccer/live/world-cup-2026-live-updates-scores-schedule-results-135432872.html)
+>
+> > [!note]- AI: Altman, Hassabis & Amodei all join G7 — first summit with all three major lab CEOs (Dataconomy)
+> > Sam Altman (OpenAI), Demis Hassabis (Google DeepMind), and Dario Amodei (Anthropic) are all confirmed to attend the G7 Summit in Évian-les-Bains, France, June 15–17 — the first G7 meeting with representation from every major frontier AI lab. AI governance, compute export controls, and international coordination on frontier model safety are expected to dominate the technology agenda alongside world leaders from the G7 nations. [Source](https://dataconomy.com/2026/06/12/ai-leaders-openai-google-deepmind-anthropic-g7-summit/)
 
 > [!note]- [[06-13-26 Sat]]
 >
