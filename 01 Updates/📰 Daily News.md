@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-06-15T05:09
+updated: 2026-06-15T19:04
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,26 @@ unread: true
 
 > [!note]- Nike (NKE): ~$45.37 (last close Fri Jun 12; markets open today) — Citi $47, UBS $50 post-Jun 10 downgrades; Q4 earnings Jun 30 (Yahoo Finance)
 > Nike enters Monday's session at ~$45.37 (Fri Jun 12 close, −1.28%) with markets reopening after the weekend. Citi trimmed its target to $47 (from $53) and UBS to $50 (from $54) on June 10, both citing inventory challenges and weak China results; the 46-share position (avg $71.69) carries an unrealised loss of ~$1,211. Today's Iran-deal risk-on could provide a modest lift to consumer discretionary. Next hard catalyst: Q4 FY2026 earnings June 30. [Source](https://finance.yahoo.com/quote/NKE/)
+
+> **Evening update**
+
+> [!note]- SG & MY: Singapore widens EV driving licence scope — Class 3/3A holders can drive vehicles up to 3,000kg from today (LTA)
+> From June 15, Class 3 and 3A driving licence holders in Singapore are permitted to drive all electric light goods vehicles and electric small buses with an unladen weight up to 3,000kg — up from the previous 2,500kg cap. The expansion reflects the growing rollout of heavier commercial EVs on Singapore roads and is intended to reduce barriers to EV adoption in the logistics and freight sectors. The change takes effect immediately with no new licence required for existing Class 3/3A holders. [Source](https://sg.news.yahoo.com/)
+
+> [!note]- Malaysia: Social media ban for under-16s hits 2-week mark — platforms face RM10M fines for non-compliance (The Silicon Review)
+> Malaysia's law barring users under 16 from registering social media accounts, which took effect June 1, is now two weeks into enforcement, requiring Facebook, Instagram, TikTok, YouTube, and messaging apps to implement age-verification mechanisms or face fines of up to RM10 million per violation. Malaysia joins Australia as one of the world's strictest digital-access regulators for minors, targeting online harms, mental health impacts, and predatory content exposure. Rights groups have raised concerns about enforcement practicality and data privacy implications of mandatory age verification. [Source](https://thesiliconreview.com/2026/06/malaysia-social-media-ban-under-16s-effective-june-1-2026)
+
+> [!breaking]- World: Russia's overnight blitz sets UNESCO Kyiv Pechersk Lavra ablaze — 4 killed, 140K without power (CNN / Kyiv Independent)
+> A massive Russian overnight barrage of 611 drones and 70 missiles struck Kyiv on June 14–15, igniting a fire at the UNESCO-listed Kyiv Pechersk Lavra — Ukraine's holiest religious site, dating to the 11th century — damaging the Dormition Cathedral's roof across 800 square metres. At least four people were killed and more than 20 wounded in the capital, with 140,000 households left without power across northern Kyiv. Metropolitan Epiphanius called the attack "a Russian crime against humanity, against history, against Christianity," while world leaders condemned the targeting of a World Heritage site. [Source](https://www.cnn.com/2026/06/14/europe/kyiv-pechersk-lavra-monastery-fire-russian-attack-intl-hnk)
+
+> [!note]- World: US-Iran framework deal sealed at G7 — Trump declares pact "now complete," Hormuz reopening on summit table (Euronews / NBC News)
+> The United States and Iran reached a framework agreement to end fighting and reopen the Strait of Hormuz, with President Trump declaring the deal "now complete" on June 14 ahead of a formal signing ceremony scheduled for June 19 in Switzerland. G7 leaders convening in Évian-les-Bains are today, June 15, formally discussing the lasting Hormuz reopening, support for Lebanon, and an accord on Iranian nuclear and ballistic activities. The breakthrough follows days of contradictory signals from both sides, brokered by Qatari and Pakistani mediators, and closes out the morning's uncertainty on whether a deal would hold. [Source](https://www.euronews.com/my-europe/2026/06/15/europe-today-us-and-iran-strike-framework-deal-as-trump-heads-to-europe-for-g7-summit)
+
+> [!note]- Tech: Goldman Sachs projects $7.6 trillion in AI capex 2026–2031; NVIDIA and SK hynix announce next-gen memory partnership (Build Fast With AI)
+> Goldman Sachs estimates cumulative AI capital expenditure from 2026 to 2031 will reach $7.6 trillion — nearly one-quarter of annual US GDP, exceeding all global internet infrastructure investment of the 1990s and 2000s — spanning compute, data centres, and power. NVIDIA and SK hynix separately announced a multiyear partnership to co-develop next-generation HBM memory aligned with NVIDIA's AI infrastructure roadmap, deepening the two firms' position at the centre of the AI compute supply chain. JPMorgan Chase also formally reclassified its AI investments from R&D to core infrastructure, committing $19.8 billion in technology spending and 2,000 dedicated AI staff for 2026. [Source](https://www.buildfastwithai.com/blogs/ai-news-today-june-15-2026)
+
+> [!note]- Economy: US wholesale prices up 6.5% YoY — fastest in 4 years — as Warsh's debut FOMC opens tomorrow (IndexBox / Build Fast With AI)
+> US producer prices rose 6.5% year-on-year — the fastest pace in nearly four years — adding fresh upside inflation pressure ahead of Kevin Warsh's inaugural Federal Open Market Committee meeting opening Tuesday, June 16. Markets price near-certainty of a hold at 3.50–3.75%, but the elevated PPI print will sharpen scrutiny of the dot plot and whether new projections push the first cut from late 2026 into 2027. Oil near $85/barrel on Iran deal optimism, gold around $4,400, and Bitcoin near $70K are all sensitive to Warsh's Wednesday press conference tone. [Source](https://www.indexbox.io/blog/fed-meeting-preview-june-1617-fomc-decision-and-potential-bias-shift/)
 
 > [!note]- [[06-14-26 Sun]]
 >
