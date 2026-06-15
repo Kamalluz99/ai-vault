@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-06-15T19:04
+updated: 2026-06-15T23:30
 topic: daily news
 frequency: daily
 ongoing: false
@@ -103,6 +103,17 @@ unread: true
 
 > [!note]- Economy: US wholesale prices up 6.5% YoY — fastest in 4 years — as Warsh's debut FOMC opens tomorrow (IndexBox / Build Fast With AI)
 > US producer prices rose 6.5% year-on-year — the fastest pace in nearly four years — adding fresh upside inflation pressure ahead of Kevin Warsh's inaugural Federal Open Market Committee meeting opening Tuesday, June 16. Markets price near-certainty of a hold at 3.50–3.75%, but the elevated PPI print will sharpen scrutiny of the dot plot and whether new projections push the first cut from late 2026 into 2027. Oil near $85/barrel on Iran deal optimism, gold around $4,400, and Bitcoin near $70K are all sensitive to Warsh's Wednesday press conference tone. [Source](https://www.indexbox.io/blog/fed-meeting-preview-june-1617-fomc-decision-and-potential-bias-shift/)
+
+> **Late update**
+
+> [!note]- World: G7 Day 1 — EU withholds Iran sanctions relief pending "real change on ground" (Euronews / CNN)
+> G7 leaders convened in Évian-les-Bains on Day 1 of the 52nd summit with the US-Iran framework deal dominating opening sessions. European Commission President Ursula von der Leyen said EU sanctions relief on Iran would depend on "real change on the ground," marking the first public rift between Washington and Brussels over deal implementation. No joint communiqué is planned for this summit — expectations are described as managing divergences rather than resolving them — with Russia-Ukraine, AI, and Chinese competition also on the table. [Source](https://www.euronews.com/my-europe/2026/06/15/g7-summit-leaders-set-to-arrive-in-evian-after-us-iran-ceasefire-deal)
+
+> [!note]- Malaysia: LRT3 Shah Alam Line confirmed ready for end-June launch after smooth trials (The Star)
+> Transport Minister Anthony Loke confirmed on June 15 that the LRT3 Shah Alam Line — running from Bandar Utama (Petaling Jaya) to Johan Setia (Klang) — is ready for operations by end of June 2026 following successful fault-free trial runs, with the exact opening date to be announced within two weeks. Originally due July 2025, the line was delayed twice due to signalling system faults; its launch adds a key 37-station rail corridor serving the western Klang Valley. [Source](https://www.thestar.com.my/news/nation/2026/06/15/lrt3-shah-alam-line-ready-for-operations-by-end-june-after-smooth-trial-runs-says-loke)
+
+> [!note]- Nike (NKE): Actual close $45.11 (−0.20%) — unrealised P&L −$1,223; FOMC & Juneteenth week ahead (Yahoo Finance)
+> Nike closed at $45.11 on June 15 (range $44.84–$46.29, volume 16.52M shares), down $0.09 (−0.20%) — slightly below the pre-market $45.37 estimate. The 46-share position (avg $71.69) carries an unrealised loss of −$1,223 (46 × −$26.58). Warsh's debut FOMC decision lands Wednesday June 17 — a neutral-to-dovish tone could lift consumer discretionary — while US markets close Friday June 19 for Juneteenth, shortening the trading week. [Source](https://finance.yahoo.com/quote/NKE/)
 
 > [!note]- [[06-14-26 Sun]]
 >
