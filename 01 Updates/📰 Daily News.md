@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-06-16T21:08
+updated: 2026-06-17T05:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -61,59 +61,82 @@ unread: true
 
 ## 2026-06
 
-### [[06-16-26 Tue]]
+### [[06-17-26 Wed]]
 
-> [!note]- AI: Claude Sonnet 4.8 & GPT-5.6 both target mid-June launch — model competition intensifies (BuildFastWithAI)
-> Anthropic and OpenAI are both targeting mid-June for their next flagship releases — Claude Sonnet 4.8 and GPT-5.6 — intensifying competition at the mid-tier frontier. Alibaba's Qwen 3.7 Max is drawing developer attention at ~$1.50/$6 per million tokens vs. Sonnet 4.6 at $3/$15, compressing margins. Colorado's Consumer Protections for Artificial Intelligence Act — the first comprehensive US state AI law — takes effect June 30. [Source](https://www.buildfastwithai.com/blogs/ai-news-today-june-6-2026)
+> [!note]- AI: India AI Impact Summit 2026 convenes as global AI governance coordination accelerates (Wikipedia / LLM Stats)
+> Governments and labs are deepening coordination on AI governance in mid-June 2026, with the India AI Impact Summit convening this month alongside Colorado's Consumer Protections AI Act taking effect June 30 — the first comprehensive US state AI law. Multiple frontier model updates continue to roll out mid-month with Claude Sonnet 4.8 and GPT-5.6 both targeting mid-June launches, intensifying multi-model competition. [Source](https://en.wikipedia.org/wiki/India_AI_Impact_Summit_2026)
 
-> [!note]- Tech: SpaceX SPCX index inclusion drives passive buying wave; Nvidia quietly re-enters China via Vera CPU (TechStartups)
-> SpaceX's first full week as a public company ($1.77T valuation, listed as SPCX on Nasdaq) triggers mandatory passive fund buying as index inclusion kicks in globally. Simultaneously, Nvidia is reopening its China business with the new Vera CPU — its first major China-facing product since tightened US export controls, signalling a partial softening of the semiconductor lockout. [Source](https://techstartups.com/2026/06/12/top-tech-news-today-june-12-2026/)
+> [!note]- Tech: SpaceX SPCX enters Week 2 as a public company — index-inclusion buying wave continues at $1.77T valuation (TechStartups)
+> SpaceX enters its second week as a listed company on Nasdaq (SPCX) at a ~$1.77 trillion market cap after pricing the largest IPO in history at $75B raised on June 12. Mandatory passive-fund absorption from global index inclusions continues to drive institutional buying, while Jeff Bezos's $12B "artificial general engineer" bet dominates tech headlines as physical AI week continues. [Source](https://techstartups.com/2026/06/12/top-tech-news-today-june-12-2026/)
 
-> [!note]- Macro: Warsh's debut FOMC opens today — 97% hold; BoJ rate decision also today; housing starts due (Kiplinger)
-> Kevin Warsh's first FOMC meeting as Federal Reserve Chair (June 16–17) opens today with a 97% market-implied probability of a hold at 3.50–3.75%. The Bank of Japan also announces its rate decision today, and US housing starts and building permits data release this morning — a data-heavy Tuesday before Wednesday's FOMC statement and Warsh press conference. [Source](https://www.kiplinger.com/news/live/fed-meeting-updates-and-commentary-june-2026)
+> [!breaking]- Macro: Warsh holds at 3.50–3.75% in debut FOMC decision — press conference 2:30pm ET; 70% of market warning signals flashing (StockTitan / Kiplinger)
+> The Fed held the target range at 3.50–3.75% today in Kevin Warsh's debut rate decision as Chair, with all eyes now on his 2:30pm ET press conference and the updated dot plot. Seventy percent of stock market warning signals are flashing as CPI holds at 4% YoY (core 3%) and futures markets shift toward pricing a hike rather than a cut in H2 2026 — making Warsh's communication the most closely watched Fed moment since the rate-hike cycle began. [Source](https://www.stocktitan.net/articles/fed-rate-decision-june-17-2026)
 
-> [!breaking]- World: US-Iran deal signing set June 19 in Switzerland; Knicks win first NBA title in 50+ years (Wikipedia / CBS Sports)
-> The US-Iran framework agreement — covering a Strait of Hormuz reopening, 60-day ceasefire extension, and nuclear talks — is set for a formal signing in Switzerland on June 19 following Trump's G7 declaration. In sports, the New York Knicks defeated the San Antonio Spurs 94-90 to claim their first NBA championship since 1973, flooding Manhattan streets with celebrating fans. [Source](https://en.wikipedia.org/wiki/Portal:Current_events/June_2026)
+> [!note]- World: FIFA World Cup Day 6 — France, Argentina & Portugal kick off; US-Iran signing set Thursday in Switzerland (ESPN / Euronews)
+> Day 6 of the 2026 FIFA World Cup brings the tournament's biggest names: France vs Senegal, Argentina vs Algeria, and Portugal vs DR Congo head a packed schedule alongside Norway vs Iraq and Austria vs Jordan. Off the pitch, the formal US-Iran deal signing ceremony remains set for Thursday June 19 in Geneva, with Brent crude (~$83) still pricing in the risk premium pending the formal ceremony. [Source](https://www.espn.com/soccer/scoreboard/_/league/fifa.world/date/20260617)
 
-> [!note]- Malaysia/Singapore: Malaysia LRT3 ready — Transport Minister says launch date to be confirmed within 2 weeks (Bernama)
-> Transport Minister Anthony Loke confirmed on June 15 that Malaysia's long-delayed LRT3 line (Bandar Utama to Johan Setia, 37 stations) is operationally ready, with the official launch date to be announced within two weeks — targeting end of June 2026. LRT3 fills a major gap in the Klang Valley rail network and is a flagship Madani government infrastructure project. [Source](https://asean.bernama.com/news.php?id=2565414)
+> [!note]- Malaysia/Singapore: PM Anwar leads Malaysia to ASEAN-Russia Commemorative Summit in Kazan (Jun 17–18) (Bernama / Pravda SG)
+> Prime Minister Datuk Seri Anwar Ibrahim is leading the Malaysian delegation to the ASEAN-Russia Commemorative Summit in Kazan, Russia (June 17–18), alongside the PMs of Vietnam, Cambodia, Laos, Singapore, Thailand, and East Timor. The summit is expected to adopt four joint documents including the Kazan Declaration and a Comprehensive Plan of Action for the Russia-ASEAN strategic partnership for 2026–2030. [Source](https://singapore.news-pravda.com/world/2026/06/17/2067.html)
 
-> [!note]- Science: SpX-34 Cargo Dragon departs ISS today; Oxford creates new Schrödinger's cat-type quantum state (SpacePolicyOnline / ScienceNews)
-> SpaceX's 34th ISS cargo resupply mission (SpX-34) undocked at 12:05 pm ET today with NASA coverage from 11:45 am ET. Separately, Oxford physicists created an entirely new Schrödinger's cat-like quantum state that extends qubit coherence in previously undemonstrated ways, opening pathways to more resilient quantum computing. [Source](https://spacepolicyonline.com/events/spx-34-departs-iss-june-16-2026-1205-pm-et-nasa-coverage-begins-1145-am-et/)
+> [!note]- Science: Moon occults Venus tonight (Jun 17) — visible from US, Canada, Brazil, Venezuela; NASA Katalyst Space telecon today (NASA Science)
+> On June 17, the Moon will pass directly in front of Venus in a rare lunar occultation, making Venus disappear behind the Moon and reappear — visible from parts of the United States, Canada, Brazil, and Venezuela. NASA is also hosting an audio teleconference at 11am EDT to preview the Katalyst Space mission, which will boost the orbit of NASA's Neil Gehrels Swift Observatory. [Source](https://science.nasa.gov/solar-system/whats-up-june-2026-skywatching-tips-from-nasa/)
 
-> [!note]- Nike (NKE): $45.20 (+0.68%) — Q4 FY2026 earnings June 30; 46 shares avg $71.69 = ~−$1,219 unrealised (Yahoo Finance)
-> Nike closed Monday June 15 at $45.20, up $0.31 (+0.68%) on quiet risk-on trade. The 46-share position at avg cost $71.69 carries an unrealised loss of approximately −$1,219 (46 × −$26.49). Q4 FY2026 earnings June 30 remain the next hard catalyst; analyst consensus targets $59.58 avg (Buy, 32% upside). [Source](https://finance.yahoo.com/quote/NKE/)
+> [!note]- Nike (NKE): ~$45.20 (Jun 15/16 latest close, +0.68%) — FOMC press conference today; 46 shares avg $71.69 = ~−$1,219 unrealised (Yahoo Finance)
+> Nike's latest available price is ~$45.20 (+$0.31/+0.68% on June 15), with day range $45.09–$46.09 and 52-week range $41.35–$80.17. The 46-share position (avg $71.69) carries an unrealised loss of ~$1,219 (46 × −$26.49). Warsh's 2:30pm ET press conference today is a key short-term catalyst — a neutral tone could lift consumer discretionary; Q4 FY2026 earnings land June 30. [Source](https://finance.yahoo.com/quote/NKE/)
 
-> **Evening update**
-
-> [!note]- SG & MY: Singapore dengue hits 2026 weekly record — 119 cases, four red-alert clusters (Yahoo News SG)
-> Singapore recorded 119 dengue cases in the week ending June 13 — the highest weekly total of 2026, up 39 from the prior week — with 12 active clusters including four on red alert, the largest being a 34-case cluster around Countryside Road/Lentor Avenue. Cumulative 2026 cases stand at 938 through June 13, still well below 2025 levels, but the NEA warns the island has entered peak mosquito season. Residents near affected clusters are urged to eliminate standing water and use repellent. [Source](https://sg.news.yahoo.com/119-dengue-cases-recorded-singapore-042700768.html)
-
-> [!note]- Malaysia: Norway revokes Naval Strike Missile export licence — KL weighs alternative suppliers (Free Malaysia Today)
-> Norway has revoked the export licence for its Naval Strike Missile system that Malaysia was in the process of acquiring for its naval fleet, forcing Kuala Lumpur to assess alternative anti-ship missile sources as South China Sea tensions remain elevated. Defence analysts expect Malaysia to approach European or South Korean manufacturers to fill the resulting capability gap. The decision underscores the growing geopolitical sensitivity surrounding advanced weapons exports across Southeast Asia. [Source](https://www.freemalaysiatoday.com/)
-
-> [!note]- World: Oil falls nearly 5% as Iran-Hormuz deal crystallises — Brent at $83, US crude at $80; shippers cautious (CNBC)
-> Crude oil dropped sharply on confirmation of the US-Iran framework deal — Brent futures settling at $83.17 (−4.8%) and US crude at $80.75 (−4.9%) — as markets unwound the Gulf conflict risk premium built up over months of tensions. Shipping trade body Bimco cautioned that the deal's vague language on Hormuz routing and timing leaves commercial navigators in uncertainty until the formal June 19 signing ceremony in Switzerland. Stock markets rallied strongly, with the Nasdaq gaining over 3% and the Dow up nearly 470 points on the news. [Source](https://www.cnbc.com/2026/06/14/oil-price-iran-war-strait-hormuz-peace-deal.html)
-
-> [!note]- World: Bank of Japan raises key rate to 1.00% — landmark dual central-bank day as FOMC also meets (Kiplinger)
-> The Bank of Japan lifted its benchmark rate to 1.00% in today's policy decision, extending its gradual exit from decades of ultra-loose monetary policy and reaching its highest rate level since before the global financial crisis. The BoJ move coincides with the opening of Kevin Warsh's inaugural Federal Reserve FOMC meeting — where a hold at 3.50–3.75% is near-universally expected, with attention focused on the dot plot and Wednesday's press conference. Together, the two decisions make June 16 a landmark day in the global shift away from the cheap-money era. [Source](https://www.kiplinger.com/news/live/fed-meeting-updates-and-commentary-june-2026)
-
-> [!note]- Tech: BYD enters humanoid robotics; Uber launches robotaxis in Spain — AI moves into the physical world (Crescendo AI)
-> BYD, the world's largest electric vehicle maker, announced its entry into the humanoid robotics sector, joining Tesla, Boston Dynamics, and a growing field of Chinese manufacturers pivoting to embodied AI for manufacturing and logistics. Simultaneously, Uber launched commercial robotaxi services in Spain in partnership with Israeli autonomous driving startup Autobrains Technologies on NVIDIA's Drive Hyperion platform, expanding driverless passenger transport in Europe. The dual announcements mark AI's rapid expansion from software into physical-world applications. [Source](https://www.crescendo.ai/news/latest-ai-news-and-updates)
-
-> [!note]- Science/Economy: World Bank June 2026 report: global growth slows to 2.7% — weakest EM pace since pandemic (World Bank)
-> The World Bank's June 2026 Global Economic Prospects report projects world GDP growth will slow to 2.7% in 2026 — below 2025 and the pre-pandemic average — with emerging market economies facing their most constrained environment since COVID-19 under the weight of high debt, persistent inflation near 3%, and geopolitical headwinds. Counterbalancing the macro weakness, J.P. Morgan estimates the AI investment supercycle is driving 13–15% above-trend corporate earnings growth for at least another two years. The World Bank is today hosting its ABCDE jobs conference in Washington alongside the report's release. [Source](https://openknowledge.worldbank.org/entities/publication/e96798d7-a81d-44ea-8287-1b4d6ea83f75)
-
-> **Night update**
-
-> [!note]- World: France 2-0 Senegal — Mbappé opens World Cup 2026 at MetLife Stadium (FIFA / CBS Sports)
-> France launched their 2026 FIFA World Cup Group I campaign with a commanding 2-0 win over Senegal at MetLife Stadium in New Jersey, with Kylian Mbappé netting the opener via a right-footed shot from the centre of the box assisted by Michael Olise. The result puts Les Bleus top of Group I; Argentina face Algeria later tonight at Arrowhead Stadium in Kansas City. The 2026 World Cup — co-hosted by the US, Canada, and Mexico — is six days into its opening group stage across 16 host venues. [Source](https://www.fifa.com/en/match-centre/match/17/285023/289273/400021490)
-
-> [!note]- Malaysia: PM Anwar departs for ASEAN-Russia Kazan Summit — Putin attending; 4 outcome docs (Bernama / The Star)
-> Prime Minister Anwar Ibrahim departed today for the ASEAN-Russia Commemorative Summit in Kazan on June 17–18, marking the 35th anniversary of ASEAN-Russia relations. Putin is confirmed to attend; Anwar will deliver a keynote at the ASEAN-Russia Business Forum, attend a Putin-hosted reception, and hold bilateral meetings. Four outcome documents are expected: the Kazan Declaration, joint statements on energy and cultural cooperation, and an ASEAN-Russia Strategic Partnership Plan 2026–2030. [Source](https://asean.bernama.com/news.php?id=2569258)
-
-> [!note]- Science: UV + hydrogen radicals destroy PFAS "forever chemicals" — no added reagents needed (ScienceDaily / New Atlas)
-> Aarhus University researchers have identified hydrogen radicals — generated by exposing water to high-energy UV light below 300 nm — as the dominant mechanism for breaking down PFAS fluorochemicals, with no added chemical reagents required. The discovery corrects earlier models that attributed PFAS degradation to other reactive species, giving engineers a clearer blueprint for scalable, sustainable water-treatment systems. The process remains relatively slow and may produce intermediate byproducts, but the mechanistic clarity is a significant advance in addressing global PFAS contamination. [Source](https://www.sciencedaily.com/releases/2026/06/260615033846.htm)
+> [!note]- [[06-16-26 Tue]]
+>
+> > [!note]- AI: Claude Sonnet 4.8 & GPT-5.6 both target mid-June launch — model competition intensifies (BuildFastWithAI)
+> > Anthropic and OpenAI are both targeting mid-June for their next flagship releases — Claude Sonnet 4.8 and GPT-5.6 — intensifying competition at the mid-tier frontier. Alibaba's Qwen 3.7 Max is drawing developer attention at ~$1.50/$6 per million tokens vs. Sonnet 4.6 at $3/$15, compressing margins. Colorado's Consumer Protections for Artificial Intelligence Act — the first comprehensive US state AI law — takes effect June 30. [Source](https://www.buildfastwithai.com/blogs/ai-news-today-june-6-2026)
+>
+> > [!note]- Tech: SpaceX SPCX index inclusion drives passive buying wave; Nvidia quietly re-enters China via Vera CPU (TechStartups)
+> > SpaceX's first full week as a public company ($1.77T valuation, listed as SPCX on Nasdaq) triggers mandatory passive fund buying as index inclusion kicks in globally. Simultaneously, Nvidia is reopening its China business with the new Vera CPU — its first major China-facing product since tightened US export controls, signalling a partial softening of the semiconductor lockout. [Source](https://techstartups.com/2026/06/12/top-tech-news-today-june-12-2026/)
+>
+> > [!note]- Macro: Warsh's debut FOMC opens today — 97% hold; BoJ rate decision also today; housing starts due (Kiplinger)
+> > Kevin Warsh's first FOMC meeting as Federal Reserve Chair (June 16–17) opens today with a 97% market-implied probability of a hold at 3.50–3.75%. The Bank of Japan also announces its rate decision today, and US housing starts and building permits data release this morning — a data-heavy Tuesday before Wednesday's FOMC statement and Warsh press conference. [Source](https://www.kiplinger.com/news/live/fed-meeting-updates-and-commentary-june-2026)
+>
+> > [!breaking]- World: US-Iran deal signing set June 19 in Switzerland; Knicks win first NBA title in 50+ years (Wikipedia / CBS Sports)
+> > The US-Iran framework agreement — covering a Strait of Hormuz reopening, 60-day ceasefire extension, and nuclear talks — is set for a formal signing in Switzerland on June 19 following Trump's G7 declaration. In sports, the New York Knicks defeated the San Antonio Spurs 94-90 to claim their first NBA championship since 1973, flooding Manhattan streets with celebrating fans. [Source](https://en.wikipedia.org/wiki/Portal:Current_events/June_2026)
+>
+> > [!note]- Malaysia/Singapore: Malaysia LRT3 ready — Transport Minister says launch date to be confirmed within 2 weeks (Bernama)
+> > Transport Minister Anthony Loke confirmed on June 15 that Malaysia's long-delayed LRT3 line (Bandar Utama to Johan Setia, 37 stations) is operationally ready, with the official launch date to be announced within two weeks — targeting end of June 2026. LRT3 fills a major gap in the Klang Valley rail network and is a flagship Madani government infrastructure project. [Source](https://asean.bernama.com/news.php?id=2565414)
+>
+> > [!note]- Science: SpX-34 Cargo Dragon departs ISS today; Oxford creates new Schrödinger's cat-type quantum state (SpacePolicyOnline / ScienceNews)
+> > SpaceX's 34th ISS cargo resupply mission (SpX-34) undocked at 12:05 pm ET today with NASA coverage from 11:45 am ET. Separately, Oxford physicists created an entirely new Schrödinger's cat-like quantum state that extends qubit coherence in previously undemonstrated ways, opening pathways to more resilient quantum computing. [Source](https://spacepolicyonline.com/events/spx-34-departs-iss-june-16-2026-1205-pm-et-nasa-coverage-begins-1145-am-et/)
+>
+> > [!note]- Nike (NKE): $45.20 (+0.68%) — Q4 FY2026 earnings June 30; 46 shares avg $71.69 = ~−$1,219 unrealised (Yahoo Finance)
+> > Nike closed Monday June 15 at $45.20, up $0.31 (+0.68%) on quiet risk-on trade. The 46-share position at avg cost $71.69 carries an unrealised loss of approximately −$1,219 (46 × −$26.49). Q4 FY2026 earnings June 30 remain the next hard catalyst; analyst consensus targets $59.58 avg (Buy, 32% upside). [Source](https://finance.yahoo.com/quote/NKE/)
+>
+> > **Evening update**
+>
+> > [!note]- SG & MY: Singapore dengue hits 2026 weekly record — 119 cases, four red-alert clusters (Yahoo News SG)
+> > Singapore recorded 119 dengue cases in the week ending June 13 — the highest weekly total of 2026, up 39 from the prior week — with 12 active clusters including four on red alert, the largest being a 34-case cluster around Countryside Road/Lentor Avenue. Cumulative 2026 cases stand at 938 through June 13, still well below 2025 levels, but the NEA warns the island has entered peak mosquito season. Residents near affected clusters are urged to eliminate standing water and use repellent. [Source](https://sg.news.yahoo.com/119-dengue-cases-recorded-singapore-042700768.html)
+>
+> > [!note]- Malaysia: Norway revokes Naval Strike Missile export licence — KL weighs alternative suppliers (Free Malaysia Today)
+> > Norway has revoked the export licence for its Naval Strike Missile system that Malaysia was in the process of acquiring for its naval fleet, forcing Kuala Lumpur to assess alternative anti-ship missile sources as South China Sea tensions remain elevated. Defence analysts expect Malaysia to approach European or South Korean manufacturers to fill the resulting capability gap. The decision underscores the growing geopolitical sensitivity surrounding advanced weapons exports across Southeast Asia. [Source](https://www.freemalaysiatoday.com/)
+>
+> > [!note]- World: Oil falls nearly 5% as Iran-Hormuz deal crystallises — Brent at $83, US crude at $80; shippers cautious (CNBC)
+> > Crude oil dropped sharply on confirmation of the US-Iran framework deal — Brent futures settling at $83.17 (−4.8%) and US crude at $80.75 (−4.9%) — as markets unwound the Gulf conflict risk premium built up over months of tensions. Shipping trade body Bimco cautioned that the deal's vague language on Hormuz routing and timing leaves commercial navigators in uncertainty until the formal June 19 signing ceremony in Switzerland. Stock markets rallied strongly, with the Nasdaq gaining over 3% and the Dow up nearly 470 points on the news. [Source](https://www.cnbc.com/2026/06/14/oil-price-iran-war-strait-hormuz-peace-deal.html)
+>
+> > [!note]- World: Bank of Japan raises key rate to 1.00% — landmark dual central-bank day as FOMC also meets (Kiplinger)
+> > The Bank of Japan lifted its benchmark rate to 1.00% in today's policy decision, extending its gradual exit from decades of ultra-loose monetary policy and reaching its highest rate level since before the global financial crisis. The BoJ move coincides with the opening of Kevin Warsh's inaugural Federal Reserve FOMC meeting — where a hold at 3.50–3.75% is near-universally expected, with attention focused on the dot plot and Wednesday's press conference. Together, the two decisions make June 16 a landmark day in the global shift away from the cheap-money era. [Source](https://www.kiplinger.com/news/live/fed-meeting-updates-and-commentary-june-2026)
+>
+> > [!note]- Tech: BYD enters humanoid robotics; Uber launches robotaxis in Spain — AI moves into the physical world (Crescendo AI)
+> > BYD, the world's largest electric vehicle maker, announced its entry into the humanoid robotics sector, joining Tesla, Boston Dynamics, and a growing field of Chinese manufacturers pivoting to embodied AI for manufacturing and logistics. Simultaneously, Uber launched commercial robotaxi services in Spain in partnership with Israeli autonomous driving startup Autobrains Technologies on NVIDIA's Drive Hyperion platform, expanding driverless passenger transport in Europe. The dual announcements mark AI's rapid expansion from software into physical-world applications. [Source](https://www.crescendo.ai/news/latest-ai-news-and-updates)
+>
+> > [!note]- Science/Economy: World Bank June 2026 report: global growth slows to 2.7% — weakest EM pace since pandemic (World Bank)
+> > The World Bank's June 2026 Global Economic Prospects report projects world GDP growth will slow to 2.7% in 2026 — below 2025 and the pre-pandemic average — with emerging market economies facing their most constrained environment since COVID-19 under the weight of high debt, persistent inflation near 3%, and geopolitical headwinds. Counterbalancing the macro weakness, J.P. Morgan estimates the AI investment supercycle is driving 13–15% above-trend corporate earnings growth for at least another two years. The World Bank is today hosting its ABCDE jobs conference in Washington alongside the report's release. [Source](https://openknowledge.worldbank.org/entities/publication/e96798d7-a81d-44ea-8287-1b4d6ea83f75)
+>
+> > **Night update**
+>
+> > [!note]- World: France 2-0 Senegal — Mbappé opens World Cup 2026 at MetLife Stadium (FIFA / CBS Sports)
+> > France launched their 2026 FIFA World Cup Group I campaign with a commanding 2-0 win over Senegal at MetLife Stadium in New Jersey, with Kylian Mbappé netting the opener via a right-footed shot from the centre of the box assisted by Michael Olise. The result puts Les Bleus top of Group I; Argentina face Algeria later tonight at Arrowhead Stadium in Kansas City. The 2026 World Cup — co-hosted by the US, Canada, and Mexico — is six days into its opening group stage across 16 host venues. [Source](https://www.fifa.com/en/match-centre/match/17/285023/289273/400021490)
+>
+> > [!note]- Malaysia: PM Anwar departs for ASEAN-Russia Kazan Summit — Putin attending; 4 outcome docs (Bernama / The Star)
+> > Prime Minister Anwar Ibrahim departed today for the ASEAN-Russia Commemorative Summit in Kazan on June 17–18, marking the 35th anniversary of ASEAN-Russia relations. Putin is confirmed to attend; Anwar will deliver a keynote at the ASEAN-Russia Business Forum, attend a Putin-hosted reception, and hold bilateral meetings. Four outcome documents are expected: the Kazan Declaration, joint statements on energy and cultural cooperation, and an ASEAN-Russia Strategic Partnership Plan 2026–2030. [Source](https://asean.bernama.com/news.php?id=2569258)
+>
+> > [!note]- Science: UV + hydrogen radicals destroy PFAS "forever chemicals" — no added reagents needed (ScienceDaily / New Atlas)
+> > Aarhus University researchers have identified hydrogen radicals — generated by exposing water to high-energy UV light below 300 nm — as the dominant mechanism for breaking down PFAS fluorochemicals, with no added chemical reagents required. The discovery corrects earlier models that attributed PFAS degradation to other reactive species, giving engineers a clearer blueprint for scalable, sustainable water-treatment systems. The process remains relatively slow and may produce intermediate byproducts, but the mechanistic clarity is a significant advance in addressing global PFAS contamination. [Source](https://www.sciencedaily.com/releases/2026/06/260615033846.htm)
 
 > [!note]- [[06-15-26 Mon]]
 >
