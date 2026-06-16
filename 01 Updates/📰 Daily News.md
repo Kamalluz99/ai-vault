@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-06-16T07:30
+updated: 2026-06-16T19:06
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,26 @@ unread: true
 
 > [!note]- Nike (NKE): $45.20 (+0.68%) — Q4 FY2026 earnings June 30; 46 shares avg $71.69 = ~−$1,219 unrealised (Yahoo Finance)
 > Nike closed Monday June 15 at $45.20, up $0.31 (+0.68%) on quiet risk-on trade. The 46-share position at avg cost $71.69 carries an unrealised loss of approximately −$1,219 (46 × −$26.49). Q4 FY2026 earnings June 30 remain the next hard catalyst; analyst consensus targets $59.58 avg (Buy, 32% upside). [Source](https://finance.yahoo.com/quote/NKE/)
+
+> **Evening update**
+
+> [!note]- SG & MY: Singapore dengue hits 2026 weekly record — 119 cases, four red-alert clusters (Yahoo News SG)
+> Singapore recorded 119 dengue cases in the week ending June 13 — the highest weekly total of 2026, up 39 from the prior week — with 12 active clusters including four on red alert, the largest being a 34-case cluster around Countryside Road/Lentor Avenue. Cumulative 2026 cases stand at 938 through June 13, still well below 2025 levels, but the NEA warns the island has entered peak mosquito season. Residents near affected clusters are urged to eliminate standing water and use repellent. [Source](https://sg.news.yahoo.com/119-dengue-cases-recorded-singapore-042700768.html)
+
+> [!note]- Malaysia: Norway revokes Naval Strike Missile export licence — KL weighs alternative suppliers (Free Malaysia Today)
+> Norway has revoked the export licence for its Naval Strike Missile system that Malaysia was in the process of acquiring for its naval fleet, forcing Kuala Lumpur to assess alternative anti-ship missile sources as South China Sea tensions remain elevated. Defence analysts expect Malaysia to approach European or South Korean manufacturers to fill the resulting capability gap. The decision underscores the growing geopolitical sensitivity surrounding advanced weapons exports across Southeast Asia. [Source](https://www.freemalaysiatoday.com/)
+
+> [!note]- World: Oil falls nearly 5% as Iran-Hormuz deal crystallises — Brent at $83, US crude at $80; shippers cautious (CNBC)
+> Crude oil dropped sharply on confirmation of the US-Iran framework deal — Brent futures settling at $83.17 (−4.8%) and US crude at $80.75 (−4.9%) — as markets unwound the Gulf conflict risk premium built up over months of tensions. Shipping trade body Bimco cautioned that the deal's vague language on Hormuz routing and timing leaves commercial navigators in uncertainty until the formal June 19 signing ceremony in Switzerland. Stock markets rallied strongly, with the Nasdaq gaining over 3% and the Dow up nearly 470 points on the news. [Source](https://www.cnbc.com/2026/06/14/oil-price-iran-war-strait-hormuz-peace-deal.html)
+
+> [!note]- World: Bank of Japan raises key rate to 1.00% — landmark dual central-bank day as FOMC also meets (Kiplinger)
+> The Bank of Japan lifted its benchmark rate to 1.00% in today's policy decision, extending its gradual exit from decades of ultra-loose monetary policy and reaching its highest rate level since before the global financial crisis. The BoJ move coincides with the opening of Kevin Warsh's inaugural Federal Reserve FOMC meeting — where a hold at 3.50–3.75% is near-universally expected, with attention focused on the dot plot and Wednesday's press conference. Together, the two decisions make June 16 a landmark day in the global shift away from the cheap-money era. [Source](https://www.kiplinger.com/news/live/fed-meeting-updates-and-commentary-june-2026)
+
+> [!note]- Tech: BYD enters humanoid robotics; Uber launches robotaxis in Spain — AI moves into the physical world (Crescendo AI)
+> BYD, the world's largest electric vehicle maker, announced its entry into the humanoid robotics sector, joining Tesla, Boston Dynamics, and a growing field of Chinese manufacturers pivoting to embodied AI for manufacturing and logistics. Simultaneously, Uber launched commercial robotaxi services in Spain in partnership with Israeli autonomous driving startup Autobrains Technologies on NVIDIA's Drive Hyperion platform, expanding driverless passenger transport in Europe. The dual announcements mark AI's rapid expansion from software into physical-world applications. [Source](https://www.crescendo.ai/news/latest-ai-news-and-updates)
+
+> [!note]- Science/Economy: World Bank June 2026 report: global growth slows to 2.7% — weakest EM pace since pandemic (World Bank)
+> The World Bank's June 2026 Global Economic Prospects report projects world GDP growth will slow to 2.7% in 2026 — below 2025 and the pre-pandemic average — with emerging market economies facing their most constrained environment since COVID-19 under the weight of high debt, persistent inflation near 3%, and geopolitical headwinds. Counterbalancing the macro weakness, J.P. Morgan estimates the AI investment supercycle is driving 13–15% above-trend corporate earnings growth for at least another two years. The World Bank is today hosting its ABCDE jobs conference in Washington alongside the report's release. [Source](https://openknowledge.worldbank.org/entities/publication/e96798d7-a81d-44ea-8287-1b4d6ea83f75)
 
 > [!note]- [[06-15-26 Mon]]
 >
