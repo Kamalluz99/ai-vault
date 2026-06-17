@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-06-17T19:05
+updated: 2026-06-17T21:06
 topic: daily news
 frequency: daily
 ongoing: false
@@ -103,6 +103,23 @@ unread: true
 
 > [!note]- Economy: Oil near $80 as US-Iran ceasefire heads to Friday Hormuz reopening (Al Jazeera)
 > Global crude prices have fallen roughly 20% from 2026 highs to near $80 per barrel as the US-Iran memorandum of understanding ends direct hostilities and sets the Strait of Hormuz to fully reopen by this Friday, per President Trump. Asian stock markets surged in response, with Japan's Nikkei rising 5.5% and South Korea's Kospi jumping 5.7%, while US equity futures also rallied. A formal signing ceremony is set for June 19 in Switzerland, opening a 60-day window for further nuclear talks. [Al Jazeera](https://www.aljazeera.com/economy/2026/6/15/stock-markets-soar-oil-falls-as-us-iran-confirm-deal-to-end-war)
+
+> **Night update**
+
+> [!breaking]- Macro: Warsh FOMC press conference fires hawkish shot — dot plot projects rate hike in 2026 (CNBC)
+> The Fed held rates at 3.50–3.75% in a unanimous 12-0 vote, but Warsh's debut press conference delivered a hawkish surprise: nine of 18 dot-plot members now project at least one rate hike before year-end, with the median forecast ending 2026 at 3.8% — up from 3.4% in March's projections. Warsh notably abstained from submitting his own dot and announced five task forces to overhaul the Fed's communications, balance sheet, data sources, productivity analysis, and inflation frameworks. [Source](https://www.cnbc.com/2026/06/17/fed-meeting-today-live-updates.html)
+
+> [!note]- Tech: SpaceX acquires Cursor AI coding platform for $60B all-stock (TechCrunch)
+> SpaceX signed a merger agreement to acquire Anysphere — maker of Cursor, the world's most-used AI code editor — at an implied equity value of $60 billion entirely in stock, days after its blockbuster IPO. The deal builds on SpaceX's February absorption of xAI into "SpaceXAI" and a shared AI model already in development to debut across Cursor and Grok; Cursor carries roughly $2.6 billion in annualised revenue. SpaceX's market cap now stands at $2.51 trillion, having risen by the entire cost of the acquisition in mere hours on its IPO day. [Source](https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/)
+
+> [!note]- World: England 2-2 Croatia, Portugal 1-1 DR Congo — World Cup Day 7 double upset (ESPN / NBC Sports)
+> England and Croatia played out a breathless 2-2 draw at AT&T Stadium in Dallas, with Harry Kane netting twice (his 9th and 10th career World Cup goals) for the Three Lions in an open Group L opener. Portugal were held to a shock 1-1 draw by DR Congo in Houston — João Neves put Ronaldo's side ahead before Yoane Wissa equalised just before halftime — leaving both Group K and Group L wide open heading into the second round. [Source](https://www.espn.com/soccer/match/_/gameId/760437/croatia-england)
+
+> [!note]- SG: Singapore mandates coastal defense plans for all long-lease landowners from 2028 (Yahoo News SG)
+> From 2028, all coastal landowners in Singapore with at least 30 years remaining on their lease must develop and submit plans capable of defending against a projected 2.15-metre sea level rise by 2150, under new national coastal protection requirements. The policy builds on Singapore's ongoing seawall and coastal engineering investment programmes and reflects the government's proactive multi-decade climate adaptation strategy for its low-lying southern and eastern shorelines. [Source](https://sg.news.yahoo.com/)
+
+> [!note]- Nike (NKE): ~$45.20 Jun 17 close — FOMC hike signal clouds consumer discretionary; 46 shares avg $71.69 = −$1,219 unrealised (Yahoo Finance)
+> Nike traded around $45.20 on June 17 (day range $45.00–$46.10), but the Warsh FOMC's hawkish surprise — nine members pencilling in a 2026 rate hike, median target 3.8% — is a fresh headwind for consumer discretionary into tomorrow's session. The 46-share position (avg cost $71.69) carries an unrealised loss of −$1,219 (46 × −$26.49). Q4 FY2026 earnings on June 30 remain the next hard catalyst; Juneteenth shortens next week's trading to four days. [Source](https://finance.yahoo.com/quote/NKE/)
 
 > [!note]- [[06-16-26 Tue]]
 >
