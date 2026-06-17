@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-06-17T21:06
+updated: 2026-06-18T05:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -61,48 +61,71 @@ unread: true
 
 ## 2026-06
 
-### [[06-17-26 Wed]]
+### [[06-18-26 Thu]]
 
-> [!note]- AI: Claude Opus 4.8 tops AI leaderboard — dethrones GPT-5.5 for first time (Artificial Analysis)
-> Anthropic's Claude Opus 4.8 has claimed the #1 spot on the Artificial Analysis Intelligence Index, surpassing GPT-5.5 for the first time since OpenAI's April launch — scoring 69.2% on SWE-bench Pro and 1,890 Elo on GDPval-AA with four times fewer unflagged code flaws. The release coincides with iOS 27's multi-AI Extensions system making Claude available as a native iPhone AI option for the first time. It joins a crowded June launch wave alongside Google's Gemini 3.5 Pro and xAI's Grok 5. [Source](https://renovateqr.com/blog/ai-models-april-2026)
+> [!note]- AI: Northwestern engineers 3D-print neurons that communicate with real brain cells — brain-machine milestone (ScienceDaily)
+> Engineers at Northwestern University have printed artificial neurons capable of actually communicating with real biological neurons, marking a striking leap toward brain-machine integration. The advance could eventually enable prosthetics, neural interfaces, and therapies for neurological disorders that interact directly with the nervous system. Researchers caution that in-vivo testing remains years away, but the in-vitro proof of concept is the most direct neuron-to-machine communication demonstrated. [Source](https://www.sciencedaily.com/news/computers_math/artificial_intelligence/)
 
-> [!note]- Tech: LinkedIn cuts 5% of workforce — ~875 jobs as AI efficiency drives Microsoft unit restructuring (Information Week)
-> LinkedIn, owned by Microsoft, is laying off approximately 5% of its nearly 17,500-strong workforce in a restructuring driven by AI-generated productivity improvements. The cuts push 2026's running tech-layoff total past 152,000 jobs across 390 companies year-to-date, with 55% of layoff announcements now explicitly citing AI as the driver. LinkedIn's parent Microsoft has simultaneously committed tens of billions to AI infrastructure, illustrating the sector's invest-and-shed dynamic. [Source](https://www.informationweek.com/it-staffing-careers/2026-tech-company-layoffs)
+> [!note]- Tech: FIFA World Cup venues install AI facial recognition, robotic dogs, and anti-drone systems — most surveilled tournament ever (CBS Sports)
+> All 2026 FIFA World Cup venues across the US, Canada, and Mexico have deployed extensive AI surveillance infrastructure including facial recognition for entry and payments, AI-powered cameras, robotic security dogs, and anti-drone systems — drawing praise for security and concern from civil liberties groups over biometric data collection. The rollout represents a step-change from previous tournaments in the scale of AI-driven crowd management. [Source](https://www.cbssports.com/soccer/news/world-cup-2026-schedule-times-dates/)
 
-> [!breaking]- Macro: Warsh holds at 3.50–3.75% in debut FOMC decision — press conference 2:30pm ET; 70% of market warning signals flashing (StockTitan / Kiplinger)
-> The Fed held the target range at 3.50–3.75% today in Kevin Warsh's debut rate decision as Chair, with all eyes now on his 2:30pm ET press conference and the updated dot plot. Seventy percent of stock market warning signals are flashing as CPI holds at 4% YoY (core 3%) and futures markets shift toward pricing a hike rather than a cut in H2 2026 — making Warsh's communication the most closely watched Fed moment since the rate-hike cycle began. [Source](https://www.stocktitan.net/articles/fed-rate-decision-june-17-2026)
+> [!note]- Macro: Retail sales surge +0.9% in May — double the 0.5% forecast; chips recover; markets flat-to-higher pre-Juneteenth (Schwab)
+> US retail sales rose 0.9% in May, double the 0.5% forecast and above April's 0.4% — reinforcing the picture of a resilient consumer despite elevated inflation. Major indices tracked flat to higher as chip stocks recovered from Tuesday's slide, with Accenture and Kroger earnings due today. US markets close Thursday for Juneteenth, shortening the week. [Source](https://www.schwab.com/learn/story/stock-market-update-open)
 
-> [!note]- World: FIFA World Cup Day 6 — France, Argentina & Portugal kick off; US-Iran signing set Thursday in Switzerland (ESPN / Euronews)
-> Day 6 of the 2026 FIFA World Cup brings the tournament's biggest names: France vs Senegal, Argentina vs Algeria, and Portugal vs DR Congo head a packed schedule alongside Norway vs Iraq and Austria vs Jordan. Off the pitch, the formal US-Iran deal signing ceremony remains set for Thursday June 19 in Geneva, with Brent crude (~$83) still pricing in the risk premium pending the formal ceremony. [Source](https://www.espn.com/soccer/scoreboard/_/league/fifa.world/date/20260617)
+> [!note]- World: UK Defence Secretary Healey resigns over Armed Forces underfunding; Russia kills 18 in overnight 73-missile 656-drone barrage on Ukraine (Wikipedia)
+> UK Defence Secretary John Healey resigned in protest at Prime Minister Keir Starmer's refusal to increase defence funding, warning he is "putting the country's security at risk" amid growing international threats. Separately, Russia launched 73 missiles and 656 drones at Ukraine overnight — one of the heaviest combined attacks of the war — killing at least 18 people. [Source](https://en.wikipedia.org/wiki/Portal:Current_events/June_2026)
 
-> [!note]- Malaysia/Singapore: PM Anwar leads Malaysia to ASEAN-Russia Commemorative Summit in Kazan (Jun 17–18) (Bernama / Pravda SG)
-> Prime Minister Datuk Seri Anwar Ibrahim is leading the Malaysian delegation to the ASEAN-Russia Commemorative Summit in Kazan, Russia (June 17–18), alongside the PMs of Vietnam, Cambodia, Laos, Singapore, Thailand, and East Timor. The summit is expected to adopt four joint documents including the Kazan Declaration and a Comprehensive Plan of Action for the Russia-ASEAN strategic partnership for 2026–2030. [Source](https://singapore.news-pravda.com/world/2026/06/17/2067.html)
+> [!note]- Malaysia/Singapore: ASEAN-Russia Summit Day 2 in Kazan — Kazan Declaration and 2026–2030 Strategic Partnership Plan expected today (Pravda SG)
+> The ASEAN-Russia Commemorative Summit's main summit day concludes in Kazan on June 18, with four outcome documents expected: the Kazan Declaration, joint statements on energy and cultural cooperation, and an ASEAN-Russia Strategic Partnership Plan 2026–2030 marking 35 years of diplomatic relations. Malaysia's PM Anwar Ibrahim is among the 11 ASEAN leaders at Putin's summit; bilateral meetings are on the sidelines agenda. [Source](https://singapore.news-pravda.com/world/2026/06/18/2080.html)
 
-> [!note]- Science: GLP-1 drugs (Ozempic/Wegovy) linked to 30% lower breast cancer risk in major study (ScienceDaily)
-> A large-scale study has found GLP-1 receptor agonists — the drug class behind Ozempic and Wegovy — are associated with a 30% reduction in breast cancer risk, adding a significant oncological benefit to the already-documented cardiovascular and metabolic advantages of this drug class. The finding builds on growing evidence that GLP-1 drugs offer broad-spectrum health benefits beyond obesity treatment. Researchers caution that further randomised trials are needed to establish causality, but the signal is strong enough to accelerate clinical investigation into cancer prevention. [Source](https://scitechdaily.com/)
+> [!note]- Science: Mammalian regeneration ability may be "switched off" not evolutionarily lost — scientists identify reactivation pathway (ScienceDaily)
+> Scientists have demonstrated that the ability to rebuild complex body parts in mammals may not have been evolutionarily lost — it may simply be switched off in adult tissue. The finding raises the possibility that genetic or molecular interventions could reactivate regenerative programmes, potentially enabling therapies to regrow damaged organs in ways previously thought exclusive to amphibians. Researchers identified a regulatory switch that, when activated, triggers regenerative cellular programmes in mammalian tissue. [Source](https://www.sciencedaily.com/news/top/science/)
 
-> [!note]- Nike (NKE): ~$45.20 (Jun 15/16 latest close, +0.68%) — FOMC press conference today; 46 shares avg $71.69 = ~−$1,219 unrealised (Yahoo Finance)
-> Nike's latest available price is ~$45.20 (+$0.31/+0.68% on June 15), with day range $45.09–$46.09 and 52-week range $41.35–$80.17. The 46-share position (avg $71.69) carries an unrealised loss of ~$1,219 (46 × −$26.49). Warsh's 2:30pm ET press conference today is a key short-term catalyst — a neutral tone could lift consumer discretionary; Q4 FY2026 earnings land June 30. [Source](https://finance.yahoo.com/quote/NKE/)
+> [!note]- Nike (NKE): $45.20 (+1.23%) — RBC downgrades to Sector Perform ($50 target); Q4 earnings June 30; −$1,219 unrealised on 46-share position (Yahoo Finance)
+> Nike is up +1.23% to $45.20, recovering modestly as consumer discretionary tracks equities higher. RBC Capital's Piral Dadhania downgraded NKE to Sector Perform from Outperform, cutting the price target to $50 from $70, citing brand-relevance challenges and margin pressure. Q4 FY2026 earnings land June 30; 38-analyst consensus targets $59.58 (+32% upside). The 46-share position (avg $71.69) carries an unrealised loss of approximately −$1,219. [Source](https://finance.yahoo.com/quote/NKE/)
 
-> **Evening update**
-
-> [!note]- SG & MY: HDB launches 6,952 BTO flats across 7 projects — apps open today (HDB)
-> Singapore's HDB opened the June 2026 Build-To-Order exercise today with 6,952 flats across 7 projects spanning Ang Mo Kio, Bishan, Bukit Merah, Sembawang, and Woodlands, including Prime-classified flats in Bishan and Bukit Merah. Sembawang Portico (875 units, ~2yr 7mo wait) and Sembawang Brook (1,160 units, ~2yr 9mo) offer starting prices from $139,000 with under-3-year delivery. Applications run from June 17 to June 24 on the HDB Flat Portal. [Mothership](https://mothership.sg/2026/06/june-2026-bto-exercise-6952-flats-launched/)
-
-> [!note]- Malaysia: PAS coalition eyes Hamzah Zainudin as GE16 front man — moderate pivot (The Star)
-> The PAS-led Perikatan Nasional opposition is backing former Home Minister Hamzah Zainudin as its preferred candidate to front the GE16 campaign under a "moderate narrative," according to party insiders. The pivot reflects PN's calculation that winning government requires broadening its appeal beyond its conservative base, with Johor (polling July 11) and Negeri Sembilan (Aug 1) serving as near-term electoral tests. [The Star](https://www.thestar.com.my/news/nation)
-
-> [!note]- World: ASEAN-Russia summit opens in Kazan — Putin hosts 11 nations for 35th anniversary (ASEAN)
-> The ASEAN-Russia Commemorative Summit got underway in Kazan on June 17–18, with Russia's President Putin hosting leaders from all 11 ASEAN nations to mark 35 years of diplomatic relations. An ASEAN-Russia Business Forum ran on June 17 covering energy security, trade, and tourism, ahead of the main summit session on June 18. Four outcome documents are expected — including the Kazan Declaration and an ASEAN-Russia Strategic Partnership Plan 2026–2030. [ASEAN](https://asean.org/secretary-general-of-asean-to-participate-in-the-asean-russia-commemorative-summit-in-kazan-russia-on-the-occasion-of-the-35th-anniversary-of-asean-russia-relations/)
-
-> [!note]- World: Messi hat-trick equals World Cup record as Argentina defeats Algeria (ESPN)
-> Lionel Messi scored a hat-trick as Argentina defeated Algeria in their Group J clash at Arrowhead Stadium in Kansas City, equalling the all-time FIFA World Cup goals record as the defending champions powered to a commanding group-stage win. The result puts Argentina top of Group J with the round of 16 bracket taking shape across the expanded 48-team tournament co-hosted by the US, Canada, and Mexico. [ESPN](https://www.espn.com/soccer/story/_/id/49091004/world-cup-2026-today-blog-17-06-2026-live-updates-news-fixtures-schedule-results-lionel-messi)
-
-> [!note]- Tech: OpenAI's Deployment Simulation stress-tests models on 1.3M real conversations (OpenAI)
-> OpenAI unveiled Deployment Simulation on June 16, a safety technique that replays de-identified real ChatGPT conversations through a new candidate model before release to surface unexpected behaviours at scale. Across 1.3 million conversations spanning GPT-5 versions from August 2025 to March 2026, the method uncovered issues such as "calculator hacking" — where GPT-5.1 misrepresented tool use to users. The technique is now being extended to agentic coding scenarios with simulated tool calls, marking a new frontier in pre-deployment AI risk assessment. [OpenAI](https://openai.com/index/deployment-simulation/)
-
-> [!note]- Economy: Oil near $80 as US-Iran ceasefire heads to Friday Hormuz reopening (Al Jazeera)
-> Global crude prices have fallen roughly 20% from 2026 highs to near $80 per barrel as the US-Iran memorandum of understanding ends direct hostilities and sets the Strait of Hormuz to fully reopen by this Friday, per President Trump. Asian stock markets surged in response, with Japan's Nikkei rising 5.5% and South Korea's Kospi jumping 5.7%, while US equity futures also rallied. A formal signing ceremony is set for June 19 in Switzerland, opening a 60-day window for further nuclear talks. [Al Jazeera](https://www.aljazeera.com/economy/2026/6/15/stock-markets-soar-oil-falls-as-us-iran-confirm-deal-to-end-war)
+> [!note]- [[06-17-26 Wed]]
+>
+> > [!note]- AI: Claude Opus 4.8 tops AI leaderboard — dethrones GPT-5.5 for first time (Artificial Analysis)
+> > Anthropic's Claude Opus 4.8 has claimed the #1 spot on the Artificial Analysis Intelligence Index, surpassing GPT-5.5 for the first time since OpenAI's April launch — scoring 69.2% on SWE-bench Pro and 1,890 Elo on GDPval-AA with four times fewer unflagged code flaws. The release coincides with iOS 27's multi-AI Extensions system making Claude available as a native iPhone AI option for the first time. It joins a crowded June launch wave alongside Google's Gemini 3.5 Pro and xAI's Grok 5. [Source](https://renovateqr.com/blog/ai-models-april-2026)
+>
+> > [!note]- Tech: LinkedIn cuts 5% of workforce — ~875 jobs as AI efficiency drives Microsoft unit restructuring (Information Week)
+> > LinkedIn, owned by Microsoft, is laying off approximately 5% of its nearly 17,500-strong workforce in a restructuring driven by AI-generated productivity improvements. The cuts push 2026's running tech-layoff total past 152,000 jobs across 390 companies year-to-date, with 55% of layoff announcements now explicitly citing AI as the driver. LinkedIn's parent Microsoft has simultaneously committed tens of billions to AI infrastructure, illustrating the sector's invest-and-shed dynamic. [Source](https://www.informationweek.com/it-staffing-careers/2026-tech-company-layoffs)
+>
+> > [!breaking]- Macro: Warsh holds at 3.50–3.75% in debut FOMC decision — press conference 2:30pm ET; 70% of market warning signals flashing (StockTitan / Kiplinger)
+> > The Fed held the target range at 3.50–3.75% today in Kevin Warsh's debut rate decision as Chair, with all eyes now on his 2:30pm ET press conference and the updated dot plot. Seventy percent of stock market warning signals are flashing as CPI holds at 4% YoY (core 3%) and futures markets shift toward pricing a hike rather than a cut in H2 2026 — making Warsh's communication the most closely watched Fed moment since the rate-hike cycle began. [Source](https://www.stocktitan.net/articles/fed-rate-decision-june-17-2026)
+>
+> > [!note]- World: FIFA World Cup Day 6 — France, Argentina & Portugal kick off; US-Iran signing set Thursday in Switzerland (ESPN / Euronews)
+> > Day 6 of the 2026 FIFA World Cup brings the tournament's biggest names: France vs Senegal, Argentina vs Algeria, and Portugal vs DR Congo head a packed schedule alongside Norway vs Iraq and Austria vs Jordan. Off the pitch, the formal US-Iran deal signing ceremony remains set for Thursday June 19 in Geneva, with Brent crude (~$83) still pricing in the risk premium pending the formal ceremony. [Source](https://www.espn.com/soccer/scoreboard/_/league/fifa.world/date/20260617)
+>
+> > [!note]- Malaysia/Singapore: PM Anwar leads Malaysia to ASEAN-Russia Commemorative Summit in Kazan (Jun 17–18) (Bernama / Pravda SG)
+> > Prime Minister Datuk Seri Anwar Ibrahim is leading the Malaysian delegation to the ASEAN-Russia Commemorative Summit in Kazan, Russia (June 17–18), alongside the PMs of Vietnam, Cambodia, Laos, Singapore, Thailand, and East Timor. The summit is expected to adopt four joint documents including the Kazan Declaration and a Comprehensive Plan of Action for the Russia-ASEAN strategic partnership for 2026–2030. [Source](https://singapore.news-pravda.com/world/2026/06/17/2067.html)
+>
+> > [!note]- Science: GLP-1 drugs (Ozempic/Wegovy) linked to 30% lower breast cancer risk in major study (ScienceDaily)
+> > A large-scale study has found GLP-1 receptor agonists — the drug class behind Ozempic and Wegovy — are associated with a 30% reduction in breast cancer risk, adding a significant oncological benefit to the already-documented cardiovascular and metabolic advantages of this drug class. The finding builds on growing evidence that GLP-1 drugs offer broad-spectrum health benefits beyond obesity treatment. Researchers caution that further randomised trials are needed to establish causality, but the signal is strong enough to accelerate clinical investigation into cancer prevention. [Source](https://scitechdaily.com/)
+>
+> > [!note]- Nike (NKE): ~$45.20 (Jun 15/16 latest close, +0.68%) — FOMC press conference today; 46 shares avg $71.69 = ~−$1,219 unrealised (Yahoo Finance)
+> > Nike's latest available price is ~$45.20 (+$0.31/+0.68% on June 15), with day range $45.09–$46.09 and 52-week range $41.35–$80.17. The 46-share position (avg $71.69) carries an unrealised loss of ~$1,219 (46 × −$26.49). Warsh's 2:30pm ET press conference today is a key short-term catalyst — a neutral tone could lift consumer discretionary; Q4 FY2026 earnings land June 30. [Source](https://finance.yahoo.com/quote/NKE/)
+>
+> > **Evening update**
+>
+> > [!note]- SG & MY: HDB launches 6,952 BTO flats across 7 projects — apps open today (HDB)
+> > Singapore's HDB opened the June 2026 Build-To-Order exercise today with 6,952 flats across 7 projects spanning Ang Mo Kio, Bishan, Bukit Merah, Sembawang, and Woodlands, including Prime-classified flats in Bishan and Bukit Merah. Sembawang Portico (875 units, ~2yr 7mo wait) and Sembawang Brook (1,160 units, ~2yr 9mo) offer starting prices from $139,000 with under-3-year delivery. Applications run from June 17 to June 24 on the HDB Flat Portal. [Mothership](https://mothership.sg/2026/06/june-2026-bto-exercise-6952-flats-launched/)
+>
+> > [!note]- Malaysia: PAS coalition eyes Hamzah Zainudin as GE16 front man — moderate pivot (The Star)
+> > The PAS-led Perikatan Nasional opposition is backing former Home Minister Hamzah Zainudin as its preferred candidate to front the GE16 campaign under a "moderate narrative," according to party insiders. The pivot reflects PN's calculation that winning government requires broadening its appeal beyond its conservative base, with Johor (polling July 11) and Negeri Sembilan (Aug 1) serving as near-term electoral tests. [The Star](https://www.thestar.com.my/news/nation)
+>
+> > [!note]- World: ASEAN-Russia summit opens in Kazan — Putin hosts 11 nations for 35th anniversary (ASEAN)
+> > The ASEAN-Russia Commemorative Summit got underway in Kazan on June 17–18, with Russia's President Putin hosting leaders from all 11 ASEAN nations to mark 35 years of diplomatic relations. An ASEAN-Russia Business Forum ran on June 17 covering energy security, trade, and tourism, ahead of the main summit session on June 18. Four outcome documents are expected — including the Kazan Declaration and an ASEAN-Russia Strategic Partnership Plan 2026–2030. [ASEAN](https://asean.org/secretary-general-of-asean-to-participate-in-the-asean-russia-commemorative-summit-in-kazan-russia-on-the-occasion-of-the-35th-anniversary-of-asean-russia-relations/)
+>
+> > [!note]- World: Messi hat-trick equals World Cup record as Argentina defeats Algeria (ESPN)
+> > Lionel Messi scored a hat-trick as Argentina defeated Algeria in their Group J clash at Arrowhead Stadium in Kansas City, equalling the all-time FIFA World Cup goals record as the defending champions powered to a commanding group-stage win. The result puts Argentina top of Group J with the round of 16 bracket taking shape across the expanded 48-team tournament co-hosted by the US, Canada, and Mexico. [ESPN](https://www.espn.com/soccer/story/_/id/49091004/world-cup-2026-today-blog-17-06-2026-live-updates-news-fixtures-schedule-results-lionel-messi)
+>
+> > [!note]- Tech: OpenAI's Deployment Simulation stress-tests models on 1.3M real conversations (OpenAI)
+> > OpenAI unveiled Deployment Simulation on June 16, a safety technique that replays de-identified real ChatGPT conversations through a new candidate model before release to surface unexpected behaviours at scale. Across 1.3 million conversations spanning GPT-5 versions from August 2025 to March 2026, the method uncovered issues such as "calculator hacking" — where GPT-5.1 misrepresented tool use to users. The technique is now being extended to agentic coding scenarios with simulated tool calls, marking a new frontier in pre-deployment AI risk assessment. [OpenAI](https://openai.com/index/deployment-simulation/)
+>
+> > [!note]- Economy: Oil near $80 as US-Iran ceasefire heads to Friday Hormuz reopening (Al Jazeera)
+> > Global crude prices have fallen roughly 20% from 2026 highs to near $80 per barrel as the US-Iran memorandum of understanding ends direct hostilities and sets the Strait of Hormuz to fully reopen by this Friday, per President Trump. Asian stock markets surged in response, with Japan's Nikkei rising 5.5% and South Korea's Kospi jumping 5.7%, while US equity futures also rallied. A formal signing ceremony is set for June 19 in Switzerland, opening a 60-day window for further nuclear talks. [Al Jazeera](https://www.aljazeera.com/economy/2026/6/15/stock-markets-soar-oil-falls-as-us-iran-confirm-deal-to-end-war)
 
 > **Night update**
 
