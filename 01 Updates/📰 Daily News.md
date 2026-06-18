@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-06-18T19:05
+updated: 2026-06-18T21:05
 topic: daily news
 frequency: daily
 ongoing: false
@@ -103,6 +103,20 @@ unread: true
 
 > [!note]- Economy: Fed holds but signals hike — S&P 500 down 1.21%, Dow off 507pts (CNN)
 > The Federal Reserve held rates steady at 3.50–3.75% for a fourth straight meeting, but nine of eighteen officials now project at least one rate hike in 2026 — a sharp hawkish pivot from March. The S&P 500 fell 1.21% to 7,420 and the Dow dropped 507 points in the worst market reaction to a new Fed chair's debut since 1994. Paradoxically, strong May retail sales (+0.9%, double the forecast) are weighing on equities by bolstering the case for tighter monetary policy. [CNN Business](https://www.cnn.com/2026/06/17/business/live-news/federal-reserve-interest-rate-kevin-warsh)
+
+> **Night update**
+
+> [!breaking]- World: Hegseth slams NATO allies in Brussels — launches 6-month US forces in Europe review (NBC News)
+> US Defense Secretary Pete Hegseth appeared before NATO Defence Ministers in Brussels on Thursday, harshly criticising allies for refusing US forces access to European bases during the Iran war — calling it "shameful" — and launching a six-month review of American troop posture and basing in Europe. He called for "NATO 3.0," a restructure placing Europe in primary responsibility for its own defence, warning some allies will "fail" the review. The US has already signalled it will not commit an aircraft carrier, aerial refueling planes, or dozens of fighter jets to a European crisis, forcing NATO's supreme allied commander to draft contingency plans without those assets. [NBC News](https://www.nbcnews.com/world/europe/hegseth-nato-review-us-forces-europe-iran-war-brussels-rcna350660)
+
+> [!note]- Science: NASA Roman Space Telescope confirmed for August 30 Falcon Heavy launch — 8 months ahead of schedule (SpacePolicyOnline)
+> NASA has confirmed the Nancy Grace Roman Space Telescope will launch on a SpaceX Falcon Heavy from Kennedy Space Center on August 30, 2026 — eight months ahead of its May 2027 required readiness date and earlier than the September window first announced in April. Roman will survey dark energy, dark matter, and exoplanets with a field of view 100 times larger than Hubble's, with the capacity to image light from a billion galaxies over its mission lifetime; it is the largest NASA astrophysics mission since James Webb. [SpacePolicyOnline](https://spacepolicyonline.com/news/nasa-sets-launch-date-for-roman-space-telescope/)
+
+> [!note]- Malaysia/Singapore: Singapore's Tharman calls for climate momentum at London sustainability summit (LSE / Time)
+> Singapore President Tharman Shanmugaratnam addressed the LSE Global School of Sustainability Forum on June 18, urging governments worldwide to build political support to sustain momentum on climate action and warning that the pace of international commitment lags the physical pace of climate risk. Singapore has designated 2026 its Year of Climate Adaptation, with a National Adaptation Plan in development and new coastal-protection requirements taking effect for long-lease landowners from 2028. [Time](https://time.com/article/2026/05/23/ecosperity-singapore-climate-action/)
+
+> [!note]- Nike (NKE): $44.26 (−2.1%) — reverses morning gain on above-average volume; 46 shares avg $71.69 = −$1,262 unrealised; markets closed Friday Juneteenth (Yahoo Finance)
+> Nike reversed its morning gain to close at $44.26 on Thursday June 18, down 2.1% from the prior close on above-average volume of 20.86 million shares (vs. 17.88M daily average) — erasing the intraday recovery to $45.20. The 46-share position (avg cost $71.69) now carries an unrealised loss of approximately −$1,262 (46 × −$27.43). US markets will be closed Friday June 19 for the Juneteenth federal holiday; the next hard catalyst remains Q4 FY2026 earnings on June 30. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
 
 > [!note]- [[06-17-26 Wed]]
 >
