@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-06-18T05:00
+updated: 2026-06-18T19:05
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,26 @@ unread: true
 
 > [!note]- Nike (NKE): $45.20 (+1.23%) — RBC downgrades to Sector Perform ($50 target); Q4 earnings June 30; −$1,219 unrealised on 46-share position (Yahoo Finance)
 > Nike is up +1.23% to $45.20, recovering modestly as consumer discretionary tracks equities higher. RBC Capital's Piral Dadhania downgraded NKE to Sector Perform from Outperform, cutting the price target to $50 from $70, citing brand-relevance challenges and margin pressure. Q4 FY2026 earnings land June 30; 38-analyst consensus targets $59.58 (+32% upside). The 46-share position (avg $71.69) carries an unrealised loss of approximately −$1,219. [Source](https://finance.yahoo.com/quote/NKE/)
+
+> **Evening update**
+
+> [!note]- SG & MY: H&M and Heineken shift operations from Singapore to Malaysia (CNBC)
+> A visible wave of global companies has been moving operations from Singapore to Malaysia in early 2026, driven by cost pressures and a strengthening policy environment in KL. H&M relocated its Southeast Asian headquarters from Singapore to Kuala Lumpur in May, affecting 78 positions, while Heineken announced in March it would move large-scale Asia Pacific Breweries production to Malaysia and Vietnam. The trend reflects Malaysia's growing appeal as a cost-competitive regional hub rather than an outright rejection of Singapore's stable business environment. [CNBC](https://www.cnbc.com/2026/06/11/global-mobility-firms-move-operations-from-singapore-to-malaysia.html)
+
+> [!note]- Malaysia: PAS delays PN coalition decision after party talks (Malay Mail)
+> PAS held internal discussions on June 18 on the latest Perikatan Nasional developments, but its information chief confirmed no decision was made at this stage. The talks come as the coalition navigates internal pressure ahead of GE16, with state elections in Johor (July 11) and Negeri Sembilan (August 1) acting as near-term tests of coalition cohesion. [Malay Mail](https://www.malaymail.com/news/malaysia)
+
+> [!breaking]- World: Trump signs US-Iran MOU — 60-day peace talks, Hormuz to reopen (NBC News)
+> US President Trump personally signed a memorandum of understanding with Iran at the Palace of Versailles on June 17, during a dinner with French President Emmanuel Macron. The 14-point MOU commits both sides to 60 days of peace negotiations, an end to all hostilities, and requires the US to lift its naval blockade within 30 days while Iran reopens the Strait of Hormuz. The deal includes a $300 billion US-led reconstruction fund for Iran and a sanctions waiver for Iranian oil sales during talks; Israel has strongly objected to the agreement. [NBC News](https://www.nbcnews.com/world/iran/strait-hormuz-reopen-us-lift-iran-sanctions-14-point-deal-seeking-end-rcna350513)
+
+> [!note]- World: England beat Croatia 4-0 in World Cup 2026 opener — Kane brace (ESPN)
+> England opened their FIFA World Cup 2026 campaign with a commanding 4-0 victory over Croatia, with Harry Kane netting a brace and goals from Jude Bellingham and Marcus Rashford putting Thomas Tuchel's side at the top of Group L. The result caps a strong Day 7 for the expanded 48-team tournament; Ghana also levelled with England at the group summit after a 95th-minute goal by Caleb Yirenkyi. [ESPN](https://www.espn.com/soccer/story/_/id/49104390/world-cup-2026-today-blog-18-06-2026-live-updates-news-fixtures-schedule-results-england-beat-croatia)
+
+> [!note]- Tech: SpaceX buys Cursor for $60B — largest VC startup acquisition ever (CNBC)
+> SpaceX confirmed on June 16 the acquisition of Anysphere — the company behind AI coding assistant Cursor — for $60 billion in an all-stock deal, the largest acquisition of a venture-backed startup in history. Cursor gives SpaceX's xAI division a product with $2.6 billion in annualised revenue and deep enterprise penetration, continuing the AI coding consolidation wave after OpenAI's earlier Windsurf acquisition. AI coding tools are no longer indie products — they are now strategic platform assets within big-tech ecosystems. [CNBC](https://www.cnbc.com/2026/06/16/spacex-spcx-cursor-acquisition-ipo.html)
+
+> [!note]- Economy: Fed holds but signals hike — S&P 500 down 1.21%, Dow off 507pts (CNN)
+> The Federal Reserve held rates steady at 3.50–3.75% for a fourth straight meeting, but nine of eighteen officials now project at least one rate hike in 2026 — a sharp hawkish pivot from March. The S&P 500 fell 1.21% to 7,420 and the Dow dropped 507 points in the worst market reaction to a new Fed chair's debut since 1994. Paradoxically, strong May retail sales (+0.9%, double the forecast) are weighing on equities by bolstering the case for tighter monetary policy. [CNN Business](https://www.cnn.com/2026/06/17/business/live-news/federal-reserve-interest-rate-kevin-warsh)
 
 > [!note]- [[06-17-26 Wed]]
 >
