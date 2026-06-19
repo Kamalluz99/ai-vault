@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-06-19T20:00
+updated: 2026-06-19T23:30
 topic: daily news
 frequency: daily
 ongoing: false
@@ -103,6 +103,17 @@ unread: true
 
 > [!note]- Science: Jackfruit latex and pomegranate peel biomaterial shows promise for severe gum disease (ScienceDaily)
 > Researchers have developed a new biomaterial combining jackfruit latex, pomegranate peel extract, and simvastatin that early tests show can combat infection and inflammation in severe periodontitis while potentially helping to rebuild lost bone and gum tissue. The plant-derived compound offers a potentially low-cost alternative to expensive clinical interventions for gum disease, which affects hundreds of millions globally. Researchers say it combines antimicrobial, anti-inflammatory, and regenerative properties in a single delivery vehicle. [ScienceDaily](https://www.sciencedaily.com/news/)
+
+> **Night update**
+
+> [!note]- World: World Cup Day 9 — Canada 6-0 Qatar, Mexico first to reach knockouts (SBS / ESPN)
+> Canada demolished Qatar 6-0 — their second win of the tournament — with Jonathan David bagging a hat-trick and further goals from Cyle Larin, Nathan Saliba, and a stoppage-time own goal, placing them on the brink of the round of 16. Mexico became the first team to qualify for the knockouts with a 1-0 win over South Korea (Luis Romano, 50'); Switzerland beat Bosnia-Herzegovina 4-1. USA vs Australia in Seattle and Turkey vs Paraguay in San Francisco complete Day 9. [Source](https://www.sbs.com.au/news/article/fifa-world-cup-2026-results-june-19/c2m7pdzje)
+
+> [!note]- Malaysia: PKR postpones Melaka congress to Aug 14-16 — prioritises Johor/NS polls (The Sun)
+> PKR has postponed its annual national congress from June 26-28 to August 14-16 at the Melaka International Trade Centre, with Communications Minister Fahmi Fadzil citing the need to focus party resources on the Johor (polling July 11) and Negeri Sembilan (August 1) state elections. The party's candidate list for both states is 99% finalised — 20 seats in Johor and 16 in Negeri Sembilan — with an official announcement expected in the coming days ahead of nomination day on June 27. [Source](https://thesun.my/news/malaysia-news/politics/pkr-annual-congress-postponed/)
+
+> [!note]- AI: WaPo & WIRED publish full Fable 5 ban account — White House flagged SK Telecom China ties; Anthropic complied same day (BuildFastWithAI)
+> The Washington Post and WIRED today published the complete sequence behind Anthropic's June 13 suspension of Claude Fable 5 and Mythos 5: the White House identified SK Telecom — South Korea's largest wireless carrier and a $100 million Anthropic investor — as "suspected of having ties to China" and asked Anthropic to revoke its model access, which Anthropic did the same day. Anthropic described the identified jailbreak as "minor and already known" and is working to restore access; all other Claude models remain available. The disclosure marks the first detailed public account of the US government intervening to restrict access to a frontier AI model on national-security grounds. [Source](https://www.buildfastwithai.com/blogs/ai-news-today-june-19-2026)
 
 > [!note]- [[06-18-26 Thu]]
 >
