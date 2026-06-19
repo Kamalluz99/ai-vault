@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-06-19T05:07
+updated: 2026-06-19T20:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,26 @@ unread: true
 
 > [!note]- Nike (NKE): $44.19 (−1.89%, last close Jun 17; markets closed Juneteenth) — RBC $50 Sector Perform, Citi $47; Q4 earnings Jun 30; −$1,265 unrealised (Yahoo Finance)
 > Nike's last close is $44.19 (Thursday June 17, −$0.85/−1.89%), dragged down by Warsh's hawkish dot-plot signal and consumer discretionary weakness. Markets are closed today for Juneteenth; trading resumes Monday June 22. The 46-share position at avg cost $71.69 carries an unrealised loss of approximately −$1,265 (46 × −$27.50). Q4 FY2026 earnings on June 30 (~1:15pm PT) are the next hard catalyst; consensus: 38 analysts, avg target $59.58, Buy. [Source](https://finance.yahoo.com/quote/NKE/)
+
+> **Evening update**
+
+> [!note]- SG & MY: Singapore cracks down on illegal gambling during FIFA World Cup 2026 — $700k fines, 10-year jail (The Independent SG)
+> Singapore police have launched a heightened enforcement campaign against illegal gambling tied to FIFA World Cup 2026, warning that operators and repeat offenders face fines of up to $700,000 and jail terms of up to 10 years. Authorities rolled out a public awareness campaign targeting unlicensed betting platforms and touts, after police received more than 33 reports of related livestream lucky draw scams since May 20, with losses exceeding $60,000. The crackdown coincides with the expanded 48-team tournament's group stage drawing record global viewership. [The Independent SG](https://theindependent.sg/)
+
+> [!note]- Malaysia: Anwar faces PKR fractures ahead of June party congress — Harapan-BN pact showing strain (East Asia Forum)
+> Malaysia's Pakatan Harapan-Barisan Nasional unity government is showing increasing stress as PKR veterans Rafizi Ramli and Nik Nazmi have departed, leaving PM Anwar Ibrahim's party vulnerable ahead of its June 25–28 national congress in Melaka. A popular Kuala Lumpur MP is reportedly challenging the party leadership, while the fraying Harapan-BN alliance highlights the limits of coalition politics of convenience. Malaysia is widely expected to head into a general election in late 2026 or early 2027. [East Asia Forum](https://eastasiaforum.org/2026/02/08/malaysia-enters-election-mode-in-2026/)
+
+> [!note]- World: Ukraine drones pierce Moscow air defences — black smoke rises over Gazprom Neft oil refinery (Reuters)
+> Ukraine launched a large-scale drone attack on Moscow, with multiple drones penetrating Russian air defences and striking near Gazprom Neft's Moscow oil refinery, sending black smoke visible across the capital. Russia claimed to intercept most of the drones but acknowledged damage at the refinery site. The attack represents one of the deepest-reaching Ukrainian drone strikes on Russian capital infrastructure since the war began. [Reuters](https://www.reuters.com/)
+
+> [!breaking]- World: FIFA World Cup 2026 — Canada scores historic first-ever win; Mexico reach knockouts (ESPN)
+> Canada recorded their first-ever FIFA World Cup finals victory on June 19, with Jonathan David scoring a hat-trick in an electric home-nation atmosphere at the expanded North American tournament. Mexico simultaneously secured their place in the knockout stage, capping a dramatic group stage day that continues to draw record global viewership. The results mark another milestone in what is shaping up to be a defining World Cup for North American football. [ESPN](https://www.espn.com/soccer/story/_/id/49114848/world-cup-2026-today-blog-19-06-2026-live-updates-news-fixtures-schedule-results-mexico-canada-win)
+
+> [!note]- Tech: OpenAI tops $25B revenue, eyes IPO, acquires Python devtools maker Astral (Crescendo AI)
+> OpenAI has surpassed $25 billion in annualized revenue and is reportedly taking early steps toward a public listing potentially as soon as late 2026. The company also confirmed the acquisition of Astral, creators of the widely-used open-source Python tools uv and ruff, expanding its developer ecosystem footprint. Meanwhile NVIDIA and SK Hynix announced a multiyear partnership to co-develop next-generation memory for AI infrastructure, spanning Vera Rubin supercomputers, RTX Spark PCs, and Jetson Thor. [Crescendo AI](https://www.crescendo.ai/news/latest-ai-news-and-updates)
+
+> [!note]- Science: Jackfruit latex and pomegranate peel biomaterial shows promise for severe gum disease (ScienceDaily)
+> Researchers have developed a new biomaterial combining jackfruit latex, pomegranate peel extract, and simvastatin that early tests show can combat infection and inflammation in severe periodontitis while potentially helping to rebuild lost bone and gum tissue. The plant-derived compound offers a potentially low-cost alternative to expensive clinical interventions for gum disease, which affects hundreds of millions globally. Researchers say it combines antimicrobial, anti-inflammatory, and regenerative properties in a single delivery vehicle. [ScienceDaily](https://www.sciencedaily.com/news/)
 
 > [!note]- [[06-18-26 Thu]]
 >
