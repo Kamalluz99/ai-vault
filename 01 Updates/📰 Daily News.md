@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-06-21T05:08
+updated: 2026-06-21T06:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -106,6 +106,9 @@ unread: true
 >
 > > [!note]- Science: ISS astronauts grow blood stem cells in microgravity — space-made therapies for cancer and blood disorders (NASA)
 > > Expedition 74 astronauts aboard the International Space Station are running the InSPA-StemCellEX-H2 investigation, harvesting blood stem cells inside the Kibo module's Life Science Glovebox to produce therapies for cancer and blood disorders on Earth. Microgravity causes stem cells to self-replicate more efficiently and at higher quality than on the ground, and space-grown cells may carry reduced rejection risk in patients. June marks a key harvest phase, with the research targeting large-scale pharmaceutical production of blood stem cells. [Source](https://www.nasa.gov/blogs/spacestation/2026/06/01/stem-cell-research-for-cancer-spacesuit-work-kick-off-june/)
+>
+> > [!note]- Nike (NKE): $44.26 last close Thu Jun 18 (−2.1%); mkts closed Fri+Sat; Q4 FY2026 earnings Jun 30; −$1,262 unrealised (Yahoo Finance)
+> > Nike's most recent close is $44.26 (Thursday June 18, −2.1%), having reversed an early-session rally to $45.20 on above-average volume after the Fed's hawkish dot-plot signal weighed on consumer discretionary. US markets were closed Friday June 19 for Juneteenth and remain closed Saturday; trading resumes Monday June 22. The 46-share position at avg cost $71.69 carries an unrealised loss of approximately −$1,262 (46 × −$27.43). Q4 FY2026 earnings on June 30 (~1:15pm PT) are the next hard catalyst; 38 analysts rate NKE a Buy with consensus target $59.58 (+34% upside). [Source](https://finance.yahoo.com/quote/NKE/)
 >
 > > **Evening update**
 >
