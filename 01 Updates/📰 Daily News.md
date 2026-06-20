@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-06-20T08:00
+updated: 2026-06-20T19:04
 topic: daily news
 frequency: daily
 ongoing: false
@@ -80,6 +80,26 @@ unread: true
 
 > [!note]- Science: ISS astronauts grow blood stem cells in microgravity — space-made therapies for cancer and blood disorders (NASA)
 > Expedition 74 astronauts aboard the International Space Station are running the InSPA-StemCellEX-H2 investigation, harvesting blood stem cells inside the Kibo module's Life Science Glovebox to produce therapies for cancer and blood disorders on Earth. Microgravity causes stem cells to self-replicate more efficiently and at higher quality than on the ground, and space-grown cells may carry reduced rejection risk in patients. June marks a key harvest phase, with the research targeting large-scale pharmaceutical production of blood stem cells. [Source](https://www.nasa.gov/blogs/spacestation/2026/06/01/stem-cell-research-for-cancer-spacesuit-work-kick-off-june/)
+
+> **Evening update**
+
+> [!note]- SG: HarbourFront Centre to shut July 27 — sudden closure announced (Mothership)
+> HarbourFront Centre, Singapore's waterfront retail landmark at the VivoCity precinct, announced on June 20 via Facebook that it will cease all operations on July 27, 2026. The closure comes without a publicly stated reason but follows wider consolidation pressures in Singapore's traditional retail sector as shoppers shift to integrated developments. Tenants and visitors have roughly five weeks to make final arrangements before the mall closes for the last time. [Mothership](https://mothership.sg/)
+
+> [!note]- Malaysia: Anwar secures Petronas stake in Turkmenistan gas fields (Bernama)
+> Prime Minister Datuk Seri Anwar Ibrahim announced on June 20 that Petronas has been granted the opportunity to lead development of two major gas-field blocks in Turkmenistan — one of the world's largest natural gas reserves — secured during bilateral meetings on the sidelines of the ASEAN-Russia Summit in Kazan. The deal is a significant upstream expansion for Malaysia's national oil company and forms part of Anwar's broader Central Asia energy-diplomacy push. Production-sharing terms and development timelines are expected to be detailed in the coming weeks. [Bernama](https://www.bernama.com/)
+
+> [!note]- World: Scotland fall to Morocco 1-0 — USA clinch World Cup round of 16 (ESPN)
+> Morocco edged Scotland 1-0 at Bank of America Stadium in Charlotte, with Ismael Saibari striking in the second minute to hand the Atlas Lions all three points and leave Scotland needing a result against Brazil in their final group match to survive. The United States clinched a spot in the round of 16 with a victory over Paraguay, becoming only the second team after Mexico to book a knockout-stage berth in the expanded 48-team tournament co-hosted across North America. Scotland's do-or-die encounter with Brazil promises to be one of the most-watched matches of the group stage. [ESPN](https://www.espn.com/soccer/story/_/id/49123861/world-cup-2026-today-blog-20-06-2026-live-updates-news-fixtures-schedule-results-scotland-morocco-brazil)
+
+> [!note]- World: UK's Burnham wins Parliament seat, positions as Starmer challenger (AP)
+> Greater Manchester Mayor Andy Burnham won a by-election for a seat in the UK Parliament on June 20, entering Westminster as one of Labour's most popular and credible figures. His arrival positions him as a potential challenger to embattled Prime Minister Keir Starmer, who faces growing backbench unrest following the resignation of his defence secretary and criticism over defence underfunding. Burnham's move into Parliament is widely read as a deliberate step to build a Westminster platform ahead of a possible leadership contest. [AP News](https://apnews.com/)
+
+> [!note]- Tech: MiniMax M3 cuts AI compute to 1/20th with 1M-token context (AI News)
+> Chinese AI lab MiniMax unveiled its M3 model, claiming per-token compute requirements just one-twentieth of comparable frontier models while natively supporting up to one million tokens with 9× faster prefilling and 15× faster decoding at long-context workloads. If validated at production scale, M3 would dramatically compress the cost of large-context AI deployments — a direct challenge to premium-priced Western frontier models at a time when efficiency gains are rapidly commoditising headline performance. The release joins a dense June model wave already featuring GPT-5.5 Instant, Gemini 3.5 Flash, and Claude Opus 4.8. [AI News](https://www.artificialintelligence-news.com/)
+
+> [!note]- Science: Animals found to use cross-species signals for food and safety (ScienceDaily)
+> New research published June 20 documents surprisingly sophisticated cross-species communication in animals — with members of different species using shared signals to coordinate locating food, gaining protection from larger animals, and accessing parasite-cleaning services from cleaner species. The findings challenge assumptions that complex signalling is primarily an intra-species behaviour and suggest communication complexity evolves through ecological relationships across species boundaries. Researchers say the work opens new avenues for understanding the origins of language and informs conservation strategies for ecologically interdependent species. [ScienceDaily](https://www.sciencedaily.com/news/)
 
 > [!note]- [[06-19-26 Fri]]
 >
