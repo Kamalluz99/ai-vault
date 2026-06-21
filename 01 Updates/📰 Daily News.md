@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-06-21T06:00
+updated: 2026-06-21T19:05
 topic: daily news
 frequency: daily
 ongoing: false
@@ -86,6 +86,26 @@ unread: true
 
 > [!note]- Nike (NKE): $45.20 (last close Thu Jun 18; markets closed Fri–Sun) — UBS cuts target to $50; Q4 earnings Jun 30; −$1,219 unrealised (Yahoo Finance)
 > Nike last closed at $45.20 on Thursday June 18 — up 2.3% from Wednesday's $44.19; US markets were closed Friday for Juneteenth and remain closed through the weekend. UBS lowered its Nike price target to $50 from $54, joining RBC ($50, Sector Perform) and Citi ($47) in a cluster of bearish target resets citing brand-relevance challenges and margin pressure. Q4 FY2026 earnings land June 30 — the next hard catalyst; 38-analyst consensus targets $59.58. The 46-share position (avg $71.69) carries an unrealised loss of approximately −$1,219. [Source](https://finance.yahoo.com/quote/NKE/)
+
+> **Evening update**
+
+> [!note]- SG & MY: Singapore leads world in AI use at work — 66% produce work impossible a year ago (Microsoft)
+> Microsoft's 2026 Work Trend Index ranks Singapore's workforce as the most active and responsible AI adopters globally, with 66% of local AI users reporting they now produce work that would have been impossible a year ago — compared with 58% worldwide — and 82% of "Frontier Professionals" saying the same. Singapore also leads on responsible AI: 88% of local AI users say they remain accountable for their own thinking when using AI tools. The report identifies a "Transformation Paradox" where individual adoption is outpacing organisational support, with SkillsFuture and MoM cited as key bodies that need to move faster to close the gap. [Microsoft](https://news.microsoft.com/source/asia/2026/06/16/microsofts-2026-work-trend-index-shows-singapore-workforce-ahead-on-ai-adoption-with-organisations-poised-to-capture-greater-value/)
+
+> [!note]- Malaysia: Army halts all hand-grenade training after Hobart Camp blast kills two soldiers (The Star)
+> The Malaysian Army suspended all hand-grenade training with immediate effect on June 21, following a fatal explosion at Hobart Camp's shooting range in Gurun, Kedah, on June 16 that killed Corporal Norazmi Abu Bakar (40) and Private Siti Khadijah Sungip (24) during a live-fire exercise. Defence Minister Datuk Seri Mohamed Khaled Nordin confirmed the suspension will remain in place until a board of inquiry completes a comprehensive investigation into the cause of the blast. The Yang di-Pertuan Agong Sultan Ibrahim conveyed his condolences to both families and directed the Armed Forces to conduct a thorough probe. [The Star](https://www.thestar.com.my/news/nation/2026/06/21/army-halts-hand-grenade-training-as-probe-into-blast-is-expedited-says-mohamed-khaled)
+
+> [!breaking]- World: Iran re-closes Hormuz citing Lebanon strikes — Vance in Switzerland for emergency talks (NBC News)
+> Iran's military ordered the Strait of Hormuz closed on June 21, reversing its June 19 MOU commitment in under 48 hours, after Israeli airstrikes in southern Lebanon killed at least 16 civilians on Saturday — which Tehran called a direct violation of the ceasefire framework. The US military denied Iran any legal right to close the international waterway, and President Trump threatened to impose US transit tolls if a formal deal is not concluded. Vice President JD Vance flew to Switzerland to join envoy Steve Witkoff and Jared Kushner in emergency talks aimed at salvaging the 60-day peace process before oil markets reopen Monday. [NBC News](https://www.nbcnews.com/world/iran/israel-continues-lebanon-strikes-fresh-ceasefire-rcna350952)
+
+> [!note]- World: World Cup Day 11 — Germany edge Ivory Coast 2-1; USA first back-to-back wins since 1930 (ESPN)
+> Germany overturned a deficit to beat Ivory Coast 2-1 in Group E with substitute Deniz Undav netting a stoppage-time winner, sealing their knockout-stage berth in the expanded 48-team tournament. The United States beat Australia in Seattle to clinch the round of 16, becoming the first US side to win consecutive World Cup matches since 1930 as co-host momentum builds. Curaçao goalkeeper Eloy Room tied Tim Howard's all-time World Cup saves record in a group-stage draw, delivering one of the tournament's standout individual performances. [ESPN](https://www.espn.com/soccer/story/_/id/49132616/world-cup-2026-today-blog-21-06-2026-live-updates-news-fixtures-schedule-results-curacao-make-history-germany-ivory-coast)
+
+> [!note]- Tech: ChatGPT drops below 50% AI market share for first time — Claude 10.3%, Gemini 27.7% (TechCrunch)
+> OpenAI's ChatGPT has slipped to 46.4% of the global AI assistant market — the first sub-50% reading since its 2022 launch — as Sensor Tower data shows Google Gemini reaching 27.7% and Anthropic's Claude growing to 10.3% on enterprise and productivity strength. Despite still commanding 1.1 billion monthly users, the milestone marks the end of ChatGPT's majority hold on the AI assistant market for the first time in three and a half years. Analysts cite OpenAI's February DoD deal triggering measurable user churn on values grounds, alongside the proliferation of credible frontier alternatives, as drivers of the structural shift. [TechCrunch](https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time/)
+
+> [!note]- Science: AI-designed universal coronavirus vaccine clears first human safety trial (ScienceDaily)
+> An AI-designed candidate vaccine targeting conserved protein epitopes across the coronavirus family — including SARS-CoV-2 and related bat coronaviruses — has completed its first-in-human safety trial, finding it safe, well tolerated, and able to generate broad immune responses against multiple coronavirus strains simultaneously. Researchers used AI to identify viral regions that remain unchanged across known coronaviruses, decoupling protection from strain-specific prediction and making the vaccine potentially robust to future variants and novel spillovers. The milestone advances pandemic preparedness strategy and builds on the rapid AI-driven vaccine design revolution that accelerated after COVID-19. [ScienceDaily](https://www.sciencedaily.com/)
 
 > [!note]- [[06-20-26 Sat]]
 >
