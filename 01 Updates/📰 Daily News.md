@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-06-22T19:08
+updated: 2026-06-22T23:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -103,6 +103,23 @@ unread: true
 
 > [!note]- Economy: Taiwan 2026 GDP forecast raised to 9.6%; semiconductor exports up 110% YoY on AI demand (DGBAS / Bloomberg)
 > Taiwan's government raised its 2026 economic growth forecast to 9.6%, with total exports expected to rise 39.8%, driven by AI-related semiconductor demand — chip shipments are up 110% year-on-year, data-processing machine exports up 66%, and mobile phone exports up 44%. South Korea's central bank separately estimated that strong AI chip exports will add 0.7 percentage points to Korea's 2026 real GDP. The readings mark the strongest East Asian export cycle in at least a decade, underscoring how the global AI infrastructure buildout is translating directly into macro-level growth. [Bloomberg](https://www.bloomberg.com/)
+
+> **Night update**
+
+> [!note]- Tech: SpaceX signs $6.3B Colossus compute deal with Reflection AI (CNBC)
+> SpaceX has locked in a $6.3 billion computing agreement with open-source AI startup Reflection AI, which will pay $150 million per month starting July for access to Nvidia GB300 chips at SpaceX's Colossus 2 data centre in Memphis through 2029. The deal cements SpaceX's AI infrastructure division as a commercial compute platform, having now signed agreements with Anthropic, Google, Cursor, and Reflection. Reflection's open-source model focus adds a strategic dimension at a moment when governments and enterprises are reassessing dependence on closed AI systems. [CNBC](https://www.cnbc.com/2026/06/22/spacex-ai-colossus-data-center-reflection.html)
+
+> [!note]- World: Far-right de la Espriella wins Colombia's presidency in razor-thin upset (Al Jazeera)
+> Far-right businessman and criminal defence attorney Abelardo de la Espriella — self-styled "El Tigre" and endorsed by President Trump — has narrowly won Colombia's presidential run-off against left-wing candidate Iván Cepeda by fewer than 250,000 votes (49.65% to 48.70%), the narrowest presidential margin in Colombia's recent history. Cepeda announced his party will contest results from 33,000 polling stations, leaving the official count pending certification; if confirmed, de la Espriella's win marks a sharp rightward turn for South America's third-largest democracy. [Al Jazeera](https://www.aljazeera.com/news/2026/6/22/far-right-de-la-espriella-elected-colombia-president-whats-next)
+
+> [!note]- World: China sanctions 10 US defence firms — bars 46 Lockheed, Raytheon, and General Dynamics units from govt procurement (Euronews)
+> China announced sanctions on 10 American military-related companies — blocking Chinese suppliers from exporting dual-use goods to drone makers and rare-earth miners including Ball Aerospace, Oshkosh Defense, L3Harris Maritime Services, and MP Materials — and directed government entities to cease procurement from 46 US firms including multiple units of Lockheed Martin, Raytheon, and General Dynamics. The measures are a direct tit-for-tat after the Pentagon added Alibaba and Baidu to its Chinese military company list earlier this month, signalling that US-China technology and defence decoupling is accelerating well beyond the semiconductor sector. [Euronews](https://www.euronews.com/2026/06/22/china-announces-sanctions-on-10-us-companies-as-trade-tensions-flare)
+
+> [!note]- Science: Two NMOSD patients achieve long-term remission via stem cell transplant — first documented cure-like outcome (Cell Press)
+> Two patients with neuromyelitis optica spectrum disorder — a severe autoimmune disease that attacks the spinal cord and optic nerve, often causing paralysis and blindness — have achieved long-term remission following allogeneic haematopoietic cell transplantation after failing standard immunosuppressive therapy, according to a study published in Cell Med. The cases represent the first documented evidence of sustained disease-free survival after allo-HCT in NMOSD, with researchers describing the outcome as a potential pathway toward a functional cure for treatment-refractory patients. [Cell Press](https://www.cell.com/med/abstract/S2666-6340(26)00182-0)
+
+> [!note]- Nike (NKE): $45.20 (day range $44.24–$45.71, roughly flat on reopen); Q4 earnings Jun 30 in 8 days; −$1,219 unrealised (Yahoo Finance)
+> Nike traded within a $1.47 range on Monday's market reopen — its first trading day since the Juneteenth holiday — closing approximately flat at $45.20, unable to capture the broader Nasdaq +2.43% tech rebound amid persistent brand-headwind sentiment. Down 30% year-to-date, the stock faces UBS ($50 target) and Citi ($47 target) Neutral ratings heading into Q4 FY2026 earnings on June 30 (consensus EPS $0.12, −21% YoY); 38-analyst Buy consensus targets $59.58. The 46-share position at avg cost $71.69 carries an unrealised loss of ~−$1,219. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
 
 > [!note]- [[06-21-26 Sun]]
 >
