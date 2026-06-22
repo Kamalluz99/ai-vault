@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-06-22T05:00
+updated: 2026-06-22T19:08
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,26 @@ unread: true
 
 > [!note]- Nike (NKE): $45.20 (last close Thu Jun 18; markets reopen today) — UBS & Citi cut targets; Q4 earnings Jun 30; −$1,219 unrealised (Yahoo Finance)
 > Nike last closed at $45.20 on Thursday June 18 — US markets were closed Friday for Juneteenth and all weekend; trading resumes Monday June 22. UBS cut its price target to $50 (from $54) and Citi to $47 (from $53), both maintaining Neutral, citing brand-relevance challenges and margin pressure ahead of Q4 FY2026 earnings on June 30. The 46-share position at avg cost $71.69 carries an unrealised loss of approximately −$1,219 (46 × −$26.50). 38-analyst consensus remains Buy with avg target $59.58. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
+
+> **Evening update**
+
+> [!note]- SG & MY: Scoot relaunches Singapore–Jeddah route today, first service since ME conflict (Yahoo News SG)
+> Budget carrier Scoot relaunched its Singapore–Jeddah route on June 22, nearly four months after suspending the service when Middle East hostilities closed Gulf airspace and diverted global traffic. The resumption — enabled by the June 19 US-Iran MOU and the phased Strait of Hormuz reopening — restores a key pilgrim and worker corridor between Singapore and Saudi Arabia, marking the first normalisation of Singapore-Gulf air links since February's escalation. Singapore Airlines' Riyadh launch remains deferred to September 1 pending further stability. [Yahoo News SG](https://sg.news.yahoo.com/scoot-resume-flights-between-singapore-054226719.html)
+
+> [!note]- Malaysia: LRT3 line to begin operations June 29, linking Shah Alam to Klang Valley rail network (The Star)
+> Transport Minister Anthony Loke announced that Malaysia's Light Rail Transit 3 will open commercially on June 29, connecting Shah Alam and surrounding Klang Valley communities to the existing integrated transit network. The LRT3 is one of the longest light rail projects in Malaysia's history and is expected to significantly ease road congestion on key KL-bound corridors. The opening — one week before Johor election nomination day — positions it as a flagship Madani government infrastructure delivery ahead of the twin state polls. [The Star](https://www.thestar.com.my/)
+
+> [!breaking]- World: UK PM Keir Starmer resigns — Labour to choose Britain's 7th PM in a decade (Al Jazeera)
+> British Prime Minister Keir Starmer announced his resignation on June 22, stepping down after mounting Labour backbench pressure less than two years into his term following the party's sweeping 2024 general election victory. A string of ministerial departures — including both top defence officials over spending disputes — and symbolic by-election losses, including the Makerfield by-election, accelerated his downfall. Starmer asked Labour's NEC to open leadership nominations from July 9, with former Manchester Mayor Andy Burnham the frontrunner; a new prime minister is expected before parliament returns in September, making this Britain's seventh leader in just over a decade. [Al Jazeera](https://www.aljazeera.com/news/2026/6/22/uks-starmer-announces-resignation-from-office-after-mounting-pressure)
+
+> [!note]- World: US-Iran Day 2 talks in Switzerland yield tentative ceasefire extension, nuclear track survives (PBS NewsHour)
+> US and Iranian negotiators concluded their second day of direct talks in Bürgenstock on June 22, reaching a tentative agreement to extend the ceasefire and keep the 60-day nuclear negotiation window open despite Iran's Hormuz re-closure following Israeli strikes on Lebanon. The package under discussion includes uranium enrichment limits, ballistic programme restrictions, phased sanctions relief, and Hormuz navigation guarantees, with Pakistan mediating. No signed text has been produced yet; Lebanon hostilities remain the central sticking point as talks continue into the week. [PBS NewsHour](https://www.pbs.org/newshour/world/u-s-and-iranian-negotiators-reach-tentative-deal-to-extend-ceasefire-and-start-new-nuclear-talks)
+
+> [!note]- Tech: FERC orders all six US grid operators to fast-track AI data centre connections amid power crunch (FERC)
+> The US Federal Energy Regulatory Commission issued "show cause" orders to all six regional grid operators on June 18, requiring each to defend its interconnection framework or propose reforms that let large-load customers — specifically AI data centres — connect to the grid faster. Microsoft has added over 4 GW of new data centre capacity in 18 months and CoreWeave targets 1.7 GW by year-end, at a pace existing queue systems cannot absorb without reform. The directive arrives days after Trump's frontier-AI model review executive order, framing power-grid bottlenecks as a national AI-competitiveness issue alongside model oversight. [FERC](https://www.ferc.gov/)
+
+> [!note]- Economy: Taiwan 2026 GDP forecast raised to 9.6%; semiconductor exports up 110% YoY on AI demand (DGBAS / Bloomberg)
+> Taiwan's government raised its 2026 economic growth forecast to 9.6%, with total exports expected to rise 39.8%, driven by AI-related semiconductor demand — chip shipments are up 110% year-on-year, data-processing machine exports up 66%, and mobile phone exports up 44%. South Korea's central bank separately estimated that strong AI chip exports will add 0.7 percentage points to Korea's 2026 real GDP. The readings mark the strongest East Asian export cycle in at least a decade, underscoring how the global AI infrastructure buildout is translating directly into macro-level growth. [Bloomberg](https://www.bloomberg.com/)
 
 > [!note]- [[06-21-26 Sun]]
 >
