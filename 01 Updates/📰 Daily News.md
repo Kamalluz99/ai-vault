@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-06-23T05:00
+updated: 2026-06-23T19:05
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,26 @@ unread: true
 
 > [!note]- Nike (NKE): ~$45.20 (Jun 22 close; day range $44.24–$45.71) — Q4 earnings Jun 30; −$1,219 unrealised on 46 shares (Yahoo Finance)
 > Nike recovered with the broader market Monday — Nasdaq +2.43%, S&P +0.93% — closing around $45.20 with a day range of $44.24–$45.71. Q4 FY2026 earnings land June 30 (~1:15pm PT), the next hard catalyst; consensus EPS is $0.12 (−21% YoY) on $10.85B revenue. CEO Elliott Hill's "Win Now" turnaround and World Cup activations are generating cautious optimism despite UBS ($50) and Citi ($47) target cuts. The 46-share position (avg $71.69) carries an unrealised loss of approximately −$1,219. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
+
+> **Evening update**
+
+> [!note]- SG & MY: SG-KL flight corridor integrates as SIA and MAS launch joint fares (Travel and Tour World)
+> Malaysia Airlines and Singapore Airlines deepened their commercial partnership on the Singapore–Kuala Lumpur corridor on June 23, introducing a structured joint fare system that moves the relationship beyond traditional codeshare arrangements into a more integrated commercial framework. Coordinated schedules and expanded customer benefits are expected to follow, with the partnership building on broader bilateral momentum including the Johor–Singapore Special Economic Zone and ongoing cross-border corporate migration. [Travel and Tour World](https://www.travelandtourworld.com/news/article/2xl2ybe8z6w3/)
+
+> [!note]- Malaysia: PCM rebrands as Parti Wawasan Negara; Hamzah takes helm, joins PN (Free Malaysia Today)
+> Parti Cinta Malaysia formally rebranded as Parti Wawasan Negara on June 23 after a unanimous EGM vote, with former Deputy PM Hamzah Zainudin installed as president and veteran politician Rais Yatim appointed chairman — a restructuring proposed by PAS president Hadi Awang to anchor the party within Perikatan Nasional. The Penang-based party, which spent 16 years without winning a single parliamentary or state assembly seat, is now set to act as a PN "bridge" to broaden coalition support beyond its Malay-Muslim base. PCM co-founder Huan Cheng Guan remains as vice-president under the new leadership. [Free Malaysia Today](https://www.freemalaysiatoday.com/category/nation/2026/06/23/wawasan-takes-parti-cinta-malaysia-to-new-level-says-huan)
+
+> [!breaking]- World: Seoul's Kospi crashes 10% in Asia-wide tech rout after Wall St sell-off (Yahoo Finance)
+> South Korea's Kospi index plunged 10% on Tuesday as Asian markets followed a tech-led Wall Street sell-off that saw investors question the durability of the AI-fuelled equity boom, with chip giants SK Hynix and Samsung tumbling more than 12% each. Japan's Nikkei fell 3.6% and Hong Kong's Hang Seng dropped 2.1%, while Alphabet fell over 5% in the US with the Nasdaq off 1.3% and the S&P 500 down 0.4%. The rout marks one of the sharpest single-session drops for Asian markets in 2026, raising concern that AI-related valuations have outpaced underlying fundamentals. [Yahoo Finance](https://finance.yahoo.com/markets/world-indices/articles/stocks-fluctuate-wall-st-sell-023644743.html)
+
+> [!note]- World: US and Iran agree 60-day nuclear deal roadmap after productive Swiss talks (PBS NewsHour)
+> Washington and Tehran agreed on a "roadmap" to reach a final nuclear deal within 60 days after talks in Switzerland, with the US Treasury issuing a temporary general licence authorising the production, delivery, and sale of Iranian oil through August. The framework under negotiation covers uranium enrichment limits, ballistic missile restrictions, phased sanctions relief, and Hormuz navigation guarantees, with Pakistan serving as a key mediator. Lebanon hostilities remain the central sticking point and no final signed text has been produced, though both sides signalled intent to keep the diplomatic window open. [PBS NewsHour](https://www.pbs.org/newshour/world/u-s-and-iranian-negotiators-reach-tentative-deal-to-extend-ceasefire-and-start-new-nuclear-talks)
+
+> [!note]- Tech: Fable 5 exits free subscriptions today as Gemini 3.5 Pro eyes June 30 GA (Build Fast with AI)
+> Anthropic's Claude Fable 5 moved to paid-only access on June 23, ending its included-in-subscription window — though the model was suspended June 12–18 under the US export-control directive flagging SK Telecom, meaning subscribers effectively received only 4–5 of the advertised 13 free days. Simultaneously, Google's Gemini 3.5 Pro is inside its general availability window (expected by June 30), featuring a 2-million-token context window — the largest of any production frontier model — with a Deep Think reasoning mode gated to the $250/month Ultra tier. The back-to-back monetisation moves mark a structural shift as frontier AI labs move to capture value from the capabilities race. [Build Fast with AI](https://www.buildfastwithai.com/blogs/ai-news-today-june-23-2026)
+
+> [!note]- Economy: World Bank cuts 2026 global growth to 2.5% — weakest per-capita since pandemic (World Bank)
+> The World Bank's June 2026 Global Economic Prospects report projects global growth slowing to 2.5% this year, with emerging market and developing economies facing their weakest per capita income growth since COVID-19 as Middle East conflict drives energy prices higher. Bright spots include Taiwan — which raised its 2026 GDP forecast to 9.6% on AI semiconductor demand, with chip exports up 110% year-on-year — and South Korea, where AI chip exports add an estimated 0.7 percentage points to real GDP. The divergence underscores how the AI infrastructure buildout is creating uneven growth, with tech-exporting economies outperforming while energy-importing developing nations bear the brunt of the oil shock. [World Bank](https://openknowledge.worldbank.org/entities/publication/e96798d7-a81d-44ea-8287-1b4d6ea83f75)
 
 > [!note]- [[06-22-26 Mon]]
 >
