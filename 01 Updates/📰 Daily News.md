@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-06-24T05:00
+updated: 2026-06-24T19:06
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,26 @@ unread: true
 
 > [!note]- Nike (NKE): ~$43.19 (approx, −~4.4% from Mon $45.20) — analyst targets cut; Q4 earnings Jun 30; −~$1,311 unrealised on 46 shares (Yahoo Finance)
 > Nike has drifted to approximately $43.19, down roughly 4.4% from Monday's $45.20 close, tracking the Nasdaq rout rather than any company-specific catalyst. UBS ($50), RBC ($50, Sector Perform), and Citi ($47) have all trimmed price targets recently, with a 38-analyst consensus Buy at $59.58. Q4 FY2026 earnings land June 30 (EPS consensus $0.12, −21% YoY) — the next hard catalyst. The 46-share position (avg $71.69) carries an unrealised loss of approximately −$1,311. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
+
+> **Evening update**
+
+> [!note]- SG & Malaysia: El Niño haze risk upgraded to HIGH for SEA — Aug-Sep peak (SIIA)
+> The Singapore Institute of International Affairs upgraded Southeast Asia's transboundary haze outlook to "high" on June 24 — the highest of three risk tiers and the first time since 2023 — as El Niño-driven heat and dryness are projected to peak in August-September, putting Singapore, Malaysia, Indonesia, and Brunei on alert. Fire hotspots in Indonesian and Malaysian palm-oil growing regions have already hit a seven-year high, and a concurrent positive Indian Ocean Dipole phase could amplify drought conditions further. Governments across the region have been urged to activate emergency haze preparedness protocols ahead of the critical seasonal window. [Bloomberg](https://www.bloomberg.com/news/articles/2026-06-24/el-nino-is-raising-the-risk-of-severe-haze-in-southeast-asia)
+
+> [!note]- Malaysia: 42,807 jobs lost in H1 2026, closures cited as main cause (The Star)
+> Malaysia recorded 42,807 job losses nationwide from January to June 2026, with the Human Resources Minister attributing the majority to business closures and company downsizing amid sustained global economic headwinds. The losses coincide with AI-driven labour restructuring across Southeast Asian industries, trade disruption stemming from the Iran conflict, and contraction in key export-oriented manufacturing sectors. The government has pledged to accelerate reskilling programmes under the MADANI economic agenda to absorb displaced workers and bolster workforce resilience. [The Star](https://www.thestar.com.my/)
+
+> [!note]- World: US passes landmark housing supply bill 358-32 — largest in decades (NPR)
+> The US House passed the 21st Century ROAD to Housing Act 358-32, sending the largest US housing affordability legislation in decades to President Trump's desk after the Senate approved it with overwhelming bipartisan support. Co-led by Senators Elizabeth Warren and Tim Scott, the bill contains over 50 provisions to remove construction barriers, restrict large institutional investors from holding excessive single-family home inventories, and direct federal funds to local governments that accelerate homebuilding approvals. Analysts say the legislation could begin to ease a structural housing shortage that has driven rents and home purchase prices to record levels since 2020. [NPR](https://www.npr.org/2026/06/23/nx-s1-5867575/congress-passes-housing-affordability-bill)
+
+> [!note]- World: Iran denies inspection deal; Congress votes to pull US forces (CBS News)
+> US President Trump claimed Iran had agreed to accept nuclear inspections, but Tehran's foreign ministry flatly denied the assertion as "baseless," deepening uncertainty about whether the June-19 MOU framework will hold ahead of its 60-day resolution deadline. Congress separately passed a resolution directing Trump to remove American armed forces from hostilities against Iran, which Trump dismissed on Truth Social as "poorly timed and meaningless." Talks continue in Switzerland with Pakistan acting as a key intermediary, while Lebanon hostilities remain the central sticking point blocking a final signed agreement. [CBS News](https://www.cbsnews.com/live-updates/iran-us-war-trump-nuclear-sites-strait-of-hormuz/)
+
+> [!note]- Tech: China's LineShine reclaims world's fastest supercomputer title (Engadget)
+> China's LineShine, located at the National Supercomputing Centre in Shenzhen, topped the biannual Top500 rankings announced at ISC 2026 in Hamburg — the first time a Chinese system has held the number one position since 2017, dethroning the US DOE's El Capitan. Running entirely on domestic general-purpose CPUs without GPUs, LineShine achieved 2.198 exaflops — a 20% performance lead — demonstrating China can build cutting-edge high-performance computing without restricted semiconductor components. The result challenges assumptions about the effectiveness of US export controls in curbing China's scientific and AI computing capabilities. [Engadget](https://www.engadget.com/2199608/china-lineshine-supercomputer-is-worlds-fastest/)
+
+> [!note]- Economy: Malaysia's CO2 per capita near-doubled to 8.16t since 1994 (The Star)
+> Malaysia's per-capita carbon dioxide output has climbed to 8.16 tonnes — nearly double the figure from 30 years ago — as newly released government data underscores the scale of the challenge facing the country's net-zero by 2050 commitment. Rapid industrialisation, energy-intensive manufacturing expansion, and decades of heavily subsidised domestic fuel have driven the rise, which officials say is being addressed through the National Energy Transition Roadmap and MADANI-aligned green investment frameworks. Critics note Malaysia remains among ASEAN's highest per-capita emitters, placing its 2050 climate targets under increasing scrutiny as international carbon-border mechanisms tighten. [The Star](https://www.thestar.com.my/)
 
 > [!note]- [[06-23-26 Tue]]
 >
