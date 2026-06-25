@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-06-25T19:03
+updated: 2026-06-25T22:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -103,6 +103,23 @@ unread: true
 
 > [!note]- Science/Economy: Brent crude hits 4-month low at $73.74 as Iran sanctions ease; Alphabet to join Dow Jones replacing Verizon (CNBC)
 > Brent crude fell 4.33% to $73.74 per barrel — its lowest level since before the US and Israel launched airstrikes on Iran — as the temporary US lifting of oil sanctions on Iran and advancing Strait of Hormuz reopening prospects eased supply fears. Separately, Alphabet (GOOGL) will replace Verizon in the 30-stock Dow Jones Industrial Average ahead of Monday's open, further cementing mega-cap technology's dominance of the blue-chip index. [CNBC](https://www.cnbc.com/2026/06/23/stock-market-today-live-updates.html)
+
+> **Night update**
+
+> [!breaking]- World: Iran's IRGC strikes Singapore-flagged vessel in Hormuz — transit fee standoff turns kinetic (CBS News)
+> Iran's Islamic Revolutionary Guard Corps struck a Singapore-flagged commercial cargo vessel in the Strait of Hormuz on Thursday evening near the Oman coast, damaging the bridge; UK Maritime Trade Operations confirmed no injuries and the ship continued its passage. Iran's Persian Gulf Strait Authority warned that vessels transiting outside its designated routes will not receive safe passage guarantees, with liability falling on owners and operators — effectively codifying a toll-enforcement mechanism just six days after the US-Iran MOU was signed. The incident is the first confirmed IRGC strike on a commercial vessel since the ceasefire framework, injecting serious doubt about the durability of the June 19 deal. [CBS News](https://www.cbsnews.com/live-updates/us-iran-war-trump-strait-of-hormuz-oil-prices/)
+
+> [!note]- Macro: S&P 500 closes +0.52% as Micron surge absorbs hot PCE; 10Y yield falls to 4.39% (TheStreet)
+> Wall Street recovered Thursday — S&P 500 +0.52%, Dow +0.65%, Nasdaq +0.24% — as Micron Technology's prior-night blowout earnings (shares +17%) overrode concern from May PCE data showing headline inflation at 4.1% annualised, the highest since April 2023. Core PCE rose 0.3% month-on-month (3.4% annualised), in line with forecasts; the monthly undershoot eased September rate-hike fears. The 10Y Treasury yield fell to 4.39%, its lowest since mid-May, suggesting bond markets read the PCE as consistent with a pause. [TheStreet](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-25-2026)
+
+> [!note]- Tech: SK Hynix confirms record $29.65B Nasdaq ADR listing targeting July 10 (CNBC)
+> SK Hynix confirmed it will list American depositary receipts on the Nasdaq targeting July 10, seeking to raise $29.65 billion — the largest ADR offering in history, surpassing Alibaba's $21.8 billion New York debut in 2014. All proceeds are earmarked for AI memory infrastructure: the Yongin semiconductor cluster fab, a Cheongju advanced-packaging facility for HBM, and EUV equipment purchases. SK Hynix shares surged 12% on the confirmation; the company commands roughly 60% of the global high-bandwidth memory market. [CNBC](https://www.cnbc.com/2026/06/25/chip-tech-stocks-sk-hynix-nasdaq-adr-listing-29-billion-ai-investment.html)
+
+> [!note]- Science: JWST confirms salt clouds on 'Pink Planet' GJ504b — first direct evidence vindicates 15-year theory (Space.com)
+> James Webb Space Telescope observations of GJ504b — the Pink Planet, a 25-Jupiter-mass gas giant 57 light-years away — have yielded the first direct evidence of sodium sulphide and potassium chloride salt clouds in a cold object's atmosphere, confirming a theoretical prediction that went unverified for 15 years. Northwestern University's team captured the result in a two-hour JWST session that outpaced entire nights of ground-telescope attempts, finding the salt clouds essential to explaining the planet's unique near-infrared spectrum. The study was published in The Astronomical Journal on June 18. [Space.com](https://www.space.com/astronomy/exoplanets/james-webb-space-telescope-finds-a-salty-surprise-on-famous-pink-planet)
+
+> [!note]- Nike (NKE): $41.65 (−1.1% Jun 25 close); −$1,382 unrealised on 46 shares; Q4 earnings Jun 30 (Yahoo Finance)
+> Nike closed Thursday June 25 at $41.65, down approximately 1.1%, trading in a tight range of $41.35–$41.86 as the broad Micron-led market recovery failed to lift consumer discretionary. The stock sits 42% below its 52-week high of $80.17. The 46-share position (avg cost $71.69) carries an unrealised loss of approximately −$1,382 (46 × −$30.04). Q4 FY2026 earnings land next Thursday June 30; consensus EPS is $0.11 (−21.4% YoY) with a $1 billion tariff refund expected to be disclosed separately. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
 
 > [!note]- [[06-24-26 Wed]]
 >
