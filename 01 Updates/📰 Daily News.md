@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-06-25T05:00
+updated: 2026-06-25T19:03
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,26 @@ unread: true
 
 > [!note]- Nike (NKE): $42.12 (−0.63%) — new CFO David Denton named effective Aug 17; Q4 earnings Jun 30; −$1,360 unrealised on 46 shares (Yahoo Finance)
 > Nike closed at $42.12, down 0.63%, after naming David Denton as CFO to replace Matthew Friend effective August 17 and reaffirming Q4 FY2026 guidance — noting results include a one-time tariff refund that, when excluded, aligns with prior guidance. Q4 earnings land June 30; consensus EPS is $0.12 (−21% YoY). The 46-share position (avg cost $71.69) carries an unrealised loss of approximately −$1,360 (46 × −$29.57). [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
+
+> **Evening update**
+
+> [!note]- SG & MY: Changi-KLIA hub reshaped as SIA, MAS, Air India and Asiana join 2026 Asia-Pacific network shift (Travel and Tour World)
+> A major Asia-Pacific aviation realignment in 2026 is consolidating traffic through Singapore's Changi Airport and Malaysia's KLIA, with Singapore Airlines, Malaysia Airlines, Air India, and Asiana Airlines forming a 1,900+-flight network around the two hubs. The restructuring is part of a broader regional aviation shake-up touching hotel-access travel ecosystems across the corridor and reinforcing Changi and KLIA as twin anchors of Southeast Asia's air connectivity. [Travel and Tour World](https://www.travelandtourworld.com/news/article/ttzinugwbr4t/)
+
+> [!note]- Malaysia: Fuel prices drop across the board from Jun 25 — diesel −30 sen to RM4.07, RON95 −25 sen to RM3.47 (paultan.org)
+> Malaysian retail pump prices fell sharply from midnight June 24: diesel dropped 30 sen to RM4.07 per litre, unsubsidised RON95 fell 25 sen to RM3.47, and RON97 eased 25 sen to RM4.10 — all prices effective through June 30. The cuts track falling global oil prices and offer household relief as the government continues its phased fuel subsidy rationalisation programme. [paultan.org](https://paultan.org/2026/06/24/malaysian-fuel-prices-june-25-to-30-2026-diesel-down-30-sen-to-rm4-07-ron95-ron97-down-25-sen/)
+
+> [!note]- World: FIFA World Cup 2026 — Scotland lose 3-0 to Brazil but remain alive; South Korea on brink of elimination (ESPN)
+> Scotland fell 3-0 to Brazil in their final Group D match but remain in contention for a Round of 16 berth as one of the best third-placed teams, dependent on results from Belgium, Cape Verde, and Senegal. South Korea edged closer to elimination after a 1-0 defeat to South Africa, while Mexico secured their knockout stage place with a 3-0 win. Group stage drama continues with Ecuador vs Germany and Japan vs Sweden also in the mix tonight. [ESPN](https://www.espn.com/soccer/story/_/id/49172732/world-cup-2026-today-blog-25-06-2026-live-updates-news-fixtures-schedule-results-scotland-brazil-ecuador-germany-japan-sweden)
+
+> [!note]- World: Back-to-back earthquakes devastate northern Venezuela; PM Anwar among regional leaders offering condolences (Reuters)
+> Two successive earthquakes struck northern Venezuela, causing significant destruction and casualties in coastal areas. Malaysian Prime Minister Anwar Ibrahim was among regional leaders extending condolences, reflecting ASEAN's growing diplomatic engagement with Latin America. Emergency relief operations are underway as Venezuelan authorities work to assess the full scale of damage and casualties. [Reuters](https://reuters.com/)
+
+> [!note]- Tech: AI beats average humans on creativity tests — landmark 100,000-person study marks generative AI milestone (crescendo.ai)
+> A major new study comparing more than 100,000 people against today's most advanced generative AI systems found that AI can now outperform the average human on standardised creativity benchmarks — a qualitative shift researchers say goes beyond task completion into higher-order cognition. The finding coincides with June 2026 tracking 321+ AI model releases across the industry, and a broader enterprise wave where autonomous AI agents are beginning to replace repetitive business processes at scale. [crescendo.ai](https://www.crescendo.ai/news/latest-ai-news-and-updates)
+
+> [!note]- Science/Economy: Brent crude hits 4-month low at $73.74 as Iran sanctions ease; Alphabet to join Dow Jones replacing Verizon (CNBC)
+> Brent crude fell 4.33% to $73.74 per barrel — its lowest level since before the US and Israel launched airstrikes on Iran — as the temporary US lifting of oil sanctions on Iran and advancing Strait of Hormuz reopening prospects eased supply fears. Separately, Alphabet (GOOGL) will replace Verizon in the 30-stock Dow Jones Industrial Average ahead of Monday's open, further cementing mega-cap technology's dominance of the blue-chip index. [CNBC](https://www.cnbc.com/2026/06/23/stock-market-today-live-updates.html)
 
 > [!note]- [[06-24-26 Wed]]
 >
