@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-06-27T05:08
+updated: 2026-06-26T21:09
 topic: daily news
 frequency: daily
 ongoing: false
@@ -184,6 +184,24 @@ unread: true
 
 > [!note]- Nike (NKE): $41.65 (−1.1% Jun 25 close); −$1,382 unrealised on 46 shares; Q4 earnings Jun 30 (Yahoo Finance)
 > Nike closed Thursday June 25 at $41.65, down approximately 1.1%, trading in a tight range of $41.35–$41.86 as the broad Micron-led market recovery failed to lift consumer discretionary. The stock sits 42% below its 52-week high of $80.17. The 46-share position (avg cost $71.69) carries an unrealised loss of approximately −$1,382 (46 × −$30.04). Q4 FY2026 earnings land next Thursday June 30; consensus EPS is $0.11 (−21.4% YoY) with a $1 billion tariff refund expected to be disclosed separately. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
+
+> [!breaking]- AI: OpenAI launches GPT-5.6 Sol, Terra & Luna — gated to ~20 gov-approved partners (VentureBeat)
+> OpenAI unveiled three new models on June 26: Sol (flagship, best-ever across coding, biology, and cybersecurity, $5/$30 per 1M tokens), Terra (balanced, 2× cheaper than GPT-5.5), and Luna (fastest, lowest cost). In compliance with Trump's 30-day frontier-model review framework, rollout is restricted to roughly 20 government-approved partner companies, with general availability expected within weeks. GPT-5.6 Sol reportedly beats Anthropic's Mythos 5 on TerminalBench — a significant benchmark result that shifts the frontier model leaderboard. [VentureBeat](https://venturebeat.com/technology/openai-unveils-gpt-5-6-sol-terra-and-luna-models-but-only-accessible-to-limited-preview-partners-for-now-per-us-gov)
+
+> [!note]- Macro: Bitcoin falls to $59,792 — first sub-$60K since PCE shock; S&P 500 ends week −1.73% (Nexo Markets)
+> Bitcoin slid 2.11% to $59,792 on Friday, its first close below $60,000 since May's PCE-driven selloff, as May headline PCE at 4.1% annualised — a three-year high — continues pushing rate-cut expectations further out. Ethereum fell 3.37% to $1,567; total crypto market cap sits near $2.1 trillion. The S&P 500 ended the week down 1.73%, with the Nasdaq off more steeply, as AI spending concerns and stretched valuations weigh ahead of next week's June payrolls report. [Nexo Markets](https://nexo.com/blog/markets-today-june-26)
+
+> [!note]- World: France tops Group I with 3-1 win over Norway; Dembélé hat-trick books round of 32 spot (Olympics.com)
+> Ousmane Dembélé scored a hat-trick as France beat Norway 3-1 on June 26 to top Group I, confirming Les Bleus as one of the tournament's main title contenders heading into the round of 32. Senegal also secured qualification from their group, and multiple other Group Stage deciders concluded across the expanded 48-team World Cup co-hosted by the US, Canada, and Mexico. [Olympics.com](https://www.olympics.com/en/news/fifa-world-cup-2026-every-match-result-friday-26-june)
+
+> [!note]- Malaysia/SG: Johor's data centre boom scrutinised — billions invested, just 50–200 permanent jobs per facility (The Independent SG)
+> A June 26 report scrutinises Johor's AI data-centre buildout — 51 approved projects, 17 operational, 11 under construction — highlighting that despite billions in capital inflows, each facility creates only 50–200 permanent jobs since the machines largely run themselves. Johor authorities have reportedly tightened approvals and rejected up to 30% of new applications due to water and electricity constraints. Malaysian commentators are calling for a pause on new approvals until direct employment benefits can be demonstrated, a debate shaping the JS-SEZ policy conversation ahead of July's Johor state election. [The Independent SG](https://theindependent.sg/billions-invested-but-how-many-jobs-johor-s-data-centre-boom-under-scrutiny/)
+
+> [!note]- Science: Einstein Probe catches black hole tearing apart white dwarf — first-ever X-ray observation (ScienceDaily)
+> Astronomers may have witnessed one of the rarest cosmic events ever observed: an intermediate-mass black hole ripping apart and devouring a dense white dwarf star. China's Einstein Probe space telescope caught the explosion in its earliest moments on July 2, 2025, revealing an unprecedented sequence of intense X-ray flashes unlike anything seen in a typical gamma-ray burst — a potential first observation of this long-theorised tidal disruption process published June 25. [ScienceDaily](https://www.sciencedaily.com/releases/2026/06/260625060222.htm)
+
+> [!note]- Nike (NKE): $40.90 (−1.8%) — range $40.44–$41.86; −$1,416 unrealised on 46 shares; Q4 Mon Jun 30 (Yahoo Finance)
+> Nike closed Friday June 26 at approximately $40.90, down roughly 1.8% from Thursday's $41.65, within a day range of $40.44–$41.86. The stock has fallen on four of the last five sessions and sits 43% below its 52-week high of $80.17. The 46-share position (avg cost $71.69) carries an unrealised loss of approximately −$1,416 (46 × −$30.79). Q4 FY2026 earnings land Monday June 30 — the next major catalyst; consensus EPS is $0.11 (−21.4% YoY) with a $1 billion tariff refund expected. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
 
 > [!note]- [[06-24-26 Wed]]
 >
