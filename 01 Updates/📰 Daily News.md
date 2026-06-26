@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-06-26T05:05
+updated: 2026-06-26T19:05
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,26 @@ unread: true
 
 > [!note]- Nike (NKE): $41.89 (≈−0.5%) — CFO David Denton confirmed Aug 17; Q4 earnings Mon Jun 30; BTIG cuts target to $55; −$1,371 unrealised on 46 shares (Yahoo Finance)
 > Nike traded between $41.31–$42.61 on June 25, last seen at $41.89, as BTIG lowered its price target to $55 from $75. CFO David Denton takes the helm August 17 on a $1.45M base salary plus $11.5M long-term incentive, and Q4 FY2026 earnings land Monday June 30 — consensus EPS $0.11 (−21% YoY), with a $1B tariff refund expected to inflate the headline number. The 46-share position (avg $71.69) carries an unrealised loss of approximately −$1,371 (46 × −$29.80). [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
+
+> **Evening update**
+
+> [!note]- SG & MY: IRGC Hormuz strike on Singapore-flagged vessel deepens maritime trade uncertainty (Reuters)
+> Iran's IRGC strike on a Singapore-flagged cargo vessel in the Strait of Hormuz is prompting fresh maritime insurance premium hikes and rerouting decisions by Asian shipping operators. Singapore's MPA and MFA are closely monitoring the situation as the city-state handles roughly 18% of global container throughput and remains acutely sensitive to Hormuz disruption. The June 25 incident — the first confirmed IRGC attack on a commercial vessel since the June 19 US-Iran MOU — casts serious doubt on the ceasefire framework and has broader implications for Southeast Asia's energy import routes. [Reuters](https://reuters.com/)
+
+> [!note]- Malaysia: US launches tariff probe on 60 countries' forced-labor imports — rubber gloves and solar panels in scope (Bloomberg)
+> The US Commerce Department launched tariff investigations targeting imports from 60 countries linked to forced-labour practices, with Malaysia's rubber glove, solar panel, and semiconductor packaging sectors among those under informal scrutiny. Malaysia has previously faced US Customs forced-labour import bans on specific glove manufacturers, and new duties of 10–12.5% could add compliance pressure on Penang's export-oriented manufacturing base. The probe is part of Washington's accelerating supply-chain decoupling agenda spanning Southeast Asian export hubs. [Bloomberg](https://www.bloomberg.com/)
+
+> [!note]- World: US Supreme Court hands Trump twin immigration victories — TPS powers upheld, asylum parole class suits barred (Reuters)
+> The US Supreme Court ruled 6-3 to uphold the Trump administration's authority to terminate Temporary Protected Status for nationals of multiple countries, and 5-4 to bar class-action challenges to asylum parole revocations — clearing the legal pathway for deportations affecting hundreds of thousands of migrants. The rulings remove two of the last major judicial obstacles to Trump's second-term immigration agenda and are expected to accelerate removal proceedings that began in early 2025. Legal advocates describe the decisions as the court's sharpest rightward turn on immigration in decades. [Reuters](https://reuters.com/)
+
+> [!note]- World: Turkey stuns USA 1-0 in 90th minute to eliminate World Cup co-host from Group Stage (ESPN)
+> Turkey defeated co-host United States 1-0 at the FIFA World Cup 2026 with a 90th-minute winner, eliminating the US from the Group Stage in an embarrassing early exit for one of the tournament's three host nations. Brazil topped Group D convincingly with a 3-0 win over Scotland, while Turkey advances to the Round of 16 and Scotland remain in mathematical contention as one of the best third-placed teams. The result is among the biggest upsets of the 2026 tournament and marks the first time a co-host has been eliminated in the group stage since 2002. [ESPN](https://www.espn.com/soccer/story/_/id/49172732/world-cup-2026-today-blog-25-06-2026-live-updates-news-fixtures-schedule-results-scotland-brazil-ecuador-germany-japan-sweden)
+
+> [!note]- Tech: US Commerce Dept orders Anthropic to geo-block foreign nationals from Fable 5 and Mythos 5 frontier models (NBC News)
+> The US Commerce Department issued a directive requiring Anthropic to block foreign nationals from accessing its two most advanced frontier AI models — Fable 5 and Mythos 5 — citing national security concerns over advanced reasoning and coding capabilities. The order is the first time a US government agency has imposed direct geo-access controls on a leading commercial AI lab's flagship products, signalling a new phase of AI export-control enforcement under the Trump administration. The restriction requires identity verification at the model-access layer, affecting users across Singapore, Malaysia, and most of the world outside the US. [NBC News](https://www.nbcnews.com/artificial-intelligence)
+
+> [!note]- Science: AI-designed pan-coronavirus vaccine clears first human trial — safe and immunogenic across major variants (ScienceDaily)
+> An AI-designed pan-coronavirus vaccine candidate successfully completed its first Phase I human trial, demonstrating safety and immunogenicity across all major SARS-CoV-2 variants and several related betacoronaviruses with pandemic potential. The antigen was generated using protein structure prediction tools trained on coronaviral genomic diversity — a new paradigm for rapid pandemic preparedness that dramatically compresses the traditional antigen-design timeline. Phase II and III trials are expected to proceed in late 2026, with researchers confident the approach can be adapted within weeks of any future coronavirus threat. [ScienceDaily](https://www.sciencedaily.com/)
 
 > [!note]- [[06-25-26 Thu]]
 >
