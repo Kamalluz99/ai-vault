@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-06-26T21:09
+updated: 2026-06-27T05:09
 topic: daily news
 frequency: daily
 ongoing: false
@@ -80,6 +80,9 @@ unread: true
 
 > [!note]- Science: NASA's Lucy reveals asteroid Donaldjohanson as wobbling peanut-shaped relic with ancient water traces (ScienceDaily)
 > NASA's Lucy spacecraft flyby of asteroid Donaldjohanson on April 20 — passing within 650 miles — revealed a bilobate, peanut-shaped object wobbling on two axes simultaneously: tumbling end-over-end every 10.5 days while rocking back and forth every 26.5 days, a result of an ancient violent collision gradually reshaped by solar radiation pressure. The asteroid also carries traces of ancient water, making it a relic of the early solar system's chaotic formation period. Lucy is now continuing toward the Jupiter Trojan asteroids, with Donaldjohanson serving as a scientific dress rehearsal for those later encounters. [ScienceDaily](https://www.sciencedaily.com/releases/2026/06/260624025455.htm)
+
+> [!note]- Nike (NKE): $40.90 (−1.8%) — Q4 earnings due Mon Jun 30; analyst downgrades persist; −$1,416 unrealised on 46 shares (Yahoo Finance)
+> Nike closed Friday June 26 at $40.90, down 1.8% from Thursday's $41.65, with Q4 FY2026 earnings due Monday June 30 — the key near-term catalyst. Multiple analysts have slashed targets (Deutsche Bank to $43, Oppenheimer to $60, BTIG to $55) and the stock is down roughly 70% over five years, sitting below the 200-day SMA near the bottom of its 52-week range. The 46-share position (avg cost $71.69) carries an unrealised loss of approximately −$1,416 (46 × −$30.79). [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
 
 > [!note]- [[06-26-26 Fri]]
 >
