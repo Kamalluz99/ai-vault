@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-06-27T19:04
+updated: 2026-06-27T21:30
 topic: daily news
 frequency: daily
 ongoing: false
@@ -103,6 +103,17 @@ unread: true
 
 > [!note]- Science/Economy: Michigan sentiment at 48.9% near historic low; China squeezes US rare earth supply chain (Schwab / Reuters)
 > The University of Michigan's final June consumer sentiment reading held at 48.9% — near historic lows — as AI infrastructure spending concerns, persistent inflation, and Fed hawkishness continue to weigh on US households ahead of the July 4 holiday weekend. Separately, China imposed export controls targeting MP Materials and USA Rare Earth, two Pentagon-backed firms operating the only rare earth mines on US soil, tightening Beijing's chokehold on materials critical to EV motors, defence systems, and semiconductor manufacturing. The dual drag of weak domestic demand and strategic-material supply pressure underscores the fragility of the AI-driven growth narrative as H1 2026 closes. [Charles Schwab](https://www.schwab.com/learn/story/stock-market-update-open)
+
+> **Night update**
+
+> [!note]- Tech: DeepSeek doubles workforce after landmark $7.4B Series A at $50B+ valuation (Silicon Republic)
+> DeepSeek closed its first-ever external funding round on June 16 — raising over $7.4 billion at a post-money valuation between $52B and $59B — and is now preparing to double its workforce across technical, legal, finance, HR, and engineering roles. Founder Liang Wenfeng contributed $3B personally; Tencent invested $1.5B and CATL $740M, while China's state AI fund received the only voting rights in an unusual governance structure that locks outside investors in for five years without equity votes. The round puts DeepSeek in direct competition with Anthropic ($965B valuation) and OpenAI ($852B) at a fraction of their capitalisation, and the workforce expansion signals an ambition to operationalise its R1-era model advantage at global scale. [Silicon Republic](https://www.siliconrepublic.com/business/the-information-deepseek-raises-7-4bn-at-50bn-plus-valuation)
+
+> [!note]- Science: Einstein Probe may have captured first-ever intermediate-mass black hole consuming a white dwarf (ScienceDaily)
+> China's Einstein Probe space telescope detected an anomalously bright X-ray transient in July 2025 that researchers, publishing June 25, now identify as the strongest candidate yet for an intermediate-mass black hole (IMBH) tearing apart and consuming a white dwarf star via a tidal disruption event. The event produced an unusual sequence of intense X-ray flashes unlike typical gamma-ray bursts, filling the critical observational gap between stellar-mass and supermassive black holes. If confirmed, it would be the first direct evidence that this class of black hole exists and feeds in this way — a milestone for gravitational physics and our understanding of the black hole mass spectrum. [ScienceDaily](https://www.sciencedaily.com/releases/2026/06/260625060222.htm)
+
+> [!note]- Nike (NKE): $40.75 (−0.4%) — 52-week low $40.00 touched intraday; Q4 earnings Monday; −$1,423 unrealised on 46 shares (Yahoo Finance)
+> Nike closed Saturday at $40.75, down 0.4% from Friday's $40.90, after trading as low as $40.00 intraday — the stock's 52-week low and the bottom of its five-year range. Q4 FY2026 earnings land Monday June 30 with consensus EPS of $0.11 (−21% YoY); a one-time $1B tariff refund is expected to inflate the headline number, but analysts widely warn the underlying business remains structurally pressured. The 46-share position (avg cost $71.69) now carries an unrealised loss of approximately −$1,423 (46 × −$30.94), with the 52-week range spanning $40.00–$80.17. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
 
 > [!note]- [[06-26-26 Fri]]
 >
