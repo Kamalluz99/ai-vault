@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-06-27T05:09
+updated: 2026-06-27T19:04
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,26 @@ unread: true
 
 > [!note]- Nike (NKE): $40.90 (−1.8%) — Q4 earnings due Mon Jun 30; analyst downgrades persist; −$1,416 unrealised on 46 shares (Yahoo Finance)
 > Nike closed Friday June 26 at $40.90, down 1.8% from Thursday's $41.65, with Q4 FY2026 earnings due Monday June 30 — the key near-term catalyst. Multiple analysts have slashed targets (Deutsche Bank to $43, Oppenheimer to $60, BTIG to $55) and the stock is down roughly 70% over five years, sitting below the 200-day SMA near the bottom of its 52-week range. The 46-share position (avg cost $71.69) carries an unrealised loss of approximately −$1,416 (46 × −$30.79). [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
+
+> **Evening update**
+
+> [!note]- SG & MY: Pink Dot 18 draws thousands to Hong Lim Park — Singapore marks 18 years of Pride (The Smart Local)
+> Singapore's 18th annual Pink Dot celebration unfolded Saturday at Hong Lim Park under the theme "Come Get Personal," transforming the park into a community-led space of conversations, interactive installations, and storytelling in one of the most intimate editions of the event yet. The gathering marks nearly two decades of Singapore's most prominent annual civil-society moment on LGBT+ rights, with participation open to Singaporeans and PRs and overseas supporters viewing from designated areas. As a barometer of Singapore's evolving social landscape, this year's quieter personal-scale format signals a deliberate shift away from the stadium-spectacle of previous years. [The Smart Local](https://thesmartlocal.com/read/things-to-do-this-weekend-singapore/)
+
+> [!note]- Malaysia: Johor nomination day closes — BN vs PH all 56 seats; Onn Hafiz and Maszlee in headline contests (The Rakyat Post)
+> Nomination day for the 2026 Johor state election closed Saturday with Barisan Nasional and Pakatan Harapan fielding candidates across all 56 seats, while Parti Bersama Malaysia and independents added multi-cornered fights in select constituencies. Caretaker Menteri Besar Onn Hafiz defends Machap while former education minister Maszlee Malik faces a five-cornered race at Puteri Wangsa against BN-MCA's Teo Chia Ling, MUDA's Rashifa Aljunied, Bersama's Nicholas Paul Vincent, and an independent. Polling day is July 11 with 2.7 million registered voters — a result widely seen as a bellwether for GE16 peninsula dynamics. [The Rakyat Post](https://www.therakyatpost.com/news/2026/06/27/johor-state-election-nomination-closes-with-heavyweights-set-for-contests/)
+
+> [!breaking]- World: US strikes Iran, IRGC retaliates against Bahrain — Hormuz ceasefire in tatters (NBC News)
+> The United States launched air strikes against Iranian missile storage, drone facilities, and coastal radar sites on Friday after IRGC drones attacked cargo ships in the Strait of Hormuz, with one vessel taking a hit to its upper deck. Iran retaliated Saturday morning with its IRGC claiming to have targeted US military installations in Bahrain, which confirmed drone strikes on its territory — shattering the June 19 MOU ceasefire framework just eight days after it was signed. The tit-for-tat exchange raises immediate fears of a broader Gulf conflict and renewed Hormuz closure, with cascading consequences for global energy flows and shipping routes critical to Singapore, Japan, South Korea, and China. [NBC News](https://www.nbcnews.com/news/us-news/us-launches-strikes-iran-attack-ship-strait-hormuz-rcna351992)
+
+> [!note]- World: US brokers Israel-Lebanon framework — Rubio: "beginning of the beginning" of lasting peace (CNBC)
+> US Secretary of State Marco Rubio oversaw the signing of a trilateral framework agreement between Israel, Lebanon, and the US on June 26, with Israel pledging to withdraw from two areas of southern Lebanon in exchange for the Lebanese Armed Forces assuming exclusive territorial control to the exclusion of all non-state armed groups. Rubio called the signing "the beginning of the beginning" of a path toward "lasting peace and security," while Lebanon's ambassador described it as "the first step to restoring Lebanese sovereignty." Hezbollah's parliamentary bloc immediately rejected the negotiations, and analysts warn Iran — now under US retaliatory strikes — will work to sabotage the deal. [CNBC](https://www.cnbc.com/2026/06/26/israel-lebanon-hezbollah-ceasefire-rubio.html)
+
+> [!note]- Tech: Apple unveils iOS 27 with "Siri AI" — Apple-Google Gemini collaboration, arriving September (Apple)
+> Apple's WWDC 2026 previewed iOS 27 headlined by a full Siri redesign rebranded as "Siri AI," built through an Apple-Google collaboration running on next-generation Apple Foundation Models alongside Gemini to deliver personal-context assistance with on-screen awareness and live internet access. Apple Intelligence expands across Safari, Photos, Messages, Mail, Calendar, and Shortcuts with smarter suggestions, AI image generation, and context-aware automation; the update also brings 30% faster app launches, 70% quicker photo loading, and 80% faster AirDrop transfers. The suite ships in September 2026 for iPhone 16 and iPhone 15 Pro models, marking Apple's deepest AI platform integration since Siri's 2011 debut. [Apple](https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/)
+
+> [!note]- Science/Economy: Michigan sentiment at 48.9% near historic low; China squeezes US rare earth supply chain (Schwab / Reuters)
+> The University of Michigan's final June consumer sentiment reading held at 48.9% — near historic lows — as AI infrastructure spending concerns, persistent inflation, and Fed hawkishness continue to weigh on US households ahead of the July 4 holiday weekend. Separately, China imposed export controls targeting MP Materials and USA Rare Earth, two Pentagon-backed firms operating the only rare earth mines on US soil, tightening Beijing's chokehold on materials critical to EV motors, defence systems, and semiconductor manufacturing. The dual drag of weak domestic demand and strategic-material supply pressure underscores the fragility of the AI-driven growth narrative as H1 2026 closes. [Charles Schwab](https://www.schwab.com/learn/story/stock-market-update-open)
 
 > [!note]- [[06-26-26 Fri]]
 >
