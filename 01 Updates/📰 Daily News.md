@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-06-28T05:00
+updated: 2026-06-28T19:04
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,26 @@ unread: true
 
 > [!note]- Nike (NKE): $40.75 (−0.18%) — Q4 earnings due Tue Jun 30; −35% YTD; analyst downgrades pile up; −$1,361 unrealised on 46 shares (Yahoo Finance)
 > Nike is trading at approximately $40.75 (−0.18%) heading into Q4 FY2026 earnings on June 30 — the key near-term catalyst for the position. Deutsche Bank cut to $43, Oppenheimer to $60, Stifel to $50, and KeyBanc downgraded outright on "longer-than-expected turnaround"; the stock is down ~35% YTD. The 46-share position (avg cost $71.69) carries an unrealised loss of approximately −$1,361 (46 × −$29.60). [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
+
+> **Evening update**
+
+> [!note]- SG & MY: El Niño 2026 triggers haze alert across Singapore, Malaysia, Indonesia, Brunei (Travel and Tour World)
+> Authorities across Singapore, Malaysia, Indonesia, and Brunei are activating early-warning systems as El Niño 2026 conditions take hold, reducing rainfall and raising the risk of peat-fire smoke blanketing the region between July and October. The biggest immediate concern is land-clearing fires spreading from vulnerable areas in Sumatra and Borneo, where dry vegetation is accumulating during the dry season. Air quality regulators in Singapore and Malaysia have begun coordinating transboundary haze contingency plans, with airlines reviewing operational contingencies for Changi Airport and KLIA. [Travel and Tour World](https://www.travelandtourworld.com/news/article/us9qt8zybltf/)
+
+> [!note]- Malaysia: LRT3 Shah Alam Line runs free for one month from June 29 — PM Anwar's inaugural gift to commuters (Free Malaysia Today)
+> Prime Minister Datuk Seri Anwar Ibrahim announced that the newly completed LRT3 Shah Alam Line will run fare-free for one full month, from June 29 through July 31, as an opening gift to commuters along the Klang Valley's newest rail corridor. The 37-kilometre line connecting Bandar Utama to Johan Setia passes through Shah Alam and Klang — one of Malaysia's most congested road corridors — and the free-ride period is intended to build ridership before full commercial fares begin. The announcement comes days before the July 11 Johor state election, marking a politically significant public infrastructure milestone for the Anwar administration. [Free Malaysia Today](https://www.freemalaysiatoday.com/)
+
+> [!breaking]- World: Trump announces new US-Iran deal — Strait of Hormuz set to reopen after ceasefire near-collapse (ABC News)
+> President Trump declared that the United States and Iran have reached a new agreement to halt hostilities and reopen the Strait of Hormuz to international shipping, following two days of retaliatory strikes between US forces and the IRGC that had brought the June 19 ceasefire to the brink of collapse. The revised deal, brokered with Qatari and Omani mediation, reportedly includes a revised maritime corridor arrangement and a renewed 60-day window for nuclear and sanctions negotiations. The Hormuz chokepoint carries approximately 20% of the world's traded oil, and a confirmed reopening would immediately ease energy price pressures that have spiked since Friday's strikes. [ABC News](https://abcnews.com/International/live-updates/iran-live-updates-israel-iran-trade-strikes-trump/?id=133674243)
+
+> [!note]- World: Venezuela earthquake toll passes 900 — international rescue teams arrive as state of emergency extended (NPR)
+> Back-to-back powerful earthquakes on June 25 have now claimed more than 900 lives in Venezuela, with the government extending its state of emergency across multiple states as rescue workers continue to pull survivors from collapsed buildings. The disaster has overwhelmed emergency services in a country already under severe economic strain, disrupting electricity and water supplies in affected areas. International rescue teams from Colombia, Panama, and Caribbean nations have begun arriving, and Venezuela has appealed for UN-coordinated humanitarian aid. [NPR](https://www.npr.org/sections/world/)
+
+> [!note]- Tech: Anthropic accuses Alibaba of largest-ever AI distillation attack — 25K fake accounts, 28.8M Claude queries harvested to train Qwen (CNBC)
+> Anthropic publicly accused Alibaba of running the largest known AI model distillation attack in history: 25,000 fraudulent accounts generating 28.8 million interactions with Claude between April and June 2026, with the harvested outputs used to train Alibaba's Qwen model. The campaign specifically targeted Claude's strongest capabilities — agentic reasoning, software engineering, and long-horizon task completion — amounting to a systematic extraction of Anthropic's competitive edge through its own API. Anthropic has called on the US government to intervene and set industry-wide standards against distillation, escalating AI intellectual-property disputes between American and Chinese labs into a policy flashpoint. [CNBC](https://www.cnbc.com/2026/06/24/anthropic-alibaba-distillation-campaign.html)
+
+> [!note]- Science/Economy: Taiwan chip exports surge 110% YoY on AI demand; AI-designed coronavirus vaccine clears first human safety trial (Bloomberg / ScienceDaily)
+> Taiwan's semiconductor exports are on track to grow 39.8% in 2026, with AI-related chip shipments up 110% year-on-year driven by surging global demand for inference and training silicon — a rare bright spot in a global growth outlook slowing to 2.5%. Separately, scientists announced that an AI-designed universal coronavirus vaccine passed its first human safety trial, demonstrating broad-spectrum immune response and strong tolerability — a milestone for AI-accelerated drug development. The two data points underscore how AI-driven hardware demand and AI-powered biomedical research are emerging as twin growth engines heading into H2 2026. [Bloomberg](https://www.bloomberg.com/economics) / [ScienceDaily](https://www.sciencedaily.com/)
 
 > [!note]- [[06-27-26 Sat]]
 >
