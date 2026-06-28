@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-06-29T05:00
+updated: 2026-06-29T05:09
 topic: daily news
 frequency: daily
 ongoing: false
@@ -105,8 +105,8 @@ unread: true
 > > [!note]- Science: Astronomers observe intermediate-mass black hole ripping apart a white dwarf — rarest cosmic event ever seen (ScienceDaily)
 > > Researchers captured what may be the first direct observation of an intermediate-mass black hole (IMBH) destroying a white dwarf star in a tidal disruption event — a phenomenon predicted for decades but never definitively detected. IMBHs bridge the gap between stellar and supermassive black holes and have long eluded direct observation, making this a landmark discovery. Two newly confirmed "super-puff" exoplanets less dense than cotton candy were also announced alongside modelling suggesting Earth microbes may have reached Venus via asteroid impacts. [ScienceDaily](https://www.sciencedaily.com/)
 >
-> > [!note]- Nike (NKE): $40.75 (−0.18%) — Q4 earnings due Tue Jun 30; −35% YTD; analyst downgrades pile up; −$1,361 unrealised on 46 shares (Yahoo Finance)
-> > Nike is trading at approximately $40.75 (−0.18%) heading into Q4 FY2026 earnings on June 30 — the key near-term catalyst for the position. Deutsche Bank cut to $43, Oppenheimer to $60, Stifel to $50, and KeyBanc downgraded outright on "longer-than-expected turnaround"; the stock is down ~35% YTD. The 46-share position (avg cost $71.69) carries an unrealised loss of approximately −$1,361 (46 × −$29.60). [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
+> > [!note]- Nike (NKE): $40.75 (flat) — Q4 FY2026 earnings Tuesday Jun 30; consensus EPS $0.11 (−21% YoY); −$1,423 unrealised on 46 shares (Yahoo Finance)
+> > Nike heads into its Q4 FY2026 earnings on June 30 at $40.75 — near its 52-week low — with consensus EPS of $0.11 (−21% year-over-year); analysts expect a one-time $1B tariff refund to inflate the headline number while underlying business pressure persists. Deutsche Bank holds at $43, BTIG at $55, and KeyBanc has downgraded to Sector Weight outright, with the stock down roughly 35% YTD. The 46-share position (avg cost $71.69) carries an unrealised loss of −$1,423 (46 × −$30.94). [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
 >
 > > **Evening update**
 >
