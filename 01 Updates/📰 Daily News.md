@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-06-29T05:05
+updated: 2026-06-29T19:05
 topic: daily news
 frequency: daily
 ongoing: false
@@ -80,6 +80,26 @@ unread: true
 
 > [!note]- Science: Webb solves 13-year Pink Planet mystery — exotic salt clouds found in GJ504b atmosphere 57 light-years away (Space.com)
 > Astronomers using the James Webb Space Telescope cracked the mystery of GJ504b, the "Pink Planet" discovered in 2013, finding its rosy atmosphere contains water vapor, methane, carbon dioxide, ammonia, and — confirmed for the first time in any planetary-mass object — salty clouds, in roughly two hours of observation that large ground telescopes had failed to achieve over entire nights. Since its discovery, the planet's composition had resisted analysis because its host star's glare overwhelmed ground-based detectors; Webb's infrared precision finally broke through. Its unusual metal-richness still leaves the origin — formed like a planet or a star — unresolved, keeping GJ504b among astronomy's most intriguing open questions. [Space.com](https://www.space.com/astronomy/exoplanets/james-webb-space-telescope-finds-a-salty-surprise-on-famous-pink-planet)
+
+> **Evening update**
+
+> [!note]- SG & MY: Singapore ammonia leak at Fishery Port Road — 2 hospitalised, buildings evacuated (Mothership.SG)
+> An ammonia gas leak at Jurong Marine Cold Storage, No. 11 Fishery Port Road, sent two people to Singapore General Hospital on Monday morning after the SCDF received a call at about 11.45am and activated its HazMat team. As a precaution, occupants of adjacent buildings at No. 9 and No. 15 were evacuated and only permitted to return roughly five hours after the incident began. The leak was sealed and subsequent detector sweeps confirmed no residual ammonia within the premises, with SCDF declaring the incident resolved by late afternoon. [Mothership.SG](https://mothership.sg/2026/06/ammonia-detected-fishery-port-road/)
+
+> [!note]- Malaysia: PM Anwar launches redesigned Malaysian passport with 94 security features (The Star)
+> Prime Minister Datuk Seri Anwar Ibrahim officially launched Malaysia's redesigned International Passport at the Parliament lobby on Monday, showcasing 94 embedded security features — including an upgraded biometric chip and advanced anti-counterfeiting layers — making it one of the most fraud-resistant travel documents in the region. The new booklet is designed to reduce document forgery risks and to improve processing speed at e-gate lanes in major international transit hubs. The launch signals continued government investment in national identity infrastructure and was announced alongside the opening day of the LRT3 Shah Alam Line's free-ride month. [The Star](https://www.thestar.com.my/news/nation)
+
+> [!breaking]- World: Venezuela earthquake toll crosses 1,450 — 68,900 missing as rescue window closes (ABC News)
+> The death toll from the twin magnitude 7.5 and 7.2 earthquakes that struck Venezuela on June 24 has climbed past 1,450, with more than 68,900 people still unaccounted for as rescue teams race against the narrowing survival window for those trapped in collapsed structures. La Guaira — north of Caracas — suffered the worst devastation, with over 1,400 buildings destroyed and Simón Bolívar International Airport heavily damaged, crippling the country's main aerial lifeline. The disaster is Venezuela's deadliest since the 1900 San Narciso earthquake, and international aid teams from Colombia, Panama, and Caribbean nations are now on the ground as the government appeals for UN-coordinated relief. [ABC News](https://abcnews.com/International/live-updates/venezuela-earthquakes-updates/?id=134196335)
+
+> [!note]- World: Three US firefighters killed battling Colorado-Utah border wildfires (CBS News)
+> Three firefighters were killed and two others seriously injured while fighting the fast-moving Knowles and Gore fires burning near the Colorado-Utah state border, in one of the deadliest single-incident losses for wildland firefighters this season. High temperatures, critically low humidity, and erratic wind conditions hampered aerial suppression efforts and forced further evacuation orders for communities in the fires' path. The deaths mark a grim milestone as the American West endures an increasingly severe fire season, with climate-driven drought conditions leaving large stretches of vegetation primed to burn through summer. [CBS News](https://www.cbsnews.com/news/knowles-and-gore-fires-firefighters-killed-utah-colorado/)
+
+> [!note]- Tech: Google Gemini 2.5 Pro Deep Think tops science benchmarks — 82.4% GPQA Diamond (Google)
+> Google launched Gemini 2.5 Pro with Deep Think — an extended-inference reasoning mode — achieving 82.4% on GPQA Diamond and 89.8% on MMLU-Pro, surpassing Anthropic's Fable 5 and OpenAI's GPT-5.5 on science, math, and general reasoning. Deep Think decomposes problems into multiple reasoning paths before synthesising answers, paired with a 2-million-token context window that allows the model to ingest entire codebases or books in a single session. The model is available now for Google AI Ultra subscribers, with developer API access rolling out shortly; Fable 5 retains the lead on software engineering (SWE-bench) and agentic coding. [Google](https://blog.google/products/gemini/gemini-2-5-deep-think/)
+
+> [!note]- Science/Economy: Crude oil drops to $69/barrel as Iran deal holds; SpaceX fast-tracked to join Nasdaq-100 (CNBC)
+> WTI crude fell more than 3.5% to around $69 a barrel — its lowest level since before the US-Iran conflict began — as the revised Qatar-Oman-brokered ceasefire holds and confidence builds that the Strait of Hormuz will remain open to shipping. Separately, SpaceX is being fast-tracked for inclusion in the Nasdaq-100, with Wall Street analysts noting that AI infrastructure spending could account for half the S&P 500's earnings growth this year ahead of the company's anticipated IPO. The twin signals of easing energy costs and surging AI-sector valuations paint a cautiously optimistic close to H1 2026 despite persistent macro headwinds. [CNBC](https://www.cnbc.com/world/)
 
 > [!note]- [[06-28-26 Sun]]
 >
