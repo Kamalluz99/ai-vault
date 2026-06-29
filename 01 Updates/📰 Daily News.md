@@ -124,6 +124,9 @@ unread: true
 > > [!note]- Science/Economy: Crude oil drops to $69/barrel as Iran deal holds; SpaceX fast-tracked to join Nasdaq-100 (CNBC)
 > > WTI crude fell more than 3.5% to around $69 a barrel — its lowest level since before the US-Iran conflict began — as the revised Qatar-Oman-brokered ceasefire holds and confidence builds that the Strait of Hormuz will remain open to shipping. Separately, SpaceX is being fast-tracked for inclusion in the Nasdaq-100, with Wall Street analysts noting that AI infrastructure spending could account for half the S&P 500's earnings growth this year ahead of the company's anticipated IPO. The twin signals of easing energy costs and surging AI-sector valuations paint a cautiously optimistic close to H1 2026 despite persistent macro headwinds. [CNBC](https://www.cnbc.com/world/)
 >
+> > [!note]- Nike: NKE $41.15 (+0.63%) — Q4 earnings June 30; options imply ±8.6% swing; P&L −$1,405 (Yahoo Finance)
+> > Nike closed Monday at $41.15, up 0.63%, heading into its fiscal Q4 earnings report on June 30, with the options market pricing a post-earnings move of ±8.6% — a $37.40–$44.60 range. Analysts broadly expect a 2% year-over-year revenue decline and a cautious outlook; Deutsche Bank, Stifel, and Oppenheimer all cut price targets in recent weeks. The 38-analyst consensus remains Buy with a $55.38 twelve-month target. Unrealised P&L on 46 shares at avg cost $71.69: **−$1,404.84** (−$30.54/share). [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
+>
 
 > [!note]- [[06-28-26 Sun]]
 >
