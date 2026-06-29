@@ -81,6 +81,9 @@ unread: true
 > [!note]- Science: NASA Swift Observatory orbit-raising mission launches from Kwajalein Atoll (NASA)
 > A commercial launch vehicle lifted off from Kwajalein Atoll on June 30 carrying a mission to boost NASA's Neil Gehrels Swift Observatory into a higher, more stable orbit, extending the life of the 22-year-old gamma-ray burst hunter. Swift, operational since 2004, has been pivotal in multi-messenger astronomy — pinpointing neutron star mergers and high-energy transients — but its current orbit had been degrading. The orbit-raising preserves one of NASA's most versatile multi-wavelength platforms at a fraction of a replacement mission's cost, extending operations by an estimated five to eight years. [NASA/SciTechDaily](https://scitechdaily.com/)
 
+> [!note]- Nike (NKE): $41.01 (+0.63%) — Q4 FY2026 earnings today; rev seen −3% to $10.85B; −$1,411 unrealised on 46 shares (Yahoo Finance)
+> Nike reports fiscal Q4 2026 earnings today with consensus calling for ~3% revenue decline to $10.846B and EPS of $0.11 (−21% YoY), though a one-time ~$1B tariff refund may inflate the headline. CEO Elliott Hill's turnaround — inventory clearance and wholesale restoration — is under scrutiny, with Greater China a critical risk at a potential 20% revenue drop. Position: 46 shares at $71.69 avg cost, unrealised −$1,411 (46 × −$30.68). [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
+
 > [!note]- [[06-29-26 Mon]]
 >
 > > [!breaking]- AI: US lifts Anthropic Claude Mythos 5 export block — 100+ US institutions cleared (CNN)
