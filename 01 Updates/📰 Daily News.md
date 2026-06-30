@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-06-30T19:04
+updated: 2026-07-01T05:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -58,6 +58,31 @@ unread: true
 > > [!breaking]- World: Major diplomatic deadline expires tonight (Al Jazeera)
 > > A strategic chokepoint deadline expires at 8pm ET. Negotiations have stalled and military action looks imminent. [Source](https://example.com)
 > ```
+
+## 2026-07
+
+### [[07-01-26 Wed]]
+
+> [!note]- AI: ChatGPT surpasses 1 billion monthly active users — largest AI assistant milestone yet (The Information)
+> OpenAI's ChatGPT has crossed one billion monthly active users, confirming mass global adoption of AI assistants barely three years after launch. The milestone arrives as AI infrastructure buildout intensifies — Helix Infrastructure Partners is among new PE entrants chasing data-centre capacity to serve hyperscaler demand. Anthropic separately disclosed a large-scale operation using ~25,000 fraudulent accounts to run 28M+ interactions with Claude, probing its reasoning and programming capabilities. [The Information / Medium](https://medium.com/@davidakpovi/ai-news-week-of-june-22-to-june-28-2026-ed7b09829a67)
+
+> [!note]- Tech: SpaceX signs $6.3B compute deal with Reflection AI — $150M/month for Nvidia GB300 chips starting today (TechCompanyNews)
+> Nvidia-backed Reflection AI will pay SpaceX $150 million per month for access to Nvidia GB300 chips in Memphis, Tennessee — the largest disclosed AI compute infrastructure deal of 2026, effective July 1. The agreement underscores intense competition for next-generation compute capacity. Separately, OpenAI revealed plans for a custom inference chip called Jalapeño built with Broadcom, joining Google, Apple, and SpaceX in reducing single-supplier dependence on Nvidia. [TechCompanyNews](https://www.techcompanynews.com/latest-tech-news-june-24-2026/)
+
+> [!note]- Macro: S&P 500 and Nasdaq headed for best quarter in 6 years as Q2 closes; CPI 4.2% YoY in May (Schwab / Kiplinger)
+> US equities are closing Q2 on a high — S&P 500 and Nasdaq on pace for their best quarter in six years, Dow set for best since 2022. Energy prices remain the primary inflation driver, adding 1.5 percentage points to May's 4.2% CPI. Today's key data: ADP June employment, ISM Manufacturing PMI, construction spending, and Fed Chair Warsh speaking on Europe at 9:30am ET. [Schwab](https://www.schwab.com/learn/story/stock-market-update-open)
+
+> [!note]- World: FIFA World Cup Round of 32 kicks off — USA vs Bosnia at 8pm ET, England vs DR Congo in Atlanta today (NBC Sports)
+> The 2026 FIFA World Cup knockout stage opens July 1, with USA facing Bosnia and Herzegovina at Levi's Stadium tonight and England taking on DR Congo in Atlanta. Other matches today: Mexico vs Ecuador in Mexico City, Belgium vs Senegal in Seattle. Off the pitch, NASA estimates the Venezuela earthquakes may have damaged or destroyed up to 58,000 buildings as rescuers race to find survivors before the survival window closes. [NBC Sports](https://www.nbcsports.com/soccer/news/2026-world-cup-schedule-kick-off-times-stadiums-dates-groups-how-to-watch-live-bracket)
+
+> [!note]- Malaysia: MOH website suspended after cyber threat — ministry implementing enhanced security measures (NST)
+> Malaysia's Ministry of Health temporarily took its official website offline following a recent cyber threat incident to allow enhanced cybersecurity measures to be implemented. The outage disrupts public access to MOH health advisories and online services. The incident adds to a pattern of elevated cyberattacks targeting Malaysian government digital infrastructure in 2026. [NST](https://www.nst.com.my/)
+
+> [!note]- Science: Rubin Observatory begins 10-year "movie of the universe" — 20TB of sky data per night from June 30 (ScienceNews)
+> The Vera C. Rubin Observatory in Chile commenced its decade-long Legacy Survey of Space and Time (LSST) on June 30, systematically imaging the southern sky every few nights with its 3.2-gigapixel camera. The survey generates roughly 20TB of data nightly and is expected to catalogue millions of new objects including near-Earth asteroids, transient events, and dark-matter tracers — the widest systematic sky survey ever conducted. [ScienceNews](https://www.sciencenews.org/sn-magazine/july-2026)
+
+> [!note]- Nike (NKE): $41.48 (+1.79%) — Q4 FY2026 EPS $0.72 crushed $0.13 est; revenue $10.97B beat; stock mixed AH (Yahoo Finance)
+> Nike's fiscal Q4 2026 results beat on headline — EPS $0.72 (vs $0.13 expected) and revenue $10.97B (vs $10.86B expected) — though ~$0.52/share stemmed from a $986M tariff-recovery windfall. Currency-neutral sales fell 3%, gross margin contracted 130 bps to 40.2%, and net income dropped 35% to $520M. Stock closed at $41.48 (+1.79%) pre-earnings and whipsawed in after-hours on the mixed quality-vs-headline result. Position: 46 shares at $71.69 avg, unrealised **−$1,390** (−$30.21/share). [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
 
 ## 2026-06
 
