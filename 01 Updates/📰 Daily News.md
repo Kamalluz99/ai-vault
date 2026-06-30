@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-06-30T05:07
+updated: 2026-06-30T19:04
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,26 @@ unread: true
 
 > [!note]- Nike (NKE): $41.01 (+0.63%) — Q4 FY2026 earnings today; rev seen −3% to $10.85B; −$1,411 unrealised on 46 shares (Yahoo Finance)
 > Nike reports fiscal Q4 2026 earnings today with consensus calling for ~3% revenue decline to $10.846B and EPS of $0.11 (−21% YoY), though a one-time ~$1B tariff refund may inflate the headline. CEO Elliott Hill's turnaround — inventory clearance and wholesale restoration — is under scrutiny, with Greater China a critical risk at a potential 20% revenue drop. Position: 46 shares at $71.69 avg cost, unrealised −$1,411 (46 × −$30.68). [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
+
+> **Evening update**
+
+> [!note]- SG & MY: Singapore electricity tariffs rise 17% from July — steepest quarterly hike in 3 years (EMA)
+> Singapore's Energy Market Authority confirmed a 17% increase in household electricity tariffs for Q3 2026 (July–September), alongside a 7.1% rise in town gas rates, as elevated LNG spot prices feed through ahead of the quarter change — the steepest hike in three years. The increase takes effect from tomorrow and adds pressure to household budgets even as global oil prices ease, reflecting the structural lag between crude markets and gas-indexed power contracts in Singapore's system. The timing contrasts with Malaysia, where pump prices fell this week after the US-Iran ceasefire reopened the Strait of Hormuz. [EMA Singapore](https://www.ema.gov.sg/)
+
+> [!note]- Malaysia: Dewan Rakyat passes SOAC Amendment Bill 2026 — crimes against children abroad now prosecutable (The Star)
+> Malaysia's lower house of parliament passed the Sexual Offences Against Children (Amendment) Bill 2026, extending criminal jurisdiction to cover offences committed by Malaysians abroad and closing a loophole that allowed perpetrators to evade prosecution by crossing borders. The bill also broadens the definition of child sexual abuse material to include AI-generated content, reflecting efforts to keep legislation current with emerging technology threats. Rights groups welcomed the passage while urging swift build-out of digital forensics infrastructure to enforce the new extraterritorial provisions. [The Star](https://www.thestar.com.my/)
+
+> [!breaking]- World: Venezuela earthquake death toll surpasses 1,700 — 2,624 rescuers deployed as window narrows (CNN)
+> The confirmed death toll from Venezuela's twin magnitude 7.5 and 7.2 earthquakes has risen past 1,700, with 2,624 international rescue workers and 137 search dogs deployed to La Guaira and Caracas as the critical survival window beyond 72 hours begins to close. Miraculous rescues continue to offer brief moments of hope against the mounting figures, while Simón Bolívar International Airport — still operating at reduced capacity — remains the primary lifeline for incoming aid and personnel. The disaster has surpassed the 1900 San Narciso event to become Venezuela's deadliest recorded earthquake, with the UN scaling up coordination for medium-term shelter and medical relief. [CNN](https://www.cnn.com/2026/06/29/world/live-news/venezuela-earthquake-hnk)
+
+> [!note]- World: JetBlue flight struck by drone on approach to New York — FAA opens investigation (Fox News)
+> A JetBlue commercial aircraft reported a drone strike during final approach to a New York-area airport on Tuesday, with the FAA immediately issuing a temporary flight restriction and opening a formal investigation. No passengers or crew were injured and the plane landed safely, but the strike is among the most high-profile near-airport UAV collision events in US aviation history. Authorities are reviewing radar tracks and surveillance footage to trace the drone's origin, as the incident renews calls for mandatory remote-ID enforcement and tighter exclusion zones around terminal airspace. [Fox News](https://www.foxnews.com/us/jetblue-flight-reports-drone-strike-approach-new-york-airport-faa)
+
+> [!note]- Tech: AI cited behind 88,000 US job cuts in 2026 — surpassing all prior years combined (BuildFastWithAI / IMF)
+> Artificial intelligence has been cited as the primary driver behind 88,000 US job cuts so far in 2026, exceeding the cumulative AI-attributed total from all previous years, with the IMF's chief economist warning of a structural shock specifically targeting entry-level white-collar roles in finance, legal services, and knowledge work. GitHub Copilot users leveraging agentic workflows are simultaneously reporting billing spikes of 10–50× their prior monthly rates as metered charges for multi-step autonomous sessions and frontier model access accumulate. The data underscores the accelerating pace at which AI is reshaping labour markets even as it introduces new cost volatility for businesses adopting it at scale. [BuildFastWithAI](https://www.buildfastwithai.com/blogs/ai-news-today-june-30-2026)
+
+> [!note]- Science/Economy: Heat dome to scorch eastern US through July 4 — NYC, DC, Philadelphia to hit 100°F+ (CBS News)
+> A sprawling heat dome is forecast to build over the eastern two-thirds of the United States this week, pushing New York City, Philadelphia, Baltimore, and Washington D.C. toward record highs exceeding 100°F (38°C) — with the extreme heat intensified by high humidity arriving ahead of the July 4 holiday. Forecasters warn the prolonged event could strain power grids, disrupt outdoor holiday gatherings, and significantly raise heat-related illness and mortality rates, particularly for the elderly and outdoor workers. Scientists note that US urban heat events have grown longer and more intense each decade, consistent with climate projections for the mid-2020s. [CBS News](https://www.cbsnews.com/news/dangerous-long-heat-wave-large-swathes-of-us-this-week/)
 
 > [!note]- [[06-29-26 Mon]]
 >
