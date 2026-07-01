@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-07-01T05:08
+updated: 2026-07-01T19:04
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,26 @@ unread: true
 
 > [!note]- Nike (NKE): $41.48 (+1.79%) — Q4 FY2026 EPS $0.72 crushed $0.13 est; revenue $10.97B beat; stock mixed AH (Yahoo Finance)
 > Nike's fiscal Q4 2026 results beat on headline — EPS $0.72 (vs $0.13 expected) and revenue $10.97B (vs $10.86B expected) — though ~$0.52/share stemmed from a $986M tariff-recovery windfall. Currency-neutral sales fell 3%, gross margin contracted 130 bps to 40.2%, and net income dropped 35% to $520M. Stock closed at $41.48 (+1.79%) pre-earnings and whipsawed in after-hours on the mixed quality-vs-headline result. Position: 46 shares at $71.69 avg, unrealised **−$1,390** (−$30.21/share). [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
+
+> **Evening update**
+
+> [!note]- SG & MY: JS-SEZ Executive Forum 2026 — zone draws investment beyond East Asia, says MY economy minister (Xinhua)
+> The Johor-Singapore Special Economic Zone hosted its 2026 Executive Forum on July 1, with Malaysian Economy Minister Akmal Nasrullah Mohd Nasir declaring that investor interest has expanded well beyond East Asia, reflecting growing confidence in the zone as a unified platform combining Malaysia's industrial base with Singapore's global connectivity. The forum marks a key milestone in the Anwar-Wong administrations' flagship bilateral economic project, with the Johor state election on July 11 adding political salience to the announcement. [Xinhua](https://english.news.cn/asiapacific/20260701/e020da9650fd41f5805ee2b5d97056fc/c.html)
+
+> [!note]- Malaysia: BUDI Diesel nationwide from July 1 — subsidised RM2.10/L for eligible users up to 200 litres/month (Human Resources Online)
+> Malaysia's BUDI MADANI Diesel mechanism took effect today, setting the pump price at the unsubsidised market level while delivering targeted subsidies to eligible MyKad-verified individuals — each receiving up to 200 litres per month at RM2.10 per litre, redeemable for diesel or RON95. The rollout replaces the blanket fuel subsidy structure and is the Anwar government's most significant subsidy rationalisation measure yet, redirecting savings to targeted social programmes. [Human Resources Online](https://www.humanresourcesonline.net/malaysia-s-nationwide-budi-diesel-rollout-from-1-july-2026-eligibility-and-mykad-verification-explained)
+
+> [!breaking]- World: US Supreme Court rejects Trump bid to end birthright citizenship — landmark 6-3 ruling (Fox News)
+> The US Supreme Court voted 6-3 to uphold birthright citizenship, rejecting President Trump's executive order that sought to deny automatic citizenship to children born on US soil to non-citizen parents — a sweeping defeat for the administration's immigration agenda. The ruling reaffirms the Fourteenth Amendment guarantee and is among the most consequential citizenship decisions in over a century; the administration indicated it would explore legislative routes after exhausting court avenues. [Fox News](https://www.foxnews.com/politics/trump-suffers-major-supreme-court-defeat-justices-uphold-birthright-citizenship)
+
+> [!note]- World: Iran attacks Hormuz shipping as US and Gulf allies develop alternative southern corridor (Fox News)
+> Iran has targeted commercial vessels in the Strait of Hormuz to maintain strategic leverage over the waterway, even as the US and Oman are advancing an alternative southern shipping corridor to route traffic around Iranian interdiction risk. Analysts say Tehran is attempting to reassert its position ahead of unresolved talks on the Qatar-Oman-brokered 60-day ceasefire, which left Hormuz access terms deliberately vague. The standoff keeps energy markets on watch as diplomatic negotiations resume in Doha. [Fox News](https://www.foxnews.com/politics/iran-fights-keep-grip-hormuz-us-gulf-allies-carve-new-shipping-route)
+
+> [!note]- Tech: Nvidia State of AI 2026 — AI delivering measurable revenue and cost gains across every industry (Nvidia Blog)
+> Nvidia's annual State of AI 2026 report shows AI has crossed from proof-of-concept into measurable business impact, with companies in manufacturing, financial services, healthcare, and retail reporting revenue growth, cost reductions, and productivity gains. Nearly all respondents said AI budgets will increase or stay the same this year, with 86% planning higher spending as generative AI integrates into core enterprise workflows. The report reinforces why data-centre and AI infrastructure buildout is accelerating even as AI-driven labour displacement simultaneously mounts. [Nvidia Blog](https://blogs.nvidia.com/blog/state-of-ai-report-2026/)
+
+> [!note]- Science/Economy: China's AI-driven exports surge — semiconductors +110%, mobiles +44% YoY as global buildout demand holds (Climate and Economy)
+> China's recent export data shows explosive growth in AI-adjacent categories: semiconductor exports up 110% year-on-year, mobile phone exports up 44%, and automatic data-processing machine exports up 66%, as global AI infrastructure demand channels through Chinese manufacturing capacity. The figures suggest China is capturing a substantial share of the worldwide AI buildout wave even amid US chip export controls targeting the most advanced nodes. Economists note the export strength is partly cushioning China's growth outlook against persistent property-sector headwinds. [Climate and Economy](https://climateandeconomy.com/2026/07/01/1st-july-2026-todays-round-up-of-economic-news/)
 
 ## 2026-06
 
