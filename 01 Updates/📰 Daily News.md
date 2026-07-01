@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-07-01T19:04
+updated: 2026-07-01T21:09
 topic: daily news
 frequency: daily
 ongoing: false
@@ -81,8 +81,8 @@ unread: true
 > [!note]- Science: Rubin Observatory begins 10-year "movie of the universe" — 20TB of sky data per night from June 30 (ScienceNews)
 > The Vera C. Rubin Observatory in Chile commenced its decade-long Legacy Survey of Space and Time (LSST) on June 30, systematically imaging the southern sky every few nights with its 3.2-gigapixel camera. The survey generates roughly 20TB of data nightly and is expected to catalogue millions of new objects including near-Earth asteroids, transient events, and dark-matter tracers — the widest systematic sky survey ever conducted. [ScienceNews](https://www.sciencenews.org/sn-magazine/july-2026)
 
-> [!note]- Nike (NKE): $41.48 (+1.79%) — Q4 FY2026 EPS $0.72 crushed $0.13 est; revenue $10.97B beat; stock mixed AH (Yahoo Finance)
-> Nike's fiscal Q4 2026 results beat on headline — EPS $0.72 (vs $0.13 expected) and revenue $10.97B (vs $10.86B expected) — though ~$0.52/share stemmed from a $986M tariff-recovery windfall. Currency-neutral sales fell 3%, gross margin contracted 130 bps to 40.2%, and net income dropped 35% to $520M. Stock closed at $41.48 (+1.79%) pre-earnings and whipsawed in after-hours on the mixed quality-vs-headline result. Position: 46 shares at $71.69 avg, unrealised **−$1,390** (−$30.21/share). [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
+> [!note]- Nike (NKE): $42.42 close (+3.1%) → $39.62 AH (−3.48%) — Q4 FY2026 beat on headline, soft on quality (Yahoo Finance)
+> Nike's fiscal Q4 2026 results beat on headline — EPS $0.72 (vs $0.13 expected) and revenue $10.97B (vs $10.86B expected) — though ~$0.52/share stemmed from a $986M tariff-recovery windfall. Currency-neutral sales fell 3%, gross margin contracted 130 bps to 40.2%, and net income dropped 35% to $520M. Shares recovered through the July 1 session to close at $42.42 (+3.1%) before selling off to $39.62 (−3.48%) in after-hours as investors weighed underlying demand softness against the headline beat. Position: 46 shares at $71.69 avg, unrealised **−$1,475** (−$32.07/share). [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
 
 > **Evening update**
 
@@ -103,6 +103,17 @@ unread: true
 
 > [!note]- Science/Economy: China's AI-driven exports surge — semiconductors +110%, mobiles +44% YoY as global buildout demand holds (Climate and Economy)
 > China's recent export data shows explosive growth in AI-adjacent categories: semiconductor exports up 110% year-on-year, mobile phone exports up 44%, and automatic data-processing machine exports up 66%, as global AI infrastructure demand channels through Chinese manufacturing capacity. The figures suggest China is capturing a substantial share of the worldwide AI buildout wave even amid US chip export controls targeting the most advanced nodes. Economists note the export strength is partly cushioning China's growth outlook against persistent property-sector headwinds. [Climate and Economy](https://climateandeconomy.com/2026/07/01/1st-july-2026-todays-round-up-of-economic-news/)
+
+> **Late update**
+
+> [!note]- Tech: Getty/Shutterstock merger collapses on UK regulator demands — Shutterstock tumbles 30% (The Street)
+> Getty Images called off its proposed merger with Shutterstock after the UK's Competition and Markets Authority demanded structural remedies that made the deal economically unworkable, sending Shutterstock shares down more than 30% — one of the steepest single-day drops in the stock photo sector's history. The collapse ends one of the most anticipated consolidation plays in the image-rights industry, where both companies had argued that combining forces was necessary to compete against the rise of AI-generated imagery. Getty and Shutterstock will now continue as separate, weakened competitors at a moment when generative AI is already eroding their core market. [The Street](https://www.thestreet.com/stock-market-today/stock-market-today-july-1-2026-nasdaq-futures-slip-after-strongest-quarter-since-2020)
+
+> [!note]- Macro: ADP adds only 98K jobs in June — below estimates; Nasdaq sheds 0.66% on Q3 open as semis profit-take (The Street / ADP)
+> ADP's June employment report showed US private-sector hiring of 98,000 — modestly below consensus — signalling a softening labour market as elevated energy costs weigh on business hiring plans. Stocks opened Q3 lower: the Nasdaq fell 0.66% as investors took profit on semiconductor names that surged more than 80% in H1 2026, while the S&P 500 lost 0.23% with communication services and financials outperforming. The soft ADP print keeps a September Fed rate cut on the table, though sticky core services inflation remains the primary obstacle. [The Street](https://www.thestreet.com/stock-market-today/stock-market-today-july-1-2026-nasdaq-futures-slip-after-strongest-quarter-since-2020)
+
+> [!note]- Malaysia: Dewan Rakyat passes Cybercrime Bill 2026 — new framework for digital offences and platform liability (NST)
+> Malaysia's lower house of parliament passed the Cybercrime Bill 2026, establishing a comprehensive legal framework targeting unauthorised system access, cyberbullying, online financial fraud, and platform liability for content enabling criminal activity — the country's most significant cyber-law update in over a decade. The bill passed with bipartisan majority support following debate by 48 MPs. It follows the recent MOH website suspension after a cyber threat and extends Malaysia's extraterritorial reach for offences committed by Malaysians abroad, mirroring the SOAC Amendment approach passed earlier this week. [NST](https://www.nst.com.my/)
 
 ## 2026-06
 
