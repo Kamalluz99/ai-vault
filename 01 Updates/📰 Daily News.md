@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-07-03T05:05
+updated: 2026-07-03T05:30
 topic: daily news
 frequency: daily
 ongoing: false
@@ -80,6 +80,9 @@ unread: true
 
 > [!note]- Science: NASA's Perseverance samples reach Earth labs — first-ever pristine Martian material under analysis (NASA)
 > Mars sample return material from NASA's Perseverance rover has arrived at Earth laboratories in 2026, marking the first time in history that pristine Martian rock and soil has been available for direct scientific analysis. The $7.4 billion Mars Sample Return mission, a joint NASA-ESA project, collected samples from the Jezero Crater — an ancient lake bed considered a prime candidate for past microbial life. Initial analyses are expected to take months, but scientists are particularly focused on biosignature detection and the geochemical history encoded in the samples. [NASA](https://science.nasa.gov/2026/)
+
+> [!note]- Nike (NKE): $43.70 (+3.0%) last close July 2 — markets closed today; Q4 beat partly tariff-driven; weak Q1 FY27 guidance (Yahoo Finance)
+> NKE closed at $43.70 on July 2 (+3.0% from $42.42), recovering after investors reassessed Q4 FY2026 results: $11.0B revenue (beat), EPS $0.72 vs $0.13 expected — though ~$0.52/share came from a $986M tariff-recovery windfall. Management guided for low-to-mid single-digit revenue declines in Q1 FY2027, citing ongoing pressure in China and North America. US markets closed today for July 4. Position: 46 shares at $71.69 avg, unrealised **−$1,288** (−$27.99/share). [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
 
 > [!note]- [[07-02-26 Thu]]
 >
