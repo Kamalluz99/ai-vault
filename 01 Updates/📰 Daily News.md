@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-07-02T05:00
+updated: 2026-07-02T19:02
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,26 @@ unread: true
 
 > [!note]- Nike (NKE): ~$39.62 pre-mkt (−3.5% from $42.42 close) — AH selloff on underlying demand softness; Q4 beat partly driven by $986M tariff windfall (Yahoo Finance)
 > Nike slid to ~$39.62 in after-hours and pre-market Thursday after closing at $42.42 (+3.1%) on July 1, as investors digested the gap between headline Q4 results and underlying quality — EPS $0.72 vs $0.13 expected, but ~$0.52/share came from a $986M tariff-recovery windfall. Management guided for low-to-mid single-digit revenue decline over the next three quarters, citing softer consumer demand. Position: 46 shares at $71.69 avg, unrealised **−$1,475** (−$32.07/share). [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
+
+> **Evening update**
+
+> [!note]- SG & MY: Vertiv opens first SEA factory in Johor for AI data centre power and cooling (The Star)
+> US data centre equipment maker Vertiv Holdings opened its first Southeast Asia manufacturing facility in Johor, Malaysia, producing power and cooling systems for data centres serving Southeast Asia, North Asia, Australia, and New Zealand. The plant — Vertiv's first in the region — will be fully operational in 2027 and was sited to capitalise on soaring AI-driven infrastructure demand, with Singapore and Malaysia both emerging as major data centre hubs. The factory signals Malaysia's ambition, bolstered by its proximity to Singapore, to anchor the regional AI hardware supply chain. [The Star](https://www.thestar.com.my/business/business-news/2026/07/01/vertiv-opens-malaysia-plant-to-meet-ai-data-centres-power-needs)
+
+> [!note]- Malaysia: Dewan Rakyat passes Cybercrimes Bill 2026 — replaces 1997 Computer Crimes Act (Malay Mail)
+> Malaysia's lower house of parliament passed the Cybercrimes Bill 2026 on July 1, replacing the outdated Computer Crimes Act 1997 with 61 new clauses targeting financial scams, deepfakes, AI-generated intimate imagery, and non-consensual distribution of explicit content. The bill was debated by 48 MPs before passing by a majority voice vote, with Deputy PM Ahmad Zahid Hamidi assuring that all powers conferred remain subject to checks and balances. The legislation aligns Malaysia with its obligations under the Budapest Convention and the UN Convention Against Cybercrime. [Malay Mail](https://www.malaymail.com/news/malaysia/2026/07/01/dewan-rakyat-passes-cybercrime-bill-to-strengthen-enforcement-and-protect-digital-users-in-malaysia/225990)
+
+> [!breaking]- World: US-Iran indirect talks in Doha report "positive progress" on Hormuz access (CNN)
+> Indirect US-Iran negotiations in Doha concluded their latest round with Qatar's foreign ministry reporting "positive progress" on restoring reliable maritime passage through the Strait of Hormuz and unlocking a portion of Iran's frozen financial assets. The sessions were limited in scope — Iran's nuclear programme was not on the agenda — forming part of the 60-day window under last month's Qatar-Oman-brokered ceasefire. The next round of talks is expected after Supreme Leader Khamenei's funeral, with both sides cautiously building on what mediators described as a promising but still fragile foundation. [CNN](https://www.cnn.com/2026/07/02/world/live-news/iran-war-us-talks)
+
+> [!note]- World: Thousands of police deployed as deadly anti-immigration protests spread across South Africa (Fox News)
+> South African authorities deployed thousands of police officers across multiple cities after violent anti-immigration protests escalated beyond Johannesburg, with businesses and homes attacked in the clashes. The unrest targets undocumented migrants from Zimbabwe, Mozambique, and other neighbouring countries, driven by public anger over unemployment and strained public services. The government condemned the violence but faces mounting pressure to address both humanitarian and structural causes of the unrest. [Fox News](https://www.foxnews.com/world/thousands-police-deployed-south-africa-deadly-anti-immigration-protests-spread-multiple-cities)
+
+> [!note]- Tech: Anthropic launches Claude Sonnet 5 and restores Fable 5 globally after US lifts export controls (Anthropic)
+> Anthropic simultaneously launched Claude Sonnet 5 — its most agentic model to date, built for autonomous multi-step tasks and tool use — and restored global access to Fable 5 after the US Commerce Department lifted export restrictions on July 1. The 18-day export control pause marked the first time a frontier AI model was formally gated by US national security review before public release. Sonnet 5 is priced at $2 per million input tokens as an introductory rate through August, while Fable 5 is available to Pro, Max, Team, and Enterprise users via usage credits from July 7. [Anthropic](https://www.anthropic.com/news/claude-sonnet-5)
+
+> [!note]- Science/Economy: Trump refuses to renew USMCA — North American trade pact enters decade of renegotiation (NBC News)
+> The United States missed the July 1 renewal deadline for the USMCA without committing to the deal in its current form, overturning the trade pact Trump himself signed during his first term. The US, Canada, and Mexico will now enter a decade-long annual review process with the status quo maintained, but businesses face significant uncertainty over tariffs and supply chain planning across integrated North American industries. The core US grievance centres on a $46 billion goods deficit with Canada and a $197 billion deficit with Mexico; analysts warn the breakdown could especially disrupt automotive and agriculture supply chains. [NBC News](https://www.nbcnews.com/business/economy/trump-usmca-renewal-tariffs-trade-rcna352594)
 
 > [!note]- [[07-01-26 Wed]]
 >
