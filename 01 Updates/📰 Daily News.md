@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-07-03T19:05
+updated: 2026-07-03T21:09
 topic: daily news
 frequency: daily
 ongoing: false
@@ -81,8 +81,8 @@ unread: true
 > [!note]- Science: NASA's Perseverance samples reach Earth labs — first-ever pristine Martian material under analysis (NASA)
 > Mars sample return material from NASA's Perseverance rover has arrived at Earth laboratories in 2026, marking the first time in history that pristine Martian rock and soil has been available for direct scientific analysis. The $7.4 billion Mars Sample Return mission, a joint NASA-ESA project, collected samples from the Jezero Crater — an ancient lake bed considered a prime candidate for past microbial life. Initial analyses are expected to take months, but scientists are particularly focused on biosignature detection and the geochemical history encoded in the samples. [NASA](https://science.nasa.gov/2026/)
 
-> [!note]- Nike (NKE): $43.70 (+3.0%) last close July 2 — markets closed today; Q4 beat partly tariff-driven; weak Q1 FY27 guidance (Yahoo Finance)
-> NKE closed at $43.70 on July 2 (+3.0% from $42.42), recovering after investors reassessed Q4 FY2026 results: $11.0B revenue (beat), EPS $0.72 vs $0.13 expected — though ~$0.52/share came from a $986M tariff-recovery windfall. Management guided for low-to-mid single-digit revenue declines in Q1 FY2027, citing ongoing pressure in China and North America. US markets closed today for July 4. Position: 46 shares at $71.69 avg, unrealised **−$1,288** (−$27.99/share). [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
+> [!note]- Nike (NKE): $44.01 (+0.7%) July 3 early close — Q4 beat partly tariff-driven; weak Q1 FY27 guidance (Yahoo Finance)
+> NKE closed at $44.01 on July 3 in a shortened session (markets closed at 1pm ET ahead of the July 4 holiday; intraday range $43.05–$45.04). Q4 FY2026 results delivered a meaningful beat: $11.0B revenue, EPS $0.72 vs $0.13 expected — though ~$0.52/share came from a $986M tariff-recovery windfall. Management guided for low-to-mid single-digit revenue declines in Q1 FY2027, citing ongoing pressure in China and North America. Position: 46 shares at $71.69 avg, unrealised **−$1,273** (−$27.68/share). [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
 
 > **Evening update**
 
@@ -103,6 +103,11 @@ unread: true
 
 > [!note]- Science/Economy: Semiconductor stocks post second straight selloff — Teradyne −13.6%, KLA −11.5%, Nvidia −1.4% (CNBC)
 > US semiconductor stocks fell for a second consecutive session, with the VanEck Semiconductor ETF dropping 4.5% led by a 13.6% slide in Teradyne and an 11.5% decline in KLA, while Nvidia pulled back 1.4%. The selloff created a sharp divergence with the broader Dow Jones, which hit a record close of 52,900.07 on soft payrolls data fuelling Fed rate-cut bets. Analysts point to revised near-term AI chip demand forecasts rather than a structural shift, with longer-term capital expenditure commitments from hyperscalers remaining intact. [CNBC](https://www.cnbc.com/2026/07/01/stock-market-today-live-updates.html)
+
+> **Late update**
+
+> [!note]- AI: Fable 5 restored globally after 19-day US export control blackout (Anthropic)
+> Anthropic's Fable 5 model returned to users in all countries on July 1, 2026, after the US Department of Commerce lifted export controls it had imposed on June 12 — the longest AI model access restriction for enterprise users on record. The model is again fully available on Claude.ai, the Claude Platform API, Claude Code, and Claude Cowork worldwide. The 19-day episode marks the first high-profile test of how AI export regulations interact with live commercial model deployment, and drew criticism from international enterprise customers who lost access mid-project. [Anthropic](https://www.anthropic.com/news)
 
 > [!note]- [[07-02-26 Thu]]
 >
