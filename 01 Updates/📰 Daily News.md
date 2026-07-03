@@ -81,6 +81,9 @@ unread: true
 > [!note]- Science: Single injection reverses osteoarthritis in weeks in animal trials; ARPA-H extends $33.5M funding (CU Boulder Today)
 > Researchers at the University of Colorado Boulder developed a single regenerative injection capable of prompting damaged joints to repair themselves within weeks, using an FDA-approved drug delivered via a patented nanoparticle system that releases doses intermittently over months. Animal studies showed cartilage regrowth rather than just pain relief, prompting the federal ARPA-H agency to extend funding to $33.5 million and the formation of spinout Renovare Therapeutics to commercialise the therapy. Human trials are targeted for 2028, a potential paradigm shift for the 500 million people worldwide affected by osteoarthritis. [CU Boulder Today](https://www.colorado.edu/today/2026/04/06/simple-shot-shows-promise-reverse-osteoarthritis-within-weeks)
 
+> [!note]- Nike (NKE): $44.01 — markets closed today; last close up ~3.2% on Q4 beat; Greater China -12% weighs on FY27 outlook (Yahoo Finance)
+> US markets are closed for Independence Day; NKE's most recent price is $44.01, lifted ~3.2% on June 30 after Q4 FY2026 results beat expectations (revenue $11.0B vs $10.85B est; EPS $0.72 vs $0.13 est). Management guided for low-to-mid single-digit revenue declines in Q1 FY2027, citing Greater China -12% partly offset by North America +3%. Position: 46 shares at $71.69 avg, unrealised **−$1,273** (−$27.68/share). [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
+
 > [!note]- [[07-03-26 Fri]]
 >
 > > [!note]- AI: Qualcomm in talks to buy AI chip startup Tenstorrent for up to $10B (The Register)
@@ -128,11 +131,8 @@ unread: true
 >
 > > [!note]- AI: Fable 5 restored globally after 19-day US export control blackout (Anthropic)
 > > Anthropic's Fable 5 model returned to users in all countries on July 1, 2026, after the US Department of Commerce lifted export controls it had imposed on June 12 — the longest AI model access restriction for enterprise users on record. The model is again fully available on Claude.ai, the Claude Platform API, Claude Code, and Claude Cowork worldwide. The 19-day episode marks the first high-profile test of how AI export regulations interact with live commercial model deployment, and drew criticism from international enterprise customers who lost access mid-project. [Anthropic](https://www.anthropic.com/news)
-
-> **Late update**
-
-> [!note]- AI: Fable 5 restored globally after 19-day US export control blackout (Anthropic)
-> Anthropic's Fable 5 model returned to users in all countries on July 1, 2026, after the US Department of Commerce lifted export controls it had imposed on June 12 — the longest AI model access restriction for enterprise users on record. The model is again fully available on Claude.ai, the Claude Platform API, Claude Code, and Claude Cowork worldwide. The 19-day episode marks the first high-profile test of how AI export regulations interact with live commercial model deployment, and drew criticism from international enterprise customers who lost access mid-project. [Anthropic](https://www.anthropic.com/news)
+>
+>
 
 > [!note]- [[07-02-26 Thu]]
 >
