@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-07-03T05:30
+updated: 2026-07-03T19:05
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,26 @@ unread: true
 
 > [!note]- Nike (NKE): $43.70 (+3.0%) last close July 2 — markets closed today; Q4 beat partly tariff-driven; weak Q1 FY27 guidance (Yahoo Finance)
 > NKE closed at $43.70 on July 2 (+3.0% from $42.42), recovering after investors reassessed Q4 FY2026 results: $11.0B revenue (beat), EPS $0.72 vs $0.13 expected — though ~$0.52/share came from a $986M tariff-recovery windfall. Management guided for low-to-mid single-digit revenue declines in Q1 FY2027, citing ongoing pressure in China and North America. US markets closed today for July 4. Position: 46 shares at $71.69 avg, unrealised **−$1,288** (−$27.99/share). [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
+
+> **Evening update**
+
+> [!note]- SG & MY: 70,000 Singaporeans' NRIC and address data leaked via SLA vendor breach (Mothership)
+> The personal data of approximately 70,000 Singaporeans — including NRIC numbers and home addresses — was compromised in a cyberattack targeting the Singapore Land Authority's vendor, IBM. The breach is under active investigation by SLA and the Personal Data Protection Commission, with affected individuals expected to be notified directly. It marks one of the larger government-adjacent data exposures in Singapore's recent history and draws fresh scrutiny on third-party vendor security across public agencies. [Mothership](https://mothership.sg/)
+
+> [!note]- Malaysia: Communications Minister condemns fake WhatsApp impersonating Johor PH candidate (FMT)
+> Malaysia's Communications Minister Datuk Fahmi Fadzil condemned those behind a fake WhatsApp account impersonating Pakatan Harapan candidate Saiful Nizam Samat for the Endau state seat in the upcoming Johor election, describing the move as "irresponsible." The Johor polls are drawing heightened scrutiny on digital election integrity, with first-time candidates also making up a smaller share of aspirants than in previous cycles. The Election Commission faces pressure to act against impersonation under Malaysia's newly passed Cybercrimes Act 2026. [Free Malaysia Today](https://www.freemalaysiatoday.com/)
+
+> [!breaking]- World: Iran opens 6-day state funeral for slain Khamenei — 15–20M mourners, successor stays hidden (Time)
+> Iran launched a six-day series of funeral processions for assassinated Supreme Leader Ayatollah Ali Khamenei, running July 4–9 across Tehran, Qom, and Mashhad in Iran and the holy cities of Najaf and Karbala in Iraq. Authorities anticipate 15 to 20 million mourners — potentially the largest state funeral in recorded history. Khamenei's son and successor Mojtaba, wounded in the February Israeli strikes that killed his father, will not attend for security reasons, and US-Iran nuclear talks remain suspended until the mourning period ends July 9. [Time](https://time.com/article/2026/07/03/iran-supreme-leader-ayatollah-ali-khamenei-funeral-mass-mourning/)
+
+> [!note]- World: Portugal survives VAR scare to set up Spain showdown at World Cup 2026 (ESPN)
+> Portugal advanced at the FIFA World Cup 2026, surviving a late-match VAR intervention to set up a highly anticipated knockout clash with Spain. The result keeps alive the prospect of a historic Iberian derby in the quarterfinals, with Cristiano Ronaldo central to Portugal's campaign. The 2026 World Cup, co-hosted by the US, Canada, and Mexico, is drawing record global viewership as the field narrows to the final eight. [ESPN](https://www.espn.co.uk/football/story/_/id/49255959/world-cup-2026-today-blog-03-07-2026-live-updates-news-fixtures-schedule-results-cristiano-ronaldo-spain)
+
+> [!note]- Tech: SpaceX qualifies for Nasdaq benchmark index — tracking funds buy in from July 6 (CNBC)
+> Nasdaq confirmed SpaceX qualifies for inclusion in its benchmark technology index, with passive index-tracking funds set to begin purchasing shares after market close on July 6 — a landmark moment for a company that has never held a traditional IPO. SpaceX's primary revenue driver is now Starlink satellite internet, which generated tens of billions in 2025. The inclusion effectively gives millions of passive investors de facto exposure to the private aerospace giant and sets a precedent for other large, profitable private companies. [CNBC](https://www.cnbc.com/2026/07/01/stock-market-today-live-updates.html)
+
+> [!note]- Science/Economy: Semiconductor stocks post second straight selloff — Teradyne −13.6%, KLA −11.5%, Nvidia −1.4% (CNBC)
+> US semiconductor stocks fell for a second consecutive session, with the VanEck Semiconductor ETF dropping 4.5% led by a 13.6% slide in Teradyne and an 11.5% decline in KLA, while Nvidia pulled back 1.4%. The selloff created a sharp divergence with the broader Dow Jones, which hit a record close of 52,900.07 on soft payrolls data fuelling Fed rate-cut bets. Analysts point to revised near-term AI chip demand forecasts rather than a structural shift, with longer-term capital expenditure commitments from hyperscalers remaining intact. [CNBC](https://www.cnbc.com/2026/07/01/stock-market-today-live-updates.html)
 
 > [!note]- [[07-02-26 Thu]]
 >
