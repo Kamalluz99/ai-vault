@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-07-04T05:07
+updated: 2026-07-04T19:05
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,26 @@ unread: true
 
 > [!note]- Nike (NKE): $44.01 — markets closed today; last close up ~3.2% on Q4 beat; Greater China -12% weighs on FY27 outlook (Yahoo Finance)
 > US markets are closed for Independence Day; NKE's most recent price is $44.01, lifted ~3.2% on June 30 after Q4 FY2026 results beat expectations (revenue $11.0B vs $10.85B est; EPS $0.72 vs $0.13 est). Management guided for low-to-mid single-digit revenue declines in Q1 FY2027, citing Greater China -12% partly offset by North America +3%. Position: 46 shares at $71.69 avg, unrealised **−$1,273** (−$27.68/share). [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
+
+> **Evening update**
+
+> [!note]- SG & MY: Circle Line Stage 6 free preview today — 3 new stations, official opening Jul 12 (LTA)
+> Singapore's Land Transport Authority opened a free public preview of the three new Circle Line Stage 6 stations — Keppel, Cantonment, and Prince Edward Road — on 4 July, with free shuttle services running from Marina Bay to Prince Edward Road from 9.30am to 9pm. Passenger service officially begins on 12 July 2026, completing the 39km, 33-station Circle Line loop after more than 30 years of phased construction. Cantonment station has been sensitively integrated with the gazetted national monument Tanjong Pagar Railway Station, while Keppel and Prince Edward Road anchor the Greater Southern Waterfront and Shenton Way precincts respectively. [LTA](https://www.lta.gov.sg/content/ltagov/en/newsroom/2026/6/news-releases/explore-three-new-circle-line-stage-6-stations-on-4-july-2026.html)
+
+> [!note]- Malaysia: US 24% tariff threatens exports as Johor polls loom and ringgit hits 5-year high (Fortune)
+> Malaysia's export-driven economy faces mounting headwinds as a US tariff of up to 24% on Malaysian goods is expected to take effect in early July 2026, threatening the trade momentum behind 4.9% GDP growth in 2025. The ringgit nonetheless sits at its strongest level in five years and unemployment has fallen to a decade-low 2.9%, reflecting structural gains under PM Anwar Ibrahim's administration. With Johor polling on July 11 and Negeri Sembilan on August 1, economic resilience will be a key ballot-box test for the Pakatan Harapan coalition. [Fortune](https://fortune.com/2026/02/07/malaysia-economy-minister-akmal-nasir-johor-semiconductors-energy/)
+
+> [!breaking]- World: Russia claims full control of Kostiantynivka; Kyiv hit by mass missile barrage killing 13 (CNN)
+> Russian forces declared full capture of the industrial city of Kostiantynivka in Ukraine's eastern Donetsk region on Friday, a significant advance on the grinding eastern front. Overnight, Kyiv suffered a "massive" Russian barrage of ballistic missiles and drones that killed at least 13 people and injured dozens, according to the city's mayor. The back-to-back developments mark one of the war's sharper single-day escalations in recent weeks and arrive as NATO leaders prepare to convene in Ankara on July 7–8. [CNN](https://www.cnn.com/world/europe/ukraine)
+
+> [!note]- World: Venezuela twin earthquakes kill at least 2,595 — government slammed for slow disaster response (AP)
+> Acting President Delcy Rodríguez pushed back against critics who say Venezuelan authorities reacted too slowly to the twin earthquakes that have now killed at least 2,595 people, making it one of the deadliest natural disasters in South American history in recent years. Opposition figures and international observers have accused the government of a delayed and under-resourced emergency response in the affected regions. The disaster has deepened the country's already severe humanitarian and political crisis under the US-backed transitional administration. [AP](https://apnews.com/world-news/venezuela)
+
+> [!note]- Tech: China open-sources 1.6T-param AI model trained on domestic chips; UN AI governance talks open Jul 6 (AI Herald)
+> A 1.6-trillion-parameter Chinese AI model trained entirely on domestically produced chips has been released under an MIT open-source licence, marking a milestone in China's push to achieve frontier AI self-sufficiency without US hardware. Separately, Elon Musk's xAI confirmed that Grok 4.5 is in private beta at SpaceX and Tesla, and Tesla has imposed a $200-per-week cap on staff AI spending starting July 6. The UN Global Dialogue on AI Governance opens in Geneva on 6 July, where member states will debate international frameworks for managing AI risks. [AI Herald](https://artificialintelligenceherald.com/ai-news-today)
+
+> [!note]- Science/Economy: Global growth cut to 2.5% as markets reprice energy and geopolitical risk (IQI Global)
+> The global economic outlook for July 2026 is being shaped less by growth data and more by energy security and geopolitical risk, with global growth projected to slow to 2.5% this year as Middle East tensions drive energy prices higher. China bucks the broader slowdown — exports surged 19.6% year-on-year in May, led by semiconductors (+110%), mobile phones (+44%), and data-processing machines (+66%) — deepening the divergence between export powerhouses and import-reliant economies. Analysts note that trade-route stability and the Iran leadership transition are now the dominant macro variables for Q3 2026. [IQI Global](https://iqiglobal.com/blog/global-economic-outlook-july-2026/)
 
 > [!note]- [[07-03-26 Fri]]
 >
