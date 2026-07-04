@@ -127,6 +127,18 @@ unread: true
 > > [!note]- Science/Economy: Global growth cut to 2.5% as markets reprice energy and geopolitical risk (IQI Global)
 > > The global economic outlook for July 2026 is being shaped less by growth data and more by energy security and geopolitical risk, with global growth projected to slow to 2.5% this year as Middle East tensions drive energy prices higher. China bucks the broader slowdown — exports surged 19.6% year-on-year in May, led by semiconductors (+110%), mobile phones (+44%), and data-processing machines (+66%) — deepening the divergence between export powerhouses and import-reliant economies. Analysts note that trade-route stability and the Iran leadership transition are now the dominant macro variables for Q3 2026. [IQI Global](https://iqiglobal.com/blog/global-economic-outlook-july-2026/)
 >
+> > **Late update**
+>
+> > [!note]- World: Crimea state of emergency — drones stall Kerch Bridge, fuel runs dry across peninsula (Newsweek)
+> > Russia's occupation head Sergei Aksyonov declared a state of emergency in Crimea after Ukrainian drone strikes crippled the peninsula's energy grid, triggering widespread blackouts and fuel rationing. The Kerch Bridge — Crimea's sole land link to the Russian mainland — is near-paralysed with a 2,000-vehicle backlog, and gas stations have run dry as supplies cannot get through. Children have been evacuated from summer camps including the Kremlin-prestige Artek site, as Ukraine's stated strategy of "turning Crimea into an island" gains visible momentum. [Newsweek](https://www.newsweek.com/crimea-state-of-emergency-ukraine-strikes-12126180)
+>
+> > [!note]- AI: OpenAI deploys GPT-5.6 Sol on Cerebras at 750 tok/s — 15× faster than GPU-served frontier models (OpenAI)
+> > OpenAI is rolling out GPT-5.6 Sol on Cerebras wafer-scale hardware in July 2026 at up to 750 tokens per second — roughly 15 times faster than standard GPU-cluster inference — initially for select customers with capacity expanding thereafter. The GPT-5.6 family spans three tiers: Sol ($5 input / $30 output per 1M tokens), Terra ($2.50/$15), and Luna ($1/$6), covering ultra-low-latency to cost-efficient batch use cases. Cerebras holds a multi-year OpenAI contract worth over $20 billion and 750 MW of inference compute, making this the largest wafer-scale AI deployment yet announced. [OpenAI](https://openai.com/index/previewing-gpt-5-6-sol/)
+>
+> > [!note]- Tech: Google loses final EU appeal — €4.1B Android antitrust fine stands after decade-long case (CNBC)
+> > Europe's top court upheld the €4.1 billion European Commission fine against Google, closing the company's last avenue of appeal in a decade-long case stemming from a 2018 decision that found Google used Android's dominance to reinforce Chrome and Search on mobile devices. The ruling is one of the largest competition penalties in EU history and sets a lasting precedent on how dominant mobile OS providers can bundle applications. [CNBC](https://www.cnbc.com/technology/)
+>
+
 > [!note]- [[07-03-26 Fri]]
 >
 > > [!note]- AI: Qualcomm in talks to buy AI chip startup Tenstorrent for up to $10B (The Register)
