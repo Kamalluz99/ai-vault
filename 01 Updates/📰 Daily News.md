@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-07-05T05:09
+updated: 2026-07-05T19:05
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,26 @@ unread: true
 
 > [!note]- Nike (NKE): $44.09 (+2.39% Jul 2) — Truist reiterates Buy; underlying EPS $0.20 after stripping $986M tariff windfall (Yahoo Finance)
 > Nike last closed at $44.09 on July 2, up 2.39%, sustained by post-earnings momentum after Q4 FY2026 beat top-line consensus (revenue $11.0B vs $10.85B). The headline EPS of $0.72 was substantially inflated by a one-time $986M tariff-recovery benefit; stripping that out, underlying adj EPS was $0.20, still above the $0.12 core estimate. Truist reiterated Buy on July 3, though Greater China fell 17% and NIKE Direct dropped 9%; management guides for low-to-mid single-digit revenue declines over the next three quarters. Position: 46 shares at $71.69 avg, unrealised **−$1,272** (−$27.60/share). [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
+
+> **Evening update**
+
+> [!note]- SG & MY: Global firms shift ops from Singapore to Malaysia — H&M, Heineken among latest movers (CNBC)
+> Multiple multinational corporations have continued relocating Southeast Asian headquarters and production from Singapore to Malaysia in mid-2026, with H&M announcing it would move its regional HQ from Singapore to Kuala Lumpur affecting 78 positions, and Heineken confirming a shift of large-scale Asia Pacific Breweries production to Malaysia and Vietnam. The trend reflects rising operating costs in Singapore and improved infrastructure and incentives in Malaysia, accelerating ahead of Johor's July 11 state election where economic competitiveness is a central campaign theme. Analysts say the wave of relocations may deepen further as Singapore's cost base diverges from its neighbour. [CNBC](https://www.cnbc.com/2026/06/11/global-mobility-firms-move-operations-from-singapore-to-malaysia.html)
+
+> [!note]- Malaysia: PM Anwar warns against racial and religious rhetoric as Johor polls enter final week (Malaysiakini)
+> Prime Minister Anwar Ibrahim used a Sunday campaign rally to warn Malaysians against the weaponisation of race and religion in politics, saying the country's future depends on rejecting extremism and building unity. The Johor state election — polling day July 11 — has 172 candidates contesting 56 seats in an unusual configuration where Pakatan Harapan and Barisan Nasional, federal coalition partners, are competing against each other in every constituency. PH is running on a Shenzhen-style economic transformation pitch, while BN defends its 2022 supermajority of 40 out of 56 seats. [Malaysiakini](https://www.malaysiakini.com/)
+
+> [!note]- World: UK, Italy and Japan sign £4.6B GCAP contract for next-gen stealth fighter, entry in 2035 (Reuters)
+> The UK, Italy, and Japan signed a £4.6 billion (≈$6.1 billion) contract to advance the Global Combat Air Programme, a trilateral sixth-generation stealth fighter intended to replace the Eurofighter Typhoon and Mitsubishi F-2 with a target service entry of 2035. The deal covers advanced radar, AI-assisted targeting systems, and next-generation engines built across all three countries' defence industries. The signing comes days before the NATO summit in Ankara on July 7–8 and marks a milestone in Western-Japan defence-industrial integration. [Reuters](https://www.reuters.com/)
+
+> [!note]- World: Egypt reaches FIFA World Cup 2026 Round of 16 for first time, defeating Australia on penalties (AP)
+> Egypt's national football team made history at the 2026 FIFA World Cup — hosted across the USA, Canada, and Mexico — qualifying for the Round of 16 for the first time ever by defeating Australia in a penalty shootout in the Round of 32. The milestone underscores the impact of the tournament's expanded 48-team format, which has allowed more nations from Africa and Asia to advance deeper into the knockout stages than at any previous World Cup. Separately, Trump reaffirmed readiness to facilitate a Russia-Ukraine peace settlement, with envoys Witkoff and Kushner set to continue mediation ahead of the Ankara NATO summit. [AP](https://apnews.com/world-news)
+
+> [!note]- Tech: UN Global AI Governance Dialogue opens in Geneva July 6; Claude Sonnet 5 launches at near-Opus performance (UN News)
+> The United Nations Global Dialogue on AI Governance convenes in Geneva on 6 July 2026, where member states will debate binding and voluntary international frameworks for managing frontier AI risks — the highest-level intergovernmental AI forum since the Bletchley Declaration. On the industry side, Anthropic launched Claude Sonnet 5 as the new default model for Claude.ai Free and Pro plans, delivering performance close to Opus 4.8 at an introductory price of $2 per million input tokens through August 31. Separately, xAI's Grok 4.5, built on a 1.5 trillion parameter model, entered private beta at SpaceX and Tesla with evaluations suggesting performance that may rival Claude Opus. [UN News](https://news.un.org/en/story/2026/07/1167848)
+
+> [!note]- Science/Economy: Thai archaeologists find 2,000-yr-old Indian gold rings; US Section 122 tariff expires Jul 24 (Anadolu Agency)
+> Thai archaeologists excavating in Phetchaburi province unearthed two ancient Indian gold rings estimated to be between 1,900 and 2,100 years old, shedding new light on early maritime trade routes between the Indian subcontinent and mainland Southeast Asia. On the economic front, the US blanket 10% tariff imposed under Section 122 is set to expire on July 24, 2026, after which the administration plans more targeted levies under Section 301 — a potentially significant shift for Asian exporters including Malaysia, Vietnam, Singapore, and Thailand. Global growth is projected at 2.5% in 2026 amid Middle East energy disruptions and trade-route uncertainty. [Anadolu Agency](https://aa.com.tr/en/world/morning-briefing-july-5-2026/3986410)
 
 > [!note]- [[07-04-26 Sat]]
 >
