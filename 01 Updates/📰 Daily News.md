@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-07-06T07:00
+updated: 2026-07-05T21:09
 topic: daily news
 frequency: daily
 ongoing: false
@@ -123,6 +123,15 @@ unread: true
 >
 > > [!note]- Science/Economy: Thai archaeologists find 2,000-yr-old Indian gold rings; US Section 122 tariff expires Jul 24 (Anadolu Agency)
 > > Thai archaeologists excavating in Phetchaburi province unearthed two ancient Indian gold rings estimated to be between 1,900 and 2,100 years old, shedding new light on early maritime trade routes between the Indian subcontinent and mainland Southeast Asia. On the economic front, the US blanket 10% tariff imposed under Section 122 is set to expire on July 24, 2026, after which the administration plans more targeted levies under Section 301 — a potentially significant shift for Asian exporters including Malaysia, Vietnam, Singapore, and Thailand. Global growth is projected at 2.5% in 2026 amid Middle East energy disruptions and trade-route uncertainty. [Anadolu Agency](https://aa.com.tr/en/world/morning-briefing-july-5-2026/3986410)
+
+>
+> > **Late update**
+>
+> > [!note]- Malaysia: Anwar announces MY-SG digital immigration by Jan 2027 (Malay Mail)
+> > Prime Minister Anwar Ibrahim announced Sunday that Malaysia and Singapore will jointly launch a digital immigration clearance system and new dedicated border lanes by January 2027, building on efficiency improvements over the past three years and aimed at drastically cutting commute times at the Johor Bahru–Singapore crossing. Anwar framed the initiative as part of a broader plan to reduce dependence on Singapore employment by developing Malaysia's domestic high-tech sector in AI, data centres, and advanced manufacturing. The announcement comes six days before the Johor state election on July 11, where cross-border economic competitiveness is a central campaign issue. [Malay Mail](https://www.malaymail.com/news/malaysia/2026/07/05/anwar-malaysia-and-singapore-to-launch-digital-immigration-system-and-new-lanes-by-january/226438)
+>
+> > [!note]- World: US-Iran ceasefire on shaky ground; Doha talks set (Axios)
+> > The 60-day US-Iran ceasefire formalised on June 17 is under severe strain, with both sides trading renewed strikes over competing interpretations of Strait of Hormuz transit rules, prompting Trump to threaten to “restart the war and complete the job.” A fresh mutual halt was agreed June 28, with diplomatic talks scheduled in Doha this week — the second attempt to stabilise the ceasefire in under a fortnight. Analysts warn the fragility keeps Brent crude risk premium elevated even as prices drift to the low $70s on easing disruptions, and adds to uncertainty ahead of the NATO summit in Ankara on July 7–8. [Axios](https://www.axios.com/2026/06/28/us-and-iran-agree-to-halt-strikes-and-meet-this-week-us-official-says)
 
 > [!note]- [[07-04-26 Sat]]
 >
