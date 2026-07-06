@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-07-07T05:06
+updated: 2026-07-07T21:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,14 @@ unread: true
 
 > [!note]- Nike (NKE): $44.09 (+2.39% last close Jul 2; markets reopen today) — Q4 FY26 sales −1%, China −12%, NA +3% (Yahoo Finance)
 > Nike closed at $44.09 on July 2 (last trading day before the Independence Day long weekend; US markets reopen today July 7). Q4 FY2026 revenue beat at $11.0B vs $10.85B estimate, but headline EPS of $0.72 was heavily inflated by a one-time $986M tariff-recovery; underlying adj EPS was $0.20. Greater China fell 12%, NIKE Direct −9%, North America +3%; management guides for low-to-mid single-digit revenue declines over the next three quarters. Position: 46 shares at $71.69 avg, unrealised **−$1,270** (−$27.60/share). [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
+
+> **Evening update**
+
+> [!note]- Tech: Tesla Robotaxi goes fully driverless in Miami — 5th US city, no safety monitor from day one (BuildFastWithAI)
+> Tesla launched its Robotaxi service in Miami on Monday without a safety driver in the vehicle, making it the fifth US city after Austin, Houston, Dallas, and Phoenix — and uniquely the first where fully unsupervised autonomous operation was the default from launch with no supervised ramp-up period required. The expansion marks a rapid cadence in Tesla's commercial driverless push, with the company targeting coverage across a dozen US states by end of 2026 and rolling out a dedicated Robotaxi app. [BuildFastWithAI](https://www.buildfastwithai.com/blogs/ai-news-today-july-6-2026)
+
+> [!note]- Macro: Dow closes +1.1% at 52,900 Mon (new all-time high) on rate-cut hopes; Nasdaq slips on AI profit-taking (Yahoo Finance)
+> Monday's split session: the Dow Jones set a new all-time high at 52,900 (+594 pts, +1.1%) as June's 57,000-job payrolls miss fuelled rate-cut optimism, while the Nasdaq Composite fell on heavy AI-stock profit-booking and the S&P 500 closed nearly flat. Gold held at $4,186/oz and Bitcoin slipped to $62,716 (−1.8%), with Ether at $1,761 (−1.3%). [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/stock-market-news-july-6-064600457.html)
 
 > [!note]- [[07-06-26 Mon]]
 >
