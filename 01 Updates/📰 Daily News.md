@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-07-05T21:09
+updated: 2026-07-06T19:06
 topic: daily news
 frequency: daily
 ongoing: false
@@ -80,6 +80,26 @@ unread: true
 
 > [!note]- Science: Unknown molecule found on both Pluto and Titan — never detected anywhere in the solar system (SciTechDaily)
 > Scientists have identified a very specific wavelength of light absent from spectral readings of both Pluto and Saturn's moon Titan, pointing to an unknown molecule shared by the two worlds that has never been observed anywhere else in the solar system or beyond. The discovery raises new questions about the chemistry of cold nitrogen-rich atmospheres and whether the compound could be a precursor to complex organic molecules. Separately, revised mass estimates for a "super Earth" 25 light-years away suggest it is smaller than previously thought, improving the odds it could host life-supporting conditions. [SciTechDaily](https://scitechdaily.com/)
+
+> **Evening update**
+
+> [!note]- SG & MY: Johor poll dialogue set for Tuesday; MB to skip (Malay Mail)
+> Johor's inter-party election dialogue is confirmed for Tuesday July 7, just four days before polling day on July 11, even as Menteri Besar Datuk Onn Hafiz Ghazi announced he is unable to attend due to other commitments. The dialogue carries weight beyond Johor's borders: the state shares its only land border with Singapore and anchors the Johor Bahru–Singapore economic corridor used by over 300,000 daily commuters. With BN defending its 2022 supermajority of 40 seats against a PH economic-transformation pitch and PN's race-religion platform, the result will shape bilateral trade policy and the corridor's development trajectory well into 2027. [Malay Mail](https://www.malaymail.com/news/malaysia)
+
+> [!note]- Malaysia: Teen stabbed 16 times at Banting school; suspect arrested (Malay Mail)
+> A Form Three female student was stabbed 16 times in an attack at a school in Banting, Selangor, sustaining a lung injury and multiple wounds before being rushed to hospital. Police arrested a suspect shortly after the incident, which has drawn widespread alarm and is expected to intensify calls for a comprehensive review of school security protocols across Malaysia. The attack is the latest in a string of campus safety incidents that have kept school violence a persistent policy concern for the Education Ministry. [Malay Mail](https://www.malaymail.com/news/malaysia)
+
+> [!note]- World: Netanyahu heads to Washington; US-Israel friction on Lebanon (CBS News)
+> Israeli Prime Minister Benjamin Netanyahu is expected at the White House in the coming days, with tensions between the two allies reportedly sharpening over Israel's continued military strikes in Lebanon even as the US grants Iran "a week off" during the multi-day state funeral for Supreme Leader Khamenei. The visit comes at a delicate moment: the fragile US-Iran ceasefire formalised on June 17 is under strain, and any Israeli escalation risks undermining Trump's diplomatic overtures ahead of the NATO summit in Ankara on July 7–8. Observers say the outcome of the meeting will signal whether Washington will exert meaningful restraint on further Israeli operations. [CBS News](https://www.cbsnews.com/live-updates/us-iran-war-trump-negotiations-pause-ayatollah-funeral/)
+
+> [!note]- World: NATO Ankara summit opens Tue — Ukraine and Iran top the agenda (Reuters)
+> NATO leaders convene in Ankara, Turkey on July 7–8 in what is shaping up as one of the alliance's most consequential summits in years, with Ukraine's security commitments, the volatile US-Iran ceasefire, and transatlantic defence spending all on the table. Trump envoys Steve Witkoff and Jared Kushner are expected to brief allies on Russia-Ukraine peace-track progress, while Secretary-General Rutte will push for a long-term military support framework for Kyiv. Turkey's hosting marks its most prominent NATO role in years, with President Erdoğan positioning as a key mediator across multiple active fronts. [WORLD](https://wng.org/podcasts/monday-morning-news-july-6-2026-1783271399)
+
+> [!note]- Tech: California's Newsom deploys Claude AI to all state agencies (AIToolsRecap)
+> California Governor Gavin Newsom announced the largest state-level AI deployment in US history, extending access to Anthropic's Claude to every California state agency — and participating cities and counties — at a 50% discounted rate. The rollout spans public services across health, transport, education, and emergency management, and is widely seen as a major government endorsement of frontier AI for civic use at scale. The announcement lands on the same day the UN Global Dialogue on AI Governance opens in Geneva, underscoring how rapidly AI has moved from research lab to institutional deployment. [AIToolsRecap](https://aitoolsrecap.com/Blog/AINewsJuly2026.aspx)
+
+> [!note]- Science/Economy: AI equities boom: billionaire wealth up 25%, count up 13% (UBS)
+> Global billionaire wealth rose an average of 25% in the year to mid-2026, driven by surging AI-related equity valuations, while average personal wealth worldwide grew a more modest 10.8%. The number of billionaires increased by 13% to a fresh record as AI infrastructure investment and share price gains concentrated wealth at an accelerated pace. The divergence between AI-exposed asset holders and the broader population is prompting renewed debate among policymakers over windfall taxes and the redistribution of AI-era gains. [UBS Global Wealth](https://www.ubs.com/)
 
 > [!note]- [[07-05-26 Sun]]
 >
