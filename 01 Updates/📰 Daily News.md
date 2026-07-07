@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-07-07T21:00
+updated: 2026-07-07T21:30
 topic: daily news
 frequency: daily
 ongoing: false
@@ -91,6 +91,25 @@ unread: true
 
 > [!note]- Macro: Dow closes +1.1% at 52,900 Mon (new all-time high) on rate-cut hopes; Nasdaq slips on AI profit-taking (Yahoo Finance)
 > Monday's split session: the Dow Jones set a new all-time high at 52,900 (+594 pts, +1.1%) as June's 57,000-job payrolls miss fuelled rate-cut optimism, while the Nasdaq Composite fell on heavy AI-stock profit-booking and the S&P 500 closed nearly flat. Gold held at $4,186/oz and Bitcoin slipped to $62,716 (−1.8%), with Ether at $1,761 (−1.3%). [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/stock-market-news-july-6-064600457.html)
+
+
+> [!note]- SG & MY: Wong, Prabowo pledge Malacca Strait open to all amid oil shipping fears (Malay Mail)
+> Singapore PM Lawrence Wong and Indonesian President Prabowo Subianto reaffirmed at their annual Leaders' Retreat in Jakarta on July 6 that the Strait of Malacca will remain open and accessible under UNCLOS, amid heightened concerns over oil-shipping disruptions tied to Middle East tensions. The two leaders signed 26 agreements and MOUs, and called on all four Malacca Straits Patrol littoral states — Indonesia, Malaysia, Singapore, and Thailand — to maintain coordinated maritime security. The summit underscores Southeast Asia's deepening anxiety over the vulnerability of global energy trade routes in a period of elevated geopolitical risk. [Malay Mail](https://www.malaymail.com/news/singapore/2026/07/06/singapore-indonesia-say-strait-of-malacca-will-remain-accessible-amid-global-oil-tensions/226617)
+
+> [!note]- Malaysia: Early voting underway for Johor state election; polling day July 11 (The Star)
+> Early voting began today for the Johor state election, with full polling set for July 11, when 2.7 million registered voters choose among 172 candidates contesting 56 seats in a three-way fight between Barisan Nasional, Pakatan Harapan, and smaller opposition parties. The election is a critical bellwether for PM Anwar Ibrahim, whose PH coalition faces incumbent Mentri Besar Onn Hafiz Ghazi's BN — which won a two-thirds supermajority in 2022. PM Anwar also distanced PH from a "Free Najib" campaign group he says dragged the party into controversy in the final stretch. [The Star](https://www.thestar.com.my/news/nation/2026/07/05/ph-candidate-predicts-60-voter-turnout-in-johor-state-elections)
+
+> [!breaking]- World: Russia kills 22 in massive overnight drone and missile barrage on Ukraine (NPR)
+> Russia launched 351 drones and 68 ballistic missiles at Ukraine overnight, killing at least 22 people — 15 in Kyiv alone with 56 injured in the capital — one of the heaviest single barrages of the war, more than four years into Moscow's full-scale invasion. All 29 ballistic missiles struck their targets, exposing critical gaps in Ukraine's air-defence network worsened by a global shortage of Patriot interceptors. Russia's Defence Ministry claimed it targeted weapons factories, drone production sites, and fuel infrastructure in Kyiv. [NPR](https://www.npr.org/2026/07/06/g-s1-132088/russian-missile-drone-attack-kyiv-ukraine)
+
+> [!note]- World: Trump opens NATO Ankara summit — Ukraine security, Iran ceasefire top agenda (NPR)
+> NATO leaders convened in Ankara, Turkey, today for a summit widely described as one of the most potentially contentious in years, with Ukraine's long-term security framework and the fragile US-Iran ceasefire front of mind. Trump cited his relationship with President Erdoğan as a stabilising factor; meanwhile Netanyahu heads to Washington this week as US-Israel friction over Lebanon sharpens. Disputes over defence spending burden-sharing and alliance posture toward the Russia-Ukraine war are expected to dominate the two-day meeting. [NPR](https://www.npr.org/sections/world/)
+
+> [!note]- Tech: UN inaugural Global AI Governance Dialogue wraps in Geneva — 169 nations (UN News)
+> The United Nations' first-ever Global Dialogue on AI Governance concluded its two-day run in Geneva today, bringing together delegates from 169 countries to build shared principles, safety standards, and equitable-access frameworks for artificial intelligence. The dialogue marks the UN's most ambitious push yet for a multilateral AI governance framework, and coincides with an expected White House voluntary AI standards announcement within the coming week. [UN News](https://news.un.org/en/story/2026/07/1167848)
+
+> [!note]- Economy: IMF July outlook due tomorrow — global growth to slow to 2.5% as energy shock weighs on EMs (IMF)
+> The IMF's July 2026 World Economic Outlook Update, due tomorrow, is projected to forecast global growth slowing to 2.5% in 2026, with emerging market and developing economies facing their weakest per capita income growth since the pandemic under Middle East-driven energy price spikes, renewed inflation, and tighter monetary conditions. The US is still forecast to grow 2.0% — partly sustained by AI-led productivity gains — while a US investigation targeting exports from 60 countries over forced-labour goods practices adds further trade-policy uncertainty. [IMF](https://www.imf.org/en/publications/weo/issues/2026/07/08/world-economic-outlook-update-july-2026)
 
 > [!note]- [[07-06-26 Mon]]
 >
