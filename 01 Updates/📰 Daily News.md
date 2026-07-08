@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-07-07T22:00
+updated: 2026-07-08T19:08
 topic: daily news
 frequency: daily
 ongoing: false
@@ -61,28 +61,48 @@ unread: true
 
 ## 2026-07
 
-### [[07-07-26 Tue]]
+### [[07-08-26 Wed]]
 
-> [!note]- AI: Chinese AI models grab 46% of US enterprise tokens as OpenAI costs surge (CNBC)
-> US companies are routing more workloads to cheap Chinese open-source models — Chinese model token share on OpenRouter peaked at 46% of US enterprise usage, up from an 11% prior-year average. Z.ai's GLM-5.2 benchmarks within one percentage point of Anthropic's Opus 4.8 at roughly one-fifth the cost. The FTC opened public comment on a new AI accuracy policy statement, and Fable 5 moves to credits-only billing from July 8. [CNBC](https://www.cnbc.com/2026/07/07/chinese-ai-models-costs-us-openai-anthropic.html)
+> [!note]- SG & MY: Workers' Party appoints new CEC, co-opts two MPs after Pritam Singh's landslide win (SCMP)
+> Singapore's Workers' Party has formed its new Central Executive Committee and co-opted two MPs into its top decision-making body, one week after secretary-general Pritam Singh survived an unprecedented vote of no confidence with a 79% majority from 107 cadres. The appointments consolidate Singh's hold on the party following years of turbulence stemming from former MP Raeesah Khan's 2021 Parliament lies. The move signals the WP's intent to deepen its leadership bench ahead of Singh's August 13 Law Society disciplinary hearing. [SCMP](https://www.scmp.com/week-asia/politics/article/3358655/singapores-pritam-singh-survives-vote-no-confidence)
 
-> [!note]- Tech: Microsoft cuts 4,800 jobs, revamps Xbox, launches $2.5B AI Frontier Company (GeekWire)
-> Microsoft announced 4,800 layoffs — about 2% of its global headcount — concentrated in Xbox (≈1,600 cuts, part of a 20% gaming-division reduction this fiscal year) and Salesforce. Simultaneously it launched the "Microsoft Frontier Company," a $2.5B programme embedding 6,000 AI engineers inside enterprise customers. The cuts bring 2026's tech layoff total to over 164,000 jobs across 435 events. [GeekWire](https://www.geekwire.com/2026/microsoft-cuts-4800-jobs-about-2-globally-revamps-salesforce-and-launches-massive-xbox-overhaul/)
+> [!note]- Malaysia: Court of Appeal lets Najib attend Malaysian Bar's July 31 hearing on Pardons Board ruling (Malay Mail)
+> Malaysia's Court of Appeal has granted jailed former Prime Minister Najib Razak leave to attend the Malaysian Bar's judicial review hearing on July 31, which challenges the Pardons Board's decision to halve his SRC International sentence from 12 to 6 years and reduce his RM210 million fine. Najib is currently serving time at Kajang Prison and will need to be physically present at the proceedings that could reopen questions about the legality of his royal pardon. His SRC sentence runs until August 2028, after which a separate 15-year 1MDB term is scheduled to commence. [Malay Mail](https://www.malaymail.com/news/malaysia)
 
-> [!note]- Macro: Dow hits all-time record 53,056; Broadcom +3.7% on Apple deal; Tesla +6.7% on Miami robotaxi (Saxo)
-> US equities extended their rally on July 7: the Dow Jones hit a fresh all-time high at 53,056 (+0.3%), S&P 500 gained 0.7%, Nasdaq 100 climbed 1.3%. Broadcom surged 3.7% after Apple extended its custom-chip partnership to 2031; Tesla jumped 6.7% buoyed by the Miami driverless robotaxi launch. Chip stocks led early then cooled; gold slipped a second day; crypto retreated from Monday's highs. [Saxo](https://www.home.saxo/content/articles/macro/market-quick-take---chips-cool-markets-hesitate---7-july-2026-07072026)
+> [!breaking]- World: US strikes 80+ Iran targets, reinstates oil ban after IRGC attacks three Hormuz tankers (PBS News)
+> US forces struck more than 80 Iranian military sites — air defence systems, command-and-control networks, coastal radar installations, and over 60 IRGC fast boats — after Iran's Revolutionary Guard attacked three vessels in the Strait of Hormuz, setting a Qatari LNG tanker ablaze. The Trump administration simultaneously revoked the general licence permitting Iranian oil sales, which had been valid through August 21, cutting off a key revenue stream. The attacks escalate a confrontation that has been building since the February US-Israeli strike that killed Supreme Leader Khamenei. [PBS News](https://www.pbs.org/newshour/world/3-tankers-hit-in-latest-attacks-in-the-strait-of-hormuz-british-military-says)
 
-> [!breaking]- World: Bombs rock Damascus hotel during Macron's historic Syria visit — 18 wounded (Al Jazeera)
-> Two IEDs exploded in central Damascus — one in a parked car, one in a rubbish bin near the Four Seasons Hotel — wounding at least 18 people including four police officers, while French President Emmanuel Macron was nearby meeting Syrian President Ahmed al-Sharaa. Macron is the first European leader to visit Syria since Bashar al-Assad's 2024 ouster; he was unharmed and the visit continued. No group has claimed responsibility; the attack overshadows Syria's diplomatic rehabilitation. [Al Jazeera](https://www.aljazeera.com/news/2026/7/7/explosions-heard-in-syrias-damascus)
+> [!note]- World: Iran retaliates against Bahrain and Kuwait; NATO Ankara summit convenes amid widening Gulf crisis (NPR)
+> Iran escalated its response to American strikes by targeting military positions in Bahrain and Kuwait, marking the first confirmed Iranian cross-border attacks on Gulf states in the current conflict. The moves risk drawing additional Gulf nations into the confrontation and threaten to disrupt a wider arc of US alliances in the region. Trump attended the NATO summit in Ankara on July 7–8, where Strait of Hormuz security and Ukraine featured as top agenda items alongside calls for a coordinated allied response to Iran. [NPR](https://www.npr.org/2026/07/08/g-s1-132460/us-iran-attacks)
 
-> [!note]- Malaysia/SG: Johor early vote 94.49% turnout; Pritam Singh faces Aug 13 disbar hearing (The Sun)
-> Military early voting for the July 11 Johor state election achieved 94.49% turnout (19,471 voters), close to the EC's 96% target. In Singapore, Workers' Party chief Pritam Singh's Law Society disciplinary hearing — which could result in suspension or disbarment — is set for August 13 before the Court of Three Judges. Former finance minister Tengku Zafrul testified that the Jana Wibawa contractors list came from the Prime Minister's Office, not his ministry. [The Sun](https://thesun.my/news/malaysia-news/politics/early-voting-in-johor-polls-reaches-94-49-turnout/)
+> [!note]- Tech: Meta cuts 8,000 jobs (10%) in AI restructuring; DeepSeek building own chip sparks Nasdaq selloff (AIToolsRecap)
+> Meta began rolling out layoffs of approximately 8,000 employees — roughly 10% of its global workforce — as part of an AI-focused restructuring, while simultaneously redirecting 7,000 more staff into dedicated AI teams. The same day, reports emerged that China's DeepSeek is developing its own AI accelerator chip, reviving concerns that the semiconductor trade rally has run too fast and pulling the Nasdaq down 1.16% to 25,818. Together the developments illustrate how the AI investment cycle is reshaping both corporate headcounts and the chips competitive landscape. [AIToolsRecap](https://aitoolsrecap.com/Blog/AINewsJuly2026.aspx)
 
-> [!note]- Science: NASA ISS protein-crystal research underpins new FDA-approved injectable cancer drug (NASA)
-> Protein crystal growth experiments in microgravity aboard the ISS revealed the precise particle size and structure needed to formulate a new injectable medication now FDA-approved for several early-stage cancers, reducing treatment time and cost while maintaining efficacy. The achievement is one of the clearest examples of space-to-clinic translation, and coincides with NASA's broader precision-health initiative studying how spaceflight accelerates age-related disease. [NASA Astrobiology](https://astrobiology.com/2026/07/06/nasa-spaceline-current-awareness-list-1206-2-july-2026-space-life-science-research-results/)
+> [!note]- Science/Economy: Brent surges 5%+ on Iran oil ban; IMF July WEO released as Hormuz raises inflation risk (IMF)
+> Brent crude jumped more than 5% above $76 per barrel and WTI topped $72 after the US revoked Iran's oil-sale licence following Strait of Hormuz tanker attacks, raising fresh inflation concerns for oil-importing economies including Singapore and Malaysia. The spike arrived on the same day the IMF published its July 2026 World Economic Outlook Update, which flags Middle East escalation as the primary downside risk to its 2.5% global growth baseline. Separately, a once-daily oral weight-loss pill orforglipron outperformed leading oral semaglutide in a major clinical trial, delivering superior weight loss and blood sugar control. [IMF](https://www.imf.org/en/publications/weo/issues/2026/07/08/world-economic-outlook-update-july-2026)
 
-> [!note]- Nike (NKE): $43.04 (−0.67% Jul 7) — unrealised P&L: −$1,318 (Yahoo Finance)
-> Nike closed at $43.04 on July 7, 2026 — down 0.67% on volume of 21.98M shares (intraday range $41.84–$44.11; market cap $63.71B) — failing to participate in the broader market rally. Position: 46 shares at $71.69 avg cost; unrealised loss = 46 × ($43.04 − $71.69) = **−$1,317.90** (−$28.65/share, −38.1%). [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
+> [!note]- [[07-07-26 Tue]]
+>
+> > [!note]- AI: Chinese AI models grab 46% of US enterprise tokens as OpenAI costs surge (CNBC)
+> > US companies are routing more workloads to cheap Chinese open-source models — Chinese model token share on OpenRouter peaked at 46% of US enterprise usage, up from an 11% prior-year average. Z.ai's GLM-5.2 benchmarks within one percentage point of Anthropic's Opus 4.8 at roughly one-fifth the cost. The FTC opened public comment on a new AI accuracy policy statement, and Fable 5 moves to credits-only billing from July 8. [CNBC](https://www.cnbc.com/2026/07/07/chinese-ai-models-costs-us-openai-anthropic.html)
+>
+> > [!note]- Tech: Microsoft cuts 4,800 jobs, revamps Xbox, launches $2.5B AI Frontier Company (GeekWire)
+> > Microsoft announced 4,800 layoffs — about 2% of its global headcount — concentrated in Xbox (≈1,600 cuts, part of a 20% gaming-division reduction this fiscal year) and Salesforce. Simultaneously it launched the "Microsoft Frontier Company," a $2.5B programme embedding 6,000 AI engineers inside enterprise customers. The cuts bring 2026's tech layoff total to over 164,000 jobs across 435 events. [GeekWire](https://www.geekwire.com/2026/microsoft-cuts-4800-jobs-about-2-globally-revamps-salesforce-and-launches-massive-xbox-overhaul/)
+>
+> > [!note]- Macro: Dow hits all-time record 53,056; Broadcom +3.7% on Apple deal; Tesla +6.7% on Miami robotaxi (Saxo)
+> > US equities extended their rally on July 7: the Dow Jones hit a fresh all-time high at 53,056 (+0.3%), S&P 500 gained 0.7%, Nasdaq 100 climbed 1.3%. Broadcom surged 3.7% after Apple extended its custom-chip partnership to 2031; Tesla jumped 6.7% buoyed by the Miami driverless robotaxi launch. Chip stocks led early then cooled; gold slipped a second day; crypto retreated from Monday's highs. [Saxo](https://www.home.saxo/content/articles/macro/market-quick-take---chips-cool-markets-hesitate---7-july-2026-07072026)
+>
+> > [!breaking]- World: Bombs rock Damascus hotel during Macron's historic Syria visit — 18 wounded (Al Jazeera)
+> > Two IEDs exploded in central Damascus — one in a parked car, one in a rubbish bin near the Four Seasons Hotel — wounding at least 18 people including four police officers, while French President Emmanuel Macron was nearby meeting Syrian President Ahmed al-Sharaa. Macron is the first European leader to visit Syria since Bashar al-Assad's 2024 ouster; he was unharmed and the visit continued. No group has claimed responsibility; the attack overshadows Syria's diplomatic rehabilitation. [Al Jazeera](https://www.aljazeera.com/news/2026/7/7/explosions-heard-in-syrias-damascus)
+>
+> > [!note]- Malaysia/SG: Johor early vote 94.49% turnout; Pritam Singh faces Aug 13 disbar hearing (The Sun)
+> > Military early voting for the July 11 Johor state election achieved 94.49% turnout (19,471 voters), close to the EC's 96% target. In Singapore, Workers' Party chief Pritam Singh's Law Society disciplinary hearing — which could result in suspension or disbarment — is set for August 13 before the Court of Three Judges. Former finance minister Tengku Zafrul testified that the Jana Wibawa contractors list came from the Prime Minister's Office, not his ministry. [The Sun](https://thesun.my/news/malaysia-news/politics/early-voting-in-johor-polls-reaches-94-49-turnout/)
+>
+> > [!note]- Science: NASA ISS protein-crystal research underpins new FDA-approved injectable cancer drug (NASA)
+> > Protein crystal growth experiments in microgravity aboard the ISS revealed the precise particle size and structure needed to formulate a new injectable medication now FDA-approved for several early-stage cancers, reducing treatment time and cost while maintaining efficacy. The achievement is one of the clearest examples of space-to-clinic translation, and coincides with NASA's broader precision-health initiative studying how spaceflight accelerates age-related disease. [NASA Astrobiology](https://astrobiology.com/2026/07/06/nasa-spaceline-current-awareness-list-1206-2-july-2026-space-life-science-research-results/)
+>
+> > [!note]- Nike (NKE): $43.04 (−0.67% Jul 7) — unrealised P&L: −$1,318 (Yahoo Finance)
+> > Nike closed at $43.04 on July 7, 2026 — down 0.67% on volume of 21.98M shares (intraday range $41.84–$44.11; market cap $63.71B) — failing to participate in the broader market rally. Position: 46 shares at $71.69 avg cost; unrealised loss = 46 × ($43.04 − $71.69) = **−$1,317.90** (−$28.65/share, −38.1%). [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
 
 > [!note]- [[07-06-26 Mon]]
 >
