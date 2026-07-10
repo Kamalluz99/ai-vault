@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-07-10T05:06
+updated: 2026-07-10T19:05
 topic: daily news
 frequency: daily
 ongoing: false
@@ -80,6 +80,26 @@ unread: true
 
 > [!note]- Science: ESA Euclid telescope discovers 31 ancient quasars — one sets record as most distant ever found (SciTechDaily)
 > Astronomers using the ESA Euclid space telescope have discovered 31 quasars from when the universe was just 670 to 800 million years old, with one setting the new record as the most distant quasar ever reported. The discovery opens a rare window into the epoch of reionisation and is expected to reshape models of how supermassive black holes formed in the early universe. Separately, Japan's Hayabusa-2 spacecraft successfully completed its first asteroid encounter of its extended mission on July 5, flying past the near-Earth asteroid Torifune. [SciTechDaily](https://scitechdaily.com/)
+
+> **Evening update**
+
+> [!breaking]- World: US strikes Iran second day — 90 more targets hit as Iran retaliates on Gulf allies (CBS News)
+> The US conducted approximately 90 additional airstrikes on Iranian military targets on July 10, the second straight day of strikes following Trump's declaration that the US-Iran ceasefire was "over" at the NATO Ankara summit. Iran responded with fresh waves of missiles and drones targeting US allies in Bahrain, Kuwait, Qatar, and Jordan. Senate Democrats have unified their calls for an immediate end to what they term an "illegal war," while oil markets brace for a sustained Hormuz closure-risk premium. [CBS News](https://www.cbsnews.com/live-updates/iran-us-war-trump-ceasefire-over-strait-of-hormuz-attacks/)
+
+> [!note]- SG & MY: Anwar announces joint SG-MY digital immigration system — Jan 2027 launch (Malay Mail)
+> Malaysian PM Anwar Ibrahim announced a joint Singapore-Malaysia digital immigration clearance system set to launch in January 2027, designed to ease chronic congestion at the Johor Bahru–Singapore Causeway and Second Link crossings used by over 300,000 daily commuters. The integrated biometric and digital clearance system will streamline processing for both Malaysian and Singaporean passport holders and is the latest deliverable from the two nations' ongoing Leaders' Summit cooperation agenda. [Malay Mail](https://www.malaymail.com/)
+
+> [!note]- Malaysia: Johor campaign closes at midnight — 56 seats, 2.73M voters head to polls Saturday (The Star)
+> The Johor state election campaign wraps up at midnight tonight as candidates make their final pitches across 56 constituencies ahead of polling day July 11. BN's Mentri Besar Onn Hafiz Ghazi is defending the coalition's two-thirds supermajority won in 2022, while PH's economic-transformation pitch and PN's race-religion platform contest every seat in a rare three-way fight. Election observers cite the JB–Singapore corridor, housing affordability, and youth employment as the decisive swing issues, with the result expected to serve as a national barometer for PM Anwar's unity government. [The Star](https://www.thestar.com.my/news/nation/)
+
+> [!note]- World: DRC Ebola hits 600 dead and 1,759 cases — worst-ever outbreak start; workers walk off over unpaid wages (WHO)
+> The Ebola outbreak in the Democratic Republic of Congo, declared in mid-May 2026, has claimed 600 lives with 1,759 confirmed cases, making it the deadliest start to any Ebola outbreak on record. Exhausted frontline health workers walked off the job in some affected areas citing wages unpaid since the outbreak began, deepening the response capacity crisis. WHO has mobilised emergency surge teams, but containment remains hampered by insecurity in eastern Congo. [WHO](https://www.who.int/)
+
+> [!note]- Tech: Grok 4.5 launches with benchmark wins; Gemini 3.5 Pro still absent 6 weeks past GA target (BuildFastWithAI)
+> xAI's Grok 4.5 went live today, immediately generating independent benchmark results, a viral political bias debate, and a token-efficiency claim that reshapes cost calculations for high-volume agentic workloads. Its launch joins GPT-5.6 and Claude Sonnet 5 — now the default model for all Claude users — in a field where Gemini 3.5 Pro remains conspicuously absent, still in limited enterprise preview six weeks past its June 30 GA target. The competitive urgency for a Gemini release is at its highest since Google I/O. [BuildFastWithAI](https://www.buildfastwithai.com/blogs/ai-news-today-july-10-2026)
+
+> [!note]- Economy: IMF slashes 2026 global growth to 0.7% from 3.7% — war and energy shocks blamed; 6.5% rebound seen in 2027 (IMF)
+> The IMF's July 2026 World Economic Outlook Update sharply cut the 2026 global growth forecast to just 0.7%, down from 3.7% in 2025, with Middle East conflict, elevated energy prices, and tightened monetary conditions in emerging markets cited as the primary drags. Renewable energy adoption and inventory drawdowns softened what could have been a far worse oil-price spike, and a 6.5% rebound is projected for 2027 if the conflict stabilises. The US is partly cushioned by AI-driven productivity gains, while most emerging markets face their weakest per capita income growth since the pandemic. [IMF](https://www.imf.org/en/publications/weo/issues/2026/07/08/world-economic-outlook-update-july-2026)
 
 > [!note]- [[07-07-26 Tue]]
 >
