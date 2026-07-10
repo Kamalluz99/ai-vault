@@ -104,6 +104,9 @@ unread: true
 > [!note]- Science: ESA Euclid telescope discovers 31 ancient quasars — one sets record as most distant ever found (SciTechDaily)
 > Astronomers using the ESA Euclid space telescope have discovered 31 quasars from when the universe was just 670 to 800 million years old, with one setting the new record as the most distant quasar ever reported. The discovery opens a rare window into the epoch of reionisation and is expected to reshape models of how supermassive black holes formed in the early universe. Separately, Japan's Hayabusa-2 spacecraft successfully completed its first asteroid encounter of its extended mission on July 5, flying past the near-Earth asteroid Torifune. [SciTechDaily](https://scitechdaily.com/)
 
+> [!note]- Nike (NKE): $44.55 (range $42.93–$44.59) — Buy consensus, avg target $51.30; Bernstein keeps Outperform $72 (Yahoo Finance)
+> Nike (NYSE: NKE) traded at $44.55 on July 10 within a session range of $42.93–$44.59, as a broad chip-led market rally lifted equities alongside semiconductor stocks. Analyst consensus from 39 analysts remains "Buy" with a 12-month average target of $51.30; Berenberg cut to $49 Hold and Telsey to $47 Market Perform post-Q4 FY2026 results, while Bernstein maintains Outperform with a trimmed $72 target. Position: 46 shares at $71.69 avg; unrealised **−$1,248** (−$27.14/share). [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
+
 > **Evening update**
 
 > [!breaking]- World: US strikes Iran second day — 90 more targets hit as Iran retaliates on Gulf allies (CBS News)
