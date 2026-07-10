@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-07-10T19:05
+updated: 2026-07-11T05:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -60,6 +60,29 @@ unread: true
 > ```
 
 ## 2026-07
+
+### [[07-11-26 Sat]]
+
+> [!note]- AI: White House closes in on voluntary frontier model standards; UN AI governance dialogue underway in Geneva (FT / UN News)
+> The White House is finalising a voluntary framework for releasing powerful frontier AI models, with an announcement expected imminently after advanced talks with Anthropic, OpenAI, and Google. Simultaneously, the UN's Independent International Scientific Panel on AI launched this week and its Global Dialogue on AI Governance is underway in Geneva, where member states are debating international oversight of increasingly autonomous AI systems. The convergence of US and multilateral governance efforts marks a potential turning point for the industry. [UN News](https://news.un.org/en/story/2026/07/1167848)
+
+> [!note]- Tech: Anthropic Claude Sonnet 5 becomes default model for all Free/Pro users; California deploys statewide AI (TechCrunch)
+> Anthropic made Claude Sonnet 5 the default model for all Free and Pro users as of July 1, replacing the previous Sonnet generation. California simultaneously announced the largest US state government AI deployment in history, giving every state agency access to Claude at a 50% discount — part of a broader push to embed AI into public services. Google also released Gemini 3.1 Flash Image and Gemini 3 Pro Image this week, expanding multimodal capabilities. [TechCrunch](https://techcrunch.com)
+
+> [!note]- Macro: Chip stocks recover as Hormuz risk persists; jobless claims 215K; S&P 500 logged 24 ATHs in H1 (Schwab)
+> Chip stocks led early gains Saturday as markets stabilised after Wednesday's US-Iran escalation, though Brent crude remains elevated on Hormuz closure risk and Treasury yields have ticked higher. Weekly jobless claims fell to 215,000, suggesting the labour market remains firm despite geopolitical uncertainty. The S&P 500 closed H1 2026 with 24 all-time highs and earnings now expected to grow 24% for the full year. [Schwab](https://www.schwab.com/learn/story/stock-market-update-open)
+
+> [!note]- World: FIFA WC 2026 QF — Norway vs England in Miami tonight; US will not renew USMCA (FIFA / Wikipedia)
+> The FIFA World Cup 2026 quarter-finals continue tonight with Norway facing England at Miami Stadium (21:00 local), while Spain — on a six-game clean sheet run — faces Portugal in the day's other fixture. Meanwhile, the US Trade Representative announced the US will not renew the USMCA trade agreement, opting instead for annual reviews and amendments, adding fresh uncertainty to North American trade relations. [FIFA](https://www.fifa.com/en/match-centre/match/17/285023/289289/400021539) / [Wikipedia](https://en.wikipedia.org/wiki/Portal:Current_events/July_2026)
+
+> [!breaking]- Malaysia: Johor state election polling day — 2.73M voters, 56 seats, three-way BN-PH-PN race (Malay Mail / SCMP)
+> Johoreans go to the polls today in a hotly contested state election, with 2.73 million registered voters choosing across 56 seats in a three-cornered fight between Barisan Nasional, Pakatan Harapan, and Perikatan Nasional. Between 100,000 and 200,000 Johoreans who work in Singapore are crossing the causeway to vote — Malaysia deployed a special task force to manage an expected surge of 250,000–400,000 daily crossings. PM Anwar Ibrahim used final campaign events to warn against racial and religious rhetoric. [Malay Mail](https://www.malaymail.com/amp/news/what-you-think/2026/07/09/whether-it-is-july-11-or-august-1-malaysias-best-voters-will-know-how-to-vote-phar-kim-beng/227020) / [SCMP](https://www.scmp.com/week-asia/politics/article/3358722/malaysia-acts-avert-singapore-causeway-chaos-amid-johor-state-election)
+
+> [!note]- Science: Single-dose gut bacterium eliminates colorectal tumors in mice — attacks cancer cells and triggers immune response (ScienceDaily)
+> Researchers found that a bacterium from amphibian intestines can eliminate colorectal tumors in mice with a single treatment by simultaneously attacking cancer cells directly and activating a broader immune response. The dual mechanism is a potential paradigm shift in cancer therapy, combining cytotoxicity and immunotherapy in one agent. Separately, physicists at Birmingham created a "mini universe" using 24,000 ultracold atoms, demonstrating that the flow of time can emerge naturally from quantum state changes. [ScienceDaily](https://www.sciencedaily.com/news/top/science/)
+
+> [!note]- Nike (NKE): $42.83 (-0.14%) — Q4 EPS beat ($0.20 vs $0.12 est.) but -2.25% AH on weak guidance; Greater China -17% (Yahoo Finance)
+> Nike closed Thursday at $42.83, down marginally, but fell a further 2.25% after-hours after Q4 results showed an EPS beat ($0.20 vs $0.12 expected, revenue $11B) paired with a weak forward outlook. Greater China revenue plunged 17% year-over-year, NIKE Direct fell 9%, while North America wholesale rose 1% — an uneven recovery that has analysts cautious despite a Buy consensus and $51.30 avg price target. At $42.83, the 46-share position (avg $71.69) sits approximately $1,328 underwater. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
 
 ### [[07-10-26 Fri]]
 
