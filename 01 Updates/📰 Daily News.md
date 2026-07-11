@@ -126,6 +126,17 @@ unread: true
 >
 > > [!note]- Economy: Cuba's national power grid collapses for second time in a week amid deepening economic crisis (Anadolu Agency)
 > > Cuba's national electricity grid suffered a complete collapse on July 11, the second total nationwide blackout in less than a week, leaving 11 million Cubans without power as the island endures its worst economic crisis in decades. Fuel shortages and decades of deferred infrastructure maintenance have pushed the Soviet-era grid past its breaking point, with repair teams lacking adequate spare parts. The blackout compounds existing shortages of food, fuel, and medicine across the island. [Anadolu Agency](https://aa.com.tr/en/world/morning-briefing-july-11-2026/3994768)
+>
+> > **Late update**
+>
+> > [!breaking]- Tech: SK Hynix raises $26.5B — largest-ever US listing by a foreign company; chip stocks rally (CNBC)
+> > SK Hynix's American depositary receipts jumped 12.8% above their offering price on Friday after the South Korean chipmaker raised $26.5 billion in the largest-ever US listing by a foreign company. Nvidia advanced 4% and AMD rose 2% in sympathy, while the S&P 500 closed +0.42% at 7,575.39 as oil prices eased and chip stocks broadly rebounded from Wednesday's Iran-driven sell-off. The listing caps a week of extreme chip-stock volatility and underscores continued investor appetite for AI memory infrastructure. [CNBC](https://www.cnbc.com/2026/07/09/stock-market-today-live-updates.html)
+>
+> > [!note]- Nike (NKE): $44.37 (+3.72% Fri close) — rebounds from Thu AH drop; unrealised P&L −$1,257 (Yahoo Finance)
+> > Nike closed at $44.37 on Friday July 10, recovering 3.72% from Thursday's $42.78 close as buyers stepped in after the post-earnings after-hours sell-off. The recovery narrows the unrealised loss on the 46-share position (avg cost $71.69) to approximately −$1,257 (−$27.32/share), compared with −$1,328 at Thursday's close. Friday's rebound suggests the market has largely priced in the weak guidance; the next catalyst is management's September investor day. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
+>
+> > [!note]- World: Trump grants Ukraine Patriot manufacturing licence; Lockheed/RTX not yet informed (Time)
+> > At the NATO Ankara summit on July 8, President Trump told President Zelensky the US will license Ukraine to produce Patriot interceptors domestically — addressing a deficit of roughly 2,000 interceptors per year against a US production rate of only 600 annually. However, Lockheed Martin and RTX had not been briefed as of Friday, key technical terms remain unresolved, and assembly lead times mean no domestically produced Ukrainian missiles would emerge for at least a year. The announcement is widely characterised as a political signal rather than an immediate capability shift. [Time](https://time.com/article/2026/07/08/trump-zelensky-ukraine-patriot-missile-interceptors-russia-nato/)
 
 > [!note]- [[07-10-26 Fri]]
 >
