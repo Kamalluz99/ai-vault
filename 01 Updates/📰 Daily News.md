@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-07-11T05:07
+updated: 2026-07-11T19:06
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,26 @@ unread: true
 
 > [!note]- Nike (NKE): $42.83 (-0.14%) — Q4 EPS beat ($0.20 vs $0.12 est.) but -2.25% AH on weak guidance; Greater China -17% (Yahoo Finance)
 > Nike closed Thursday at $42.83, down marginally, but fell a further 2.25% after-hours after Q4 results showed an EPS beat ($0.20 vs $0.12 expected, revenue $11B) paired with a weak forward outlook. Greater China revenue plunged 17% year-over-year, NIKE Direct fell 9%, while North America wholesale rose 1% — an uneven recovery that has analysts cautious despite a Buy consensus and $51.30 avg price target. At $42.83, the 46-share position (avg $71.69) sits approximately $1,328 underwater. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
+
+> **Evening update**
+
+> [!note]- SG & MY: Super Typhoon Bavi cancels 20+ SIA & Scoot flights from Singapore (Mothership.SG)
+> Super Typhoon Bavi — roughly the width of France — forced Singapore Airlines and Scoot to cancel at least 20 flights departing from Changi on July 11 and 12, covering routes to Taipei, Shanghai, and other East Asian destinations. Singapore Airlines cancelled SQ876/878 to Taipei and multiple Shanghai-bound flights; Scoot cancelled 12 flights across July 10–11. Affected passengers were offered rebooking or full refunds. [Mothership.SG](https://mothership.sg/2026/07/singapore-airlines-scoot-flights-cancelled-typhoon-bavi/)
+
+> [!note]- Malaysia: Thai PM Anutin meets Anwar Ibrahim in Putrajaya for bilateral ASEAN talks (The Star)
+> Thai Prime Minister Anutin Charnvirakul visited Putrajaya for bilateral talks with Malaysian PM Anwar Ibrahim, the two nations' leaders discussing ASEAN economic integration and regional security amid elevated geopolitical tension. The meeting follows Malaysia's active 2026 ASEAN chairmanship agenda and coincides with Johor election day. The two sides are also expected to address the Southern Thailand–Malaysia border economy and coordinated positions on the Middle East conflict. [The Star](https://www.thestar.com.my/aseanplus/aseanplus-news/)
+
+> [!breaking]- World: Trump threatens Iran with "1,000 missiles locked and loaded" over reported assassination plot (Anadolu Agency)
+> US President Trump posted on Truth Social on Saturday that "1,000 Missiles are Locked and Loaded" and vowed follow-up strikes if Iran acts on any plot to assassinate him, naming Tehran directly. The threat adds fresh volatility to an already explosive US-Iran conflict following the ceasefire collapse and two consecutive days of US airstrikes on Iranian military targets. Iran's interim leadership — still consolidating power after Khamenei's killing in February — had not issued a public response as of Saturday evening. [Anadolu Agency](https://aa.com.tr/en/world/morning-briefing-july-11-2026/3994768)
+
+> [!note]- World: Venezuela earthquake toll climbs to 4,100+ — USGS projects final count up to 100,000 (Al Jazeera)
+> The official death toll from Venezuela's twin June 24 earthquakes has risen to 4,118, with more than 16,700 injured and thousands still displaced across northwestern and central Venezuela. The US Geological Survey's modelling estimates a final toll potentially reaching 10,000 to 100,000, driven by infrastructure collapse in hard-to-reach regions. Rescue operations remain hampered by inaccessible terrain and government restrictions on independent aid access. [Al Jazeera](https://www.aljazeera.com/news/2026/7/7/venezuela-earthquakes-death-toll-jumps-to-more-than-3500)
+
+> [!note]- Tech: Agility, Unitree, and Tesla Optimus all advance toward IPO in a single week (ZoneTechify)
+> Three humanoid robotics companies moved toward public markets simultaneously: Agility Robotics filed for a SPAC listing at a $2.5 billion valuation, Unitree cleared its Shanghai IPO, and Tesla began converting its former Model S production line into an Optimus humanoid factory. The convergence signals investor confidence that the humanoid robot market is entering a commercialisation phase, with all three targeting different price points and deployment contexts. [ZoneTechify](https://www.zonetechify.com/blog/ai-news-july-2026-latest-ai-developments)
+
+> [!note]- Economy: Cuba's national power grid collapses for second time in a week amid deepening economic crisis (Anadolu Agency)
+> Cuba's national electricity grid suffered a complete collapse on July 11, the second total nationwide blackout in less than a week, leaving 11 million Cubans without power as the island endures its worst economic crisis in decades. Fuel shortages and decades of deferred infrastructure maintenance have pushed the Soviet-era grid past its breaking point, with repair teams lacking adequate spare parts. The blackout compounds existing shortages of food, fuel, and medicine across the island. [Anadolu Agency](https://aa.com.tr/en/world/morning-briefing-july-11-2026/3994768)
 
 > [!note]- [[07-10-26 Fri]]
 >
