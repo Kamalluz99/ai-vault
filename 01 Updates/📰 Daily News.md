@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-07-12T05:03
+updated: 2026-07-12T05:05
 topic: daily news
 frequency: daily
 ongoing: false
@@ -80,6 +80,9 @@ unread: true
 
 > [!note]- Science: ESA Euclid telescope detects 31 oldest quasars ever found — two shining from 670M years after Big Bang (ESA)
 > The European Space Agency's Euclid space telescope has identified 31 ancient quasars including the two most distant ever detected, observed from when the universe was only 670 million years old — just 5% of its current age. Published July 6 in Astronomy & Astrophysics, the discovery more than doubles the count of quasars known from this era and sets new redshift records at z=7.77 and z=7.69. The findings offer unprecedented insight into the earliest generation of supermassive black holes and the conditions that allowed them to form so rapidly after the Big Bang. [ESA](https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_discovers_the_most_ancient_quasar_in_the_Universe)
+
+> [!note]- Nike (NKE): $44.37 (+3.7%) — Truist upgrades to Buy; Q4 revenue -4%, Greater China -17%, guidance soft (GuruFocus / Yahoo Finance)
+> Nike closed Friday at $44.37, up 3.7% on the session, after Truist Financial upgraded NKE to Buy on July 3, citing a credible "Win Now" turnaround strategy and improving North America wholesale momentum. Fundamental headwinds persist: Q4 revenue fell 4% currency-neutral with Greater China down 17% and NIKE Direct off 9%, while management guided for low-to-mid single-digit revenue declines over the next three quarters. At $44.37, the 46-share position (avg $71.69) sits approximately $1,257 underwater. [GuruFocus](https://www.gurufocus.com/news/8954075/nike-inc-nke-stock-up-37-and-still-undervalued-gf-score-68100)
 
 > [!note]- [[07-11-26 Sat]]
 >
