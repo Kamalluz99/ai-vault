@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-07-09T20:30
+updated: 2026-07-10T05:06
 topic: daily news
 frequency: daily
 ongoing: false
@@ -61,6 +61,7 @@ unread: true
 
 ## 2026-07
 
+<<<<<<< HEAD
 ### [[07-09-26 Thu]]
 
 > [!note]- AI: GPT-5.6 goes fully public on July 9 after Trump admin clears global rollout (Engadget)
@@ -129,6 +130,77 @@ unread: true
 >
 > > [!note]- Nike (NKE): $43.04 (−0.67% Jul 7) — unrealised P&L: −$1,318 (Yahoo Finance)
 > > Nike closed at $43.04 on July 7, 2026 — down 0.67% on volume of 21.98M shares (intraday range $41.84–$44.11; market cap $63.71B) — failing to participate in the broader market rally. Position: 46 shares at $71.69 avg cost; unrealised loss = 46 × ($43.04 − $71.69) = **−$1,317.90** (−$28.65/share, −38.1%). [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
+=======
+### [[07-10-26 Fri]]
+
+> [!note]- AI: Chinese AI models gain ground with US firms as OpenAI, Anthropic costs surge (CNBC)
+> Z.ai's GLM-5.2 — a low-cost Chinese frontier model released in June — has seen daily token volume grow 27× and its customer base expand 80× in its first full week, becoming the fastest-adopted model tracked by Vercel in 2026. US companies are increasingly turning to Chinese AI alternatives as OpenAI and Anthropic pricing pressures intensify, reigniting the debate over whether China has closed the AI frontier gap. Separately, ten bipartisan AI bills advanced in a single House Science Committee markup, covering cybersecurity, transparency, data-centre energy standards, and workforce development. [CNBC](https://www.cnbc.com/2026/07/07/chinese-ai-models-costs-us-openai-anthropic.html)
+
+> [!note]- Tech: Microsoft Xbox cuts 3,200 jobs, divests 4 studios including Double Fine and Ninja Theory (Fortune)
+> Microsoft's Xbox gaming division announced it will eliminate 3,200 positions over the next year and divest four studios — Compulsion Games, Double Fine Productions, Ninja Theory, and Undead Labs — with 1,600 layoffs effective immediately. The move is one of the most significant restructurings in gaming history as Microsoft pivots toward AI-driven game development. Overall tech layoffs in 2026 now total 185,894 workers across 267 events, with 56% of companies explicitly citing AI as the driving factor. [Fortune](https://fortune.com/2026/07/07/microsoft-xbox-will-cut-3200-jobs-divest-five-studios/)
+
+> [!breaking]- Macro: Iran ceasefire collapse drives oil +4%, US stocks down ~1%; Hormuz risk premium surges (Schwab)
+> US stocks fell nearly 1% on Wednesday — chip stocks extending losses for a second straight session — after Trump declared the US-Iran ceasefire "over" and the US launched approximately 90 strikes on Iranian targets to degrade Iran's ability to threaten Strait of Hormuz shipping. Brent crude surged more than 4% on the escalation, with WTI approaching $73/barrel, while gold remains elevated on safe-haven demand. Iran retaliated with strikes across the region, triggering alerts in Qatar, Bahrain, Kuwait, and Jordan, making Hormuz closure risk the central anxiety for global energy markets. [Schwab](https://www.schwab.com/learn/story/stock-market-update-open)
+
+> [!breaking]- World: US-Iran ceasefire collapses — Trump declares it "over," US strikes 90 targets, Iran hits US allies (CBS News)
+> President Trump declared the US-Iran ceasefire "over" at the NATO Ankara summit on Wednesday after Iran struck ships transiting the Strait of Hormuz while he was attending the summit. US forces conducted approximately 90 strikes on Iranian targets to further degrade Iran's naval and missile capabilities, and Iran retaliated with waves of attacks on US allies including Qatar, Bahrain, Kuwait, and Jordan. The Islamabad Memorandum signed June 17 — which had formalised a 60-day negotiation period — is now effectively in collapse, raising the prospect of a return to full-scale US-Iran conflict. [CBS News](https://www.cbsnews.com/live-updates/iran-us-war-trump-ceasefire-over-strait-of-hormuz-attacks/)
+
+> [!note]- Malaysia: Bank Negara holds OPR at 2.75%; Johor election eve as PM warns on racial rhetoric (Free Malaysia Today)
+> Bank Negara Malaysia kept the overnight policy rate unchanged at 2.75% on Thursday, extending its monetary policy pause after a 25-basis-point cut in July 2025, as policymakers balance slowing growth against persistent inflation amid Middle East energy uncertainty. Tomorrow is Johor state election polling day — 2.73 million voters decide 56 seats in a three-cornered BN-PH-PN race — and PM Anwar Ibrahim used campaign events today to warn against the weaponisation of racial and religious sentiment, saying such divisions threaten national harmony and security. [Free Malaysia Today](https://www.freemalaysiatoday.com/)
+
+> [!note]- Science: ESA Euclid telescope discovers 31 ancient quasars — one sets record as most distant ever found (SciTechDaily)
+> Astronomers using the ESA Euclid space telescope have discovered 31 quasars from when the universe was just 670 to 800 million years old, with one setting the new record as the most distant quasar ever reported. The discovery opens a rare window into the epoch of reionisation and is expected to reshape models of how supermassive black holes formed in the early universe. Separately, Japan's Hayabusa-2 spacecraft successfully completed its first asteroid encounter of its extended mission on July 5, flying past the near-Earth asteroid Torifune. [SciTechDaily](https://scitechdaily.com/)
+
+> [!note]- [[07-07-26 Tue]]
+>
+> > [!note]- AI: White House to announce voluntary frontier model standards this week; OpenAI delays GPT-5.6 (Reuters)
+> > The White House is in advanced talks with major AI companies to finalise voluntary standards for frontier model releases, with an announcement expected as soon as this week. Simultaneously, OpenAI is delaying the full public launch of GPT-5.6 after the US government requested early access and additional oversight before broader availability. The moves coincide with the UN Global Dialogue on AI Governance opening in Geneva and Meta's ongoing layoff of ~8,000 employees as part of an AI-focused restructuring. [Reuters](https://www.reuters.com/)
+>
+> > [!note]- Tech: Anthropic in talks with Samsung to build custom AI accelerator chip (The Information)
+> > Anthropic has begun preliminary discussions with Samsung Electronics to manufacture a custom AI accelerator, per The Information, hiring specialist silicon engineers to reduce Nvidia dependence for inference workloads. The talks come alongside a record $510B raised by global startups in H1 2026, with AI dominating the surge. Bending Spoons also went public on Nasdaq, raising $1.7B at an $18.4B valuation. [The Information](https://www.theinformation.com/)
+>
+> > [!note]- Macro: Nasdaq 100 +1.5% Mon on AI trade; June payrolls miss at 57K; Fed hike odds drop to 18% (Bloomberg)
+> > The Nasdaq 100 climbed 1.5% on July 6 as the AI equity trade extended, with Nvidia reaffirming its road map after Asia-session jitters. June payrolls added only 57,000 jobs — roughly half the 110,000 consensus — while unemployment dipped to 4.2%, sending Fed rate-hike probability down to 18% from 29% (CME FedWatch). Under Chair Kevin Warsh, the Fed holds at 3.50–3.75% with pure data dependence; semiconductor stocks remain the weak spot, with SOX down 6.7% over the quarter. [Bloomberg](https://www.bloomberg.com/news/articles/2026-07-05/stock-market-today-dow-s-p-live-updates)
+>
+> > [!breaking]- World: NATO Ankara summit opens — Ukraine, Iran ceasefire top agenda; Trump cites Erdoğan; FIFA WC R16 today (Reuters)
+> > NATO leaders convene in Ankara today and tomorrow with Ukraine's long-term security framework and the fragile US-Iran ceasefire front of mind. Trump confirmed attendance citing his relationship with President Erdoğan, while Netanyahu heads to Washington this week as US-Israel friction over Lebanon sharpens during Khamenei's funeral. FIFA World Cup R16 continues today: Argentina vs Egypt in Atlanta (noon ET) and Switzerland vs Colombia in Vancouver (4pm ET). [Reuters](https://www.reuters.com/)
+>
+> > [!note]- Malaysia/SG: Johor election dialogue today — MB absent; Malaysia targets rocket production in 2 yrs; SG buys $22.3M Hellfire missiles (Malay Mail)
+> > The Johor inter-party election dialogue proceeds today, just four days before polling on July 11, though Menteri Besar Onn Hafiz Ghazi announced he will not attend. On defence, Malaysia set a two-year target for domestic rocket production with missiles to follow, while Singapore confirmed a proposed US$22.3M Hellfire missile purchase from the United States — parallel announcements signalling accelerating defence investment across both nations heading into the post-election period. [Malay Mail](https://www.malaymail.com/news/malaysia)
+>
+> > [!note]- Science: ETH Zurich creates light-controlled switch that destroys cancer dormancy receptors (ScienceNews)
+> > Scientists at ETH Zurich engineered a light-activated molecular switch that precisely targets and destroys the stress-hormone receptors cancer cells exploit to enter a dormant, treatment-resistant state — offering a potential path to eliminating relapse-causing dormant cells without harming healthy tissue. Other top science stories: ancient bees were found nesting in mammal tooth sockets 20,000 years ago, a hidden seafloor weakness explains Japan's 2011 earthquake severity, and Hubble captured a red-white-blue star-cluster image for the US 250th anniversary. [ScienceNews](https://www.sciencenews.org/)
+>
+> > [!note]- Nike (NKE): $44.09 (+2.39% last close Jul 2; markets reopen today) — Q4 FY26 sales −1%, China −12%, NA +3% (Yahoo Finance)
+> > Nike closed at $44.09 on July 2 (last trading day before the Independence Day long weekend; US markets reopen today July 7). Q4 FY2026 revenue beat at $11.0B vs $10.85B estimate, but headline EPS of $0.72 was heavily inflated by a one-time $986M tariff-recovery; underlying adj EPS was $0.20. Greater China fell 12%, NIKE Direct −9%, North America +3%; management guides for low-to-mid single-digit revenue declines over the next three quarters. Position: 46 shares at $71.69 avg, unrealised **−$1,270** (−$27.60/share). [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
+>
+> > **Evening update**
+>
+> > [!note]- Tech: Tesla Robotaxi goes fully driverless in Miami — 5th US city, no safety monitor from day one (BuildFastWithAI)
+> > Tesla launched its Robotaxi service in Miami on Monday without a safety driver in the vehicle, making it the fifth US city after Austin, Houston, Dallas, and Phoenix — and uniquely the first where fully unsupervised autonomous operation was the default from launch with no supervised ramp-up period required. The expansion marks a rapid cadence in Tesla's commercial driverless push, with the company targeting coverage across a dozen US states by end of 2026 and rolling out a dedicated Robotaxi app. [BuildFastWithAI](https://www.buildfastwithai.com/blogs/ai-news-today-july-6-2026)
+>
+> > [!note]- Macro: Dow closes +1.1% at 52,900 Mon (new all-time high) on rate-cut hopes; Nasdaq slips on AI profit-taking (Yahoo Finance)
+> > Monday's split session: the Dow Jones set a new all-time high at 52,900 (+594 pts, +1.1%) as June's 57,000-job payrolls miss fuelled rate-cut optimism, while the Nasdaq Composite fell on heavy AI-stock profit-booking and the S&P 500 closed nearly flat. Gold held at $4,186/oz and Bitcoin slipped to $62,716 (−1.8%), with Ether at $1,761 (−1.3%). [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/stock-market-news-july-6-064600457.html)
+>
+>
+> > [!note]- SG & MY: Wong, Prabowo pledge Malacca Strait open to all amid oil shipping fears (Malay Mail)
+> > Singapore PM Lawrence Wong and Indonesian President Prabowo Subianto reaffirmed at their annual Leaders' Retreat in Jakarta on July 6 that the Strait of Malacca will remain open and accessible under UNCLOS, amid heightened concerns over oil-shipping disruptions tied to Middle East tensions. The two leaders signed 26 agreements and MOUs, and called on all four Malacca Straits Patrol littoral states — Indonesia, Malaysia, Singapore, and Thailand — to maintain coordinated maritime security. The summit underscores Southeast Asia's deepening anxiety over the vulnerability of global energy trade routes in a period of elevated geopolitical risk. [Malay Mail](https://www.malaymail.com/news/singapore/2026/07/06/singapore-indonesia-say-strait-of-malacca-will-remain-accessible-amid-global-oil-tensions/226617)
+>
+> > [!note]- Malaysia: Early voting underway for Johor state election; polling day July 11 (The Star)
+> > Early voting began today for the Johor state election, with full polling set for July 11, when 2.7 million registered voters choose among 172 candidates contesting 56 seats in a three-way fight between Barisan Nasional, Pakatan Harapan, and smaller opposition parties. The election is a critical bellwether for PM Anwar Ibrahim, whose PH coalition faces incumbent Mentri Besar Onn Hafiz Ghazi's BN — which won a two-thirds supermajority in 2022. PM Anwar also distanced PH from a "Free Najib" campaign group he says dragged the party into controversy in the final stretch. [The Star](https://www.thestar.com.my/news/nation/2026/07/05/ph-candidate-predicts-60-voter-turnout-in-johor-state-elections)
+>
+> > [!breaking]- World: Russia kills 22 in massive overnight drone and missile barrage on Ukraine (NPR)
+> > Russia launched 351 drones and 68 ballistic missiles at Ukraine overnight, killing at least 22 people — 15 in Kyiv alone with 56 injured in the capital — one of the heaviest single barrages of the war, more than four years into Moscow's full-scale invasion. All 29 ballistic missiles struck their targets, exposing critical gaps in Ukraine's air-defence network worsened by a global shortage of Patriot interceptors. Russia's Defence Ministry claimed it targeted weapons factories, drone production sites, and fuel infrastructure in Kyiv. [NPR](https://www.npr.org/2026/07/06/g-s1-132088/russian-missile-drone-attack-kyiv-ukraine)
+>
+> > [!note]- World: Trump opens NATO Ankara summit — Ukraine security, Iran ceasefire top agenda (NPR)
+> > NATO leaders convened in Ankara, Turkey, today for a summit widely described as one of the most potentially contentious in years, with Ukraine's long-term security framework and the fragile US-Iran ceasefire front of mind. Trump cited his relationship with President Erdoğan as a stabilising factor; meanwhile Netanyahu heads to Washington this week as US-Israel friction over Lebanon sharpens. Disputes over defence spending burden-sharing and alliance posture toward the Russia-Ukraine war are expected to dominate the two-day meeting. [NPR](https://www.npr.org/sections/world/)
+>
+> > [!note]- Tech: UN inaugural Global AI Governance Dialogue wraps in Geneva — 169 nations (UN News)
+> > The United Nations' first-ever Global Dialogue on AI Governance concluded its two-day run in Geneva today, bringing together delegates from 169 countries to build shared principles, safety standards, and equitable-access frameworks for artificial intelligence. The dialogue marks the UN's most ambitious push yet for a multilateral AI governance framework, and coincides with an expected White House voluntary AI standards announcement within the coming week. [UN News](https://news.un.org/en/story/2026/07/1167848)
+>
+> > [!note]- Economy: IMF July outlook due tomorrow — global growth to slow to 2.5% as energy shock weighs on EMs (IMF)
+> > The IMF's July 2026 World Economic Outlook Update, due tomorrow, is projected to forecast global growth slowing to 2.5% in 2026, with emerging market and developing economies facing their weakest per capita income growth since the pandemic under Middle East-driven energy price spikes, renewed inflation, and tighter monetary conditions. The US is still forecast to grow 2.0% — partly sustained by AI-led productivity gains — while a US investigation targeting exports from 60 countries over forced-labour goods practices adds further trade-policy uncertainty. [IMF](https://www.imf.org/en/publications/weo/issues/2026/07/08/world-economic-outlook-update-july-2026)
+>>>>>>> origin/main
 
 > [!note]- [[07-06-26 Mon]]
 >
