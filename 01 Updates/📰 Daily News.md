@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-07-12T05:05
+updated: 2026-07-12T19:03
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,26 @@ unread: true
 
 > [!note]- Nike (NKE): $44.37 (+3.7%) — Truist upgrades to Buy; Q4 revenue -4%, Greater China -17%, guidance soft (GuruFocus / Yahoo Finance)
 > Nike closed Friday at $44.37, up 3.7% on the session, after Truist Financial upgraded NKE to Buy on July 3, citing a credible "Win Now" turnaround strategy and improving North America wholesale momentum. Fundamental headwinds persist: Q4 revenue fell 4% currency-neutral with Greater China down 17% and NIKE Direct off 9%, while management guided for low-to-mid single-digit revenue declines over the next three quarters. At $44.37, the 46-share position (avg $71.69) sits approximately $1,257 underwater. [GuruFocus](https://www.gurufocus.com/news/8954075/nike-inc-nke-stock-up-37-and-still-undervalued-gf-score-68100)
+
+> **Evening update**
+
+> [!note]- SG & MY: President Tharman begins 4-day Malaysia state visit — 60 years of trust to deepen ties (The Star)
+> Singapore President Tharman Shanmugaratnam arrived in Malaysia on Sunday for a four-day state visit at the invitation of King Sultan Ibrahim Sultan Iskandar, marking a significant diplomatic engagement between the two neighbours. In a pre-visit interview with Bernama, Tharman said the mutual trust built over six decades would be the bedrock for deepening cooperation in economic integration, renewable energy, and talent development. He acknowledged that the two countries will occasionally disagree on specific issues but stressed those differences must never weaken the broader bilateral partnership. [The Star](https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/12/singapore-malaysia-partnership-driven-by-mutual-respect-understanding-of-each-others-interests-president-tharman)
+
+> [!breaking]- Malaysia: BN's 48-seat Johor win confirmed; Onn Hafiz sworn in for second term as MB (Borneo Post)
+> Barisan Nasional's commanding 48 of 56 seats in the July 11 Johor state election was officially confirmed on Sunday — BN's best Johor performance since 2008 — with Pakatan Harapan reduced to just 8 seats and Perikatan Nasional, Bersama, and Muda all failing to win representation. Datuk Onn Hafiz Ghazi was sworn in at Istana Bukit Serene for a second term as Johor Menteri Besar, cementing UMNO's grip on Malaysia's southernmost state. The result poses serious questions about PM Anwar Ibrahim's coalition ahead of the next federal election. [Borneo Post](https://www.theborneopost.com/2026/07/12/bn-sweeps-johor-election-with-landslide-48-seat-victory/)
+
+> [!note]- World: Bellingham extra-time goal sends England into FIFA WC 2026 semis; Argentina beat Switzerland (Euronews)
+> Jude Bellingham scored in extra time to send England into the FIFA World Cup 2026 semifinals for the first time since 2018. In the other quarterfinal, Argentina defeated Switzerland 3–1 after extra time, with Switzerland's Breel Embolo becoming the first player to be sent off following a VAR review in a World Cup quarterfinal. England and Argentina are set for a highly anticipated semifinal showdown on Wednesday, rekindling one of football's great rivalries. [Euronews](https://www.euronews.com/video/2026/07/12/latest-news-bulletin-july-12th-2026-morning)
+
+> [!breaking]- World: Africa CDC warns of fastest-growing Ebola outbreak ever recorded on the continent (Al Jazeera)
+> The Africa Centres for Disease Control and Prevention has declared the current Ebola outbreak the fastest-growing ever recorded on the continent, raising urgent alarm about containment capacity in affected regions. The outbreak, which has spread across multiple countries, is stretching health infrastructure already under strain from prior crises. International health agencies are deploying emergency response teams and calling for accelerated vaccine distribution to contain further spread. [Al Jazeera](https://www.aljazeera.com/news/)
+
+> [!breaking]- Tech: Apple sues OpenAI for trade secret theft — names 400+ former Apple engineers now at OpenAI (buildfastwithai)
+> Apple filed a lawsuit against OpenAI in the Northern California federal court on July 11, alleging trade secret theft and citing over 400 former Apple employees — from silicon engineering, on-device AI, and hardware design teams — who now work at OpenAI. Apple frames the recruitment not as ordinary talent movement but as a coordinated campaign to extract confidential technology developed under strict secrecy. The suit marks a major escalation between two of the most powerful companies in consumer AI at a moment when they are competing head-to-head for device-level AI dominance. [Build Fast with AI](https://www.buildfastwithai.com/blogs/ai-news-today-july-12-2026)
+
+> [!note]- Economy: IMF cuts 2026 global growth to 3% as Iran conflict stalls disinflation and lifts inflation to 4.7% (IMF)
+> The IMF's July 2026 World Economic Outlook update projects global growth at 3% this year and 3.4% in 2027, forecasting a V-shaped pattern of near-term weakness followed by a rebound. Global headline inflation has been revised up to 4.7% — stalling the disinflation trend in place since early 2024 — partly driven by elevated energy prices linked to the US-Iran conflict and Strait of Hormuz disruptions. China is forecast at 4.6% growth and India at 6.4% for 2026, with downside risks elevated across both advanced and emerging economies. [IMF](https://www.imf.org/en/news/articles/2026/07/08/tr070826-weo-press-briefing-transcript-july-8-2026)
 
 > [!note]- [[07-11-26 Sat]]
 >
