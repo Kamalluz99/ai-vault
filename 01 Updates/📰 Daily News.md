@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-07-12T19:03
+updated: 2026-07-12T22:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -103,6 +103,17 @@ unread: true
 
 > [!note]- Economy: IMF cuts 2026 global growth to 3% as Iran conflict stalls disinflation and lifts inflation to 4.7% (IMF)
 > The IMF's July 2026 World Economic Outlook update projects global growth at 3% this year and 3.4% in 2027, forecasting a V-shaped pattern of near-term weakness followed by a rebound. Global headline inflation has been revised up to 4.7% — stalling the disinflation trend in place since early 2024 — partly driven by elevated energy prices linked to the US-Iran conflict and Strait of Hormuz disruptions. China is forecast at 4.6% growth and India at 6.4% for 2026, with downside risks elevated across both advanced and emerging economies. [IMF](https://www.imf.org/en/news/articles/2026/07/08/tr070826-weo-press-briefing-transcript-july-8-2026)
+
+> **Late update**
+
+> [!critical]- World: IRGC formally closes Strait of Hormuz; US strikes Iranian ports in response (Gulf News)
+> Iran's Islamic Revolutionary Guard Corps Navy declared the Strait of Hormuz closed "until further notice and until the end of American interventions," after firing on a container ship attempting transit through what Tehran deemed an unauthorised route, setting the vessel ablaze. US Central Command responded with fresh strikes on Iranian port infrastructure, stating Iran had failed to uphold the June Memorandum of Understanding and that the United States would continue to degrade Iran's ability to attack commercial mariners. UK Maritime Trade Operations noted a southern route remains partially usable with expanded two-way traffic — but the formal declaration of closure of the chokepoint carrying 21% of global crude is the most extreme escalation of the conflict to date. [Gulf News](https://gulfnews.com/world/mena/us-launches-fresh-strikes-on-iran-as-irgc-closes-strait-of-hormuz-1.500605011)
+
+> [!note]- AI: Gemini 3.5 Pro GA confirmed July 17 via leaked roadmap (BuildFastWithAI)
+> A leaked internal Google DeepMind roadmap confirmed that Gemini 3.5 Pro will reach general availability on July 17, ending six weeks of delay past its original June 30 GA target. The leak specifies the model was not adapted from Gemini 2.5 Pro but rebuilt on an entirely new pretraining run, which sources say drove the delay and the superior benchmark results claimed in early previews. Its launch directly contests Claude Sonnet 5 and GPT-5.6 in enterprise coding, reasoning, and long-context tasks — with many customers having already shifted workflows to rivals in the interim. [BuildFastWithAI](https://www.buildfastwithai.com/blogs/ai-news-today-july-12-2026)
+
+> [!note]- Science: Pressure squeezes nutrients from marine snow — rewrites deep-ocean carbon model (ScienceDaily)
+> Researchers found that immense hydrostatic pressure at depths of 2–6 kilometres acts like a molecular juicer, forcing up to 50% of carbon and 58–63% of nitrogen out of sinking organic particles (marine snow) into surrounding water, triggering a 30-fold spike in bacterial abundance within two days. The finding rewrites models of the ocean's biological carbon pump, suggesting far less carbon reaches the seabed for long-term burial than previously assumed — with direct implications for climate models that rely on deep-ocean carbon sequestration estimates. The study was published in ScienceDaily on July 11, representing one of the most significant revisions to deep-sea ecosystem science in years. [ScienceDaily](https://www.sciencedaily.com/releases/2026/07/260711010127.htm)
 
 > [!note]- [[07-11-26 Sat]]
 >
