@@ -127,6 +127,20 @@ unread: true
 > [!note]- Science: ML combined with quantum physics discovers new superconductors; silicon chip writes dozens of DNA sequences via electricity (WEF / ScienceDaily)
 > Scientists have combined machine learning with quantum physics to identify promising new superconductor material candidates that conventional search methods missed, accelerating the path toward practical room-temperature superconductivity. Separately, researchers developed a silicon chip that writes dozens of distinct DNA sequences simultaneously using electricity and water-based enzymes — cutting the time and cost of synthetic biology workflows dramatically. Both advances appear in the World Economic Forum's 2026 Top 10 Emerging Technologies report. [ScienceDaily](https://www.sciencedaily.com/)
 
+> **Night update**
+
+> [!critical]- World: IRGC directly strikes US military bases in Jordan, Bahrain, Kuwait & Oman (Al Jazeera)
+> Iran's IRGC claimed direct strikes on US military infrastructure across four countries Monday: hitting fuel depots and ammunition stores at Prince Hassan Air Base in Jordan, the P-8 surveillance aircraft hangar and helicopter repair centres at Sheikh Isa in Bahrain, HIMARS missile launchers and warehouses in Kuwait, and long-range radar stations in Oman. This marks a sharp escalation from earlier missile barrages on Gulf civilian targets to direct attacks on US military command and logistics nodes. Al Jazeera reports a ceasefire looks increasingly unlikely. [Al Jazeera](https://www.aljazeera.com/news/2026/7/13/new-iran-strikes-on-gulf-as-us-attacks-escalate-what-we-know)
+
+> [!breaking]- AI: Apple sues OpenAI for trade secret theft — 400+ staff poached, stolen hardware designs (CNBC)
+> Apple filed suit against OpenAI in federal court in Northern California, alleging OpenAI systematically had Apple employees share confidential hardware designs during interviews, implicating over 400 former Apple staff. Named defendants include OpenAI's hardware chief Tang Tan (a former Apple VP) and a former engineer who used an Apple-issued laptop to download confidential technical documents. The suit is a stunning reversal of their 2024 ChatGPT-iPhone partnership and could threaten OpenAI's planned $730B IPO later this year. [CNBC](https://www.cnbc.com/2026/07/10/apple-openai-lawsuit-trade-secrets.html)
+
+> [!note]- World: UK proscribes IRGC as terrorist organisation after Iran-backed group claims London antisemitic attacks (US News)
+> The UK government moved to formally proscribe Iran's IRGC and the linked Islamic Movement of the Companions of the Right (IMCR) after British intelligence confirmed Qods Force operatives were directing attacks across Europe, including the torching of four Jewish community ambulances and six other London sites. Under the National Security (State Threats) Act 2026, assisting proscribed groups now carries up to 14 years imprisonment without requiring prosecutors to prove a direct government link in each case. Parliament must still approve the designations. [US News](https://www.usnews.com/news/world/articles/2026-07-13/uk-proscribes-irans-irgc-as-a-terrorist-organisation-sky-news-reports)
+
+> [!note]- Science: Europe wildfire crisis — 12 dead in Spain, 8 sq km blaze near Paris, toxic smoke over Thessaloniki (Bloomberg)
+> Spain's weekend wildfires killed at least 12 people in one of the country's deadliest fire events on record. Separately, 500 firefighters are battling an 8 sq km blaze near Fontainebleau, 64km south of Paris, while toxic smoke from a recycling plant fire has blanketed Thessaloniki, prompting Greek authorities to urge residents to stay indoors. The EU has deployed its largest-ever cross-border emergency response as a record June heatwave keeps fire conditions critical across the Mediterranean. [Bloomberg](https://www.bloomberg.com/news/articles/2026-07-13/wildfire-near-paris-shows-europe-s-growing-heat-wave-risks)
+
 > [!note]- [[07-12-26 Sun]]
 >
 > > [!note]- AI: White House AI framework introduces novel pre-development oversight model (Federal News Network)
