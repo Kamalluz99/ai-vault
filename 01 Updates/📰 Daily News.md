@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-07-13T05:00
+updated: 2026-07-13T19:30
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,26 @@ unread: true
 
 > [!note]- Nike (NKE): $44.37 (last close Fri July 11; US markets closed weekend) — position −$1,257; CPI week and bank earnings may shift risk tone (Yahoo Finance)
 > Nike's most recent close was $44.37 on Friday July 11 (+3.7% on the session, recovering from Thursday's post-earnings after-hours drop). US markets were closed Saturday–Sunday so no new price data is available at the 5am SGT open. The 46-share position (avg cost $71.69) remains approximately −$1,257 underwater (−38%). This week's CPI print, Fed Chair testimony, and major bank earnings could shift broad risk appetite; Nike's next company-specific catalyst is its September investor day. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
+
+> **Evening update**
+
+> [!note]- SG & MY: Tharman meets PM Anwar on Day 2 of Malaysia state visit; bilateral cooperation in focus (The Star)
+> Singapore President Tharman Shanmugaratnam held bilateral talks with Prime Minister Anwar Ibrahim at Putrajaya on Monday, the second day of his three-day state visit to Malaysia. Discussions centred on deepening cooperation across the Johor-Singapore Special Economic Zone, cross-border renewable energy trade, and digital connectivity frameworks. The visit is expected to conclude with a joint communiqué on Tuesday before Tharman returns to Singapore. [The Star](https://www.thestar.com.my/aseanplus/aseanplus-news/)
+
+> [!note]- Malaysia: PN faces post-mortem after Johor wipeout — state chairman under pressure after losing all 12 seats (Free Malaysia Today)
+> Perikatan Nasional's total shutout in the July 11 Johor state election — failing to win a single seat from 12 contested — has triggered intense internal pressure on the coalition's Johor leadership. Former Menteri Besar Sahruddin Jamal lost his Bukit Kepong seat, and PN's state chairman faces mounting calls to step down. The result raises serious questions about PN's viability in southern Peninsular Malaysia and its readiness heading into GE16. [Free Malaysia Today](https://www.freemalaysiatoday.com/)
+
+> [!note]- World: FIFA WC 2026 semis confirmed — France vs Spain on July 15, England vs Argentina on July 16 (ESPN)
+> The FIFA World Cup 2026 semifinal schedule is set: France faces Spain in Dallas on Tuesday, July 15, while England meets Argentina at MetLife Stadium on Wednesday, July 16 — their first World Cup semi-final clash since 1998. Spain are the tournament's only unbeaten side, keeping six consecutive clean sheets; England's Jude Bellingham scored in extra time to eliminate Norway in the quarter-finals. The final is scheduled for July 19 in Los Angeles. [ESPN](https://www.espn.com/soccer/story/_/id/49348219/world-cup-2026-today-blog-13-07-2026-live-updates-news-fixtures-schedule-results-spain-france-england-argentina)
+
+> [!breaking]- World: Ukraine PM Svyrydenko steps down; Zelensky announces largest cabinet reshuffle since 2022 (Al Jazeera)
+> Ukrainian Prime Minister Yulia Svyrydenko resigned on Monday as President Volodymyr Zelensky announced the most sweeping government overhaul since Russia's full-scale invasion began, replacing multiple senior ministers simultaneously. The reshuffle is understood to reflect Zelensky's push to reinvigorate Ukraine's diplomatic and military coordination as the war approaches its fourth year. No immediate successor to Svyrydenko was named; a parliamentary confidence vote is expected later this week. [Al Jazeera](https://www.aljazeera.com/)
+
+> [!note]- Tech: Microsoft reverses always-on AI stance in Teams — organizers can now toggle Copilot off mid-meeting (Forbes)
+> Microsoft updated Teams to give meeting organizers explicit controls to enable or disable AI-powered features — including Copilot transcription, speaker identification, and real-time summaries — during live meetings, reversing its earlier always-enabled default. The shift follows enterprise pushback over automatic AI activation raising consent and privacy concerns in sensitive discussions. Forbes described the change as a "major AI U-turn" in Microsoft's enterprise rollout strategy. [Forbes](https://www.forbes.com/sites/quickerbettertech/2026/07/12/small-business-technology-news-roundup-microsoft-makes-a-major-ai-u-turn/)
+
+> [!note]- Science: ML combined with quantum physics discovers new superconductors; silicon chip writes dozens of DNA sequences via electricity (WEF / ScienceDaily)
+> Scientists have combined machine learning with quantum physics to identify promising new superconductor material candidates that conventional search methods missed, accelerating the path toward practical room-temperature superconductivity. Separately, researchers developed a silicon chip that writes dozens of distinct DNA sequences simultaneously using electricity and water-based enzymes — cutting the time and cost of synthetic biology workflows dramatically. Both advances appear in the World Economic Forum's 2026 Top 10 Emerging Technologies report. [ScienceDaily](https://www.sciencedaily.com/)
 
 > [!note]- [[07-12-26 Sun]]
 >
