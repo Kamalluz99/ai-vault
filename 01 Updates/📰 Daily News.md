@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-07-13T19:30
+updated: 2026-07-14T05:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -60,6 +60,29 @@ unread: true
 > ```
 
 ## 2026-07
+
+### [[07-14-26 Tue]]
+
+> [!note]- AI: OpenAI unveils GPT-Live — full-duplex voice AI with live translation and real-time reasoning (OpenAI)
+> OpenAI launched GPT-Live, a new generation of voice AI that can listen, speak, and reason simultaneously via a full-duplex architecture, marking a significant leap beyond turn-based voice interaction. Features include live translation, web search, and intelligent task delegation — enabling the assistant to spawn sub-tasks while maintaining the primary conversation. The launch positions OpenAI more directly against real-time phone and translation services. [OpenAI](https://openai.com)
+
+> [!note]- Tech: Microsoft deploys in-house MAI models in Excel and Outlook, replacing tens of thousands of daily OpenAI/Anthropic prompts (CNBC)
+> Microsoft has begun routing production workloads inside Excel and Outlook to its own MAI model family, replacing prompts previously handled by third-party OpenAI and Anthropic frontier models. The shift covers tens of thousands of weekly prompts and reflects Microsoft's strategy to reduce API dependency costs while retaining model performance on well-understood enterprise tasks. The move signals Microsoft's broader intent to vertically integrate AI across its productivity stack. [CNBC](https://www.cnbc.com)
+
+> [!breaking]- Macro: Biggest macro day of 2026 — June CPI, Fed Chair Warsh testimony, and five major bank earnings all hit today (CNBC)
+> June CPI prints today with consensus at 3.8% YoY (down from 4.2% in May), driven partly by a ~10% drop in retail gasoline prices — if confirmed, the sharpest monthly disinflation since early 2025. Fed Chair Kevin Warsh testifies before the House Financial Services Committee at 10am ET, his first major congressional appearance since taking office. JPMorgan Chase, Bank of America, Goldman Sachs, Wells Fargo, and Citigroup all report Q2 earnings — the most consequential single bank earnings day of the year, providing the first clear read on consumer credit quality and net interest margins in the current rate environment. [CNBC](https://www.cnbc.com/2026/07/10/stock-market-next-week-outlook-for-july-13-17-2026.html)
+
+> [!note]- World: France vs Spain in 2026 FIFA World Cup semifinal in Dallas — France chasing third successive final (ESPN)
+> France and Spain meet in the first 2026 World Cup semifinal at Dallas Stadium in Arlington today, with France chasing a third successive final appearance after winning in 2018 and finishing runners-up in 2022. Spain, unbeaten throughout the tournament with six consecutive clean sheets, are seeking their first final since 2010; France enter on the back of a 2-0 quarterfinal win over Morocco (Mbappé, Dembélé). The winner faces Argentina or England in Sunday's final in Los Angeles. [ESPN](https://www.espn.com/soccer/)
+
+> [!note]- SG & MY: President Tharman concludes 3-day Malaysia state visit — joint communiqué expected; JS-SEZ and RTS Link highlighted (The Star)
+> Singapore President Tharman Shanmugaratnam concludes his three-day state visit to Malaysia today, with a joint communiqué expected before he returns to Singapore. Malaysia's King Sultan Ibrahim called Singapore more than a neighbour — a strategic partner — while bilateral trade reached RM189.9B in Jan–May 2026, up 14.5% YoY. The two flagship cooperation projects — the Johor-Singapore Special Economic Zone and the JB-Singapore RTS Link (due to open end-2026) — featured prominently in discussions. [The Star](https://www.thestar.com.my/news/nation/2026/07/13/singapore-more-than-a-neighbour-malaysia039s-strategic-partner-says-king)
+
+> [!note]- Science: NTU Singapore uses 200-year-old Poisson spot to generate optical skyrmions — exotic light structures with data storage potential (ScienceDaily)
+> Researchers at Nanyang Technological University in Singapore discovered a surprisingly simple method to generate optical skyrmions — exotic, topologically protected light structures — by exploiting the Poisson (Arago) spot, a diffraction phenomenon first theorised in 1818. Unlike previous methods requiring complex optical setups, the technique uses a single circular obstacle to create stable skyrmion fields. Their robustness makes them candidates for ultra-dense optical data storage and quantum information protocols. [ScienceDaily](https://www.sciencedaily.com)
+
+> [!note]- Nike (NKE): $44.37 (last close Fri Jul 11, +3.7%) — position −$1,257 (−38%); today's CPI and bank earnings to set risk tone (Yahoo Finance)
+> Nike's last close was $44.37 on Friday July 11 (+3.7% vs prior close of $42.78), recovering partially from post-earnings after-hours weakness. The 46-share position (avg cost $71.69) remains approximately −$1,257 underwater (−38%); next company-specific catalyst is September's investor day. Today's CPI print and bank earnings set the macro tone for risk assets — a disinflation surprise could provide a broad lift, while any upside CPI shock would pressure consumer names like Nike further. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
 
 ### [[07-13-26 Mon]]
 
