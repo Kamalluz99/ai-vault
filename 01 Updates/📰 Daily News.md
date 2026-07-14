@@ -126,6 +126,23 @@ unread: true
 >
 > > [!note]- Science/Economy: IMF projects 3% global growth in 2026 amid war and technology "cross-currents" (IMF)
 > > The IMF's July World Economic Outlook Update projects global growth at 3.0% in 2026, rising to 3.4% in 2027, describing the outlook as caught in "cross-currents of war and technology." Near-term risks include the war premium in energy markets and Strait of Hormuz disruptions, while AI-driven productivity gains are expected to support a V-shaped recovery into 2027. The S&P 500 added 0.7% on the day to 7,537 as markets digested the outlook alongside June CPI data. [IMF](https://www.imf.org/en/news/articles/2026/07/08/tr070826-weo-press-briefing-transcript-july-8-2026)
+>
+> > **Results update**
+>
+> > [!breaking]- Macro: June CPI 3.5% — biggest beat since 2025; core 2.6%; Brent tops $85 on Hormuz war (Bloomberg / Saxo)
+> > US June CPI fell 0.4% MoM to 3.5% YoY — well below the 3.8% consensus — and core CPI printed 2.6% YoY against a 2.9% forecast, the sharpest disinflation beat since early 2025. Despite the upside surprise, markets were split: Nasdaq gained 0.44% but S&P 500 slipped 0.22% and the Dow fell 0.34%, as Brent crude spiked to $85/barrel on Strait of Hormuz escalation, reviving inflation fears. Fed Chair Kevin Warsh pledged in congressional testimony to "get monetary policy right" while stopping short of signalling a rate-cut timeline. [Bloomberg](https://www.bloomberg.com/news/articles/2026-07-14/pricey-stocks-charge-into-cpi-earnings-and-fed-all-in-one-day)
+>
+> > [!breaking]- World: US strikes Iran 3rd night; Trump imposes 20% Hormuz toll; Iran kills mariner (Euronews / 10 Things)
+> > The US struck Iranian coastal-defence, missile, and drone sites around Bandar Abbas, Bushehr, Chah Bahar, Jask, Konarak, and Abu Musa for a third consecutive night on July 14. Iran retaliated with attacks on Bahrain, Jordan, and two UAE-associated tankers in the Strait — killing one mariner and wounding eight others. Trump simultaneously announced a 20% tariff on all cargo transiting the Strait of Hormuz, an unprecedented departure from decades of US freedom-of-navigation doctrine, raising global shipping-cost and inflation concerns. [Euronews](https://www.euronews.com/video/2026/07/14/latest-news-bulletin-july-14th-2026-midday)
+>
+> > [!breaking]- Science: DRC Ebola now "fastest-growing ever" — 1,926 cases, 702 deaths, spreads to 4th province (WHO / US News)
+> > The WHO warned on July 13–14 that the DRC's ongoing Ebola outbreak is spreading "substantially faster" than any previous outbreak and is now the third-largest on record, driven partly by the fact that the Bundibugyo ebolavirus strain is not covered by existing certified treatments. Cases stand at 1,926 with 702 deaths across Ituri, North Kivu, South Kivu, Haut-Uele, and Tshopo provinces — the latter two newly infected as of July 13. Uganda has reported 20 cases and 2 deaths but has seen no new cases since June 21. [US News](https://www.usnews.com/news/world/articles/2026-07-13/congos-ebola-outbreak-spreads-to-two-more-provinces)
+>
+> > [!note]- Tech: New York becomes first US state to pause new hyperscale data centres amid AI power-grid strain (ChinaPulse / ID Tech)
+> > New York imposed a moratorium on new hyperscale data centres on July 14, citing grid-capacity concerns driven by the AI infrastructure boom — the first state-level pause of its kind in the US. On the same day an AI startup committed over $1 billion to secure compute access, and Europe and Japan announced fresh public investment into domestic chip production. The New York moratorium may set a precedent for California, Texas, and Virginia, which host the world's largest data-centre concentrations. [ChinaPulse](https://www.chinapulse.com/data-news/2026/07/14/top-tech-news-today-july-14-2026-amazon-cloudflare-google-ibm-nvidia-samsung-xai-more)
+>
+> > [!note]- Nike (NKE): $43.66 today (↓1.6% from Fri) — unrealised P&L −$1,289 (−39%); oil surge offsets CPI lift (Yahoo Finance)
+> > NKE traded between $43.65 and $44.89 today, settling near $43.66 — down roughly 1.6% from Friday's close of $44.37. The 46-share position (avg cost $71.69) now stands at an unrealised loss of approximately −$1,289 (−39%). Despite the soft CPI print — which normally supports consumer-discretionary names — Brent crude at $85 and broader risk caution tied to the Strait of Hormuz crisis kept pressure on the stock. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
 
 > [!note]- [[07-13-26 Mon]]
 >
