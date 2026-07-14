@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-07-14T07:00
+updated: 2026-07-14T20:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,26 @@ unread: true
 
 > [!note]- Nike (NKE): $44.37 (last close Fri Jul 11, +3.7%) — position −$1,257 (−38%); today's CPI and bank earnings to set risk tone (Yahoo Finance)
 > Nike's last close was $44.37 on Friday July 11 (+3.7% vs prior close of $42.78), recovering partially from post-earnings after-hours weakness. The 46-share position (avg cost $71.69) remains approximately −$1,257 underwater (−38%); next company-specific catalyst is September's investor day. Today's CPI print and bank earnings set the macro tone for risk assets — a disinflation surprise could provide a broad lift, while any upside CPI shock would pressure consumer names like Nike further. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
+
+> **Evening update**
+
+> [!note]- SG & MY: JS-SEZ master plan nearing completion as Tharman visit yields economic integration push (The Vibes)
+> Malaysia PM Anwar Ibrahim cited the impending finalisation of the Johor-Singapore Special Economic Zone master plan as a key outcome of Singapore President Tharman's three-day state visit. Both governments are accelerating cross-border trade, investment, and digital connectivity frameworks under the JS-SEZ umbrella, with the master plan expected to unlock land parcels and investor commitments in southern Johor. The completion will mark the most concrete milestone in the SEZ since its bilateral launch in January 2024. [The Vibes](https://www.thevibes.com/index.php/articles/news/125004/malaysia-singapore-steps-up-economic-integration-as-js-sez-plan-nears-completion)
+
+> [!note]- Malaysia: Malaysia leads Southeast Asia IPO market in H1 2026 with US$1.3B raised, beating Singapore (Batam News Asia)
+> Malaysia recorded the highest value of initial public offerings in Southeast Asia during the first half of 2026, raising US$1.3 billion — ahead of Singapore's US$868 million — signalling renewed momentum in its capital markets and a shift in the region's listing pecking order. The result places Malaysia ahead of traditional leaders and comes amid improving investor confidence tied to the Johor-Singapore SEZ and Anwar's economic reform agenda. [Batam News Asia](https://batamnewsasia.com/2026/07/14/malaysia-leads-southeast-asias-ipo-market-singapore-takes-second-place-in-2026/)
+
+> [!breaking]- World: US commences naval blockade of Iranian ships over Strait of Hormuz; Iran vows to assert control (Al Jazeera)
+> The US military announced it is beginning a formal blockade of Iranian vessels transiting the Strait of Hormuz, through which roughly 20% of global traded oil flows. Iran vowed to assert its own authority over the waterway, raising the prospect of a direct naval standoff with significant global energy market implications. Brent crude climbed toward US$79 a barrel on the news, capping a weekly gain driven by the escalating conflict around the strait. The move follows weeks of Iranian strikes on Gulf states and US airstrikes on IRGC targets. [Al Jazeera](https://www.aljazeera.com/)
+
+> [!note]- World: US states sue to block Paramount–Warner Bros Discovery Hollywood mega-merger (NPR)
+> California and several other US states filed suit to halt the proposed Paramount-Warner Bros Discovery merger, which would unite two of Hollywood's largest movie studios and TV newsrooms under a single entity. Regulators argue the deal would reduce competition in streaming, content licensing, and theatrical distribution. The lawsuit is one of the largest antitrust challenges in entertainment since AT&T's acquisition of Time Warner. [NPR](https://www.npr.org/2026/07/13/nx-s1-5879286/paramount-warner-bros-discovery-lawsuit)
+
+> [!note]- Tech: OpenAI launches GPT-5.6 family — Sol, Terra, Luna — with agentic upgrades after US government review (TechStartups)
+> OpenAI officially released its GPT-5.6 model family following a US government security review, comprising three tiers: flagship Sol ($5/$30 per million tokens), balanced Terra ($2.50/$15), and budget Luna ($1/$6). The models feature enhanced agentic capabilities in coding, biology, and cybersecurity, with pricing that undercuts leading rivals. The pre-release government review — focused on dual-use capabilities — is the first such process for a frontier commercial model. [TechStartups](https://techstartups.com/2026/07/10/top-tech-news-today-july-8-2026-todays-biggest-ai-tech-stories-from-meta-openai-microsoft-bytedance-more/)
+
+> [!note]- Science/Economy: IMF projects 3% global growth in 2026 amid war and technology "cross-currents" (IMF)
+> The IMF's July World Economic Outlook Update projects global growth at 3.0% in 2026, rising to 3.4% in 2027, describing the outlook as caught in "cross-currents of war and technology." Near-term risks include the war premium in energy markets and Strait of Hormuz disruptions, while AI-driven productivity gains are expected to support a V-shaped recovery into 2027. The S&P 500 added 0.7% on the day to 7,537 as markets digested the outlook alongside June CPI data. [IMF](https://www.imf.org/en/news/articles/2026/07/08/tr070826-weo-press-briefing-transcript-july-8-2026)
 
 > [!note]- [[07-13-26 Mon]]
 >
