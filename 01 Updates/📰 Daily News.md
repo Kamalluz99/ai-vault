@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-07-15T05:09
+updated: 2026-07-15T19:04
 topic: daily news
 frequency: daily
 ongoing: false
@@ -80,3 +80,23 @@ unread: true
 
 > [!note]- Science: Yale identifies two neuron proteins driving Parkinson's tau spread — potential new drug target revealed (ScienceDaily)
 > Yale University scientists discovered two neuron surface proteins that appear to facilitate cell-to-cell transmission of the toxic tau protein underlying Parkinson's disease, pinpointing a mechanism that could serve as a direct drug target. The finding addresses a fundamental open question in Parkinson's biology — how tau propagates through the brain — and opens a pathway toward treatments that slow or arrest progression rather than only managing symptoms. The discovery adds to growing evidence that prion-like protein spread drives multiple neurodegenerative diseases. [ScienceDaily](https://www.sciencedaily.com/)
+
+> **Evening update**
+
+> [!note]- Singapore & Malaysia: President Tharman concludes three-day Malaysia state visit — energy and food security cooperation deepened (MFA Singapore)
+> Singapore President Tharman Shanmugaratnam departed Kuala Lumpur on July 15, concluding a three-day state visit during which both nations pledged deeper cooperation on food security, energy, and maritime governance. PM Anwar Ibrahim and President Tharman jointly reaffirmed commitment to UNCLOS and freedom of navigation — a pointed signal amid regional tensions. Bilateral trade surged 14.5% year-on-year to RM189.9 billion in the first five months of 2026. [The Edge Malaysia](https://theedgemalaysia.com/node/810687)
+
+> [!note]- Malaysia: Johor by-election tests Anwar's coalition as opposition mounts coordinated challenge (The Star)
+> A Johor state constituency by-election is drawing national attention as the clearest barometer of public sentiment toward PM Anwar Ibrahim's Madani government since the 2023 state polls. Opposition parties are capitalising on cost-of-living grievances and governance concerns, making a coordinated push for an upset that would pressure Anwar's coalition calculus. The result is expected to influence the timing and strategy of the next general election. [The Star](https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/07/asean-news-headlines-at-10pm-on-tuesday-july-7-2026)
+
+> [!note]- World: Trump scraps 20% Hormuz shipping fee — pivots to Gulf trade deals after fourth night of Iran strikes (Al Jazeera)
+> President Trump abandoned plans to impose a 20% fee on shipping through the Strait of Hormuz, saying he would instead pursue trade and investment deals with Gulf states — a potential de-escalation signal after four consecutive nights of US military strikes against Iran. The Strait remains effectively closed for over 136 days, keeping energy markets on edge. Analysts say the pivot hints Washington may prefer a negotiated path over sustained military escalation. [Al Jazeera](https://www.aljazeera.com/news/)
+
+> [!note]- World: California leads multistate lawsuit to block Paramount-Warner Bros mega-merger (NPR)
+> A coalition of US states including California filed suit to halt Paramount Global's proposed acquisition of Warner Bros. Discovery — the largest entertainment industry merger attempt of 2026. Plaintiffs argue the deal would harm competition across streaming, film, and television distribution at the expense of consumers and independent studios. The case is a key test of antitrust enforcement posture toward major media consolidation in the post-streaming era. [NPR](https://www.npr.org/2026/07/13/nx-s1-5879286/paramount-warner-bros-discovery-lawsuit)
+
+> [!note]- Tech: China's anthropomorphic AI rules take effect July 15 — ByteDance and Alibaba must disable humanlike agent features (AIToolsRecap)
+> China's new regulations restricting anthropomorphic AI behaviours came into force today, requiring ByteDance, Alibaba, and other domestic AI companies to disable features that allow AI agents to appear human — including voice personas, emotional responsiveness, and identity mimicry. Western AI labs face no equivalent restrictions, widening the regulatory gap between Beijing and Washington on AI persona rules. The move reflects Beijing's effort to curb AI's social influence ahead of anticipated mass agent deployment. [AIToolsRecap](https://aitoolsrecap.com/Blog/AINewsJuly2026.aspx)
+
+> [!note]- Economy: IMF slashes 2026 global growth forecast to 0.7% — steepest peacetime deceleration since 2008 (IMF)
+> The IMF revised its 2026 global growth outlook sharply downward to just 0.7%, from 3.7% in 2025, citing the compounding drag of the Hormuz supply shock, US-China trade fragmentation, and tighter monetary conditions across advanced economies. A rebound to 6.5% is projected for 2027, contingent on conflict resolution and easing inflation. Emerging markets and commodity exporters face the sharpest near-term pain as energy revenue assumptions collapse. [IMF](https://www.imf.org/en/news/articles/2026/07/08/tr070826-weo-press-briefing-transcript-july-8-2026)
