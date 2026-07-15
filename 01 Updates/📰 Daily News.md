@@ -120,3 +120,6 @@ unread: true
 > 
 > > [!note]- Economy: IMF slashes 2026 global growth forecast to 0.7% — steepest peacetime deceleration since 2008 (IMF)
 > > The IMF revised its 2026 global growth outlook sharply downward to just 0.7%, from 3.7% in 2025, citing the compounding drag of the Hormuz supply shock, US-China trade fragmentation, and tighter monetary conditions across advanced economies. A rebound to 6.5% is projected for 2027, contingent on conflict resolution and easing inflation. Emerging markets and commodity exporters face the sharpest near-term pain as energy revenue assumptions collapse. [IMF](https://www.imf.org/en/news/articles/2026/07/08/tr070826-weo-press-briefing-transcript-july-8-2026)
+>
+> > [!note]- NKE: $42.86 (−2.06%); P&L −$1,326; avg analyst target $49.55 Buy (MarketBeat)
+> > Nike closed at $42.86 on July 14 (−2.06%), with pre-market trading on July 15 showing a recovery to $43.27 (+0.94%). The 46-share position held at an average cost of $71.69 carries an unrealised loss of −$1,326 (46 × −$28.83). Analyst consensus remains "Buy" at an average 12-month price target of $49.55, though Berenberg (cut to $49), UBS (cut to $48), and Telsey Advisory (cut to $47) trimmed targets this week amid soft sportswear demand and strained wholesale relationships. [Source](https://www.marketbeat.com/stocks/NYSE/NKE/)
