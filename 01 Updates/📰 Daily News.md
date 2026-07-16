@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-07-16T19:02
+updated: 2026-07-16T21:09
 topic: daily news
 frequency: daily
 ongoing: false
@@ -80,6 +80,9 @@ unread: true
 
 > [!breaking]- Science: Ebola in DRC kills 754+, third-largest outbreak ever — no vaccine, spreading internationally (NPR)
 > The DRC's 2026 Ebola outbreak surpassed 2,000 confirmed cases and 754 deaths as of July 15, caused by the Bundibugyo strain for which no approved vaccine or treatment exists, making it the third-largest Ebola outbreak in history. The outbreak is now the fastest-growing on record: 1,000 cases in just 40 days versus 235 days in the 2018 crisis. Cases have been confirmed internationally in Uganda, Germany, and France, and the virus has breached two new DRC provinces; active conflict zones are hampering containment teams' access to affected communities. [NPR](https://www.npr.org/2026/07/15/g-s1-133630/ebola-congo-deaths)
+
+> [!note]- NKE: $44.12 (+3.16%); P&L −$1,268; Q4 beats on tariff recovery (Yahoo Finance)
+> Nike (NKE) gained 3.16% to $44.12 on July 16 (range $42.90–$44.40) after fiscal Q4 2026 revenue of ~$11.0 billion beat the $10.85 billion consensus estimate, aided by a one-time $986 million tariff recovery that helped stabilise investor sentiment around a stock still trading 45% below its 52-week high. The 46-share position at an average cost of $71.69 carries an unrealised loss of −$1,268 (46 × −$27.57). Stifel reiterated a Hold rating at a $45 price target, flagging low-to-mid-single-digit revenue declines through 2026 year-end; overall analyst consensus remains Buy at an average 12-month target of $51.30. [Source](https://finance.yahoo.com/quote/NKE/)
 
 > **Evening update**
 
