@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-07-16T05:06
+updated: 2026-07-16T19:02
 topic: daily news
 frequency: daily
 ongoing: false
@@ -80,6 +80,26 @@ unread: true
 
 > [!breaking]- Science: Ebola in DRC kills 754+, third-largest outbreak ever — no vaccine, spreading internationally (NPR)
 > The DRC's 2026 Ebola outbreak surpassed 2,000 confirmed cases and 754 deaths as of July 15, caused by the Bundibugyo strain for which no approved vaccine or treatment exists, making it the third-largest Ebola outbreak in history. The outbreak is now the fastest-growing on record: 1,000 cases in just 40 days versus 235 days in the 2018 crisis. Cases have been confirmed internationally in Uganda, Germany, and France, and the virus has breached two new DRC provinces; active conflict zones are hampering containment teams' access to affected communities. [NPR](https://www.npr.org/2026/07/15/g-s1-133630/ebola-congo-deaths)
+
+> **Evening update**
+
+> [!note]- Singapore & Malaysia: STI snaps 10-session record run in Asia-wide AI chip rout (Jakarta Post)
+> Singapore's Straits Times Index slipped 21 points (0.4%) to 5,538 on Thursday, ending a ten-session winning streak the day after the index hit a new all-time high, as profit-taking swept Asian tech stocks. South Korea's Kospi led regional losses, tumbling as much as 7.6% at intraday lows before trimming declines, while Japan's Nikkei 225 fell 2.8% and MSCI's Asia Pacific gauge dropped 1.2% as investors grew skeptical the AI-driven rally can sustain elevated valuations. Analysts characterised Singapore's retreat as a healthy correction rather than a structural reversal given the STI's strong year-to-date performance. [The Jakarta Post](http://www.thejakartapost.com/business/2026/07/16/asian-stocks-mostly-sink-as-ai-worries-hammer-tech)
+
+> [!note]- Malaysia: High Court orders JPJ chief to pay RM40k over 'MADANI' plate copyright (Malay Mail)
+> Malaysia's High Court ruled that the Road Transport Department director-general infringed the copyright of Hasan Azhari Hashim by copying his proposal to issue "MADANI" as a special vehicle number plate series, ordering RM40,000 in compensation and RM25,000 in costs. The MADANI branding became nationally prominent after PM Anwar Ibrahim adopted it as his government's social contract framework, adding political resonance to this rare successful IP claim against a senior government official. JPJ has not indicated whether it will appeal the ruling. [Malay Mail](https://www.malaymail.com/)
+
+> [!breaking]- World: US Senator Lindsey Graham dies at 71 — sister sworn in as first woman to represent SC in Senate (NPR)
+> Republican Senator Lindsey Graham died Saturday at age 71 of aortic dissection, ending a 24-year Senate career defined by hawkish foreign policy and Judiciary Committee influence. South Carolina Governor Henry McMaster, acting on a suggestion by President Trump, appointed Graham's sister Darline Graham Nordone — who has never held elected office — to serve out the remainder of the term, making her the first woman ever to represent South Carolina in the US Senate. Nordone is expected to serve as caretaker until January 2027, with no decision yet on whether she will seek a full six-year term. [NPR](https://www.npr.org/2026/07/13/nx-s1-5891839/lindsey-graham-senate-seat-darline-graham)
+
+> [!note]- World: US House passes Sunshine Protection Act to make daylight saving time permanent (Fox News)
+> The House of Representatives passed the Sunshine Protection Act, moving the US toward ending the biannual clock change by permanently locking in daylight saving time for over 330 million Americans. President Trump signalled support for the bill, which would ripple through global scheduling, financial markets, and cross-border trade if enacted. The legislation now moves to the Senate, where similar measures previously stalled; backers argue momentum is stronger than ever given broad bipartisan fatigue with the twice-yearly disruption. [Fox News](https://www.foxnews.com/politics/house-passes-major-daylight-saving-time-reform-trump-signals-support-ending-clock-change)
+
+> [!note]- Tech: TSMC posts record Q2 revenue of $39.6B — June surges 68% YoY on AI chip demand (AIToolsRecap)
+> Taiwan Semiconductor Manufacturing Company reported record Q2 2026 revenue of US$39.6 billion, with June alone up 68% year-on-year, confirming AI hardware demand remains historically strong even as equities turned skeptical of AI valuations on the same day. The record quarter came alongside reports that Anthropic is in early talks with Samsung to develop custom Claude inference chips, deepening the integration of frontier AI labs with advanced foundries. Analysts noted a sharp divergence between TSMC's robust fundamentals and the sentiment-driven tech selloff across Asia. [AIToolsRecap](https://aitoolsrecap.com/Blog/AINewsJuly2026.aspx)
+
+> [!note]- Economy: China Q2 GDP slows to 4.3% — first growth target miss since Covid as property investment plunges 18% (CNBC)
+> China's economy grew just 4.3% in the April-June quarter, its weakest pace since late 2022 and the first time it has fallen short of Beijing's 4.5–5% annual growth target since the pandemic, as real-estate investment collapsed 18% year-on-year and retail sales barely rose 1.3%. An AI-driven export surge and strong industrial output cushioned the miss, but economists warned the economy is dangerously unbalanced — heavy state capital flows into chips, AI, and EVs while services industries and private consumption languish. Mainland stocks were choppy in volatile trade following the release. [CNBC](https://www.cnbc.com/2026/07/15/china-gdp-retail-sales-investment-june-.html)
 
 > [!note]- [[07-15-26 Wed]]
 > 
