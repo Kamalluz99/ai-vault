@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-07-17T19:05
+updated: 2026-07-17T21:08
 topic: daily news
 frequency: daily
 ongoing: false
@@ -103,6 +103,17 @@ unread: true
 
 > [!note]- Science: Astronomers detect helium escaping from habitable-zone exoplanet LHS 1140b (Nature)
 > Astronomers detected helium escaping from the upper atmosphere of LHS 1140b, an exoplanet orbiting within its star's habitable zone and one of the strongest candidate worlds for surface liquid water beyond Earth. The detection confirms the planet has retained at least a partial atmosphere — a critical question given that red-dwarf stars bombard close-in worlds with intense radiation capable of stripping gas away. The finding positions LHS 1140b alongside K2-18b as a high-priority James Webb Space Telescope target for heavier biosignature gas searches. [Nature](https://www.nature.com/news)
+
+> **Late update**
+
+> [!note]- Macro: S&P 500 −0.6%, Nasdaq −1.5%; Netflix −11%; chip rout wipes early gains (Schwab)
+> US equities closed sharply lower on Friday, with the S&P 500 falling 0.6% to 7,494 and the Nasdaq 100 off 1.5% as semiconductor shares plunged on investor concern that AI hyperscalers may pull back infrastructure spending — Nvidia fell 3.78% and Caterpillar dropped 4.40%. Netflix sank 11% after forecasting another quarter of slowing revenue growth, amplifying the risk-off tone across the broader market. Oil climbed 2% to above $80/bbl on Middle East escalation, while gold held near $3,984/oz and traders now price a 51% probability of a September Fed rate hike. [Schwab](https://www.schwab.com/learn/story/stock-market-update-open)
+
+> [!note]- World: US hits more Iran bridges; China declared war's biggest beneficiary (Foreign Policy)
+> The US military expanded its airstrike campaign against Iran by striking additional road and rail bridges to degrade supply-line logistics, while Iran retaliated by damaging a Kuwaiti desalination plant. A Foreign Policy analysis published today argues China is the single greatest beneficiary of the conflict, having used it to accelerate three long-held goals: reducing the Middle East's dependence on America, deepening global reliance on Chinese technology, and burnishing Beijing's image as a steady world power. US and Iranian negotiators are simultaneously pursuing a framework deal in Doha aimed at blocking Iran's path to a nuclear weapon. [Foreign Policy](https://foreignpolicy.com/2026/07/17/iran-war-china-benefit-united-states-energy-economics-geopolitics-trump-xi/)
+
+> [!note]- NKE: $44.57 (+1.0%); P&L −$1,248; holds up as chip names bear Friday's losses (Yahoo Finance)
+> Nike edged up approximately 1.0% to $44.57 on Friday, holding firm as consumer discretionary names were largely spared the chip-and-growth selloff weighing on the Nasdaq. The 46-share position at an average cost of $71.69 carries an unrealised loss of −$1,248 (46 × −$27.12). Analyst consensus remains Buy at an average 12-month target of $51.30 across 39 analysts, with price targets ranging from $23 to $94. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
 
 > [!note]- [[07-16-26 Thu]]
 > 
