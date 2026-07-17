@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-07-17T05:00
+updated: 2026-07-17T19:05
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,26 @@ unread: true
 
 > [!note]- NKE: $44.12 (+3.16%); P&L −$1,268; Q4 beat on tariff recovery; analyst avg target $51.30 Buy (Yahoo Finance)
 > Nike (NKE) gained 3.16% to $44.12 on July 16 (range $42.90–$44.40; 52-wk $40–$80.17) after fiscal Q4 2026 revenue of ~$11.0 billion beat the $10.85 billion consensus, aided by a one-time $986 million tariff recovery that helped stabilise sentiment around a stock down 32% YTD. The 46-share position at an average cost of $71.69 carries an unrealised loss of −$1,268 (46 × −$27.57). Stifel reiterated Hold at $45 flagging low-to-mid single-digit revenue declines through year-end; overall analyst consensus remains Buy at an average 12-month target of $51.30. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
+
+> **Evening update**
+
+> [!note]- Singapore & Malaysia: Shanmugam and Tan See Leng win Bloomberg defamation suit (Mothership)
+> Singapore's Law and Home Affairs Minister K. Shanmugam and Health Minister Tan See Leng won their defamation lawsuit against Bloomberg LP, with the court ruling in their favour over articles the ministers said falsely implied misconduct in their lease of state bungalows. The case was closely watched as a test of Singapore's defamation laws applied to a major international financial news organisation. Bloomberg has not indicated whether it will appeal the ruling. [Mothership](https://mothership.sg/)
+
+> [!note]- Malaysia: Two suspects detained over murder of 11-year-old Nurjilya Abdullah in Sabah (Malay Mail)
+> Malaysian police detained two suspects for questioning after the body of 11-year-old Nurjilya Abdullah was discovered near an under-construction house on a hillside in Kampung Numbak, Sabah. Authorities are treating the case as a murder inquiry and investigations are ongoing. The case has drawn widespread public outrage and renewed calls for stronger child protection measures in rural Sabah communities. [Malay Mail](https://www.malaymail.com/)
+
+> [!breaking]- World: Bangkok music bar fire kills 30+, injures 70+ — Thailand nightlife safety under scrutiny (Al Jazeera)
+> A fire swept through a music bar in Bangkok in the early hours, killing more than 30 people and injuring over 70 in one of Thailand's deadliest nightlife disasters in years. The blaze reignited national debate over fire safety and emergency exit enforcement at entertainment venues, with investigators examining the venue's structural layout and safety certifications. Authorities face pressure to overhaul licensing checks before the tourist high season resumes. [Al Jazeera](https://www.aljazeera.com/)
+
+> [!note]- World: Hong Kong official warns booksellers after third independent bookstore raid in four months (NPR)
+> Hong Kong police raided independent bookstores for the third time in four months, targeting stores carrying titles deemed to threaten national security under the city's 2020 security law. A senior official subsequently warned remaining booksellers about the legal risks of stocking such material. Press freedom groups say the repeated sweeps are further contracting Hong Kong's literary and journalistic space. [NPR](https://www.npr.org/2026/07/16/g-s1-133931/hong-kong-official-warns-booksellers-on-security-risks-after-raids)
+
+> [!note]- Tech: Apple Intelligence clears China CAC approval on Alibaba Qwen; Xi opens Shanghai World AI Conference (Al Jazeera)
+> Apple Intelligence received formal registration from China's Cyberspace Administration, specifying that it will run on Alibaba's Qwen language models — allowing Apple to offer AI features in its largest hardware market. President Xi Jinping attended the Shanghai World AI Conference in person for the first time since the event began in 2018, declaring AI "should not be a solo performance by a single country" and calling for equitable international access to AI benefits. The dual developments mark a pivotal moment for AI's globalisation and China's strategy of shaping international AI governance. [Al Jazeera](https://www.aljazeera.com/news/2026/7/17/ai-xi)
+
+> [!note]- Science: Astronomers detect helium escaping from habitable-zone exoplanet LHS 1140b (Nature)
+> Astronomers detected helium escaping from the upper atmosphere of LHS 1140b, an exoplanet orbiting within its star's habitable zone and one of the strongest candidate worlds for surface liquid water beyond Earth. The detection confirms the planet has retained at least a partial atmosphere — a critical question given that red-dwarf stars bombard close-in worlds with intense radiation capable of stripping gas away. The finding positions LHS 1140b alongside K2-18b as a high-priority James Webb Space Telescope target for heavier biosignature gas searches. [Nature](https://www.nature.com/news)
 
 > [!note]- [[07-16-26 Thu]]
 > 
