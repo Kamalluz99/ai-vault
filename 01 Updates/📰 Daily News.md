@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-07-18T05:00
+updated: 2026-07-18T19:05
 topic: daily news
 frequency: daily
 ongoing: false
@@ -84,6 +84,26 @@ unread: true
 > [!note]- NKE: $44.12 (+3.16%, Jul 16); P&L −$1,268; World Cup jersey shortage — 28% sold out, 4× Adidas turnover rate (Yahoo Finance)
 > Nike (NKE) last closed at $44.12 on July 16 (+3.16% from prev close $42.77), with the 46-share position at an average cost of $71.69 carrying an unrealised loss of −$1,268 (46 × −$27.57). A notable side story: NKE is experiencing significant World Cup jersey shortages — 28% of authenticated World Cup merchandise sold out within two weeks and inventory turned over 4× faster than Adidas, prompting emergency restocking after the US team's exit. Analyst consensus remains Buy at an average 12-month target of $51.30. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
 
+> **Evening update**
+
+> [!note]- Singapore & Malaysia: SG moves to block under-18s from platforms failing child safety standards — Josephine Teo (Mothership)
+> Singapore announced plans to block minors under 18 from accessing social media platforms that do not meet child safety standards, with Minister for Digital Development and Information Josephine Teo leading the regulatory push. Platforms would need to implement robust age-verification and child-protection measures or risk exclusion for young users — one of Southeast Asia's firmest government stances on minors' digital safety to date. The move aligns Singapore with Australia's social media restrictions and signals a broader regional rethink of Big Tech's obligations toward young users. [Mothership](https://mothership.sg/)
+
+> [!note]- Malaysia: Negeri Sembilan candidates file nominations for Aug 1 state election (Free Malaysia Today)
+> Candidates filed nomination papers for the Negeri Sembilan state election set for August 1, marking Malaysia's first major ballot since Barisan Nasional's sweep of Johor. PAS is separately mapping its Sarawak state election strategy, eyeing at least eight seats, while quiet BN-PAS talks over Negeri Sembilan complicate the opposition front and have drawn sharp condemnation from Muhyiddin Yassin over protocol breaches. The NS result will test whether BN's momentum can extend beyond Johor before the next general election. [Free Malaysia Today](https://www.freemalaysiatoday.com/)
+
+> [!note]- World: Magnitude 7.4 earthquake strikes off Mexico's Pacific coast — no casualties reported (Reuters)
+> A powerful 7.4-magnitude earthquake struck off Mexico's southeastern Pacific coast on July 18, prompting authorities to deploy civil protection teams to coastal communities for damage assessments. No casualties or significant structural damage were immediately confirmed, though residents in low-lying areas were briefly put on alert. Mexico sits atop one of the world's most seismically active convergence zones and has experienced a string of significant tremors this year. [Reuters](https://www.reuters.com/)
+
+> [!note]- World: Belgium records ~2,000 excess deaths from June–July heat wave as European toll mounts (Reuters)
+> Belgian health authorities registered approximately 2,000 excess deaths linked to an intense heat wave that swept the country from late June through mid-July 2026, with delayed administrative reporting suggesting the final toll may rise further. The figures add to a growing body of evidence that extreme heat is now one of Europe's leading seasonal public health risks, with summer mortality rates increasing sharply against pre-industrial baselines. Climate scientists warned such lethal events could occur multiple times per decade in Central and Western Europe by the 2040s without deeper emissions cuts. [Reuters](https://www.reuters.com/)
+
+> [!note]- Tech: Oracle to cut 30,000 employees to fund $500B Stargate AI infrastructure push (AIToolsRecap)
+> Oracle announced plans to eliminate up to 30,000 employees as it redirects capital into the $500 billion Stargate AI infrastructure partnership — among the starkest illustrations yet of how frontier AI hardware investment is being funded across the enterprise software industry. The cuts follow Microsoft's 4,800 and Meta's 8,000 job reductions this month, all explicitly linked to AI pivots, pushing 2026's tech-sector layoff count well past 200,000. Analysts noted the scale signals that AI infrastructure now carries sufficient strategic premium to justify mass displacement even at mature, profitable software companies. [AIToolsRecap](https://aitoolsrecap.com/Blog/AINewsJuly2026.aspx)
+
+> [!note]- Science: AI tool flags integrity issues in 250,000 of 2.6 million cancer research papers (ScienceDaily)
+> Researchers deployed a large-scale AI tool to screen 2.6 million cancer research papers published between 1999 and 2024, identifying more than 250,000 studies — roughly one in ten — with potential data-integrity problems including manipulated figures, duplicated results, and statistical anomalies. The analysis represents what experts are calling one of the most sweeping integrity audits in biomedical science, raising urgent questions about peer review standards, publication incentives, and retraction rates. Calls are growing for journals and funding bodies to adopt systematic AI-assisted screening as a standard pre-publication step. [ScienceDaily](https://www.sciencedaily.com/)
+
 > [!note]- [[07-17-26 Fri]]
 > 
 > > [!breaking]- AI: Google Gemini 3.5 Pro launches — 2M-token context, $1.25/M input, undercuts GPT-5.6 Sol 4× as World AI Conference opens in Shanghai (AIToolsRecap)
@@ -105,7 +125,7 @@ unread: true
 > > NASA committed nearly $600 million to four commercial Moon landing missions planned for late 2028, each carrying instruments to improve lunar navigation, study hazardous dust dispersal during landings, and map the radiation environment in preparation for crewed Artemis surface operations. SpaceX separately launched 81 satellites on Transporter-17 from California — the Falcon 9 booster landing on a drone ship at sea. The Africa CDC confirmed an isolated Marburg virus case in Uganda alongside the ongoing DRC Ebola outbreak, marking a rare dual-pathogen emergency in East Africa. [Space.com](https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-transporter-17-rideshare-launch-81-satellites)
 > 
 > > [!note]- NKE: $44.12 (+3.16%); P&L −$1,268; Q4 beat on tariff recovery; analyst avg target $51.30 Buy (Yahoo Finance)
-> > Nike (NKE) gained 3.16% to $44.12 on July 16 (range $42.90–$44.40; 52-wk $40–$80.17) after fiscal Q4 2026 revenue of ~$11.0 billion beat the $10.85 billion consensus, aided by a one-time $986 million tariff recovery that helped stabilise sentiment around a stock down 32% YTD. The 46-share position at an average cost of $71.69 carries an unrealised loss of −$1,268 (46 × −$27.57). Stifel reiterated Hold at $45 flagging low-to-mid single-digit revenue declines through year-end; overall analyst consensus remains Buy at an average 12-month target of $51.30. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
+> > Nike (NKE) gained 3.16% to $44.12 on July 16 (range $42.90–$44.40; 52-wk $40–$80.17) after fiscal Q4 2026 revenue of ~$11.0 billion beat the $10.85 billion consensus, aided by a one-time $986 million tariff recovery that helped stabilised sentiment around a stock down 32% YTD. The 46-share position at an average cost of $71.69 carries an unrealised loss of −$1,268 (46 × −$27.57). Stifel reiterated Hold at $45 flagging low-to-mid single-digit revenue declines through year-end; overall analyst consensus remains Buy at an average 12-month target of $51.30. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
 > 
 > > **Evening update**
 > 
