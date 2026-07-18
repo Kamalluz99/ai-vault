@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-07-19T05:00
+updated: 2026-07-19T05:06
 topic: daily news
 frequency: daily
 ongoing: false
@@ -63,11 +63,11 @@ unread: true
 
 ### [[07-19-26 Sun]]
 
-> [!note]- AI: Autonomous AI agents dominate July 2026 — industry pivots from model size to task completion (ZoneTechify)
-> The defining shift of July 2026 is the industry abandoning raw model-size races in favour of usefulness, cost, and reliability — with autonomous AI agents (systems that complete multi-step workflows without supervision) emerging as the category that moves AI from "answering questions" to "completing work." Inference costs for a GPT-3.5-level model have fallen more than 280-fold since late 2022 and the curve continues steepening, making capable AI economically viable at enterprise scale. The UN Independent International Scientific Panel on AI released its preliminary report this month urging binding global governance frameworks before autonomous systems outpace oversight capacity. [ZoneTechify](https://www.zonetechify.com/blog/ai-news-july-2026-latest-ai-developments)
+> [!breaking]- AI: Kimi K3 — China's Moonshot AI releases 2.8T open-weight model, triggers new DeepSeek shock (VentureBeat)
+> Beijing-based Moonshot AI officially released Kimi K3 on July 16 — a 2.8 trillion parameter mixture-of-experts model and the world's largest open-weight AI to date, featuring a 1M-token context window and native vision. The model outperforms Claude Opus 4.8 and GPT-5.5 on coding and agentic benchmarks, and ranks first in Frontend Code Arena blind testing at 1,679 points, ahead of Claude Fable 5 — with full weights arriving July 27. Markets reacted sharply, with chip stocks entering bear market territory; Axios declared "China just erased America's AI lead" in a direct echo of the January 2025 DeepSeek shock. [VentureBeat](https://venturebeat.com/technology/chinas-moonshot-ai-releases-kimi-k3-the-largest-open-source-model-ever-rivaling-top-u-s-systems)
 
-> [!note]- Tech: TSMC Q2 profit +77% confirmed but shares fell on "priced-in" reads; chip stocks −9% for the week (CNBC)
-> Taiwan Semiconductor's Q2 profit surged 77% year-on-year, topping estimates, yet shares fell ~4% as investors treated the blow-out print as already priced in — the second straight session where strong chip earnings triggered a pullback rather than a rally. Nvidia expanded its physical AI ecosystem in Japan, and Alibaba and Baidu surged in Hong Kong on an Apple AI partnership. The PHLX Semiconductor Index (SOX) slid ~9% for the week, its third decline in four, deepening a divide between AI hardware fundamentals and market sentiment. [CNBC](https://www.cnbc.com/technology/)
+> [!note]- Tech: Sprout Social cuts 20% (260 jobs) as AI reshapes software; 2026 tech layoffs pass 167,000 (Investing.com)
+> Sprout Social (NASDAQ: SPT) laid off approximately 260 employees — 20% of its workforce — after its board approved a restructuring plan on July 8, with CEO Ryan Barretto citing AI's fundamental reshaping of how software companies operate and invest. The cuts add to 2026's brutal tech tally: 460 layoff events so far affecting 167,688 workers year-to-date, with 54% of those events explicitly citing AI as the driver — the highest AI-cited share on record. [Investing.com](https://www.investing.com/news/stock-market-news/sprout-social-cuts-20-of-workforce-in-restructuring-plan-93CH-4793486)
 
 > [!breaking]- Macro: S&P 500 −1.6% weekly, Nasdaq −2.9%; Brent >$85/bbl as US-Iran Hormuz battle escalates (Schwab/CNBC)
 > US equities posted another losing week — S&P 500 −1.6%, Nasdaq −2.9%, Dow −0.9% — as a chip-sector rout, Netflix's 10% post-earnings drop, and surging oil converged. Brent crude extended above $85/bbl as US-Iran strikes slow energy flows through the Strait of Hormuz. Friday close: S&P 500 at 7,457.69 (−1.01%), Nasdaq at 25,520.24 (−1.4%), Dow at 52,146.42 (−407 pts). Consumer pessimism remains elevated at 61% despite earlier CPI relief. [Schwab](https://www.schwab.com/learn/story/stock-market-update-open)
@@ -107,7 +107,7 @@ unread: true
 > > [!note]- NKE: $44.12 (+3.16%, Jul 16); P&L −$1,268; World Cup jersey shortage — 28% sold out, 4× Adidas turnover rate (Yahoo Finance)
 > > Nike (NKE) last closed at $44.12 on July 16 (+3.16% from prev close $42.77), with the 46-share position at an average cost of $71.69 carrying an unrealised loss of −$1,268 (46 × −$27.57). A notable side story: NKE is experiencing significant World Cup jersey shortages — 28% of authenticated World Cup merchandise sold out within two weeks and inventory turned over 4× faster than Adidas, prompting emergency restocking after the US team's exit. Analyst consensus remains Buy at an average 12-month target of $51.30. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
 > 
-> > **Evening update**
+> > > **Evening update**
 > 
 > > [!note]- Singapore & Malaysia: SG moves to block under-18s from platforms failing child safety standards — Josephine Teo (Mothership)
 > > Singapore announced plans to block minors under 18 from accessing social media platforms that do not meet child safety standards, with Minister for Digital Development and Information Josephine Teo leading the regulatory push. Platforms would need to implement robust age-verification and child-protection measures or risk exclusion for young users — one of Southeast Asia's firmest government stances on minors' digital safety to date. The move aligns Singapore with Australia's social media restrictions and signals a broader regional rethink of Big Tech's obligations toward young users. [Mothership](https://mothership.sg/)
