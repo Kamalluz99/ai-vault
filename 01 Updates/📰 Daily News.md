@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-07-20T05:00
+updated: 2026-07-20T05:05
 topic: daily news
 frequency: daily
 ongoing: false
@@ -63,26 +63,23 @@ unread: true
 
 ### [[07-20-26 Mon]]
 
-> [!breaking]- World: Iran hits US bases in Bahrain & Jordan; Trump reinstates Hormuz naval blockade with 20% ship fee (Al Jazeera)
-> Iran's IRGC launched a second wave of retaliatory strikes hitting the Sheikh Isa Air Base in Bahrain and Prince Hassan Air Base in Jordan, while also striking three Kuwait land border posts and an offshore Kuwait Oil Company rig. Trump announced the naval blockade resumes and reinstated a 20% fee on ships transiting the Strait of Hormuz, his second such move of the conflict. The escalation came after US forces reported their first military deaths since March following the resumption of hostilities this weekend. [Al Jazeera](https://www.aljazeera.com/news/)
+> [!note]- AI: US House advances 10 bipartisan AI bills in single markup session (Mintz)
+> The House Science, Space, and Technology Committee advanced ten bipartisan AI bills in a single markup session — spanning AI research access, cybersecurity, workforce development, transparency requirements, and data centre energy standards. Separately, Claude Fable 5 became available today to Anthropic Max and Team Premium subscribers at 50% of usage limits, and Claude Sonnet 5 API intro pricing is set at $2/M input and $10/M output tokens through August 31. [Mintz](https://www.mintz.com/insights-center/viewpoints/54941/2026-07-08-ai-washington-report-july-2026-edition)
 
-> [!note]- AI: Xi's intergovernmental AI alliance formally launched; 200+ Nobel laureates urge urgent governance action (Al Jazeera)
-> China's President Xi Jinping launched a new intergovernmental AI cooperation organisation on July 16, urging nations to ensure no single country dominates AI and to jointly develop safe, beneficial global regulation. More than 200 economists and 16 Nobel laureates co-signed an open letter demanding policymakers act now on AI's economic impact — the highest-profile coordinated expert warning of 2026. Both developments signal the global governance race is now running parallel to the technical one. [Al Jazeera](https://www.aljazeera.com/news/2026/7/17/chinas-xi-jinping-launches-new-ai-alliance-what-is-it)
+> [!note]- Tech: AI now drives 54% of 2026 tech layoffs — 201,754 workers cut; Sprout Social latest with 20% reduction (TechCrunch)
+> As of mid-July 2026, tech companies have eliminated 201,754 jobs across 302 events — more than 1,024 cuts per day — with AI explicitly cited in 54% of cases, the highest share ever recorded. Sprout Social became the latest casualty on July 16, cutting 20% of its workforce in an AI-driven restructuring. Oracle's 30,000-person cut remains the year's single largest, while total 2026 tech job losses are on pace to surpass the 2022–2023 wave. [TechCrunch](https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/)
 
-> [!note]- Tech: Anthropic signs 20-year $19B AI campus lease with TeraWulf; Apple loses EU DMA gatekeeper appeal (StyleTech)
-> Anthropic locked in a 20-year lease with TeraWulf for a dedicated AI infrastructure campus in Hawesville, Kentucky, expected to generate approximately $19 billion in contracted revenue over the initial term, making it one of the largest AI infrastructure commitments by a frontier lab. Apple simultaneously lost its EU General Court challenge to the Digital Markets Act, cementing iOS and App Store obligations as gatekeeper services. Tencent also released Hy3, a 295-billion-parameter open-weight model under Apache 2.0. [StyleTech](https://www.styletech.net/post/top-news-in-tech-july-2026)
+> [!breaking]- World: US completes second wave of Iran strikes; NATO Ankara summit pledges €50B+ rearmament (CNN)
+> The US military completed a second wave of strikes on Iran targeting capabilities to threaten Strait of Hormuz shipping, while VP JD Vance simultaneously signalled the war "will not be won through military force alone" and defended ongoing diplomatic tracks. At NATO's Ankara summit, all 32 members pledged €50 billion in joint military procurement and $40 billion over five years for aerial and drone technology, plus a new €70 billion Ukraine aid package — the alliance's biggest rearmament commitment in decades. [CNN](https://www.cnn.com/2026/07/15/world/live-news/iran-war-trump)
 
-> [!note]- Macro: Week opens with chips down 20% from highs, oil above $80 on Iran escalation — no major data due Monday (CNBC/IG)
-> US equity markets enter the week under pressure from a 20% decline in semiconductor stocks from recent highs, oil spiking back above $80/barrel on renewed US-Iran hostilities, and Netflix down 10% post-earnings. No major scheduled earnings or economic data are due on Monday; key catalysts arrive from Tuesday onwards. The IMF's July WEO frames 2026 growth at 3.0% as "Crosscurrents of War and Technology." [CNBC](https://www.cnbc.com/2026/07/17/stock-market-next-week-outlook-for-july-20-24-2026.html)
+> [!note]- Macro: Markets recover — S&P +0.38% to 7,572; Brent $78/bbl; gold slides to $4,030 (CNBC)
+> US equities staged a modest recovery with the S&P 500 up 0.38% to 7,572.40, the Nasdaq up 0.62%, and the Dow up 0.29% to 52,658 as cooling inflation data lifted sentiment. International Brent crude held near $78.19 per barrel on Iran tensions, while gold — which briefly hit a record $5,626.80 — fell 0.6% to $4,030.25 per ounce, now down more than 20% since the conflict began in late February as the geopolitical risk premium deflates. [CNBC](https://www.cnbc.com/2026/07/14/stock-market-today-live-updates.html)
 
-> [!note]- Malaysia/Singapore: NS election campaigns begin — 103 candidates confirmed for Aug 1 poll; PM Anwar warns officials on discipline (The Star)
-> Campaigns for the Negeri Sembilan state election (August 1) are underway after 103 candidates were confirmed across all 36 seats on July 18 nomination day, featuring multi-cornered fights and a potential PAS-BN electoral pact that Bersatu's Muhyiddin has publicly condemned as a betrayal of coalition protocol. Prime Minister Anwar reminded government officials to observe discipline and refrain from attacking the federal government while campaigning. The NS poll is the next key electoral test for the Madani coalition after BN's Johor landslide. [The Star](https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/18/asean-news-headlines-at-10pm-on-saturday-july-18-2026)
+> [!note]- Malaysia: Fire destroys 200+ homes in Sabah's Kampung Bahagia floating village (Malay Mail)
+> A massive blaze tore through Kampung Bahagia, a floating village community in Sabah, destroying more than 200 homes and displacing hundreds of residents — one of the worst fires to hit Sabah's water village communities in recent years. Emergency relief operations are underway, with authorities coordinating temporary shelter and aid for affected families while investigating the cause. [Malay Mail](https://www.malaymail.com/news/malaysia)
 
-> [!note]- Science: AI tool flags potential integrity crisis in 2.6M cancer papers; Cascadia quake may trigger San Andreas fault (ScienceDaily)
-> A powerful new AI analysis of 2.6 million cancer research papers published between 1999 and 2024 uncovered what researchers describe as one of the biggest data-integrity problems in modern biomedical science, flagging widespread statistical anomalies and duplicated images across decades of published work. Separately, geologists found evidence that a major Cascadia subduction zone earthquake could trigger a secondary event on the San Andreas Fault, raising new multi-fault hazard assessments for the US West Coast. [ScienceDaily](https://www.sciencedaily.com/)
-
-> [!note]- NKE: $43.76 (−1.82%, Jul 18 close); P&L −$1,285 — Q4 beat offset by weak guidance; Greater China −17% (Yahoo Finance)
-> Nike (NKE) closed at $43.76 on Friday July 18 (−1.82%), dragged by the broad market selloff on oil and chip weakness. The 46-share position at a $71.69 average cost carries an unrealised loss of −$1,285 (46 × −$27.93). Q4 EPS of $0.20 beat the $0.12 estimate, but management guided for low-to-mid single-digit revenue declines over the next three quarters with Greater China down 17% and NIKE Direct down 9%; analyst consensus stays Buy near a $51 average target. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
+> [!note]- Science: NASA's Perseverance rover completes a full marathon — 26.2 miles driven across Mars (SciTechDaily)
+> NASA's Perseverance rover hit a milestone on Mars, having driven 26.2 miles across the Martian surface since its February 2021 landing — the equivalent of a full marathon. The rover continues its primary science mission in the ancient river delta of Jezero Crater, collecting rock samples for eventual Earth return. The achievement highlights the durability of its drivetrain across five-plus years in extreme Martian conditions. [SciTechDaily](https://scitechdaily.com/)
 
 > [!note]- [[07-19-26 Sun]]
 > 
