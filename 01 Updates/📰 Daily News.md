@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-07-20T19:05
+updated: 2026-07-21T05:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -61,45 +61,69 @@ unread: true
 
 ## 2026-07
 
-### [[07-20-26 Mon]]
+### [[07-21-26 Tue]]
 
-> [!note]- AI: US House advances 10 bipartisan AI bills in single markup session (Mintz)
-> The House Science, Space, and Technology Committee advanced ten bipartisan AI bills in a single markup session — spanning AI research access, cybersecurity, workforce development, transparency requirements, and data centre energy standards. Separately, Claude Fable 5 became available today to Anthropic Max and Team Premium subscribers at 50% of usage limits, and Claude Sonnet 5 API intro pricing is set at $2/M input and $10/M output tokens through August 31. [Mintz](https://www.mintz.com/insights-center/viewpoints/54941/2026-07-08-ai-washington-report-july-2026-edition)
+> [!note]- AI: World AI Conference closes with 29-nation AI Cooperation Org; Kimi K3 tops coding leaderboard (CNBC)
+> The 2026 World AI Conference in Shanghai closed July 20 after Xi Jinping's first-ever keynote, launching the World Artificial Intelligence Cooperation Organization with 29 founding countries. Moonshot AI's Kimi K3 — a 2.8-trillion-parameter open-weight model — claimed the top spot on a major coding leaderboard, reigniting US-China AI rivalry debate ahead of full weights releasing July 27. Enterprises now evaluate GPT-5.6, Claude, Grok 4.5, and Kimi K3 as competing frontier choices. [CNBC](https://www.cnbc.com/2026/07/17/moonshot-ai-kimi-k3-model-openai-anthropic-china.html)
 
-> [!note]- Tech: AI now drives 54% of 2026 tech layoffs — 201,754 workers cut; Sprout Social latest with 20% reduction (TechCrunch)
-> As of mid-July 2026, tech companies have eliminated 201,754 jobs across 302 events — more than 1,024 cuts per day — with AI explicitly cited in 54% of cases, the highest share ever recorded. Sprout Social became the latest casualty on July 16, cutting 20% of its workforce in an AI-driven restructuring. Oracle's 30,000-person cut remains the year's single largest, while total 2026 tech job losses are on pace to surpass the 2022–2023 wave. [TechCrunch](https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/)
+> [!breaking]- Tech: Netflix −10%+ on Q2 earnings miss; SOX chip index down ~20% from June peak (CNBC)
+> Netflix plunged more than 10% after Q2 revenue of $12.56 billion narrowly missed consensus and Q3 guidance came in below expectations, compounding an already bruising week for the chip sector. The PHLX Semiconductor Index (SOX) sits ~20% below its late-June peak as rotation turns firmly from AI-infrastructure plays toward financials, industrials, and energy. Major earnings due July 21 include 3M, General Motors, Northrop Grumman, and Danaher. [CNBC](https://www.cnbc.com/markets/)
 
-> [!breaking]- World: US completes second wave of Iran strikes; NATO Ankara summit pledges €50B+ rearmament (CNN)
-> The US military completed a second wave of strikes on Iran targeting capabilities to threaten Strait of Hormuz shipping, while VP JD Vance simultaneously signalled the war "will not be won through military force alone" and defended ongoing diplomatic tracks. At NATO's Ankara summit, all 32 members pledged €50 billion in joint military procurement and $40 billion over five years for aerial and drone technology, plus a new €70 billion Ukraine aid package — the alliance's biggest rearmament commitment in decades. [CNN](https://www.cnn.com/2026/07/15/world/live-news/iran-war-trump)
+> [!note]- Macro: Markets lower — chip rout, Brent ~$91/bbl, and Netflix miss form "three-headed monster" (Schwab)
+> A chip-sector selloff, rising oil prices on Middle East tensions (Brent ~$90.97/bbl after ninth night of Iran strikes), and Netflix's earnings drop are dragging US equities lower heading into the week. The Federal Reserve holds at 3.50–3.75% with no forward guidance as energy-driven inflation keeps rate-cut expectations subdued into Q3. Rotation out of growth/tech into value sectors is accelerating. [Schwab](https://www.schwab.com/learn/story/stock-market-update-open)
 
-> [!note]- Macro: Markets recover — S&P +0.38% to 7,572; Brent $78/bbl; gold slides to $4,030 (CNBC)
-> US equities staged a modest recovery with the S&P 500 up 0.38% to 7,572.40, the Nasdaq up 0.62%, and the Dow up 0.29% to 52,658 as cooling inflation data lifted sentiment. International Brent crude held near $78.19 per barrel on Iran tensions, while gold — which briefly hit a record $5,626.80 — fell 0.6% to $4,030.25 per ounce, now down more than 20% since the conflict began in late February as the geopolitical risk premium deflates. [CNBC](https://www.cnbc.com/2026/07/14/stock-market-today-live-updates.html)
+> [!breaking]- World: Andy Burnham sworn in as UK PM; Russia fires 41 missiles + 125 drones at Ukraine overnight (Wikipedia)
+> Andy Burnham, former Greater Manchester Mayor, was sworn in as UK Prime Minister on Monday, succeeding Keir Starmer in a Labour leadership transition. Russia overnight launched 41 missiles and 125 attack drones across Ukraine — one of the heavier combined bombardments of 2026, according to the Ukrainian air force. Spain beat Argentina 1–0 in extra time to win the 2026 FIFA World Cup Final on July 19 with ~1.5 billion viewers. [Wikipedia](https://en.wikipedia.org/wiki/Portal:Current_events/July_2026)
 
-> [!note]- Malaysia: Fire destroys 200+ homes in Sabah's Kampung Bahagia floating village (Malay Mail)
-> A massive blaze tore through Kampung Bahagia, a floating village community in Sabah, destroying more than 200 homes and displacing hundreds of residents — one of the worst fires to hit Sabah's water village communities in recent years. Emergency relief operations are underway, with authorities coordinating temporary shelter and aid for affected families while investigating the cause. [Malay Mail](https://www.malaymail.com/news/malaysia)
+> [!note]- Malaysia/Singapore: NS state election campaign open — 103 candidates, 36 seats, polling August 1 (The Star)
+> The Negeri Sembilan state election campaign is underway after nomination day confirmed 103 candidates across all 36 state seats, with polling on August 1. BN rides Johor landslide momentum as PAS holds quiet coalition talks with BN despite Bersatu's Muhyiddin Yassin publicly condemning the move as a betrayal. PM Anwar Ibrahim warned government officials to maintain discipline during the campaign. [The Star](https://elections.thestar.com.my/)
 
-> [!note]- Science: NASA's Perseverance rover completes a full marathon — 26.2 miles driven across Mars (SciTechDaily)
-> NASA's Perseverance rover hit a milestone on Mars, having driven 26.2 miles across the Martian surface since its February 2021 landing — the equivalent of a full marathon. The rover continues its primary science mission in the ancient river delta of Jezero Crater, collecting rock samples for eventual Earth return. The achievement highlights the durability of its drivetrain across five-plus years in extreme Martian conditions. [SciTechDaily](https://scitechdaily.com/)
+> [!note]- Science: HKU AI blood test gives early cardiac warning; lost Australian marsupial lineage discovered (ScienceDaily)
+> Researchers at the University of Hong Kong developed an AI-powered blood test that can detect serious heart and circulation problems remarkably early. Separately, Queensland fossils revealed a previously unknown branch of Australian marsupials — a newly recognised order estimated to have survived for ~35 million years, reshaping the picture of Australasian mammal evolution. [ScienceDaily](https://www.sciencedaily.com/)
 
-> **Evening update**
+> [!note]- NKE: $43.21 (−1.23%); P&L −$1,310 — analyst targets cut amid soft sportswear demand (Yahoo Finance)
+> Nike (NKE) last closed at $43.21 (−1.23%, July 20), with the 46-share position at an average cost of $71.69 carrying an unrealised loss of −$1,310 (46 × −$28.48). The 52-week range is $40.00–$80.17; stock sits ~46% below its high. Multiple analyst price target reductions landed in early July on soft sportswear demand and strained wholesale relationships; consensus remains Buy at an average 12-month target of $51.12. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
 
-> [!note]- Singapore & Malaysia: Tharman's Malaysia state visit bolsters Johor-Singapore SEZ partnership (AsiaNews)
-> Singapore President Tharman Shanmugaratnam's first state visit to Malaysia (July 12–15) advanced cooperation on food security, energy, and the Johor-Singapore Special Economic Zone — a flagship joint initiative to attract manufacturing and innovation investment to southern Peninsular Malaysia. The two nations reaffirmed plans to deepen cross-border connectivity as geopolitical pressures from the US-Iran conflict and US-China rivalry heighten supply-chain risks for both. [AsiaNews](https://www.asianews.it/en/south-east-asia/malaysia/singapore-and-malaysia-strengthen-cooperation-in-the-face-of-global-crises)
-
-> [!note]- Malaysia: Deputy PM Zahid eyes hosting FIFA World Cup for Malaysia (Khao Sod English)
-> Speaking at a public viewing of the 2026 World Cup Final between Argentina and Spain on Sunday, Deputy Prime Minister Ahmad Zahid Hamidi declared that Malaysia hopes to one day host the FIFA World Cup and have its national team qualify to represent Southeast Asia on the global stage. The statement came as the 2026 tournament — co-hosted by the US, Canada, and Mexico at MetLife Stadium — concluded with an estimated 1.5 billion viewers watching the final. [Khao Sod English](https://www.khaosodenglish.com/news/asean/2026/07/20/malaysia-hopes-to-host-fifa-world-cup-deputy-pm-says/)
-
-> [!breaking]- World: US service member killed in Iraq as Iran strikes enter second week (CBS News)
-> An American service member was killed in Iraq on Monday as US military operations against Iran entered their second week, bringing confirmed US fatalities to at least three killed and one missing in action since strikes began in mid-July. The Strait of Hormuz remains effectively closed, and President Trump has been briefed on expanded options potentially including Iranian energy infrastructure, as all diplomatic tracks have stalled. [CBS News](https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-attacks-persian-gulf/)
-
-> [!note]- World: Wildfire smoke blankets US East Coast — millions face hazardous air quality alerts (CBS News)
-> Heavy smoke from large wildfires burning in Canada and Minnesota has drifted across wide swaths of the US Midwest and East Coast, triggering air quality alerts for millions of residents and prompting health authorities to advise limiting outdoor activity. The event is one of 2026’s most geographically extensive smoke episodes, adding to a summer of compounding climate-linked disruptions across North America. [CBS News](https://www.cbsnews.com/news/wildfires-smoke-millions-exposed-midwest-northeast-us/)
-
-> [!note]- Tech: OpenAI proposes $42.6B government stake; Anthropic in talks with Samsung for 2nm AI chip (ZoneTechify)
-> OpenAI has proposed giving the US government a 5% equity stake — worth approximately $42.6 billion at its $852 billion valuation — with CEO Sam Altman pitching the idea directly to President Trump and senior cabinet members, deepening ties between frontier AI labs and federal power. Separately, Anthropic is in preliminary discussions with Samsung Electronics to manufacture a custom AI accelerator using Samsung’s 2nm process, which would make Anthropic one of only a handful of AI labs with a proprietary silicon roadmap. [ZoneTechify](https://www.zonetechify.com/blog/ai-news-july-2026-latest-ai-developments)
-
-> [!breaking]- Economy: Brent crude surges to $90.97/bbl on 9th night of Iran strikes; ECB eyes second rate hike (Rio Times)
-> Brent crude jumped 3.3% to $90.97 a barrel in Monday Asian trading as US strikes against Iran entered a ninth straight night, rekindling a full supply-risk premium and pushing the Bloomberg dollar index to its highest since early February while markets trimmed implied Fed rate cuts to 56 basis points. The European Central Bank — which already hiked to 2.25% in June — is now gaming out a second consecutive rate increase as sustained oil prices threaten to re-ignite European inflation. The IMF’s July 2026 World Economic Outlook projects global growth at 3.0% this year, with energy-importing economies bearing the steepest headwinds from the Gulf conflict. [Rio Times](https://www.riotimesonline.com/global-economy-briefing-july-20-2026/)
+> [!note]- [[07-20-26 Mon]]
+> 
+> 
+> > [!note]- AI: US House advances 10 bipartisan AI bills in single markup session (Mintz)
+> > The House Science, Space, and Technology Committee advanced ten bipartisan AI bills in a single markup session — spanning AI research access, cybersecurity, workforce development, transparency requirements, and data centre energy standards. Separately, Claude Fable 5 became available today to Anthropic Max and Team Premium subscribers at 50% of usage limits, and Claude Sonnet 5 API intro pricing is set at $2/M input and $10/M output tokens through August 31. [Mintz](https://www.mintz.com/insights-center/viewpoints/54941/2026-07-08-ai-washington-report-july-2026-edition)
+> 
+> > [!note]- Tech: AI now drives 54% of 2026 tech layoffs — 201,754 workers cut; Sprout Social latest with 20% reduction (TechCrunch)
+> > As of mid-July 2026, tech companies have eliminated 201,754 jobs across 302 events — more than 1,024 cuts per day — with AI explicitly cited in 54% of cases, the highest share ever recorded. Sprout Social became the latest casualty on July 16, cutting 20% of its workforce in an AI-driven restructuring. Oracle's 30,000-person cut remains the year's single largest, while total 2026 tech job losses are on pace to surpass the 2022–2023 wave. [TechCrunch](https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/)
+> 
+> > [!breaking]- World: US completes second wave of Iran strikes; NATO Ankara summit pledges €50B+ rearmament (CNN)
+> > The US military completed a second wave of strikes on Iran targeting capabilities to threaten Strait of Hormuz shipping, while VP JD Vance simultaneously signalled the war "will not be won through military force alone" and defended ongoing diplomatic tracks. At NATO's Ankara summit, all 32 members pledged €50 billion in joint military procurement and $40 billion over five years for aerial and drone technology, plus a new €70 billion Ukraine aid package — the alliance's biggest rearmament commitment in decades. [CNN](https://www.cnn.com/2026/07/15/world/live-news/iran-war-trump)
+> 
+> > [!note]- Macro: Markets recover — S&P +0.38% to 7,572; Brent $78/bbl; gold slides to $4,030 (CNBC)
+> > US equities staged a modest recovery with the S&P 500 up 0.38% to 7,572.40, the Nasdaq up 0.62%, and the Dow up 0.29% to 52,658 as cooling inflation data lifted sentiment. International Brent crude held near $78.19 per barrel on Iran tensions, while gold — which briefly hit a record $5,626.80 — fell 0.6% to $4,030.25 per ounce, now down more than 20% since the conflict began in late February as the geopolitical risk premium deflates. [CNBC](https://www.cnbc.com/2026/07/14/stock-market-today-live-updates.html)
+> 
+> > [!note]- Malaysia: Fire destroys 200+ homes in Sabah's Kampung Bahagia floating village (Malay Mail)
+> > A massive blaze tore through Kampung Bahagia, a floating village community in Sabah, destroying more than 200 homes and displacing hundreds of residents — one of the worst fires to hit Sabah's water village communities in recent years. Emergency relief operations are underway, with authorities coordinating temporary shelter and aid for affected families while investigating the cause. [Malay Mail](https://www.malaymail.com/news/malaysia)
+> 
+> > [!note]- Science: NASA's Perseverance rover completes a full marathon — 26.2 miles driven across Mars (SciTechDaily)
+> > NASA's Perseverance rover hit a milestone on Mars, having driven 26.2 miles across the Martian surface since its February 2021 landing — the equivalent of a full marathon. The rover continues its primary science mission in the ancient river delta of Jezero Crater, collecting rock samples for eventual Earth return. The achievement highlights the durability of its drivetrain across five-plus years in extreme Martian conditions. [SciTechDaily](https://scitechdaily.com/)
+> 
+> > **Evening update**
+> 
+> > [!note]- Singapore & Malaysia: Tharman's Malaysia state visit bolsters Johor-Singapore SEZ partnership (AsiaNews)
+> > Singapore President Tharman Shanmugaratnam's first state visit to Malaysia (July 12–15) advanced cooperation on food security, energy, and the Johor-Singapore Special Economic Zone — a flagship joint initiative to attract manufacturing and innovation investment to southern Peninsular Malaysia. The two nations reaffirmed plans to deepen cross-border connectivity as geopolitical pressures from the US-Iran conflict and US-China rivalry heighten supply-chain risks for both. [AsiaNews](https://www.asianews.it/en/south-east-asia/malaysia/singapore-and-malaysia-strengthen-cooperation-in-the-face-of-global-crises)
+> 
+> > [!note]- Malaysia: Deputy PM Zahid eyes hosting FIFA World Cup for Malaysia (Khao Sod English)
+> > Speaking at a public viewing of the 2026 World Cup Final between Argentina and Spain on Sunday, Deputy Prime Minister Ahmad Zahid Hamidi declared that Malaysia hopes to one day host the FIFA World Cup and have its national team qualify to represent Southeast Asia on the global stage. The statement came as the 2026 tournament — co-hosted by the US, Canada, and Mexico at MetLife Stadium — concluded with an estimated 1.5 billion viewers watching the final. [Khao Sod English](https://www.khaosodenglish.com/news/asean/2026/07/20/malaysia-hopes-to-host-fifa-world-cup-deputy-pm-says/)
+> 
+> > [!breaking]- World: US service member killed in Iraq as Iran strikes enter second week (CBS News)
+> > An American service member was killed in Iraq on Monday as US military operations against Iran entered their second week, bringing confirmed US fatalities to at least three killed and one missing in action since strikes began in mid-July. The Strait of Hormuz remains effectively closed, and President Trump has been briefed on expanded options potentially including Iranian energy infrastructure, as all diplomatic tracks have stalled. [CBS News](https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-attacks-persian-gulf/)
+> 
+> > [!note]- World: Wildfire smoke blankets US East Coast — millions face hazardous air quality alerts (CBS News)
+> > Heavy smoke from large wildfires burning in Canada and Minnesota has drifted across wide swaths of the US Midwest and East Coast, triggering air quality alerts for millions of residents and prompting health authorities to advise limiting outdoor activity. The event is one of 2026’s most geographically extensive smoke episodes, adding to a summer of compounding climate-linked disruptions across North America. [CBS News](https://www.cbsnews.com/news/wildfires-smoke-millions-exposed-midwest-northeast-us/)
+> 
+> > [!note]- Tech: OpenAI proposes $42.6B government stake; Anthropic in talks with Samsung for 2nm AI chip (ZoneTechify)
+> > OpenAI has proposed giving the US government a 5% equity stake — worth approximately $42.6 billion at its $852 billion valuation — with CEO Sam Altman pitching the idea directly to President Trump and senior cabinet members, deepening ties between frontier AI labs and federal power. Separately, Anthropic is in preliminary discussions with Samsung Electronics to manufacture a custom AI accelerator using Samsung’s 2nm process, which would make Anthropic one of only a handful of AI labs with a proprietary silicon roadmap. [ZoneTechify](https://www.zonetechify.com/blog/ai-news-july-2026-latest-ai-developments)
+> 
+> > [!breaking]- Economy: Brent crude surges to $90.97/bbl on 9th night of Iran strikes; ECB eyes second rate hike (Rio Times)
+> > Brent crude jumped 3.3% to $90.97 a barrel in Monday Asian trading as US strikes against Iran entered a ninth straight night, rekindling a full supply-risk premium and pushing the Bloomberg dollar index to its highest since early February while markets trimmed implied Fed rate cuts to 56 basis points. The European Central Bank — which already hiked to 2.25% in June — is now gaming out a second consecutive rate increase as sustained oil prices threaten to re-ignite European inflation. The IMF’s July 2026 World Economic Outlook projects global growth at 3.0% this year, with energy-importing economies bearing the steepest headwinds from the Gulf conflict. [Rio Times](https://www.riotimesonline.com/global-economy-briefing-july-20-2026/)
 
 > [!note]- [[07-19-26 Sun]]
 > 
