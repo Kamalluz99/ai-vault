@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-07-20T05:11
+updated: 2026-07-20T19:05
 topic: daily news
 frequency: daily
 ongoing: false
@@ -80,6 +80,26 @@ unread: true
 
 > [!note]- Science: NASA's Perseverance rover completes a full marathon — 26.2 miles driven across Mars (SciTechDaily)
 > NASA's Perseverance rover hit a milestone on Mars, having driven 26.2 miles across the Martian surface since its February 2021 landing — the equivalent of a full marathon. The rover continues its primary science mission in the ancient river delta of Jezero Crater, collecting rock samples for eventual Earth return. The achievement highlights the durability of its drivetrain across five-plus years in extreme Martian conditions. [SciTechDaily](https://scitechdaily.com/)
+
+> **Evening update**
+
+> [!note]- Singapore & Malaysia: Tharman's Malaysia state visit bolsters Johor-Singapore SEZ partnership (AsiaNews)
+> Singapore President Tharman Shanmugaratnam's first state visit to Malaysia (July 12–15) advanced cooperation on food security, energy, and the Johor-Singapore Special Economic Zone — a flagship joint initiative to attract manufacturing and innovation investment to southern Peninsular Malaysia. The two nations reaffirmed plans to deepen cross-border connectivity as geopolitical pressures from the US-Iran conflict and US-China rivalry heighten supply-chain risks for both. [AsiaNews](https://www.asianews.it/en/south-east-asia/malaysia/singapore-and-malaysia-strengthen-cooperation-in-the-face-of-global-crises)
+
+> [!note]- Malaysia: Deputy PM Zahid eyes hosting FIFA World Cup for Malaysia (Khao Sod English)
+> Speaking at a public viewing of the 2026 World Cup Final between Argentina and Spain on Sunday, Deputy Prime Minister Ahmad Zahid Hamidi declared that Malaysia hopes to one day host the FIFA World Cup and have its national team qualify to represent Southeast Asia on the global stage. The statement came as the 2026 tournament — co-hosted by the US, Canada, and Mexico at MetLife Stadium — concluded with an estimated 1.5 billion viewers watching the final. [Khao Sod English](https://www.khaosodenglish.com/news/asean/2026/07/20/malaysia-hopes-to-host-fifa-world-cup-deputy-pm-says/)
+
+> [!breaking]- World: US service member killed in Iraq as Iran strikes enter second week (CBS News)
+> An American service member was killed in Iraq on Monday as US military operations against Iran entered their second week, bringing confirmed US fatalities to at least three killed and one missing in action since strikes began in mid-July. The Strait of Hormuz remains effectively closed, and President Trump has been briefed on expanded options potentially including Iranian energy infrastructure, as all diplomatic tracks have stalled. [CBS News](https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-attacks-persian-gulf/)
+
+> [!note]- World: Wildfire smoke blankets US East Coast — millions face hazardous air quality alerts (CBS News)
+> Heavy smoke from large wildfires burning in Canada and Minnesota has drifted across wide swaths of the US Midwest and East Coast, triggering air quality alerts for millions of residents and prompting health authorities to advise limiting outdoor activity. The event is one of 2026’s most geographically extensive smoke episodes, adding to a summer of compounding climate-linked disruptions across North America. [CBS News](https://www.cbsnews.com/news/wildfires-smoke-millions-exposed-midwest-northeast-us/)
+
+> [!note]- Tech: OpenAI proposes $42.6B government stake; Anthropic in talks with Samsung for 2nm AI chip (ZoneTechify)
+> OpenAI has proposed giving the US government a 5% equity stake — worth approximately $42.6 billion at its $852 billion valuation — with CEO Sam Altman pitching the idea directly to President Trump and senior cabinet members, deepening ties between frontier AI labs and federal power. Separately, Anthropic is in preliminary discussions with Samsung Electronics to manufacture a custom AI accelerator using Samsung’s 2nm process, which would make Anthropic one of only a handful of AI labs with a proprietary silicon roadmap. [ZoneTechify](https://www.zonetechify.com/blog/ai-news-july-2026-latest-ai-developments)
+
+> [!breaking]- Economy: Brent crude surges to $90.97/bbl on 9th night of Iran strikes; ECB eyes second rate hike (Rio Times)
+> Brent crude jumped 3.3% to $90.97 a barrel in Monday Asian trading as US strikes against Iran entered a ninth straight night, rekindling a full supply-risk premium and pushing the Bloomberg dollar index to its highest since early February while markets trimmed implied Fed rate cuts to 56 basis points. The European Central Bank — which already hiked to 2.25% in June — is now gaming out a second consecutive rate increase as sustained oil prices threaten to re-ignite European inflation. The IMF’s July 2026 World Economic Outlook projects global growth at 3.0% this year, with energy-importing economies bearing the steepest headwinds from the Gulf conflict. [Rio Times](https://www.riotimesonline.com/global-economy-briefing-july-20-2026/)
 
 > [!note]- [[07-19-26 Sun]]
 > 
