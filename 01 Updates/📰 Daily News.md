@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-07-21T05:08
+updated: 2026-07-21T19:04
 topic: daily news
 frequency: daily
 ongoing: false
@@ -80,6 +80,26 @@ unread: true
 
 > [!note]- Science: KCL-286 — spinal cord drug repairs DNA damage in Alzheimer's mouse models (ScienceDaily)
 > King's College London researchers found that KCL-286, a retinoic acid receptor-β agonist already cleared in Phase 1 human safety trials for spinal cord injury, significantly repaired DNA damage, reduced neuroinflammation, and targeted multiple Alzheimer's pathways simultaneously in mouse models. Unlike amyloid- or tau-focused drugs, KCL-286 addresses DNA damage and inflammation that occur in the earliest disease stages, and its existing human safety data could allow faster entry into Alzheimer's clinical trials than a de novo compound. Published in FEBS Open Bio, the study adds to mounting evidence that DNA damage repair is a viable therapeutic target in neurodegeneration. [ScienceDaily](https://www.sciencedaily.com/releases/2026/07/260711010118.htm)
+
+> **Evening update**
+
+> [!note]- Singapore & Malaysia: JS-SEZ master plan nearing finalisation as RTS Link targets Jan 2027 (NST)
+> Malaysia and Singapore have confirmed strong progress on the Johor-Singapore Special Economic Zone (JS-SEZ), with both governments expecting the master plan to be finalised soon following President Tharman Shanmugaratnam's state visit to Malaysia on July 12–15. PM Anwar Ibrahim highlighted the JS-SEZ and the Johor Bahru–Singapore Rapid Transit System (RTS) Link as twin flagship initiatives deepening cross-border economic integration, with the RTS Link on track to begin commercial operations in January 2027. [NST](https://www.nst.com.my/amp/news/nation/2026/07/1489960/singapore-malaysia-strengthen-ties-through-js-sez-rts-link)
+
+> [!note]- Malaysia: AGC orders formal inquest into 3 men killed in Durian Tunggal police op (Malay Mail)
+> The Attorney General's Chambers has ordered a formal inquest into the deaths of three men fatally shot during a police operation in Durian Tunggal, Melaka on November 24, 2025 — a significant escalation in judicial accountability following sustained public and civil society pressure. The inquest order signals a rare formal review of police use of lethal force in Malaysia and is expected to draw renewed scrutiny of operational protocols and oversight. [Malay Mail](https://www.malaymail.com/news/malaysia)
+
+> [!note]- World: Andy Burnham becomes UK's 7th PM in a decade, replacing Keir Starmer (NPR)
+> Andy Burnham, former Mayor of Greater Manchester, was formally appointed by King Charles as the United Kingdom's 59th Prime Minister on Monday, succeeding Sir Keir Starmer who resigned the Labour leadership in June after less than two years in Downing Street. Burnham ran unopposed in the Labour contest, pledging to "end instability," and appointed John Healey as Chancellor, Ed Miliband as Foreign Secretary, and Wes Streeting as Defence Secretary — while President Trump immediately labelled Britain a "poverty stricken disaster." [NPR](https://www.npr.org/2026/07/19/nx-s1-5895993/andy-burnham-prime-minister-keir-starmer)
+
+> [!note]- World: Trump imposes 50% tariffs on Canada over autos, alcohol and dairy (Anadolu Agency)
+> President Donald Trump has imposed 50% tariffs on most Canadian goods, citing what he called unfair Canadian discrimination against American automobiles, alcohol, and dairy products — a sharp escalation in the US-Canada trade relationship. The sweeping new duties add to a widening web of US trade barriers and come at a moment when Canada faces mounting pressure to align more closely with Washington on trade and security as the Gulf conflict strains global supply chains. [Anadolu Agency](https://aa.com.tr/en/world/morning-briefing-july-21-2026/4004218)
+
+> [!note]- Tech: 2026 World AI Conference closes in Shanghai; Xi keynote launches 29-nation AI cooperation body (UN News)
+> The 2026 World AI Conference in Shanghai concluded on July 20 after four days that included Xi Jinping's first-ever keynote address at an AI summit and the formal launch of the World Artificial Intelligence Cooperation Organization — a new intergovernmental body with 29 founding countries including Russia, Pakistan, and Kazakhstan. The UN has separately issued warnings of "catastrophic harm" from unchecked AI development and is pushing for binding global governance frameworks, as rapid Chinese open-weight model releases intensify the US-China AI race. [UN News](https://news.un.org/en/story/2026/07/1167862)
+
+> [!note]- Economy: IMF cuts 2026 global growth forecast to 3.0% — war weighs on energy importers, AI lifts tech chains (IMF)
+> The IMF's July 2026 World Economic Outlook Update projects global growth at 3.0% for 2026 and 3.4% for 2027, flagging a deeply uneven recovery: the prolonged Gulf conflict continues to depress energy-importing and vulnerable economies, while AI-driven demand is lifting countries deeply integrated into global technology value chains. China's fixed-asset investment fell 4.1% in the first five months of 2026 — the steepest drop since May 2020 — even as its semiconductor exports surged 110% year-on-year on AI-related demand. [IMF](https://www.imf.org/en/publications/weo/issues/2026/07/08/world-economic-outlook-update-july-2026)
 
 > [!note]- [[07-20-26 Mon]]
 > 
