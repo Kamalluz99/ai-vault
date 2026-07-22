@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-07-22T05:07
+updated: 2026-07-22T19:05
 topic: daily news
 frequency: daily
 ongoing: false
@@ -80,6 +80,26 @@ unread: true
 
 > [!note]- Science: Cascadia and San Andreas faults may sync — double quake could hit West Coast simultaneously (Phys.org)
 > Scientists analysing deep-sea sediment cores found evidence that the Cascadia subduction zone and the San Andreas fault have ruptured in tandem at least three times in the past 1,500 years, potentially triggering each other within minutes or hours. The most recent candidate dual rupture was the 1700 Cascadia megathrust event, which would have sent seismic stress crashing down the San Andreas toward San Francisco. A simultaneous rupture of both systems would represent an unprecedented disaster corridor from Vancouver to San Francisco, though experts stress more research is needed before the triggering link is confirmed. [Phys.org](https://phys.org/news/2025-10-cascadia-megathrust-earthquake-trigger-san.html)
+
+> **Evening update**
+
+> [!note]- Singapore & Malaysia: JS-SEZ master plan finalised, Anwar-Lawrence Wong Q4 joint launch set (NST)
+> Malaysia's Economy Ministry confirmed the Johor-Singapore Special Economic Zone (JS-SEZ) master plan is complete, with the formal launch aligned with the Malaysia-Singapore Leaders' Retreat in Q4 2026 to secure the highest-level bilateral commitment from PM Anwar Ibrahim and PM Lawrence Wong. The Johor Bahru–Singapore Rapid Transit System (RTS) Link remains on track for commercial operations in January 2027, deepening cross-border connectivity between the two neighbours. Together the two flagship initiatives represent the most structured deepening of Malaysia-Singapore economic integration in a generation, with annual bilateral trade now exceeding S$120 billion. [NST](https://www.nst.com.my/amp/news/nation/2026/07/1489960/singapore-malaysia-strengthen-ties-through-js-sez-rts-link)
+
+> [!note]- Malaysia: Senate passes Cyber Security Bill 2026 — minimum 3-year jail for offences (The Sun)
+> Malaysia's Senate passed the Cyber Security Bill 2026, establishing a mandatory minimum three-year prison sentence for cybersecurity offences and creating an enforcement framework aligned with international standards. The legislation marks a major step in PM Anwar Ibrahim's Madani government's digital governance agenda and positions Malaysia alongside Singapore and Australia in adopting legally binding minimum sentences for cyber crime. Separately, Anwar held campaign rallies in Seremban and Paroi on Wednesday as the Negeri Sembilan state election enters its final stretch ahead of the August 1 polling day. [The Sun](https://thesun.my/news/malaysia-news/malaysia-senate-passes-cyber-security-bill-2026/)
+
+> [!note]- World: Zelenskyy fires Ukraine army chief Gen. Syrskyi, appoints Drapatyi as new commander (Euronews)
+> Ukrainian President Volodymyr Zelenskyy dismissed Gen. Oleksandr Syrskyi as commander-in-chief of Ukraine's armed forces following days of public protests demanding his removal, and appointed battlefield general Mykhailo Drapatyi as his successor. The leadership change comes as Ukraine defends against sustained Russian advances along the eastern front line, months after relinquishing its last positions inside Russia's Kursk region. The reshuffle signals Kyiv's effort to restore military morale and public confidence as the war approaches its fifth year with no ceasefire in sight. [Euronews](https://www.euronews.com/video/2026/07/22/latest-news-bulletin-july-22nd-2026-midday)
+
+> [!note]- World: Spain's World Cup champions parade through Madrid — 2 million fans, royals greet title winners (AP)
+> Spain's 2026 FIFA World Cup-winning squad paraded through the streets of Madrid on Wednesday, with an estimated 2 million fans lining the route after their final victory over Argentina at MetLife Stadium on July 19. The players and coaching staff were received by Spain's royal family and Prime Minister Pedro Sánchez in a ceremony celebrating the nation's fourth World Cup title. The celebrations rank among the largest sporting gatherings in Madrid's history and cap a dominant Spanish tournament campaign that sealed their place as the joint-most successful nation in World Cup history. [AP](https://apnews.com/sports/soccer)
+
+> [!note]- Tech: Google ships Gemini 3.6 Flash and 3.5 Flash-Lite; security-tuned Flash Cyber restricted to govts; 3.5 Pro still delayed (Build Fast with AI)
+> Google released three new Gemini models on July 21–22: Gemini 3.6 Flash (a general-purpose update), Gemini 3.5 Flash-Lite (a low-cost economy tier), and Gemini 3.5 Flash Cyber — a security-tuned variant restricted to governments and vetted trusted partners. However, Gemini 3.5 Pro — the flagship model Google had signalled as its answer to top-tier rivals — has now missed its release window multiple times, with Google confirming it is still not shipping. The US government is separately weighing the creation of an independent body to evaluate leading AI models before or after public release amid rising governance pressure. [Build Fast with AI](https://www.buildfastwithai.com/blogs/ai-news-today-july-22-2026)
+
+> [!note]- Economy: Wall St snaps 3-day losing streak — S&P 500 +0.89% near 7,509; chip stocks surge; Brent at $91.24 (Rio Times)
+> Wall Street ended a three-day losing streak with the S&P 500 closing up 0.89% near 7,509, led by a semiconductor rally after stronger-than-expected export data from South Korea and Taiwan reinforced confidence in AI hardware demand. International Brent crude rose 2.26% to $91.24 per barrel, driven by heightened Middle East supply threats including Houthi rebel escalation near Gulf shipping lanes. The rebound offers partial relief to markets caught between resilient AI chip fundamentals and persistent geopolitical energy risk as the second half of 2026 begins. [Rio Times](https://www.riotimesonline.com/global-economy-briefing-july-22-2026/)
 
 > [!note]- [[07-21-26 Tue]]
 > 
