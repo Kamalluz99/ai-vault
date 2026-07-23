@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-07-23T05:06
+updated: 2026-07-23T19:09
 topic: daily news
 frequency: daily
 ongoing: false
@@ -81,6 +81,26 @@ unread: true
 > [!note]- Science: Ocean oxygen loss now pushes Earth past safe planetary boundary, Scripps warns (ScienceDaily)
 > Researchers at UC San Diego's Scripps Institution of Oceanography published a July 19 study arguing that the accelerating loss of dissolved oxygen from oceans, lakes, rivers, and coastal waters constitutes a planetary boundary breach and should be formally added to the nine-boundary framework tracking Earth system stability. Deoxygenation — driven by warming and nutrient pollution — expands dead zones and collapses marine food webs in ways that may be irreversible on human timescales. The finding elevates aquatic oxygen loss to the same governance priority tier as climate change and biodiversity loss. [ScienceDaily](https://www.sciencedaily.com/releases/2026/07/260719035939.htm)
 
+> **Evening update**
+
+> [!note]- Singapore & Malaysia: SG core inflation quickens to 1.6% in June; oil risks ahead of MAS review (Bloomberg)
+> Singapore's core inflation — stripping out private transport and accommodation — rose to 1.6% year-on-year in June, faster than May's 1.4% but below the median economist estimate of 1.7%. The acceleration reflects higher global energy costs filtering through to consumer prices, with Brent crude above $93 a barrel amplifying the oil-price channel this week. The Monetary Authority of Singapore is expected to review its exchange-rate-centred monetary policy stance soon, and the hotter print narrows the case for near-term easing. [Bloomberg](https://www.bloomberg.com/news/articles/2026-07-23/singapore-core-inflation-accelerates-to-1-6-as-oil-risks-linger)
+
+> [!note]- Malaysia: BN reaffirms Unity Government commitment as NS election enters final week (Bernama)
+> Barisan Nasional reiterated its commitment to the Unity Government coalition until the end of Malaysia's 15th Parliament, pushing back on opposition-fuelled narratives of a pending collapse. The reaffirmation arrives as the Negeri Sembilan state election enters its final week before the August 1 polling day, with BN and coalition partners targeting a repeat of the Johor landslide. Rival opposition factions remain fractured, with Bersatu's Muhyiddin Yassin publicly attacking PAS-BN talks as a betrayal. [Bernama](https://www.bernama.com/en/)
+
+> [!breaking]- World: Iran strikes Hormuz tanker; US-Iran ceasefire MOU collapses; war resumes (CNBC)
+> The June 17 US-Iran memorandum of understanding has effectively collapsed after Iran struck commercial vessels bypassing its preapproved Hormuz corridor, resuming mutual strikes weeks after the ceasefire was signed. Iran targeted a tanker in the Strait of Hormuz as the Trump administration announced it is seeking billions more from Congress — the conflict has already cost $37.5 billion. Regional mediators from Qatar, Oman, and Egypt have tabled a new 10-day emergency ceasefire proposal to reopen the Strait, with Washington demanding a longer cessation before agreeing. [CNBC](https://www.cnbc.com/2026/07/21/us-iran-war-trump-hormuz-houthis.html)
+
+> [!note]- World: France passes first EU blanket social media ban for children under 15 (Euronews)
+> France's parliament passed legislation prohibiting children under 15 from opening accounts on major social media platforms, making it the first EU country to enact a blanket age-based ban rather than relying on voluntary parental controls or age-verification alone. The law aims to protect minors from harmful content and predatory behaviour, arriving amid a wave of similar moves across Europe and Australia. Platforms face significant compliance requirements, with enforcement powers granted to a national digital regulator. [Euronews](https://www.euronews.com/video/2026/07/23/latest-news-bulletin-july-23rd-2026-morning)
+
+> [!note]- Tech: AMD Advancing AI 2026 — network efficiency overtakes raw compute as AI scales to "factory" paradigm (AMD)
+> AMD's Advancing AI 2026 conference concluded in San Francisco today with a sharp focus on infrastructure: AMD executives argued that network interconnect efficiency, not GPU count alone, is becoming the binding constraint as clusters scale toward "AI factory" architectures handling trillion-parameter workloads. The event spotlighted AMD's accelerator roadmap competing directly with Nvidia as enterprise buyers seek second-source options for multibillion-dollar AI build-outs. The shift reflects a broader industry reckoning that AI infrastructure is increasingly treated as a sovereign strategic asset rather than generic cloud commodity. [AMD](https://www.amd.com/en/corporate/events/advancing-ai.html)
+
+> [!note]- Economy: IMF July WEO — global growth in "crosscurrents of war and technology"; Iran oil shock hits importers (IMF)
+> The IMF's July 2026 World Economic Outlook Update revised growth forecasts downward for oil-importing economies as Brent crude pushes above $93 per barrel on Iran conflict supply disruptions, while AI-driven productivity gains provide a partial offsetting tailwind for advanced economies. The report flags the Strait of Hormuz closure as a significant near-term risk to global trade volumes, with Asian supply chains — including Singapore, Japan, and South Korea — particularly exposed. Central banks face a difficult dual challenge: taming inflation reignited by energy shocks while avoiding growth-damaging overtightening in a fragile recovery. [IMF](https://www.imf.org/en/publications/weo/issues/2026/07/08/world-economic-outlook-update-july-2026)
+
 > [!note]- [[07-22-26 Wed]]
 > 
 > > [!note]- AI: China's World AI Conference wraps; 400+ humanoid robots showcased, annual output to hit 100k units (Xinhua)
@@ -90,7 +110,7 @@ unread: true
 > > Thomson Reuters announced plans to eliminate up to 500 engineering roles as part of an AI-driven restructuring, the latest in a wave that has already cut 201,754 tech workers across 302 companies as of mid-July. Artificial intelligence has been explicitly cited in 54% of all 2026 layoff events — the highest share ever recorded — as firms from Oracle to Meta slash legacy headcount to fund AI pivots. The pattern signals a structural shift: software engineering roles built around pre-AI product stacks are being replaced faster than equivalent AI-native roles are being created. [InformationWeek](https://www.informationweek.com/it-staffing-careers/2026-tech-company-layoffs)
 > 
 > > [!note]- Macro: Gold at $4,082 on Middle East tensions; S&P 500 at 7,443 as July winning streak at risk (Yahoo Finance)
-> > Gold gained 1.86% to $4,082.73/oz on July 21 on safe-haven demand, though it remains more than 25% below its January 2026 record of $5,589/oz. The S&P 500 dipped 0.19% to 7,443.28 on Monday — every July since 2015 has ended higher, placing 2026 on the cusp of snapping an 11-year run as Q2 earnings and CPI data take centre stage. Oil continues near $80/bbl on Hormuz risk, while the Federal Reserve under Chair Kevin Warsh holds rates at 3.50–3.75% with no guidance. [Yahoo Finance](https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-monday-july-20-2026-gold-holds-above-4000-despite-continued-violence-in-the-middle-east-152926843.html)
+> > Gold gained 1.86% to $4,082.73/oz on July 21 on safe-haven demand, though it remains more than 25% below its January 2026 record of $5,589/oz. The S&P 500 dipped 0.19% to 7,443.28 on Monday — every July since 2015 has ended higher, placing 2026 on the cusp of snapping an 11-year run as Q2 earnings and CPI data take centre stage. Oil continues near $80/bbl on Hormuz risk, while the Federal Reserve under Chair Kevin Warsh holds rates at 3.50–3.75% with no guidance. [Yahoo Finance](https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-monday-july-20-2026-gold-holds-above-4000-despite-limited-violence-in-the-middle-east-152926843.html)
 > 
 > > [!note]- World: Ukraine on defensive as Russia advances; Kursk footholds lost, NATO aid pledges yet to shift momentum (DB Research)
 > > Ukraine has relinquished its last positions inside Russia's Kursk region — seized in a surprise August 2024 cross-border incursion — and is now defending against Russian advances along the eastern front line. The July 7–8 NATO Ankara summit pledged €50 billion in joint procurement and a fresh €70 billion Ukraine aid package, but analysts say new commitments have not yet shifted battlefield momentum. US focus remains divided between the Gulf conflict and European security, with no ceasefire framework in sight. [DB Research](https://www.dbresearch.com/PROD/IE-PROD/PROD0000000000632129/This_Month_in_Geopolitics:_July_2026.PDF)
