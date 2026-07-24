@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-07-24T05:00
+updated: 2026-07-24T19:05
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,26 @@ unread: true
 
 > [!note]- NKE: $40.93 (−3.0%); P&L −$1,415; China e-commerce restrictions called "risky" and "strategic misstep" (Yahoo Finance)
 > Nike closed at approximately $40.93 on July 23, down roughly 3% from Wednesday's $42.21 close as the broader Nasdaq selloff weighed on consumer discretionary names. Nike has confirmed plans to restrict franchise partners in China from digital channels, limiting online sales to company-operated e-commerce and major platforms Tmall, Douyin, and JD.com — a move analysts are labelling "risky." The 46-share position at avg cost $71.69 carries an unrealised loss of −$1,415; 52-wk range $40.00–$80.17; analyst 12-month target $51.12. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
+
+> **Evening update**
+
+> [!note]- Singapore: Private home prices rise for 7th straight quarter as rents jump (Bloomberg)
+> Singapore's private residential property price index rose 0.5% quarter-on-quarter in Q2 2026, marking a seventh consecutive quarter of gains and the longest sustained run in over a decade, per Urban Redevelopment Authority data released Friday. Rents also accelerated over the same period, reflecting continued housing demand even as global economic headwinds weigh on other markets. The resilient property market reinforces Singapore's status as a regional economic safe haven amid the ongoing Middle East conflict and global trade disruptions. [Bloomberg](https://www.bloomberg.com/news/articles/2026-07-24/singapore-home-prices-rise-for-seventh-quarter-rents-accelerate)
+
+> [!note]- Malaysia: BN claims key to resolving NS royal dispute as Aug 1 polls near (FMT)
+> Barisan Nasional has positioned itself as the coalition best placed to resolve Negeri Sembilan's ongoing royal dispute, arguing that a mandate to govern would let it facilitate a settlement between rival factions contesting the legitimacy of the Yang di-Pertuan Besar. The state's August 1 election was triggered when 14 UMNO assemblymen withdrew support for Chief Minister Aminuddin Harun over his handling of the crisis in April. PM Anwar Ibrahim has urged all parties not to drag the royal institution into the campaign, calling the dispute a matter separate from electoral politics. [Free Malaysia Today](https://www.freemalaysiatoday.com/category/nation/2026/07/21/voters-not-linking-negeri-sembilan-polls-with-royal-dispute-says-think-tank)
+
+> [!breaking]- World: Oil tops $100 as US hits Iran for 13th night; Houthis strike Saudi tankers (CNN)
+> The United States carried out its 13th consecutive night of airstrikes against Iran as Houthi forces struck two Saudi oil tankers — the Encelia and the Layla — in the Red Sea, opening what analysts describe as a second maritime front in the widening conflict. Oil prices surged past $100 a barrel for the first time since May, sharpening fears of a global energy supply shock that could hit Asian economies especially hard. UN Secretary-General António Guterres warned the Middle East is being pushed to "the edge of the unimaginable" as regional mediation efforts have so far failed to produce a new ceasefire. [CNN](https://www.cnn.com/2026/07/23/world/live-news/iran-war-trump)
+
+> [!note]- World: Trump puts US-Saudi nuclear deal in doubt hours after signing it (CNN)
+> President Donald Trump cast doubt on a just-signed civilian nuclear cooperation agreement with Saudi Arabia, announcing Riyadh must first normalise relations with Israel before receiving US nuclear technology — a condition stated less than 24 hours after the deal was inked. Saudi Arabia has repeatedly insisted it will not normalise ties with Israel without a credible path to Palestinian statehood, leaving the agreement in immediate diplomatic limbo. The reversal came as Trump was simultaneously managing the Iran conflict escalation and surging oil prices above $100 a barrel. [CNN](https://www.cnn.com/2026/07/23/world/live-news/iran-war-trump)
+
+> [!note]- Tech: White House accuses Moonshot AI of distilling Anthropic's Fable model for Kimi K3 (Build Fast with AI)
+> White House OSTP Director Michael Kratsios publicly accused China's Moonshot AI of "large-scale covert industrial distillation" of Anthropic's Fable model to train Kimi K3, calling it an act of technology theft from a US AI company. Kratsios separately alleged Moonshot obtained Nvidia GB300 chips through Thailand, circumventing US export controls — a rare escalation of US-China AI intellectual property tensions into an explicit public accusation. Kimi K3's open weights are still expected to release on July 27 even as geopolitical pressure on the model intensifies. [Build Fast with AI](https://www.buildfastwithai.com/blogs/ai-news-today-july-23-2026)
+
+> [!note]- Science: NASA selects 41 commercial projects to tackle critical Moon and Mars mission challenges (NASA)
+> NASA has chosen 41 commercial technology development projects under its Space Technology Mission Directorate to address critical challenges ahead of future Moon and Mars missions, spanning navigation, life support, propulsion systems, and in-space manufacturing. The awards are part of NASA's commercial-first strategy to accelerate deep-space capability by pairing private-sector innovation with specific mission requirements. The selections come as space agencies worldwide intensify lunar infrastructure work ahead of planned sustained human presence on the Moon before 2030. [NASA](https://www.nasa.gov/)
 
 > [!note]- [[07-23-26 Thu]]
 > 
