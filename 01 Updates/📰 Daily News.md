@@ -138,6 +138,17 @@ unread: true
 > > [!note]- Science: Stanford finds natural Ozempic-like molecule without the common side effects (ScienceDaily)
 > > Stanford Medicine researchers discovered a naturally occurring molecule that suppresses appetite and reduces body weight through a mechanism similar to GLP-1 drugs like Ozempic, but without several of the drug class's common side effects including nausea and muscle loss. The molecule activates appetite-regulating pathways in the brain and gut via a different receptor from GLP-1, potentially unlocking a new class of weight-loss treatments. If validated in human trials, the discovery could offer an alternative for the millions of patients who cannot tolerate existing GLP-1 therapies or who have plateaued on current drugs. [ScienceDaily](https://www.sciencedaily.com/news/top/science/)
 
+> **Night update**
+
+> [!breaking]- World: Bahrain & Kuwait secretly struck Iran this month — Gulf states join war directly (WSJ)
+> The Wall Street Journal revealed that Bahrain and Kuwait covertly dispatched fighter jets to strike Iranian drone and missile storage sites earlier in July, marking the first direct retaliatory attacks by Gulf states on Iran in the ongoing war. The UAE provided targeting intelligence and defensive air cover for both operations. The disclosure dramatically widens the conflict's coalition beyond the US, UK, and Israel to include Gulf monarchies that had previously kept their military involvement covert out of fear of Iranian reprisals. [Jerusalem Post](https://www.jpost.com/middle-east/iran-news/article-903577)
+
+> [!note]- AI: France finds OpenAI, Google & Anthropic hold 84% of AI agent market (Autorité de la concurrence)
+> France's Autorité de la concurrence published a 3,700-page opinion warning that three leading Western AI labs control more than 84% of the global AI agent market, and that autonomous agents could cement this dominance by becoming the primary interface through which consumers access information. Regulators built and operated their own AI agents, ran them through 550 shopping-related prompts, and logged which sources were visited and cited. The opinion calls for binding rules on data access, interoperability, and default AI placement to prevent the agent layer from becoming a new monopoly bottleneck. [Autorité de la concurrence](https://www.autoritedelaconcurrence.fr/en/press-release/ai-agents-autorite-de-la-concurrence-issues-its-opinion-competitive-functioning-ai)
+
+> [!note]- NKE: $41.70 (+1.7% Fri close); P&L −$1,380; modest bounce off 52-wk low (Finviz)
+> Nike closed Friday July 25 at $41.70, up approximately 1.7% from Thursday's $40.99 close on a modest recovery as geopolitical risk sentiment eased slightly following Trump's hints at Iran diplomacy. Friday's intraday range was $40.89–$42.15. The 46-share position at avg cost $71.69 carries an unrealised loss of −$1,380; 52-week range $40.00–$80.17; analyst 12-month consensus target $51.12. [Finviz](https://finviz.com/news/117606/why-nike-nke-stock-is-trading-up-today)
+
 > [!note]- [[07-24-26 Fri]]
 > 
 > > [!breaking]- AI: DeepSeek V4 goes stable — enterprises can finally move production workloads off preview builds (Build Fast with AI)
