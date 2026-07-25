@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-07-25T05:30
+updated: 2026-07-25T19:05
 topic: daily news
 frequency: daily
 ongoing: false
@@ -94,6 +94,26 @@ unread: true
 
 > [!note]- Science: First confirmed atmosphere on a rocky habitable-zone exoplanet detected (ScienceDaily)
 > Astronomers announced on July 21 the detection of the first confirmed atmosphere around a rocky planet orbiting inside another star's habitable zone — a historic milestone in the search for potentially life-bearing worlds. The finding opens this class of planets to characterisation by the James Webb Space Telescope and successor missions, and is the first case where conditions for surface liquid water could in principle be assessed. Researchers caution that an atmosphere alone is not evidence of life but the discovery marks a qualitative leap beyond previous detections on lava worlds outside the habitable zone. [ScienceDaily](https://www.sciencedaily.com/news/top/science/)
+
+> **Evening update**
+
+> [!note]- Singapore: SG may block under-18s from platforms failing child safety rules (Mothership)
+> Singapore's Minister for Digital Development Josephine Teo said on July 25 that social media platforms failing to meet child safety standards could be blocked for users under 18, while compliant platforms may continue serving young users — a "differentiated landscape" rather than a blanket ban. Since April 2026, IMDA has required app stores to screen for under-18 users and restrict age-inappropriate downloads, and the Online Safety Commission began operations on June 29 as a dedicated recourse agency for victims of online harms. Teo said outright bans are not the preferred starting point but are on the table for platforms unwilling or unable to make their products child-safe. [Mothership.SG](https://mothership.sg/2026/07/social-media-safety-forum-josephine-teo/)
+
+> [!breaking]- Malaysia: Anwar slams Sanusi's 'Malays only have this land' NS rally speech (FMT)
+> PM Anwar Ibrahim and DPM Zahid Hamidi sharply rebuked Kedah Menteri Besar Sanusi Md Nor after he delivered a racially charged "civilisational warning" at a Negeri Sembilan election rally, declaring "The Malays only have this land" and questioning the loyalty of non-Malays who could purportedly return to ancestral homelands elsewhere. Zahid told Sanusi — Bersatu's election director for the NS polls — to stay in Kedah and refrain from stoking racial and religious sentiment in a state where the Unity Government needs multi-ethnic support to prevail. The controversy erupted six days before the August 1 Negeri Sembilan ballot and is the sharpest communal flash point of the campaign so far. [Free Malaysia Today](https://www.freemalaysiatoday.com/category/nation/2026/07/25/anwar-slams-sanusi-over-remarks-on-loyalty-of-non-malays)
+
+> [!note]- World: Trump 'locked and loaded' on Iran but says talks are 'serious', hinting at deal (Al Jazeera)
+> President Trump said on July 25 that the US remains "locked and loaded" for a larger strike on Iran while signalling that ongoing diplomatic contacts could make it unnecessary — telling reporters "We are talking to them" and "I think they're being serious." The statement is the first public hint that Iran's engagement has given Trump reason to pause on the planned "massive attack" he had been threatening for days, though US strikes continued through a 14th consecutive night. UN Secretary-General Guterres warned the situation is "getting out of control" and said diplomacy is "the only way forward" as regional mediators push for a new ceasefire framework. [Al Jazeera](https://www.aljazeera.com/news/liveblog/2026/7/25/iran-war-live-trump-says-us-locked-and-loaded-as-it-seeks-iran-talks)
+
+> [!note]- World: Netanyahu orders wide-scale West Bank operation; UN warns Gaza food crisis deepening (Al Jazeera)
+> Israeli Prime Minister Benjamin Netanyahu ordered a "wide-scale military operation" in occupied West Bank villages on July 25 amid escalating violence, opening a more intensive front in the West Bank while the US-Iran conflict continues to dominate the region's attention. The UN World Food Programme warned separately that food insecurity in the Gaza Strip will worsen without additional funding, cautioning that recent improvements are fragile and could reverse as international aid commitments wane. The EU also sanctioned five Iranian judges for alleged human rights violations against political dissidents, activists, and religious minorities. [Al Jazeera](https://www.aljazeera.com/news/liveblog/2026/7/25/iran-war-live-trump-says-us-locked-and-loaded-as-it-seeks-iran-talks)
+
+> [!note]- Tech: Anthropic launches Claude Opus 5 — near-Fable-5 intelligence at half the price (Bloomberg)
+> Anthropic launched Claude Opus 5 on July 24, a new frontier model that reaches roughly Claude Fable 5–level intelligence at half the price ($5/M input tokens, $25/M output), with a 1M-token context window and a low/medium/high effort toggle to trade cost for capability per request. The model sets new state-of-the-art scores on agentic-coding and knowledge-work benchmarks (Frontier-Bench, GDPval-AA) and ships as the default model on Claude Max. Meanwhile, the federal jury trial between Elon Musk and OpenAI leadership commenced in Oakland, with potential implications for open-weight model governance and AI industry accountability. [Bloomberg](https://www.bloomberg.com/news/articles/2026-07-24/anthropic-unveils-more-cost-efficient-model-for-everyday-tasks)
+
+> [!note]- Science: Stanford finds natural Ozempic-like molecule without the common side effects (ScienceDaily)
+> Stanford Medicine researchers discovered a naturally occurring molecule that suppresses appetite and reduces body weight through a mechanism similar to GLP-1 drugs like Ozempic, but without several of the drug class's common side effects including nausea and muscle loss. The molecule activates appetite-regulating pathways in the brain and gut via a different receptor from GLP-1, potentially unlocking a new class of weight-loss treatments. If validated in human trials, the discovery could offer an alternative for the millions of patients who cannot tolerate existing GLP-1 therapies or who have plateaued on current drugs. [ScienceDaily](https://www.sciencedaily.com/news/top/science/)
 
 > [!note]- [[07-24-26 Fri]]
 > 
