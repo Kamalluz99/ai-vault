@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-07-26T05:00
+updated: 2026-07-26T19:07
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,26 @@ unread: true
 
 > [!note]- NKE: $41.70 (+1.7%); P&L −$1,380; China digital restructuring ends distributor online partnerships (Yahoo Finance)
 > Nike closed Friday July 25 at $41.70 — up 1.7% from Thursday's $40.99 — as equities partially recovered from the week's sell-off. Nike is restructuring China online sales, ending digital partnerships with franchise distributors Topsports and Pou Sheng effective January 2027 and consolidating to company-operated channels plus Tmall, JD.com, and Douyin. The 46-share position at avg cost $71.69 carries an unrealised loss of −$1,380. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
+
+> **Evening update**
+
+> [!note]- Singapore & Malaysia: JB-SG RTS Link at 90%; JS-SEZ master plan to be finalised (The Star)
+> The Johor Bahru–Singapore Rapid Transit System Link is 90% complete and on track to open in January 2027, cutting cross-border travel to under five minutes with 100 e-gate lanes at the Bukit Chagar immigration complex. Both governments are finalising the Johor-Singapore Special Economic Zone master plan, which the RTS Link will directly enable by boosting labour mobility and FDI into Johor. SG-MY bilateral trade has already surged 14.5% year-on-year in January–May 2026 to RM189.9 billion. [The Star](https://www.thestar.com.my/business/business-news/2026/07/20/rts-link-js-sez-to-buoy-economic-expansion)
+
+> [!note]- Malaysia: NS election — 103 candidates, 21 three-way fights; early voting July 28 (Malay Mail)
+> The Negeri Sembilan state election enters its final week with 103 candidates contesting all 36 seats — 21 in three-cornered fights — with early voting this Monday July 28 and polling day on August 1. Johor holds its state election simultaneously, putting PM Anwar Ibrahim's Unity Government coalition under pressure on two fronts at once. Analysts warn the twin polls are the most significant mid-term gauge of Pakatan Harapan's voter support heading into 2027. [Malay Mail](https://www.malaymail.com/news/malaysia/2026/07/18/negeri-sembilan-polls-in-numbers-103-candidates-confirmed-21-seats-head-into-three-way-fights/228093)
+
+> [!breaking]- World: Iran condemns alleged Ukraine strike on Caspian Sea vessel — 1 sailor killed (Anadolu Agency)
+> Iran's foreign ministry condemned what it called an "act of aggression" by Ukraine after a commercial vessel was struck in the Caspian Sea, killing one sailor — the latest escalation in an increasingly multi-front conflict now in its third week. The incident, if confirmed as Ukrainian, would mark the first direct military contact between the two countries and signals that the US-Iran war is drawing in new actors. Kyiv has not commented publicly and Tehran has not released vessel identification details. [Anadolu Agency](https://aa.com.tr/en/world/morning-briefing-july-26-2026/4009451)
+
+> [!note]- World: Philippines NCR minimum wage jumps PHP60/day from today — first of PHP85 hike (BERNAMA)
+> The first tranche of a PHP85 per day minimum wage increase for the Philippines' National Capital Region took effect today, raising the daily floor by PHP60 for hundreds of thousands of workers in the country's largest urban economy. The court-mandated hike is the largest adjustment in recent years, with a second tranche set to follow; small business groups have raised concerns about absorbing the higher labour costs. The increase reflects a broader Southeast Asian trend of cost-of-living responses ahead of upcoming elections. [BERNAMA](https://asean.bernama.com/news.php?id=2585999)
+
+> [!note]- Tech: Moonshot AI's Kimi K3 open weights drop tomorrow — 2.8T params, largest release ever (BuildFastWithAI)
+> Moonshot AI will release the full open weights of Kimi K3 at midnight UTC on July 27 — 2.8 trillion parameters in approximately 1.4TB of MXFP4 quantised weights — making it the largest open-weight AI model release in history. The release allows any researcher or developer with sufficient hardware to run, fine-tune, or audit the model without going through a proprietary API. It arrives days after DeepSeek V4's stable launch and Anthropic's Claude Opus 5, capping what may be the most intense week of frontier AI releases to date. [BuildFastWithAI](https://www.buildfastwithai.com/blogs/ai-news-today-july-26-2026)
+
+> [!note]- Economy: IMF projects 2026 global growth at 3.0%; war and AI widen cross-country divergence (IMF)
+> The IMF's July 2026 World Economic Outlook Update projects global growth at 3.0% for 2026 and 3.4% for 2027, framing the macro environment as defined by "crosscurrents of war and technology." AI-driven capital expenditure is lifting economies integrated into global tech supply chains, while war shocks and elevated energy costs drag on importing and vulnerable nations — widening a divergence between the two groups. JPMorgan CEO Jamie Dimon separately warned that investors are underestimating cumulative risks from concurrent wars, US-China tensions, and mounting government deficits worldwide. [IMF](https://www.imf.org/en/publications/weo/issues/2026/07/08/world-economic-outlook-update-july-2026)
 
 > [!note]- [[07-25-26 Sat]]
 > 
