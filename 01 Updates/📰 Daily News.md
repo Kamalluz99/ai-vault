@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-07-27T05:00
+updated: 2026-07-27T05:07
 topic: daily news
 frequency: daily
 ongoing: false
@@ -61,33 +61,27 @@ unread: true
 
 ## 2026-07
 
-
 ### [[07-27-26 Mon]]
 
-> [!breaking]- AI: Kimi K3 open weights live — 2.8T params, largest open-weight release ever; White House accuses distillation of Fable (BuildFastWithAI)
-> Moonshot AI released the full open weights of Kimi K3 today — 2.8 trillion parameters in ~1.4TB of MXFP4 quantised weights, the largest open-weight AI model release in history. The model already topped a major coding leaderboard, and its release triggered a White House accusation: OSTP Director Kratsios publicly charged Moonshot with "large-scale covert industrial distillation" of Anthropic's Fable model and acquiring Nvidia GB300 chips via Thailand to circumvent US export controls. Any researcher with sufficient hardware can now run or fine-tune it. [BuildFastWithAI](https://www.buildfastwithai.com/blogs/ai-news-today-july-20-2026-16-biggest-stories)
+> [!breaking]- AI: Kimi K3 open weights live — 2.8T-param MoE, largest open release ever (Moonshot AI)
+> Moonshot AI released the full open weights of Kimi K3 today, making the 2.8-trillion-parameter sparse mixture-of-experts model freely available to any researcher or developer with sufficient hardware. At roughly 1.4 TB in MXFP4 quantisation, it is the largest open-weight model release in history — arriving despite White House accusations that Moonshot covertly distilled it from Anthropic's Fable. The model supports native text, image, and video understanding with a 1-million-token context window, and is live now through the Kimi API. [Moonshot AI](https://www.kimi.com)
 
-> [!note]- Tech: Kimi K3 open weights + DeepSeek V4 stable cap the most intense week of frontier AI releases (ZoneTechify)
-> The final week of July 2026 cements its place as the peak concentration of open-weight frontier AI releases: DeepSeek V4 went stable on July 24 and Kimi K3's 2.8T weights dropped today, July 27. Both models are free for researchers, developers, and governments to download, fine-tune, and audit — fundamentally changing who has access to frontier AI capability. Analysts note that three consecutive open-weight releases (DeepSeek V4, Claude Opus 5, Kimi K3) in one week are reshaping enterprise AI procurement decisions. [ZoneTechify](https://www.zonetechify.com/blog/ai-news-july-2026-latest-ai-developments)
+> [!note]- Tech: Monday.com cuts 620 jobs (20%) in AI-first restructuring pivot (TechCrunch)
+> Israeli software company Monday.com announced on July 22 the layoff of approximately 620 employees — 20% of its global workforce — as part of the largest product transformation in the company's history, redesigning its entire platform around an "AI Work Platform" vision. The restructuring is expected to cost $45–55 million in charges, and the company's stock has dropped roughly 75% over the past year. Monday.com joins Oracle, Meta, and Block in a wave of 2026 tech layoffs where AI has been explicitly cited in 54% of all events. [TechCrunch](https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/)
 
-> [!note]- Macro: Big week: FOMC Wed Jul 29, Amazon/Meta/Microsoft earnings; CXMT $8.6B IPO; Q2 S&P earnings tracking +38% YoY (CNBC)
-> US markets enter their most consequential week of Q2 earnings season: the FOMC rate decision on Wednesday July 29, plus earnings from Amazon, Meta Platforms, and Microsoft set to dominate sentiment. China's CXMT raised $8.6 billion in Asia's largest IPO of 2026 on the Shanghai STAR Market on Monday. S&P 500 companies are tracking Q2 YoY earnings growth of +38% — far above initial estimates — despite Alphabet disappointing last week with heavy AI capex commentary that spooked investors on free cash flow. [CNBC](https://www.cnbc.com/2026/07/24/stock-market-next-week-outlook-for-july-27-31-2026.html)
+> [!note]- Macro: Fed FOMC opens July 28-29 meeting; markets 75% hold at 3.50-3.75% (CNBC)
+> The Federal Reserve's FOMC begins its two-day meeting tomorrow with markets assigning roughly 75% probability to an unchanged rate at 3.50–3.75% and 25% probability of a 25bps hike — what would be the fifth consecutive hold if confirmed. Persistent oil near $94/bbl on Day 16 of US-Iran strikes is testing Chair Kevin Warsh's patience, with inflation risks reasserting themselves heading into Q3. The S&P 500 ended last week at 7,499 and opens this critical earnings week facing dual headwinds from geopolitics and rate uncertainty. [CNBC](https://www.cnbc.com/2026/07/24/stock-market-next-week-outlook-for-july-27-31-2026.html)
 
-> [!breaking]- World: US-Iran pause strikes 2nd consecutive day; Trump says talks "serious"; Berlin Pride van attack kills 1 (Al Jazeera / CNN)
-> Both the US and Iran paused military strikes for a second consecutive day Sunday — the longest ceasefire window since the conflict began 17 days ago — as diplomatic contacts intensified. Trump told reporters he believes Iran is being "serious" about negotiations, the clearest signal yet a deal may be forming. Separately, a van drove into Berlin's annual Pride crowd, killing 1 and injuring 16, with police identifying a suspect. European wildfires also forced 250,000+ evacuations in France and Spain, with the Tour de France final stage shortened. [Al Jazeera](https://www.aljazeera.com/news/liveblog/2026/7/25/iran-war-live-trump-says-us-locked-and-loaded-as-it-seeks-iran-talks)
+> [!breaking]- World: US-Iran Day 16 — Gulf coalition confirmed; Bahrain/Kuwait covert strikes revealed (WSJ)
+> The US-Iran conflict enters its 16th day with back-channel diplomacy intensifying even as airstrikes continued overnight, with Iran reportedly weighing a Hormuz framework in exchange for a halt to attacks. The Wall Street Journal's weekend revelation that Bahrain and Kuwait covertly struck Iranian drone and missile depots earlier this month dramatically widened the known coalition, adding Gulf monarchies to the US, UK, and Israeli contingent. Trump continues to call Iranian diplomatic contacts "serious" while UN Secretary-General Guterres warns the situation is "getting out of control." [WSJ](https://www.wsj.com)
 
-> [!note]- Malaysia/Singapore: NS & Johor early voting tomorrow Jul 28; Anwar vs Sanusi row dominates final week (Malay Mail)
-> Malaysia's twin state elections — Negeri Sembilan and Johor — enter their final stretch with early voting tomorrow Monday July 28, ahead of polling day on August 1. The campaign's defining controversy has been PM Anwar Ibrahim's sharp rebuke of Bersatu's Sanusi Md Nor over a racially charged "Malays only have this land" NS rally speech. Meanwhile Anwar's intervention to raise civil service pay above the initial proposal signals pre-election spending pressure. Analysts call this the most significant mid-term test of the Unity Government coalition. [Malay Mail](https://www.malaymail.com/news/malaysia/2026/07/18/negeri-sembilan-polls-in-numbers-103-candidates-confirmed-21-seats-head-into-three-way-fights/228093)
+> [!breaking]- Malaysia: F1 confirms Malaysia replaces Bahrain GP at Sepang, Oct 2-4 (Formula 1)
+> Formula 1 and the FIA confirmed Malaysia will join the 2026 World Championship calendar as host for the Formula 1 Gulf Air Bahrain Grand Prix, with the Sepang International Circuit hosting the race October 2–4 — the country's first F1 race since 2017. The move comes after the original Bahrain venue was deemed inaccessible due to the ongoing US-Iran conflict in the region, with the race slotting in between the Azerbaijan and Singapore Grands Prix as round 16 of the season. [Formula 1](https://www.formula1.com/en/latest/article/formula-1-and-fia-confirm-malaysia-will-join-2026-calendar-as-host-venue-for-bahrain-grand-prix.6lL7vjFEM2VVynRHvg1TCf)
 
-> [!note]- Science: Scientists identify Alzheimer's tipping point — when protein changes become irreversible dementia (ScienceDaily)
-> Researchers have pinpointed a possible tipping point in Alzheimer's disease progression: a stage at which amyloid and tau accumulation becomes highly likely to convert into clinical dementia. The finding could guide earlier clinical trials by giving clinicians a biomarker threshold for when preventive treatments are most likely to intervene effectively. The study adds to a rapid year of Alzheimer's research and may shift the timing of when patients are offered experimental therapies. [ScienceDaily](https://www.sciencedaily.com/news/top/science/)
-
-> [!note]- NKE: $41.70 (Fri Jul 25 close); P&L −$1,380; US markets reopen today (Yahoo Finance)
-> Nike's last confirmed close is $41.70 — Friday July 25, up 1.7% from Thursday's $40.99 — as US equity markets reopen today Monday July 27. The stock remains pinned near its 52-week low of $40.00 as the China digital-channel restriction strategy and macro headwinds continue to weigh. The 46-share position at avg cost $71.69 carries an unrealised loss of −$1,380; analyst 12-month consensus target $51.12. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
-
+> [!note]- Science: Webb discovers Beta Pictoris d — third planet found via atmospheric chemistry (NASA)
+> NASA's James Webb Space Telescope revealed Beta Pictoris d, a giant planet hidden for over a decade inside one of astronomy's most closely studied star systems 63 light-years away, concealed by a bright debris disk that blocked direct imaging by every previous instrument. Webb detected it not as a point of light but through its atmospheric chemical fingerprint — carbon monoxide, water vapour, and methane — validating a new method for finding planets inside dusty disks. Beta Pictoris becomes only the second planetary system known to host at least three directly imaged planets. [NASA](https://science.nasa.gov/missions/webb/nasas-webb-discovers-hidden-planet-in-famous-star-system/)
 
 > [!note]- [[07-26-26 Sun]]
-> 
 > 
 > > [!note]- AI: EU orders Google to open Android to rival AI assistants, share search data (European Commission)
 > > The European Commission adopted binding requirements ordering Google to open Android to rival AI assistants and share search data with competitors, with eligible third-party assistants gaining voice activation and cross-app capabilities. The ruling accelerates AI assistant competition on the world's most widely used mobile OS. Anthropic is also in early talks with Samsung for custom Claude inference chips, as TSMC Q2 revenue hits $39.6B (+68% YoY) on booming AI demand. [AIToolsRecap](https://aitoolsrecap.com/Blog/AINewsJuly2026.aspx)
@@ -130,6 +124,16 @@ unread: true
 > > [!note]- Economy: IMF projects 2026 global growth at 3.0%; war and AI widen cross-country divergence (IMF)
 > > The IMF's July 2026 World Economic Outlook Update projects global growth at 3.0% for 2026 and 3.4% for 2027, framing the macro environment as defined by "crosscurrents of war and technology." AI-driven capital expenditure is lifting economies integrated into global tech supply chains, while war shocks and elevated energy costs drag on importing and vulnerable nations — widening a divergence between the two groups. JPMorgan CEO Jamie Dimon separately warned that investors are underestimating cumulative risks from concurrent wars, US-China tensions, and mounting government deficits worldwide. [IMF](https://www.imf.org/en/publications/weo/issues/2026/07/08/world-economic-outlook-update-july-2026)
 > 
+> > **Night update**
+> 
+> > [!breaking]- World: Bahrain & Kuwait secretly struck Iran this month — Gulf states join war directly (WSJ)
+> > The Wall Street Journal revealed that Bahrain and Kuwait covertly dispatched fighter jets to strike Iranian drone and missile storage sites earlier in July, marking the first direct retaliatory attacks by Gulf states on Iran in the ongoing war. The UAE provided targeting intelligence and defensive air cover for both operations. The disclosure dramatically widens the conflict's coalition beyond the US, UK, and Israel to include Gulf monarchies that had previously kept their military involvement covert out of fear of Iranian reprisals. [Jerusalem Post](https://www.jpost.com/middle-east/iran-news/article-903577)
+> 
+> > [!note]- AI: France finds OpenAI, Google & Anthropic hold 84% of AI agent market (Autorité de la concurrence)
+> > France's Autorité de la concurrence published a 3,700-page opinion warning that three leading Western AI labs control more than 84% of the global AI agent market, and that autonomous agents could cement this dominance by becoming the primary interface through which consumers access information. Regulators built and operated their own AI agents, ran them through 550 shopping-related prompts, and logged which sources were visited and cited. The opinion calls for binding rules on data access, interoperability, and default AI placement to prevent the agent layer from becoming a new monopoly bottleneck. [Autorité de la concurrence](https://www.autoritedelaconcurrence.fr/en/press-release/ai-agents-autorite-de-la-concurrence-issues-its-opinion-competitive-functioning-ai)
+> 
+> > [!note]- NKE: $41.70 (+1.7% Fri close); P&L −$1,380; modest bounce off 52-wk low (Finviz)
+> > Nike closed Friday July 25 at $41.70, up approximately 1.7% from Thursday's $40.99 close on a modest recovery as geopolitical risk sentiment eased slightly following Trump's hints at Iran diplomacy. Friday's intraday range was $40.89–$42.15. The 46-share position at avg cost $71.69 carries an unrealised loss of −$1,380; 52-week range $40.00–$80.17; analyst 12-month consensus target $51.12. [Finviz](https://finviz.com/news/117606/why-nike-nke-stock-is-trading-up-today)
 
 > [!note]- [[07-25-26 Sat]]
 > 
@@ -184,17 +188,6 @@ unread: true
 > 
 > > [!note]- Science: Stanford finds natural Ozempic-like molecule without the common side effects (ScienceDaily)
 > > Stanford Medicine researchers discovered a naturally occurring molecule that suppresses appetite and reduces body weight through a mechanism similar to GLP-1 drugs like Ozempic, but without several of the drug class's common side effects including nausea and muscle loss. The molecule activates appetite-regulating pathways in the brain and gut via a different receptor from GLP-1, potentially unlocking a new class of weight-loss treatments. If validated in human trials, the discovery could offer an alternative for the millions of patients who cannot tolerate existing GLP-1 therapies or who have plateaued on current drugs. [ScienceDaily](https://www.sciencedaily.com/news/top/science/)
-
-> **Night update**
-
-> [!breaking]- World: Bahrain & Kuwait secretly struck Iran this month — Gulf states join war directly (WSJ)
-> The Wall Street Journal revealed that Bahrain and Kuwait covertly dispatched fighter jets to strike Iranian drone and missile storage sites earlier in July, marking the first direct retaliatory attacks by Gulf states on Iran in the ongoing war. The UAE provided targeting intelligence and defensive air cover for both operations. The disclosure dramatically widens the conflict's coalition beyond the US, UK, and Israel to include Gulf monarchies that had previously kept their military involvement covert out of fear of Iranian reprisals. [Jerusalem Post](https://www.jpost.com/middle-east/iran-news/article-903577)
-
-> [!note]- AI: France finds OpenAI, Google & Anthropic hold 84% of AI agent market (Autorité de la concurrence)
-> France's Autorité de la concurrence published a 3,700-page opinion warning that three leading Western AI labs control more than 84% of the global AI agent market, and that autonomous agents could cement this dominance by becoming the primary interface through which consumers access information. Regulators built and operated their own AI agents, ran them through 550 shopping-related prompts, and logged which sources were visited and cited. The opinion calls for binding rules on data access, interoperability, and default AI placement to prevent the agent layer from becoming a new monopoly bottleneck. [Autorité de la concurrence](https://www.autoritedelaconcurrence.fr/en/press-release/ai-agents-autorite-de-la-concurrence-issues-its-opinion-competitive-functioning-ai)
-
-> [!note]- NKE: $41.70 (+1.7% Fri close); P&L −$1,380; modest bounce off 52-wk low (Finviz)
-> Nike closed Friday July 25 at $41.70, up approximately 1.7% from Thursday's $40.99 close on a modest recovery as geopolitical risk sentiment eased slightly following Trump's hints at Iran diplomacy. Friday's intraday range was $40.89–$42.15. The 46-share position at avg cost $71.69 carries an unrealised loss of −$1,380; 52-week range $40.00–$80.17; analyst 12-month consensus target $51.12. [Finviz](https://finviz.com/news/117606/why-nike-nke-stock-is-trading-up-today)
 
 > [!note]- [[07-24-26 Fri]]
 > 
