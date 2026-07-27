@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-07-27T05:07
+updated: 2026-07-27T19:04
 topic: daily news
 frequency: daily
 ongoing: false
@@ -80,6 +80,26 @@ unread: true
 
 > [!note]- Science: Webb discovers Beta Pictoris d — third planet found via atmospheric chemistry (NASA)
 > NASA's James Webb Space Telescope revealed Beta Pictoris d, a giant planet hidden for over a decade inside one of astronomy's most closely studied star systems 63 light-years away, concealed by a bright debris disk that blocked direct imaging by every previous instrument. Webb detected it not as a point of light but through its atmospheric chemical fingerprint — carbon monoxide, water vapour, and methane — validating a new method for finding planets inside dusty disks. Beta Pictoris becomes only the second planetary system known to host at least three directly imaged planets. [NASA](https://science.nasa.gov/missions/webb/nasas-webb-discovers-hidden-planet-in-famous-star-system/)
+
+> **Evening update**
+
+> [!breaking]- World: Berlin Pride van ramming — 1 dead, 29 hurt; Islamic extremist confirmed; suspect shot (Al Jazeera)
+> A 21-year-old man drove a van into a crowd gathered for Berlin's Christopher Street Day Pride festival on Saturday night, then continued attacking bystanders with a machete — killing one person and injuring at least 29. German Interior Minister Alexander Dobrindt confirmed the attack is being treated as Islamic extremist terrorism; the suspect, Abdul Ballout, had previously been convicted of preparing to join ISIS but served less than two years in prison. He was tracked to the Spandau suburb and shot dead by police after charging officers with a bladed weapon. [Al Jazeera](https://www.aljazeera.com/news/2026/7/25/one-dead-14-injured-as-car-reportedly-strikes-crowd-at-berlin-lgbtq-event)
+
+> [!note]- World: US-Iran bombing pause holds for Day 2; Netanyahu flies to White House for Trump meeting Tuesday (NPR)
+> The United States and Iran have both withheld strikes for a second consecutive day as back-channel negotiations continue, with both sides signalling cautious openness to an interim ceasefire framework. Israeli PM Benjamin Netanyahu is flying to Washington for a White House meeting with President Trump on Tuesday, warning on Fox News that any resumption of Iranian or proxy attacks would trigger a "very, very forceful response." VP JD Vance and Joint Chiefs Chair Gen. Dan Caine had both raised concerns about further escalation during a Friday White House session before the pause began. [NPR](https://www.npr.org/2026/07/26/g-s1-135593/us-pauses-attacks-iran-second-day-tehran)
+
+> [!note]- Singapore & Malaysia: Scoot expands Malaysia network to 130 weekly flights on Visit Malaysia surge (Aviation A2Z)
+> Scoot, Singapore Airlines' budget arm, is expanding its Malaysia network to 130 weekly flights, driven by surging cross-border tourism demand under Malaysia's Visit Malaysia 2026 campaign. In the first two months of 2026 alone, approximately 3.4 million Singaporean visitors traveled to Malaysia — accounting for nearly half of all international tourist arrivals in that period. The expansion further deepens bilateral aviation connectivity ahead of the Johor Bahru–Singapore RTS Link's planned January 2027 commercial opening. [Aviation A2Z](https://aviationa2z.com/index.php/2026/07/27/singapores-scoot-expands-malaysia-network-with-130-weekly-flights/)
+
+> [!note]- Malaysia: KDN won't ease immigration crackdown despite all 19 detention depots beyond capacity (Malay Mail)
+> Malaysia's Home Ministry (KDN) has confirmed it will not scale back enforcement operations against undocumented foreign nationals under the Immigration Act 1959/63, even as all 19 immigration detention depots are operating beyond capacity. The stance comes amid growing public debate over overcrowded facility conditions and calls from civil society for a more humane processing approach. The ministry maintains that strict enforcement is necessary to protect the labour market and national security, particularly ahead of economic zone development in Johor. [Malay Mail](https://www.malaymail.com/news/malaysia)
+
+> [!note]- Tech: Nvidia in talks for $250B backstop to fund OpenAI's 10-gigawatt Ohio data centre lease (WSJ)
+> The Wall Street Journal reported that Nvidia is in advanced talks to provide approximately $250 billion in financial backing to help OpenAI lease a 10-gigawatt data centre campus in Ohio, with a separate discussion covering up to $350 billion in chip financing. If confirmed, the deal would rank among the largest private infrastructure financing arrangements in corporate history and cement Nvidia's role as strategic backer — not just hardware supplier — to the AI sector's dominant operator. The EU Commission separately ordered Google to open Android to rival AI assistants including Claude and ChatGPT by July 2027 under the Digital Markets Act. [WSJ](https://www.wsj.com)
+
+> [!note]- Economy: Big Tech earnings week opens; S&P 500 +38% YoY forecast; durable goods bounce 1.6% (CNBC)
+> Wall Street opens a pivotal week with Microsoft, Amazon, and Meta scheduled to report Q2 earnings — analysts forecast S&P 500 companies will post 38% year-on-year earnings growth, far ahead of original estimates, as investors scrutinise whether massive AI infrastructure spending is generating promised returns. US durable goods orders for June jumped 1.6%, suggesting corporate capital spending remains healthy despite geopolitical headwinds from the Iran conflict and elevated oil near $94/bbl. The FOMC begins its two-day meeting tomorrow, with markets pricing roughly 75% probability of a hold at 3.50–3.75%. [CNBC](https://www.cnbc.com/2026/07/24/stock-market-next-week-outlook-for-july-27-31-2026.html)
 
 > [!note]- [[07-26-26 Sun]]
 > 
@@ -298,7 +318,7 @@ unread: true
 > > **Evening update**
 > 
 > > [!note]- Singapore & Malaysia: JS-SEZ master plan finalised, Anwar-Lawrence Wong Q4 joint launch set (NST)
-> > Malaysia's Economy Ministry confirmed the Johor-Singapore Special Economic Zone (JS-SEZ) master plan is complete, with the formal launch aligned with the Malaysia-Singapore Leaders' Retreat in Q4 2026 to secure the highest-level bilateral commitment from PM Anwar Ibrahim and PM Lawrence Wong. The Johor Bahru–Singapore Rapid Transit System (RTS) Link remains on track for commercial operations in January 2027, deepening cross-border connectivity between the two neighbours. Together the two flagship initiatives represent the most structured deepening of Malaysia-Singapore economic integration in a generation, with annual bilateral trade now exceeding S$120 billion. [NST](https://www.nst.com.my/amp/news/nation/2026/07/1489960/singapore-malaysia-strengthen-ties-through-js-sez-rts-link)
+> > Malaysia's Economy Ministry confirmed the Johor-Singapore Special Economic Zone (JS-SEZ) master plan is complete, with the formal launch aligned with the Malaysia-Singapore Leaders' Retreat in Q4 2026 to secure the highest-level bilateral commitment from PM Anwar Ibrahim and PM Lawrence Wong. The Johor Bahru–Singapore Rapid Transit System (RTS) Link remains on track for commercial operations in January 2027, deepening cross-border connectivity between the two neighbours. Together the two flagship initiatives represent the most structured deepening of Malaysia-Singapore economic integration in a generation, with annual bilateral trade now exceeding S$120 billion. [NST](https://www.nst.com.my/amp/news/news/2026/07/1489960/singapore-malaysia-strengthen-ties-through-js-sez-rts-link)
 > 
 > > [!note]- Malaysia: Senate passes Cyber Security Bill 2026 — minimum 3-year jail for offences (The Sun)
 > > Malaysia's Senate passed the Cyber Security Bill 2026, establishing a mandatory minimum three-year prison sentence for cybersecurity offences and creating an enforcement framework aligned with international standards. The legislation marks a major step in PM Anwar Ibrahim's Madani government's digital governance agenda and positions Malaysia alongside Singapore and Australia in adopting legally binding minimum sentences for cyber crime. Separately, Anwar held campaign rallies in Seremban and Paroi on Wednesday as the Negeri Sembilan state election enters its final stretch ahead of the August 1 polling day. [The Sun](https://thesun.my/news/malaysia-news/malaysia-senate-passes-cyber-security-bill-2026/)
