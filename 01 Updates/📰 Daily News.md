@@ -127,6 +127,17 @@ unread: true
 > > [!note]- Economy: IMF: global disinflation has stalled — 2026 headline inflation revised up 0.3pp to 4.7% on war and energy costs (IMF)
 > > The IMF's July 2026 World Economic Outlook Update warned that the global disinflation trend in place since early 2024 has stalled, with 2026 headline inflation now projected to jump from 4.1% in 2025 to 4.7% — a 0.3 percentage-point upward revision from April — driven chiefly by surging energy and food prices from the ongoing Middle East conflict. The outlook remains deeply uneven: war shocks weigh on energy-importing and vulnerable economies while AI-driven capital expenditure lifts countries integrated into global technology supply chains. The stalled disinflation complicates central bank rate-cut timelines globally, with markets watching the US Fed's two-day FOMC meeting this week for any signal on how Chair Kevin Warsh intends to respond. [IMF](https://www.imf.org/en/publications/weo/issues/2026/07/08/world-economic-outlook-update-july-2026)
 
+> **Night update**
+
+> [!breaking]- Tech: Apple briefly hits $5T market cap — only second company ever, after Nvidia (Bloomberg)
+> Apple Inc. briefly surpassed a $5 trillion market capitalisation on Tuesday July 28, with shares touching a session high of $342.89 to push its market value to $5.036 trillion — making Apple only the second company in history to reach the milestone, after Nvidia crossed it earlier in 2026. The stock later pulled back just below the $340.43 closing threshold needed to formally count as a $5T company at settlement. Apple is up roughly 24% year-to-date and 60% over the past twelve months, driven by strong iPhone sales and AI product momentum heading into Wednesday's Q2 earnings report. [Bloomberg](https://www.bloomberg.com/news/articles/2026-07-28/apple-becomes-second-company-to-hit-5-trillion-in-market-value)
+
+> [!note]- Tech: ASML drops 5.8% as report warns China is building domestic DUV chip machines (TheStreet)
+> Semiconductor stocks took a broad hit on Tuesday after a report cited sources saying China is actively developing deep ultraviolet (DUV) lithography machines used in semiconductor manufacturing — technology currently dominated by ASML Holding, whose shares fell 5.8% on the news. If China succeeds in domesticating DUV production, it would undercut a key lever of Western semiconductor export controls and significantly reduce ASML's addressable market. The sell-off dragged other chipmakers lower even as Apple's $5T milestone lifted broader equity indices; it adds fresh uncertainty heading into a heavy earnings and Fed week. [TheStreet](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-july-28-2026)
+
+> [!note]- NKE: $42.90 (+1.82%); P&L −$1,324; two-day recovery ahead of Wed mega-cap earnings (CNBC)
+> Nike traded at approximately $42.90 as of Tuesday afternoon — up $0.76 (+1.82%) from Monday's $42.14 close — extending a two-session recovery from Friday's $41.70. The 46-share position at avg cost $71.69 carries an unrealised loss of −$1,324. All attention turns Wednesday to Amazon, Meta, and Microsoft Q2 earnings and the FOMC rate decision (2:00 p.m. ET), both of which could move risk sentiment and consumer/retail stocks including Nike significantly. [CNBC](https://www.cnbc.com/quotes/NKE)
+
 > [!note]- [[07-27-26 Mon]]
 > 
 > > [!breaking]- AI: Kimi K3 open weights live — 2.8T-param MoE, largest open release ever (Moonshot AI)
