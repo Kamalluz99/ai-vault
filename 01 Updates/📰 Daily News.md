@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-07-28T05:00
+updated: 2026-07-28T19:07
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,26 @@ unread: true
 
 > [!note]- NKE: $41.70 (Fri close, Mon TBD); P&L −$1,380; China franchise digital ban from Jan 2027 (Yahoo Finance)
 > Nike last quoted at $41.70 — unchanged from Friday July 25's close — near its 52-week low as Monday's final data awaits full reflection; the 46-share position at avg cost $71.69 carries an unrealised loss of −$1,380 (−41.8%). Nike confirmed Chinese franchise partners will be barred from all digital sales channels from January 2027, limiting online sales to company-operated channels, Tmall, JD.com, and Douyin — a move analysts label a meaningful strategic risk in its most important growth market. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
+
+> **Evening update**
+
+> [!note]- Singapore & Malaysia: Tharman state visit locks in deeper SG-MY ties — RTS Link, JS-SEZ, renewables (MFA Singapore)
+> Singapore President Tharman Shanmugaratnam's state visit to Malaysia from July 12–15 culminated in both heads of state calling for deeper bilateral cooperation, with Malaysian King Sultan Ibrahim Iskandar and President Tharman highlighting renewable energy, sustainable development, and youth exchanges as priority areas. Both leaders welcomed progress on the Johor Bahru–Singapore Rapid Transit System Link — on track for January 2027 commercial opening — and the Johor-Singapore Special Economic Zone, whose master plan is now in finalisation ahead of a Q4 2026 joint launch. The visit marks the strongest sustained high-level SG-MY engagement in years and signals accelerating economic integration between the two neighbours. [MFA Singapore](https://www.mfa.gov.sg/newsroom/press-statements-transcripts-and-photos/state-visit-by-president-tharman-shanmugaratnam-to-malaysia--12-to-15-july-2026-1/)
+
+> [!note]- Malaysia: Police to call up Kedah MB Sanusi over investigation linked to NS rally speech (The Star)
+> Malaysian police have confirmed they will summon Kedah Menteri Besar Datuk Seri Muhammad Sanusi Md Nor and a Rembau UMNO member for questioning in an ongoing investigation — a direct consequence of Sanusi's racially charged "Malays only have this land" speech at a Negeri Sembilan election rally on July 25, which drew sharp rebukes from PM Anwar Ibrahim and DPM Zahid Hamidi. The call-up comes just five days before the August 1 Negeri Sembilan polling day, making it the sharpest legal development to emerge from the speech controversy. The investigation adds a new dimension to an already contentious campaign and keeps Sanusi's remarks centre stage during the crucial final stretch. [The Star](https://www.thestar.com.my/)
+
+> [!breaking]- World: France mega-wildfire — area 4× Paris burned, 220k evacuated, Macron calls worst crisis since WWII (CNBC)
+> A wildfire raging in southwest France has burned an area four times the size of Paris, forced the evacuation of over 220,000 people, and led President Emmanuel Macron to declare it France's worst fire crisis since World War II. Interior Minister Laurent Nuñez described the blazes as "extremely violent and unpredictable," and roughly a dozen nations have dispatched aerial firefighting crews to assist; Spain is simultaneously battling its own heat wave with temperatures topping 100°F in parts of the Iberian Peninsula. The disaster comes amid record-breaking summer heat gripping much of Europe and underscores the growing scale of climate-driven wildfire risk in the Mediterranean region. [CNBC](https://www.cnbc.com/2026/07/27/cnbc-daily-open-iran-attacks-halt-and-wildfires-rage-across-europe.html)
+
+> [!note]- World: Zelenskyy meets new UK PM Burnham in London; Qatar and Pakistan shuttle US-Iran ceasefire talks (WORLD)
+> Ukrainian President Volodymyr Zelenskyy traveled to London to meet newly appointed UK Prime Minister Andy Burnham — one of Burnham's first major diplomatic engagements since replacing Keir Starmer — reaffirming British military and financial commitments to Ukraine as Russia continues to press along the eastern front. Separately, mediators from Qatar and Pakistan are actively carrying messages between Washington and Tehran in an effort to formalise and extend the current US-Iran bombing pause, now in its second consecutive day, with both sides signalling cautious openness to an interim ceasefire framework. [WORLD](https://wng.org/podcasts/tuesday-morning-news-july-28-2026-1785181632)
+
+> [!note]- Tech: Sam Altman declares technological singularity has arrived; OpenAI doubles lobbying spend to record $2.22M (AIToolsRecap)
+> OpenAI CEO Sam Altman publicly claimed the technological singularity has arrived, describing AI as having crossed a threshold into broadly superhuman capability — the most dramatic assertion yet from a major AI CEO about the current state of the technology. Separately, OpenAI nearly doubled its US federal lobbying expenditures to a record $2.22 million in the first half of 2026, as leading AI companies accelerate political spending to shape governance frameworks before binding legislation materialises; the EU Commission also separately ordered Google to open Android to rival AI assistants including Claude and ChatGPT by July 2027. [AIToolsRecap](https://aitoolsrecap.com/Blog/AINewsJuly2026.aspx)
+
+> [!note]- Economy: IMF: global disinflation has stalled — 2026 headline inflation revised up 0.3pp to 4.7% on war and energy costs (IMF)
+> The IMF's July 2026 World Economic Outlook Update warned that the global disinflation trend in place since early 2024 has stalled, with 2026 headline inflation now projected to jump from 4.1% in 2025 to 4.7% — a 0.3 percentage-point upward revision from April — driven chiefly by surging energy and food prices from the ongoing Middle East conflict. The outlook remains deeply uneven: war shocks weigh on energy-importing and vulnerable economies while AI-driven capital expenditure lifts countries integrated into global technology supply chains. The stalled disinflation complicates central bank rate-cut timelines globally, with markets watching the US Fed's two-day FOMC meeting this week for any signal on how Chair Kevin Warsh intends to respond. [IMF](https://www.imf.org/en/publications/weo/issues/2026/07/08/world-economic-outlook-update-july-2026)
 
 > [!note]- [[07-27-26 Mon]]
 > 
