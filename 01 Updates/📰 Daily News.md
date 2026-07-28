@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-07-29T05:00
+updated: 2026-07-29T05:15
 topic: daily news
 frequency: daily
 ongoing: false
@@ -63,26 +63,23 @@ unread: true
 
 ### [[07-29-26 Wed]]
 
-> [!note]- AI: All major AI platforms pivot to autonomous agents as 2026's defining shift (Build Fast With AI)
-> The biggest transition in AI this year isn't a new chatbot — it's the move from AI that answers questions to AI that completes entire workflows autonomously. Microsoft, Anthropic, OpenAI, and Google are all racing to ship "do the work" agent tools, with industry observers noting they're now "good enough for real business use." CISA separately warned that autonomous agents are opening novel identity and access management vulnerabilities. [Build Fast With AI](https://www.buildfastwithai.com/blogs/ai-news-today-july-20-2026-16-biggest-stories)
+> [!note]- AI: Anthropic launches Claude Sonnet 5 — near-Opus 4.8 performance at $2/$10 per million tokens (LLM Stats)
+> Anthropic released Claude Sonnet 5, delivering near-Opus 4.8 intelligence at introductory pricing of $2 per million input tokens and $10 per million output tokens through August 31 — significantly cheaper than its predecessor. The launch continues Anthropic's push to compress performance down the cost curve, following Claude Opus 5's July 24 debut at $5/$25 per million. Anthropic also upgraded Claude Voice Mode to run on Opus, Sonnet, or Haiku with mid-conversation connector access to Gmail, Slack, and Canva across 11 languages. [LLM Stats](https://llm-stats.com/llm-updates)
 
-> [!note]- Tech: Anthropic to pay $1.5B to authors in landmark AI copyright settlement (Tech Startups)
-> Anthropic has agreed to pay $1.5 billion to hundreds of thousands of authors to settle a landmark copyright infringement lawsuit — the largest known settlement in generative AI's history. The case centred on Anthropic's alleged use of books to train its Claude models without authorisation or compensation. The settlement is expected to influence pending suits against OpenAI, Google, and Meta, and sets a major precedent for how AI companies pay for creative training data. [Tech Startups](https://techstartups.com/2026/07/27/top-tech-news-today-july-27-2026-anthropic-monday-com-moonshot-ai-nvidia-openai-more/)
+> [!note]- Tech: Microsoft & Meta report Q2 earnings today; AI capex guidance is the key market mover (TipRanks)
+> Microsoft (fiscal Q4) and Meta (calendar Q2) both report after market close today, with analysts forecasting Microsoft revenue of $87.6B (+14.6% YoY) and Meta revenue of ~$60B (+25% YoY) — the highest consensus beat-odds quarter either company has entered in years. The real market focus is FY27 capital expenditure guidance: both firms are spending heavily on AI infrastructure and investors want evidence of returns. Amazon reports Thursday, making the next 48 hours the highest-stakes earnings window in tech for 2026. [TipRanks](https://www.tipranks.com/news/big-tech-earnings-showdown-meta-and-microsoft-in-focus-ahead-of-july-29-earnings-report)
 
-> [!note]- Macro: FOMC decision day — 64% hold at 3.50–3.75%; Dow +0.5% to 52,210, S&P flat at 7,413 (CNBC)
-> The Federal Reserve's FOMC delivers its July rate decision today, with CME FedWatch showing 64% hold probability — down sharply from 87% last week as oil near $94/bbl keeps inflation risk elevated. Markets ended mixed July 28: Dow +0.5% to 52,210, S&P 500 barely flat at 7,413; semiconductor names were hit hardest with SK Hynix −14.65% and Samsung −13%+ in Seoul on AI capex return concerns. Big-tech earnings (Amazon, Meta, Microsoft) report this week. [CNBC](https://www.cnbc.com/2026/07/27/stock-market-today-live-updates.html)
+> [!note]- Macro: FOMC decision day — hold at 3.50–3.75% expected; Bitcoin surges ahead of 2pm ET announcement (CNBC)
+> The Federal Reserve announces its July rate decision today at 2pm ET, with markets pricing roughly 64% probability of an unchanged rate at 3.50–3.75% while a minority price a 25bp hike — Chair Kevin Warsh faces persistent oil near $94/bbl complicating the rate path into Q3. Ahead of the announcement, Bitcoin and XRP both surged as crypto markets positioned for risk-on if the Fed holds. The Dow had climbed 537 points on Tuesday on earnings optimism; Warsh's 2:30pm ET press conference is the day's centrepiece market event. [CNBC](https://www.cnbc.com/2026/07/27/stock-market-today-live-updates.html)
 
-> [!note]- World: DRC Ebola toll at 930 dead; Trump meets Zelenskyy and Netanyahu as US-Iran pause holds (CNN)
-> The Ebola outbreak in the Democratic Republic of the Congo has killed 930 people with over 2,300 confirmed cases — one of the worst outbreaks in years — as international health agencies scale up response in hard-to-reach eastern provinces. President Trump held separate White House meetings with Ukrainian President Zelenskyy and Israeli PM Netanyahu on July 28, as the US-Iran bombing pause extends with Qatar and Pakistan brokering ceasefire talks. [CNN](https://www.cnn.com/2026/07/26/world/live-news/iran-war-trump)
+> [!note]- World: Trump-Netanyahu summit reaffirms Iran nuclear red line; US bombing pause holds Day 3 (Fox News)
+> Israeli PM Benjamin Netanyahu met President Trump at the White House on Tuesday in what Netanyahu called "one of the best conversations I've had with the President of the United States," with both leaders reaffirming their "ironclad commitment" to ensuring Iran never acquires nuclear weapons. No deal was announced but the US bombing pause against Iran extended into a third consecutive day, with back-channel talks continuing via Qatar and Pakistan. Trump said he wants an Iran deal but remains "locked and loaded" if diplomacy collapses. [Fox News](https://www.foxnews.com/live-news/trump-netanyahu-meeting-iran-war-white-house-july-28-2026)
 
-> [!note]- Malaysia/Singapore: MAS surprises markets with unexpected monetary tightening to curb persistent inflation (MAS)
-> The Monetary Authority of Singapore unexpectedly tightened its exchange-rate policy on July 27, catching markets off guard when most analysts had forecast a hold. The MAS cited persistent inflationary pressures as the primary driver, signalling the central bank sees domestic price risks as more urgent than growth concerns. The move will strengthen the Singapore dollar and add to borrowing costs across the city-state's property and business sectors. [Vietnam Plus](https://en.vietnamplus.vn/malaysia-singapore-step-up-talks-following-uss-new-tariffs-post348912.vnp)
+> [!note]- Malaysia: NS election final 72 hours — PH leads 17 seats, BN 15; police to summon Sanusi before polls (The Sun)
+> The Negeri Sembilan state election enters its final 72 hours with Vodus Research's latest model placing Pakatan Harapan ahead in 17 seats and Barisan Nasional in 15, with two BN-PH contests still too close to call — a margin so thin either coalition could form government. Malaysian police are set to summon Kedah MB Sanusi over his racially charged "Malays only have this land" NS rally speech, injecting a legal flashpoint into the final campaign stretch. The campaign period ends at 11.59pm July 31; polling day is August 1. [The Sun](https://thesun.my/opinion/negeri-sembilan-2026-ph-holds-a-narrow-lead-but-bn-pn-remains-within-reach-of-power/)
 
-> [!note]- Science: Clearest confirmed sighting of a 'wandering' black hole ejected from a galaxy merger (SciTechDaily)
-> Astronomers announced the clearest confirmed observation of a stellar-mass black hole that was ejected from its host galaxy during a merger and is now drifting alone through intergalactic space — validating theoretical predictions made decades ago. The discovery suggests thousands of such runaway black holes may litter intergalactic space, invisible yet potentially significant to the large-scale structure of the cosmos. [SciTechDaily](https://scitechdaily.com/)
-
-> [!note]- NKE: $43.03 (+2.10%, Jul 28 close); P&L ~−$1,320; FOMC and big-tech earnings the key near-term catalysts (Investing.com)
-> Nike closed at $43.03 on July 28, up 2.10% — a modest recovery from 52-week low territory near $40.00, but the 46-share position at $71.69 avg cost still carries an unrealised loss of approximately −$1,320 (−40.1%). The 12-month analyst consensus target stands at $51.12 with a Buy rating from 12 of 14 analysts, suggesting meaningful upside if consumer sentiment improves post-FOMC. [Investing.com](https://www.investing.com/equities/nike)
+> [!note]- Science: China's Tianwen-1 Mars orbiter captures interstellar comet 3I/ATLAS — tail and coma revealed (ScienceDaily)
+> China's Mars orbiter Tianwen-1 released images of interstellar comet 3I/ATLAS taken from approximately 30 million kilometres away as the comet raced past Mars — the first time a spacecraft in Mars orbit has imaged an interstellar visitor. The images reveal 3I/ATLAS's glowing coma and extended dust tail, offering scientists a view of material born in another planetary system. 3I/ATLAS, discovered in July 2025, is only the third interstellar object ever confirmed to pass through our solar system and is currently crossing Saturn's orbit as it races outward. [ScienceDaily](https://www.sciencedaily.com/releases/2026/07/260723084052.htm)
 
 > [!note]- [[07-28-26 Tue]]
 > 
@@ -126,17 +123,6 @@ unread: true
 > 
 > > [!note]- Economy: IMF: global disinflation has stalled — 2026 headline inflation revised up 0.3pp to 4.7% on war and energy costs (IMF)
 > > The IMF's July 2026 World Economic Outlook Update warned that the global disinflation trend in place since early 2024 has stalled, with 2026 headline inflation now projected to jump from 4.1% in 2025 to 4.7% — a 0.3 percentage-point upward revision from April — driven chiefly by surging energy and food prices from the ongoing Middle East conflict. The outlook remains deeply uneven: war shocks weigh on energy-importing and vulnerable economies while AI-driven capital expenditure lifts countries integrated into global technology supply chains. The stalled disinflation complicates central bank rate-cut timelines globally, with markets watching the US Fed's two-day FOMC meeting this week for any signal on how Chair Kevin Warsh intends to respond. [IMF](https://www.imf.org/en/publications/weo/issues/2026/07/08/world-economic-outlook-update-july-2026)
-
-> **Night update**
-
-> [!breaking]- Tech: Apple briefly hits $5T market cap — only second company ever, after Nvidia (Bloomberg)
-> Apple Inc. briefly surpassed a $5 trillion market capitalisation on Tuesday July 28, with shares touching a session high of $342.89 to push its market value to $5.036 trillion — making Apple only the second company in history to reach the milestone, after Nvidia crossed it earlier in 2026. The stock later pulled back just below the $340.43 closing threshold needed to formally count as a $5T company at settlement. Apple is up roughly 24% year-to-date and 60% over the past twelve months, driven by strong iPhone sales and AI product momentum heading into Wednesday's Q2 earnings report. [Bloomberg](https://www.bloomberg.com/news/articles/2026-07-28/apple-becomes-second-company-to-hit-5-trillion-in-market-value)
-
-> [!note]- Tech: ASML drops 5.8% as report warns China is building domestic DUV chip machines (TheStreet)
-> Semiconductor stocks took a broad hit on Tuesday after a report cited sources saying China is actively developing deep ultraviolet (DUV) lithography machines used in semiconductor manufacturing — technology currently dominated by ASML Holding, whose shares fell 5.8% on the news. If China succeeds in domesticating DUV production, it would undercut a key lever of Western semiconductor export controls and significantly reduce ASML's addressable market. The sell-off dragged other chipmakers lower even as Apple's $5T milestone lifted broader equity indices; it adds fresh uncertainty heading into a heavy earnings and Fed week. [TheStreet](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-july-28-2026)
-
-> [!note]- NKE: $42.90 (+1.82%); P&L −$1,324; two-day recovery ahead of Wed mega-cap earnings (CNBC)
-> Nike traded at approximately $42.90 as of Tuesday afternoon — up $0.76 (+1.82%) from Monday's $42.14 close — extending a two-session recovery from Friday's $41.70. The 46-share position at avg cost $71.69 carries an unrealised loss of −$1,324. All attention turns Wednesday to Amazon, Meta, and Microsoft Q2 earnings and the FOMC rate decision (2:00 p.m. ET), both of which could move risk sentiment and consumer/retail stocks including Nike significantly. [CNBC](https://www.cnbc.com/quotes/NKE)
 
 > [!note]- [[07-27-26 Mon]]
 > 
@@ -249,7 +235,7 @@ unread: true
 > > [!note]- Malaysia/Singapore: MUIS to disburse $8M+ from wakaf income in 2026; AirBorneo launches KL-Kuching route (Yahoo News SG)
 > > The Islamic Religious Council of Singapore (MUIS) will disburse more than $8 million from its wakaf-generated income in 2026, channelling endowment returns into community programmes and social services. In Malaysia, AirBorneo commenced its Kuala Lumpur–Kuching service on July 20 using Boeing B737-800 aircraft, expanding connectivity between the Peninsula and Sarawak. [Yahoo News SG](https://sg.news.yahoo.com/)
 > 
-> > [!note]- Science: Webb Telescope discovers giant planet hiding inside closely studied dust-disk planetary system (ScienceDaily)
+> > [!note]- Science: Webb Telescope discovers giant planet hiding inside closely watched dust-disk planetary system (ScienceDaily)
 > > NASA's James Webb Space Telescope revealed a giant planet that had been hiding inside one of astronomy's most closely studied planetary systems, obscured for years by a thick disk of cosmic dust that blocked earlier instruments from detecting it. The finding suggests mature planetary systems may harbour more bodies than current catalogues reflect, carrying broad implications for models of how planets form and migrate. The result adds to a growing body of Webb discoveries reshaping foundational assumptions in planetary science. [ScienceDaily](https://www.sciencedaily.com/news/top/)
 > 
 > > [!note]- NKE: $40.99 (−2.9%); P&L −$1,412; China digital channel restrictions draw "risky" label from analysts (Yahoo Finance)
