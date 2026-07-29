@@ -84,6 +84,29 @@ unread: true
 > [!note]- NKE: $42.63 (−1.0%) — NKE cuts China online distribution channels; 46 shares × $71.69 avg = −$1,337 unrealised (Yahoo Finance)
 > Nike (NKE) traded at $42.63 on July 29, down ~1.0% from the prior close of $43.05, after confirming plans to cut various online distribution channels in China as part of a strategic pivot away from third-party digital retail. The 52-week range is $40.00–$80.17; at current price the 46-share position at a $71.69 average cost carries an unrealised loss of approximately −$1,337. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
 
+> [!note]- [[07-29-26 Wed]]
+> 
+> > [!note]- AI: OpenAI opens free GPT-5.6 access for 100,000 academics in science push (Axios)
+> > OpenAI launched its ChatGPT for Academic Researchers programme on July 29, offering free access to its frontier GPT-5.6 model family — including the flagship Sol Pro variant — to academic institutions. The scheme begins with 10,000 researchers this summer and expands to 100,000 by 2027, bundling expanded deep research, higher usage limits, and larger context windows. Participating institutions already include the Institute for Advanced Study and École normale supérieure. [Axios](https://www.axios.com/2026/07/29/openai-academics-research-chatgpt-sol)
+> 
+> > [!note]- Tech: Intel cuts Data Center & AI jobs before Q2 earnings despite 22% unit revenue growth (Benzinga)
+> > Intel initiated a new round of layoffs targeting its Data Center and AI group ahead of Q2 earnings, even as the division posted $5.05 billion in Q1 2026 revenue — up 22% year-on-year. CEO Lip-Bu Tan framed the cuts as organisational realignment to sharpen long-term focus rather than a sign of business weakness. The move contributes to a 2026 tech layoff tracker now at 205,832 cuts across 322 events, with AI-driven restructuring cited in more than half of all cases. [Benzinga](https://www.benzinga.com/markets/tech/26/07/60568468/intel-layoffs-data-center-ai-unit-earnings)
+> 
+> > [!note]- Macro: Fed holds at 3.50–3.75% for 5th straight meeting; 3 dissents; Sep hike penciled in (CNBC)
+> > The FOMC voted 9-3 to keep the federal funds rate unchanged at 3.50–3.75%, with Cleveland's Hammack, Minneapolis's Kashkari, and Dallas's Logan dissenting in favour of a hike as inflation has remained above 2% for over five years. Markets were flat ahead of the decision: S&P 500 +0.12%, gold at $4,102/oz, WTI crude at $84.70/bbl. Fed chair Kevin Warsh stepped back from forward guidance, though officials have penciled in one 25bp rate increase by year-end, with September widely expected. [CNBC](https://www.cnbc.com/2026/07/29/fed-rate-decision-july-2026.html)
+> 
+> > [!breaking]- World: Worst EU wildfire season in decades — 220K evacuated near Bordeaux; 4th heatwave hits (Euronews)
+> > France and Spain are battling the worst wildfire season Western Europe has seen in decades, with 42,000 hectares burned in southwest France and 220,000 people displaced — the largest evacuation since WWII. A fourth heatwave of the summer pushed temperatures back to 41°C on Wednesday, threatening to reignite stabilised blazes as four French firefighters have died over two weeks of operations. Greece and Turkey are simultaneously fighting deadly wildfires, with three firefighters killed across Crete and the Peloponnese as the EU coordinates emergency cross-border aid. [Euronews](https://www.euronews.com/my-europe/2026/07/29/eu-coordinates-wildfire-aid-for-france-and-spain-amid-warnings-heatwave-could-spread)
+> 
+> > [!note]- Malaysia/Singapore: Tabung Haji RCI report declassified — Cabinet vows prosecutions for 2014–20 losses (Malay Mail)
+> > Malaysia's Cabinet formally declassified and released the long-delayed Royal Commission of Inquiry report into Lembaga Tabung Haji, covering alleged mismanagement between 2014 and 2020. The report — completed in July 2022 and withheld to "prevent public panic" — contains 25 recommendations, of which 75% have already been implemented. PM Anwar Ibrahim pledged that parties found to have broken the law will be prosecuted, with enforcement agencies beginning immediate action and a special Dewan Rakyat debate to follow. [Malay Mail](https://www.malaymail.com/news/malaysia/2026/07/29/tabung-haji-rci-report-set-for-public-release-today-anwar-confirms/229413)
+> 
+> > [!note]- Science: Webb detects Beta Pictoris d via atmosphere alone — new method to find hidden planets (NASA)
+> > NASA's James Webb Space Telescope discovered Beta Pictoris d — a third giant planet in one of astronomy's most closely studied systems — without any direct imaging, identifying absorption signatures of carbon monoxide, methane, and water vapour in its atmosphere instead. The method marks the first time atmospheric spectroscopy alone served as primary proof of a planet's existence rather than a follow-up characterisation step. Beta Pictoris becomes only the second known system, after HR 8799, with three directly confirmed planets, and the technique opens a new route to finding worlds hidden behind debris disks. [NASA](https://science.nasa.gov/missions/webb/nasas-webb-discovers-hidden-planet-in-famous-star-system/)
+> 
+> > [!note]- Nike (NKE): $42.63, −0.98%; Berenberg cuts PT to $49 (Hold); unrealised P&L: −$1,337 (StockAnalysis)
+> > Nike is trading at $42.63 on Wednesday, down $0.42 (−0.98%) from Tuesday's close of $43.05, within a 52-week range of $40.00–$80.17. Berenberg analyst Nick Anderson lowered the firm's price target on NKE to $49 from $80, maintaining a Hold rating, while the consensus remains Buy with an average PT of $51.12. With 46 shares held at an average cost of $71.69, unrealised P&L = 46 × ($42.63 − $71.69) = **−$1,337**. [StockAnalysis](https://stockanalysis.com/stocks/nke/)
+
 > [!note]- [[07-23-26 Thu]]
 > 
 > > [!note]- AI: EU AI Act Article 50 transparency rules enforceable from Aug 2 (Technology.org)
