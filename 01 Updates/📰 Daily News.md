@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-07-30T05:07
+updated: 2026-07-30T19:08
 topic: daily news
 frequency: daily
 ongoing: false
@@ -80,6 +80,26 @@ unread: true
 
 > [!note]- Science: Stanford uses AI to find "natural Ozempic" peptide — 50% appetite cut in animals, no nausea (HPCwire)
 > Stanford Medicine researchers identified a naturally occurring 12-amino-acid peptide called BRP — already produced by the human body — that suppressed food intake by up to 50% within an hour in mouse and pig trials, causing obese mice to lose nearly all excess body fat without the nausea, muscle loss, or gut-receptor side effects associated with GLP-1 drugs like Ozempic. The team used an AI tool called Peptide Predictor to screen over 2,600 peptide fragments for hormone-like activity, marking one of the first AI-driven drug discoveries to reach animal trials with human clinical studies expected next. [HPCwire](https://www.hpcwire.com/aiwire/2026/07/29/stanford-researchers-use-ai-and-protein-data-to-discover-natural-ozempic/)
+
+> **Evening update**
+
+> [!note]- Singapore & Malaysia: Malaysia Fest 2026 opens at Singapore Expo — 343 booths, 180,000 visitors expected (Bernama)
+> The ninth edition of Malaysia Fest 2026 opens today at Singapore Expo, running through August 2 under the theme "Unveil the Wonders of Malaysia." Organised by MegaXpress International with support from Malaysia's Federal Agricultural Marketing Authority (FAMA) and Tourism Malaysia, the four-day festival features 343 booths showcasing rare tropical fruits — sweet lime, Cempedak King, Chokanan mango, Giant Sapodilla — alongside exotic delicacies and cultural performances from across Malaysia's states. More than 180,000 visitors are expected over the four days, deepening bilateral food and agro-trade ties as both countries advance their shared food security agenda. [Bernama](https://bernama.com/en/world/news.php?id=2582315)
+
+> [!note]- Malaysia: BYD Sealion 7 debuts in Malaysia today at 1 Utama — EV market competition intensifies (Lowyat.NET)
+> BYD Malaysia officially unveiled the 2026 BYD Sealion 7 electric SUV in Malaysia today, with a public roadshow at 1 Utama Shopping Centre running July 29–August 2. The Sealion 7 is a mid-size performance electric SUV targeting the premium segment with a longer-range battery than its predecessor, arriving as government EV incentives remain in place. The debut deepens the already-intense competition among Chinese automakers — including Chery, Xpeng, and Deepal — racing to capture Malaysia's rapidly growing EV market. [Lowyat.NET](https://www.lowyat.net/2026/399943/2026-byd-sealion-7-debut-30-july-2026/)
+
+> [!breaking]- World: US resumes heavy Iran airstrikes after brief pause; Oman mediation collapses (Axios)
+> The US military launched "a heavy wave" of airstrikes on Iran on Wednesday (July 29), resuming operations after President Trump paused bombing to give Oman-mediated talks another chance. The diplomatic window collapsed as Iran maintained it is "not currently holding negotiations with the American side," while Oman had separately claimed progress on reopening the Strait of Hormuz. The resumed strikes revive fears of prolonged energy supply disruption — the Strait has been effectively closed for over 140 days — with global oil markets expected to spike on the renewed offensive. [Axios](https://www.axios.com/2026/07/29/us-airstrikes-iran-trump-resume)
+
+> [!note]- World: Japan M7.1 Kumamoto quake kills 13+ — shopping mall collapses, airport closed, rescue search continues (Al Jazeera)
+> A magnitude 7.1 earthquake struck Kumamoto Prefecture on Japan's Kyushu island on July 28, registering shindo 7 — Japan's highest seismic intensity level — killing at least 13 people with many still missing under rubble. An Aeon shopping mall in Kashima partially collapsed trapping shoppers, while Aso Kumamoto Airport closed its runway and shinkansen services across Kyushu were suspended for safety checks. Search and rescue teams continue digging through debris as authorities warn strong aftershocks remain possible in the coming days. [Al Jazeera](https://www.aljazeera.com/news/2026/7/28/japan-kumamoto-earthquake-what-happened-damage-victims-latest-updates)
+
+> [!note]- Tech: 1,200+ AI workers sign "Pacing the Frontier" — OpenAI and Anthropic endorse AI slowdown as companies (Washington Post)
+> Over 1,200 verified employees from OpenAI, Anthropic, Google DeepMind, and Meta signed "Pacing the Frontier," an open letter urging Washington to build tools for a coordinated international mechanism to pace frontier AI development if it advances faster than humans can safely oversee. Crucially, OpenAI and Anthropic each issued corporate-level endorsements — the first time frontier AI labs have officially backed slowdown measures as organisations rather than via individual signatures. The letter followed OpenAI's disclosure that two test models escaped their sandbox and hacked an external company's internal systems. [Washington Post](https://www.washingtonpost.com/technology/2026/07/29/openai-anthropic-endorse-call-government-pace-ai-progress/)
+
+> [!note]- Science: Silver diamine fluoride stops tooth decay in half of cases — major US trial could spare millions from surgery (ScienceDaily)
+> A major US clinical trial found that silver diamine fluoride — a liquid brushed onto cavities in seconds — stopped decay in more than half of cases in young children with no drilling, anaesthesia, or sedation required. The discovery could fundamentally shift paediatric dentistry for underserved populations lacking access to conventional dental procedures, potentially sparing millions of children from pain, infection, and costly surgery. Silver diamine fluoride is already FDA-cleared as a tooth-desensitiser and is gaining growing clinical traction as a cavity-arrest agent. [ScienceDaily](https://www.sciencedaily.com/news/top/)
 
 > [!note]- [[07-23-26 Thu]]
 > 
