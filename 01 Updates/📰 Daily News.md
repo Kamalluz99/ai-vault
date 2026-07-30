@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-07-30T19:08
+updated: 2026-07-30T21:09
 topic: daily news
 frequency: daily
 ongoing: false
@@ -100,6 +100,14 @@ unread: true
 
 > [!note]- Science: Silver diamine fluoride stops tooth decay in half of cases — major US trial could spare millions from surgery (ScienceDaily)
 > A major US clinical trial found that silver diamine fluoride — a liquid brushed onto cavities in seconds — stopped decay in more than half of cases in young children with no drilling, anaesthesia, or sedation required. The discovery could fundamentally shift paediatric dentistry for underserved populations lacking access to conventional dental procedures, potentially sparing millions of children from pain, infection, and costly surgery. Silver diamine fluoride is already FDA-cleared as a tooth-desensitiser and is gaining growing clinical traction as a cavity-arrest agent. [ScienceDaily](https://www.sciencedaily.com/news/top/)
+
+> **Late update**
+
+> [!note]- NKE: JPMorgan upgrades to Overweight, $93 target; NKE at $41.83 −3.2% today (Benzinga)
+> JPMorgan Chase upgraded Nike (NKE) on July 28 from Neutral to Overweight, raising its price target from $64 to $93 — one of the most bullish calls on the stock this year despite persistent brand-reset headwinds. NKE is trading at $41.83 today, down 3.2% from Wednesday's $43.22 close, pulling back even as the broader market rallies on Microsoft earnings. The stock's 52-week range is $40.00–$80.17; consensus 12-month average target ~$49.55. Owner holds 46 shares at avg cost $71.69; unrealised P&L: −$1,374 (46 × −$29.86). [Benzinga](https://www.benzinga.com/quote/NKE/analyst-ratings)
+
+> [!note]- Macro: Microsoft +15.5% on earnings lifts S&P +1.3% to 7,422; 30-yr yield tops 5.2% (Motley Fool)
+> Microsoft surged 15.5% on blowout Q2 results, powering the S&P 500 up 1.29% to 7,422 and the Nasdaq up 2.61% to 25,081 in one of the strongest single-day tech-led rallies of 2026. Oil retreated to $83.86/bbl despite resumed Iran airstrikes, while gold rose 1.65% to $4,105.90. The 30-year Treasury yield climbed above 5.2% — its highest since 2007 — as bond markets sold off after the Fed's fifth straight hold, producing a rare simultaneous equity rally and yield surge. [Motley Fool](https://www.fool.com/coverage/stock-market-today/2026/07/30/stock-market-midday-july-30-microsoft-soars-15-boosting-tech-stocks/)
 
 > [!note]- [[07-23-26 Thu]]
 > 
