@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-07-31T19:07
+updated: 2026-08-01T05:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -58,6 +58,31 @@ unread: true
 > > [!breaking]- World: Major diplomatic deadline expires tonight (Al Jazeera)
 > > A strategic chokepoint deadline expires at 8pm ET. Negotiations have stalled and military action looks imminent. [Source](https://example.com)
 > ```
+
+## 2026-08
+
+### [[08-01-26 Sat]]
+
+> [!note]- AI: EU AI Act Article 50 transparency rules take effect August 2 — all EU AI chatbots must disclose (Technology.org)
+> The European Commission's mandatory transparency obligations under Article 50 of the EU AI Act enter force tomorrow (August 2), requiring all AI chatbots, synthetic media tools, and general-purpose AI systems operating in the EU to disclose AI interactions in machine-readable format and label deepfakes. Providers who miss compliance face enforcement by national digital regulators. The rules represent the broadest binding AI transparency mandate ever enacted and are expected to drive a compliance scramble across hundreds of EU-facing AI products. [Technology.org](https://www.technology.org/2026/07/17/eu-ai-act-what-actually-applies-on-2-august-2026/)
+
+> [!note]- Tech: Amazon hikes 2026 capex to $220B on memory costs; Lam Research +17% as chip stocks surge (CNBC)
+> Amazon raised its full-year 2026 capital expenditure guidance to $220 billion — above prior estimates — citing higher memory and AI chip costs as AWS posted its fastest revenue growth since 2021. Chip equipment stocks surged in tandem: Lam Research climbed 17% while AMD and Micron also saw strong gains, extending the AI-driven chip cycle into the second half of 2026. The moves reinforce Big Tech's commitment to AI infrastructure even as financing costs rise. [CNBC](https://www.cnbc.com/technology/)
+
+> [!note]- Macro: S&P 500 +1.66% to 7,437 Friday on AI megacap rally; Nasdaq +2.78%; VIX −17% closes strong July (Rio Times)
+> Wall Street capped a strong July on Friday with the S&P 500 up 1.66% to 7,437.63 and the Nasdaq surging 2.78%, driven by blowout earnings from Meta and Amazon lifting AI megacaps across the board. The VIX fear index tumbled 17% to 17.09, signalling deep investor confidence, while the US dollar index fell 0.76%. The close erased earlier July concerns over the 1.5% Q2 GDP miss and tariff headwinds as AI infrastructure optimism returned in force. [Rio Times](https://www.riotimesonline.com/global-economy-briefing-july-31-2026/)
+
+> [!note]- World: Venezuela opens US-backed opposition talks on democratic transition after twin earthquakes kill 5,300+ (Wikipedia)
+> Venezuela's interim government opened US-backed negotiations with the country's opposition aimed at a democratic transition framework, as the nation continues recovery from devastating twin earthquakes that killed more than 5,300 people. The talks represent Washington's most direct engagement with Venezuela's political transition in years and come amid compounding humanitarian concerns following the earthquake disaster. [Wikipedia](https://en.wikipedia.org/wiki/Portal:Current_events/August_2026)
+
+> [!note]- Malaysia/Singapore: NS election polling day — 880,000 voters decide all 36 seats in PH-BN vs PN GE16 bellwether (Bernama)
+> Negeri Sembilan goes to polls today (August 1) with over 880,000 registered voters deciding all 36 state seats in a three-cornered contest between Pakatan Harapan, Barisan Nasional, and Perikatan Nasional — the first direct PH-BN face-off in the state. The result is widely watched as the sharpest GE16 bellwether since BN's Johor landslide. Results expected tonight. Separately, Singapore tightened monetary policy in a surprise MAS move as rising oil prices reignite inflation risk. [Bernama](https://bernama.com/en/)
+
+> [!note]- Science: FDA approves bemotrizinol in sunscreen — first new US UV-aging filter in years (Science News)
+> The FDA has approved bemotrizinol for use in US sunscreens — a long-lasting chemical that defends against UV radiation that ages skin (UVA1), filling a significant gap in the US sunscreen palette after decades of European and Asian use. The August 2026 Science News issue also highlights Daraxonrasib, a cancer drug that nearly doubled patient survival times by bear-hugging a cancer protein that drives cell growth. [Science News](https://www.sciencenews.org/sn-magazine/august-2026)
+
+> [!note]- NKE: ~$41.66 (−3.61%, Jul 30) — China revenue hits 8-year low; JPM "Overweight" $93 target vs $51 consensus (CNBC)
+> Nike (NKE) last closed at approximately $41.66 on July 30 (−3.61%); markets closed today (Saturday). The 46-share position at $71.69 avg cost carries an unrealised loss of approximately −$1,381 (46 × −$30.03). Nike's China business has shrunk 30% since 2021 with annual revenue at an 8-year low. JPMorgan holds its Overweight upgrade with a $93 price target — the most bullish major-bank call — versus the 39-analyst consensus of $51.12. [CNBC](https://www.cnbc.com/quotes/NKE)
 
 ## 2026-07
 
