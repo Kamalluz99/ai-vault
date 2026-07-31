@@ -129,6 +129,19 @@ unread: true
 > [!note]- Economy: S&P 500 +1.66% to 7,437 as AI megacaps surge on Meta/Amazon earnings; Nasdaq +2.78%; VIX falls 17% (Rio Times)
 > Wall Street closed sharply higher on Friday as AI-driven megacap technology stocks led broad gains, with the S&P 500 up 1.66% to 7,437.63, the Dow up 1.19%, and the Nasdaq surging 2.78% — extending the week's rally on the back of blowout earnings from Meta and Amazon. The VIX fear index tumbled 17.28% to 17.09 signalling deep investor complacency, while the US dollar index fell 0.76% to 100.12, relieving pressure on emerging-market currencies. The close caps a strong month for equities, erasing earlier July concerns about GDP growth and tariff headwinds as AI infrastructure optimism returned in force. [Rio Times](https://www.riotimesonline.com/global-economy-briefing-july-31-2026/)
 
+
+> **Late update**
+
+> [!note]- World: Senate defeats Iran war powers 49-50; Fetterman casts decisive No (Roll Call)
+> The US Senate voted 49 to 50 to defeat a Democratic-led war powers resolution that would have compelled President Trump to withdraw US forces from Iran and seek congressional authorisation before further military action. Three Republicans — Susan Collins, Lisa Murkowski, and Rand Paul — crossed over to vote with Democrats, but Pennsylvania Senator John Fetterman defied his caucus and cast the decisive No vote, single-handedly sinking the measure. The result leaves Trump's Iran military campaign on firm domestic legal ground as US strikes enter their third week with no congressional brake in sight. [Roll Call](https://rollcall.com/2026/07/30/iran-war-powers-resolution-blocked-in-senate-as-conflict-heats-up/)
+
+> [!note]- World: Saudi Arabia launches 14-nation Red Sea maritime coalition (Al Jazeera)
+> Saudi Arabia announced the formation of a 14-nation maritime defence coalition — including Turkey, Qatar, Egypt, Jordan, Pakistan, and Kuwait — to protect freedom of navigation through the Bab al-Mandeb Strait and Red Sea after the Houthis imposed a maritime blockade on Saudi Arabia on July 20, disrupting oil shipments rerouted from the closed Strait of Hormuz. The alliance formalises collective Gulf-state pushback against Iran-linked proxy forces and signals a significant expansion of the conflict's regional footprint beyond the Persian Gulf. Saudi Arabia and the UAE are separately seeking US support for the coalition's operational mandate. [Al Jazeera](https://www.aljazeera.com/news/2026/7/30/saudi-arabia-announces-maritime-defence-alliance-to-secure-vital-waterways)
+
+> [!note]- NKE: $42.25 (+1.0%) Jul 31 close — unrealised P&L −$1,354 (46 × −$29.44) (Yahoo Finance)
+> Nike (NKE) closed at $42.25 on Friday July 31, gaining $0.42 (+1.0%) from Thursday's $41.83 as the broader market surged on Meta and Amazon blowout earnings, with the S&P 500 up 1.66%. The stock traded between a daily low of $41.23 and high of $42.72, ending the week still materially below the JPMorgan $93 Overweight target set July 28. The 46-share position at an average cost of $71.69 carries an unrealised loss of −$1,354 (46 × −$29.44). [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
+
+
 > [!note]- [[07-30-26 Thu]]
 > 
 > > [!note]- AI: France antitrust: OpenAI, Google & Anthropic hold 84% of AI agent market (Autorité de la concurrence)
