@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-07-31T05:00
+updated: 2026-07-31T19:07
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,26 @@ unread: true
 
 > [!note]- NKE: $41.83 (−3.2%) — JPMorgan upgrades to Overweight, $93 target; China online channels cut (Benzinga / Investing.com)
 > Nike (NKE) closed at $41.83 on July 30 (−3.2% from $43.22), pressured by news it is cutting online distribution channels in China amid a 30% revenue decline since 2021 — annual China sales at an 8-year low. However, JPMorgan simultaneously upgraded NKE from Neutral to Overweight, lifting its price target to $93 — the most bullish major-bank call this year and implying >120% upside from current levels. The divergence (analyst conviction vs short-term price drag) is the key read for the 46-share position at $71.69 avg cost; a move to JPM's target would recover the position to a significant gain. [Benzinga](https://www.benzinga.com/quote/NKE/analyst-ratings)
+
+> **Evening update**
+
+> [!note]- Singapore & Malaysia: SG private car population hits 7-year low; rental fleet surges to record 97,567 (AsianNews.Network)
+> Singapore's private car fleet fell to 516,237 units as of June 2026 — the lowest since 2019 — while the rental car population surged to a record 97,567, now making up nearly 15% of the total 653,442-strong car population. Soaring Certificate of Entitlement (COE) premiums are the primary driver, pushing cost-sensitive motorists toward renting or ride-hailing over ownership. The shift underscores a structural change in Singapore's mobility economy as the government's vehicle supply controls continue to reshape how residents relate to car access. [AsianNews.Network](https://asianews.network/singapores-private-car-population-falls-to-lowest-since-2019-as-rental-car-numbers-hit-record-high/)
+
+> [!note]- Malaysia: Tabung Haji defends 2018 restructuring after RCI report — RM10B asset sale prevented insolvency (Bernama)
+> Lembaga Tabung Haji (TH) formally defended its 2018 restructuring exercise following the release of the Royal Commission of Inquiry report, saying the sale of nearly RM10 billion in assets was a necessary intervention to prevent the pilgrimage fund from insolvency and protect depositors' savings. The RCI examined governance lapses at TH that preceded the restructuring, in which the government injected assets to shore up the fund's balance sheet. TH maintained the exercise was responsible and legally sound, and that depositors' funds remain protected under the improved post-restructuring framework. [Bernama](https://bernama.com/en/)
+
+> [!breaking]- World: Trump claims Hamas disarmament deal reached in Gaza — Israel and Hamas yet to confirm; 200–350 day timeline (NPR)
+> President Donald Trump announced that an agreement has been reached for Hamas to disarm and Israel to withdraw its forces from Gaza, with a 14-day window to prepare the disarmament roadmap and an overall timeline of 200 to 350 days for heavy-weapons surrender and tunnel decommissioning. Neither Hamas nor Israel immediately confirmed the deal, and the initial phase covers only the handover of Gaza police small arms — not Hamas's main militant forces or arsenal. The announcement comes nine months after the original US-brokered ceasefire and follows a prolonged deadlock over the second phase of peace implementation. [NPR](https://www.npr.org/2026/07/31/g-s1-136500/trump-hamas-gaza)
+
+> [!note]- World: Spain deploys military to Ceuta — 49,000 migrants breach Morocco border in 24hrs, at least 18 dead (Al Jazeera)
+> Spain's military was deployed to the Ceuta enclave after an estimated 49,000 migrants crossed from Morocco into the territory within a single 24-hour period, with at least 18 people dying from drowning and a stampede near Tarajal beach — echoing the May 2021 mass crossing at the same border. Thousands of unaccompanied minors are among those stranded in parks and streets, prompting local authorities to declare a "serious humanitarian crisis" and drawing calls from the EU for emergency migration assistance. The crossing revives pressure on Spain–Morocco relations and EU external border policy. [Al Jazeera](https://www.aljazeera.com/news/2026/7/30/spanish-enclave-of-ceuta-raises-alarm-as-thousands-cross-morocco-border)
+
+> [!note]- Tech: AI data centres to consume up to 12% of US electricity by 2028 — DOE; AI servers surpass conventional by 2027 per Gartner (GreentechLead)
+> The US Department of Energy projects data centres will account for 6.7–12% of national electricity by 2028, up from 4.4% in 2023, driven overwhelmingly by AI workloads. Gartner's June 2026 forecast puts AI-optimised servers on track to draw 175 TWh this year alone, crossing the milestone of surpassing conventional servers for the first time in 2027 as worldwide data centre consumption rises 26% year-on-year to 565 TWh. The EIA confirmed US power demand will break records in both 2026 and 2027, raising urgent questions about grid capacity and Big Tech's ability to meet clean-energy commitments. [GreentechLead](https://greentechlead.com/power/us-power-demand-to-hit-new-records-in-2026-and-2027-as-ai-data-centers-drive-electricity-consumption-54109)
+
+> [!note]- Economy: S&P 500 +1.66% to 7,437 as AI megacaps surge on Meta/Amazon earnings; Nasdaq +2.78%; VIX falls 17% (Rio Times)
+> Wall Street closed sharply higher on Friday as AI-driven megacap technology stocks led broad gains, with the S&P 500 up 1.66% to 7,437.63, the Dow up 1.19%, and the Nasdaq surging 2.78% — extending the week's rally on the back of blowout earnings from Meta and Amazon. The VIX fear index tumbled 17.28% to 17.09 signalling deep investor complacency, while the US dollar index fell 0.76% to 100.12, relieving pressure on emerging-market currencies. The close caps a strong month for equities, erasing earlier July concerns about GDP growth and tariff headwinds as AI infrastructure optimism returned in force. [Rio Times](https://www.riotimesonline.com/global-economy-briefing-july-31-2026/)
 
 > [!note]- [[07-30-26 Thu]]
 > 
@@ -465,4 +485,3 @@ unread: true
 > > The IMF revised its 2026 global growth outlook sharply downward to just 0.7%, from 3.7% in 2025, citing the compounding drag of the Hormuz supply shock, US-China trade fragmentation, and tighter monetary conditions across advanced economies. A rebound to 6.5% is projected for 2027, contingent on conflict resolution and easing inflation. Emerging markets and commodity exporters face the sharpest near-term pain as energy revenue assumptions collapse. [IMF](https://www.imf.org/en/news/articles/2026/07/08/tr070826-weo-press-briefing-transcript-july-8-2026)
 >
 > > [!note]- NKE: $42.86 (−2.06%); P&L −$1,326; avg analyst target $49.55 Buy (MarketBeat)
-> > Nike closed at $42.86 on July 14 (−2.06%), with pre-market trading on July 15 showing a recovery to $43.27 (+0.94%). The 46-share position held at an average cost of $71.69 carries an unrealised loss of −$1,326 (46 × −$28.83). Analyst consensus remains "Buy" at an average 12-month price target of $49.55, though Berenberg (cut to $49), UBS (cut to $48), and Telsey Advisory (cut to $47) trimmed targets this week amid soft sportswear demand and strained wholesale relationships. [Source](https://www.marketbeat.com/stocks/NYSE/NKE/)
