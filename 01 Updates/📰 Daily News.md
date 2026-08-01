@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-08-01T05:00
+updated: 2026-08-01T19:07
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,26 @@ unread: true
 
 > [!note]- NKE: ~$41.66 (−3.61%, Jul 30) — China revenue hits 8-year low; JPM "Overweight" $93 target vs $51 consensus (CNBC)
 > Nike (NKE) last closed at approximately $41.66 on July 30 (−3.61%); markets closed today (Saturday). The 46-share position at $71.69 avg cost carries an unrealised loss of approximately −$1,381 (46 × −$30.03). Nike's China business has shrunk 30% since 2021 with annual revenue at an 8-year low. JPMorgan holds its Overweight upgrade with a $93 price target — the most bullish major-bank call — versus the 39-analyst consensus of $51.12. [CNBC](https://www.cnbc.com/quotes/NKE)
+
+> **Evening update**
+
+> [!breaking]- Malaysia: NS 16th state election — 65% turnout; counting underway, results tonight (BERNAMA)
+> Malaysia's 16th Negeri Sembilan State Assembly election wrapped polling today with 65.38% voter turnout — 562,133 of 859,760 registered voters — ahead of postal vote counting that began at 5pm across eight counting centres. All 36 seats are contested in a three-corner PH vs BN vs PN race; pre-election prediction markets gave BN a 67.5% probability of forming government. The result is widely regarded as the sharpest national bellwether before GE16, with official seat tallies expected late tonight. [BERNAMA](https://prn.bernama.com/n9/index-en.php)
+
+> [!note]- SG & MY: Haze Outlook 2026 rated RED for Aug–Sep — El Niño raises transboundary haze risk (SIIA)
+> The Singapore Institute of International Affairs rated its 2026 Haze Outlook RED — only the second such designation since 2019 — naming August and September the peak danger window, driven by El Niño conditions combined with a positive Indian Ocean Dipole that is suppressing rainfall over Sumatra and Borneo. Both Singapore and Peninsular Malaysia face elevated risk of severe transboundary haze episodes over the next two months, with the SIIA urging pre-positioning of firefighting and response assets across the region. [SIIA](https://www.siiaonline.org/)
+
+> [!note]- World: Venezuela opens US-backed opposition talks on democratic transition after twin quakes kill 5,500+ (Graphic News)
+> Venezuela's interim government launched US-backed negotiations with the democratic opposition on August 1, aimed at establishing a transition framework as the country continues recovering from devastating twin earthquakes on June 24 (Mw 7.5 and 7.2) centred off La Guaira. More than 5,500 people were killed — with tens of thousands still missing — after 80% of buildings in La Guaira state collapsed, leaving hundreds of thousands in temporary shelters two months on. The talks represent Washington's most direct engagement with Venezuela's political transition in years. [Graphic News](https://www.graphicnews.com/en/pages/48252/world-agenda-august-2026)
+
+> [!note]- World: Discarded SpaceX Falcon 9 stage set to crash into the Moon on August 5 (Graphic News)
+> A discarded SpaceX Falcon 9 upper stage roughly five storeys tall is expected to impact the lunar surface on August 5, making it one of the largest uncontrolled objects to strike the Moon since systematic lunar exploration began. The event is drawing renewed attention to the accelerating problem of cislunar space debris as commercial launch activity surges, with no binding international treaty governing lunar surface impacts. No threat to Earth or active spacecraft is anticipated from the impact. [Graphic News](https://www.graphicnews.com/en/pages/48252/world-agenda-august-2026)
+
+> [!note]- Tech: OpenAI slashes GPT-5.6 prices — Luna −80%, Terra −20% as AI cost race intensifies (Axios)
+> OpenAI cut prices across its GPT-5.6 family on July 30, reducing the Luna (efficient) variant by 80% and Terra (balanced) by 20% — continuing the rapid commoditisation of frontier AI inference that has seen model costs plunge more than 95% in two years. GPT-5.6 Sol (flagship), Terra, and Luna launched under restrictions in late June 2026, with Sol setting state-of-the-art marks across coding, science, and knowledge work. The price cuts reflect intensifying competition from Anthropic, Google, and Chinese open-weight rivals. [Axios](https://www.axios.com/2026/06/26/openai-gpt-sol-terra-luna-trump)
+
+> [!note]- Science: IBM forecasts 2026 as the first year a quantum computer beats classical on real-world tasks (IBM)
+> IBM has publicly projected that 2026 will mark the historic milestone of "quantum advantage" — the first time a quantum computer outperforms a classical system on a commercially meaningful, economically valuable task. The company expects near-term breakthroughs in drug discovery, materials science, and financial optimisation as fault-tolerant qubit operations mature and quantum-AI hybrid architectures become viable at scale. IBM, Google, and IonQ are in an active race to be the first lab to cross this long-anticipated threshold. [IBM](https://www.ibm.com/think/news/ai-tech-trends-predictions-2026)
 
 ## 2026-07
 
