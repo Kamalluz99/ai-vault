@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-08-02T05:00
+updated: 2026-08-02T07:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -63,77 +63,67 @@ unread: true
 
 ### [[08-02-26 Sun]]
 
-> [!note]- AI: EU AI Act Article 50 transparency obligations now in force — EU chatbot disclosure and deepfake labeling enforceable (Technology.org)
-> The EU AI Act's mandatory transparency obligations under Article 50 took formal effect today (August 2), requiring all AI chatbots operating in the EU to identify themselves as AI, all deepfakes and AI-generated audio/video to be labeled, and emotion-recognition systems to inform exposed users. The European Commission published compliance guidelines in May 2026; national regulators can now begin enforcement against non-compliant providers — the broadest binding AI transparency mandate ever enacted. [Technology.org](https://www.technology.org/2026/07/17/eu-ai-act-what-actually-applies-on-2-august-2026/)
+> [!breaking]- AI: EU AI Act transparency enforcement begins — chatbots must disclose AI, deepfakes must be labelled (European Commission)
+> The European Commission's AI Office began enforcing the EU AI Act's Article 50 transparency obligations on 2 August 2026 — the broadest binding AI transparency mandate ever enacted. All EU-facing chatbots must now inform users they are interacting with AI, deepfakes must carry labels, and AI-generated public-interest content requires machine-readable marks. Providers face fines of up to €15 million or 3% of global turnover for non-compliance; generative AI systems already on the market before today have until 2 December 2026 to meet the machine-readable marking requirement. [European Commission](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1714)
 
-> [!note]- Tech: SpaceX Falcon 9 upper stage on course for Moon impact Aug 5 — largest uncontrolled lunar object since exploration began (Graphic News)
-> A discarded SpaceX Falcon 9 upper stage — roughly five storeys tall — is expected to strike the lunar surface on August 5, making it one of the largest uncontrolled objects to hit the Moon since systematic exploration began. The event is drawing fresh attention to the accelerating cislunar debris problem as commercial launch activity surges, with no binding international treaty governing lunar surface impacts. No threat to Earth or active spacecraft is anticipated. [Graphic News](https://www.graphicnews.com/en/pages/48252/world-agenda-august-2026)
+> [!note]- Tech: Intuit cuts 3,000 jobs (17% of workforce) in AI-driven restructuring (TechCrunch)
+> Intuit announced it is eliminating approximately 3,000 roles — about 17% of its global workforce — as part of an AI-driven restructuring, the latest major casualty in 2026's AI-fuelled layoff wave that has cut 205,832 tech workers across 322 events so far this year. Artificial intelligence has been explicitly cited in 54% of all 2026 tech layoff announcements — the highest share ever recorded — as companies from Oracle (30,000 jobs) to Meta (8,000 jobs) slash legacy headcount to fund AI investment. [TechCrunch](https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/)
 
-> [!note]- Macro: S&P 500 7,489.72 (+0.70%), Nasdaq +1.00%, Dow +0.53% Fri; US Q2 GDP 1.5%, Fed holds 3.50–3.75% through 2026 (JP Morgan)
-> Wall Street closed higher Friday with the S&P 500 at 7,489.72 (+0.70%), Dow at 52,485.03 (+0.53%), and Nasdaq at 25,373.85 (+1.00%), extending the prior week's megacap rally. The US Q2 GDP grew 1.5% with June core inflation at 3.3%; the FOMC is expected to hold rates at 3.50–3.75% for the rest of 2026 with GDP growth projected at 1.5–2.0% underpinned by consumer spending and AI capex. [JP Morgan](https://www.jpmorgan.com/insights/markets-and-economy/economy/economic-trends)
+> [!note]- Macro: S&P 500 ends July at 7,437, Dow at 52,210 — resilient close despite GDP miss and Iran energy risk (CNBC)
+> US equities capped a strong July with the S&P 500 at 7,437 and the Dow at 52,210, driven by blowout AI megacap earnings from Meta and Amazon offsetting a below-consensus Q2 GDP growth of 1.5%. Gold remains well-supported near $4,100/oz on safe-haven demand as the Iran-US conflict continues, while Brent crude has moderated to the low $80s as the June 14 US-Iran MOU holds. The Federal Reserve held rates at 3.50–3.75% for a fifth consecutive meeting, with inflation risk from sustained energy costs complicating the rate-cut timeline. [CNBC](https://www.cnbc.com/2026/07/26/stock-market-today-live-updates.html)
 
-> [!breaking]- Malaysia: NS election shock — BN-PN wins 25/36 seats (two-thirds); Aminuddin Harun and Anthony Loke both lose seats (Bernama)
-> BN captured 18 seats and PN 7, giving the BN-PN alliance 25 of 36 — a two-thirds majority — ending PH's two-term hold on Negeri Sembilan. Incumbent MB Aminuddin Harun lost his Chennah seat while DAP secretary-general Anthony Loke fell at Linggi, both heavy defeats for the national Unity Government. The result delivers the clearest pre-GE16 signal yet: BN has recaptured the state heartland it lost in 2023, and BN-PN cooperation reshapes the national coalition calculus heading into the 15th Parliament's final term. [Bernama](https://prn.bernama.com/n9/keputusan/official/index-en.php)
+> [!note]- World: Iran-Hormuz: US-Iran MOU holds fragile truce; Strait traffic at ~25 ships/day; EU plans for fuel shortages (Britannica)
+> The US-Iran memorandum of understanding reached on June 14 — which lifted the US naval blockade in exchange for Iran easing Strait of Hormuz restrictions — remains in place but highly volatile, with commercial Strait traffic at only ~25 ships per day versus pre-crisis norms of 80+. Iran has yet to fully reopen the waterway, Lufthansa has cut Gulf overflights, and European governments are pre-positioning fuel reserves against shortage scenarios. The conflict, which began with US-Israeli airstrikes on Iran on 28 February 2026, has become the dominant geopolitical crisis of 2026 with no formal ceasefire in place. [Britannica](https://www.britannica.com/event/2026-Iran-war)
 
-> [!note]- World: Ceuta death toll 67 — ~60,000 migrants crossed in 24hrs, most returned; Spain plans floating sea barrier (Washington Post)
-> The death toll from Spain's Ceuta border crisis climbed to 67 on Saturday — up from 18 the night before — as the full scale of the mass crossing became clear: roughly 60,000 migrants entered the enclave from Morocco over 24 hours, the largest single-day breach on record. By evening most had returned to Morocco; Spain announced plans to install a 500-metre floating sea barrier. PM Sánchez criticised the "selfish" response of several EU member states. [Washington Post](https://www.washingtonpost.com/world/2026/08/01/migration-spain-ceuta-morocco/c24a1edc-8d81-11f1-8912-d71e69d679d7_story.html)
+> [!breaking]- Malaysia: NS election shock — BN-PN wins 25/36 seats; Anthony Loke and MB Aminuddin Harun ousted (Malay Mail)
+> In a major political shock from Malaysia's 16th Negeri Sembilan state election (polling day August 1), the BN-PN coalition won 25 of 36 seats — BN taking 18 and PN 7 — with Pakatan Harapan reduced to 10. DAP secretary-general Anthony Loke lost Chennah to MCA's Siow Kong Choon by just 491 votes, while caretaker Menteri Besar Aminuddin Harun was defeated by a 1,668-vote margin. The result is a sharp GE16 bellwether against the Unity Government and one of the most consequential state election upsets in recent Malaysian history. [Malay Mail](https://www.malaymail.com/news/malaysia/2026/08/01/negeri-sembilan-polls-close-race-for-the-state-government-begins/229867)
 
-> [!note]- Science: Cancer drug daraxonrasib nearly doubles patient survival time by blocking key KRAS growth-driving protein (Science News)
-> Daraxonrasib nearly doubled the survival time of cancer patients in clinical trials by "bear-hugging" the KRAS protein — a key driver of tumour cell growth long considered undruggable. The breakthrough is highlighted in the August 2026 Science News issue alongside Metformin's newly-revealed brain pathway (hypothalamus VMH/Rap1) after 60 years of widespread use. [Science News](https://www.sciencenews.org/sn-magazine/august-2026)
-
-> [!note]- NKE: $41.71 (−1.37%, Jul 31) — Nike cuts China online channels; Wembanyama inks new signature shoe deal (CNBC)
-> Nike (NKE) closed at $41.71 on July 31 (−1.37%), pressured by confirmed cuts to online distribution channels in China — where revenue has shrunk 30% since 2021 and hit an 8-year low at end of May. Victor Wembanyama signed a new long-term Nike deal with a signature shoe. The 46-share position at $71.69 avg cost carries an unrealised loss of approximately −$1,378 (46 × −$29.98); JPMorgan holds its Overweight/$93 target as the most bullish major-bank call. [CNBC](https://www.cnbc.com/quotes/NKE)
+> [!note]- Science: Metformin's hidden brain pathway found after 60 years — drug lowers blood sugar via the hypothalamus (The Hill)
+> Scientists at Baylor College of Medicine discovered that metformin — the world's most widely prescribed diabetes drug — lowers blood sugar by activating a previously unknown pathway in the brain's ventromedial hypothalamus, not just through the liver and gut as previously understood. The mechanism involves metformin switching off a small protein called Rap1 in SF1 neurons, which acts as a hidden blood-sugar control centre; the finding explains how the drug works at clinically relevant doses. Published in Science Advances, the discovery could open new directions for diabetes treatment and other metabolic conditions after six decades of incomplete understanding. [The Hill](https://thehill.com/policy/healthcare/5803682-diabetes-drug-metformin-brain-study/)
 
 > [!note]- [[08-01-26 Sat]]
-> 
+>
 > > [!note]- AI: EU AI Act Article 50 transparency rules take effect August 2 — all EU AI chatbots must disclose (Technology.org)
 > > The European Commission's mandatory transparency obligations under Article 50 of the EU AI Act enter force tomorrow (August 2), requiring all AI chatbots, synthetic media tools, and general-purpose AI systems operating in the EU to disclose AI interactions in machine-readable format and label deepfakes. Providers who miss compliance face enforcement by national digital regulators. The rules represent the broadest binding AI transparency mandate ever enacted and are expected to drive a compliance scramble across hundreds of EU-facing AI products. [Technology.org](https://www.technology.org/2026/07/17/eu-ai-act-what-actually-applies-on-2-august-2026/)
-> 
+>
 > > [!note]- Tech: Amazon hikes 2026 capex to $220B on memory costs; Lam Research +17% as chip stocks surge (CNBC)
 > > Amazon raised its full-year 2026 capital expenditure guidance to $220 billion — above prior estimates — citing higher memory and AI chip costs as AWS posted its fastest revenue growth since 2021. Chip equipment stocks surged in tandem: Lam Research climbed 17% while AMD and Micron also saw strong gains, extending the AI-driven chip cycle into the second half of 2026. The moves reinforce Big Tech's commitment to AI infrastructure even as financing costs rise. [CNBC](https://www.cnbc.com/technology/)
-> 
+>
 > > [!note]- Macro: S&P 500 +1.66% to 7,437 Friday on AI megacap rally; Nasdaq +2.78%; VIX −17% closes strong July (Rio Times)
 > > Wall Street capped a strong July on Friday with the S&P 500 up 1.66% to 7,437.63 and the Nasdaq surging 2.78%, driven by blowout earnings from Meta and Amazon lifting AI megacaps across the board. The VIX fear index tumbled 17% to 17.09, signalling deep investor confidence, while the US dollar index fell 0.76%. The close erased earlier July concerns over the 1.5% Q2 GDP miss and tariff headwinds as AI infrastructure optimism returned in force. [Rio Times](https://www.riotimesonline.com/global-economy-briefing-july-31-2026/)
-> 
+>
 > > [!note]- World: Venezuela opens US-backed opposition talks on democratic transition after twin earthquakes kill 5,300+ (Wikipedia)
 > > Venezuela's interim government opened US-backed negotiations with the country's opposition aimed at a democratic transition framework, as the nation continues recovery from devastating twin earthquakes that killed more than 5,300 people. The talks represent Washington's most direct engagement with Venezuela's political transition in years and come amid compounding humanitarian concerns following the earthquake disaster. [Wikipedia](https://en.wikipedia.org/wiki/Portal:Current_events/August_2026)
-> 
+>
 > > [!note]- Malaysia/Singapore: NS election polling day — 880,000 voters decide all 36 seats in PH-BN vs PN GE16 bellwether (Bernama)
 > > Negeri Sembilan goes to polls today (August 1) with over 880,000 registered voters deciding all 36 state seats in a three-cornered contest between Pakatan Harapan, Barisan Nasional, and Perikatan Nasional — the first direct PH-BN face-off in the state. The result is widely watched as the sharpest GE16 bellwether since BN's Johor landslide. Results expected tonight. Separately, Singapore tightened monetary policy in a surprise MAS move as rising oil prices reignite inflation risk. [Bernama](https://bernama.com/en/)
-> 
+>
 > > [!note]- Science: FDA approves bemotrizinol in sunscreen — first new US UV-aging filter in years (Science News)
 > > The FDA has approved bemotrizinol for use in US sunscreens — a long-lasting chemical that defends against UV radiation that ages skin (UVA1), filling a significant gap in the US sunscreen palette after decades of European and Asian use. The August 2026 Science News issue also highlights Daraxonrasib, a cancer drug that nearly doubled patient survival times by bear-hugging a cancer protein that drives cell growth. [Science News](https://www.sciencenews.org/sn-magazine/august-2026)
-> 
+>
 > > [!note]- NKE: ~$41.66 (−3.61%, Jul 30) — China revenue hits 8-year low; JPM "Overweight" $93 target vs $51 consensus (CNBC)
 > > Nike (NKE) last closed at approximately $41.66 on July 30 (−3.61%); markets closed today (Saturday). The 46-share position at $71.69 avg cost carries an unrealised loss of approximately −$1,381 (46 × −$30.03). Nike's China business has shrunk 30% since 2021 with annual revenue at an 8-year low. JPMorgan holds its Overweight upgrade with a $93 price target — the most bullish major-bank call — versus the 39-analyst consensus of $51.12. [CNBC](https://www.cnbc.com/quotes/NKE)
-> 
+>
 > > **Evening update**
-> 
+>
 > > [!breaking]- Malaysia: NS 16th state election — 65% turnout; counting underway, results tonight (BERNAMA)
 > > Malaysia's 16th Negeri Sembilan State Assembly election wrapped polling today with 65.38% voter turnout — 562,133 of 859,760 registered voters — ahead of postal vote counting that began at 5pm across eight counting centres. All 36 seats are contested in a three-corner PH vs BN vs PN race; pre-election prediction markets gave BN a 67.5% probability of forming government. The result is widely regarded as the sharpest national bellwether before GE16, with official seat tallies expected late tonight. [BERNAMA](https://prn.bernama.com/n9/index-en.php)
-> 
+>
 > > [!note]- SG & MY: Haze Outlook 2026 rated RED for Aug–Sep — El Niño raises transboundary haze risk (SIIA)
 > > The Singapore Institute of International Affairs rated its 2026 Haze Outlook RED — only the second such designation since 2019 — naming August and September the peak danger window, driven by El Niño conditions combined with a positive Indian Ocean Dipole that is suppressing rainfall over Sumatra and Borneo. Both Singapore and Peninsular Malaysia face elevated risk of severe transboundary haze episodes over the next two months, with the SIIA urging pre-positioning of firefighting and response assets across the region. [SIIA](https://www.siiaonline.org/)
-> 
+>
 > > [!note]- World: Venezuela opens US-backed opposition talks on democratic transition after twin quakes kill 5,500+ (Graphic News)
 > > Venezuela's interim government launched US-backed negotiations with the democratic opposition on August 1, aimed at establishing a transition framework as the country continues recovering from devastating twin earthquakes on June 24 (Mw 7.5 and 7.2) centred off La Guaira. More than 5,500 people were killed — with tens of thousands still missing — after 80% of buildings in La Guaira state collapsed, leaving hundreds of thousands in temporary shelters two months on. The talks represent Washington's most direct engagement with Venezuela's political transition in years. [Graphic News](https://www.graphicnews.com/en/pages/48252/world-agenda-august-2026)
-> 
+>
 > > [!note]- World: Discarded SpaceX Falcon 9 stage set to crash into the Moon on August 5 (Graphic News)
 > > A discarded SpaceX Falcon 9 upper stage roughly five storeys tall is expected to impact the lunar surface on August 5, making it one of the largest uncontrolled objects to strike the Moon since systematic lunar exploration began. The event is drawing renewed attention to the accelerating problem of cislunar space debris as commercial launch activity surges, with no binding international treaty governing lunar surface impacts. No threat to Earth or active spacecraft is anticipated from the impact. [Graphic News](https://www.graphicnews.com/en/pages/48252/world-agenda-august-2026)
-> 
+>
 > > [!note]- Tech: OpenAI slashes GPT-5.6 prices — Luna −80%, Terra −20% as AI cost race intensifies (Axios)
 > > OpenAI cut prices across its GPT-5.6 family on July 30, reducing the Luna (efficient) variant by 80% and Terra (balanced) by 20% — continuing the rapid commoditisation of frontier AI inference that has seen model costs plunge more than 95% in two years. GPT-5.6 Sol (flagship), Terra, and Luna launched under restrictions in late June 2026, with Sol setting state-of-the-art marks across coding, science, and knowledge work. The price cuts reflect intensifying competition from Anthropic, Google, and Chinese open-weight rivals. [Axios](https://www.axios.com/2026/06/26/openai-gpt-sol-terra-luna-trump)
-> 
+>
 > > [!note]- Science: IBM forecasts 2026 as the first year a quantum computer beats classical on real-world tasks (IBM)
 > > IBM has publicly projected that 2026 will mark the historic milestone of "quantum advantage" — the first time a quantum computer outperforms a classical system on a commercially meaningful, economically valuable task. The company expects near-term breakthroughs in drug discovery, materials science, and financial optimisation as fault-tolerant qubit operations mature and quantum-AI hybrid architectures become viable at scale. IBM, Google, and IonQ are in an active race to be the first lab to cross this long-anticipated threshold. [IBM](https://www.ibm.com/think/news/ai-tech-trends-predictions-2026)
-> 
-> > **Late update**
-> 
-> > [!breaking]- Malaysia: BN-PN wins NS with two-thirds majority; Aminuddin Harun loses MB seat (Bernama)
-> > BN captured 18 seats and PN 7, giving the BN-PN alliance 25 of 36 — a two-thirds majority — ending PH's two-term hold on Negeri Sembilan. Incumbent Menteri Besar Aminuddin Harun lost his Chennah seat while DAP secretary-general Loke Siew Fook fell at Linggi, both heavy defeats for the national Unity Government. The result delivers the clearest pre-GE16 signal yet: BN has recaptured the state heartland it lost in 2023, and the BN-PN cooperation pact reshapes the national coalition calculus heading into the 15th Parliament's final term. [Bernama](https://prn.bernama.com/n9/keputusan/official/index-en.php)
-> 
-> > [!note]- World: Ceuta death toll rises to 67 as almost all 60,000 migrants return to Morocco (Washington Post)
-> > The death toll from Spain's Ceuta border crisis climbed to 67 on Saturday — up from 18 the night before — as the full scale of the mass crossing became clear: roughly 60,000 migrants entered the enclave from Morocco over 24 hours, the largest single-day breach on record. By evening most had returned to Morocco; Spain announced plans to install a 500-metre floating sea barrier to prevent recurrences. Prime Minister Pedro Sánchez criticised the "selfish" response of several EU member states, escalating calls for emergency reform of the bloc's migration policy. [Washington Post](https://www.washingtonpost.com/world/2026/08/01/migration-spain-ceuta-morocco/c24a1edc-8d81-11f1-8912-d71e69d679d7_story.html)
+>
 
 ## 2026-07
 
