@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-08-01T19:07
+updated: 2026-08-01T23:30
 topic: daily news
 frequency: daily
 ongoing: false
@@ -103,6 +103,14 @@ unread: true
 
 > [!note]- Science: IBM forecasts 2026 as the first year a quantum computer beats classical on real-world tasks (IBM)
 > IBM has publicly projected that 2026 will mark the historic milestone of "quantum advantage" — the first time a quantum computer outperforms a classical system on a commercially meaningful, economically valuable task. The company expects near-term breakthroughs in drug discovery, materials science, and financial optimisation as fault-tolerant qubit operations mature and quantum-AI hybrid architectures become viable at scale. IBM, Google, and IonQ are in an active race to be the first lab to cross this long-anticipated threshold. [IBM](https://www.ibm.com/think/news/ai-tech-trends-predictions-2026)
+
+> **Late update**
+
+> [!breaking]- Malaysia: BN-PN wins NS with two-thirds majority; Aminuddin Harun loses MB seat (Bernama)
+> BN captured 18 seats and PN 7, giving the BN-PN alliance 25 of 36 — a two-thirds majority — ending PH's two-term hold on Negeri Sembilan. Incumbent Menteri Besar Aminuddin Harun lost his Chennah seat while DAP secretary-general Loke Siew Fook fell at Linggi, both heavy defeats for the national Unity Government. The result delivers the clearest pre-GE16 signal yet: BN has recaptured the state heartland it lost in 2023, and the BN-PN cooperation pact reshapes the national coalition calculus heading into the 15th Parliament's final term. [Bernama](https://prn.bernama.com/n9/keputusan/official/index-en.php)
+
+> [!note]- World: Ceuta death toll rises to 67 as almost all 60,000 migrants return to Morocco (Washington Post)
+> The death toll from Spain's Ceuta border crisis climbed to 67 on Saturday — up from 18 the night before — as the full scale of the mass crossing became clear: roughly 60,000 migrants entered the enclave from Morocco over 24 hours, the largest single-day breach on record. By evening most had returned to Morocco; Spain announced plans to install a 500-metre floating sea barrier to prevent recurrences. Prime Minister Pedro Sánchez criticised the "selfish" response of several EU member states, escalating calls for emergency reform of the bloc's migration policy. [Washington Post](https://www.washingtonpost.com/world/2026/08/01/migration-spain-ceuta-morocco/c24a1edc-8d81-11f1-8912-d71e69d679d7_story.html)
 
 ## 2026-07
 
