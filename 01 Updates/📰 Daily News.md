@@ -81,8 +81,8 @@ unread: true
 > [!note]- Science: First all-optical photonic time crystal reshapes terahertz light for ultrafast computing (ScienceDaily)
 > Scientists built the world's first all-optical photonic time crystal, a material that allows them to reshape the behaviour of terahertz light at extraordinary speeds by breaking time-translation symmetry in the photonic domain. The breakthrough has potential applications for ultrafast computing, advanced imaging, and novel signal processing architectures operating far beyond conventional silicon limits. [ScienceDaily](https://www.sciencedaily.com/)
 
-> [!note]- NKE: $41.71 (−1.37%, Jul 31) — Victor Wembanyama signs long-term Nike deal with signature shoe (Motley Fool)
-> Nike's stock closed at $41.71 on July 31 (−1.37%), with markets closed Sunday. At 46 shares (avg cost $71.69), the position carries an unrealised loss of ~$1,381 (46 × −$30.03). Victor Wembanyama signed a new long-term deal including a signature shoe — a marketing boost as Nike navigates China headwinds with annual revenue at an 8-year low. 39-analyst consensus target is $51.12. [Motley Fool](https://www.fool.com/quote/nyse/nke/)
+> [!note]- NKE: $41.71 (−1.37%, Jul 31 close, mkt closed wknd) — Wembanyama signs multi-year Nike extension + signature shoe (ESPN/Motley Fool)
+> Nike (NKE) last closed at $41.71 on Friday July 31 (−1.37%), with markets closed Saturday–Sunday; the 46-share position at $71.69 avg cost carries an unrealised loss of −$1,379 (46 × −$29.98). Nike officially re-signed Victor Wembanyama to a multi-year extension on July 31, unveiling a new "VW" logo and confirming his first signature basketball shoe — a marquee brand catalyst at a moment when Nike's China revenue is near an eight-year low. JPMorgan holds its Overweight target at $93; 39-analyst consensus is $51.12. [ESPN](https://www.espn.com/nba/story/_/id/49497562/sources-wembanyama-lands-signature-shoe-line-nike-deal)
 
 > [!note]- [[08-02-26 Sun]]
 >
