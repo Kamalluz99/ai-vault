@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-08-02T07:00
+updated: 2026-08-02T19:05
 topic: daily news
 frequency: daily
 ongoing: false
@@ -80,6 +80,26 @@ unread: true
 
 > [!note]- Science: Metformin's hidden brain pathway found after 60 years — drug lowers blood sugar via the hypothalamus (The Hill)
 > Scientists at Baylor College of Medicine discovered that metformin — the world's most widely prescribed diabetes drug — lowers blood sugar by activating a previously unknown pathway in the brain's ventromedial hypothalamus, not just through the liver and gut as previously understood. The mechanism involves metformin switching off a small protein called Rap1 in SF1 neurons, which acts as a hidden blood-sugar control centre; the finding explains how the drug works at clinically relevant doses. Published in Science Advances, the discovery could open new directions for diabetes treatment and other metabolic conditions after six decades of incomplete understanding. [The Hill](https://thehill.com/policy/healthcare/5803682-diabetes-drug-metformin-brain-study/)
+
+> **Evening update**
+
+> [!note]- SG & MY: Malaysia Fest 2026 closes at Singapore Expo with 180,000 visitors (Bernama)
+> Malaysia Fest 2026 wrapped up its ninth edition at Singapore Expo today (August 2), concluding a four-day showcase featuring 343 booths of rare tropical fruits, delicacies, and cultural performances from across Malaysia's states. More than 180,000 visitors attended over the festival's run under the theme "Unveil the Wonders of Malaysia," making it one of the largest Malaysia-to-Singapore agro-food and tourism events on record. The festival deepens bilateral food and agri-trade ties as both countries advance their shared food security agenda. [Bernama](https://bernama.com/en/world/news.php?id=2582315)
+
+> [!note]- Malaysia: NS election official — BN-PN two-thirds majority certified; new MB set (The Edge)
+> Malaysia's Election Commission officially certified the 16th Negeri Sembilan state election results: BN won 18 seats and PN 7 — giving the coalition exactly 25 of 36 seats, a two-thirds majority that delivers near-total legislative control of the state. Pakatan Harapan was reduced to 11 seats, losing its eight-year grip on the state, with DAP secretary-general Anthony Loke and outgoing MB Aminuddin Harun both defeated by BN rivals. BN is expected to appoint a new Menteri Besar from UMNO and will formally take over the state government in the coming days. [The Edge Malaysia](https://theedgemalaysia.com/node/812960)
+
+> [!note]- World: Spain-Ceuta crisis — 67 dead, 69,500 migrants returned; EU aid sought (Anadolu Agency)
+> The death toll in Spain's Ceuta border crisis has climbed to 67 — including victims of drowning and a deadly stampede near Tarajal beach — after nearly 69,500 migrants who crossed from Morocco last week have since returned. Spanish authorities continue processing thousands stranded in the enclave's parks and streets, while Madrid is seeking EU emergency border-management and humanitarian assistance. The mass crossing, which peaked at 49,000 in a single 24-hour period on July 30, remains one of the largest single migration events in Europe's modern history. [Anadolu Agency](https://aa.com.tr/en/world/morning-briefing-aug-2-2026/4016071)
+
+> [!note]- World: Trump cancels Iran strikes — fresh Hormuz peace talks opened (Euronews)
+> US President Donald Trump called off planned airstrikes against Iran on August 2 to allow a new round of peace talks to proceed, the latest pause in a pattern of military operations and diplomatic windows that has defined the five-month Gulf conflict. Oman-mediated negotiations have reopened with Washington demanding Iran fully reopen the Strait of Hormuz, where commercial traffic remains far below pre-crisis norms despite the fragile June 14 MOU. If the diplomatic opening holds, it could represent the first genuine off-ramp from a conflict that has disrupted global energy markets and strained supply chains across Asia and Europe. [Euronews](https://www.euronews.com/video/2026/08/02/latest-news-bulletin-august-2nd-2026-morning)
+
+> [!note]- Tech: California SB 942 operative — AI firms must embed C2PA provenance (AI Weekly)
+> California's SB 942 AI Transparency Act became operative August 2, requiring generative AI providers with over one million California monthly users to embed C2PA-compatible provenance markers in all AI-generated images, audio, and video, offer a free public detection tool, and allow users to add visible AI labels. The state law creates a US-level parallel to the EU AI Act transparency rules that also took effect today, marking a convergence toward mandatory AI content authentication on both sides of the Atlantic. Separately, Google canceled its planned AI Studio mobile app for iOS and Android despite drawing over 800,000 preorders. [AI Weekly](https://aiweekly.co/ai-news-today)
+
+> [!note]- Science: SpudCell — synthetic cell feeds, grows and divides its DNA (SciTechDaily)
+> Researchers at the University of Minnesota created SpudCell — a lab-assembled synthetic cell that can feed on nutrients, grow, and replicate its own DNA to divide, marking the closest approximation to artificial life ever achieved in a laboratory. Unlike true living cells, SpudCell cannot produce its own ribosomes or internal defenses and requires constant lab nourishment to survive, but the achievement demonstrates that the core machinery of biological reproduction can be rebuilt from chemical components alone. The work opens new directions in synthetic biology, drug delivery, and the study of how life first emerged on Earth. [SciTechDaily](https://scitechdaily.com/)
 
 > [!note]- [[08-01-26 Sat]]
 >
