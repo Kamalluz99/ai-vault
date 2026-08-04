@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-08-04T20:30
+updated: 2026-08-04T23:30
 topic: daily news
 frequency: daily
 ongoing: false
@@ -103,6 +103,23 @@ unread: true
 
 > [!note]- Economy: Brazil set to cut Selic to 14% in August meeting; gold rises to $4,059 on easing US yields (Rio Times)
 > Brazil's central bank is widely expected to trim the Selic rate by 25 basis points to 14.00% — the first cut of the 2026 cycle — with roughly three-quarters of market participants pricing the reduction ahead of the August policy meeting. Spot gold edged up to $4,059/oz (+0.57%) as the US 10-year Treasury yield eased slightly amid softer macro data, adding to gold's safe-haven tailwinds from the Iran-Hormuz situation. An emerging-market rate-cut cycle beginning alongside modest US yield relief provides a cautious tailwind for risk assets and commodity-linked currencies across Asia. [Rio Times](https://www.riotimesonline.com/global-economy-briefing-august-4-2026/)
+
+> **Late update**
+
+> [!note]- Macro: S&P 500 closes at record 7,744 (+1.9%); Dow 54,187 (+1.9%); Palantir +17%; WTI crude −5% (TheStreet)
+> US markets extended Tuesday's rally to fresh all-time highs: the S&P 500 jumped 1.9% to 7,743.89, the Dow surged 1.9% to 54,186.82, and the Nasdaq climbed 2.6% to 26,584, driven by renewed optimism that mediators will broker a Strait of Hormuz deal and avert further major US airstrikes on Iran. Palantir led the day's big movers with a +17% surge after beating Q2 estimates and raising its full-year AI-demand outlook. SpaceX released its first-ever quarterly earnings report as a newly public company after the bell, with the stock having fallen ~30% from its $150 debut price. [TheStreet](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-aug-4-2026)
+
+> [!note]- World: Cargo ship struck by projectile in Hormuz off Oman; crew abandons vessel; Trump labels Iran "duplicitous" (Just Security)
+> A dry bulk cargo ship was struck by a projectile in the Strait of Hormuz off the Omani coast, forcing its crew to abandon ship with at least one seafarer reported missing — the latest maritime security incident in the embattled waterway. Hours after saying talks were underway, Trump reversed course and called Iran's leadership "unbelievably duplicitous," accusing Tehran of privately seeking a meeting while publicly denying direct negotiations. The conflicting signals cast fresh doubt over whether Monday's diplomatic opening can hold even as markets rallied on Hormuz deal hopes. [Just Security](https://www.justsecurity.org/151589/early-edition-august-4-2026/)
+
+> [!note]- AI: Alibaba releases Qwen3.8-Max — 2.4T parameter open-weights model for 10-day autonomous coding (llm-stats)
+> Alibaba released Qwen3.8-Max, a 2.4 trillion parameter model designed for extended autonomous coding tasks capable of running continuously for more than 10 days without interruption. Open weights and a smaller Qwen3.8-27B version are set to drop the following week, making it among the largest open-weight coding models ever released. The launch comes as August 2026 tracks over 337 AI model releases across major organisations — the fastest single-month pace on record. [llm-stats.com](https://llm-stats.com/llm-updates)
+
+> [!note]- Malaysia: Amir Deen wins Malaysia's first-ever judo gold at 2026 Commonwealth Games (The Star)
+> Malaysia's Amir Deen secured the country's first-ever judo gold medal at the 2026 Commonwealth Games, winning his event via a decisive waza-ari in the final — a historic milestone in Malaysian judo. The victory adds to Malaysia's 2026 Commonwealth Games medal haul and caps a strong day for the national team at the Games. [The Star](https://www.thestar.com.my/aseanplus/aseanplus-news/2026/08/03/asean-news-headlines-at-10pm-on-monday-aug-3-2026)
+
+> [!note]- NKE: $41.93 (−1.67%) — underperforms +1.9% market rally; unrealised P&L −$1,369 (46 × −$29.76) (Investing.com)
+> Nike (NKE) fell to $41.93 on Tuesday — down 1.67% from the $42.64 prior close — underperforming the broader market's 1.9% surge as the stock drifts near multi-year lows. The 46-share position at a $71.69 average cost carries an unrealised loss of −$1,369 (46 × −$29.76). NKE remains well below its 52-week high of $80.17, with the brand-reset recovery thesis playing out on a longer timeline than anticipated; AMD and SpaceX results after the bell will set the tone for the next session. [Investing.com](https://www.investing.com/equities/nike)
 
 > [!note]- [[08-03-26 Mon]]
 >
