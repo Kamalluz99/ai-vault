@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-08-04T05:00
+updated: 2026-08-04T20:30
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,26 @@ unread: true
 
 > [!note]- NKE: $42.25 (+1.29%) — rebounds with market rally; Bernstein maintains Buy; Wembanyama deal a long-term catalyst (CNBC)
 > Nike (NKE) closed Monday at $42.25 (+1.29%), riding the broad market rally after Trump cancelled Iran strikes and oil eased. The 46-share position at $71.69 avg cost carries an unrealised loss of ~$1,353 (46 × −$29.44). Bernstein maintained its Buy rating; 52-week high is $80.16 and 25-analyst consensus target is $50.62 (+19.8%). Victor Wembanyama's recently signed multi-year extension and upcoming women's Studio Fleece launch remain key catalysts. [CNBC](https://www.cnbc.com/quotes/NKE)
+
+> **Evening update**
+
+> [!note]- SG & MY: SoftBank, SC ZEUS & Robust HPC sign AI data centre pact for Southeast Asia (TNGlobal)
+> Japan's SB Telecom Singapore, Singapore's SC ZEUS, and Malaysia's Robust HPC signed an MOU effective August 1 to jointly build and operate AI data centres across Southeast Asia. SC ZEUS leads infrastructure sourcing and design, Robust HPC handles GPU cluster procurement and setup, and SB Telecom covers data hall fit-out and connectivity. The deal positions Singapore and Malaysia as complementary anchors in Southeast Asia's emerging AI compute corridor, targeting dedicated GPU infrastructure supply and AI data centre construction across the region. [TNGlobal](https://technode.global/2026/08/04/japans-softbank-telecom-unit-singapores-sc-zeus-malaysias-robust-hpc-sign-ai-data-center-pact-for-southeast-asia/)
+
+> [!note]- Malaysia: MACC arrests 5 more immigration officers in MyIMMs hacking probe — 11 detained total (The Star)
+> The Malaysian Anti-Corruption Commission arrested five more immigration officers on August 3–4 for allegedly conspiring to hack the immigration system MyIMMs and fraudulently issue Temporary Employment Visit Passes (PLKS) without proper procedures, bringing total arrests in the operation to 11. The syndicate is estimated to have caused RM2.4 million in government losses; MACC seized five mobile phones and froze nine bank accounts holding approximately RM300,000. The case is being investigated under Sections 17(a) and 16(a) of the MACC Act 2009. [The Star](https://www.thestar.com.my/news/nation/2026/08/04/macc-detains-five-more-immigration-officers-over-myimms-hack)
+
+> [!note]- World: Russia says it struck Ukrainian cargo ships in Black Sea; drone attack reported near Moscow (Euronews)
+> Russia claimed on August 4 that it targeted Ukrainian cargo ships in the Black Sea, escalating naval pressure in a theatre both sides have contested throughout the war. In a simultaneous exchange, Ukrainian drone strikes near Moscow resulted in reported fatalities, with Russian air defences engaged over the capital region. The back-and-forth naval and aerial strikes mark one of the more active single-day exchanges of the year, with neither side signalling movement toward talks. [Euronews](https://www.euronews.com/video/2026/08/04/latest-news-bulletin-august-4th-2026-morning)
+
+> [!note]- World: Israeli military divided over West Bank expansion; settlers torch homes south of Nablus (Profile News)
+> A significant internal dispute has emerged within the Israeli military over whether to expand operations in the occupied West Bank, with senior officers divided on the strategic and legal risks of a widened campaign. On the ground, Israeli settlers were reported to have set fire to homes and vehicles south of Nablus as raids continued across multiple West Bank towns, drawing international condemnation. The simultaneous military friction and settler violence complicate Israel's operational posture at a moment of ongoing Gaza negotiations. [Profile News](https://www.profilenews.com/en/breaking-news-live-updates-august-4-2026/)
+
+> [!note]- Tech: xAI launches Grok Voice Think Fast 2.0 — most capable speech-to-speech AI voice model (TechDG)
+> Elon Musk's xAI released Grok Voice Think Fast 2.0, its most advanced speech-to-speech voice model to date, featuring improved reasoning, transcription accuracy, and natural conversational ability. The release arrives as the AI voice race intensifies alongside Google Gemini's free video creation trial ending today, with xAI positioning Grok Voice as a direct rival to OpenAI's voice-mode offerings. August 2026 is tracking over 337 model releases across major AI organisations — the fastest monthly pace on record. [TechDG](https://techdg.in/stay-ahead-of-the-curve-with-our-august-2026-ai-news-report-explore-the-latest-ai-model-updates-robotics-and-how-to-adapt-your-business-strategy-today/)
+
+> [!note]- Economy: Brazil set to cut Selic to 14% in August meeting; gold rises to $4,059 on easing US yields (Rio Times)
+> Brazil's central bank is widely expected to trim the Selic rate by 25 basis points to 14.00% — the first cut of the 2026 cycle — with roughly three-quarters of market participants pricing the reduction ahead of the August policy meeting. Spot gold edged up to $4,059/oz (+0.57%) as the US 10-year Treasury yield eased slightly amid softer macro data, adding to gold's safe-haven tailwinds from the Iran-Hormuz situation. An emerging-market rate-cut cycle beginning alongside modest US yield relief provides a cautious tailwind for risk assets and commodity-linked currencies across Asia. [Rio Times](https://www.riotimesonline.com/global-economy-briefing-august-4-2026/)
 
 > [!note]- [[08-03-26 Mon]]
 >
