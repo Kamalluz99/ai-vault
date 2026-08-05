@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-08-05T19:08
+updated: 2026-08-06T05:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -61,48 +61,71 @@ unread: true
 
 ## 2026-08
 
-### [[08-05-26 Wed]]
+### [[08-06-26 Thu]]
 
-> [!note]- AI: OpenAI GPT-5.5 live with "System 2" reasoning — model pauses to think on hard tasks (LLM Stats)
-> OpenAI rolled out GPT-5.5 in early August featuring a native "System 2" architecture that causes the model to pause and reason through complex math or coding problems more carefully before responding, marking a significant step in agentic reasoning capability. August 2026 is tracking over 337 model releases across major AI organisations — the fastest monthly pace on record — with GPT-5.5 headlining a packed month for frontier labs. [LLM Stats](https://llm-stats.com/ai-news)
+> [!note]- AI: EU AI Act transparency rules live — AI systems must now identify themselves to humans across Europe (EU Council)
+> Europe's AI Act transparency obligations switched on in early August, requiring AI systems to identify themselves to the humans they interact with and mandating machine-readable marks on all AI-generated content. The framework reduces the compliance grace period from 6 months to 3 months, with a December 2 deadline for full implementation; EU regulators now hold authority to demand disclosures, order recalls, and levy fines. [EU Council](https://www.consilium.europa.eu/en/press/press-releases/2026/06/29/artificial-intelligence-council-gives-final-green-light-to-simplify-and-streamline-rules/)
 
-> [!note]- Tech: EU AI Act enforcement live — Commission wields recall and €15M fine powers; Anthropic, OpenAI first targets (TechRadar)
-> The European Commission's full enforcement suite under the EU AI Act switched on August 2, granting regulators authority to demand information, order model recalls, and fine providers up to €15M or 3% of global turnover. Anthropic and OpenAI are among the first firms under the Commission's active scrutiny; SpaceX also saw a post-IPO stock plunge ahead of its first earnings report as a public company. [TechRadar](https://www.techradar.com/news/archive/2026/08)
+> [!note]- Tech: AMD revenue +50% YoY, data centre sales double; Palantir +29% on 'otherworldly' AI commercial demand (Tech Startups)
+> AMD reported blockbuster Q2 earnings with revenue climbing 50% year-over-year and data centre sales doubling, cementing its position as a leading AI chip beneficiary. Palantir surged 29% on what analysts described as "otherworldly" commercial AI revenue growth. Apple simultaneously filed a fresh legal challenge against the UK government's demand for an encrypted data backdoor. [Tech Startups](https://techstartups.com/2026/08/03/top-tech-news-today-august-3-2026-alibaba-amazon-amd-apple-microsoft-nvidia-more/)
 
-> [!note]- Macro: S&P 500 hits new record 7,744 (+1.9%), Dow 54,187, Nasdaq 26,584 — Hormuz deal hopes; WTI −5% (TheStreet)
-> US equities hit fresh all-time highs Tuesday — S&P 500 at 7,744 (+1.9%), Dow 54,187 (+1.9%), Nasdaq 26,584 (+2.6%) — on optimism over a Strait of Hormuz deal and WTI crude falling 5%. Palantir surged 17% on blowout Q2 earnings; SpaceX released its first-ever public earnings report after the bell. The 30-yr Treasury yield touched 5.28%, its highest in 19 years. [TheStreet](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-aug-4-2026)
+> [!note]- Macro: Dow 54,086 (+1.71%), S&P 500 +1.79%; Amazon crosses $3T market cap for first time (CNBC)
+> US equities held near record highs — Dow at 54,085 (+1.71%) and S&P 500 at 7,736 (+1.79%) — supported by a blowout earnings season with 85% of S&P 500 companies beating and aggregate profits tracking +47% growth. Amazon crossed $3 trillion in market cap for the first time, though shares pulled back 2% as Jeff Bezos filed to sell ~$4 billion in stock. [CNBC](https://www.cnbc.com/2026/08/03/stock-market-today-live-updates.html)
 
-> [!note]- World: SpaceX Falcon 9 upper stage crashes into Moon today — reignites cislunar space debris debate (Graphic News)
-> A discarded SpaceX Falcon 9 upper stage, roughly five storeys tall, is expected to impact the lunar surface on August 5 — one of the largest uncontrolled objects to hit the Moon since systematic exploration began. The event reignites the cislunar debris debate as commercial launches surge with no binding treaty on lunar surface impacts. Trump's Iran strike cancellation holds as Oman-mediated talks continue; an Indonesian ferry fire killed 5+ and left 41 missing off Madura island. [Graphic News](https://www.graphicnews.com/en/pages/48252/world-agenda-august-2026)
+> [!breaking]- World: Russian strikes kill 17 in Kyiv; LNG tanker struck in Hormuz; Italy 4th heatwave hits record 25 cities (AJP)
+> Russian missiles and drones struck Kyiv overnight, killing 17 and wounding 44 — one of the war's deadliest single-night attacks in months. The Gaslog Shanghai, a Bermuda-flagged LNG tanker carrying Qatari gas, was struck in the Strait of Hormuz, and Kuwait intercepted Iranian drones entering its airspace. Italy's health ministry issued red alerts for a record 25 cities amid its fourth heatwave of the summer; at least 14 died in floods in southern India. [AJP](https://ajp.com.au/news/world-news-wrapup-6-august-2026/)
 
-> [!breaking]- Malaysia/Singapore: NS election certified — BN-PN wins 25/36 seats, two-thirds majority; Aminuddin Harun ousted (The Edge)
-> Malaysia's Election Commission certified the 16th Negeri Sembilan state election: BN won 18 seats and PN 7 — a combined 25 of 36, a two-thirds supermajority — ending Pakatan Harapan's eight-year hold on the state, with PH reduced to 11. DAP secretary-general Anthony Loke and outgoing Menteri Besar Aminuddin Harun were both defeated; BN is expected to appoint a new MB from UMNO in the coming days. The result is a sharp GE16 bellwether against the Unity Government and one of the biggest state-level upsets in recent Malaysian history. [The Edge Malaysia](https://theedgemalaysia.com/node/812960)
+> [!note]- Malaysia/Singapore: Amir earns Malaysia's first judo gold at 2026 Commonwealth Games (The Star)
+> Malaysia's Amir claimed the nation's first-ever judo gold medal at the 2026 Commonwealth Games, adding to the country's growing medal count at the biennial event. The result comes as both Malaysia and Singapore field competitive squads across multiple disciplines. [The Star](https://www.thestar.com.my/aseanplus/aseanplus-news/2026/08/03/asean-news-headlines-at-10pm-on-monday-aug-3-2026)
 
-> [!note]- Science: FDA approves bemotrizinol for US sunscreens — first new UV-aging filter in the American market in decades (Science News)
-> The FDA approved bemotrizinol for use in US sunscreens — a long-lasting chemical that defends against UVA1 radiation that ages skin, filling a significant gap after decades of use in Europe and Asia. The approval ends a regulatory drought for new sunscreen actives in the US and could drive a wave of reformulated broad-spectrum products. Separately, the Perseid meteor shower peaks August 12–13 and a total solar eclipse crosses northern Russia, Greenland, and Spain on August 12. [Science News](https://www.sciencenews.org/sn-magazine/august-2026)
+> [!note]- Science: Hidden 6,000 km³ magma reservoir found beneath Tuscany via passive seismic arrays — no surface signs (ScienceDaily)
+> Scientists using dozens of seismic sensors to capture natural ground vibrations mapped a roughly 6,000-cubic-kilometre magma body hidden deep beneath Tuscany — one of the region's largest sub-surface reservoirs ever detected, with no obvious surface expression. The discovery prompts reassessment of volcanic hazard models for central Italy; separately, wildfires scorched Spain and France in areas the size of New York City, generating rare towering fire clouds. [ScienceDaily](https://www.sciencedaily.com/)
 
-> [!note]- NKE: $41.93 (−1.67%, Tue) — underperforms broad +1.9% rally; JPMorgan warns $1B China risk; P&L −$1,369 (Investing.com)
-> Nike (NKE) fell to $41.93 Tuesday (−1.67%), underperforming the market's 1.9% surge as the stock drifts near multi-year lows. The 46-share position at $71.69 avg cost carries an unrealised loss of −$1,369 (46 × −$29.76). JPMorgan flagged a potential $1B China revenue loss risk; Wembanyama's newly signed long-term deal — including a signature shoe — remains a medium-term brand catalyst. 39-analyst consensus target: $51.12 (+22% from current). [Investing.com](https://www.investing.com/equities/nike)
+> [!note]- NKE: $42.64 (+2.21%) — JPMorgan downgrades to Underweight, cuts target to $40; P&L −$1,336 (Motley Fool/JPMorgan)
+> Nike rose 2.21% to $42.64 but faces fresh headwinds: JPMorgan analyst Matthew Boss downgraded NKE to Underweight from Neutral, cutting his price target to $40 (from $47) citing doubts about CEO Elliott Hill's turnaround plan. FY2026 revenue was flat at $46.4B with net income down 3% to $3.1B. The 46-share position at $71.69 avg cost carries an unrealised loss of −$1,336 (46 × −$29.05). [Motley Fool](https://www.fool.com/quote/nyse/nke/)
 
-> **Evening update**
-
-> [!note]- SG & MY: Singapore toughens drink-drive law — lower blood-alcohol limit, harsher reckless driving penalties (Bernama)
-> Singapore's Parliament passed new road safety legislation on Tuesday, lowering the legal blood-alcohol concentration limit for motorists and introducing harsher penalties for dangerous driving that causes grievous hurt. The bill tightens one of the region's more stringent road-safety frameworks and responds to public and advocacy pressure for stronger deterrents against impaired driving. The amendments are expected to take effect after presidential assent. [Bernama](https://asean.bernama.com/news.php?id=2590457)
-
-> [!note]- Malaysia: Fuel prices rise for Jul 30–Aug 5 week — RON 95 up 20 sen to RM3.82/L; diesel to RM4.62/L (paultan.org)
-> Malaysia's retail fuel prices climbed for the week of July 30–August 5, with RON 95 petrol rising 20 sen to RM3.82 per litre, RON 97 to RM4.40 per litre, and unsubsidised diesel increasing to RM4.62 per litre. The consecutive weekly increases track elevated global crude prices driven by US-Iran tensions in the Strait of Hormuz, adding further cost-of-living pressure for Malaysian households and businesses. [paultan.org](https://paultan.org/2026/07/29/malaysian-fuel-prices-july-30-august-5-2026-up-20-sen-diesel-to-rm4-62-ron95-to-rm3-82-ron97-to-rm4-40/)
-
-> [!note]- World: Russia strikes Kyiv overnight with missiles and drones — 17 killed, 44 wounded; Sumy hit kills children (WNG)
-> Russian missile and drone barrages struck Kyiv and its surrounding region overnight into Wednesday, killing 17 people and wounding 44 others in one of the war's deadliest single-night attacks in months. A separate strike on Sumy on Tuesday killed an elderly woman and two children, raising the day's civilian toll further. Ukrainian air defences intercepted part of the salvo but were unable to prevent all impacts on residential areas. [WNG](https://wng.org/podcasts/wednesday-morning-news-august-5-2026-1785865239)
-
-> [!note]- World: DRC Ebola death toll passes 1,700 — cross-border cases in Uganda and France as WHO scales response (WNG)
-> The Ebola outbreak in eastern Democratic Republic of Congo surpassed 1,700 deaths, extending the record as the fastest-growing Ebola epidemic since systematic data collection began — already surpassing the 2018–20 outbreak in total case count. Cross-border transmission has been confirmed in Uganda, and a travel-linked case appeared in France, prompting heightened WHO coordination and MSF surge deployments across the five affected DRC provinces. [WNG](https://wng.org/podcasts/wednesday-morning-news-august-5-2026-1785865239)
-
-> [!note]- Tech: White House finalises AI frontier model vetting framework but declines to publish it — opacity concerns grow (LLM Stats)
-> The White House has completed a framework for evaluating frontier AI models before deployment but has declined to release its contents publicly, drawing criticism from researchers and AI safety advocates who argue the opacity undermines government accountability in AI governance. The move draws a sharp contrast with the EU AI Act's transparency obligations — activated August 2 — requiring disclosure, labelling, and machine-readable marks for AI-generated content across the EU. Critics warn that a closed-door vetting process could be shaped by the very companies the framework is meant to oversee. [LLM Stats](https://llm-stats.com/ai-news)
-
-> [!note]- Science: AI scans 1.2M satellite images — floating algae blooms expanding across global oceans (ScienceDaily)
-> Scientists using AI to analyse 1.2 million satellite images found that floating algae blooms are spreading across the global ocean, with coverage expanding faster than previously measured by conventional monitoring methods. The findings point to warming sea-surface temperatures and increased nutrient runoff as the primary drivers, raising concerns about marine ecosystem health, coastal fisheries, and shipping routes affected by thick surface mats. The study represents one of the largest-ever machine-learning surveys of ocean surface conditions. [ScienceDaily](https://www.sciencedaily.com/)
+> [!note]- [[08-05-26 Wed]]
+>
+> > [!note]- AI: OpenAI GPT-5.5 live with "System 2" reasoning — model pauses to think on hard tasks (LLM Stats)
+> > OpenAI rolled out GPT-5.5 in early August featuring a native "System 2" architecture that causes the model to pause and reason through complex math or coding problems more carefully before responding, marking a significant step in agentic reasoning capability. August 2026 is tracking over 337 model releases across major AI organisations — the fastest monthly pace on record — with GPT-5.5 headlining a packed month for frontier labs. [LLM Stats](https://llm-stats.com/ai-news)
+>
+> > [!note]- Tech: EU AI Act enforcement live — Commission wields recall and €15M fine powers; Anthropic, OpenAI first targets (TechRadar)
+> > The European Commission's full enforcement suite under the EU AI Act switched on August 2, granting regulators authority to demand information, order model recalls, and fine providers up to €15M or 3% of global turnover. Anthropic and OpenAI are among the first firms under the Commission's active scrutiny; SpaceX also saw a post-IPO stock plunge ahead of its first earnings report as a public company. [TechRadar](https://www.techradar.com/news/archive/2026/08)
+>
+> > [!note]- Macro: S&P 500 hits new record 7,744 (+1.9%), Dow 54,187, Nasdaq 26,584 — Hormuz deal hopes; WTI −5% (TheStreet)
+> > US equities hit fresh all-time highs Tuesday — S&P 500 at 7,744 (+1.9%), Dow 54,187 (+1.9%), Nasdaq 26,584 (+2.6%) — on optimism over a Strait of Hormuz deal and WTI crude falling 5%. Palantir surged 17% on blowout Q2 earnings; SpaceX released its first-ever public earnings report after the bell. The 30-yr Treasury yield touched 5.28%, its highest in 19 years. [TheStreet](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-aug-4-2026)
+>
+> > [!note]- World: SpaceX Falcon 9 upper stage crashes into Moon today — reignites cislunar space debris debate (Graphic News)
+> > A discarded SpaceX Falcon 9 upper stage, roughly five storeys tall, is expected to impact the lunar surface on August 5 — one of the largest uncontrolled objects to hit the Moon since systematic exploration began. The event reignites the cislunar debris debate as commercial launches surge with no binding treaty on lunar surface impacts. Trump's Iran strike cancellation holds as Oman-mediated talks continue; an Indonesian ferry fire killed 5+ and left 41 missing off Madura island. [Graphic News](https://www.graphicnews.com/en/pages/48252/world-agenda-august-2026)
+>
+> > [!breaking]- Malaysia/Singapore: NS election certified — BN-PN wins 25/36 seats, two-thirds majority; Aminuddin Harun ousted (The Edge)
+> > Malaysia's Election Commission certified the 16th Negeri Sembilan state election: BN won 18 seats and PN 7 — a combined 25 of 36, a two-thirds supermajority — ending Pakatan Harapan's eight-year hold on the state, with PH reduced to 11. DAP secretary-general Anthony Loke and outgoing Menteri Besar Aminuddin Harun were both defeated; BN is expected to appoint a new MB from UMNO in the coming days. The result is a sharp GE16 bellwether against the Unity Government and one of the biggest state-level upsets in recent Malaysian history. [The Edge Malaysia](https://theedgemalaysia.com/node/812960)
+>
+> > [!note]- Science: FDA approves bemotrizinol for US sunscreens — first new UV-aging filter in the American market in decades (Science News)
+> > The FDA approved bemotrizinol for use in US sunscreens — a long-lasting chemical that defends against UVA1 radiation that ages skin, filling a significant gap after decades of use in Europe and Asia. The approval ends a regulatory drought for new sunscreen actives in the US and could drive a wave of reformulated broad-spectrum products. Separately, the Perseid meteor shower peaks August 12–13 and a total solar eclipse crosses northern Russia, Greenland, and Spain on August 12. [Science News](https://www.sciencenews.org/sn-magazine/august-2026)
+>
+> > [!note]- NKE: $41.93 (−1.67%, Tue) — underperforms broad +1.9% rally; JPMorgan warns $1B China risk; P&L −$1,369 (Investing.com)
+> > Nike (NKE) fell to $41.93 Tuesday (−1.67%), underperforming the market's 1.9% surge as the stock drifts near multi-year lows. The 46-share position at $71.69 avg cost carries an unrealised loss of −$1,369 (46 × −$29.76). JPMorgan flagged a potential $1B China revenue loss risk; Wembanyama's newly signed long-term deal — including a signature shoe — remains a medium-term brand catalyst. 39-analyst consensus target: $51.12 (+22% from current). [Investing.com](https://www.investing.com/equities/nike)
+>
+> > **Evening update**
+>
+> > [!note]- SG & MY: Singapore toughens drink-drive law — lower blood-alcohol limit, harsher reckless driving penalties (Bernama)
+> > Singapore's Parliament passed new road safety legislation on Tuesday, lowering the legal blood-alcohol concentration limit for motorists and introducing harsher penalties for dangerous driving that causes grievous hurt. The bill tightens one of the region's more stringent road-safety frameworks and responds to public and advocacy pressure for stronger deterrents against impaired driving. The amendments are expected to take effect after presidential assent. [Bernama](https://asean.bernama.com/news.php?id=2590457)
+>
+> > [!note]- Malaysia: Fuel prices rise for Jul 30–Aug 5 week — RON 95 up 20 sen to RM3.82/L; diesel to RM4.62/L (paultan.org)
+> > Malaysia's retail fuel prices climbed for the week of July 30–August 5, with RON 95 petrol rising 20 sen to RM3.82 per litre, RON 97 to RM4.40 per litre, and unsubsidised diesel increasing to RM4.62 per litre. The consecutive weekly increases track elevated global crude prices driven by US-Iran tensions in the Strait of Hormuz, adding further cost-of-living pressure for Malaysian households and businesses. [paultan.org](https://paultan.org/2026/07/29/malaysian-fuel-prices-july-30-august-5-2026-up-20-sen-diesel-to-rm4-62-ron95-to-rm3-82-ron97-to-rm4-40/)
+>
+> > [!note]- World: Russia strikes Kyiv overnight with missiles and drones — 17 killed, 44 wounded; Sumy hit kills children (WNG)
+> > Russian missile and drone barrages struck Kyiv and its surrounding region overnight into Wednesday, killing 17 people and wounding 44 others in one of the war's deadliest single-night attacks in months. A separate strike on Sumy on Tuesday killed an elderly woman and two children, raising the day's civilian toll further. Ukrainian air defences intercepted part of the salvo but were unable to prevent all impacts on residential areas. [WNG](https://wng.org/podcasts/wednesday-morning-news-august-5-2026-1785865239)
+>
+> > [!note]- World: DRC Ebola death toll passes 1,700 — cross-border cases in Uganda and France as WHO scales response (WNG)
+> > The Ebola outbreak in eastern Democratic Republic of Congo surpassed 1,700 deaths, extending the record as the fastest-growing Ebola epidemic since systematic data collection began — already surpassing the 2018–20 outbreak in total case count. Cross-border transmission has been confirmed in Uganda, and a travel-linked case appeared in France, prompting heightened WHO coordination and MSF surge deployments across the five affected DRC provinces. [WNG](https://wng.org/podcasts/wednesday-morning-news-august-5-2026-1785865239)
+>
+> > [!note]- Tech: White House finalises AI frontier model vetting framework but declines to publish it — opacity concerns grow (LLM Stats)
+> > The White House has completed a framework for evaluating frontier AI models before deployment but has declined to release its contents publicly, drawing criticism from researchers and AI safety advocates who argue the opacity undermines government accountability in AI governance. The move draws a sharp contrast with the EU AI Act's transparency obligations — activated August 2 — requiring disclosure, labelling, and machine-readable marks for AI-generated content across the EU. Critics warn that a closed-door vetting process could be shaped by the very companies the framework is meant to oversee. [LLM Stats](https://llm-stats.com/ai-news)
+>
+> > [!note]- Science: AI scans 1.2M satellite images — floating algae blooms expanding across global oceans (ScienceDaily)
+> > Scientists using AI to analyse 1.2 million satellite images found that floating algae blooms are spreading across the global ocean, with coverage expanding faster than previously measured by conventional monitoring methods. The findings point to warming sea-surface temperatures and increased nutrient runoff as the primary drivers, raising concerns about marine ecosystem health, coastal fisheries, and shipping routes affected by thick surface mats. The study represents one of the largest-ever machine-learning surveys of ocean surface conditions. [ScienceDaily](https://www.sciencedaily.com/)
 
 > [!note]- [[08-04-26 Tue]]
 >
