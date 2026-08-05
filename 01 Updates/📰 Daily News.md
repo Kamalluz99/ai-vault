@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-08-05T05:00
+updated: 2026-08-05T19:08
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,26 @@ unread: true
 
 > [!note]- NKE: $41.93 (−1.67%, Tue) — underperforms broad +1.9% rally; JPMorgan warns $1B China risk; P&L −$1,369 (Investing.com)
 > Nike (NKE) fell to $41.93 Tuesday (−1.67%), underperforming the market's 1.9% surge as the stock drifts near multi-year lows. The 46-share position at $71.69 avg cost carries an unrealised loss of −$1,369 (46 × −$29.76). JPMorgan flagged a potential $1B China revenue loss risk; Wembanyama's newly signed long-term deal — including a signature shoe — remains a medium-term brand catalyst. 39-analyst consensus target: $51.12 (+22% from current). [Investing.com](https://www.investing.com/equities/nike)
+
+> **Evening update**
+
+> [!note]- SG & MY: Singapore toughens drink-drive law — lower blood-alcohol limit, harsher reckless driving penalties (Bernama)
+> Singapore's Parliament passed new road safety legislation on Tuesday, lowering the legal blood-alcohol concentration limit for motorists and introducing harsher penalties for dangerous driving that causes grievous hurt. The bill tightens one of the region's more stringent road-safety frameworks and responds to public and advocacy pressure for stronger deterrents against impaired driving. The amendments are expected to take effect after presidential assent. [Bernama](https://asean.bernama.com/news.php?id=2590457)
+
+> [!note]- Malaysia: Fuel prices rise for Jul 30–Aug 5 week — RON 95 up 20 sen to RM3.82/L; diesel to RM4.62/L (paultan.org)
+> Malaysia's retail fuel prices climbed for the week of July 30–August 5, with RON 95 petrol rising 20 sen to RM3.82 per litre, RON 97 to RM4.40 per litre, and unsubsidised diesel increasing to RM4.62 per litre. The consecutive weekly increases track elevated global crude prices driven by US-Iran tensions in the Strait of Hormuz, adding further cost-of-living pressure for Malaysian households and businesses. [paultan.org](https://paultan.org/2026/07/29/malaysian-fuel-prices-july-30-august-5-2026-up-20-sen-diesel-to-rm4-62-ron95-to-rm3-82-ron97-to-rm4-40/)
+
+> [!note]- World: Russia strikes Kyiv overnight with missiles and drones — 17 killed, 44 wounded; Sumy hit kills children (WNG)
+> Russian missile and drone barrages struck Kyiv and its surrounding region overnight into Wednesday, killing 17 people and wounding 44 others in one of the war's deadliest single-night attacks in months. A separate strike on Sumy on Tuesday killed an elderly woman and two children, raising the day's civilian toll further. Ukrainian air defences intercepted part of the salvo but were unable to prevent all impacts on residential areas. [WNG](https://wng.org/podcasts/wednesday-morning-news-august-5-2026-1785865239)
+
+> [!note]- World: DRC Ebola death toll passes 1,700 — cross-border cases in Uganda and France as WHO scales response (WNG)
+> The Ebola outbreak in eastern Democratic Republic of Congo surpassed 1,700 deaths, extending the record as the fastest-growing Ebola epidemic since systematic data collection began — already surpassing the 2018–20 outbreak in total case count. Cross-border transmission has been confirmed in Uganda, and a travel-linked case appeared in France, prompting heightened WHO coordination and MSF surge deployments across the five affected DRC provinces. [WNG](https://wng.org/podcasts/wednesday-morning-news-august-5-2026-1785865239)
+
+> [!note]- Tech: White House finalises AI frontier model vetting framework but declines to publish it — opacity concerns grow (LLM Stats)
+> The White House has completed a framework for evaluating frontier AI models before deployment but has declined to release its contents publicly, drawing criticism from researchers and AI safety advocates who argue the opacity undermines government accountability in AI governance. The move draws a sharp contrast with the EU AI Act's transparency obligations — activated August 2 — requiring disclosure, labelling, and machine-readable marks for AI-generated content across the EU. Critics warn that a closed-door vetting process could be shaped by the very companies the framework is meant to oversee. [LLM Stats](https://llm-stats.com/ai-news)
+
+> [!note]- Science: AI scans 1.2M satellite images — floating algae blooms expanding across global oceans (ScienceDaily)
+> Scientists using AI to analyse 1.2 million satellite images found that floating algae blooms are spreading across the global ocean, with coverage expanding faster than previously measured by conventional monitoring methods. The findings point to warming sea-surface temperatures and increased nutrient runoff as the primary drivers, raising concerns about marine ecosystem health, coastal fisheries, and shipping routes affected by thick surface mats. The study represents one of the largest-ever machine-learning surveys of ocean surface conditions. [ScienceDaily](https://www.sciencedaily.com/)
 
 > [!note]- [[08-04-26 Tue]]
 >
