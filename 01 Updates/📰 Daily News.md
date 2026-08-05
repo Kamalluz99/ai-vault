@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-08-06T05:00
+updated: 2026-08-06T05:30
 topic: daily news
 frequency: daily
 ongoing: false
@@ -126,6 +126,20 @@ unread: true
 >
 > > [!note]- Science: AI scans 1.2M satellite images — floating algae blooms expanding across global oceans (ScienceDaily)
 > > Scientists using AI to analyse 1.2 million satellite images found that floating algae blooms are spreading across the global ocean, with coverage expanding faster than previously measured by conventional monitoring methods. The findings point to warming sea-surface temperatures and increased nutrient runoff as the primary drivers, raising concerns about marine ecosystem health, coastal fisheries, and shipping routes affected by thick surface mats. The study represents one of the largest-ever machine-learning surveys of ocean surface conditions. [ScienceDaily](https://www.sciencedaily.com/)
+>
+> > **Late update**
+>
+> > [!note]- Macro: Dow hits new record (+0.5%) as S&P 500 −0.2%, Nasdaq −0.8% snap 4-day win streak (TheStreet)
+> > The Dow Jones Industrial Average climbed 0.5% to a new all-time high Wednesday — boosted by Nvidia — while the S&P 500 shed 0.2% and the Nasdaq dropped 0.8%, snapping their four-day winning run as investors locked in gains after Tuesday's record close. AMD delivered better-than-expected Q2 results after the bell; SpaceX's debut quarterly report left its stock tracking well below its $150 IPO price. Hormuz deal optimism kept crude suppressed, but mixed corporate signals stalled the week's rally. [TheStreet](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-aug-5-2026)
+>
+> > [!breaking]- World: Iran-Oman Hormuz deal in "final stages" — Bessent says agreement "today or tomorrow" (France 24)
+> > Iran and Oman are in the final stages of drafting a commercial shipping agreement for the Strait of Hormuz, with US Treasury Secretary Scott Bessent publicly confirming the US is "in talks with the Iranians" and a deal could materialise "today or tomorrow." The proposed framework would give Tehran increased control over vessels transiting the waterway — a concession Washington previously resisted — even as Iran's foreign ministry simultaneously denies direct negotiations. The contradiction between Iran's public denials and back-channel progress mirrors the pattern before earlier diplomatic breakthroughs; Bessent's explicit timeline signals Washington is pressing for closure. [France 24](https://www.france24.com/en/middle-east/20260805-us-says-iran-hormuz-deal-could-come-today-or-tomorrow-as-oil-prices-plunge)
+>
+> > [!note]- Malaysia: Govt mulls EV levy on every sale to fund public charging network — RM3.3B in tax revenue forgone (The Star)
+> > Malaysia's Trade and Industry Ministry is studying whether to impose a levy on every electric vehicle sold to fund a national public EV charging network, Minister Johari Abdul Ghani said Wednesday. Four years of EV tax exemptions cost RM3.3 billion in forgone tax revenue, yet private investment in public chargers "simply was not there" — leaving apartment and public-housing residents unable to charge at home. No decision has been made; MITI is assessing whether the charge falls on manufacturers or is passed to consumers. [The Star](https://www.thestar.com.my/business/business-news/2026/08/04/govt-mulls-levy-on-ev-sales-to-fund-public-charging-network)
+>
+> > [!note]- NKE: $41.53 (−2.60% Wed) — diverges from Dow record; unrealised P&L −$1,387 (46 × −$30.16) (Yahoo Finance)
+> > Nike (NKE) closed at $41.53 Wednesday, shedding 2.60% in a session where the Dow posted a fresh all-time high — underlining NKE's persistent divergence from the broader market. The 46-share position at a $71.69 average cost now carries an unrealised loss of −$1,387 (46 × −$30.16). Two straight down days this week keep Nike pinned near multi-year lows despite broader market strength; the JPMorgan $93 Overweight target and brand-reset thesis remain the key bull case. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
 
 > [!note]- [[08-04-26 Tue]]
 >
