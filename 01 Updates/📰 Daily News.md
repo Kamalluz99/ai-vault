@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-08-06T05:30
+updated: 2026-08-06T19:09
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,26 @@ unread: true
 
 > [!note]- NKE: $42.64 (+2.21%) — JPMorgan downgrades to Underweight, cuts target to $40; P&L −$1,336 (Motley Fool/JPMorgan)
 > Nike rose 2.21% to $42.64 but faces fresh headwinds: JPMorgan analyst Matthew Boss downgraded NKE to Underweight from Neutral, cutting his price target to $40 (from $47) citing doubts about CEO Elliott Hill's turnaround plan. FY2026 revenue was flat at $46.4B with net income down 3% to $3.1B. The 46-share position at $71.69 avg cost carries an unrealised loss of −$1,336 (46 × −$29.05). [Motley Fool](https://www.fool.com/quote/nyse/nke/)
+
+> **Evening update**
+
+> [!note]- SG & MY: NDP Aug 9 and Red haze alert — peak fire season starts (NEA)
+> Singapore's 61st National Day falls on Sunday August 9, themed "Oceans Apart, Singaporeans at Heart," featuring the nation's first indoor drone show with 300+ drones under the National Stadium's closed roof and a Presidential Gun Salute fired at Kallang Basin. Regional watchdog SIIA has issued only its second-ever Red haze alert — first since 2023 — flagging August–September as the peak risk window, driven by El Niño and a positive Indian Ocean Dipole, affecting Singapore, Malaysia, Brunei, and Indonesia. Residents in both countries are advised to monitor live PSI readings as open-burning season peaks across Sumatra and Kalimantan. [NEA](https://www.haze.gov.sg/)
+
+> [!note]- Malaysia: MACC to charge 100+ over PERKESO Daya Kerjaya 2.0 fraud (The Star)
+> The Malaysian Anti-Corruption Commission has commenced prosecutions across the country against individuals who fraudulently claimed incentives under PERKESO's Daya Kerjaya 2.0 employment scheme, with at least 100 people expected to face formal charges in one of the commission's largest coordinated welfare-fraud sweeps. The enforcement drive targets systematic abuse of a programme designed to incentivise hiring of vulnerable workers. MACC's proposed joint anti-smuggling task force with Customs remains under discussion, with civil society calling for greater public accountability. [The Star](https://www.thestar.com.my/)
+
+> [!note]- World: Israeli double-tap drone strike hits rescuers in south Lebanon (UN News)
+> Israeli drones struck Burj Al-Shamali in southern Lebanon Thursday in a double-tap sequence — hitting the site once, waiting for emergency crews to gather, then striking again, before a further strike near ambulance teams forced rescuers to withdraw. Israeli artillery separately shelled residential neighbourhoods in Al-Mansouri in the Tyre district for several continuous hours. The targeting of first-responders drew immediate international condemnation and is being examined under international humanitarian law frameworks. [UN News](https://news.un.org/en/story/2026/08)
+
+> [!note]- World: Trump's Board of Peace secures Hamas disarmament deal (Reuters)
+> US President Trump announced on July 31 that his Board of Peace had reached an agreement to disarm Hamas and other militant organisations in Gaza — the most substantive political milestone since the October 2025 third ceasefire. As of August 6, Phase 1 of the US-brokered plan is reported to be holding, with implementation of disarmament terms underway. Analysts caution that durability remains uncertain as Israeli operations continue in Lebanon and field access for humanitarian monitors in Gaza remains restricted. [Reuters](https://www.reuters.com/)
+
+> [!note]- Tech: Google pulls AI Earth feature after users make atrocity imagery (AI News)
+> Google disabled an AI-powered aerial view feature in Google Earth just hours after launch on Thursday, after users rapidly exploited the tool to generate AI-manipulated imagery depicting mass casualties and horrific scenes. The incident underscores the challenge of preventing harmful misuse even in tightly scoped consumer AI features. Separately, DeepSeek released V4 Flash 0731, reporting best-in-class price efficiency on real-world task benchmarks — the latest escalation in cost competition across frontier AI providers. [AI News](https://www.artificialintelligence-news.com/)
+
+> [!note]- Economy: Brazil cuts Selic to 14%; S&P 500 slips on Middle East risk (CNBC)
+> Brazil's Copom delivered a 25-basis-point cut, lowering the Selic rate to 14.00% on August 5 — the first reduction of the 2026 cycle — as inflation remains contained and global rate-easing pressure mounts. The S&P 500 slipped 0.17% to 7,724 Thursday as investors balanced escalating Middle East tensions — Israeli strikes in Lebanon and ongoing Hormuz uncertainty — against a US earnings season tracking +47% aggregate profit growth. The IMF holds its 2026 global growth projection at 3.1% amid a mixed macro environment. [CNBC](https://www.cnbc.com/2026/08/02/stock-market-today-live-updates.html)
 
 > [!note]- [[08-05-26 Wed]]
 >
