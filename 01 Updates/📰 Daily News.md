@@ -127,6 +127,17 @@ unread: true
 > > [!note]- Economy: Brazil cuts Selic to 14%; S&P 500 slips on Middle East risk (CNBC)
 > > Brazil's Copom delivered a 25-basis-point cut, lowering the Selic rate to 14.00% on August 5 — the first reduction of the 2026 cycle — as inflation remains contained and global rate-easing pressure mounts. The S&P 500 slipped 0.17% to 7,724 Thursday as investors balanced escalating Middle East tensions — Israeli strikes in Lebanon and ongoing Hormuz uncertainty — against a US earnings season tracking +47% aggregate profit growth. The IMF holds its 2026 global growth projection at 3.1% amid a mixed macro environment. [CNBC](https://www.cnbc.com/2026/08/02/stock-market-today-live-updates.html)
 >
+> > **Late update**
+>
+> > [!note]- AI: Meta launches Muse Code terminal coding agent to rival Claude Code and OpenAI Codex (TechCrunch)
+> > Meta debuted Muse Code in beta on Thursday — a terminal-based AI coding agent powered by its new Muse Spark 1.2 model, competing directly with Anthropic's Claude Code and OpenAI Codex. The agent scores 59% on DeepSWE 1.1 benchmarks, beating Grok Build 4.5 and Gemini 3.6 Flash, and can plan changes, write code, run validation, and coordinate sub-agents across large codebases. Two tiers: pay-as-you-go or a discounted contributor plan requiring consent to data-train the model. [TechCrunch](https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/)
+>
+> > [!note]- Macro: Dow −0.9% snaps record run; S&P 500 −0.2%, Nasdaq −0.1% at Thursday close (TheStreet)
+> > US stocks fell across the board Thursday, with the Dow shedding 0.9% to end its record-breaking winning streak while the S&P 500 dropped 0.2% and the Nasdaq 0.1%. Rising Treasury yields, fresh labour-market data, and mid-earnings-season caution weighed on sentiment even as Hormuz deal optimism kept crude suppressed; 30-year yields continued pushing toward the 19-year highs set earlier in the week. [TheStreet](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-aug-6-2026)
+>
+> > [!note]- Science: Dodo had owl-like vision and keen sense of smell — far more capable than previously assumed (ScienceDaily)
+> > A study published August 6 reveals the extinct dodo possessed surprisingly sophisticated sensory abilities: visual acuity comparable to an owl and a keen olfactory sense, overturning the long-held image of the bird as a dim-witted island creature. The authors argue the dodo's rapid extinction was driven almost entirely by human hunting, habitat destruction, and introduced predators — not any cognitive or perceptual deficit. Separately, Stanford researchers found that flatworm immune cells explode within minutes to kill nearby bacteria before vanishing, a previously unknown innate immune mechanism. [ScienceDaily](https://www.sciencedaily.com/)
+>
 
 > [!note]- [[08-05-26 Wed]]
 >
