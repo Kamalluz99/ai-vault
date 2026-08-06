@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-08-07T05:12
+updated: 2026-08-07T08:30
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,7 +83,6 @@ unread: true
 
 > [!note]- NKE: ~$42.64 (Thu close, −33% YTD) — JPMorgan $40 Underweight; $1B China revenue risk; P&L −$1,336 (CNBC)
 > Nike's Thursday close of $42.64 leaves the stock down 33% year-to-date, near multi-year lows. JPMorgan analyst Matthew Boss holds an Underweight rating with a $40 price target, warning of a potential $1 billion China revenue hit from strategic missteps and planned US store closures. The 46-share position at $71.69 avg cost carries an unrealised loss of −$1,336 (46 × −$29.05). [CNBC](https://www.cnbc.com/quotes/NKE)
-
 
 > [!note]- [[08-06-26 Thu]]
 >
