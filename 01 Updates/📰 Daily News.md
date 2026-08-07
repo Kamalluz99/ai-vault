@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-08-08T05:05
+updated: 2026-08-07T21:12
 topic: daily news
 frequency: daily
 ongoing: false
@@ -123,6 +123,14 @@ unread: true
 >
 > > [!note]- Science: FDA approves first mRNA flu vaccine for seniors — mRNA era expands beyond COVID (Science News)
 > > The US FDA approved the first mRNA-based influenza vaccine specifically designed for older adults, the most significant broadening of mRNA platform technology since the COVID-19 inoculations and a milestone that opens the door to mRNA seasonal flu shots at scale. Separately, NASA's Perseverance rover has confirmed shallow preserved organic carbon deposits on Mars, raising new questions about ancient Martian habitability in findings researchers describe as scientifically significant. [Science News](https://www.sciencenews.org/sn-magazine/august-2026)
+>
+> > **Late update**
+>
+> > [!note]- Macro: Jobs shock — US shed 23K in July vs +95K expected; S&P 500 records 7,757 (+0.62%) (CNBC)
+> > The BLS's July nonfarm payrolls report printed −23,000 — the first net job loss in months and far below the 95,000 consensus — driven by 50,000 cuts in local government education and 19,000 in retail; the unemployment rate edged down to 4.1% while wage growth slowed to a five-year low of 3.2%. Markets read the miss as removing any near-term Fed rate-hike risk: the S&P 500 climbed 0.62% to a fresh record close of 7,757.64, the Dow added 0.28% to 54,036.93, and the Nasdaq gained 1.3% to 26,690.62 — the index's strongest week since April. [CNBC](https://www.cnbc.com/2026/08/07/jobs-report-july-2026.html)
+>
+> > [!breaking]- World: Houthi missiles kill 58 Saudi-backed Yemeni troops; 11 civilians wounded in Saudi Arabia (Al Jazeera)
+> > Yemen's Houthi forces launched a major coordinated missile-and-drone offensive against Saudi-backed government positions in Marib and Hadramout provinces, killing at least 58 soldiers — the deadliest single-day attack on Yemeni government forces since 2022. A separate Houthi strike reached Saudi Arabia's Najran region, wounding 11 civilians including a 4-year-old child. Saudi Arabia subsequently warned that imminent coordinated follow-up attacks by both Houthis and Iran-backed Iraqi militias are being planned — a significant widening of Iran's proxy front even as US-Iran Hormuz diplomacy runs in parallel. [Al Jazeera](https://www.aljazeera.com/news/2026/8/7/houthi-strikes-hit-yemen-as-saudi-arabia-braces-for-attacks-what-we-know)
 
 > [!note]- [[08-06-26 Thu]]
 >
