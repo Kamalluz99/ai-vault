@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-08-07T08:30
+updated: 2026-08-07T19:08
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,26 @@ unread: true
 
 > [!note]- NKE: ~$42.64 (Thu close, −33% YTD) — JPMorgan $40 Underweight; $1B China revenue risk; P&L −$1,336 (CNBC)
 > Nike's Thursday close of $42.64 leaves the stock down 33% year-to-date, near multi-year lows. JPMorgan analyst Matthew Boss holds an Underweight rating with a $40 price target, warning of a potential $1 billion China revenue hit from strategic missteps and planned US store closures. The 46-share position at $71.69 avg cost carries an unrealised loss of −$1,336 (46 × −$29.05). [CNBC](https://www.cnbc.com/quotes/NKE)
+
+> **Evening update**
+
+> [!note]- SG & MY: NDP eve — PM Wong's National Day Message airs Sat; SG61 parade Sun Aug 9 (PMO)
+> Singapore enters the eve of its 61st National Day with Prime Minister Lawrence Wong's annual address set to broadcast Saturday 8 August across all platforms in four official languages. The NDP returns to the National Stadium at Kallang on Sunday 9 August — for the first time in a decade — under the theme "Majulah Singapura, Go Beyond!," featuring the nation's first indoor drone show with 300+ drones. MINDEF's Chan Chun Sing led 1,000 SAF personnel in a National Day Observance Ceremony this morning, and the RSAF concluded Exercise Pitch Black 2026 in Darwin today. [PMO Singapore](https://www.pmo.gov.sg/newsroom/broadcast-of-national-day-message-2026/)
+
+> [!note]- Malaysia: BN-PN to form Negeri Sembilan govt — second state loss for Anwar's coalition (Malay Mail)
+> BN president Ahmad Zahid Hamidi confirmed that Barisan Nasional and Perikatan Nasional — federal rivals — will partner to establish the new Negeri Sembilan state administration following their combined 25-of-36 seat majority on 1 August. The Diplomat characterises it as PM Anwar Ibrahim's Unity Government suffering "another state-level electoral defeat," mirroring a similar loss in Johor weeks earlier and raising GE16 pressure. The new Menteri Besar is expected to be named from UMNO in the coming days. [Malay Mail](https://www.malaymail.com/news/malaysia/2026/08/01/zahid-bn-and-pn-will-partner-to-establish-negeri-sembilan-administration/229904)
+
+> [!breaking]- World: Israel weighs defying Gaza roadmap — discusses resuming full strikes (Times of Israel)
+> Israel is reportedly discussing "open defiance" of the US-brokered Board of Peace Gaza disarmament roadmap, with officials describing Hamas's acceptance of the deal as a "strategic ambush" designed to pause pressure rather than disarm. Hamas has declared it will not implement any part of the agreement unless Israel fulfils its own withdrawal obligations; Israeli operations have killed at least 1,180 Palestinians since the October 2025 ceasefire. Two IDF reservists were also killed and four seriously wounded by an IED in south Lebanon on Friday, with the IDF striking Hezbollah targets in response. [Times of Israel](https://www.timesofisrael.com/liveblog-august-7-2026/)
+
+> [!note]- World: US July jobs report due — markets await 97,500 payrolls print; Dow futures slip (Bloomberg)
+> Wall Street awaits the Bureau of Labor Statistics' July nonfarm payrolls report at 8:30 a.m. ET Friday, with FactSet consensus at 97,500 — a rebound from June's weak 57,000 and the most closely watched macro print of the week. Dow futures slipped while S&P 500 futures edged higher, with Polymarket implying a 67% probability the index opens positive; a stronger-than-expected print could revive Fed rate-hike bets for later in 2026. [Bloomberg](https://www.bloomberg.com/news/articles/2026-08-06/stock-market-today-dow-s-p-live-updates)
+
+> [!note]- Tech: Google's $15B India data centre battles court over water and wildlife (The Next Web)
+> Google's $15 billion data centre complex planned near Visakhapatnam, Andhra Pradesh — projected to create 188,000 jobs — is under review by the Andhra Pradesh High Court following a public interest lawsuit over water supplies and proximity to a wildlife sanctuary home to leopards and pangolins. Protesters have marched with "We cannot drink DATA" banners as local water demand already outstrips daily supply; the next court hearing is 24 August. The case is emerging as an early test of whether environmental law can constrain the AI infrastructure buildout in the Global South. [The Next Web](https://thenextweb.com/news/google-india-data-centre-water-wildlife-visakhapatnam)
+
+> [!note]- Science: FDA approves first mRNA flu vaccine for seniors — mRNA era expands beyond COVID (Science News)
+> The US FDA approved the first mRNA-based influenza vaccine specifically designed for older adults, the most significant broadening of mRNA platform technology since the COVID-19 inoculations and a milestone that opens the door to mRNA seasonal flu shots at scale. Separately, NASA's Perseverance rover has confirmed shallow preserved organic carbon deposits on Mars, raising new questions about ancient Martian habitability in findings researchers describe as scientifically significant. [Science News](https://www.sciencenews.org/sn-magazine/august-2026)
 
 > [!note]- [[08-06-26 Thu]]
 >
