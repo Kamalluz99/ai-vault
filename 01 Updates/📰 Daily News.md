@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-08-07T21:12
+updated: 2026-08-08T19:06
 topic: daily news
 frequency: daily
 ongoing: false
@@ -80,6 +80,26 @@ unread: true
 
 > [!note]- Science: Perseid meteor shower peaks Aug 12–13; oral GLP-1 drug shows strong phase II weight loss (Science News)
 > The annual Perseid meteor shower reaches its peak on the nights of August 12–13, visible to the naked eye throughout the Northern Hemisphere with up to 100 meteors per hour under ideal viewing conditions — one of the best sky events of the year. On the health front, a new oral GLP-1 receptor agonist demonstrated promising weight-loss results in a phase II trial, potentially expanding the popular class of obesity and diabetes drugs from injections into a daily pill accessible to millions more patients. [Science News](https://www.sciencenews.org/sn-magazine/august-2026)
+
+> **Evening update**
+
+> [!note]- SG & MY: Singapore approves 900MW renewable energy imports from Malaysia's Johor (Bloomberg)
+> Singapore's Energy Market Authority granted conditional approval to Sembcorp Utilities (300MW) and Southern Solar Alliance (600MW) to import renewable electricity from solar and other clean projects in Johor, with commercial operations targeted around 2029. The move advances Singapore's energy security diversification strategy and deepens cross-border power grid integration with Malaysia — a flagship strand of the Johor-Singapore Special Economic Zone initiative. On the same day, Malaysia's Human Resources Minister and Singapore's Acting Manpower Minister met to confirm plans to deepen labour cooperation and expand gig-worker protections across both countries. [Bloomberg](https://www.bloomberg.com/news/articles/2026-08-07/singapore-clears-new-plan-to-import-clean-energy-from-malaysia)
+
+> [!note]- Malaysia: MACC remands 5 over Lembaga Tabung Haji RCI irregularities; airports to mandate drug tests (Bernama)
+> Enforcement agencies escalated action following the release of the Royal Commission of Inquiry (RCI) report on Lembaga Tabung Haji (TH), with the Malaysian Anti-Corruption Commission remanding five individuals by Saturday over alleged management irregularities at the Islamic savings institution. The AADK simultaneously endorsed Malaysia Aviation Group's new policy making drug testing compulsory for all airport personnel, citing aviation safety imperatives. Both actions reflect the Madani government's push for institutional accountability across key public agencies. [Bernama](https://www.bernama.com/en/)
+
+> [!breaking]- World: Iran-Oman seal Hormuz shipping pact — deal reportedly grants Tehran maritime control (Bloomberg)
+> Iran and Oman reached a bilateral agreement on a safe inbound-outbound shipping route through the Strait of Hormuz, with a joint statement in final drafting as of Saturday. The emerging deal reportedly recognises Iranian sovereignty over the waterway — a significant concession that Fortune described as already made by the US side — potentially unlocking global oil flows after months of crisis. The development runs parallel to Washington's naval blockade reimposition, suggesting a two-track approach where diplomacy and military pressure coexist as leverage. [Bloomberg](https://www.bloomberg.com/news/articles/2026-08-05/iran-says-agreement-on-hormuz-shipping-route-reached-with-oman)
+
+> [!note]- World: New Mexico court orders Meta to establish $567M child-harm fund atop $375M in penalties (AP)
+> A New Mexico court directed Meta to create a $567 million fund addressing documented harms to children from Facebook and Instagram, on top of $375 million in civil penalties already imposed in the case. Hundreds of millions from the new order are directed toward youth treatment and prevention programmes, bringing Meta's total child-safety legal liability above $940 million. The ruling is one of the largest state-level judgments in the ongoing US wave of litigation targeting social media's impact on minors' mental health. [Al Jazeera](https://www.aljazeera.com/)
+
+> [!note]- Tech: AMD acquires Taalas — hardcodes AI model weights into inference ASICs; Tesla-SpaceX announce $16.8B Terafab chip plant (TechStartups)
+> AMD agreed to buy Canadian AI chip startup Taalas, whose technology embeds trained model weights directly into dedicated inference silicon — making chips extremely fast but locking each to a single AI model permanently. The acquisition gives AMD a foothold in ultra-low-latency specialised inference, where speed outweighs flexibility. In parallel, Tesla and SpaceX unveiled Terafab, a $16.8 billion joint semiconductor complex in Grimes County, Texas to manufacture logic and memory chips for Optimus robots, Tesla vehicles, and SpaceX computing systems — potentially spanning 100 million square feet. [TechStartups](https://techstartups.com/2026/08/07/top-tech-news-today-august-7-2026-amd-cloudflare-google-meta-nvidia-spacex-suno-tesla-more/)
+
+> [!note]- Science/Economy: IMF holds global growth at 3.0% for 2026 — AI investment drove 46% of US Q2 real GDP expansion (IMF)
+> The IMF's July 2026 World Economic Outlook Update kept global growth at 3.0% for this year and 3.4% for 2027, with war-linked energy shocks weighing on importers while AI-driven demand lifts tech-integrated economies. US data underscores the divide: AI-related investment — IT equipment and software — accounted for 46% of real GDP growth in Q2. On a brighter note, global hunger fell for a third straight year to 7.8% of the world's population, and electricity access reached 92% globally, up from 84% in 2010. [IMF](https://www.imf.org/en/publications/weo/issues/2026/07/08/world-economic-outlook-update-july-2026)
 
 > [!note]- [[08-07-26 Fri]]
 >
