@@ -126,6 +126,17 @@ unread: true
 >
 > > [!note]- Science: Perseids peak Aug 12–13 under new-moon dark skies alongside a rare total solar eclipse (ScienceDaily)
 > > The Perseid meteor shower reaches its annual peak on August 12–13 under near-perfect conditions this year — a coincident new moon eliminates all moonlight interference, enabling up to 100 meteors per hour for observers under dark skies. In a rare astronomical convergence, August 12 also brings a total solar eclipse tracking across northern Russia, Greenland, and Spain, making it one of the most event-dense single days in modern skywatching. No equipment is needed; observers should find a dark site, allow 30 minutes for eyes to adjust, and look between 2 a.m. and dawn for peak rates. [ScienceDaily](https://www.sciencedaily.com/releases/2026/08/260804034628.htm)
+> >
+> > **Late update**
+> >
+> > [!breaking]- World: US Joint Chiefs privately urges Iran off-ramp — escalation options could "backfire" (CNN)
+> > The chairman of the Joint Chiefs of Staff has privately warned the White House that the US needs to find an "off-ramp" from the Iran war, cautioning that available military escalation options could backfire and deepen the conflict. The warning represents the most senior uniformed military dissent yet against the war's trajectory and comes as Iran insists Hormuz will not fully reopen until the US ends the war, withdraws troops, and pays financial compensation — terms Washington has publicly rejected. [CNN](https://www.cnn.com/2026/08/08/world/live-news/iran-war-trump)
+> >
+> > [!note]- AI: OpenAI launches ChatGPT Work — GPT-5.6 agentic system executes multi-hour enterprise projects (OpenAI)
+> > OpenAI launched ChatGPT Work, an agentic platform built on GPT-5.6 Sol that autonomously executes complex multi-hour projects across team files and applications — a step beyond one-off chat interactions toward AI systems operating as persistent digital workers. The product targets enterprise workflows requiring sustained autonomous action and positions OpenAI directly against Anthropic's Claude Code and Google's agentic tools in the fast-growing agent productivity market. [OpenAI](https://openai.com/news/company-announcements/)
+> >
+> > [!note]- Science: Plasma whirlpools discovered on Sun's surface — some just 20 km wide, smallest solar structures mapped (ScienceDaily)
+> > Scientists discovered plasma whirlpools swirling across the Sun's photosphere, with some measuring just 20 kilometres wide — among the smallest solar structures ever resolved. The vortices appear pervasive and may contribute to heating the Sun's corona, with implications for understanding solar wind and the space weather events that affect satellites, GPS systems, and power grids on Earth. [ScienceDaily](https://www.sciencedaily.com/)
 
 > [!note]- [[08-08-26 Sat]]
 >
