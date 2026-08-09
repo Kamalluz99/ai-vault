@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-08-10T08:30
+updated: 2026-08-10T05:16
 topic: daily news
 frequency: daily
 ongoing: false
@@ -80,6 +80,9 @@ unread: true
 
 > [!note]- Science: Aug 12 stacks solar eclipse, Perseid peak and 6-planet parade (NASA / Earth.com)
 > In two days, August 12 delivers three simultaneous major sky events: a total solar eclipse (path through northern Russia, Iceland, Greenland and northern Spain), the Perseid meteor shower peak (up to 100 meteors per hour under dark skies with a coinciding new moon), and a six-planet dawn parade visible across the Northern Hemisphere. NASA advises certified eclipse glasses for the daytime event and heading to a dark site after midnight August 12–13 for the best meteor views. Astronomers call it the most event-dense single calendar day in modern skywatching. [NASA](https://science.nasa.gov/solar-system/whats-up-august-2026-skywatching-tips-from-nasa/)
+
+> [!note]- NKE: ~$41.70 (Fri close, near 52-wk low) — China sales −30%; cutting online distributors (CNBC)
+> Nike's most recent close is $41.70 — drifting toward its 52-week low of $40.00 and down ~41.9% from the 46-share position's $71.69 avg cost (unrealised loss ~−$1,380). The company plans to cut thousands of online distributors in China after sales there dropped 30%, sharpening the $1B China revenue risk that underpins JPMorgan's Underweight/$40 price target. Next earnings: September 24, 2026. [CNBC](https://www.cnbc.com/quotes/NKE)
 
 > [!note]- [[08-09-26 Sun]]
 >
