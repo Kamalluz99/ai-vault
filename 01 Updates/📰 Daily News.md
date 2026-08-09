@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-08-09T05:00
+updated: 2026-08-09T19:07
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,26 @@ unread: true
 
 > [!note]- NKE: $41.70 (−0.7%, Fri close) — near 52-week low; JPMorgan $40 Underweight; P&L −$1,380 (CNBC)
 > Nike closed Friday at $41.70, down 0.7% from Thursday's $42.00, drifting toward the 52-week low of $40.00. JPMorgan's Underweight rating with a $40 price target remains the key bear thesis, tied to a potential $1B China revenue risk and execution doubts on the Elliott Hill turnaround. Markets closed for the weekend; the 46-share position at $71.69 avg cost carries an unrealised loss of approximately −$1,380 (46 × −$29.99). [CNBC](https://www.cnbc.com/quotes/NKE)
+
+> **Evening update**
+
+> [!note]- SG & MY: Singapore marks 61st National Day — NDP ceremony at National Stadium (NDP 2026)
+> Singapore's 61st National Day Parade concluded at the National Stadium in Kallang on Sunday evening, the venue's return for the first time since 2016. The show featured 36 artists across six thematic chapters, over 2,600 performers, Singapore's first-ever indoor drone performance (300 drones alongside two aerialists), and the largest LED performance tower ever used at an NDP. The celebration closed with the Majulah Moment — a nationwide pledge recitation and anthem sing-along, with DJ LENERD leading rearranged National Day songs. [NDP 2026](https://www.ndp.gov.sg/)
+
+> [!note]- Malaysia: Johor port seizes Israel-bound container; PM Anwar hails firm stance (The Star)
+> Malaysia's Border Control and Protection Agency (AKPS) seized a container at Port Tanjung Pelepas (PTP) in Johor on Friday after intelligence-led checks indicated contents may have been destined for Israel in breach of the Customs (Prohibition on Export) Order 2023. Prime Minister Anwar Ibrahim praised the action Sunday, saying it demonstrates Malaysia's resolve not to become a transit route supporting Israeli operations against Palestinians. The seizure aligns with Malaysia's Hague Group commitments and the December 2023 ban prohibiting Israeli ships and Israel-bound cargo from using Malaysian ports. [The Star](https://www.thestar.com.my/news/nation/2026/08/08/container-believed-to-be-bound-for-israel-seized-at-johor-port)
+
+> [!breaking]- World: Iran parliament reviews bill to ban US/Israeli ships from Hormuz, levy 7% cargo toll (Al-Monitor)
+> Iran's parliament National Security and Foreign Policy Committee is reviewing a "Strategic Action" draft bill that would permanently bar US, Israeli, and other "hostile" vessels from the Strait of Hormuz and impose fees of up to 7% of cargo value on commercial ships — with fines up to 20% for violations. Foreign Minister Araghchi simultaneously confirmed Tehran and Oman have agreed on shipping-route coordinates but warned the strait will only reopen once the US honours commitments from June's memorandum of understanding. The Trump administration publicly rejected the bill, calling it a negotiating tactic, while Iranian lawmakers await "final approval" of the broader Oman framework. [Al-Monitor](https://www.al-monitor.com/originals/2026/08/iranian-parliamentary-committee-reviews-draft-bill-bar-us-israeli-ships-hormuz)
+
+> [!note]- World: US freezes all military aid to Ukraine as Iran war drains shared munitions stockpiles (Washington Post)
+> The Trump administration has halted all US military assistance to Ukraine, with the Pentagon weighing the reallocation of air-defence interceptors — previously earmarked for Kyiv — to Middle East operations as the Iran conflict depletes shared munitions stocks. Ukraine, reliant on US-supplied systems to counter Russian missile and drone barrages, has been asked in return to share its drone-countermeasure expertise with Washington for the Iran front. The freeze sharply increases pressure on European NATO allies to accelerate their own weapons transfers to Ukraine. [Washington Post](https://www.washingtonpost.com/national-security/2026/03/26/us-iran-war-ukraine-missile-defense/)
+
+> [!note]- Tech: ByteDance trains 10-trillion-parameter AI model to rival Anthropic's Mythos (The Next Web)
+> ByteDance has begun pre-training a model with up to 10 trillion parameters — more than three times the scale of China's previous largest model, Moonshot AI's Kimi K3 at 2.8T — in a deliberate bid to reach parity with Anthropic's frontier "Mythos" model. CEO Zhang Yiming reportedly told staff the target is "world-leading model capabilities," with pre-training expected to take three to six months before finalisation and potential release. The development marks the most aggressive Chinese investment in frontier AI scale to date, underscoring accelerating US-China competition at the top of the model tier. [The Next Web](https://thenextweb.com/news/bytedance-10-trillion-parameter-model-mythos)
+
+> [!note]- Science: Perseids peak Aug 12–13 under new-moon dark skies alongside a rare total solar eclipse (ScienceDaily)
+> The Perseid meteor shower reaches its annual peak on August 12–13 under near-perfect conditions this year — a coincident new moon eliminates all moonlight interference, enabling up to 100 meteors per hour for observers under dark skies. In a rare astronomical convergence, August 12 also brings a total solar eclipse tracking across northern Russia, Greenland, and Spain, making it one of the most event-dense single days in modern skywatching. No equipment is needed; observers should find a dark site, allow 30 minutes for eyes to adjust, and look between 2 a.m. and dawn for peak rates. [ScienceDaily](https://www.sciencedaily.com/releases/2026/08/260804034628.htm)
 
 > [!note]- [[08-08-26 Sat]]
 >
