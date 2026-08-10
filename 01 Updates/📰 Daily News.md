@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-08-10T05:16
+updated: 2026-08-10T19:08
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,26 @@ unread: true
 
 > [!note]- NKE: ~$41.70 (Fri close, near 52-wk low) — China sales −30%; cutting online distributors (CNBC)
 > Nike's most recent close is $41.70 — drifting toward its 52-week low of $40.00 and down ~41.9% from the 46-share position's $71.69 avg cost (unrealised loss ~−$1,380). The company plans to cut thousands of online distributors in China after sales there dropped 30%, sharpening the $1B China revenue risk that underpins JPMorgan's Underweight/$40 price target. Next earnings: September 24, 2026. [CNBC](https://www.cnbc.com/quotes/NKE)
+
+> **Evening update**
+
+> [!note]- SG & MY: Singapore marks 61st National Day PH — Kallang NDP draws 200K+ to precinct (NDP 2026)
+> Singapore's National Day public holiday falls on Monday August 10, observed in lieu of the August 9 NDP, as the island reflects on a landmark Kallang celebration — the National Stadium hosted the parade for the first time in a decade, with over 200,000 visitors across the Kallang precinct during the week-long SG61 festivities. PM Lawrence Wong's address, themed "Majulah Singapura, Go Beyond!", called on Singaporeans to remain open to change and build resilience for the future. [NDP 2026](https://www.ndp.gov.sg/)
+
+> [!note]- Malaysia: PM Anwar, 79, undergoes successful hernia surgery on birthday; under medical observation (The Star / FMT)
+> Malaysian Prime Minister Anwar Ibrahim — who turns 79 today — successfully underwent elective laparoscopic surgery to treat an abdominal para-umbilical hernia, his medical team confirmed on Monday. The procedure was carried out smoothly under specialist care, and Anwar is now undergoing physiotherapy while under close medical observation expected for two days. Anwar has a history of shoulder and back problems; this is his first major elective surgery since taking office as PM. [The Star](https://www.thestar.com.my/news/nation/2026/08/10/pm-successfully-undergoes-surgery-for-abdominal-hernia-under-observation-by-medical-team) / [FMT](https://www.freemalaysiatoday.com/category/nation/2026/08/10/anwar-undergoes-surgery-for-abdominal-hernia/)
+
+> [!breaking]- World: Mecca Joint Defence Agreement — Saudi Arabia, Turkey, Pakistan sign mutual defence pact (Al Jazeera)
+> Saudi Arabia, Turkey, and Pakistan signed the Mecca Joint Defence Agreement on August 7, establishing a collective mutual-defence arrangement under which an armed attack against any one of the three is regarded as an attack against all — effectively a Muslim-world NATO clause. The agreement builds on the Saudi-Pakistan bilateral defence pact of September 2025 and was concluded against the backdrop of the 2026 Iran war, with Pakistan contributing nuclear deterrence, Saudi Arabia economic weight, and NATO member Turkey military depth. Analysts describe it as the most significant Sunni security realignment since the end of the Cold War. [Al Jazeera](https://www.aljazeera.com/news/2026/8/7/turkiye-saudi-arabi-pakistan-sign-joint-defence-agreement-whats-in-it)
+
+> [!breaking]- World: Super Typhoon Dolphin makes landfall in China; East Asia records 41.4°C amid deadly heatwave (Yale Climate)
+> Super Typhoon Dolphin, packing 268 km/h sustained winds and generating 13-metre waves, made landfall along China's Fujian-Zhejiang coast after hitting Japan — the fifth Category 5 cyclone of 2026 and the strongest typhoon on record to develop so close to the International Date Line. The storm struck amid a severe East Asian heatwave: South Korea's Yangsan recorded 41.4°C (its highest since records began in 2008) and three lions in a Japanese zoo died of suspected heatstroke, with more than 20 South Korean deaths attributed to the extreme heat. [Yale Climate Connections](https://yaleclimateconnections.org/2026/07/historic-super-typhoon-dolphin-hits-category-5-strength-in-the-northwest-pacific/) / [Khaleej Times](https://www.khaleejtimes.com/world/asia/super-typhoon-dolphin-barrels-towards-east-asia)
+
+> [!note]- Tech: World Bank WDR 2026 — AI could compress a century of development into a decade for poorer nations (World Bank)
+> The World Bank's World Development Report 2026, released August 4, finds that AI represents a unique opportunity for developing countries to achieve in a single decade what would otherwise take nearly a century — provided governments invest urgently in power, connectivity, skills, and institutions. The report warns that only 4.5% of jobs in developing nations face near-term automation risk (versus 14.2% in high-income countries), and recommends an "adopt, adapt, advance" phased strategy to avoid dependency on any single AI supplier. It is the first comprehensive global assessment of AI's implications for the developing world. [World Bank](https://www.worldbank.org/en/news/press-release/2026/08/04/ai-offers-lifeline-to-developing-economies-in-an-era-of-weak-growth)
+
+> [!note]- Science: Coastal land subsidence tripling sea-level rise for 900M people in dense urban regions (ScienceDaily)
+> New research reveals that land subsidence in densely populated coastal regions is causing average relative sea-level rise of about 6 millimetres per year — nearly three times the 2 mm global coastal average — with residents in major Asian, African, and Latin American deltas facing compounding flood risk as land physically sinks under urban development and groundwater extraction. The findings affect communities home to roughly 900 million people worldwide, many with limited resources to adapt, and suggest current sea-level projections significantly underestimate the effective threat to coastal urban populations. [ScienceDaily](https://www.sciencedaily.com/)
 
 > [!note]- [[08-09-26 Sun]]
 >
