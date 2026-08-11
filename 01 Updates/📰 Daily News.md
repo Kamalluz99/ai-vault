@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-08-11T19:05
+updated: 2026-08-11T22:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -81,8 +81,8 @@ unread: true
 > [!note]- Science: Aug 12: total solar eclipse + Perseid peak + 6-planet parade — most event-dense skywatching day in modern history (NASA)
 > August 12 delivers three simultaneous major sky events: a total solar eclipse (path through Greenland, Iceland, and northern Spain), the Perseid meteor shower peak (up to 100/hr with a coinciding new moon), and a six-planet dawn parade. NASA advisess eclipse glasses for daytime viewing and heading to dark sites after midnight for meteors. Astronomers call it the most event-dense single calendar day in modern skywatching history. [NASA](https://science.nasa.gov/solar-system/whats-up-august-2026-skywatching-tips-from-nasa/)
 
-> [!note]- NKE: $41.70 (≈flat, near 52-wk low) — cutting online China distributors; JPMorgan $40 target; P&L −$1,380 (CNBC)
-> Nike drifts near $41.70 — its 52-week low is $40.00, and the 46-share position at $71.69 avg cost carries an unrealised loss of ~−$1,380. The company plans to cut thousands of online distributors in China after sales dropped 30%, sharpening the $1B China revenue risk underpinning JPMorgan's Underweight/$40 target. Next earnings: September 24, 2026. [CNBC](https://www.cnbc.com/quotes/NKE)
+> [!note]- NKE: $41.01 (−2.6% today, near 52-wk low $40.00) — China cuts; JPMorgan $40 target; P&L −$1,411 (CNBC)
+> Nike slid to $41.01 (day range $40.83–$41.48), deepening its decline toward the $40.00 52-week low — the 46-share position at $71.69 avg cost now carries an unrealised loss of approximately −$1,411 (46 × −$30.68). The company plans to cut thousands of online distributors in China after sales dropped 30%; JPMorgan's Underweight/$40 target remains the key bear thesis. Next earnings: September 24, 2026. [CNBC](https://www.cnbc.com/quotes/NKE)
 
 > **Evening update**
 
@@ -92,8 +92,8 @@ unread: true
 > [!note]- Malaysia: Parliament holds special Tabung Haji RCI sitting; PM Anwar, 79, rebukes PN walkout (Malay Mail)
 > Malaysia's Dewan Rakyat convened a special sitting today to debate the Royal Commission of Inquiry report on Lembaga Tabung Haji, with Prime Minister Anwar Ibrahim — celebrating his 79th birthday — accusing Perikatan Nasional MPs of "political theatrics" after they staged a walkout when the Speaker rejected their request to delay proceedings. The Religious Affairs Minister separately reassured TH depositors that zakat obligations remain Syariah-compliant amid ongoing institutional scrutiny. [Malay Mail](https://www.malaymail.com/news/malaysia)
 
-> [!note]- World: Deadly earthquake strikes western Colombia; rescue teams mobilise (AP)
-> A significant earthquake struck western Colombia on Tuesday, killing multiple people and triggering emergency response operations across the affected communities. Rescue teams are working to locate survivors and assess structural damage as the tremor adds to a series of natural disasters to hit South America in recent weeks. [AP](https://apnews.com/)
+> [!breaking]- World: Colombia 7.4-quake kills 224+ — strongest earthquake this century; 5 cities on red alert (Bloomberg)
+> A 7.4-magnitude earthquake struck western Colombia's Chocó department — the strongest in the country this century — killing at least 224 people, injuring 700, and damaging approximately 5,000 homes. Pereira, Cali, Quibdó, Manizales, and Armenia are all under "red alert," Colombia's highest disaster level, with at least 95 deaths in Cali alone (pop. 2.2M). Search-and-rescue teams are still working; the death toll is expected to climb further. [Bloomberg](https://www.bloomberg.com/news/articles/2026-08-11/colombia-earthquake-search-for-survivors-underway-as-death-toll-nears-170)
 
 > [!note]- World: Trump responds to Iran's latest demands as Hormuz talks enter critical phase (Al Jazeera)
 > US President Trump publicly responded to Iran's latest negotiating demands as Oman-brokered Strait of Hormuz talks moved into a critical phase, with both sides working toward a framework to reopen the vital waterway. Diplomatic pressure is mounting as Iran's parliament simultaneously reviews a draft bill that would permanently bar US and Israeli ships from the strait and impose cargo fees of up to 7%. [Al Jazeera](https://www.aljazeera.com/news/liveblog/2026/8/3/iran-war-live-trump-says-talks-set-to-begin-tehran-urges-us-to-honour-mou)
