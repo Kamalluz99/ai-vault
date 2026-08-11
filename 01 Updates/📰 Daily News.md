@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-08-11T05:00
+updated: 2026-08-11T19:05
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,26 @@ unread: true
 
 > [!note]- NKE: $41.70 (≈flat, near 52-wk low) — cutting online China distributors; JPMorgan $40 target; P&L −$1,380 (CNBC)
 > Nike drifts near $41.70 — its 52-week low is $40.00, and the 46-share position at $71.69 avg cost carries an unrealised loss of ~−$1,380. The company plans to cut thousands of online distributors in China after sales dropped 30%, sharpening the $1B China revenue risk underpinning JPMorgan's Underweight/$40 target. Next earnings: September 24, 2026. [CNBC](https://www.cnbc.com/quotes/NKE)
+
+> **Evening update**
+
+> [!note]- SG & MY: Singapore's Lim Tean arrested in Johor Bahru over State Courts no-show (The Independent SG)
+> Singapore opposition politician Lim Tean was arrested by Malaysian authorities in Johor Bahru after failing to surrender at Singapore's State Courts as required, highlighting close cross-border judicial cooperation between the two countries. The case draws attention to ongoing legal proceedings against the prominent government critic and the reach of Singapore's justice system across the Causeway. [The Independent SG](https://theindependent.sg/)
+
+> [!note]- Malaysia: Parliament holds special Tabung Haji RCI sitting; PM Anwar, 79, rebukes PN walkout (Malay Mail)
+> Malaysia's Dewan Rakyat convened a special sitting today to debate the Royal Commission of Inquiry report on Lembaga Tabung Haji, with Prime Minister Anwar Ibrahim — celebrating his 79th birthday — accusing Perikatan Nasional MPs of "political theatrics" after they staged a walkout when the Speaker rejected their request to delay proceedings. The Religious Affairs Minister separately reassured TH depositors that zakat obligations remain Syariah-compliant amid ongoing institutional scrutiny. [Malay Mail](https://www.malaymail.com/news/malaysia)
+
+> [!note]- World: Deadly earthquake strikes western Colombia; rescue teams mobilise (AP)
+> A significant earthquake struck western Colombia on Tuesday, killing multiple people and triggering emergency response operations across the affected communities. Rescue teams are working to locate survivors and assess structural damage as the tremor adds to a series of natural disasters to hit South America in recent weeks. [AP](https://apnews.com/)
+
+> [!note]- World: Trump responds to Iran's latest demands as Hormuz talks enter critical phase (Al Jazeera)
+> US President Trump publicly responded to Iran's latest negotiating demands as Oman-brokered Strait of Hormuz talks moved into a critical phase, with both sides working toward a framework to reopen the vital waterway. Diplomatic pressure is mounting as Iran's parliament simultaneously reviews a draft bill that would permanently bar US and Israeli ships from the strait and impose cargo fees of up to 7%. [Al Jazeera](https://www.aljazeera.com/news/liveblog/2026/8/3/iran-war-live-trump-says-talks-set-to-begin-tehran-urges-us-to-honour-mou)
+
+> [!note]- Tech: Anthropic launches Theseus data centre JV; EU DMA orders Google to open Android to AI rivals (AIToolsRecap)
+> Anthropic announced the Theseus data centre joint venture today, expanding infrastructure capacity to support surging Claude demand globally. The EU Digital Markets Act simultaneously issued an enforcement order requiring Google to open the Android ecosystem to competing AI assistants — including Claude and ChatGPT — by August 2027, a significant regulatory blow to Google's mobile AI dominance. [AIToolsRecap](https://aitoolsrecap.com/Blog/ai-news-august-11-2026)
+
+> [!note]- Economy: Singapore upgrades 2026 GDP forecast to 4.5–5.5% as Q2 hits 5.9% YoY on AI boom (MTI)
+> Singapore's Ministry of Trade and Industry revised its 2026 full-year GDP growth forecast sharply upward to 4.5–5.5% — from a prior 2.0–4.0% projection — after the economy expanded 5.9% year-on-year in Q2, the strongest quarterly reading in years. The upgrade is driven by a global AI-related investment surge boosting Singapore's manufacturing and financial services sectors, cementing its role as a primary regional beneficiary of the AI infrastructure buildout. [MTI](https://www.mti.gov.sg/newsroom/release-of-second-quarter-2026-economic-survey-of-singapore/)
 
 > [!note]- [[08-10-26 Mon]]
 >
