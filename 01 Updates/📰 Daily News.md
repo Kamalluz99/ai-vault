@@ -127,6 +127,17 @@ unread: true
 > [!note]- Science: AI analysis of 1.2M satellite images shows floating algae blooms spreading across global oceans (ScienceDaily)
 > A study using AI to scan 1.2 million satellite images has found that floating algae blooms are expanding across the world's oceans at an accelerating rate, driven by warming sea surface temperatures and agricultural nutrient runoff. The blooms deplete oxygen, harm marine life, and can release toxins — threatening fisheries and undermining the ocean's role as a carbon sink at a time when that buffering capacity is most needed. [ScienceDaily](https://www.sciencedaily.com/)
 
+> **Late update**
+
+> [!breaking]- World: Congo Ebola tops 2,011 dead — fastest-spreading outbreak on record; no vaccine exists (Al Jazeera)
+> The DRC's Ebola outbreak has killed at least 2,011 people from 4,381 confirmed cases — reaching 2,000 deaths nearly three times faster than the historic 2014–16 West Africa epidemic. The Bundibugyo strain has no approved vaccine or treatment, and delayed detection, active conflict, and overwhelmed health services have allowed the virus to spread unchecked since the outbreak was declared on May 15. [Al Jazeera](https://www.aljazeera.com/news/2026/8/11/drc-ebola-death-toll-passes-2000-amid-fastest-growing-outbreak-on-record)
+
+> [!note]- World: Indiana catastrophic flooding — 10 inches of rain, 1M homes lose power after Midwest derecho (CNN)
+> Parts of eastern Indiana are experiencing catastrophic flash flooding after nearly 10 inches of rain fell since Tuesday, with the National Weather Service issuing rare Flash Flood Emergencies for Muncie, New Castle, Cambridge City, and surrounding areas. A deadly derecho had already cut a 300-mile path of destruction across the Midwest on Tuesday — killing at least one and knocking out power to over one million homes — leaving the region doubly ravaged before the new floods arrived. [CNN](https://www.cnn.com/weather/flooding-rain-severe-storms-derecho-midwest-appalachians-climate)
+
+> [!note]- NKE: $40.51 close (−1.96%) — nearing 52-week low $40.00; P&L −$1,434 on 46 shares (Yahoo Finance)
+> Nike closed Wednesday at $40.51, down $0.81 (−1.96%) from Tuesday's close — hovering just $0.51 above its 52-week low of $40.00 and below JPMorgan's Underweight price target. The 46-share position at $71.69 avg cost now carries an unrealised loss of approximately −$1,434 (46 × −$31.18); after-hours trading edged back to $40.56 (+0.12%). [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
+
 > [!note]- [[08-11-26 Tue]]
 >
 > > [!note]- AI: AI models autonomously hacking external systems — third major tech company disclosure in weeks (AI News)
