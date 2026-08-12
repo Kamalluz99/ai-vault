@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-08-12T19:03
+updated: 2026-08-13T05:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -60,6 +60,29 @@ unread: true
 > ```
 
 ## 2026-08
+
+### [[08-13-26 Thu]]
+
+> [!note]- AI: Meta unveils Muse Code — AI coding assistant on Muse Spark 1.2, writes/fixes/verifies code autonomously (AI News)
+> Meta unveiled Muse Code, an AI-powered coding assistant built on its latest Muse Spark 1.2 model, designed to write code, fix bugs, automatically verify results, and manage complex software projects end-to-end. The launch positions Meta's developer ecosystem directly against Anthropic's Claude Code and OpenAI's Codex in the fast-growing agentic coding segment. [AI News](https://www.artificialintelligence-news.com/)
+
+> [!note]- Tech: Trump imposes new tariffs — Canada 50%, Brazil 25%, 60+ partners 10–12%; AI infra arms race deepens (CNBC/Kiplinger)
+> The Trump administration announced a fresh tariff round targeting Canada (50% on select goods), Brazil (25%), and more than sixty other trading partners (10–12%), raising new trade-war concerns heading into this week's CPI and PPI data. Separately, the AI infrastructure race intensified with Meta's 30B single-GPU agent, Intel's $15B chip fund, and South Korea committing billions more to semiconductor supremacy. [Kiplinger](https://www.kiplinger.com/investing/economy/this-weeks-economic-calendar)
+
+> [!note]- Macro: Markets flat ahead of CPI (Wed) and PPI (Thu) — Fed rate path the week's key test; Iran war oil risk simmers (Schwab/Bloomberg)
+> US stocks camped near record highs on Wednesday/Thursday as investors await the July CPI print on Thursday and PPI on Friday, the week's critical inflation tests that will set the tone for Federal Reserve rate-path pricing in H2 2026. Iran war tensions and renewed Trump tariffs add a geopolitical overlay, keeping oil elevated and volatility subdued but not absent. [Charles Schwab](https://www.schwab.com/learn/story/stock-market-update-open)
+
+> [!breaking]- World: Netanyahu rejects Trump's 15-point Gaza peace plan; Iran-Oman Hormuz pact nears final form (Al Jazeera)
+> Israeli PM Netanyahu publicly rejected the Trump administration's 15-point Gaza disarmament and peace roadmap, calling Hamas's conditional acceptance a "strategic ambush." In parallel, Iran is close to finalising a pact with Oman to reopen the Strait of Hormuz, while Yemen's Houthis attacked a Saudi Aramco refinery and a Ukrainian drone strike killed at least 13 in Russia. [Al Jazeera](https://www.aljazeera.com/)
+
+> [!note]- Malaysia/Singapore: Sembcorp conditionally approved to import 300MW renewable power from Johor floating solar project (Bloomberg)
+> Singapore cleared Sembcorp Utilities to import approximately 300MW of renewable energy from a large-scale floating solar and battery storage project in Malaysia's Johor state, with 2.2GW peak solar capacity and 4.3GWh battery storage and operations expected to begin in 2029. The deal deepens Johor-Singapore Special Economic Zone energy integration and advances Singapore's clean-energy security agenda. [Bloomberg](https://www.bloomberg.com/news/articles/2026-08-07/singapore-clears-new-plan-to-import-clean-energy-from-malaysia)
+
+> [!note]- Science: "Glueball" confirmed — new form of matter made purely of force-carrier particles; uranium-locking bacteria found underground (ScienceDaily)
+> Scientists announced confirmation of the "glueball," a predicted but never-before-observed particle composed entirely of gluons (the force carriers binding quarks) rather than quarks themselves — a landmark in particle physics. Separately, researchers discovered bacteria deep underground that lock toxic uranium into a chemically stable form, raising potential applications for nuclear waste management. [ScienceDaily](https://www.sciencedaily.com/)
+
+> [!note]- NKE: $41.19 (−2.2%) — On Holding miss triggers sector sell-off; JPMorgan $40 Underweight reverberates; P&L ≈ −$1,403 (Yahoo Finance)
+> Nike slid 2.2% to $41.19 in morning trading as a sympathy sell-off swept premium athletic footwear after rival On Holding's Q2 revenue grew only 13.5% — below expectations — and full-year 2026 guidance disappointed. JPMorgan's Underweight/$40 target and a 10.2% YoY EPS decline forecast for the next quarter continue to weigh. The 46-share position at $71.69 avg cost carries an unrealised loss of approximately −$1,403 (46 × −$30.50). [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
 
 ### [[08-12-26 Wed]]
 
