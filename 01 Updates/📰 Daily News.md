@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-08-13T05:00
+updated: 2026-08-13T08:30
 topic: daily news
 frequency: daily
 ongoing: false
@@ -75,8 +75,8 @@ unread: true
 > [!breaking]- World: Netanyahu rejects Trump's 15-point Gaza peace plan; Iran-Oman Hormuz pact nears final form (Al Jazeera)
 > Israeli PM Netanyahu publicly rejected the Trump administration's 15-point Gaza disarmament and peace roadmap, calling Hamas's conditional acceptance a "strategic ambush." In parallel, Iran is close to finalising a pact with Oman to reopen the Strait of Hormuz, while Yemen's Houthis attacked a Saudi Aramco refinery and a Ukrainian drone strike killed at least 13 in Russia. [Al Jazeera](https://www.aljazeera.com/)
 
-> [!note]- Malaysia/Singapore: Sembcorp conditionally approved to import 300MW renewable power from Johor floating solar project (Bloomberg)
-> Singapore cleared Sembcorp Utilities to import approximately 300MW of renewable energy from a large-scale floating solar and battery storage project in Malaysia's Johor state, with 2.2GW peak solar capacity and 4.3GWh battery storage and operations expected to begin in 2029. The deal deepens Johor-Singapore Special Economic Zone energy integration and advances Singapore's clean-energy security agenda. [Bloomberg](https://www.bloomberg.com/news/articles/2026-08-07/singapore-clears-new-plan-to-import-clean-energy-from-malaysia)
+> [!note]- Malaysia: Fuel prices fall Aug 13–19 — RON97 down 20 sen to RM4.15/L (The Star)
+> Malaysia's weekly fuel price adjustment brings relief at the pump for the Aug 13–19 period: RON97 falls 20 sen to RM4.15 per litre, unsubsidised RON95 drops 15 sen to RM3.62/L, and unsubsidised diesel eases 10 sen to RM4.47/L. The subsidised RON95 rate under the BUDI95 programme remains fixed at RM1.99/L for eligible recipients, reflecting continued government support amid global energy uncertainty. [The Star](https://www.thestar.com.my/news/nation/2026/08/12/fuel-prices-aug-13-19-ron97-unsubsidised-ron95-diesel-all-down-from-10sen-to-20sen-per-litre)
 
 > [!note]- Science: "Glueball" confirmed — new form of matter made purely of force-carrier particles; uranium-locking bacteria found underground (ScienceDaily)
 > Scientists announced confirmation of the "glueball," a predicted but never-before-observed particle composed entirely of gluons (the force carriers binding quarks) rather than quarks themselves — a landmark in particle physics. Separately, researchers discovered bacteria deep underground that lock toxic uranium into a chemically stable form, raising potential applications for nuclear waste management. [ScienceDaily](https://www.sciencedaily.com/)
@@ -84,59 +84,59 @@ unread: true
 > [!note]- NKE: $41.19 (−2.2%) — On Holding miss triggers sector sell-off; JPMorgan $40 Underweight reverberates; P&L ≈ −$1,403 (Yahoo Finance)
 > Nike slid 2.2% to $41.19 in morning trading as a sympathy sell-off swept premium athletic footwear after rival On Holding's Q2 revenue grew only 13.5% — below expectations — and full-year 2026 guidance disappointed. JPMorgan's Underweight/$40 target and a 10.2% YoY EPS decline forecast for the next quarter continue to weigh. The 46-share position at $71.69 avg cost carries an unrealised loss of approximately −$1,403 (46 × −$30.50). [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
 
-### [[08-12-26 Wed]]
-
-> [!note]- AI: AI infra stocks slide — data center ETF −1%, Coherent −12%, Lumentum −6% as capex reality bites (CNBC)
-> Stocks tied to AI infrastructure sold off Wednesday, with the Global X Data Center ETF losing 1%, photonics play Coherent falling more than 12%, and Lumentum dropping over 6%. Bank of America analysts nonetheless reiterated a Buy on Nvidia ahead of its August 26 earnings report, expecting a beat and raised guidance. [CNBC](https://www.cnbc.com/technology/)
-
-> [!note]- Tech: Google's Made by Google event opens in New York — Pixel 11 family set to debut (Tech Startups)
-> Google opened its annual hardware showcase in New York City on August 12, with the Pixel 11 lineup expected to take centre stage. The event coincides with a week of dense AI-hardware competition as Meta's open-source 30B single-GPU agent and Intel's $15B chip push reshape the competitive landscape. [Tech Startups](https://techstartups.com/2026/08/10/top-tech-news-today-august-10-2026-apple-google-meta-openai-unitree-more/)
-
-> [!note]- Macro: Oil edges toward $80 on stalled Iran ceasefire; AI infra capex concerns weigh on markets (CNBC/Goldman Sachs)
-> Oil climbed toward $80/barrel as the Strait of Hormuz ceasefire remained stuck, with renewed trade-war signals and a potential Fed rate hike weighing on the backdrop. AI infrastructure stocks sold off sharply despite BofA's Nvidia Buy. Goldman Sachs estimates widespread AI adoption may add $7T to annual global GDP over 10 years. [CNBC](https://www.cnbc.com/2026/08/09/stock-market-today-live-updates.html)
-
-> [!breaking]- World: Europe's first total solar eclipse since 1999 sweeps Spain — Perseids peak and 6-planet parade align (Space.com)
-> The moon's shadow swept across Greenland, Iceland, and northern Spain on August 12 — Europe's first total solar eclipse since 1999 — delivering 1 minute 50 seconds of totality on the Spanish coast and a rare glimpse of the corona. The same day marks the Perseid meteor shower peak (up to 100/hr under new-moon dark skies) and a six-planet pre-dawn alignment, making it the most event-dense single calendar day in modern astronomical history. [Space.com](https://www.space.com/news/live/total-solar-eclipse-aug-12-2026-live-updates-1-day-until-totality-what-you-need-to-know)
-
-> [!note]- Malaysia/Singapore: Singapore raises 2026 GDP forecast to 4.5–5.5% on AI boom; Sembcorp approved for 300MW Johor renewable import (MTI/Bloomberg)
-> Singapore's MTI upgraded its 2026 GDP forecast to 4.5–5.5% — from 2.0–4.0% — after Q2 growth hit 5.9% YoY on AI-related demand. Sembcorp Utilities received conditional approval to import 300MW of renewable energy from a floating solar-plus-battery project in Johor, deepening Johor-Singapore SEZ energy integration and Singapore's clean-energy security push. [MTI](https://www.mti.gov.sg/) / [Bloomberg](https://www.bloomberg.com/news/articles/2026-08-07/singapore-clears-new-plan-to-import-clean-energy-from-malaysia)
-
-> [!note]- Science: Researchers converge on Spain to study solar corona during today's 1m 50s of totality (NASA)
-> Scientists travelled to the Spanish coast to observe today's total solar eclipse, aiming to capture data on the solar corona — only visible during totality — in hopes of answering why it is millions of degrees hotter than the sun's surface. The eclipse path through Greenland, Iceland, and Spain gives observers under two minutes of totality coinciding with the Perseid shower peak. [NASA](https://science.nasa.gov/eclipses/future-eclipses/total-solar-eclipse-on-august-12-2026/)
-
-> [!note]- NKE: $41.01 (−2.6%) — JPMorgan Underweight/$40 target; P&L ≈ −$1,411 on 46 shares (Yahoo Finance)
-> Nike slipped 2.6% to $41.01, approaching its 52-week low of $40.00. JPMorgan maintains Underweight/$40, citing weak guidance of low-to-mid single-digit revenue declines over the next three quarters and softer consumer demand. The 46-share position at $71.69 avg cost carries an unrealised loss of approximately −$1,411. Next earnings: September 24, 2026. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
-
-> **Evening update**
-
-> [!note]- SG & MY: Google expands Gemini-powered Ask Maps to Singapore and Malaysia (Batam News Asia)
-> Google rolled out its Ask Maps feature — powered by Gemini AI — to Singapore and Malaysia on August 12, bringing conversational natural-language map search to Southeast Asia for the first time. The feature allows users to ask open-ended questions about places, routes, and local recommendations directly inside Google Maps, continuing Google's push to embed Gemini across its consumer product suite. [Batam News Asia](https://batamnewsasia.com/2026/08/12/google-expands-ask-maps-in-southeast-asia-gemini-powered-feature-reaches-singapore-and-malaysia/)
-
-> [!note]- Malaysia: High Court orders Rosmah to pay RM67.4M into stakeholder account within a month (Malay Mail)
-> Malaysia's High Court ordered former First Lady Datin Seri Rosmah Mansor to deposit RM67.4 million into a joint stakeholder account within 30 days, pending her appeal in a civil suit filed by Lebanese jeweller Global Royalty Trading SAL. The order keeps significant assets frozen while her appeal proceeds, adding to the sustained legal pressure on the former PM's spouse alongside her existing criminal conviction. [Malay Mail](https://www.malaymail.com/)
-
-> [!breaking]- World: Explosive-laden drone found and defused at Leipzig/Halle Airport — Germany warns of "new quality of danger" (Euronews)
-> German police discovered a drone carrying explosives at Leipzig/Halle Airport on Wednesday and successfully defused the device before any harm was caused. The country's top security official described the incident as posing a "new quality of danger," signalling growing alarm over the use of commercially available drones as delivery platforms for improvised explosive devices against civilian infrastructure. [Euronews](https://www.euronews.com/video/2026/08/12/latest-news-bulletin-august-12th-2026-midday)
-
-> [!note]- World: EU scraps firm ETIAS launch date — Schengen digital travel permit left without a timeline (NeverStopTraveling)
-> The European Union has officially dropped its late-2026 target for the European Travel Information and Authorization System (ETIAS), leaving the long-delayed digital pre-registration scheme for non-EU visitors without any firm start date. Originally due in 2022, ETIAS would require travellers from visa-free countries — including the US, UK, Singapore, and Australia — to pre-register online and pay a fee before entering the Schengen zone. [NeverStopTraveling](https://www.neverstoptraveling.com/news-you-can-use-august-12-2026)
-
-> [!note]- Tech: Google deploys consumer AI agents to call stores, check inventory, and complete purchases autonomously (AI Agent Store)
-> Google is rolling out consumer-facing AI agents capable of autonomously phoning retail stores, verifying inventory, and completing purchases by voice on behalf of the user — a step that pushes autonomous AI directly into real-world commerce. The move intensifies the arms race with OpenAI's ChatGPT Work and Anthropic's Claude as agentic AI systems shift from answering questions to independently taking consequential actions in the world. [AI Agent Store](https://aiagentstore.ai/ai-agent-news/this-week)
-
-> [!note]- Science: AI analysis of 1.2M satellite images shows floating algae blooms spreading across global oceans (ScienceDaily)
-> A study using AI to scan 1.2 million satellite images has found that floating algae blooms are expanding across the world's oceans at an accelerating rate, driven by warming sea surface temperatures and agricultural nutrient runoff. The blooms deplete oxygen, harm marine life, and can release toxins — threatening fisheries and undermining the ocean's role as a carbon sink at a time when that buffering capacity is most needed. [ScienceDaily](https://www.sciencedaily.com/)
-
-> **Late update**
-
-> [!breaking]- World: Congo Ebola tops 2,011 dead — fastest-spreading outbreak on record; no vaccine exists (Al Jazeera)
-> The DRC's Ebola outbreak has killed at least 2,011 people from 4,381 confirmed cases — reaching 2,000 deaths nearly three times faster than the historic 2014–16 West Africa epidemic. The Bundibugyo strain has no approved vaccine or treatment, and delayed detection, active conflict, and overwhelmed health services have allowed the virus to spread unchecked since the outbreak was declared on May 15. [Al Jazeera](https://www.aljazeera.com/news/2026/8/11/drc-ebola-death-toll-passes-2000-amid-fastest-growing-outbreak-on-record)
-
-> [!note]- World: Indiana catastrophic flooding — 10 inches of rain, 1M homes lose power after Midwest derecho (CNN)
-> Parts of eastern Indiana are experiencing catastrophic flash flooding after nearly 10 inches of rain fell since Tuesday, with the National Weather Service issuing rare Flash Flood Emergencies for Muncie, New Castle, Cambridge City, and surrounding areas. A deadly derecho had already cut a 300-mile path of destruction across the Midwest on Tuesday — killing at least one and knocking out power to over one million homes — leaving the region doubly ravaged before the new floods arrived. [CNN](https://www.cnn.com/weather/flooding-rain-severe-storms-derecho-midwest-appalachians-climate)
-
-> [!note]- NKE: $40.51 close (−1.96%) — nearing 52-week low $40.00; P&L −$1,434 on 46 shares (Yahoo Finance)
-> Nike closed Wednesday at $40.51, down $0.81 (−1.96%) from Tuesday's close — hovering just $0.51 above its 52-week low of $40.00 and below JPMorgan's Underweight price target. The 46-share position at $71.69 avg cost now carries an unrealised loss of approximately −$1,434 (46 × −$31.18); after-hours trading edged back to $40.56 (+0.12%). [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
+> [!note]- [[08-12-26 Wed]]
+>
+> > [!note]- AI: AI infra stocks slide — data center ETF −1%, Coherent −12%, Lumentum −6% as capex reality bites (CNBC)
+> > Stocks tied to AI infrastructure sold off Wednesday, with the Global X Data Center ETF losing 1%, photonics play Coherent falling more than 12%, and Lumentum dropping over 6%. Bank of America analysts nonetheless reiterated a Buy on Nvidia ahead of its August 26 earnings report, expecting a beat and raised guidance. [CNBC](https://www.cnbc.com/technology/)
+>
+> > [!note]- Tech: Google's Made by Google event opens in New York — Pixel 11 family set to debut (Tech Startups)
+> > Google opened its annual hardware showcase in New York City on August 12, with the Pixel 11 lineup expected to take centre stage. The event coincides with a week of dense AI-hardware competition as Meta's open-source 30B single-GPU agent and Intel's $15B chip push reshape the competitive landscape. [Tech Startups](https://techstartups.com/2026/08/10/top-tech-news-today-august-10-2026-apple-google-meta-openai-unitree-more/)
+>
+> > [!note]- Macro: Oil edges toward $80 on stalled Iran ceasefire; AI infra capex concerns weigh on markets (CNBC/Goldman Sachs)
+> > Oil climbed toward $80/barrel as the Strait of Hormuz ceasefire remained stuck, with renewed trade-war signals and a potential Fed rate hike weighing on the backdrop. AI infrastructure stocks sold off sharply despite BofA's Nvidia Buy. Goldman Sachs estimates widespread AI adoption may add $7T to annual global GDP over 10 years. [CNBC](https://www.cnbc.com/2026/08/09/stock-market-today-live-updates.html)
+>
+> > [!breaking]- World: Europe's first total solar eclipse since 1999 sweeps Spain — Perseids peak and 6-planet parade align (Space.com)
+> > The moon's shadow swept across Greenland, Iceland, and northern Spain on August 12 — Europe's first total solar eclipse since 1999 — delivering 1 minute 50 seconds of totality on the Spanish coast and a rare glimpse of the corona. The same day marks the Perseid meteor shower peak (up to 100/hr under new-moon dark skies) and a six-planet pre-dawn alignment, making it the most event-dense single calendar day in modern astronomical history. [Space.com](https://www.space.com/news/live/total-solar-eclipse-aug-12-2026-live-updates-1-day-until-totality-what-you-need-to-know)
+>
+> > [!note]- Malaysia/Singapore: Singapore raises 2026 GDP forecast to 4.5–5.5% on AI boom; Sembcorp approved for 300MW Johor renewable import (MTI/Bloomberg)
+> > Singapore's MTI upgraded its 2026 GDP forecast to 4.5–5.5% — from 2.0–4.0% — after Q2 growth hit 5.9% YoY on AI-related demand. Sembcorp Utilities received conditional approval to import 300MW of renewable energy from a floating solar-plus-battery project in Johor, deepening Johor-Singapore SEZ energy integration and Singapore's clean-energy security push. [MTI](https://www.mti.gov.sg/) / [Bloomberg](https://www.bloomberg.com/news/articles/2026-08-07/singapore-clears-new-plan-to-import-clean-energy-from-malaysia)
+>
+> > [!note]- Science: Researchers converge on Spain to study solar corona during today's 1m 50s of totality (NASA)
+> > Scientists travelled to the Spanish coast to observe today's total solar eclipse, aiming to capture data on the solar corona — only visible during totality — in hopes of answering why it is millions of degrees hotter than the sun's surface. The eclipse path through Greenland, Iceland, and Spain gives observers under two minutes of totality coinciding with the Perseid shower peak. [NASA](https://science.nasa.gov/eclipses/future-eclipses/total-solar-eclipse-on-august-12-2026/)
+>
+> > [!note]- NKE: $41.01 (−2.6%) — JPMorgan Underweight/$40 target; P&L ≈ −$1,411 on 46 shares (Yahoo Finance)
+> > Nike slipped 2.6% to $41.01, approaching its 52-week low of $40.00. JPMorgan maintains Underweight/$40, citing weak guidance of low-to-mid single-digit revenue declines over the next three quarters and softer consumer demand. The 46-share position at $71.69 avg cost carries an unrealised loss of approximately −$1,411. Next earnings: September 24, 2026. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
+>
+> > **Evening update**
+>
+> > [!note]- SG & MY: Google expands Gemini-powered Ask Maps to Singapore and Malaysia (Batam News Asia)
+> > Google rolled out its Ask Maps feature — powered by Gemini AI — to Singapore and Malaysia on August 12, bringing conversational natural-language map search to Southeast Asia for the first time. The feature allows users to ask open-ended questions about places, routes, and local recommendations directly inside Google Maps, continuing Google's push to embed Gemini across its consumer product suite. [Batam News Asia](https://batamnewsasia.com/2026/08/12/google-expands-ask-maps-in-southeast-asia-gemini-powered-feature-reaches-singapore-and-malaysia/)
+>
+> > [!note]- Malaysia: High Court orders Rosmah to pay RM67.4M into stakeholder account within a month (Malay Mail)
+> > Malaysia's High Court ordered former First Lady Datin Seri Rosmah Mansor to deposit RM67.4 million into a joint stakeholder account within 30 days, pending her appeal in a civil suit filed by Lebanese jeweller Global Royalty Trading SAL. The order keeps significant assets frozen while her appeal proceeds, adding to the sustained legal pressure on the former PM's spouse alongside her existing criminal conviction. [Malay Mail](https://www.malaymail.com/)
+>
+> > [!breaking]- World: Explosive-laden drone found and defused at Leipzig/Halle Airport — Germany warns of "new quality of danger" (Euronews)
+> > German police discovered a drone carrying explosives at Leipzig/Halle Airport on Wednesday and successfully defused the device before any harm was caused. The country's top security official described the incident as posing a "new quality of danger," signalling growing alarm over the use of commercially available drones as delivery platforms for improvised explosive devices against civilian infrastructure. [Euronews](https://www.euronews.com/video/2026/08/12/latest-news-bulletin-august-12th-2026-midday)
+>
+> > [!note]- World: EU scraps firm ETIAS launch date — Schengen digital travel permit left without a timeline (NeverStopTraveling)
+> > The European Union has officially dropped its late-2026 target for the European Travel Information and Authorization System (ETIAS), leaving the long-delayed digital pre-registration scheme for non-EU visitors without any firm start date. Originally due in 2022, ETIAS would require travellers from visa-free countries — including the US, UK, Singapore, and Australia — to pre-register online and pay a fee before entering the Schengen zone. [NeverStopTraveling](https://www.neverstoptraveling.com/news-you-can-use-august-12-2026)
+>
+> > [!note]- Tech: Google deploys consumer AI agents to call stores, check inventory, and complete purchases autonomously (AI Agent Store)
+> > Google is rolling out consumer-facing AI agents capable of autonomously phoning retail stores, verifying inventory, and completing purchases by voice on behalf of the user — a step that pushes autonomous AI directly into real-world commerce. The move intensifies the arms race with OpenAI's ChatGPT Work and Anthropic's Claude as agentic AI systems shift from answering questions to independently taking consequential actions in the world. [AI Agent Store](https://aiagentstore.ai/ai-agent-news/this-week)
+>
+> > [!note]- Science: AI analysis of 1.2M satellite images shows floating algae blooms spreading across global oceans (ScienceDaily)
+> > A study using AI to scan 1.2 million satellite images has found that floating algae blooms are expanding across the world's oceans at an accelerating rate, driven by warming sea surface temperatures and agricultural nutrient runoff. The blooms deplete oxygen, harm marine life, and can release toxins — threatening fisheries and undermining the ocean's role as a carbon sink at a time when that buffering capacity is most needed. [ScienceDaily](https://www.sciencedaily.com/)
+>
+> > **Late update**
+>
+> > [!breaking]- World: Congo Ebola tops 2,011 dead — fastest-spreading outbreak on record; no vaccine exists (Al Jazeera)
+> > The DRC's Ebola outbreak has killed at least 2,011 people from 4,381 confirmed cases — reaching 2,000 deaths nearly three times faster than the historic 2014–16 West Africa epidemic. The Bundibugyo strain has no approved vaccine or treatment, and delayed detection, active conflict, and overwhelmed health services have allowed the virus to spread unchecked since the outbreak was declared on May 15. [Al Jazeera](https://www.aljazeera.com/news/2026/8/11/drc-ebola-death-toll-passes-2000-amid-fastest-growing-outbreak-on-record)
+>
+> > [!note]- World: Indiana catastrophic flooding — 10 inches of rain, 1M homes lose power after Midwest derecho (CNN)
+> > Parts of eastern Indiana are experiencing catastrophic flash flooding after nearly 10 inches of rain fell since Tuesday, with the National Weather Service issuing rare Flash Flood Emergencies for Muncie, New Castle, Cambridge City, and surrounding areas. A deadly derecho had already cut a 300-mile path of destruction across the Midwest on Tuesday — killing at least one and knocking out power to over one million homes — leaving the region doubly ravaged before the new floods arrived. [CNN](https://www.cnn.com/weather/flooding-rain-severe-storms-derecho-midwest-appalachians-climate)
+>
+> > [!note]- NKE: $40.51 close (−1.96%) — nearing 52-week low $40.00; P&L −$1,434 on 46 shares (Yahoo Finance)
+> > Nike closed Wednesday at $40.51, down $0.81 (−1.96%) from Tuesday's close — hovering just $0.51 above its 52-week low of $40.00 and below JPMorgan's Underweight price target. The 46-share position at $71.69 avg cost now carries an unrealised loss of approximately −$1,434 (46 × −$31.18); after-hours trading edged back to $40.56 (+0.12%). [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
 
 > [!note]- [[08-11-26 Tue]]
 >
