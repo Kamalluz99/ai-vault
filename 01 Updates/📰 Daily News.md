@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-08-12T05:00
+updated: 2026-08-12T19:03
 topic: daily news
 frequency: daily
 ongoing: false
@@ -84,6 +84,25 @@ unread: true
 > [!note]- NKE: $41.01 (−2.6%) — JPMorgan Underweight/$40 target; P&L ≈ −$1,411 on 46 shares (Yahoo Finance)
 > Nike slipped 2.6% to $41.01, approaching its 52-week low of $40.00. JPMorgan maintains Underweight/$40, citing weak guidance of low-to-mid single-digit revenue declines over the next three quarters and softer consumer demand. The 46-share position at $71.69 avg cost carries an unrealised loss of approximately −$1,411. Next earnings: September 24, 2026. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
 
+> **Evening update**
+
+> [!note]- SG & MY: Google expands Gemini-powered Ask Maps to Singapore and Malaysia (Batam News Asia)
+> Google rolled out its Ask Maps feature — powered by Gemini AI — to Singapore and Malaysia on August 12, bringing conversational natural-language map search to Southeast Asia for the first time. The feature allows users to ask open-ended questions about places, routes, and local recommendations directly inside Google Maps, continuing Google's push to embed Gemini across its consumer product suite. [Batam News Asia](https://batamnewsasia.com/2026/08/12/google-expands-ask-maps-in-southeast-asia-gemini-powered-feature-reaches-singapore-and-malaysia/)
+
+> [!note]- Malaysia: High Court orders Rosmah to pay RM67.4M into stakeholder account within a month (Malay Mail)
+> Malaysia's High Court ordered former First Lady Datin Seri Rosmah Mansor to deposit RM67.4 million into a joint stakeholder account within 30 days, pending her appeal in a civil suit filed by Lebanese jeweller Global Royalty Trading SAL. The order keeps significant assets frozen while her appeal proceeds, adding to the sustained legal pressure on the former PM's spouse alongside her existing criminal conviction. [Malay Mail](https://www.malaymail.com/)
+
+> [!breaking]- World: Explosive-laden drone found and defused at Leipzig/Halle Airport — Germany warns of "new quality of danger" (Euronews)
+> German police discovered a drone carrying explosives at Leipzig/Halle Airport on Wednesday and successfully defused the device before any harm was caused. The country's top security official described the incident as posing a "new quality of danger," signalling growing alarm over the use of commercially available drones as delivery platforms for improvised explosive devices against civilian infrastructure. [Euronews](https://www.euronews.com/video/2026/08/12/latest-news-bulletin-august-12th-2026-midday)
+
+> [!note]- World: EU scraps firm ETIAS launch date — Schengen digital travel permit left without a timeline (NeverStopTraveling)
+> The European Union has officially dropped its late-2026 target for the European Travel Information and Authorization System (ETIAS), leaving the long-delayed digital pre-registration scheme for non-EU visitors without any firm start date. Originally due in 2022, ETIAS would require travellers from visa-free countries — including the US, UK, Singapore, and Australia — to pre-register online and pay a fee before entering the Schengen zone. [NeverStopTraveling](https://www.neverstoptraveling.com/news-you-can-use-august-12-2026)
+
+> [!note]- Tech: Google deploys consumer AI agents to call stores, check inventory, and complete purchases autonomously (AI Agent Store)
+> Google is rolling out consumer-facing AI agents capable of autonomously phoning retail stores, verifying inventory, and completing purchases by voice on behalf of the user — a step that pushes autonomous AI directly into real-world commerce. The move intensifies the arms race with OpenAI's ChatGPT Work and Anthropic's Claude as agentic AI systems shift from answering questions to independently taking consequential actions in the world. [AI Agent Store](https://aiagentstore.ai/ai-agent-news/this-week)
+
+> [!note]- Science: AI analysis of 1.2M satellite images shows floating algae blooms spreading across global oceans (ScienceDaily)
+> A study using AI to scan 1.2 million satellite images has found that floating algae blooms are expanding across the world's oceans at an accelerating rate, driven by warming sea surface temperatures and agricultural nutrient runoff. The blooms deplete oxygen, harm marine life, and can release toxins — threatening fisheries and undermining the ocean's role as a carbon sink at a time when that buffering capacity is most needed. [ScienceDaily](https://www.sciencedaily.com/)
 
 > [!note]- [[08-11-26 Tue]]
 >
