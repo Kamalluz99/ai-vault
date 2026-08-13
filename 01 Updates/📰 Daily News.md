@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-08-13T08:30
+updated: 2026-08-13T19:07
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,26 @@ unread: true
 
 > [!note]- NKE: $41.19 (−2.2%) — On Holding miss triggers sector sell-off; JPMorgan $40 Underweight reverberates; P&L ≈ −$1,403 (Yahoo Finance)
 > Nike slid 2.2% to $41.19 in morning trading as a sympathy sell-off swept premium athletic footwear after rival On Holding's Q2 revenue grew only 13.5% — below expectations — and full-year 2026 guidance disappointed. JPMorgan's Underweight/$40 target and a 10.2% YoY EPS decline forecast for the next quarter continue to weigh. The 46-share position at $71.69 avg cost carries an unrealised loss of approximately −$1,403 (46 × −$30.50). [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
+
+> **Evening update**
+
+> [!note]- SG & MY: Singapore-Malaysia mark 61 years; JS-SEZ, clean energy and labour ties deepen (Bernama)
+> Singapore High Commissioner Vanu Gopala Menon highlighted the countries' increasingly intertwined relationship at the 61-year diplomatic milestone, noting the Johor-Singapore SEZ has brought jobs and opportunities to both peoples. The deepening ties span clean energy (900MW Johor solar-battery imports conditionally approved, targeting 2029 operations), labour cooperation (gig-worker protections to be harmonised), and a sustained rhythm of high-level exchanges between PM Lawrence Wong and PM Anwar Ibrahim throughout 2026. [Bernama](https://www.bernama.com/en/news.php/?id=2593817)
+
+> [!breaking]- Malaysia: DAP special congress this Sunday — 4,000 delegates vote on staying in Anwar's govt (The Diplomat)
+> Malaysia's Democratic Action Party will convene a special national congress on August 16 at which approximately 4,000 delegates will decide whether the party continues in PM Anwar Ibrahim's unity government, following a string of state election defeats. Secretary-General Anthony Loke — who suffered his first personal electoral loss in 22 years in the August 1 Negeri Sembilan polls — said the decision rests entirely with delegates, not the party leadership. A DAP exit would destabilise the Pakatan Harapan coalition and could trigger a federal government crisis ahead of GE16. [The Diplomat](https://thediplomat.com/2026/08/malaysias-dap-to-hold-vote-on-whether-to-remain-in-anwars-unity-government/)
+
+> [!note]- World: Putin threatens to seize European ships in retaliation for EU shadow-fleet crackdown (Bloomberg)
+> Russian President Putin warned he would retaliate "in kind" against European countries seizing Russian commercial vessels — calling such moves "piracy" — during remarks at Pacific Fleet drills on August 12. The EU recently approved a mechanism allowing member states to detain and sell oil from shadow-fleet tankers Russia uses to circumvent Western sanctions on its oil exports. Putin said Moscow's response would not be limited to the waters where Russian ships are targeted, raising the prospect of a tit-for-tat maritime standoff across European seas. [Bloomberg](https://www.bloomberg.com/news/articles/2026-08-12/putin-threatens-retaliation-over-eu-moves-to-seize-russian-ships)
+
+> [!note]- World: China says India border "generally stable" as fresh tensions erupt in Arunachal Pradesh (Anadolu Agency)
+> China's foreign ministry described the Line of Actual Control with India as "generally stable" amid new reports of tensions in the disputed Arunachal Pradesh region, while simultaneously rejecting India's move to rename 27 locations there. India administers the territory — which China claims as "South Tibet" — making such renamings a persistent flashpoint in relations. The friction comes despite recent diplomatic progress following the 2024 border disengagement agreements between the two countries. [Anadolu Agency](https://aa.com.tr/en/world/morning-briefing-aug-13-2026/4025849)
+
+> [!note]- Tech: Lovable raises $400M at $13.3B valuation — AI no-code app builder becomes Europe's hottest AI startup (Tech Startups)
+> Stockholm-based Lovable secured $400 million at a $13.3 billion valuation, cementing its status as one of Europe's most highly valued AI companies. The platform lets anyone build websites and software applications by describing what they want in plain language — no coding required — placing it at the heart of the AI-assisted development boom. Its rise comes as Meta's Muse Code, Anthropic's Claude Code, and OpenAI's Codex battle for dominance in the same agentic coding segment. [Tech Startups](https://techstartups.com/2026/08/12/top-tech-news-today-august-12-2026-anthropic-google-ibm-lovable-nvidia-openai-more/)
+
+> [!note]- Science: Malaysia haze worsens — 10 stations unhealthy; 905 Kalimantan hotspots, MetMalaysia warns 3–5 more days (FMT)
+> Malaysia's air quality deteriorated further on August 13, with 10 monitoring stations across Sarawak, Selangor, Kuala Lumpur, and Penang recording unhealthy Air Pollutant Index readings. The ASEAN Specialised Meteorological Centre logged 905 active hotspots in Indonesia's Kalimantan — the primary haze source — versus just six within Sarawak itself. MetMalaysia forecasts the situation will persist for three to five more days, with limited and localised rainfall providing only temporary relief. [Free Malaysia Today](https://www.freemalaysiatoday.com/category/nation/2026/08/13/haze-likely-to-continue-for-next-3-to-5-days-says-metmalaysia)
 
 > [!note]- [[08-12-26 Wed]]
 >
