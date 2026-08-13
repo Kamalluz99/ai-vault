@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-08-13T19:07
+updated: 2026-08-13T22:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -103,6 +103,20 @@ unread: true
 
 > [!note]- Science: Malaysia haze worsens — 10 stations unhealthy; 905 Kalimantan hotspots, MetMalaysia warns 3–5 more days (FMT)
 > Malaysia's air quality deteriorated further on August 13, with 10 monitoring stations across Sarawak, Selangor, Kuala Lumpur, and Penang recording unhealthy Air Pollutant Index readings. The ASEAN Specialised Meteorological Centre logged 905 active hotspots in Indonesia's Kalimantan — the primary haze source — versus just six within Sarawak itself. MetMalaysia forecasts the situation will persist for three to five more days, with limited and localised rainfall providing only temporary relief. [Free Malaysia Today](https://www.freemalaysiatoday.com/category/nation/2026/08/13/haze-likely-to-continue-for-next-3-to-5-days-says-metmalaysia)
+
+> **Late update**
+
+> [!note]- Macro: S&P 500 hits record 7,799 (+0.65%) — soft July PPI seals disinflation case (TheStreet/BLS)
+> The S&P 500 cleared 7,800 for the first time, closing at 7,798.99 (+0.65%), powered by the July PPI print — flat month-on-month and 4.7% year-on-year, below the 4.9% consensus. Combined with Wednesday's soft CPI (3.4% YoY, core 2.5%), the double inflation miss significantly strengthens the rate-cut case for late 2026. Oil prices fell on the day, adding to the tailwind. [TheStreet](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-aug-13-2026)
+
+> [!note]- AI: DeepSeek releases V4-Pro-0813 — 1.6T-param MoE flagship with strong agent capabilities (Unite.AI)
+> DeepSeek officially launched DeepSeek-V4-Pro-0813, its flagship model: a 1.6-trillion-parameter mixture-of-experts system with 49B parameters active per token, a one-million-token context window, and a focus on agent tasks — tool use, code execution, and multi-step workflows. The company simultaneously warned that API prices will rise significantly in the near term, without disclosing the new rates or timeline. [Unite.AI](https://www.unite.ai/deepseek-ships-v4-pro-as-its-flagship-model-leaves-preview/)
+
+> [!note]- World: Gunvor refinery explosion at Rotterdam kills 1, injures 6 — pipeline failure probed (Euronews)
+> An explosion struck Gunvor Energy's refinery at Rotterdam's Europoort on Thursday morning, killing one worker and injuring six. A maintenance crew was working near a tank farm when the blast occurred; investigators are examining a possible pipeline failure. A separate transformer fire caused a power outage in the Botlek area, though authorities say the two incidents appear unrelated. [Euronews](https://www.euronews.com/my-europe/2026/08/13/explosion-at-dutch-port-of-rotterdam-leaves-one-dead-and-several-injured-police-say)
+
+> [!note]- NKE: $41.04 close (−0.37%) — range $40.48–$41.15; P&L ≈ −$1,410 on 46 shares (Yahoo Finance)
+> Nike edged down 0.37% to close at $41.04 on Thursday in a narrow intraday range of $40.48–$41.15, even as the broader market rallied to new records. The stock continues to lag significantly; the 46-share position at $71.69 avg cost now carries an unrealised loss of approximately −$1,410 (46 × −$30.65). Next earnings: September 24, 2026. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
 
 > [!note]- [[08-12-26 Wed]]
 >
