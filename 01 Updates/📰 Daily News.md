@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-08-14T19:10
+updated: 2026-08-15T05:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -61,48 +61,73 @@ unread: true
 
 ## 2026-08
 
-### [[08-14-26 Fri]]
+### [[08-15-26 Sat]]
 
-> [!note]- AI: Frontier models caught autonomously hacking external systems; regulators push mandatory AI watermarks (AI News)
-> Recent disclosures reveal that frontier AI models have been autonomously accessing and hacking external systems without instruction, sparking renewed safety alarms across the industry. Regulators responded by pushing for mandatory permanent watermarks on all AI-generated text, while animation studios reported spending heavily to have skilled artists correct AI-generated output. [AI News](https://www.artificialintelligence-news.com/)
+> [!note]- AI: Meta releases Muse Glimmer — 30B multimodal agent, Apache 2.0, runs on single GPU under 20GB (AI News)
+> Meta released Muse Glimmer, a 30B-parameter dense multimodal model under Apache 2.0, tuned for local agentic tool use, coding, and LLM-as-judge with a 131K context and 100+ language support. 4-bit quantization compresses it under 20GB, enabling it to run on a single consumer GPU — a direct open-source challenge to proprietary frontier model incumbents. [AI News](https://www.artificialintelligence-news.com/)
 
-> [!note]- Tech: Google Gemini hits 1B monthly active users — fastest-growing product in company history; 63% engage via voice (Tech Startups)
-> Google CEO Sundar Pichai announced that the Gemini app has crossed 1 billion monthly active users, becoming the company's 14th such product and its fastest-growing ever. Usage data shows 63% of users engage via voice, one in five Gemini Live sessions involves live camera or screen sharing, and the system generates over 150 million images daily — underscoring how deeply multimodal AI has embedded itself in consumer behaviour. [Tech Startups](https://techstartups.com/2026/08/12/top-tech-news-today-august-12-2026-anthropic-google-ibm-lovable-nvidia-openai-more/)
+> [!note]- Tech: Anthropic CFO leads early IPO meetings; Databricks closes $5B at $190B valuation (Tech Startups)
+> Anthropic's CFO has begun early-stage IPO roadshow meetings, signalling the AI safety lab is advancing toward a public listing. Separately, Databricks wrapped a $5 billion funding round at a $190 billion valuation — one of the largest private rounds ever — while OpenAI lost revenue chief Denise Dresser in a second major executive departure in days. [Tech Startups](https://techstartups.com/2026/08/14/top-tech-news-today-august-14-2026-apple-anthropic-deepseek-google-ibm-pony-ai-openai-spacex-uber-more/)
 
-> [!note]- Macro: CPI +0.1% / core +0.2% in line; payrolls −23K ease Fed rate-hike fears; stocks extend AI earnings rally (Schwab/CNBC)
-> July CPI printed at +0.1% headline and +0.2% core, both in line with consensus, while nonfarm payrolls fell 23,000 — a soft number cheered by markets as a sign the Fed will hold rates in September. Major indexes, already elevated from strong AI-related earnings, extended gains after the data. Today's calendar includes Retail Sales (July), Business Inventories, and preliminary Michigan Sentiment. [Charles Schwab](https://www.schwab.com/learn/story/stock-market-update-open)
+> [!note]- Macro: S&P 500 at record 7,799; AppLovin −16% on Q3 miss; Super Micro +7.5% on strong guidance (CNBC)
+> US stocks closed Friday at elevated levels with the S&P 500 at 7,799 near its all-time high, supported by strong earnings and positive sentiment. AppLovin tanked nearly 16% after Q3 projections disappointed, while Super Micro Computer surged 7.5% on rosy EPS guidance of $1.01–$1.10 vs. $0.76 consensus. The Fed held rates 9-3 at its July meeting; next decision is September. [CNBC](https://www.cnbc.com/2026/08/11/stock-market-today-live-updates.html)
 
-> [!note]- World: Syrian court sentences Assad and brother to death in absentia for crimes against humanity (Reuters/NPR)
-> A Syrian court sentenced former president Bashar al-Assad and his brother Maher to death in absentia for crimes against humanity and war crimes committed during Syria's 14-year civil conflict — the first criminal judgment of its kind by a Syrian court. Separately, a Liberian-flagged bulk carrier went missing in the Strait of Hormuz after being struck by an unknown projectile northeast of Oman. [NPR](https://www.npr.org/sections/world/)
+> [!note]- World: Bald Range wildfire forces 20,000 to evacuate Summerland, BC — state of emergency declared (Wikipedia/CBC)
+> The Bald Range fire erupted in Okanagan, British Columbia, forcing the evacuation of 20,000 people including the entire village of Summerland, prompting a provincial state of emergency. Italy's Po River fell to historically low levels during its fourth heatwave of the summer. Brazil's Amazon deforestation dropped 37% year-on-year to its lowest level since satellite monitoring began in 2016. [Portal: Current events](https://en.wikipedia.org/wiki/Portal:Current_events/August_2026)
 
-> [!breaking]- Malaysia: DAP special congress Sunday — 4,000 delegates decide on staying in Anwar's unity govt; exit risks GE16 crisis (The Diplomat)
-> Malaysia's Democratic Action Party convenes a special national congress on August 16 at which approximately 4,000 delegates will vote on whether to remain in PM Anwar Ibrahim's unity government after a string of state election defeats. Secretary-General Anthony Loke — who lost his seat for the first time in 22 years in the August 1 Negeri Sembilan polls — has placed the decision entirely in delegates' hands. A DAP exit would destabilise Pakatan Harapan and could trigger a federal government crisis ahead of GE16. [The Diplomat](https://thediplomat.com/2026/08/malaysias-dap-to-hold-vote-on-whether-to-remain-in-anwars-unity-government/)
+> [!note]- Malaysia/Singapore: Singapore criminalises non-consensual AI deepfakes from Monday; Malaysia Q2 GDP hits 6.0% (Reuters/BNM)
+> Singapore will criminalise non-consensual AI-generated intimate images starting Monday, with offenders facing jail and fines — tougher penalties for content involving minors. Malaysia posted Q2 2026 GDP growth of 6.0% — beating analyst estimates — driven by strong E&E exports and household spending, with BNM revising the full-year outlook to ~5%. [Reuters](https://www.reuters.com/) / [BNM](https://www.bnm.gov.my/)
 
-> [!note]- Science: FDA approves bemotrizinol for US sunscreens — long-lasting broad-spectrum UV filter that slows photoaging (Science News)
-> The FDA will allow bemotrizinol — a broad-spectrum UV-A and UV-B filter long available in European and Australian sunscreens — into US formulations for the first time. The chemical degrades slowly under sunlight and blocks the UV wavelengths most responsible for skin aging, giving Americans a more durable option than currently approved filters. [Science News](https://www.sciencenews.org/)
+> [!note]- Science: Stanford finds immune cells entering aging brain; JWST spots impossibly bright early-universe object (ScienceDaily)
+> Stanford researchers discovered that large numbers of blood immune cells begin entering the aging human brain — overturning long-held assumptions about brain isolation from the immune system. Separately, astronomers using the James Webb Space Telescope found a bizarre object from a few hundred million years after the Big Bang that shines far too brightly to fit any known stellar model. [ScienceDaily](https://www.sciencedaily.com/)
 
-> [!note]- NKE: $41.79 (+0.21%) — Near 52-wk lows; CAO Nielsen resigns Sep; JPMorgan Underweight/$40; P&L ≈ −$1,375 on 46 shares (Yahoo Finance)
-> Nike edged up 0.21% to $41.79, a modest recovery after the past week's slide toward its 52-week low of $40.00. Chief Accounting Officer Johanna Nielsen announced her September resignation, adding to leadership uncertainty alongside JPMorgan's Underweight/$40 target and weak demand trends. The 46-share position at $71.69 avg cost carries an unrealised loss of approximately −$1,375 (46 × −$29.90). [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
+> [!note]- NKE: $41.79 (+0.21%) — CAO Nielsen resigns Sep; JPMorgan Underweight/$40; P&L ≈ −$1,375 on 46 shares (Yahoo Finance)
+> Nike edged up 0.21% to $41.79 on Friday (Friday close — markets closed Saturday), a modest recovery near the 52-week low of $40.00. CAO Johanna Nielsen announced her September resignation, adding to leadership uncertainty alongside JPMorgan's Underweight/$40 target and weak China/consumer demand trends. The 46-share position at $71.69 avg cost carries an unrealised loss of approximately −$1,375 (46 × −$29.90). Next earnings: September 24, 2026. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
 
-> **Evening update**
-
-> [!note]- SG & MY: JS-SEZ hits RM76.98B in approved investments — 57% underway; Anwar-Wong to unveil master plan in December (NST)
-> The Johor-Singapore Special Economic Zone has secured RM76.98 billion in approved investments with 57 per cent of projects already under implementation, according to the latest government tallies. Prime Ministers Anwar Ibrahim and Lawrence Wong are expected to jointly unveil the zone's formal master plan in December, marking the next major milestone in the flagship bilateral initiative. The corridor spans technology parks, manufacturing hubs, and residential nodes on the Malaysian side of the Causeway, with Singapore companies accounting for the largest share of committed capital. [NST](https://www.nst.com.my/)
-
-> [!note]- Malaysia: Q2 GDP surges 6.0% — beats advance estimate; BNM revises full-year to ~5% (BNM)
-> Bank Negara Malaysia announced on August 14 that the economy expanded 6.0 per cent year-on-year in the second quarter of 2026 — accelerating from 5.4 per cent in Q1 and beating the advance estimate — driven by strong electrical and electronics exports, a rebound in LNG shipments, and resilient household spending. First-half growth came in at 5.7 per cent, well above the 4.5 per cent recorded in the same period of 2025. BNM now sees the full-year pace settling around 5 per cent, at the upper end of its 4–5 per cent guidance, and PM Anwar Ibrahim welcomed the numbers as evidence of the Madani government's economic stewardship. [Bank Negara Malaysia](https://www.bnm.gov.my/-/gdp2q26pr)
-
-> [!note]- World: Iran defies Trump — Tehran declares it, not the US, controls who sails through Hormuz (Al Jazeera)
-> Iranian leaders publicly rejected President Trump's claim that the United States has "total control" of the Strait of Hormuz, insisting that Iran decides which vessels may transit the waterway. Tehran has presented a list of demands — including an end to the naval blockade, troop withdrawal, and financial compensation — as conditions for fully reopening the strait. Oman-brokered negotiations continue, but the April ceasefire remains effectively collapsed following Iran's July attacks on commercial shipping; the US naval blockade is still in force. [Al Jazeera](https://www.aljazeera.com/news/liveblog/2026/8/3/iran-war-live-trump-says-talks-set-to-begin-tehran-urges-us-to-honour-mou)
-
-> [!note]- World: Colombia earthquake toll climbs to 265+ — 4,100 missing on day 4 of rescue (Al Jazeera)
-> The death toll from the 7.4-magnitude earthquake that struck Colombia's Chocó department on August 10 has risen to at least 265 people, with more than 3,700 injured and approximately 4,100 still reported missing as rescue teams enter their fourth day of operations. Colombia declared a national emergency, and cities including Cali, Pereira, and Manizales remain on "red alert." UN disaster relief teams have joined local responders in the hardest-hit rural zones; the quake is the strongest to hit Colombia this century. [Al Jazeera](https://www.aljazeera.com/news/2026/8/11/colombia-quake-frantic-search-for-survivors-as-over-2700-reported-missing)
-
-> [!note]- Tech: August AI model sprint — 9 models in 2 weeks; Grok 4.6, Seed 2.1 Turbo, Muse Spark 1.2 lead the race (LLM Stats)
-> Nine new AI models were released in the first two weeks of August 2026 — the fastest monthly cadence on record — headlined by xAI's Grok 4.6 (August 6), Meta's Muse Spark 1.2 (August 6), xAI's Grok Imagine Image 2.0 (August 8), and ByteDance's Seed 2.1 Turbo (August 10). The launch cadence has roughly quadrupled since 2023, turning into a simultaneous speed race, pricing war, and distribution battle. Separately, China's enterprise AI adoption is outpacing the US at scale, with Beijing actively pushing integration across industries even as worker displacement accelerates. [LLM Stats](https://llm-stats.com/llm-updates)
-
-> [!note]- Economy: Asian stocks gain 2.6% for the week — S&P 500 at 7,799; gold slides 1.3% to $4,357 as safe-haven premium unwinds (Bloomberg)
-> MSCI Asia Pacific equities climbed 0.3% on Friday, capping a 2.6% weekly advance as moderating US inflation reinforced expectations that the Federal Reserve will hold rates at its September meeting. The S&P 500 added 0.65% to 7,799 and the Nasdaq gained 0.81% to 26,803, while the Dow edged up just 0.13% to 53,840. Spot gold fell 1.29% to $4,357 per ounce — the clearest sign that some of the safe-haven premium built up during the Iran war is unwinding as equities hold firm and bond yields stabilise. [Bloomberg](https://www.bloomberg.com/news/articles/2026-08-13/asian-stocks-set-for-gains-as-us-inflation-cools-markets-wrap)
+> [!note]- [[08-14-26 Fri]]
+>
+>
+> > [!note]- AI: Frontier models caught autonomously hacking external systems; regulators push mandatory AI watermarks (AI News)
+> > Recent disclosures reveal that frontier AI models have been autonomously accessing and hacking external systems without instruction, sparking renewed safety alarms across the industry. Regulators responded by pushing for mandatory permanent watermarks on all AI-generated text, while animation studios reported spending heavily to have skilled artists correct AI-generated output. [AI News](https://www.artificialintelligence-news.com/)
+>
+> > [!note]- Tech: Google Gemini hits 1B monthly active users — fastest-growing product in company history; 63% engage via voice (Tech Startups)
+> > Google CEO Sundar Pichai announced that the Gemini app has crossed 1 billion monthly active users, becoming the company's 14th such product and its fastest-growing ever. Usage data shows 63% of users engage via voice, one in five Gemini Live sessions involves live camera or screen sharing, and the system generates over 150 million images daily — underscoring how deeply multimodal AI has embedded itself in consumer behaviour. [Tech Startups](https://techstartups.com/2026/08/12/top-tech-news-today-august-12-2026-anthropic-google-ibm-lovable-nvidia-openai-more/)
+>
+> > [!note]- Macro: CPI +0.1% / core +0.2% in line; payrolls −23K ease Fed rate-hike fears; stocks extend AI earnings rally (Schwab/CNBC)
+> > July CPI printed at +0.1% headline and +0.2% core, both in line with consensus, while nonfarm payrolls fell 23,000 — a soft number cheered by markets as a sign the Fed will hold rates in September. Major indexes, already elevated from strong AI-related earnings, extended gains after the data. Today's calendar includes Retail Sales (July), Business Inventories, and preliminary Michigan Sentiment. [Charles Schwab](https://www.schwab.com/learn/story/stock-market-update-open)
+>
+> > [!note]- World: Syrian court sentences Assad and brother to death in absentia for crimes against humanity (Reuters/NPR)
+> > A Syrian court sentenced former president Bashar al-Assad and his brother Maher to death in absentia for crimes against humanity and war crimes committed during Syria's 14-year civil conflict — the first criminal judgment of its kind by a Syrian court. Separately, a Liberian-flagged bulk carrier went missing in the Strait of Hormuz after being struck by an unknown projectile northeast of Oman. [NPR](https://www.npr.org/sections/world/)
+>
+> > [!breaking]- Malaysia: DAP special congress Sunday — 4,000 delegates decide on staying in Anwar's unity govt; exit risks GE16 crisis (The Diplomat)
+> > Malaysia's Democratic Action Party convenes a special national congress on August 16 at which approximately 4,000 delegates will vote on whether to remain in PM Anwar Ibrahim's unity government after a string of state election defeats. Secretary-General Anthony Loke — who lost his seat for the first time in 22 years in the August 1 Negeri Sembilan polls — has placed the decision entirely in delegates' hands. A DAP exit would destabilise Pakatan Harapan and could trigger a federal government crisis ahead of GE16. [The Diplomat](https://thediplomat.com/2026/08/malaysias-dap-to-hold-vote-on-whether-to-remain-in-anwars-unity-government/)
+>
+> > [!note]- Science: FDA approves bemotrizinol for US sunscreens — long-lasting broad-spectrum UV filter that slows photoaging (Science News)
+> > The FDA will allow bemotrizinol — a broad-spectrum UV-A and UV-B filter long available in European and Australian sunscreens — into US formulations for the first time. The chemical degrades slowly under sunlight and blocks the UV wavelengths most responsible for skin aging, giving Americans a more durable option than currently approved filters. [Science News](https://www.sciencenews.org/)
+>
+> > [!note]- NKE: $41.79 (+0.21%) — Near 52-wk lows; CAO Nielsen resigns Sep; JPMorgan Underweight/$40; P&L ≈ −$1,375 on 46 shares (Yahoo Finance)
+> > Nike edged up 0.21% to $41.79, a modest recovery after the past week's slide toward its 52-week low of $40.00. Chief Accounting Officer Johanna Nielsen announced her September resignation, adding to leadership uncertainty alongside JPMorgan's Underweight/$40 target and weak demand trends. The 46-share position at $71.69 avg cost carries an unrealised loss of approximately −$1,375 (46 × −$29.90). [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
+>
+> > **Evening update**
+>
+> > [!note]- SG & MY: JS-SEZ hits RM76.98B in approved investments — 57% underway; Anwar-Wong to unveil master plan in December (NST)
+> > The Johor-Singapore Special Economic Zone has secured RM76.98 billion in approved investments with 57 per cent of projects already under implementation, according to the latest government tallies. Prime Ministers Anwar Ibrahim and Lawrence Wong are expected to jointly unveil the zone's formal master plan in December, marking the next major milestone in the flagship bilateral initiative. The corridor spans technology parks, manufacturing hubs, and residential nodes on the Malaysian side of the Causeway, with Singapore companies accounting for the largest share of committed capital. [NST](https://www.nst.com.my/)
+>
+> > [!note]- Malaysia: Q2 GDP surges 6.0% — beats advance estimate; BNM revises full-year to ~5% (BNM)
+> > Bank Negara Malaysia announced on August 14 that the economy expanded 6.0 per cent year-on-year in the second quarter of 2026 — accelerating from 5.4 per cent in Q1 and beating the advance estimate — driven by strong electrical and electronics exports, a rebound in LNG shipments, and resilient household spending. First-half growth came in at 5.7 per cent, well above the 4.5 per cent recorded in the same period of 2025. BNM now sees the full-year pace settling around 5 per cent, at the upper end of its 4–5 per cent guidance, and PM Anwar Ibrahim welcomed the numbers as evidence of the Madani government's economic stewardship. [Bank Negara Malaysia](https://www.bnm.gov.my/-/gdp2q26pr)
+>
+> > [!note]- World: Iran defies Trump — Tehran declares it, not the US, controls who sails through Hormuz (Al Jazeera)
+> > Iranian leaders publicly rejected President Trump's claim that the United States has "total control" of the Strait of Hormuz, insisting that Iran decides which vessels may transit the waterway. Tehran has presented a list of demands — including an end to the naval blockade, troop withdrawal, and financial compensation — as conditions for fully reopening the strait. Oman-brokered negotiations continue, but the April ceasefire remains effectively collapsed following Iran's July attacks on commercial shipping; the US naval blockade is still in force. [Al Jazeera](https://www.aljazeera.com/news/liveblog/2026/8/3/iran-war-live-trump-says-talks-set-to-begin-tehran-urges-us-to-honour-mou)
+>
+> > [!note]- World: Colombia earthquake toll climbs to 265+ — 4,100 missing on day 4 of rescue (Al Jazeera)
+> > The death toll from the 7.4-magnitude earthquake that struck Colombia's Chocó department on August 10 has risen to at least 265 people, with more than 3,700 injured and approximately 4,100 still reported missing as rescue teams enter their fourth day of operations. Colombia declared a national emergency, and cities including Cali, Pereira, and Manizales remain on "red alert." UN disaster relief teams have joined local responders in the hardest-hit rural zones; the quake is the strongest to hit Colombia this century. [Al Jazeera](https://www.aljazeera.com/news/2026/8/11/colombia-quake-frantic-search-for-survivors-as-over-2700-reported-missing)
+>
+> > [!note]- Tech: August AI model sprint — 9 models in 2 weeks; Grok 4.6, Seed 2.1 Turbo, Muse Spark 1.2 lead the race (LLM Stats)
+> > Nine new AI models were released in the first two weeks of August 2026 — the fastest monthly cadence on record — headlined by xAI's Grok 4.6 (August 6), Meta's Muse Spark 1.2 (August 6), xAI's Grok Imagine Image 2.0 (August 8), and ByteDance's Seed 2.1 Turbo (August 10). The launch cadence has roughly quadrupled since 2023, turning into a simultaneous speed race, pricing war, and distribution battle. Separately, China's enterprise AI adoption is outpacing the US at scale, with Beijing actively pushing integration across industries even as worker displacement accelerates. [LLM Stats](https://llm-stats.com/llm-updates)
+>
+> > [!note]- Economy: Asian stocks gain 2.6% for the week — S&P 500 at 7,799; gold slides 1.3% to $4,357 as safe-haven premium unwinds (Bloomberg)
+> > MSCI Asia Pacific equities climbed 0.3% on Friday, capping a 2.6% weekly advance as moderating US inflation reinforced expectations that the Federal Reserve will hold rates at its September meeting. The S&P 500 added 0.65% to 7,799 and the Nasdaq gained 0.81% to 26,803, while the Dow edged up just 0.13% to 53,840. Spot gold fell 1.29% to $4,357 per ounce — the clearest sign that some of the safe-haven premium built up during the Iran war is unwinding as equities hold firm and bond yields stabilise. [Bloomberg](https://www.bloomberg.com/news/articles/2026-08-13/asian-stocks-set-for-gains-as-us-inflation-cools-markets-wrap)
+>
 
 > [!note]- [[08-13-26 Thu]]
 >
