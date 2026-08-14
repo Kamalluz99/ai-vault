@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-08-15T05:00
+updated: 2026-08-14T21:11
 topic: daily news
 frequency: daily
 ongoing: false
@@ -128,6 +128,19 @@ unread: true
 > > [!note]- Economy: Asian stocks gain 2.6% for the week — S&P 500 at 7,799; gold slides 1.3% to $4,357 as safe-haven premium unwinds (Bloomberg)
 > > MSCI Asia Pacific equities climbed 0.3% on Friday, capping a 2.6% weekly advance as moderating US inflation reinforced expectations that the Federal Reserve will hold rates at its September meeting. The S&P 500 added 0.65% to 7,799 and the Nasdaq gained 0.81% to 26,803, while the Dow edged up just 0.13% to 53,840. Spot gold fell 1.29% to $4,357 per ounce — the clearest sign that some of the safe-haven premium built up during the Iran war is unwinding as equities hold firm and bond yields stabilise. [Bloomberg](https://www.bloomberg.com/news/articles/2026-08-13/asian-stocks-set-for-gains-as-us-inflation-cools-markets-wrap)
 >
+> > **Late update**
+>
+> > [!note]- Macro: S&P 500 edges down from record; retail sales −0.6% miss; Reddit +10.4% on S&P 500 inclusion Aug 18 (TheStreet)
+> > The S&P 500 slipped ~0.2% from Thursday's record 7,799 as July retail sales fell 0.6% (vs +0.1% expected) and a deteriorating University of Michigan Consumer Sentiment print soured afternoon trade — but the index still capped a third consecutive weekly gain. Reddit (RDDT) surged 10.4% after S&P Dow Jones Indices announced it joins the benchmark before the open on August 18. [TheStreet](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-aug-14-2026)
+>
+> > [!note]- AI: Google launches Gemini 3.7 Flash — sharper, cheaper coding and agent workhorse model (AI Weekly)
+> > Google released Gemini 3.7 Flash overnight, positioning it as a sharper and cheaper model for coding and agentic tasks, targeting the developer tier dominated by Claude Sonnet and GPT-4o-mini. AMD separately acquired Taalas, an AI inference optimisation startup, accelerating chip-maker M&A amid surging workload demand. [AI Weekly](https://aiweekly.co/ai-news-today)
+>
+> > [!note]- Tech: Judge orders Google to open Android to rival app stores (Epic win); Uber-Pony.ai plan 2,000+ EU robotaxis (Tech Startups)
+> > A US federal judge in San Francisco ordered Google to make it substantially easier to install alternative app distribution methods on Android — a landmark antitrust ruling for Epic Games that could reshape the mobile ecosystem. Separately, Uber and Pony.ai announced plans to deploy more than 2,000 robotaxis on European roads, following the first major EU autonomous vehicle operating licence granted last week. [Tech Startups](https://techstartups.com/2026/08/14/top-tech-news-today-august-14-2026-apple-anthropic-deepseek-google-ibm-pony-ai-openai-spacex-uber-more/)
+>
+> > [!note]- Science: AI designs 16 working bacteriophage viruses that killed drug-resistant bacteria (ScienceDaily)
+> > Stanford and Arc Institute researchers used AI to engineer 16 novel bacteriophage viruses from scratch that successfully killed bacteria already resistant to natural phages — the first AI-designed biological agents proven against drug-resistant pathogens. The approach could accelerate phage therapy for infections that antibiotics can no longer treat. [ScienceDaily](https://www.sciencedaily.com/)
 
 > [!note]- [[08-13-26 Thu]]
 >
