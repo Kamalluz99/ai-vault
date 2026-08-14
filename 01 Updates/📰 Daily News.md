@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-08-14T05:00
+updated: 2026-08-14T19:10
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,26 @@ unread: true
 
 > [!note]- NKE: $41.79 (+0.21%) — Near 52-wk lows; CAO Nielsen resigns Sep; JPMorgan Underweight/$40; P&L ≈ −$1,375 on 46 shares (Yahoo Finance)
 > Nike edged up 0.21% to $41.79, a modest recovery after the past week's slide toward its 52-week low of $40.00. Chief Accounting Officer Johanna Nielsen announced her September resignation, adding to leadership uncertainty alongside JPMorgan's Underweight/$40 target and weak demand trends. The 46-share position at $71.69 avg cost carries an unrealised loss of approximately −$1,375 (46 × −$29.90). [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
+
+> **Evening update**
+
+> [!note]- SG & MY: JS-SEZ hits RM76.98B in approved investments — 57% underway; Anwar-Wong to unveil master plan in December (NST)
+> The Johor-Singapore Special Economic Zone has secured RM76.98 billion in approved investments with 57 per cent of projects already under implementation, according to the latest government tallies. Prime Ministers Anwar Ibrahim and Lawrence Wong are expected to jointly unveil the zone's formal master plan in December, marking the next major milestone in the flagship bilateral initiative. The corridor spans technology parks, manufacturing hubs, and residential nodes on the Malaysian side of the Causeway, with Singapore companies accounting for the largest share of committed capital. [NST](https://www.nst.com.my/)
+
+> [!note]- Malaysia: Q2 GDP surges 6.0% — beats advance estimate; BNM revises full-year to ~5% (BNM)
+> Bank Negara Malaysia announced on August 14 that the economy expanded 6.0 per cent year-on-year in the second quarter of 2026 — accelerating from 5.4 per cent in Q1 and beating the advance estimate — driven by strong electrical and electronics exports, a rebound in LNG shipments, and resilient household spending. First-half growth came in at 5.7 per cent, well above the 4.5 per cent recorded in the same period of 2025. BNM now sees the full-year pace settling around 5 per cent, at the upper end of its 4–5 per cent guidance, and PM Anwar Ibrahim welcomed the numbers as evidence of the Madani government's economic stewardship. [Bank Negara Malaysia](https://www.bnm.gov.my/-/gdp2q26pr)
+
+> [!note]- World: Iran defies Trump — Tehran declares it, not the US, controls who sails through Hormuz (Al Jazeera)
+> Iranian leaders publicly rejected President Trump's claim that the United States has "total control" of the Strait of Hormuz, insisting that Iran decides which vessels may transit the waterway. Tehran has presented a list of demands — including an end to the naval blockade, troop withdrawal, and financial compensation — as conditions for fully reopening the strait. Oman-brokered negotiations continue, but the April ceasefire remains effectively collapsed following Iran's July attacks on commercial shipping; the US naval blockade is still in force. [Al Jazeera](https://www.aljazeera.com/news/liveblog/2026/8/3/iran-war-live-trump-says-talks-set-to-begin-tehran-urges-us-to-honour-mou)
+
+> [!note]- World: Colombia earthquake toll climbs to 265+ — 4,100 missing on day 4 of rescue (Al Jazeera)
+> The death toll from the 7.4-magnitude earthquake that struck Colombia's Chocó department on August 10 has risen to at least 265 people, with more than 3,700 injured and approximately 4,100 still reported missing as rescue teams enter their fourth day of operations. Colombia declared a national emergency, and cities including Cali, Pereira, and Manizales remain on "red alert." UN disaster relief teams have joined local responders in the hardest-hit rural zones; the quake is the strongest to hit Colombia this century. [Al Jazeera](https://www.aljazeera.com/news/2026/8/11/colombia-quake-frantic-search-for-survivors-as-over-2700-reported-missing)
+
+> [!note]- Tech: August AI model sprint — 9 models in 2 weeks; Grok 4.6, Seed 2.1 Turbo, Muse Spark 1.2 lead the race (LLM Stats)
+> Nine new AI models were released in the first two weeks of August 2026 — the fastest monthly cadence on record — headlined by xAI's Grok 4.6 (August 6), Meta's Muse Spark 1.2 (August 6), xAI's Grok Imagine Image 2.0 (August 8), and ByteDance's Seed 2.1 Turbo (August 10). The launch cadence has roughly quadrupled since 2023, turning into a simultaneous speed race, pricing war, and distribution battle. Separately, China's enterprise AI adoption is outpacing the US at scale, with Beijing actively pushing integration across industries even as worker displacement accelerates. [LLM Stats](https://llm-stats.com/llm-updates)
+
+> [!note]- Economy: Asian stocks gain 2.6% for the week — S&P 500 at 7,799; gold slides 1.3% to $4,357 as safe-haven premium unwinds (Bloomberg)
+> MSCI Asia Pacific equities climbed 0.3% on Friday, capping a 2.6% weekly advance as moderating US inflation reinforced expectations that the Federal Reserve will hold rates at its September meeting. The S&P 500 added 0.65% to 7,799 and the Nasdaq gained 0.81% to 26,803, while the Dow edged up just 0.13% to 53,840. Spot gold fell 1.29% to $4,357 per ounce — the clearest sign that some of the safe-haven premium built up during the Iran war is unwinding as equities hold firm and bond yields stabilise. [Bloomberg](https://www.bloomberg.com/news/articles/2026-08-13/asian-stocks-set-for-gains-as-us-inflation-cools-markets-wrap)
 
 > [!note]- [[08-13-26 Thu]]
 >
