@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-08-14T21:11
+updated: 2026-08-15T19:07
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,26 @@ unread: true
 
 > [!note]- NKE: $41.79 (+0.21%) — CAO Nielsen resigns Sep; JPMorgan Underweight/$40; P&L ≈ −$1,375 on 46 shares (Yahoo Finance)
 > Nike edged up 0.21% to $41.79 on Friday (Friday close — markets closed Saturday), a modest recovery near the 52-week low of $40.00. CAO Johanna Nielsen announced her September resignation, adding to leadership uncertainty alongside JPMorgan's Underweight/$40 target and weak China/consumer demand trends. The 46-share position at $71.69 avg cost carries an unrealised loss of approximately −$1,375 (46 × −$29.90). Next earnings: September 24, 2026. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
+
+> **Evening update**
+
+> [!note]- SG & MY: Singapore marks 61 yrs of friendship with Malaysia; bilateral ties deepen (Malay Mail)
+> Singapore High Commissioner Vanu Gopala Menon called for stronger bilateral ties as the two nations marked 61 years of friendship following Singapore's National Day, noting the relationship is "so interconnected" that cooperation serves both countries' mutual interests. Malaysia's High Commissioner to Singapore met Singapore's Director-General of MFA on August 12 to exchange views on multilateral diplomacy and UN-related developments. The Johor-Singapore Special Economic Zone — with RM76.98 billion in approved investments, 57% already underway — remains the flagship bilateral project ahead of the December master plan launch. [Malay Mail](https://www.malaymail.com/news/singapore/2026/08/13/closer-together-celebrating-61-years-of-friendship-singapore-envoy-calls-for-stronger-ties-with-malaysia/231164)
+
+> [!note]- Malaysia: Anwar vows anti-corruption push, admits cost-of-living bite despite 6% GDP growth (SCMP)
+> PM Anwar Ibrahim pledged to accelerate Malaysia's reform agenda and tighten the anti-corruption drive as public frustration mounts ahead of tomorrow's pivotal DAP congress, conceding that "the economic numbers are not winning the hearts of the people." Despite Q2 GDP growth of 6.0% and low unemployment, Anwar acknowledged that rising living costs remain a genuine concern for ordinary Malaysians. He pushed back against state-neglect allegations, citing federal allocation increases of 35% to Sabah and 48% to Sarawak under the Madani government. [SCMP](https://www.scmp.com/news/asia/southeast-asia/article/3364140/malaysias-anwar-vows-boost-anti-corruption-drive-after-state-poll-defeats)
+
+> [!breaking]- World: Trump vows to claim Hormuz as US territory; Iran rejects it; shipping at 17% of pre-war levels (Al Jazeera / CNN)
+> US President Trump declared he would make the Strait of Hormuz a US territory "pretty soon" once Iran is defeated, while a replacement carrier group steams toward the Middle East to relieve the USS Abraham Lincoln. Iran's Deputy FM Gharibabadi flatly rejected the claim, insisting the waterway will remain under Iranian control until the US accepts defeat; FM Araghchi confirmed that message exchanges via mediators Qatar and Pakistan do not constitute formal negotiations. Shipping traffic through the Strait stands at just 17% of its pre-conflict average — a slight uptick from recent lows but the waterway remains largely shut. [Al Jazeera](https://www.aljazeera.com/news/liveblog/2026/8/15/iran-war-live-trump-vows-to-make-hormuz-us-territory-pretty-soon)
+
+> [!note]- World: French court overturns under-15 social media ban; Sudan's 37% health facilities offline (Euronews / WHO)
+> France's Constitutional Council struck down key provisions of the law banning children under 15 from social media platforms, ruling them unconstitutional — a significant setback for the government's digital child-protection agenda and a victory for tech platforms that challenged the measure. Separately, the WHO reported that 37% of Sudan's health facilities are out of service in 2026, with the ongoing civil war destroying supply chains and forcing medical staff to flee frontline zones. The two developments illustrate twin pressures this week: eroding digital safety guardrails in wealthy democracies and accelerating humanitarian collapse in conflict states. [Euronews](https://www.euronews.com/video/2026/08/15/latest-news-bulletin-august-15th-2026-midday)
+
+> [!note]- Tech: Google open-sources HEIR — AI inference on fully encrypted data; servers never see plaintext (Google Blog)
+> Google released HEIR (Homomorphic Encryption Intermediate Representation), an open-source MLIR-based compiler that allows AI models to perform inference on homomorphically encrypted inputs — meaning a server processes queries without ever decrypting the underlying data. Developers write Python, annotate secret-typed inputs, and HEIR compiles the rest into a privacy-preserving inference pipeline suited to medical diagnostics, fraud detection, and personalised recommendations. The release marks a significant advance toward making private AI inference practical at production scale, removing the longstanding trade-off between data utility and user privacy. [Google Blog](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
+
+> [!note]- Science: Sunlight generates quantum entanglement; new stainless steel could slash green hydrogen cost (ScienceDaily)
+> Scientists demonstrated that quantum entanglement can be generated directly from sunlight rather than high-energy lasers, potentially enabling far lower-cost quantum networking and communication infrastructure that could run off ambient light. In a separate materials-science advance, researchers engineered a new grade of stainless steel with exceptional corrosion resistance capable of replacing costly titanium components in electrolysers used to produce green hydrogen, meaningfully reducing the clean fuel's cost. Both breakthroughs point toward a convergence of quantum physics and materials science that could reshape the economics of clean-energy technology through the end of the decade. [ScienceDaily](https://www.sciencedaily.com/)
 
 > [!note]- [[08-14-26 Fri]]
 >
