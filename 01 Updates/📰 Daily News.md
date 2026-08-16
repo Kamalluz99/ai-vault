@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-08-16T19:07
+updated: 2026-08-16T21:06
 topic: daily news
 frequency: daily
 ongoing: false
@@ -103,6 +103,14 @@ unread: true
 
 > [!note]- Economy: Global stocks steady on cool US CPI, trimming Fed hike odds; IMF 2026 world growth at 3.0% (Rio Times / IMF)
 > Global equities held steady as cooler-than-expected US inflation reduced the probability of a September Fed rate hike, softening the dollar and supporting risk appetite across markets. The IMF's July 2026 World Economic Outlook projects global growth at 3.0% for 2026 and 3.4% for 2027 — a resilient baseline despite the Iran-US conflict's drag on energy importers and Strait of Hormuz trade-route disruption. AI-driven productivity in tech-integrated economies is providing an offset, though the recovery remains uneven across regions. [Rio Times](https://www.riotimesonline.com/global-economy-briefing-august-15-2026/)
+
+> **Late night update**
+
+> [!note]- Malaysia: DAP votes 88.2% to stay in Anwar's unity govt — coalition secured (The Star)
+> An overwhelming 88.2% of DAP delegates — 1,857 of 2,099 valid votes — chose to remain in PM Anwar Ibrahim's unity government at Sunday's special national congress, averting a potential political crisis. The result means DAP retains its five Cabinet positions and seven deputy minister posts, and Pakatan Harapan stays intact heading into GE16. Secretary-General Anthony Loke framed the landslide vote as a clear mandate to continue the reform agenda despite recent state election losses. [The Star](https://www.thestar.com.my/news/nation/2026/08/16/overwhelming-882-of-dap-delegates-vote-for-party-to-remain-in-federal-govt)
+
+> [!note]- Malaysia: ASEAN Cup SF — Vietnam 2-0 Malaysia (Son header, Faris own goal); return leg Aug 19 Hanoi (VnExpress)
+> Vietnam claimed a commanding 2-0 first-leg advantage over Malaysia at Kuala Lumpur Stadium in the ASEAN Cup 2026 semi-finals. Nguyễn Xuân Son's diving header in first-half stoppage time opened the scoring, and Faris Danish's own goal four minutes from time sealed the result for the defending champions. Malaysia must score at least three goals in Hanoi on August 19 — without conceding — to overturn the deficit and reach the final. [VnExpress](https://e.vnexpress.net/evolution/football/asean-cup-semifinal-malaysia-0-1-vietnam-5109751.html)
 
 > [!note]- [[08-15-26 Sat]]
 > > [!note]- AI: Meta releases Muse Glimmer — 30B multimodal agent, Apache 2.0, runs on single GPU under 20GB (AI News)
