@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-08-17T05:00
+updated: 2026-08-17T05:12
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,17 @@ unread: true
 
 > [!note]- NKE: $40.73 (Fri close, US mkt opens Mon) — P&L ≈ −$1,424 on 46 shares; div ex-date Sep 1 (Yahoo Finance)
 > Nike closed at $40.73 on Friday — US markets open Monday — hovering just above the 52-week low of $40.00 with no near-term catalyst. JPMorgan maintains Underweight/$40, CAO Johanna Nielsen exits in September, and weak China and consumer-channel demand weigh on the stock. The 46-share position at $71.69 avg cost carries an unrealised loss of approximately −$1,424 (46 × −$30.96). A $0.41 dividend goes ex on September 1, 2026; next earnings September 24. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
+
+> **Morning update**
+
+> [!note]- World: ADNOC tanker struck in Hormuz; 500 sq mi oil slick reaches Oman's coast; US carrier en route (CNN)
+> An ADNOC-affiliated tanker was struck Friday night in the Strait of Hormuz — the 56th vessel damage since the US-Iran war began in February — while a separate stranded tanker continues leaking oil into the Arabian Sea, producing a 500-square-mile slick that has spread to Oman's coastline. Shipping traffic through the strait stands at roughly 17% of pre-war levels; a US carrier group is steaming to relieve the USS Abraham Lincoln, and Iran insists it will not reopen the waterway without US concessions including an end to the naval blockade. [CNN](https://www.cnn.com/2026/08/15/world/live-news/iran-war-trump)
+
+> [!note]- Tech: Monday.com cuts 630 jobs (20%) — 21st major tech firm in 2026 to cite AI for layoffs (TechCrunch)
+> Monday.com eliminated approximately 630 positions — 20% of its global workforce — to pivot toward a platform where humans and AI agents share tasks autonomously, at a severance cost of $45–55 million. Co-founder Eran Zinman framed it as strategic reorganisation, not cost-cutting, and still projects revenue growth of up to 20% for 2026. The move makes Monday.com the 21st major tech company this year to explicitly cite AI as a layoff driver, alongside Microsoft (4,800), Cisco (4,000), Meta, and Intuit — a wave that has impacted over 175,000 tech workers in 2026. [TechCrunch](https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/)
+
+> [!note]- Science: JWST finds water and dust forming beside Milky Way's black hole Sgr A* (Phys.org)
+> Using the James Webb Space Telescope, astronomers discovered that dust and water can form and survive surprisingly close to Sagittarius A*, the 4-million-solar-mass black hole at the Milky Way's centre, with the evolved star IRS 3 producing new material despite the intense radiation of the galactic core. The finding challenges the assumption that extreme environments near supermassive black holes prevent complex molecule and dust formation, and raises new questions about where organic chemistry may persist in the universe. [Phys.org](https://phys.org/news/2026-08-astronomers-early-universe-webb.html)
 
 > [!note]- [[08-16-26 Sun]]
 > > [!breaking]- Malaysia: DAP congress today — 4,000 delegates vote on staying in Anwar's unity govt (The Diplomat)
