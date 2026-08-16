@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-08-16T05:00
+updated: 2026-08-16T19:07
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,26 @@ unread: true
 
 > [!note]- NKE: $41.79 (Fri close, mkt closed Sun) — JPMorgan Underweight/$40; P&L ≈ −$1,375 on 46 shares (Yahoo Finance)
 > Nike closed at $41.79 on Friday — no trading on Sunday — holding near its 52-week low of $40.00. JPMorgan maintains Underweight/$40, CAO Johanna Nielsen exits in September, and weak demand trends across China and consumer channels continue to weigh. The 46-share position at $71.69 avg cost carries an unrealised loss of approximately −$1,375 (46 × −$29.90). Next earnings: September 24, 2026. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
+
+> **Evening update**
+
+> [!breaking]- SG & Malaysia: Indonesia M7.7 quake kills 51, displaces 5,000 on Flores Island (Al Jazeera)
+> A magnitude 7.7 earthquake struck off Flores Island, East Nusa Tenggara at 5:58am local time Saturday, killing at least 51 people and injuring over 100; rescuers were still digging through rubble and landslides on Sunday. About 5,000 people were displaced and more than 1,300 homes damaged as 341 aftershocks followed, cutting roads and prompting helicopter airlifts to isolated communities. Both Singapore and Malaysia are closely monitoring the disaster in their immediate neighbourhood — Indonesia's deadliest quake in years and the worst to hit East Nusa Tenggara province since the 2018 Lombok quake. [Al Jazeera](https://www.aljazeera.com/news/2026/8/16/indonesias-magnitude-7-7-quake-kills-at-least-51-displaces-thousands)
+
+> [!note]- Malaysia: ASEAN Cup 2026 semi-final tonight — Malaysia hosts Vietnam at KL Stadium, 9pm local (Vietnam.vn)
+> Malaysia and Vietnam clash in the first leg of the ASEAN Cup 2026 semi-finals at Kuala Lumpur Stadium tonight, kick-off 9pm local time (8pm Vietnam time). Vietnam enters as defending champions and unbeaten Group A toppers — 13 goals scored, just one conceded — making them narrow favourites heading into the two-leg tie. The return leg takes place August 19 at Hanoi's My Dinh Stadium, with the aggregate winner advancing to the ASEAN Cup 2026 Final. [Vietnam.vn](https://www.vietnam.vn/en/ngay-16-8-viet-nam-da-ban-ket-tai-malaysia)
+
+> [!breaking]- World: Ukraine's largest aerial assault — 600 drones target Russia, killing 6; Wildberries ablaze (CBS News)
+> Ukraine launched approximately 600 drones overnight into Russian territory in one of the largest aerial attacks of the war, striking Moscow's outskirts, the Rostov region, and sparking a massive blaze at a Wildberries warehouse in Podolsk. At least six people were killed — five in Rostov and one in the Moscow region — with drones also hitting a missile fuel production facility in Rostov and damaging homes, a railway station, and setting off a forest fire. Russia's Defence Ministry claimed to have downed 822 Ukrainian drones over the night; the scale of the assault signals a significant escalation in Kyiv's long-range strike campaign. [CBS News](https://www.cbsnews.com/news/ukraine-moscow-russia-drone-attack-largest-wildberries/)
+
+> [!note]- World: Polish tourist bus overturns in Hungary, kills 12; driver suspected of falling asleep (Al Jazeera)
+> A bus carrying 57 Polish pilgrims returning from Bosnia-Herzegovina overturned on Hungary's M3 motorway near Mezokeresztes, 140km east of Budapest, killing 12 people and injuring at least 37 others. Police say the driver — who has been detained — likely fell asleep at the wheel, causing the vehicle to swerve into a roadside ditch and tip over. It is Hungary's deadliest road accident since 2003, when a train struck a German tourist bus at Siofok, killing 33. [Al Jazeera](https://www.aljazeera.com/news/2026/8/16/at-least-12-people-killed-in-hungary-bus-crash)
+
+> [!note]- Tech: EU AI identity disclosure rules now live; AI agents cross from demo to mass production (ETC Journal)
+> Europe's first continent-wide AI transparency mandate — requiring AI systems to declare themselves to the humans they interact with — entered force on August 2 under the EU AI Act, marking the regulation's inaugural consumer-facing enforcement milestone. Separately, August 2026 has become the tipping point where AI agents that autonomously browse, write code, manage files, and coordinate with other models have crossed from proof-of-concept into mass production, running live at thousands of companies globally. Open-source models led by Meta's Llama family are rapidly closing the capability gap with proprietary frontier APIs, intensifying the competitive landscape. [ETC Journal](https://etcjournal.com/2026/08/01/august-2026-where-ai-is-headed-in-next-5-years/)
+
+> [!note]- Economy: Global stocks steady on cool US CPI, trimming Fed hike odds; IMF 2026 world growth at 3.0% (Rio Times / IMF)
+> Global equities held steady as cooler-than-expected US inflation reduced the probability of a September Fed rate hike, softening the dollar and supporting risk appetite across markets. The IMF's July 2026 World Economic Outlook projects global growth at 3.0% for 2026 and 3.4% for 2027 — a resilient baseline despite the Iran-US conflict's drag on energy importers and Strait of Hormuz trade-route disruption. AI-driven productivity in tech-integrated economies is providing an offset, though the recovery remains uneven across regions. [Rio Times](https://www.riotimesonline.com/global-economy-briefing-august-15-2026/)
 
 > [!note]- [[08-15-26 Sat]]
 > > [!note]- AI: Meta releases Muse Glimmer — 30B multimodal agent, Apache 2.0, runs on single GPU under 20GB (AI News)
