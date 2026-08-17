@@ -104,8 +104,8 @@ unread: true
 > [!note]- Science: Solar filament arrives today — G1 geomagnetic storm possible; black hole stellar shredding observed (EarthSky / ScienceDaily)
 > A solar filament that erupted on August 14 is estimated to reach Earth on August 17, potentially triggering a G1 (minor) geomagnetic storm with aurora displays visible at mid-to-high latitudes. Separately, astronomers witnessed a black hole violently shredding a massive star in one of the most energetic stellar explosions ever recorded, while a new study confirmed COVID-19 can reactivate dormant viruses including Epstein-Barr and cytomegalovirus. [EarthSky](https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/) / [ScienceDaily](https://www.sciencedaily.com/)
 
-> [!note]- NKE: $40.73 (Fri close, US mkt opens Mon) — P&L ≈ −$1,424 on 46 shares; div ex-date Sep 1 (Yahoo Finance)
-> Nike closed at $40.73 on Friday — US markets open Monday — hovering just above the 52-week low of $40.00 with no near-term catalyst. JPMorgan maintains Underweight/$40, CAO Johanna Nielsen exits in September, and weak China and consumer-channel demand weigh on the stock. The 46-share position at $71.69 avg cost carries an unrealised loss of approximately −$1,424 (46 × −$30.96). A $0.41 dividend goes ex on September 1, 2026; next earnings September 24. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
+> [!breaking]- NKE: $39.41 NEW 52-wk low, −3%+; P&L ≈ −$1,485; On Holding dragged sector (Benzinga)
+> Nike hit a new 52-week low of $39.41 on Monday, falling more than 3% and breaking below the previously cited $40.00 floor — dragged down by weak revenue guidance from competitor On Holding AG, which triggered a sector-wide sell-off in premium athletic footwear. JPMorgan's Underweight target of $40 is now above the live price; CAO Johanna Nielsen exits in September and China/consumer demand headwinds persist. The 46-share position at $71.69 avg cost carries an unrealised loss of approximately −$1,485 (46 × −$32.28). Ex-dividend September 1 ($0.41); next earnings September 24, 2026. [Benzinga](https://www.benzinga.com/trading-ideas/movers/26/08/61253196/why-is-nike-stock-falling-on-monday)
 
 > **Morning update**
 
@@ -187,6 +187,11 @@ unread: true
 
 > [!note]- Economy: Fed hike odds cool to ~30% on weak retail data; Brent at $88.50 on Iran war premium; China July data due (Rio Times)
 > Federal Reserve rate-hike odds for September cooled to roughly 30% after soft US retail sales and weak consumer sentiment last week, reducing dollar pressure and supporting risk assets globally. Oil continues to hold its war premium with Brent crude near $88.50 a barrel — up 6% last week — as the Iran-US conflict keeps Strait of Hormuz supply fears elevated. China's July activity data is due today, with forecasts centred on industrial output growth of 4.8% and retail sales growth of just 1.5%, reflecting ongoing domestic consumption headwinds. [Rio Times](https://www.riotimesonline.com/global-economy-briefing-august-17-2026/)
+
+> **Late evening update**
+
+> [!breaking]- Tech: Anthropic Q2 revenue $11.5B (14× YoY); IPO at $2T valuation targeting Sept/Oct (TechStartups / Yahoo)
+> Anthropic's preliminary Q2 2026 revenue surged to $11.5 billion — up 14× from $787 million a year ago — making it one of the fastest-growing companies in tech history and sending chipmakers including Nvidia sharply higher on Monday. The AI safety lab is planning to go public as early as September or October 2026, with investors reportedly targeting a $2 trillion valuation, which would rank it among the largest IPOs on record. Separately, Stripe finalised a $7 billion acquisition of AI model-routing gateway OpenRouter — a >5× markup on its May 2026 $1.3B Series B — consolidating payment infrastructure with frontier model access in a single platform. [TechStartups](https://techstartups.com/2026/08/17/top-tech-news-today-august-17-2026-ge-microsoft-nvidia-open-stripe-unitree-more/) / [Yahoo Finance](https://finance.yahoo.com/technology/live/tech-stocks-today-anthropics-huge-haul-meta-trial-to-kick-off-132945569.html)
 
 > [!note]- [[08-15-26 Sat]]
 > > [!note]- AI: Meta releases Muse Glimmer — 30B multimodal agent, Apache 2.0, runs on single GPU under 20GB (AI News)
