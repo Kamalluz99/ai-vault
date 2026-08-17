@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-08-17T05:12
+updated: 2026-08-17T19:09
 topic: daily news
 frequency: daily
 ongoing: false
@@ -144,6 +144,26 @@ unread: true
 
 > [!note]- Malaysia: ASEAN Cup SF — Vietnam 2-0 Malaysia (Son header, Faris own goal); return leg Aug 19 Hanoi (VnExpress)
 > Vietnam claimed a commanding 2-0 first-leg advantage over Malaysia at Kuala Lumpur Stadium in the ASEAN Cup 2026 semi-finals. Nguyễn Xuân Son's diving header in first-half stoppage time opened the scoring, and Faris Danish's own goal four minutes from time sealed the result for the defending champions. Malaysia must score at least three goals in Hanoi on August 19 — without conceding — to overturn the deficit and reach the final. [VnExpress](https://e.vnexpress.net/evolution/football/asean-cup-semifinal-malaysia-0-1-vietnam-5109751.html)
+
+> **Evening update**
+
+> [!note]- SG & Malaysia: Singapore, Malaysia deepen multilateral diplomacy; JS-SEZ investments top RM76.9B (Indiplomacy)
+> Malaysia's High Commissioner Datin Paduka Anizan Siti Hajjar Adnin paid an introductory call on Singapore's MFA Director-General on August 12, exchanging views on multilateral diplomacy and UN-related developments — a fresh sign of strengthening bilateral institutional links. Singapore's High Commissioner Vanu Gopala Menon hailed the "so interconnected" relationship between both nations at Singapore's 61st National Day celebrations last week. The flagship Johor-Singapore Special Economic Zone now counts RM76.9 billion in approved investments with 57% already underway, ahead of a formal master plan launch in December 2026. [Indiplomacy](https://indiplomacy.com/2026/08/14/malaysia-and-singapore-deepen-cooperation-on-international-peace-and-multilateralism/)
+
+> [!note]- Malaysia: BYD, XPENG and MG begin local EV assembly — Malaysia emerges as SEA's EV factory floor (Newswav)
+> Malaysia is quietly positioning itself as Southeast Asia's right-hand-drive EV assembly and export hub, with the first locally assembled XPENG G6 rolling off the line at EP Manufacturing in Melaka and MG's S5 EV following suit — while BYD's Tanjong Malim plant is set to begin production in 2026. The Proton e.MAS 5 currently leads local EV registrations in 2026 and total EV sales rose 130% to 8,570 units in 2024. Malaysia's strategy centres on serving Chinese automakers seeking a right-hand-drive foothold in ASEAN markets rather than competing with Indonesia on battery minerals or Thailand on traditional automotive scale. [Newswav](https://newswav.com/article/malaysia-is-quietly-becoming-southeast-asia-s-ev-factory-floor-A2607_w8HYNi)
+
+> [!note]- World: Indonesia quake rescue reaches cut-off Flores villages; 51 dead, 5,000 displaced (Al Jazeera)
+> Rescue crews reached villages isolated by landslides and road damage following Saturday's magnitude 7.7 earthquake on Flores Island in East Nusa Tenggara — 341 aftershocks have hampered operations and more than 1,300 homes were damaged. Helicopter airlifts are supplying cut-off communities as authorities confirm 51 dead and over 100 injured, with the toll expected to rise as teams reach more remote areas. It is the deadliest quake to hit the province since the 2018 Lombok earthquake, drawing a broad national emergency response. [Al Jazeera](https://www.aljazeera.com/news/2026/8/16/indonesias-magnitude-7-7-quake-kills-at-least-51-displaces-thousands)
+
+> [!note]- World: Trump welcomes Mecca Joint Defense Pact signed by Türkiye, Pakistan and Saudi Arabia (WNG)
+> US President Donald Trump welcomed the signing of the Mecca Joint Defense Agreement between Türkiye, Pakistan, and Saudi Arabia — a significant new security alliance between Muslim-majority nations that reshapes Middle East and South Asian power dynamics. The pact emerges as the Iran-US confrontation over the Strait of Hormuz dominates global attention, positioning Saudi Arabia in a new three-way strategic partnership outside its traditional US security umbrella. Analysts are watching the agreement as a potential counterweight to Iranian regional influence and an indicator of shifting allegiances amid the ongoing Hormuz crisis. [WNG](https://wng.org/podcasts/monday-morning-news-august-17-2026-1786841193)
+
+> [!note]- Tech: Google Gemini 3.7 Flash launches, coding benchmarks leap; OpenAI opens Ultrafast GPT-5.6 Sol preview (LLM Stats)
+> Google released Gemini 3.7 Flash — three weeks after 3.6 Flash — pushing FrontierCode 1.1 from 34.4% to 43.6% and DeepSWE v1.1 from 49% to 65.3%, with introductory pricing at $0.75/$3.75 per million tokens through December 31 before reverting to standard rates. OpenAI simultaneously opened a limited API preview of Ultrafast mode for GPT-5.6 Sol, powered by Cerebras hardware, delivering approximately 750 output tokens per second — 14× standard throughput — at Sol's full benchmark intelligence level. The parallel releases mark an unusually concentrated burst of frontier model improvements in a single news cycle. [LLM Stats](https://llm-stats.com/llm-updates)
+
+> [!note]- Economy: Fed hike odds cool to ~30% on weak retail data; Brent at $88.50 on Iran war premium; China July data due (Rio Times)
+> Federal Reserve rate-hike odds for September cooled to roughly 30% after soft US retail sales and weak consumer sentiment last week, reducing dollar pressure and supporting risk assets globally. Oil continues to hold its war premium with Brent crude near $88.50 a barrel — up 6% last week — as the Iran-US conflict keeps Strait of Hormuz supply fears elevated. China's July activity data is due today, with forecasts centred on industrial output growth of 4.8% and retail sales growth of just 1.5%, reflecting ongoing domestic consumption headwinds. [Rio Times](https://www.riotimesonline.com/global-economy-briefing-august-17-2026/)
 
 > [!note]- [[08-15-26 Sat]]
 > > [!note]- AI: Meta releases Muse Glimmer — 30B multimodal agent, Apache 2.0, runs on single GPU under 20GB (AI News)
