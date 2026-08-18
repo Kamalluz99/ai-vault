@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-08-19T05:07
+updated: 2026-08-19T05:10
 topic: daily news
 frequency: daily
 ongoing: false
@@ -80,6 +80,9 @@ unread: true
 
 > [!note]- Science: Stanford finds immune cells breach the blood-brain barrier from middle age onwards (ScienceDaily)
 > Stanford researchers have found that large numbers of immune cells from the bloodstream begin penetrating the blood-brain barrier as early as middle age — overturning the longstanding assumption that this boundary holds firm throughout adult life. The infiltrating immune cells appear to spark the chronic neuroinflammation associated with Alzheimer's, Parkinson's, and other neurodegenerative conditions, opening potential new therapeutic targets. [ScienceDaily](https://www.sciencedaily.com/news/health_medicine/)
+
+> [!note]- NKE: $39.26 (Tue range $38.86–$40.60) — P&L ≈ −$1,492 on 46 shares; weak demand, turnaround scrutiny, div ex-date Sep 1 (Yahoo Finance)
+> Nike traded in a $38.86–$40.60 range on Tuesday with a reported price of ~$39.26 — a marginal recovery from Monday's 4% drop to $39.10. Weak Greater China demand, digital marketing headwinds, and leadership uncertainty (CAO Johanna Nielsen exits September) remain overhangs. The 46-share position at $71.69 avg cost carries an unrealised loss of ~−$1,492 (46 × −$32.43). Dividend ex-date September 1 ($0.41); next earnings September 24, 2026. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
 
 > [!note]- [[08-18-26 Tue]]
 
