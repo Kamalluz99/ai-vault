@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-08-18T19:06
+updated: 2026-08-19T05:07
 topic: daily news
 frequency: daily
 ongoing: false
@@ -61,7 +61,27 @@ unread: true
 
 ## 2026-08
 
-### [[08-18-26 Tue]]
+### [[08-19-26 Wed]]
+
+> [!note]- AI: White House finalises voluntary AI safety framework with top labs (Spectrum News)
+> The White House has finalised a voluntary federal regulatory framework for advanced AI models, with roughly a dozen companies — including Anthropic, OpenAI, Google, and Meta — confirming participation at a summit in early August 2026. The framework sets expectations for safety reporting, incident-response coordination, and pre-deployment evaluations without imposing hard legislative limits — marking a significant step toward soft governance amid a stalled Congress. [Spectrum News](https://spectrumlocalnews.com/nys/central-ny/politics/2026/08/04/source--voluntary-federal-regulatory-framework-for-advanced-ai-models-finalized)
+
+> [!note]- Tech: Intuit cuts ~3,000 jobs (17% of workforce); AI drives 175K+ tech layoffs in 2026 (InformationWeek)
+> Intuit has announced roughly 3,000 layoffs — about 17% of its global workforce — the latest in a sweeping 2026 tech-sector restructuring that has seen 539 documented layoffs affecting over 175,000 workers. AI has emerged as the single largest cited driver, with Monday.com, Visa (2,600 cuts), and Rapid7 (12% reduction) all citing automation or headcount rebalancing alongside AI investment. [InformationWeek](https://www.informationweek.com/it-staffing-careers/2026-tech-company-layoffs)
+
+> [!note]- Macro: FOMC minutes due today; crypto stocks surge, VIX climbs 6.6% to 15.19 (Saxo Markets)
+> Markets are on edge ahead of today's FOMC minutes release, with traders watching for any signal that sticky inflation could reignite rate-hike expectations. Crypto-related stocks led gains — Strategy +5.0%, Marathon +5.6%, Riot +5.4% — while gold firmed and oil nudged higher as Strait of Hormuz reopening prospects remain uncertain. Volatility ticked up with VIX rising 6.6% to 15.19, reflecting cautious positioning ahead of the minutes. [Saxo Markets](https://www.home.saxo/content/articles/macro/market-quick-take---18-august-2026-18082026)
+
+> [!breaking]- World: US-Iran ceasefire rests on Hormuz pledge Tehran hasn't endorsed (CNN / Modern Diplomacy)
+> A fragile pause in the five-month US-Israel-Iran war hinges on an unconfirmed Iranian pledge to fully reopen the Strait of Hormuz and end its nuclear programme — conditions Tehran has not itself endorsed, leaving the ceasefire structurally unstable. Jared Kushner is conducting shuttle diplomacy with regional leaders including Israeli PM Netanyahu, while Yemen escalated its Houthi campaign and Israel struck Hezbollah targets in Lebanon. Analysts project a renewed US-Israel strike on Iran is highly likely before the November 2026 US midterms if talks collapse. [CNN](https://www.cnn.com/2026/08/16/world/live-news/iran-war-trump) / [Modern Diplomacy](https://moderndiplomacy.eu/2026/08/17/the-u-s-and-iran-will-fight-again-before-the-mid-terms/)
+
+> [!note]- Malaysia: Sepang F1 GP confirmed October 2–4 — Malaysia returns to Formula 1 calendar (The Star)
+> The Sepang International Circuit has secured a 2026 Formula 1 race slot on October 2–4 following a deal that also preserves the Bahrain Grand Prix on the calendar. Malaysia's return to F1 after years off the roster is a major boost for Selangor's tourism and motorsport industries, and reflects the government's push to revive Sepang as a premier international events venue. [The Star](https://www.thestar.com.my/)
+
+> [!note]- Science: Stanford finds immune cells breach the blood-brain barrier from middle age onwards (ScienceDaily)
+> Stanford researchers have found that large numbers of immune cells from the bloodstream begin penetrating the blood-brain barrier as early as middle age — overturning the longstanding assumption that this boundary holds firm throughout adult life. The infiltrating immune cells appear to spark the chronic neuroinflammation associated with Alzheimer's, Parkinson's, and other neurodegenerative conditions, opening potential new therapeutic targets. [ScienceDaily](https://www.sciencedaily.com/news/health_medicine/)
+
+> [!note]- [[08-18-26 Tue]]
 
 > [!note]- AI: Anthropic raises catastrophic-misalignment risk to 'low' in August report; 81% of young Americans distrust AI CEOs (Mintz / CNBC)
 > Anthropic's August 2026 safety update elevated its catastrophic-misalignment rating from 'very low' to 'low,' citing increased overall uncertainty rather than any specific failed test — the first change to this classification since the framework launched. A CNBC/Generation Labs survey of 1,000+ Americans aged 18–34 found 81% don't trust Palantir's Alex Karp to act responsibly on AI, followed by Thiel (79%), Zuckerberg (71%), Musk (70%), and Altman (69%); 45% believe AI will hurt their careers. [Mintz](https://www.mintz.com/insights-center/viewpoints/54941/2026-08-07-ai-washington-report-august-2026-edition)
