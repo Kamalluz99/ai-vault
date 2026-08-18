@@ -126,6 +126,17 @@ unread: true
 
 > [!note]- Economy: S&P 500 slips 0.52% to 7,745; gold firms at $4,398/oz as Fed holds rate stance (CNBC)
 > US equities pulled back modestly on Tuesday, with the S&P 500 falling 0.52% to 7,745 and the Dow losing 0.51% to 53,460, even as markets remain near record highs following three consecutive weekly gains. Gold rose 0.51% to $4,398/oz on safe-haven demand, while the dollar index edged down 0.11% to 99.561. Traders are broadly pricing the Federal Reserve as holding rather than hiking at its next meeting, with FOMC minutes and upcoming Fed commentary now in focus for any sign that sticky inflation could reignite rate-hike expectations. [CNBC](https://www.cnbc.com/2026/08/16/stock-market-today-live-updates-.html)
+>
+> **Night update**
+>
+> [!breaking]- World: Trump threatens to bomb Oman as 60-day Iran deal deadline expires (CBS News)
+> The 60-day negotiation window agreed in June 2026 closed August 17 without resolution to the US-Iran war, and President Trump threatened in a Fox News interview to "bomb the shit out of" Oman if the Gulf state "gets in the way" of a Strait of Hormuz settlement — directed at Oman's separate memorandum with Tehran. Iran has effectively closed the waterway since February 28, and with whipsawing fuel prices and growing Republican unease ahead of November's midterms, Trump faces mounting domestic pressure to break the stalemate. The threat drew warnings from Oman's foreign ministry and sharp criticism from Gulf allies. [CBS News](https://www.cbsnews.com/live-updates/us-iran-war-deal-expired-strait-of-hormuz/) / [Al Jazeera](https://www.aljazeera.com/news/2026/8/18/why-has-trump-threatened-to-bomb-oman-for-a-second-time)
+>
+> [!note]- Malaysia/Singapore: Singapore tightens anti-scam rules on WhatsApp, Telegram, WeChat (Mothership SG)
+> Singapore's Online Criminal Harms Act codes of practice took effect today, requiring seven high-risk messaging platforms — WhatsApp, Telegram, WeChat, Apple iMessage, Apple FaceTime, Google Messages, and Google Meet — to block users from being added to group chats by unknown contacts without consent. Facebook, Instagram, TikTok, and e-commerce platforms like Carousell must tighten advertiser-verification procedures; full compliance is due by January 31, 2027, with anti-government-spoofing measures by end-September. Singapore lost over S$2.8 billion to scams between 2020 and mid-2025. [Mothership SG](https://mothership.sg/2026/08/social-media-implement-new-safeguards/)
+>
+> [!note]- Science: Sophie Adenot becomes first French woman to perform a spacewalk (ESA / SciTechDaily)
+> ESA astronaut Sophie Adenot conducted an extravehicular activity on August 18, becoming the first French woman in history to perform a spacewalk — a milestone for Europe's space programme since her ISS arrival in February 2026. Adenot completed external maintenance tasks alongside a fellow crew member during a multi-hour EVA. Separately, new JWST data revealed Jupiter's moon Callisto is geologically more active than previously believed, opening new questions for ocean-world science. [ESA](https://www.esa.int/) / [SciTechDaily](https://scitechdaily.com/)
 
 > [!note]- [[08-17-26 Mon]]
 
