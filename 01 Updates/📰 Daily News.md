@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-08-18T05:07
+updated: 2026-08-18T19:06
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,26 @@ unread: true
 
 > [!note]- NKE: $39.10 (−4.01%, −$1.63 Mon close) — P&L ≈ −$1,499 on 46 shares; tariff headwinds + weak demand (Yahoo Finance)
 > Nike dropped 4.01% to $39.10 on Monday — a steep single-day fall — as tariff refunds rolling out to rival brands boost competitor margins while weak consumer demand continues to weigh. Leadership uncertainty (CAO Johanna Nielsen departing September) and JPMorgan's Underweight/$40 target remain overhangs. The 46-share position at $71.69 avg cost carries an unrealised loss of approximately −$1,499 (46 × −$32.59). Dividend ex-date September 1, 2026; next earnings September 24. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
+
+> **Evening update**
+
+> [!breaking]- SG & MY: SIIA issues rare Red haze alert — El Niño blocks cloud seeding across region (Malay Mail)
+> Southeast Asia's transboundary haze crisis has deepened with the Singapore Institute of International Affairs issuing its Red haze alert for 2026 — only the second since the report launched in 2019 — designating August–September as the peak danger window for a severe episode affecting Malaysia, Singapore, and Brunei. El Niño has stripped rain-bearing clouds over Sumatra and Kalimantan, making cloud seeding physically impossible through mid-August, as south-westerly monsoon winds carry wildfire smoke north-westward. Eleven of Malaysia's 68 air-quality monitoring stations recorded "unhealthy" API readings by August 14, with Sarawak and the Klang Valley hardest hit. [Malay Mail](https://www.malaymail.com/news/malaysia/2026/08/17/haze-returns-what-malaysians-need-to-know-as-air-quality-deteriorates/231225)
+
+> [!note]- Malaysia: Budget 2027 to centre on middle-income relief, PM Anwar says (The Edge Malaysia)
+> Prime Minister Datuk Seri Anwar Ibrahim announced that easing cost-of-living pressures on Malaysia's middle-income group will be the central pillar of Budget 2027, due to be tabled later this year. Anwar acknowledged this demographic — too affluent for most welfare programmes yet too stretched to absorb rising prices — has been underserved by past budgets. The focus signals a political pivot ahead of GE16, as cost-of-living anxieties dominate voter sentiment nationwide. [The Edge Malaysia](https://theedgemalaysia.com/)
+
+> [!breaking]- World: Trump orders Pentagon to substantially reduce US-South Korea joint military drills (NPR)
+> President Trump ordered the Pentagon on Monday to "substantially reduce" the annual Ulchi Freedom Shield exercises with South Korea — calling the drills "hostile" to North Korea and blaming Seoul's refusal to assist in the US-Iran conflict. The announcement arrived hours before the 11-day exercise was set to begin with 18,000 US and South Korean troops; Seoul's defence ministry said drills are "proceeding as planned" despite Trump's directive. The unilateral scaling-back marks the most significant shake-up of US alliance posture in Northeast Asia since Trump's first term, further straining ties with a key treaty ally. [NPR](https://www.npr.org/2026/08/17/g-s1-138969/trump-exercises-south-korea)
+
+> [!note]- World: US envoy meets Israeli PM on Gaza governance as ceasefire talks resume (Euronews)
+> A US special envoy held talks with Israeli Prime Minister Benjamin Netanyahu on Monday on the long-term governance future of Gaza, with Washington pushing for a political roadmap that sidelines Hamas before any reconstruction begins. Egypt and Qatar remain active as ceasefire mediators, and a broader hostage-release deal is reportedly tied to agreement on the governance framework. The renewed diplomatic activity follows weeks of stalled negotiations, with international pressure mounting to prevent a humanitarian collapse in the territory. [Euronews](https://www.euronews.com/news/international)
+
+> [!note]- Tech: Stripe acquires OpenRouter for $7B+ — a 5× premium on its 3-month-old valuation (Bloomberg)
+> Stripe has finalised a deal to acquire OpenRouter — an AI gateway routing requests across 400+ models from OpenAI, Anthropic, Google, Meta, and DeepSeek — for over $7 billion, a more-than-5× premium on its $1.3B Series B valuation from just three months ago in May 2026. OpenRouter reportedly processed roughly 1.5 quadrillion tokens in the past year, serving some 8 million developers globally. Stripe plans to embed OpenRouter's model-routing and billing infrastructure into its AI economic layer, positioning itself as the payments backbone for the AI era. [Bloomberg](https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion)
+
+> [!note]- Economy: S&P 500 slips 0.52% to 7,745; gold firms at $4,398/oz as Fed holds rate stance (CNBC)
+> US equities pulled back modestly on Tuesday, with the S&P 500 falling 0.52% to 7,745 and the Dow losing 0.51% to 53,460, even as markets remain near record highs following three consecutive weekly gains. Gold rose 0.51% to $4,398/oz on safe-haven demand, while the dollar index edged down 0.11% to 99.561. Traders are broadly pricing the Federal Reserve as holding rather than hiking at its next meeting, with FOMC minutes and upcoming Fed commentary now in focus for any sign that sticky inflation could reignite rate-hike expectations. [CNBC](https://www.cnbc.com/2026/08/16/stock-market-today-live-updates-.html)
 
 > [!note]- [[08-17-26 Mon]]
 
