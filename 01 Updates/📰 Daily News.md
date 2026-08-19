@@ -123,6 +123,14 @@ unread: true
 >
 > > [!note]- Economy: AI boom and energy shocks bifurcate SE Asia's 2026 growth (FMT)
 > > Southeast Asia's economic growth is splitting along a fault line defined by AI investment exposure and energy resilience: Singapore and Malaysia are expanding faster than regional peers, lifted by semiconductor demand and their integration into global technology supply chains. Singapore's MTI upgraded its 2026 growth forecast as AI-linked capital expenditure accelerated, with Malaysia similarly buoyed by strong electronics exports. Economies without meaningful tech-manufacturing integration risk falling further behind as AI investment reshapes global growth geography. [Free Malaysia Today](https://www.freemalaysiatoday.com/category/business/2026/08/19/ai-boom-energy-shocks-see-southeast-asia-growth-bifurcate)
+>
+> > **Night update**
+>
+> > [!note]- Macro: FOMC minutes — 3 Fed dissenters favoured July hike; rates held at 3.50–3.75% (Bloomberg)
+> > The July 28–29 FOMC minutes released today at 14:00 ET revealed a divided Federal Reserve: while the committee held rates at 3.50–3.75%, three regional Fed presidents — Logan, Hammack, and Kashkari — dissented in favour of a 25bps hike, citing insufficient progress on inflation. Chair Warsh reiterated commitment to price stability without explicit forward guidance; many participants signalled tightening would be necessary if inflation fails to cool. Markets reacted modestly — the dissent count was more hawkish than expected, though no immediate repricing occurred. [Bloomberg](https://www.bloomberg.com/news/articles/2026-08-19/fed-minutes-show-many-officials-said-rate-hikes-may-be-needed)
+>
+> > [!note]- NKE: $41.06 (+2.48% Wed close) — P&L ≈ −$1,409 on 46 shares; bounces from 52-wk low on oversold technicals (JournalArta)
+> > Nike closed Wednesday at $41.06 — up 2.48% on the session — recovering from Tuesday's $39.26 and Monday's 52-week low near $38.86, with the day range $40.37–$41.31. Analysts note the bounce came on no specific catalyst and caution that momentum indicators remain weak; the stock is still down ~39% year-to-date. The 46-share position at $71.69 avg cost carries an unrealised loss of ~−$1,409 (46 × −$30.63). Dividend ex-date September 1 ($0.41); next earnings September 24, 2026. [JournalArta](https://journalarta.com/en/2026/08/19/nke-stock-technicals-today-gains-2-48-momentum-weakens/)
 
 > [!note]- [[08-18-26 Tue]]
 
