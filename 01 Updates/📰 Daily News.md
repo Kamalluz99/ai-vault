@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-08-20T05:06
+updated: 2026-08-20T05:30
 topic: daily news
 frequency: daily
 ongoing: false
@@ -80,6 +80,9 @@ unread: true
 
 > [!note]- Science: JWST spots object shining 100 billion times brighter than a star from early universe (ScienceDaily)
 > Astronomers using the James Webb Space Telescope have identified an extraordinary object from just a few hundred million years after the Big Bang that shines roughly 100 billion times brighter than a typical star — far beyond what known stellar physics can explain. The discovery adds to a growing catalogue of unexpectedly luminous early-universe anomalies that challenge current models of cosmic evolution and galaxy formation. Researchers are investigating whether it represents an extreme quasar, a direct-collapse black hole, or evidence of new astrophysical processes. [ScienceDaily](https://www.sciencedaily.com/news/top/science/)
+
+> [!note]- NKE: $40.48 (+3.1% vs Tue close) — rebounds from 12-yr lows; Aroon downtrend flagged; P&L ≈ −$1,436 on 46 shares (Yahoo Finance)
+> Nike closed Wednesday at ~$40.48 (Aug 19 range: $40.20–$40.49), recovering roughly 3.1% from Tuesday's $39.26 close — though shares remain near 12-year lows, down 39% YTD after hitting an Aroon-signalled downward trend on August 18. Weak Greater China demand and leadership uncertainty (CAO Johanna Nielsen exits September) remain overhangs. The 46-share position at $71.69 avg cost carries an unrealised loss of approximately −$1,436 (46 × −$31.21). Dividend ex-date September 1 ($0.41); next earnings September 24, 2026. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
 
 > [!note]- [[08-19-26 Wed]]
 >
