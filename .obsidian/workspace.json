@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d6f762db01017923",
+        "id": "4cefd614a722e9d8",
         "type": "tabs",
         "children": [
           {
-            "id": "bbab8765bea529c4",
+            "id": "8544e87cb1313003",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -51,7 +51,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -166,21 +168,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CLAUDE.md",
+                "file": "01 Updates/📰 Daily News.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CLAUDE"
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "9a5f46e6d15616be",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,42 +206,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "bbab8765bea529c4",
+  "active": "593513c15346823e",
   "lastOpenFiles": [
-    "02 Daily/2026/06/06-11-26 Thu.md",
-    "02 Daily/2026/06/06-10-26 Wed.md",
-    "01 Updates/Yaqeen Institute.md",
-    "01 Updates/📰 Daily News.md.tmp.5475.d726368ac6cc",
+    "02 Daily/2026/08/08-18-26 Tue.md",
+    "02 Daily/2026/08/08-20-26 Thu.md",
     "01 Updates/📰 Daily News.md",
+    "02 Daily/2026/08/08-19-26 Wed.md",
+    "02 Daily/2026/08/08-17-26 Mon.md",
+    "02 Daily/2026/08/08-16-26 Sun.md",
+    "01 Updates/Yaqeen Institute.md",
+    "02 Daily/2026/08/08-15-26 Sat.md",
+    "02 Daily/2026/08/08-14-26 Fri.md",
+    "02 Daily/2026/08/08-13-26 Thu.md",
     "01 Updates/📌 Daily Brief.md",
+    "02 Daily/2026/08/08-12-26 Wed.md",
+    "conflict-files-obsidian-git.md",
+    "02 Daily/2026/08/08-11-26 Tue.md",
+    "02 Daily/2026/08/08-10-26 Mon.md",
+    "02 Daily/2026/08/08-09-26 Sun.md",
+    "02 Daily/2026/08/08-08-26 Sat.md",
+    "02 Daily/2026/08/08-07-26 Fri.md",
+    "02 Daily/2026/08/08-06-26 Thu.md",
+    "02 Daily/2026/08/08-05-26 Wed.md",
+    "02 Daily/2026/08/08-04-26 Tue.md",
+    "02 Daily/2026/08/08-03-26 Mon.md",
+    "02 Daily/2026/08/08-02-26 Sun.md",
+    "02 Daily/2026/08/08-01-26 Sat.md",
+    "02 Daily/2026/08",
+    "02 Daily/2026/07/07-31-26 Fri.md",
+    "02 Daily/2026/07/07-30-26 Thu.md",
+    "02 Daily/2026/07",
+    "books.base",
+    "01 Updates/📰 Daily News.md.tmp.5475.d726368ac6cc",
     "_Attachments/teh-slay-book-of-assistance/recording-1.mp3",
     "lta-mcp/server.py",
     "lta-mcp/requirements.txt",
     "lta-mcp",
-    "02 Daily/2026/06/06-09-26 Tue.md",
-    "02 Daily/2026/06/06-07-26 Sun.md",
-    "02 Daily/2026/06/06-05-26 Fri.md",
-    "02 Daily/2026/06/06-03-26 Wed.md",
     "_Attachments/teh-slay-book-of-assistance/recording-1.mp4",
-    "_Attachments/teh-slay-book-of-assistance/recording-2.mp4",
-    "_Attachments/teh-slay-book-of-assistance/recording-2.mp3",
-    "03 Meetings/2025/09-15-25 Mon Dr Omar Suleiman.md",
-    "_Attachments/teh-slay-book-of-assistance/recording-1.mp4.md",
-    "_Attachments/Dr Omar Suleiman - A Day in The Life/Part 3 - QnA (27 min).mp4",
-    "_Attachments/Dr Omar Suleiman - A Day in The Life/Part 2 - Session 2 (92 min).mp4",
-    "03 Meetings/Transcriptions/09-15-25 Mon Dr Omar Suleiman Transcript.md",
-    "03 Meetings/Transcriptions/06-06-26 Teh & Slay Reading Room - Recording 2.md",
-    "03 Meetings/Transcriptions/06-06-26 Teh & Slay Reading Room - Recording 1.md",
-    "02 Daily/2026/06/06-08-26 Mon.md",
-    "03 Meetings/2026/06-06-26 Sat Teh & Slay Reading Room.md",
-    "08 Summaries/Full Edit Page Breakdown - Max Gladysh.md",
-    "02 Daily/2026/06/06-06-26 Sat.md",
-    "04 People/Sheikh Amru Biridani.md",
-    "04 People/Habib Ali al-Jufri.md",
-    "04 People/Ustaz Asamud Nazali.md",
-    "08 Summaries/Yaqeen Institute/Summaries/The Many Virtues of Al-Quds (Jerusalem) — Ep. 1 — Al-Aqsa Series.md",
-    "04 People/Prophet Muhammad ﷺ.md",
-    "10 Places/Singapore.md",
-    "10 Places/Medina.md"
+    "_Attachments/teh-slay-book-of-assistance/recording-2.mp4"
   ]
 }

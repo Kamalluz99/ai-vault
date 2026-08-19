@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cfa613cd37466c04",
+        "id": "8a4870672dcf5007",
         "type": "tabs",
         "children": [
           {
-            "id": "9f378c3c7cc51ae6",
+            "id": "1ab9704b0e851835",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -47,7 +47,9 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": false
+            "autoReveal": false,
+            "showSearch": false,
+            "searchQuery": ""
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -177,11 +179,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "9f378c3c7cc51ae6",
+  "active": "6f8bc685e1711ab3",
   "lastOpenFiles": [
-    "PROJECTS.md",
+    "_Templates/new person template (minimal).md",
+    "_Templates/new person template.md",
     "01 Updates/📰 Daily News.md",
     "01 Updates/📌 Daily Brief.md",
+    "02 Daily/2026/07/07-22-26 Wed.md",
+    "02 Daily/2026/07/07-01-26 Wed.md",
+    "10 Places/Mecca.md",
+    "04 People/Abd al-Karim al-Jili.md",
+    "08 Summaries/The Book of Assistance.md",
+    "PROJECTS.md",
     "_Attachments/teh-slay-book-of-assistance/recording-1.mp3",
     "02 Daily/2026/06/06-04-26 Thu.md",
     "02 Daily/2026/06/06-06-26 Sat.md",
