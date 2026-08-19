@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-08-19T05:10
+updated: 2026-08-19T19:07
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,26 @@ unread: true
 
 > [!note]- NKE: $39.26 (Tue range $38.86–$40.60) — P&L ≈ −$1,492 on 46 shares; weak demand, turnaround scrutiny, div ex-date Sep 1 (Yahoo Finance)
 > Nike traded in a $38.86–$40.60 range on Tuesday with a reported price of ~$39.26 — a marginal recovery from Monday's 4% drop to $39.10. Weak Greater China demand, digital marketing headwinds, and leadership uncertainty (CAO Johanna Nielsen exits September) remain overhangs. The 46-share position at $71.69 avg cost carries an unrealised loss of ~−$1,492 (46 × −$32.43). Dividend ex-date September 1 ($0.41); next earnings September 24, 2026. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
+
+> **Evening update**
+
+> [!note]- SG & MY: EMA approves 900 MW electricity imports from Malaysia (SolarQuarter)
+> Singapore's Energy Market Authority has granted conditional approval for 900 MW of cross-border electricity imports from Peninsular Malaysia, with Sembcorp Utilities (300 MW) and Southern Solar Alliance (600 MW) as the approved suppliers. The electricity will primarily come from solar-plus-storage projects in Johor, targeting commercial operations around 2029 — strengthening Singapore's push to diversify its power mix with cleaner regional energy. The deal deepens bilateral energy cooperation as both countries accelerate their clean-energy transitions. [SolarQuarter](https://solarquarter.com/2026/08/19/southeast-asia-weekly-philippines-erc-advances-reforms-singapore-approves-900-mw-imports-equinix-signs-50-mwp-solar-ppa-shell-advances-30-mw-60-mwh-bess-philippines-erc-backs-nuclear-bill-and-mor/)
+
+> [!note]- Malaysia: Anwar says Taiwan is part of China; Taipei hits back (Malay Mail)
+> Malaysian PM Anwar Ibrahim told Al Jazeera he regards Taiwan as part of China and implied he would not condemn Beijing's use of force should reunification talks fail — drawing praise from China and a sharp rebuke from Taiwan's Foreign Ministry. Taipei warned the remarks "seriously endanger regional peace and stability" and could deter Taiwanese companies from investing in Malaysia. Anwar's stance reflects Malaysia's strategy of deepening ties with Beijing — its largest trading partner — ahead of the next general election. [Malay Mail](https://www.malaymail.com/news/malaysia/2026/08/19/quizzed-on-china-taiwan-relations-anwar-says-he-would-use-force-if-needed-to-prevent-malaysia-from-breaking-up-video/231905)
+
+> [!breaking]- World: US-Canada tariff deadline arrives — no deal in sight (Bloomberg)
+> The United States began enforcing a new round of tariffs on Canadian goods today after bilateral trade negotiations failed to produce an agreement by the August 19 deadline, marking a sharp escalation in one of the most disruptive trade disputes in recent US-Canada history. Ottawa has vowed retaliatory measures, and analysts warn the standoff could ripple through North American supply chains in autos, agriculture, and energy. The move adds another front to Washington's simultaneous trade pressures running alongside the Iran conflict and ongoing US-China tensions. [Bloomberg](https://www.bloomberg.com/news/articles/2026-08-19/anwar-s-taiwan-remarks-draw-praise-from-china-taipei-rebuke)
+
+> [!note]- World: Kushner meets Netanyahu on Gaza governance and hostage deal (Euronews)
+> US envoy Jared Kushner arrived in Jerusalem for talks with Israeli PM Benjamin Netanyahu on long-term governance for Gaza and a new framework for a hostage-release deal, as Washington presses for a post-Hamas political structure before reconstruction begins. Egypt and Qatar remain active mediators, and a ceasefire proposal is reportedly under review, though Israel's position on permanent governance arrangements has stalled earlier rounds. The renewed diplomatic push comes amid intensifying international pressure over Gaza's deteriorating humanitarian situation. [Euronews](https://www.euronews.com/news/international)
+
+> [!note]- Tech: Pony.ai logs 4,000+ overseas robotaxis in international push (AI Weekly)
+> Chinese autonomous-driving company Pony.ai announced that its planned and potential robotaxi deployments outside China now exceed 4,000 vehicles, signalling a far more aggressive international expansion than previously disclosed. The company is targeting cities across the Middle East and Southeast Asia with regulatory openness to autonomous ride-hailing, as it competes with Baidu Apollo domestically and Waymo globally. The announcement underscores how Chinese AV companies are racing to establish international footholds as the global robotaxi market accelerates. [AI Weekly](https://aiweekly.co/ai-news-today)
+
+> [!note]- Economy: AI boom and energy shocks bifurcate SE Asia's 2026 growth (FMT)
+> Southeast Asia's economic growth is splitting along a fault line defined by AI investment exposure and energy resilience: Singapore and Malaysia are expanding faster than regional peers, lifted by semiconductor demand and their integration into global technology supply chains. Singapore's MTI upgraded its 2026 growth forecast as AI-linked capital expenditure accelerated, with Malaysia similarly buoyed by strong electronics exports. Economies without meaningful tech-manufacturing integration risk falling further behind as AI investment reshapes global growth geography. [Free Malaysia Today](https://www.freemalaysiatoday.com/category/business/2026/08/19/ai-boom-energy-shocks-see-southeast-asia-growth-bifurcate)
 
 > [!note]- [[08-18-26 Tue]]
 
