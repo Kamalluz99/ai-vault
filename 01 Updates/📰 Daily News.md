@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-08-20T05:30
+updated: 2026-08-20T19:05
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,26 @@ unread: true
 
 > [!note]- NKE: $40.48 (+3.1% vs Tue close) — rebounds from 12-yr lows; Aroon downtrend flagged; P&L ≈ −$1,436 on 46 shares (Yahoo Finance)
 > Nike closed Wednesday at ~$40.48 (Aug 19 range: $40.20–$40.49), recovering roughly 3.1% from Tuesday's $39.26 close — though shares remain near 12-year lows, down 39% YTD after hitting an Aroon-signalled downward trend on August 18. Weak Greater China demand and leadership uncertainty (CAO Johanna Nielsen exits September) remain overhangs. The 46-share position at $71.69 avg cost carries an unrealised loss of approximately −$1,436 (46 × −$31.21). Dividend ex-date September 1 ($0.41); next earnings September 24, 2026. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
+
+> **Evening update**
+
+> [!note]- SG & MY: Indonesia haze returns — Kuching hits world's worst air quality (Eco-Business / Mongabay)
+> Indonesia's intensifying wildfire season has sent transboundary haze across Sarawak and into Singapore, with Kuching briefly recording the worst air pollution of any major city globally in early August. API readings exceeded 200 in Tebedu district near the Malaysia-Indonesia border, forcing school closures and online learning for six schools in Sarawak. Indonesia has deployed 43 helicopters and 15 fixed-wing aircraft to fight the fires, but El Niño-weakened cloud cover is hampering cloud-seeding efforts. [Eco-Business](https://www.eco-business.com/news/indonesias-wildfires-intensify-as-haze-spreads-into-malaysia/) / [Mongabay](https://news.mongabay.com/2026/08/indonesias-wildfire-season-surges-as-haze-spreads-into-malaysia/)
+
+> [!note]- Malaysia: Defence Minister calls for higher military spending amid cyber and info threats (The Star)
+> Malaysian Defence Minister Datuk Seri Mohamed Khaled Nordin announced plans to bolster the country's defence preparedness, citing growing non-conventional threats including cyberattacks, electromagnetic interference, and mass misinformation campaigns alongside conventional regional security risks. The minister said the case for higher defence spending was driven by this evolving threat landscape, though no specific budget figure was disclosed. The statement signals a broadening of Malaysia's strategic defence doctrine as geopolitical tensions in the region intensify. [The Star](https://www.thestar.com.my/news/nation/2026/08/20/malaysia-to-boost-defence-readiness)
+
+> [!note]- World: Israel strikes Syrian airbase 8 times to block Turkish troop deployment (Al Jazeera / OPB)
+> Israeli warplanes carried out eight air strikes on Abu al-Duhur airbase near Aleppo in northwestern Syria on August 18, targeting the runway and storage facilities in what appeared to be Israel's first strike on Syrian government assets since March. Israel said it aimed to prevent Turkish troops from deploying at the site, citing a recent visit by a Turkish military delegation; no casualties were reported. Both Turkey and a US envoy condemned the attack as an "unnecessary escalation," heightening tensions among Israel, Turkey, and the Syrian government. [Al Jazeera](https://www.aljazeera.com/news/2026/8/18/eight-air-strikes-hit-airbase-in-syrias-idlib) / [OPB](https://www.opb.org/article/2026/08/19/israel-strikes-an-air-base-in-northwest-syria/)
+
+> [!note]- World: India's Gen Z "cockroach" movement shakes country's political establishment (WORLD)
+> Youth-led protests sparked by India's education policy and soaring unemployment have escalated into a nationwide movement, with Gen Z leaders branding themselves the "cockroach" faction — invoking the insect's resilience — to challenge India's entrenched political parties. The movement has disrupted traditional party structures across multiple states and drawn comparisons to the Arab Spring in its social-media-driven coordination. Political analysts describe it as the most significant generational challenge to India's ruling establishment in decades. [WORLD](https://wng.org/podcasts/thursday-morning-news-august-20-2026-1787156030)
+
+> [!note]- Tech: Singapore captures 99% of SE Asia AI startup funding at US$9.3B in 2026 (Eco-Business)
+> Singapore-based AI companies have raised US$9.3 billion across 227 funding rounds in 2026, effectively capturing 99% of all AI startup investment in Southeast Asia, while Vietnam, Malaysia, Indonesia, and Thailand together attracted less than US$40 million. The funding gap reflects Singapore's mature investor ecosystem, regulatory clarity, and concentration of global tech talent. Analysts warn the disparity could widen unless neighbouring economies accelerate university-to-industry pipelines and improve venture capital access for AI startups. [Eco-Business](https://www.eco-business.com/news/singapore-dominates-southeast-asia-ai-funding-as-investment-surges/)
+
+> [!note]- Economy: US Treasury doubles long-bond buybacks as 30-yr yield hits 17-yr high; Jackson Hole next (Rio Times)
+> The US Treasury announced it will double the size of its long-dated debt buyback operations starting September, pulling the 30-year yield back from its highest level since 2007 and nudging the 10-year yield to 4.65%. Markets are now focused on the Jackson Hole symposium on August 27–29, where PMI data and Fed commentary could shift expectations for further rate action. Elevated energy prices from the Hormuz standoff and sticky inflation are pressuring economic activity in both the US and Europe, keeping central banks in a cautious holding pattern. [Rio Times](https://www.riotimesonline.com/global-economy-briefing-august-20-2026/)
 
 > [!note]- [[08-19-26 Wed]]
 >
