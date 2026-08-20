@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-08-20T19:05
+updated: 2026-08-20T21:09
 topic: daily news
 frequency: daily
 ongoing: false
@@ -103,6 +103,17 @@ unread: true
 
 > [!note]- Economy: US Treasury doubles long-bond buybacks as 30-yr yield hits 17-yr high; Jackson Hole next (Rio Times)
 > The US Treasury announced it will double the size of its long-dated debt buyback operations starting September, pulling the 30-year yield back from its highest level since 2007 and nudging the 10-year yield to 4.65%. Markets are now focused on the Jackson Hole symposium on August 27–29, where PMI data and Fed commentary could shift expectations for further rate action. Elevated energy prices from the Hormuz standoff and sticky inflation are pressuring economic activity in both the US and Europe, keeping central banks in a cautious holding pattern. [Rio Times](https://www.riotimesonline.com/global-economy-briefing-august-20-2026/)
+
+> **Night update**
+
+> [!note]- NKE: $40.22 (−2.0% Thu; range $39.81–$40.64) — P&L ≈ −$1,448 on 46 shares (Capital.com)
+> Nike pulled back roughly 2% on Thursday, trading between $39.81 and $40.64 and closing around $40.22, as the brief post-52-week-low bounce ran out of momentum following Wednesday's $41.05 close. The stock remains down ~39% year-to-date with the August 18 low of $38.86 still in frame and momentum indicators weak. The 46-share position at $71.69 avg cost carries an unrealised loss of approximately −$1,448 (46 × −$31.47). Dividend ex-date September 1 ($0.41); next earnings September 24, 2026. [Capital.com](https://capital.com/en-int/markets/shares/nike-inc-share-price/market-cap)
+
+> [!note]- Science: Engineered probiotic bacteria suppress pancreatic tumors in mice (ScienceDaily)
+> Researchers at the University of Chicago have engineered a strain of Bifidobacterium longum — a common gut probiotic — to deliver an immune-stimulating protein (IL-2) directly inside pancreatic tumours, selectively activating cancer-fighting T cells and suppressing tumour growth in mouse models. Pancreatic cancer is notoriously resistant to immune attack because tumours prevent T-cell infiltration; the engineered strain bypasses this by colonising the tumour microenvironment, with effects enhanced further in combination with chemotherapy and immunotherapy. The study appeared in Science Advances on July 23, 2026; clinical testing in humans has not yet begun. [ScienceDaily](https://www.sciencedaily.com/releases/2026/08/260816044830.htm)
+
+> [!note]- SG: PM Wong to address nation in 3 languages at National Day Rally on Sunday Aug 23 (Mothership / PMO)
+> Singapore Prime Minister Lawrence Wong will deliver his National Day Rally 2026 speech on Sunday, August 23, starting at 6:45pm (English address) at ITE College headquarters in Ang Mo Kio — his third NDR. He will speak in Malay, then Mandarin, before English, and is expected to unveil policies to help families balance childcare, eldercare, and work demands. The speech will be broadcast on local TV and radio and streamed live on PM Wong's YouTube channel. [Mothership](https://mothership.sg/2026/06/pm-lawrence-wong-national-day-rally-2026/) / [PMO](https://www.pmo.gov.sg/newsroom/national-day-rally-2026-pre-event-press-release-17-august-2026/)
 
 > [!note]- [[08-19-26 Wed]]
 >
