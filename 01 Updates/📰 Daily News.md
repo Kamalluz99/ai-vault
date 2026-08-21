@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-08-21T05:00
+updated: 2026-08-21T14:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,20 @@ unread: true
 
 > [!note]- NKE: $40.22 (−2.0%) — drifts back from $41.05 Thu close; P&L ≈ −$1,448 on 46 shares; 12-yr low pressure continues (Yahoo Finance)
 > Nike closed Thursday at $40.22, down 2.0% from Wednesday's $41.05, erasing most of the prior session's bounce and drifting back toward the August 17 low of $38.86. Weak digital demand, softer Greater China sales, and broad apparel headwinds keep the stock under sustained pressure — down ~50% from its $80.17 52-week high. The 46-share position at $71.69 avg cost carries an unrealised loss of ~−$1,448 (46 × −$31.47). Dividend ex-date September 1 ($0.41); next earnings September 24, 2026. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
+
+**Day update**
+
+> [!note]- Macro: S&P +0.4%, Dow +0.5% Friday; Bitcoin surges 11.5% to $71,808; gold at 3-month high (TheStreet / CNBC)
+> US equities closed out the week on a positive note Friday, with the Dow gaining 264 points (+0.5%) and the S&P 500 adding 0.4% as markets absorbed a weaker-than-expected July jobs report alongside cooling inflation data, shifting near-term rate expectations dovishly. Bitcoin surged 11.5% to $71,808 after the US Treasury announced it would double its long-dated debt buyback operations starting September, reducing dollar liquidity concerns. Gold futures climbed to a three-month high on a softer dollar, while markets remain squarely focused on Jackson Hole (Aug 27–29) for Fed Chair Warsh's next rate signal. [TheStreet](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-aug-21-2026) / [CNBC](https://www.cnbc.com/2026/08/20/stock-market-today-live-updates.html)
+
+> [!note]- World: Iran and Oman in talks on Strait of Hormuz maritime fee framework (Deutsche Bank / Conference Board)
+> Iran and Oman are reportedly negotiating a framework that would allow commercial vessels to transit the Strait of Hormuz in exchange for mandatory maritime service fees paid to a newly established joint corporation — a significant departure from pre-conflict freedom of navigation norms. Separately, Saudi Arabia announced that 15 countries have signed a statement to establish a multinational maritime defence coalition to protect Gulf shipping lanes, signalling regional states are hedging against prolonged US-Iran deadlock. The dual tracks underscore how the Hormuz dispute is reshaping the Gulf's commercial and security architecture. [Deutsche Bank Research](https://www.dbresearch.com/PROD/IE-PROD/PROD0000000000635787/This_Month_in_Geopolitics:_August_2026.PDF) / [Conference Board](https://www.conference-board.org/research/policy-backgrounders/A-Geopolitical-August)
+
+> [!note]- SG & MY: Singapore Night Festival 2026 opens tonight — "Myths & Legends" theme, Aug 21–Sep 5 (TimeOut Singapore)
+> Singapore's Night Festival 2026 kicks off this evening at the Bras Basah-Bugis precinct, running through September 5 under the theme "Myths and Legends," featuring 97 programmes including the roaming Birdmen performance debuting at 8pm opening night. Meanwhile, Malaysian PM Datuk Seri Anwar Ibrahim pushed back publicly against claims that the government's intensified scrutiny of Tabung Haji — the Hajj pilgrimage fund — is motivated by religious bias, insisting the review responds only to documented mismanagement at the institution. [TimeOut Singapore](https://www.timeout.com/singapore/news/singapore-night-festival-2026-the-7-highlights-worth-planning-your-night-around-082026) / [Malay Mail](https://www.malaymail.com/)
+
+> [!note]- NKE: $40.35 (+0.3% Fri) — slight bounce; P&L ≈ −$1,442 on 46 shares (Capital.com)
+> Nike traded between $40.24 and $40.56 on Friday, settling around $40.35 — a modest +0.3% recovery from Thursday's $40.22 close, mirroring the broad market's end-of-week bounce. The stock remains down ~50% from its 52-week high of $80.17 with the August 17 low of $38.86 still nearby. The 46-share position at $71.69 avg cost carries an unrealised loss of approximately −$1,442 (46 × −$31.34). Dividend ex-date September 1 ($0.41); next earnings September 24, 2026. [Capital.com](https://capital.com/en-int/markets/shares/nike-inc-share-price/market-cap)
 
 > [!note]- [[08-20-26 Thu]]
 >
