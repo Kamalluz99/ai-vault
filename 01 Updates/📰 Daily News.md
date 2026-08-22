@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-08-22T05:15
+updated: 2026-08-22T19:05
 topic: daily news
 frequency: daily
 ongoing: false
@@ -80,6 +80,26 @@ unread: true
 
 > [!note]- Science: New "extreme nuclear transients" confirmed — 30–1,000× brighter than any supernova (Phys.org)
 > Astrophysicists have confirmed a new class of cosmic explosion called extreme nuclear transients (ENTs), which peak at 30 to 1,000 times the luminosity of the brightest known supernovas and remain luminous for years rather than weeks — far surpassing the energy output of any known tidal disruption event. Unlike standard transients, ENTs appear to involve a distinct mechanism possibly linked to the disruption of massive stellar envelopes near active black holes, and they are reshaping models of the most energetic processes in the observable universe. [Phys.org](https://phys.org/news/2026-07-astronomers-universe-rarest-black-hole.html) / [Science World Report](http://www.scienceworldreport.com/articles/62230/20260818/astronomers-observe-mysterious-survival-following-catastrophic-black-hole-tidal-disruption.htm)
+
+> **Evening update**
+
+> [!note]- SG & MY: Singapore leads SEA AI funding at US$9.3B, dwarfing Malaysia's US$8M (Eco-Business)
+> Singapore-native AI companies raised US$9.3 billion across 227 funding rounds as of July 2026, according to data firm Tracxn, vastly outpacing every other nation in Southeast Asia combined. Vietnam ranked second at US$19 million, followed by Malaysia at US$8 million, Indonesia at US$6 million, and Thailand at US$4 million. The gap underscores Singapore's dominant position as the region's AI capital, driven by regulatory clarity, deep capital markets, and global tech giants anchoring regional HQs there. [Eco-Business](https://www.eco-business.com/news/singapore-dominates-southeast-asia-ai-funding-as-investment-surges/)
+
+> [!note]- Malaysia: Fahmi rebuts PAS on China-Taiwan policy; startup ecosystem surpasses 1,000 active companies (FMT)
+> Malaysia's Communications Minister Datuk Seri Fahmi Fadzil publicly rebutted PAS secretary-general Datuk Seri Takiyuddin Hassan's claims about PM Anwar Ibrahim's stance on the China-Taiwan dispute, stating Malaysia's position has been consistent and unchanged since the era of former PM Tun Abdul Razak Hussein. Separately, Malaysia's startup ecosystem hit 1,003 active companies in August 2026 — with growth spreading beyond Kuala Lumpur into Penang, Johor, Cyberjaya, and Sarawak, led by fintech, AI, and semiconductor sectors. [Free Malaysia Today](https://www.freemalaysiatoday.com/) / [Mean CEO Blog](https://blog.mean.ceo/startups-malaysia-news-august-2026/)
+
+> [!note]- World: US-Iran Hormuz ceasefire hangs on nuclear terms Tehran hasn't endorsed; Gulf on edge (Conference Board)
+> A fragile pause in the five-month US-Israel-Iran war hinges on an unconfirmed pledge to fully reopen the Strait of Hormuz and end Iran's nuclear programme — conditions Tehran has not publicly accepted. Continued US refuelling aircraft buildup and embassy evacuation warnings suggest Washington is hedging against a breakdown, while Iran and Oman separately negotiate a framework that would charge commercial vessels mandatory maritime fees to transit the strait, reshaping freedom-of-navigation norms. Oil markets and Gulf states remain acutely exposed. [Conference Board](https://www.conference-board.org/research/policy-backgrounders/A-Geopolitical-August) / [Deutsche Bank Research](https://www.dbresearch.com/PROD/IE-PROD/PROD0000000000635787/This_Month_in_Geopolitics:_August_2026.PDF)
+
+> [!note]- World: Nevada approves 8,000 robotaxi permits for Tesla, Waymo, and Uber in Las Vegas (TechCrunch / CNBC)
+> Nevada regulators authorised autonomous vehicle permits allowing Tesla to deploy up to 5,000 robotaxis in the Las Vegas area over the next year, with Waymo and Uber each approved for up to 1,000 — opening one of the largest commercial robotaxi corridors in the US. Amazon-owned Zoox began charging for rides in Las Vegas on August 10 with a separate exemption for up to 2,500 vehicles over two years, marking a significant acceleration in US regulatory approvals for autonomous fleets. [TechCrunch](https://techcrunch.com/2026/08/05/zoox-to-start-charging-for-robotaxi-rides-in-las-vegas/) / [CNBC](https://www.cnbc.com/2026/08/05/amazon-zoox-paid-robotaxi-rides-las-vegas.html)
+
+> [!note]- Tech: Nvidia acquires Poolside AI for ~$6B in largest model-building deal of 2026 (TechBooky)
+> Nvidia has moved to acquire Poolside, an AI startup specialising in model-building infrastructure and code generation, in a deal valued at approximately $6 billion — a signal that Nvidia is pushing beyond chip hardware into the AI training and model-development stack itself. Separately, Cloudflare launched Kitesurf, a new browser runtime built for AI agents that uses 3–7× less CPU and memory than Chromium while passing more than 235,000 web platform tests, targeting the fast-growing market for agentic web automation on its Workers platform. [TechBooky](https://www.techbooky.com/nvidia-poolside-6b-ai-licensing-talent-deal/) / [TechStartups](https://techstartups.com/2026/08/21/top-tech-news-today-august-21-2026-anthropic-apple-broadcom-google-nvidia-openai-tesla-more/)
+
+> [!note]- Science/Economy: Asian Water Tower losing 24.2B tonnes of groundwater yearly; US shed 23K jobs in July shock (ScienceNews / CNBC)
+> New research shows the "Asian Water Tower" — the glacier and groundwater systems supplying rivers across South and Southeast Asia — is losing approximately 24.2 billion tonnes of groundwater per year, with the worst declines in densely populated farming regions threatening food and water security for hundreds of millions downstream. On the economic front, the US unexpectedly shed 23,000 jobs in July — its first net monthly job loss in over two years — adding pressure on the Federal Reserve ahead of the Jackson Hole symposium (Aug 27–29) where Fed Chair Warsh is expected to signal the next rate move. [Science News](https://www.sciencenews.org/sn-magazine/august-2026) / [CNBC](https://www.cnbc.com/economy/)
 
 > [!note]- [[08-21-26 Fri]]
 >
