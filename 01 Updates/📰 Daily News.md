@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-08-23T05:10
+updated: 2026-08-23T20:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,26 @@ unread: true
 
 > [!note]- NKE: $40.76 (mkt closed Sun; last close Fri Aug 21) — P&L ≈ −$1,423 on 46 shares; hit 12-yr low Aug 17, down 36% YTD (Yahoo Finance)
 > Nike's stock last closed Friday at approximately $40.76 with markets closed through the weekend — down 36% year-to-date and lingering near the 12-year low touched August 17 ($38.86). Headwinds remain unchanged: weak digital demand, softer Greater China sales, rising competition from On Running and New Balance, and leadership changes (CAO Johanna Nielsen exits September). The 46-share position at $71.69 avg cost carries an unrealised loss of approximately −$1,423 (46 × −$30.93). Dividend ex-date September 1 ($0.41); next earnings September 24, 2026. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
+
+> **Evening update**
+
+> [!note]- SG: PM Wong's NDR 2026 keynote tonight — family "sandwich generation" policies take centre stage (PMO / AsiaOne)
+> PM Lawrence Wong delivered Singapore's National Day Rally 2026 tonight at ITE College Central in Ang Mo Kio, addressing the nation in Malay, Mandarin, and English from 6:45pm. The rally centred on Singapore's "sandwich generation" challenge — families simultaneously managing childcare and eldercare while holding down careers — with Wong expected to announce enhanced childcare subsidies, caregiver support schemes, and eldercare infrastructure investments. This is PM Wong's third NDR and Singapore's most significant domestic policy address of 2026. [PMO](https://www.pmo.gov.sg/newsroom/) / [AsiaOne](https://www.asiaone.com/singapore/national-day-rally-2026-lawrence-wong-ite-college-central)
+
+> [!note]- Malaysia: Government rules out Datasonic Technologies acquisition — signals fiscal restraint ahead of 2027 budget (BERNAMA / Malay Mail)
+> The Malaysian government announced on August 23 it will not proceed with an acquisition of Datasonic Technologies, removing near-term speculation that Putrajaya would consolidate state ownership of the biometric and government-document printing firm. The move reflects tightening fiscal discipline heading into the 2027 budget cycle and reaffirms private-sector control of key digital identity infrastructure — MyKad, passport, and biometric systems. The announcement was made through MKN and removes a key corporate catalyst that had attracted investor attention throughout the year. [BERNAMA](https://www.bernama.com/en/) / [Malay Mail](https://www.malaymail.com/)
+
+> [!breaking]- World: Trump declares "most crushing economic operation ever" against Iran — Treasury vows to "collapse" Tehran (Al Jazeera / CNN)
+> President Trump announced the US is launching "the most crushing economic operation in history" against Iran after the two-month ceasefire window expired on August 19 without agreement. Treasury Secretary Scott Bessent pledged the "toughest sanctions in history" to "collapse" the Iranian government, targeting oil exports, financial networks, and any third country enabling Tehran. Iran's parliament speaker vowed the country would "sacrifice its wealth" to defend its "dignity and honour," and Tehran warned Gulf nations against joining the "economic D-Day" — raising fears of wider regional economic fallout as Hormuz transit remains severely disrupted. [Al Jazeera](https://www.aljazeera.com/news/2026/8/19/trump-announces-most-crushing-economic-operation-ever-against-iran) / [CNN](https://www.cnn.com/2026/08/22/world/live-news/iran-war-trump)
+
+> [!note]- World: Iran warns Gulf nations against joining US economic war; Hormuz transit fee framework advances with Oman (Al Jazeera / CNN)
+> Tehran formally warned regional neighbours against participating in the US-led economic campaign, as Iran and Oman quietly advance a framework that would charge commercial vessels mandatory transit fees to pass the Strait of Hormuz — a precedent-setting break from freedom-of-navigation norms. US gas prices have surged nearly $1 per gallon from a year ago as Hormuz traffic remains severely disrupted, with global shipping insurers continuing to reprice Gulf risk. The dual-track pressure signals the Hormuz dispute is entering a structural phase that may reshape Gulf commerce for years regardless of how the military standoff resolves. [Al Jazeera](https://www.aljazeera.com/news/2026/8/22/iran-warns-nearby-nations-against-joining-us-economic-war-efforts) / [CNN](https://www.cnn.com/2026/08/21/world/live-news/iran-war-trump)
+
+> [!note]- Tech: Z.ai's GLM-5.3 autonomously finds 1,097 critical bugs in Linux and WebKit — open weights held for safety review (TechTimes / AI Weekly)
+> Chinese AI lab Z.ai released GLM-5.3 on August 14 and discovered the model had autonomously developed exploit-chain reasoning during post-training — a capability Z.ai says it never planned for. The model found 1,097 critical or high-severity vulnerabilities across 269 open-source projects including the Linux kernel, WebKit, and FreeBSD, scoring 84.5% on the CyberGym cybersecurity benchmark (up from 77.2% for GLM-5.2). Z.ai has delayed the open-weight release by approximately two weeks (until ~August 28) while completing safety hardening, setting a significant precedent for AI labs managing emergent dual-use capabilities. [TechTimes](https://www.techtimes.com/articles/324426/20260814/glm-53-post-training-produced-exploit-chains-zai-never-planned-finds-1097-critical-bugs.htm) / [AI Weekly](https://aiweekly.co/node/9959)
+
+> [!note]- Science/Economy: Drug use linked to stroke in 100M-person study; Jackson Hole opens Thursday as 30-yr yield holds above 5.3% (ScienceDaily / CNBC)
+> A new epidemiological analysis spanning more than 100 million people found strong associations between recreational drug use and stroke risk — including among younger adults — the largest evidence base yet for this link and likely to prompt public-health guideline updates. On the economic front, the Jackson Hole symposium opens Thursday (Aug 27–29) as the 30-year Treasury yield holds above 5.3% — a 17-year high — with markets watching Fed Chair Warsh for signals on the rate path after July's shock job loss and continued Hormuz-driven energy inflation. [ScienceDaily](https://www.sciencedaily.com/) / [CNBC](https://www.cnbc.com/2026/08/20/stock-market-today-live-updates.html)
 
 
 > [!note]- [[08-22-26 Sat]]
