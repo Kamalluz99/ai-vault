@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-08-23T20:00
+updated: 2026-08-24T05:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -60,6 +60,29 @@ unread: true
 > ```
 
 ## 2026-08
+
+### [[08-24-26 Mon]]
+
+> [!note]- AI: OpenAI pauses training run after models cross security boundaries (TechStartups)
+> OpenAI reportedly halted a major training run after experimental models exhibited behaviours that crossed internal security thresholds — raising governance questions during August's record AI model release wave. The pause comes days after Z.ai's GLM-5.3 autonomously discovered 1,097 critical bugs across Linux, WebKit, and FreeBSD, underscoring industry-wide anxiety about emergent dual-use capabilities in frontier models. [TechStartups](https://techstartups.com/2026/08/21/top-tech-news-today-august-21-2026-anthropic-apple-broadcom-google-nvidia-openai-tesla-more/)
+
+> [!note]- Tech: Anthropic reportedly preparing for potentially historic IPO (TechStartups)
+> Anthropic is said to be gearing up for an IPO that analysts describe as potentially the largest in AI sector history, capitalising on surging enterprise demand and sustained Claude model momentum. The timing follows Anthropic's aggressive enterprise contract expansion and back-to-back model releases throughout August. If it proceeds, the offering would mark a major liquidity event for early investors and set a public valuation benchmark for the frontier-AI segment. [TechStartups](https://techstartups.com/2026/08/21/top-tech-news-today-august-21-2026-anthropic-apple-broadcom-google-nvidia-openai-tesla-more/)
+
+> [!note]- Macro: Big week — Jackson Hole, Nvidia earnings & PCE all in 5 days; 30-yr yield holds above 5.3% (CNBC / Vicus Capital)
+> The week of August 24-28 is the most market-moving stretch of the summer: Jackson Hole symposium opens Thursday (Aug 27-29) where Fed Chair Warsh is expected to signal the rate path, Nvidia reports mid-week, and the PCE inflation print lands Friday. The 30-year Treasury yield remains above 5.3% — a 17-year high — while crude oil posts a second straight weekly gain on Hormuz uncertainty. Markets enter Monday on edge after July's shock jobs loss. [CNBC](https://www.cnbc.com/2026/08/21/stock-market-next-week-outlook-for-aug-24-28-2026.html) / [Vicus Capital](https://www.vicuscapital.com/2026/08/21/the-week-ahead-august-24-2026/)
+
+> [!note]- World: Total solar eclipse crosses Greenland, Iceland & Spain — first mainland Europe totality since 1999 (Wikipedia)
+> A total solar eclipse swept across Greenland, Iceland, and northern Spain, with partial coverage visible across much of northern North America and Europe — marking the first total eclipse observable on the European mainland since August 1999. Eclipse-chasers and astronomers gathered in large numbers across northern Spain and the Canary Islands. [Wikipedia](https://en.wikipedia.org/wiki/Portal:Current_events/August_2026)
+
+> [!note]- SG: SM Lee Hsien Loong departs today on official visits to Kazakhstan (Aug 24-27) & Uzbekistan (Aug 27-31) (PMO)
+> Senior Minister Lee Hsien Loong departed Singapore today for a week-long Central Asia tour covering Nur-Sultan and Tashkent, aimed at deepening trade and investment ties. The visits follow PM Lawrence Wong's National Day Rally 2026 last night, which centred on expanded family and eldercare support policies for Singapore's "sandwich generation." [PMO Singapore](https://www.pmo.gov.sg/newsroom/)
+
+> [!note]- Science: CME flank from AR4513 may graze Earth today; Asian Water Tower losing 24.2B tonnes groundwater/yr (EarthSky / ScienceDaily)
+> A coronal mass ejection flank from active sunspot region AR4513 — positioned near the sun's disk centre — is forecast to graze Earth around August 24, potentially producing minor geomagnetic disturbances and aurora at high latitudes. Separately, new research finds the Tibetan Plateau's "Asian Water Tower" is losing approximately 24.2 billion tonnes of groundwater per year, with the steepest declines in densely populated South Asian farming regions — a slow-moving water-security crisis for billions. [EarthSky](https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/) / [ScienceDaily](https://www.sciencedaily.com/)
+
+> [!note]- NKE: ~$40.76 (last close Fri Aug 22; mkt closed Mon pre-open) — P&L ≈ −$1,423 on 46-share position (Yahoo Finance)
+> Nike's stock last closed around $40.76 on Friday, lingering near the 12-year low hit August 17 ($38.86) and down approximately 36% year-to-date. The 46-share position at $71.69 average cost carries an unrealised loss of approximately −$1,423 (46 × −$30.93). Headwinds remain: weak digital demand, softer Greater China revenue, and rising pressure from On Running and New Balance. Next catalysts: dividend ex-date September 1 ($0.41/share), Q1 FY27 earnings September 24. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
 
 ### [[08-23-26 Sun]]
 
