@@ -127,6 +127,20 @@ unread: true
 > [!note]- Science/Economy: Drug use linked to stroke in 100M-person study; Jackson Hole opens Thursday as 30-yr yield holds above 5.3% (ScienceDaily / CNBC)
 > A new epidemiological analysis spanning more than 100 million people found strong associations between recreational drug use and stroke risk — including among younger adults — the largest evidence base yet for this link and likely to prompt public-health guideline updates. On the economic front, the Jackson Hole symposium opens Thursday (Aug 27–29) as the 30-year Treasury yield holds above 5.3% — a 17-year high — with markets watching Fed Chair Warsh for signals on the rate path after July's shock job loss and continued Hormuz-driven energy inflation. [ScienceDaily](https://www.sciencedaily.com/) / [CNBC](https://www.cnbc.com/2026/08/20/stock-market-today-live-updates.html)
 
+> **Night update**
+
+> [!note]- SG: NDR 2026 outcomes — BTO ceiling to $16K, $25K baby bonus, more childcare leave (AsiaOne)
+> PM Wong's National Day Rally 2026 delivered concrete policy wins: BTO flat income ceilings rise from $14,000 to $16,000 from August 24 (singles from $7,000 to $8,000), each newborn receives up to $25,000 in combined cash and savings grants, and working parents gain additional childcare leave. The announcements tackle Singapore's birth-rate challenge with direct financial incentives and structural support for the "sandwich generation." [AsiaOne](https://www.asiaone.com/singapore/national-day-rally-2026-summary-childcare-leave-hdb-flat-income-ceiling-lawrence-wong)
+
+> [!note]- World: Macron pledges interceptor missiles to Ukraine after Russia kills 16 in Kryvyi Rih drone attack (Euronews / France24)
+> French President Macron announced France will accelerate delivery of new interceptor missiles to Ukraine following a call with President Zelensky after devastating Russian drone strikes killed at least 16 people — including 23 injured children — at a Kryvyi Rih shopping centre. Pledges cover Patriot procurement, domestic missile production licences in Ukraine, and 2026–27 defence financing. Macron urged Coalition of the Willing partners to deepen support ahead of the group's August 24 meeting. [Euronews](https://www.euronews.com/my-europe/2026/08/22/france-to-give-new-interceptor-missiles-to-ukraine-macron-says) / [France24](https://www.france24.com/en/france-to-deliver-interceptor-missiles-to-ukraine-after-fresh-wave-of-russian-strikes)
+
+> [!note]- Science: AI maps genetic "switch" in 60% of human genes; TOFA compound burns 18% more energy in obesity trial (ScienceDaily)
+> Researchers used AI to analyse ~500,000 DNA sequences and pinpoint the initiator element — the genetic "switch" that triggers transcription — in roughly 60% of human genes, a breakthrough with direct implications for gene-therapy precision. Separately, a decades-old compound called TOFA produced an 18% increase in energy expenditure in mice with reduced body fat and no significant muscle loss, pointing to a thermogenic obesity treatment that sidesteps appetite suppression. [ScienceDaily](https://www.sciencedaily.com/news/top/health/)
+
+> [!note]- AI: Meta open-sources Muse Spark 1.2 weights; EU AI Act enforcement powers activated Aug 2 (LLM Stats)
+> Meta Superintelligence Labs released Muse Spark 1.2 open weights under a modified Llama Community License, extending frontier-generation access to the wider developer community. Separately, the EU AI Act's full enforcement powers came into effect on August 2, enabling model inspections, market restrictions, and fines — making agent safety a regulatory requirement across Europe and raising compliance stakes for every lab shipping models into the EU. [LLM Stats](https://llm-stats.com/llm-updates)
+
 
 > [!note]- [[08-22-26 Sat]]
 >
