@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-08-24T05:00
+updated: 2026-08-24T20:30
 topic: daily news
 frequency: daily
 ongoing: false
@@ -86,6 +86,26 @@ unread: true
 
 > [!note]- NKE: ~$40.76 (last close Fri Aug 22; mkt closed Mon pre-open) — P&L ≈ −$1,423 on 46-share position (Yahoo Finance)
 > Nike's stock last closed around $40.76 on Friday, lingering near the 12-year low hit August 17 ($38.86) and down approximately 36% year-to-date. The 46-share position at $71.69 average cost carries an unrealised loss of approximately −$1,423 (46 × −$30.93). Headwinds remain: weak digital demand, softer Greater China revenue, and rising pressure from On Running and New Balance. Next catalysts: dividend ex-date September 1 ($0.41/share), Q1 FY27 earnings September 24. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
+
+> **Evening update**
+
+> [!note]- SG & MY: PM Wong lays out ASEAN 2027 chairmanship vision — "contested, unstable world" framing (AsiaOne / Malay Mail)
+> Prime Minister Lawrence Wong used the National Day Rally 2026 on Aug 23 to set out Singapore's priorities as ASEAN chair in 2027: deepening regional integration, building collective resilience, and fostering inclusive partnerships beyond Southeast Asia. Wong warned Singaporeans they must learn to survive in a world that is "more contested, unstable and dangerous" — framing ASEAN unity as more critical than ever. Singapore takes over the chairmanship from the Philippines on 1 Jan 2027, its first time in the role since 2018. [AsiaOne](https://www.asiaone.com/singapore/ndr-2026-singapore-has-survive-world-more-contested-unstable-and-dangerous-says-pm-wong) / [Malay Mail](https://www.malaymail.com/news/singapore/2026/08/24/singapore-to-strengthen-asean-unity-integration-under-2027-chairmanship-says-wong/232466)
+
+> [!note]- Malaysia: Pakatan Harapan weighs BN pact for Melaka polls; Anwar meets election chief Amirudin (Malay Mail)
+> Prime Minister Anwar Ibrahim met Pakatan Harapan election director Amirudin Shari on Aug 24 to discuss a potential electoral partnership with Barisan Nasional ahead of the upcoming Melaka state election. The talks reflect PH's need to consolidate coalition support after a series of bruising by-election setbacks, with a Pakatan-BN pact potentially reshaping peninsular Malaysia's electoral dynamics ahead of the next general election cycle. [Malay Mail](https://www.malaymail.com/news/malaysia/2026/08/24/melaka-polls-anwar-amirudin-meet-as-pakatan-weighs-bn-pact/232467)
+
+> [!breaking]- World: US Treasury declares "economic D-Day" against Iran — sweeping oil sanctions campaign launched (Anadolu Agency / Euronews)
+> US Treasury Secretary Scott Bessent announced what he called an "economic D-Day" against Iran on Monday, unveiling the broadest American sanctions pressure campaign against Tehran since the reimposition of sanctions in 2018. The move targets Iran's oil revenues and financial networks, signalling a shift in the Trump administration's strategy from direct military pressure toward sustained economic isolation. The announcement coincides with US-mediated Syria-Israel de-escalation talks in Jordan, reflecting an ambitious US push to reshape the Middle East's security architecture simultaneously. [Anadolu Agency](https://aa.com.tr/en/world/morning-briefing-aug-24-2026/4035388) / [Euronews](https://www.euronews.com/video/2026/08/24/latest-news-bulletin-august-24th-2026-morning)
+
+> [!note]- World: US-Canada trade war escalates as Trump renews tariff pressure; Texas enacts datacenter moratorium (WORLD / Euronews)
+> US President Donald Trump renewed sharp criticism of Canada on Monday amid an escalating tariff dispute, with new levies taking hold and Ottawa vowing reciprocal measures. Separately, Texas enacted a moratorium on new datacentre construction — the first state-level action of its kind — citing electricity grid strain from surging AI compute demand. The two developments underscore widening fault lines in the global trade and technology landscape as the US-led AI infrastructure boom collides with domestic energy and geopolitical constraints. [WORLD](https://wng.org/podcasts/monday-morning-news-august-24-2026-1787519872) / [Euronews](https://www.euronews.com/video/2026/08/24/latest-news-bulletin-august-24th-2026-morning)
+
+> [!note]- Tech: Nvidia strikes $6B Poolside licensing deal + $1B investment at $12B valuation ahead of Wednesday earnings (AI Agent Store)
+> Nvidia has reached an extraordinary deal with AI coding startup Poolside — paying $6 billion under a non-exclusive technology licensing agreement and investing a further $1 billion at a $12 billion pre-money valuation. The deal locks in a key AI software partner ahead of Nvidia's fiscal Q2 2027 earnings Wednesday, reinforcing its strategy of securing software ecosystem ties that sustain long-run GPU demand. Poolside's valuation and the deal's scale signal that investor appetite for AI coding infrastructure remains robust even as broader equity markets face a turbulent week. [AI Agent Store](https://aiagentstore.ai/ai-agent-news/this-week)
+
+> [!note]- Economy: Dual market test this week — Nvidia earnings Wed & Warsh's Jackson Hole debut Thu define AI-spend and rate path (Capital Street FX / Reuters)
+> Two macro-defining events arrive back-to-back: Nvidia reports fiscal Q2 2027 results Wednesday after close — a direct read on whether AI infrastructure investment is still accelerating — and Federal Reserve Chair Kevin Warsh delivers his debut Jackson Hole address Thursday, the market's first chance to hear him signal the rate path since the shock July jobs loss. The S&P 500 enters Monday at 7,674 after a 1.4% weekly decline, with the 30-year Treasury yield above 5.3% at a 17-year high. Friday's July PCE print completes the week's data picture. [Capital Street FX](https://www.capitalstreetfx.com/market-analysis/nvidia-earnings-jackson-week-ahead-us-24-29-august-2026/) / [Reuters / Investing.com](https://www.investing.com/news/economy-news/nvidia-earnings-jackson-hole-to-test-pillars-of-stock-rally-4871219)
 
 > [!note]- [[08-23-26 Sun]]
 >
