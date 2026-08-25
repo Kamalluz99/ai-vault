@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-08-25T19:09
+updated: 2026-08-26T05:09
 topic: daily news
 frequency: daily
 ongoing: false
@@ -60,6 +60,26 @@ unread: true
 > ```
 
 ## 2026-08
+
+### [[08-26-26 Wed]]
+
+> [!note]- AI: OpenAI launches GPT-5.5 Omni — real-time multimodal flagship model (AI Release Tracker)
+> OpenAI released GPT-5.5 Omni, its latest flagship model, during August 2026's record-pace model release wave — delivering a step change in real-time multimodal interaction across text, voice, image, and video simultaneously. The launch intensifies the frontier race as Claude Opus 5, Gemini 3.7 Flash, and Grok 4.5 have all shipped this month, with the market now tracking six concurrent frontier-tier model lines. August is on pace to be the fastest month for frontier model releases on record. [AI Release Tracker](https://aireleasetracker.com/latest) / [LLM Stats](https://llm-stats.com/ai-news)
+
+> [!breaking]- Tech: Nvidia Q2 FY27 earnings tonight — $93–95B revenue expected, 67–75% YoY growth (Intellectia AI / CNBC)
+> Nvidia reports Q2 fiscal 2027 results tonight after the close, with Wall Street expecting $93–95B in quarterly revenue — a 67–75% year-over-year surge driven by the Blackwell architecture ramp and insatiable AI accelerator demand. The report is the week's highest-stakes event: it will confirm whether enterprise AI capex is still accelerating or softening, directly shaping the investment thesis for the entire AI infrastructure sector. Nvidia commands ~81% market share in AI accelerators, and any miss or cautious guidance will reverberate across semiconductor and cloud sectors. [Intellectia AI](https://intellectia.ai/blog/nvidia-earnings-august-26-2026-preview) / [CNBC](https://www.cnbc.com/2026/08/25/nvidia-and-jackson-hole-are-the-big-catalysts-this-week-how-stocks-could-react.html)
+
+> [!note]- Macro: Stocks rally into biggest week of summer — Dow +0.3%, Nasdaq +0.7%; Warsh's Jackson Hole debut Thu (Yahoo Finance / Benzinga)
+> US equity markets extended their two-day recovery on Tuesday with the Nasdaq leading (+0.7%), as investors positioned into the week's dual catalysts: Nvidia Q2 earnings tonight and Fed Chair Kevin Warsh's debut Jackson Hole address on Thursday — the first major policy signal since the July jobs shock. Treasury yields fell for a second day but the 30-year yield holds above 5.3%, a 17-year high, and Friday's July PCE print rounds out the data calendar. Warsh's speech Friday is expected to set the tone for the Fed's September rate decision. [Yahoo Finance](https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-25-dow-sp-500-nasdaq-080527092.html) / [Benzinga](https://www.benzinga.com/markets/equities/26/08/61375782/stock-market-today-sp-500-nasdaq-100-futures-slip-ahead-of-data-heavy-week-nvidia-earnings-and-jackson-hole-baba-pmi-birk-in-focus)
+
+> [!breaking]- World: Iran-US Hormuz standoff shifts to blockade diplomacy — crude holds near $94 (WEF / CNBC)
+> The Iran-US confrontation has hardened into a "blockade diplomacy" phase: Iran maintains its formal threat to seize commercial vessels in the Strait of Hormuz in retaliation for Washington's sweeping oil sanctions, while the US has tightened maritime pressure on Iranian ports rather than backing down. Crude held near $94/barrel on the sustained risk premium, and the USS George Washington has relieved the USS Abraham Lincoln in the region. High-stakes negotiations in Pakistan saw a further US ultimatum extension targeting Iran's port infrastructure, with no breakthrough in sight. [WEF](https://www.weforum.org/stories/geo-economics-and-politics/blockade-diplomacy-and-other-geopolitical-stories-to-know-this-month/) / [CNBC](https://www.cnbc.com/2026/08/20/world/live-news/iran-war-trump)
+
+> [!note]- Malaysia: Haze worsens — 30 stations "unhealthy"; PDRM deploys Merdeka security in KL and Putrajaya (Malay Mail / BERNAMA)
+> Malaysia's air quality deteriorated on August 25–26 with 30 Air Pollutant Index monitoring stations nationwide recording "unhealthy" readings as Kalimantan and Sumatran fire hotspots intensify into the dry-season peak — mirroring regional haze alerts in Singapore. PDRM is deploying tightened security and traffic controls across Kuala Lumpur and Putrajaya ahead of the 69th Merdeka Day celebrations on August 31, themed "Malaysia MADANI: Kesejahteraan Dinikmati." JPN has also flagged potential MyKad printing disruptions this week during the transition to the new-generation identity card. [Malay Mail](https://www.malaymail.com/) / [BERNAMA](https://www.bernama.com/en/)
+
+> [!note]- Science: Depression disrupts hippocampal neurogenesis — memory-separation mechanism breaks down (ScienceDaily)
+> A major study found that adults with clinical depression show measurably disrupted production of new neurons in the hippocampus, weakening the brain's ability to distinguish new experiences from entrenched painful memories — providing a concrete neurobiological mechanism for why depressed individuals can feel stuck in recurring negative thought loops. The finding opens a therapeutic target beyond conventional antidepressants. Separately, a study across thousands of animal genomes found that chromosomes don't evolve randomly but follow a limited set of irreversible "evolutionary highways," offering new insight into speciation and hereditary disease. [ScienceDaily](https://www.sciencedaily.com/news/top/health/)
 
 ### [[08-24-26 Mon]]
 
