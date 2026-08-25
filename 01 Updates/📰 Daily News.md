@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-08-24T23:30
+updated: 2026-08-25T19:09
 topic: daily news
 frequency: daily
 ongoing: false
@@ -104,6 +104,26 @@ unread: true
 >
 > > [!note]- Science: NASA Roman Space Telescope clears flight readiness review — Aug 30 launch on SpaceX Falcon Heavy confirmed (NASA Science)
 > > NASA's Nancy Grace Roman Space Telescope completed its flight readiness review on August 21 and a launch dress rehearsal on August 20, clearing all pre-launch milestones for a targeted August 30 liftoff from Kennedy Space Centre aboard SpaceX's Falcon Heavy — eight months ahead of its original schedule. The flagship mission will survey the cosmos for dark matter, dark energy, and exoplanets with a field of view 100 times wider than Hubble. [NASA Science](https://science.nasa.gov/blogs/roman/2026/08/21/teams-complete-flight-readiness-review-for-nasas-roman-telescope/)
+>
+> > **Evening update**
+>
+> > [!note]- SG & MY: NDR 2026 — BTO ceiling lifted to $18K, 8–12 days childcare leave, dialect films in cinemas Sep (Mothership)
+> > PM Lawrence Wong's National Day Rally 2026 (Aug 23) delivered sweeping domestic policy changes: the BTO income ceiling rises from $14,000 to $18,000 (EC from $16K to $18K), opening subsidised flats to more dual-income families. Working parents gain 8–12 days of childcare leave per year depending on number of children under 12, and a new SG Child Support Package replaces the baby bonus scheme for children born from April 2027. In a cultural reversal, Chinese dialect films with Mandarin subtitles will be permitted in Singapore cinemas from September 2026. [Mothership](https://mothership.sg/2026/08/ndr-2026-summary/) / [Her World](https://www.herworld.com/independence/national-day-rally-2026-10-key-announcements-pm-lawrence-wongs-speech)
+>
+> > [!note]- Malaysia: Haze worsens on holiday — 30 monitoring stations record "unhealthy" API as Kalimantan fires spread (Malay Mail)
+> > Malaysia's air quality deteriorated on August 25 (the Maulidur Rasul public holiday) with 30 nationwide Air Pollutant Index monitoring stations registering "unhealthy" readings as Kalimantan and Sumatran fire hotspots intensify into the dry-season peak. Authorities urged residents in affected areas to limit outdoor exposure, with school advisories possible if the haze episode extends through the week. The pattern mirrors Singapore's NEA haze alert from August 24, signalling a sustained multi-week smoke event across the region. [Malay Mail](https://www.malaymail.com/)
+>
+> > [!breaking]- World: Colombia earthquake death toll tops 250 as rescue crews race to find survivors (Democracy Now!)
+> > A massive earthquake in Colombia has killed at least 250 people, with the toll expected to rise as search-and-rescue crews dig through collapsed buildings across multiple provinces. Emergency declarations have been issued nationwide and international assistance is being mobilised, marking one of the deadliest natural disasters to hit the country in recent history. [Democracy Now!](https://www.democracynow.org/2026/8/21/headlines)
+>
+> > [!breaking]- World: Russian missile assault on Kyiv kills 13; Ukraine's ex-defence chief calls for presidential elections (Democracy Now!)
+> > A Russian overnight missile and drone barrage struck Kyiv's residential districts, killing at least 13 people in one of the deadliest single attacks on the capital in recent months. Ukraine's former defence minister separately issued a public call for presidential elections — a direct challenge to President Zelensky, who has suspended polls under wartime law — signalling mounting domestic political pressure alongside the front-line fighting. [Democracy Now!](https://www.democracynow.org/2026/8/21/headlines)
+>
+> > [!note]- Tech: DARPA completes first real-world AI-piloted F-16 flight — fully autonomous, no human pilot aboard (AI Tools Recap)
+> > The US Defense Advanced Research Projects Agency completed the first real-world airborne flight of an F-16 fighter jet fully controlled by artificial intelligence, with no human pilot on board, under its Air Combat Evolution (ACE) programme. The landmark demonstration moves autonomous combat aircraft from simulation-only testing to operational proof-of-concept and raises new questions about the future of human oversight in air warfare. [AI Tools Recap](https://aitoolsrecap.com/Blog/AINewsAugust2026.aspx)
+>
+> > [!note]- Economy: SE Asia data centres to hit $35B by 2031 — Malaysia leads regional pipeline at 6+ GW future IT load (Arizton)
+> > Southeast Asia's data center investment market is forecast to more than double from $15.7 billion in 2025 to $35.1 billion by 2031 (CAGR 14.3%), driven by AI compute demand and hyperscaler expansion across nine countries. Malaysia leads the region in upcoming IT load capacity at over 6 GW — ahead of Thailand at 3.5 GW — with Microsoft, Google, AWS, and ByteDance among the primary investors. The region now counts 306 operational facilities with 173 more in the construction pipeline. [PR Newswire / Arizton](http://www.prnewswire.com/news-releases/southeast-asia-data-center-investment-to-reach-usd-35-08-billion-by-2031--malaysia-indonesia-thailand--singapore--arizton-302859132.html)
 
 > [!note]- [[08-24-26 Mon]]
 >
