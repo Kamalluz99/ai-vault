@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-08-26T19:11
+updated: 2026-08-26T21:30
 topic: daily news
 frequency: daily
 ongoing: false
@@ -87,8 +87,8 @@ unread: true
 > [!note]- SG & MY: Indonesia, Malaysia & Singapore jointly affirm Strait of Malacca will remain "free, open and safe" (Bloomberg)
 > The three primary stewards of the Strait of Malacca — Indonesia, Malaysia, and Singapore — issued a joint statement on August 25 reaffirming their commitment to keeping the narrow corridor free, open, and safe for international shipping. The Strait handles more than a fifth of global seaborne trade as the shortest maritime route between the Middle East and East Asia, making the declaration strategically significant amid rising regional tensions. [Bloomberg](https://www.bloomberg.com/news/articles/2026-08-25/malacca-strait-states-singapore-indonesia-malaysia-keep-waters-open)
 
-> [!note]- NKE: ~$40.83 (≈flat) — P&L ≈ −$1,420 on 46-share position; div ex-date Sep 1 ($0.41/share) (Yahoo Finance / Benzinga)
-> Nike hovers near $40.83, close to its 12-year low hit August 17 ($38.86) and down roughly 36% YTD, as the turnaround collides with weak digital demand, softer Greater China sales, and rising competition from On Running and New Balance. The 46-share position at $71.69 average cost carries an unrealised loss of approximately −$1,420 (46 × −$30.86). Dividend ex-date is September 1 ($0.41/share); Q1 FY27 earnings September 24 are the next key catalyst. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/) / [Benzinga](https://www.benzinga.com/trading-ideas/movers/26/08/61253196/why-is-nike-stock-falling-on-monday)
+> [!note]- NKE: $39.48 (↓3.3% from $40.83) — P&L ≈ −$1,482 on 46-share position; div ex-date Sep 1 ($0.41/share) (Yahoo Finance)
+> Nike closed at $39.48 (intraday range $39.03–$39.87), down roughly 3.3% from the morning print of $40.83, deepening losses toward its 12-year low of $38.86 hit August 17. The 46-share position at $71.69 average cost carries an unrealised loss of approximately −$1,482 (46 × −$32.21). Dividend ex-date is September 1 ($0.41/share); Q1 FY27 earnings September 24 are the next key catalyst. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/history/)
 
 > **Evening update**
 
@@ -109,6 +109,17 @@ unread: true
 
 > [!note]- Economy: Brazil cuts Selic to 14% (4th consecutive cut); global markets steady ahead of Nvidia earnings tonight (Reuters / CNBC)
 > Brazil's central bank lowered its Selic benchmark rate by 25 basis points to 14.00% — its fourth straight cut from a 15.00% peak — continuing Latin America's largest economy's monetary easing cycle as inflation cools. Globally, S&P 500 earnings per share are forecast to grow 25% in 2026 and Asia ex-Japan leads at 72% projected growth; US equity markets edged higher (Dow +0.30%, Nasdaq +0.66%) as investors await Nvidia's Q2 FY27 results due after tonight's market close. [Reuters](https://www.reuters.com/) / [CNBC](https://www.cnbc.com/world-economy/)
+
+> **Late update — post-market**
+
+> [!breaking]- Tech: Nvidia Q2 FY27 beats — $96.2B revenue (+106% YoY), Q3 guided at $108B (CNBC / TipRanks)
+> Nvidia reported Q2 FY27 revenue of $96.2 billion, up 106% year over year and above consensus, with data center sales of $89 billion (117% YoY) comprising 92% of total revenue. EPS came in at $2.22 — more than double the year-ago quarter — with gross margin holding at 75% for a second straight quarter. The company guided Q3 revenue of $108 billion ± 2%, well above the $104.2 billion analyst consensus, though the outlook explicitly excludes any data center revenue from China. NVDA stock narrowed after-hours losses as CEO Jensen Huang's conference call progressed. [CNBC](https://www.cnbc.com/2026/08/26/nvidia-nvda-earnings-report-q2-2027-live-updates.html) / [TipRanks](https://www.tipranks.com/news/nvda-earnings-nvidia-rises-after-smashing-eps-estimates)
+
+> [!breaking]- AI: OpenAI's Jalapeño chip beats Nvidia Blackwell — 1.5–1.9× more AI work per watt (CNBC / Bloomberg)
+> OpenAI released benchmark results for Jalapeño, its custom inference chip developed with Broadcom, claiming 1.5–1.9× more AI work per watt than Nvidia's GB300 and latency cuts of 1.7–3.6× — while drawing only 700W versus 1,400W for the GB300. Tested against three frontier LLMs (GPT-OSS 120B, DeepSeek R1 670B, Kimi K2.5 1T) on SemiAnalysis's InferenceX public benchmark, Jalapeño will be deployed within OpenAI's own infrastructure by year-end, with Gen 2 and Gen 3 already in development. The announcement lands on the eve of Nvidia's earnings and signals that hyperscaler custom silicon is becoming a credible inference alternative to Blackwell. [CNBC](https://www.cnbc.com/2026/08/26/openai-jalapeno-ai-chip-nvidia.html) / [Bloomberg](https://www.bloomberg.com/news/articles/2026-08-25/openai-claims-its-new-chips-can-outperform-nvidia-processors-in-tests)
+
+> [!breaking]- Tech: Meta settles teen-addiction lawsuit for $16.68B — Instagram midnight blackouts mandated (CP24 / Yahoo Finance)
+> Meta agreed to pay up to $16.68 billion to settle claims by 29 US states that it designed Facebook and Instagram to addict children, averting a high-profile federal trial over social media harms to minors. Roughly $12.7 billion flows to states over 10 years; a further $5.3 billion releases conditionally only if TikTok and YouTube implement comparable daily usage limits, nighttime blocks, and age-assurance measures. Instagram will enforce default midnight-to-6 a.m. blackouts and daily usage caps for all teen accounts nationwide; Meta denied wrongdoing. [CP24](https://www.cp24.com/news/world/2026/08/26/meta-reaches-us1668-billion-settlement-over-social-media-harms-to-children/) / [Yahoo Finance](https://finance.yahoo.com/news/meta-settles-us-states-over-130318028.html)
 
 ### [[08-24-26 Mon]]
 
