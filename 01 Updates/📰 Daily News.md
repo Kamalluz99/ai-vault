@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-08-26T05:09
+updated: 2026-08-26T19:11
 topic: daily news
 frequency: daily
 ongoing: false
@@ -89,6 +89,26 @@ unread: true
 
 > [!note]- NKE: ~$40.83 (≈flat) — P&L ≈ −$1,420 on 46-share position; div ex-date Sep 1 ($0.41/share) (Yahoo Finance / Benzinga)
 > Nike hovers near $40.83, close to its 12-year low hit August 17 ($38.86) and down roughly 36% YTD, as the turnaround collides with weak digital demand, softer Greater China sales, and rising competition from On Running and New Balance. The 46-share position at $71.69 average cost carries an unrealised loss of approximately −$1,420 (46 × −$30.86). Dividend ex-date is September 1 ($0.41/share); Q1 FY27 earnings September 24 are the next key catalyst. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/) / [Benzinga](https://www.benzinga.com/trading-ideas/movers/26/08/61253196/why-is-nike-stock-falling-on-monday)
+
+> **Evening update**
+
+> [!note]- SG & MY: Indonesia arrests 72 over fires; Sarawak closes 600 schools, 200K students affected (CP24 / ABC News)
+> Indonesian police arrested 72 people over 89 forest fire cases as blazes across Kalimantan and Sumatra burned 285,000+ hectares with over 3,700 hotspots detected on Sunday alone. Haze drifting from Indonesian Borneo into Malaysia's Sarawak pushed air quality to "very unhealthy" levels, triggering closure of nearly 600 schools affecting approximately 200,000 students — the most severe transboundary smoke event of the 2026 dry season. [CP24](https://www.cp24.com/news/world/2026/08/24/indonesia-intensifies-aerial-firefighting-as-forest-fires-scorch-multiple-provinces/) / [ABC News](https://abcnews.com/International/wireStory/indonesia-warns-starting-open-blazes-haze-wildfires-spreads-135831582)
+
+> [!note]- Malaysia: NexG Bhd shares plunge after govt rules out Datasonic Technologies buyout (Bloomberg)
+> Shares of NexG Bhd fell the most in over nine months after Malaysia's government ruled out a potential state acquisition of its subsidiary Datasonic Technologies, the company that supplies the country's passports and national identity cards. The decision dashes market expectations of a state buyout premium, leaving NexG shareholders nursing heavy losses. [Bloomberg](https://www.bloomberg.com/)
+
+> [!note]- World: Evergrande founder Hui Ka Yan sentenced to life in prison over China's largest property collapse (Bloomberg)
+> Hui Ka Yan, founder of China Evergrande Group, was sentenced to life imprisonment by a Shenzhen court for financial fraud and misappropriation of funds, closing the chapter on China's largest-ever corporate debt collapse. The Evergrande saga wiped out hundreds of billions in investor and homebuyer wealth and destabilised China's property sector for years; the life sentence signals Beijing's resolve to punish developers whose recklessness threatened financial stability. [Bloomberg](https://www.bloomberg.com/)
+
+> [!note]- World: Trump rallies world leaders to join Iran sanctions coalition; USS George Washington deployed to Gulf (CNBC)
+> President Trump called on global leaders to align with Washington's sweeping anti-Iran sanctions — Treasury Secretary Bessent's "greatest coordinated economic isolation in history" — as the USS George Washington carrier group took up position in the Gulf region. Iran has reiterated threats to seize commercial vessels in the Strait of Hormuz if the campaign intensifies, and Pakistan-brokered talks have produced no breakthrough, keeping oil markets on edge. [CNBC](https://www.cnbc.com/2026/08/20/world/live-news/iran-war-trump)
+
+> [!note]- Tech: Anthropic set to file for historic IPO as soon as end of August — last valued at ~$965B (Motley Fool / Forbes)
+> Anthropic is preparing for what could become one of the largest initial public offerings in AI history, with sources indicating the Claude maker may file its prospectus as soon as end of August 2026. The company reached a $965 billion valuation following its Series H-1 round in May and projects $47 billion in annual recurring revenue for 2026 — roughly double OpenAI's estimate — with both AI giants targeting fall 2026 market debuts. [Motley Fool](https://www.fool.com/investing/2026/08/22/ipo-fever-heats-up-for-openai-and-anthropic/) / [Forbes](https://www.forbes.com/sites/investor-hub/article/openai-vs-anthropic-ipo-comparison/)
+
+> [!note]- Economy: Brazil cuts Selic to 14% (4th consecutive cut); global markets steady ahead of Nvidia earnings tonight (Reuters / CNBC)
+> Brazil's central bank lowered its Selic benchmark rate by 25 basis points to 14.00% — its fourth straight cut from a 15.00% peak — continuing Latin America's largest economy's monetary easing cycle as inflation cools. Globally, S&P 500 earnings per share are forecast to grow 25% in 2026 and Asia ex-Japan leads at 72% projected growth; US equity markets edged higher (Dow +0.30%, Nasdaq +0.66%) as investors await Nvidia's Q2 FY27 results due after tonight's market close. [Reuters](https://www.reuters.com/) / [CNBC](https://www.cnbc.com/world-economy/)
 
 ### [[08-24-26 Mon]]
 
