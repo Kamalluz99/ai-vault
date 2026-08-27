@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-08-27T05:07
+updated: 2026-08-27T19:10
 topic: daily news
 frequency: daily
 ongoing: false
@@ -84,7 +84,25 @@ unread: true
 > [!note]- NKE: $39.48 (≈ flat) — near 12-yr low; P&L ≈ −$1,482 on 46-share position; div ex-date Sep 1 ($0.41/share) (Yahoo Finance / Morningstar)
 > Nike closed at $39.48 on August 26 — essentially flat, with an intraday range of $39.03–$39.87, hovering just above its 52-week low of $38.86. The turnaround continues to disappoint: analyst downgrades followed Dick's Sporting Goods' weak earnings, which flagged deeper headwinds in the footwear sector. The 46-share position at $71.69 avg cost carries an unrealised loss of ≈ −$1,482 (46 × −$32.21). Dividend ex-date Sep 1 ($0.41/share); Q1 FY27 earnings Sep 24. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/) / [Morningstar](https://www.morningstar.com/stocks/xnys/nke/quote)
 
-HEAD
+> **Evening update**
+
+> [!note]- SG & MY: Malaysian Army Chief calls on Singapore Defence Minister Chan Chun Sing (MINDEF)
+> General Tan Sri Azhan Bin Hj Md Othman, Chief of Army of the Malaysian Armed Forces, paid a courtesy call on Singapore's Minister for Defence Chan Chun Sing at MINDEF on August 27, continuing the regular military-to-military dialogue between the two neighbours. Bilateral defence engagement between Singapore and Malaysia has remained active in 2026 amid broader regional security discussions. [MINDEF Singapore](https://www.mindef.gov.sg/news-and-events/latest-releases/)
+
+> [!note]- Malaysia: Merdeka 69 countdown — road closures lock down Putrajaya Aug 26–31 (paultan.org)
+> Road closures across Putrajaya's major bridges — Seri Wawasan, Seri Saujana, Seri Gemilang, Putra and Seri Ehsan — are in force from August 26 to 31 for the 69th National Day parade rehearsals and live event. More than 80,000 visitors are expected at Dataran Putrajaya on August 31, with 100,000 heading to Dataran Merdeka in Kuala Lumpur for Merdeka Eve (Aug 30); Rapid KL will run 24-hour train and bus services. Preparations for the "Malaysia MADANI: Kesejahteraan Dinikmati" celebration are 85–90% complete. [paultan.org](https://paultan.org/2026/08/26/road-closures-in-putrajaya-in-effect-from-august-26-to-31-for-2026-merdeka-celebrations-rehearsals/)
+
+> [!breaking]- World: Nepal glacial disaster — 160+ dead, 1,300+ missing including 700 foreigners (Al Jazeera / CNBC)
+> A glacial collapse on the Bhotekoshi River in Nepal's Rasuwa and Nuwakot districts triggered catastrophic flash floods, killing at least 160 people and leaving over 1,300 missing — more than 700 of them foreign nationals, including 47 Americans, 34 Australians, 33 Britons, 24 Canadians, and 133 Indian pilgrims returning from Mount Kailash in Tibet. The disaster has prompted international search-and-rescue response and is one of the deadliest Himalayan flood events in years. [Al Jazeera](https://www.aljazeera.com/news/2026/8/26/at-least-eight-killed-in-nepal-flash-floods-that-swept-away-villages-roads) / [CNBC](https://www.cnbc.com/2026/08/26/flash-floods-deaths-missing-nepal-china.html)
+
+> [!note]- World: SpaceX announces $100B Starbase Louisiana — plans world's biggest rocket launch site (CNN / CNBC)
+> SpaceX unveiled plans for a $100 billion spaceport in Vermilion Parish, Louisiana — 125,000 acres of former Exxon land on the Gulf coast, 200 miles west of New Orleans. The facility will feature five launch complexes with two launchpads each, propellant production, power generation, and worker housing; first launches are targeted for 2029 with an expected 3,000–10,000 local jobs. The project would make Louisiana the busiest orbital launch hub on Earth, surpassing SpaceX's existing Texas Starbase. [CNN](https://www.cnn.com/2026/08/25/science/spacex-launch-site-louisiana) / [CNBC](https://www.cnbc.com/2026/08/25/spacex-louisiana-spaceport.html)
+
+> [!note]- Tech: OpenAI launches GPT-Live — native voice AI with sub-300ms latency replaces text-pipeline (AI Herald)
+> OpenAI released GPT-Live, a natively voiced model powering ChatGPT Voice that eliminates the text-pipeline bottleneck of its predecessor, delivering sub-300ms response latency and emotional nuance in real-time spoken interaction. The launch adds to August 2026's unprecedented pace of frontier model releases, with GPT-Live joining GPT-5.5 Omni, Claude Opus 5, Gemini 3.7 Flash, and Grok 4.5 shipping this month. [AI Herald](https://artificialintelligenceherald.com/ai-news-today) / [LLM Stats](https://llm-stats.com/llm-updates)
+
+> [!note]- Economy: Jackson Hole opens — Warsh keynote Fri as 30-yr yield hits 17-yr high, inflation at 3.4% (Yahoo Finance)
+> The Federal Reserve's annual Jackson Hole Economic Symposium opened today (Aug 27–29, Wyoming), with Chair Kevin Warsh — the 17th Fed Chair since May 2026 — set to deliver his debut keynote Friday August 28 at 10am ET. Markets price roughly one-in-three odds of a September rate hike; Warsh faces stubborn inflation at 3.4% and a 30-year Treasury yield of 5.31% — its highest since 2007 — with growth showing strain from trade tensions and geopolitical pressure. Warsh is expected to avoid explicit forward guidance, staying true to his established style. [Yahoo Finance](https://finance.yahoo.com/economy/policy/articles/warsh-first-jackson-hole-speech-200000444.html) / [Fox Business](https://www.foxbusiness.com/economy/fed-chair-warsh-faces-jackson-hole-spotlight-inflation-rate-path-focus)
 
 > [!note]- [[08-26-26 Wed]]
 >
