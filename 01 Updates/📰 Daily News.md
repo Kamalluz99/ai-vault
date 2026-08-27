@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-08-28T05:08
+updated: 2026-08-28T05:10
 topic: daily news
 frequency: daily
 ongoing: false
@@ -63,29 +63,29 @@ unread: true
 
 ### [[08-28-26 Fri]]
 
-> [!note]- AI: Broadcom in talks to raise $60B SPV to lease AI chips to Anthropic — chip-supply race escalates (AIToolsRecap / AI Weekly)
-> Broadcom is in advanced talks to raise more than $60 billion through a special-purpose vehicle to lease custom AI chips to Anthropic and other frontier labs, with Apollo and Blackstone participating. The deal extends a June AI-XPV pact that already committed $35B for Anthropic compute, signalling that the AI chip-supply arms race has shifted from GPU spot markets to multi-year bespoke-silicon financing structures. [AIToolsRecap](https://aitoolsrecap.com/Blog/AINewsAugust2026.aspx) / [AI Weekly](https://aiweekly.co/ai-news-today)
+> [!note]- AI: US White House & major labs finalize voluntary 30-day frontier-model review framework (CNBC)
+> The Trump administration concluded two months of talks with ~12 AI companies — Anthropic, OpenAI, Google, Meta — finalising a voluntary framework granting the federal government 30-day early access to frontier models before public release. The deal explicitly bars mandatory licensing or preclearance, balancing oversight with US AI competitiveness. With the EU's Digital Omnibus AI regulation live since July 27, this marks a pivotal week for global AI governance. [CNBC](https://www.cnbc.com/2026/08/03/white-house-ai-companies-voluntary-framework-meeting.html)
 
-> [!note]- Tech: Amazon to expand Prime Air drone delivery to ~500 US cities by year-end; Samsung unveils LPDDR5X-PIM with 3× token throughput (Tech Startups)
-> Amazon is preparing its largest Prime Air expansion yet, targeting nearly 500 US cities and towns for drone delivery by end of 2026. Meanwhile Samsung unveiled LPDDR5X-PIM — memory that places processing logic alongside DRAM cells — delivering 2.28× faster model runtime and 3× greater token throughput than conventional LPDDR5X, with peak bandwidth jumping from 76.8 GB/s to 614 GB/s. [Tech Startups](https://techstartups.com/2026/08/26/top-tech-news-today-august-26-2026-amazon-anthropic-google-microsoft-waymo-more/)
+> [!breaking]- Tech: Nvidia Q2 FY27 — revenue doubles to $96.2B, data centre $89B, Q3 guided at $108B (CNBC)
+> Nvidia crushed Q2 fiscal 2027 estimates with $96.2 billion in revenue — up 106% year-over-year — driven by $89 billion in data centre sales (117% YoY), representing 92% of total revenue. EPS hit $2.22, more than double the year-ago quarter, with gross margin at 75%; Q3 guidance of $108B ± 2% topped analyst consensus of $104.2B. CEO Jensen Huang said demand is growing beyond 70% but supply-constrained; shares reversed early after-hours losses to gain 5%+, with the CFO projecting 70% FY28 revenue growth. [CNBC](https://www.cnbc.com/2026/08/26/nvidia-nvda-earnings-report-q2-2027-live-updates.html)
 
-> [!note]- Macro: Warsh keynote at 10am ET — debut speech at Jackson Hole as 30-yr yield at 5.31%, July PCE due today (CNBC / Yahoo Finance)
-> Fed Chair Kevin Warsh delivers his first major policy address at Jackson Hole today (Aug 28, 10am ET), with markets pricing ~1-in-3 odds of a September rate hike. Inflation remains stubborn at 3.4% and the 30-year Treasury yield sits at 5.31% — a 17-year high. July PCE is also due today, making it the highest-stakes data day of the summer for rate-path expectations. S&P 500 closed at 7,677 on Tuesday. [CNBC](https://www.cnbc.com/2026/08/23/stock-market-today-live-updates.html) / [Yahoo Finance](https://finance.yahoo.com/economy/policy/articles/warsh-first-jackson-hole-speech-200000444.html)
+> [!note]- Macro: Fed Chair Warsh delivers debut Jackson Hole keynote today; 30-yr yield at 17-yr high (Yahoo Finance)
+> Federal Reserve Chair Kevin Warsh — who took the helm in May 2026 — delivers his inaugural Jackson Hole address today (August 28, 10am ET), with markets pricing roughly one-in-three odds of a September rate hike. The 30-year Treasury yield sits at 5.31%, its highest since 2007, as core inflation holds at 3.4% and July PCE came in slightly above expectations. Warsh is expected to avoid explicit forward guidance, but his tone will set the market narrative for the September FOMC meeting. [Yahoo Finance](https://finance.yahoo.com/economy/policy/articles/warsh-first-jackson-hole-speech-200000444.html)
 
-> [!note]- World: UN COP17 desertification summit wraps in Mongolia (Aug 17–28); Iran executes another Isfahan protester (Wikipedia / UN)
-> The UN Convention to Combat Desertification's COP17 concludes today in Ulaanbaatar, Mongolia after 12 days with representatives from 196 countries and the EU tackling land degradation, drought and desertification. On geopolitics, Iran executed another protester over the 2026 Isfahan unrest as rights groups warn that forced confessions and death sentences are being used to silence dissent. A Guinea landfill landslide also killed 30 people in the capital. [Wikipedia](https://en.wikipedia.org/wiki/Portal:Current_events/August_2026) / [UN](https://www.unccd.int/)
+> [!note]- World: UAE suspends all trade and financial transactions with Iran amid US-led blockade push (WEF / CNN)
+> The United Arab Emirates announced a full suspension of trade and financial transactions with Iran, a significant Gulf realignment as the US-led economic isolation of Tehran tightens. The move follows sweeping US oil sanctions and Washington's call on allies to join what Treasury Secretary Bessent described as "the greatest coordinated economic isolation in history." Iran has continued to threaten Strait of Hormuz shipping; Brent crude holds near $92/barrel on the sustained risk premium. [WEF](https://www.weforum.org/stories/geo-economics-and-politics/blockade-diplomacy-and-other-geopolitical-stories-to-know-this-month/) / [CNN](https://www.cnn.com/2026/08/20/world/live-news/iran-war-trump)
 
-> [!note]- SG & MY: Singapore conditionally approves two firms to import renewable energy from Malaysia's Johor state (Bloomberg)
-> Singapore granted conditional approval to two companies to import renewable power from projects planned in Malaysia's Johor state, a significant step in the city-state's cross-border clean energy strategy. Separately, Malaysia's National Day (Merdeka 69) celebrations kick off on Aug 31 with major road closures across Putrajaya from Aug 26–31 and 80,000+ visitors expected at Dataran Putrajaya. [Bloomberg](https://www.bloomberg.com/news/articles/2026-08-07/singapore-clears-new-plan-to-import-clean-energy-from-malaysia)
+> [!note]- Malaysia: Final Merdeka 69 rehearsals today — 8 Putrajaya roads closed 6am–noon ahead of Aug 31 (Malay Mail)
+> Eight major roads around Putrajaya's ceremonial core are closed from 6am to noon today (Aug 28) and tomorrow for final rehearsals ahead of Malaysia's 69th National Day on August 31, themed "Malaysia MADANI: Kesejahteraan Dinikmati." Over 80,000 visitors are expected at Dataran Putrajaya on the day; a further 100,000 will gather at Dataran Merdeka in Kuala Lumpur for Merdeka Eve on August 30, with Rapid KL running 24-hour services. PDRM has deployed tightened security and traffic controls across both cities. [Malay Mail](https://www.malaymail.com/news/malaysia/2026/08/25/national-day-2026-putrajaya-road-closures-begin-tomorrow-only-two-bridges-to-remain-open/232606)
 
-> [!note]- Science: NASA Roman Space Telescope cleared for Aug 30 Falcon Heavy liftoff — 100× Hubble's field of view (NASA JPL / Science News)
-> NASA's Nancy Grace Roman Space Telescope has passed all pre-launch milestones and is targeting an August 30 launch from Kennedy Space Centre aboard SpaceX's Falcon Heavy. Roman will survey dark matter, dark energy, and exoplanets with a field of view 100 times wider than Hubble. Separately, a partial lunar eclipse (96%) occurred overnight Aug 27–28 and is visible from the Americas; NASA researchers also used AI to find six 3D-printing configurations for a high-performance alloy after just 40 experiments. [NASA JPL](https://www.jpl.nasa.gov/videos/whats-up-august-2026/) / [Science News](https://www.sciencenews.org/sn-magazine/august-2026)
+> [!note]- Science: Brain circuit "brake" discovered that can switch off chronic nerve pain in mice (ScienceDaily)
+> Researchers identified a neural circuit that acts as a biological "brake" on chronic pain: by selectively calming an overactive pain-signalling pathway, they were able to shut down persistent nerve pain in mice that resisted conventional treatment, pointing to a therapeutic target beyond opioids and existing analgesics. In a separate finding, DNA extracted from a nearly 190-year-old museum specimen collected in Nepal confirmed a previously unrecognised distinct Himalayan pangolin species hiding in plain sight across Nepal and northern India. [ScienceDaily](https://www.sciencedaily.com/news/top/health/)
 
 > [!note]- NKE: ~$38.46 (−0.3%) — 12-yr low; Truist downgrades; P&L ≈ −$1,529 on 46-share position; div ex-date Sep 1 ($0.41/share) (Yahoo Finance)
-> Nike's latest closing price is ~$38.46 (Aug 27), a 12-year low, with Truist Financial downgrading shares following Dick's Sporting Goods' weak Q2 which flagged broad footwear demand headwinds. The 46-share position at $71.69 avg cost carries an unrealised loss of ≈ −$1,529 (46 × −$33.23). Dividend ex-date is Sep 1 ($0.41/share); next key catalyst is Q1 FY27 earnings on Sep 24. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/) / [Truist](https://www.cnbc.com/quotes/NKE)
+> Nike closed at ~$38.46 (Aug 27), hitting a 12-year low as Truist Financial downgraded shares following Dick's Sporting Goods' weak Q2 which flagged broad footwear demand headwinds. The 46-share position at $71.69 avg cost carries an unrealised loss of ≈ −$1,529 (46 × −$33.23). Dividend ex-date is Sep 1 ($0.41/share); next key catalyst is Q1 FY27 earnings Sep 24. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/) / [CNBC](https://www.cnbc.com/quotes/NKE)
+
 
 > [!note]- [[08-27-26 Thu]]
->
 >
 > > [!note]- AI: OpenAI's custom inference chip beats Nvidia Blackwell on AI work-per-watt in benchmarks (Tech Startups)
 > > OpenAI confirmed its first custom inference chip outperforms Nvidia's Blackwell systems on AI work per watt in internal benchmark tests — a significant milestone in the push to reduce dependence on external GPU suppliers. The chip targets inference workloads and its efficiency gains could meaningfully lower OpenAI's API compute costs at scale. The news lands alongside Thomson Reuters' debut of 'Thomson', a proprietary LLM trained on decades of legal content at a $40M investment. [Tech Startups](https://techstartups.com/2026/08/26/top-tech-news-today-august-26-2026-amazon-anthropic-google-microsoft-waymo-more/)
@@ -192,7 +192,6 @@ unread: true
 > > > Meta agreed to pay up to $16.68 billion to settle claims by 29 US states that it designed Facebook and Instagram to addict children, averting a high-profile federal trial over social media harms to minors. Roughly $12.7 billion flows to states over 10 years; a further $5.3 billion releases conditionally only if TikTok and YouTube implement comparable daily usage limits, nighttime blocks, and age-assurance measures. Instagram will enforce default midnight-to-6 a.m. blackouts and daily usage caps for all teen accounts nationwide; Meta denied wrongdoing. [CP24](https://www.cp24.com/news/world/2026/08/26/meta-reaches-us1668-billion-settlement-over-social-media-harms-to-children/) / [Yahoo Finance](https://finance.yahoo.com/news/meta-settles-us-states-over-130318028.html)
 > >
 > >
-
 
 ### [[08-24-26 Mon]]
 
