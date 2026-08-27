@@ -82,7 +82,7 @@ unread: true
 > Researchers identified a neural circuit that acts as a biological "brake" on chronic pain: by selectively calming an overactive pain-signalling pathway, they were able to shut down persistent nerve pain in mice that resisted conventional treatment, pointing to a therapeutic target beyond opioids and existing analgesics. In a separate finding, DNA extracted from a nearly 190-year-old museum specimen collected in Nepal confirmed a previously unrecognised distinct Himalayan pangolin species hiding in plain sight across Nepal and northern India. [ScienceDaily](https://www.sciencedaily.com/news/top/health/)
 
 > [!note]- NKE: ~$38.46 (−0.3%) — 12-yr low; Truist downgrades; P&L ≈ −$1,529 on 46-share position; div ex-date Sep 1 ($0.41/share) (Yahoo Finance)
-> Nike closed at ~$38.46 (Aug 27), hitting a 12-year low as Truist Financial downgraded shares following Dick's Sporting Goods' weak Q2 which flagged broad footwear demand headwinds. The 46-share position at $71.69 avg cost carries an unrealised loss of ≈ −$1,529 (46 × −$33.23). Dividend ex-date is Sep 1 ($0.41/share); next key catalyst is Q1 FY27 earnings Sep 24. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/) / [CNBC](https://www.cnbc.com/quotes/NKE)
+> Nike closed at ~$38.46 (Aug 27), hitting a 12-year low as Truist Financial downgraded shares following Dick's Sporting Goods' weak Q2 flagging broad footwear demand headwinds. The 46-share position at $71.69 avg cost carries an unrealised loss of ≈ −$1,529 (46 × −$33.23). Dividend ex-date is Sep 1 ($0.41/share); next key catalyst is Q1 FY27 earnings Sep 24. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/) / [CNBC](https://www.cnbc.com/quotes/NKE)
 
 
 > [!note]- [[08-27-26 Thu]]
