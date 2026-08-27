@@ -128,6 +128,11 @@ unread: true
 > > [!note]- Economy: Jackson Hole opens — Warsh keynote Fri as 30-yr yield hits 17-yr high, inflation at 3.4% (Yahoo Finance)
 > > The Federal Reserve's annual Jackson Hole Economic Symposium opened today (Aug 27–29, Wyoming), with Chair Kevin Warsh — the 17th Fed Chair since May 2026 — set to deliver his debut keynote Friday August 28 at 10am ET. Markets price roughly one-in-three odds of a September rate hike; Warsh faces stubborn inflation at 3.4% and a 30-year Treasury yield of 5.31% — its highest since 2007 — with growth showing strain from trade tensions and geopolitical pressure. Warsh is expected to avoid explicit forward guidance, staying true to his established style. [Yahoo Finance](https://finance.yahoo.com/economy/policy/articles/warsh-first-jackson-hole-speech-200000444.html) / [Fox Business](https://www.foxbusiness.com/economy/fed-chair-warsh-faces-jackson-hole-spotlight-inflation-rate-path-focus)
 >
+> > **Late update (21:08)**
+>
+> > [!breaking]- World: Pakistan hospital fire kills 14 newborns — AC compressor ignites Islamabad PIMS nursery (Al Jazeera / CNN)
+> > An air-conditioning compressor exploded at 6:45 am in the third-floor nursery of the Mother and Child Centre at PIMS hospital in Islamabad, killing at least 14 newborn babies in one of Pakistan's deadliest hospital fires. Prime Minister Shehbaz Sharif ordered an immediate inquiry, suspended senior health ministry official Aslam Ghauri, and pledged strict accountability; investigators are on-site Thursday. It mirrors a 2024 Punjab nursery fire that killed 11 infants, raising urgent questions about AC safety standards across Pakistan's public hospitals. [Al Jazeera](https://www.aljazeera.com/news/2026/8/26/at-least-15-newborns-killed-in-pakistan-hospital-fire) / [CNN](https://www.cnn.com/2026/08/26/asia/pakistan-newborns-hospital-fire-intl-hnk)
+>
 > > [!note]- [[08-26-26 Wed]]
 > >
 > > > [!note]- AI: OpenAI launches GPT-5.5 Omni — real-time multimodal flagship model (AI Release Tracker)
