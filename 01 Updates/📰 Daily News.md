@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-08-28T05:10
+updated: 2026-08-28T20:45
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,26 @@ unread: true
 
 > [!note]- NKE: ~$38.46 (−0.3%) — 12-yr low; Truist downgrades; P&L ≈ −$1,529 on 46-share position; div ex-date Sep 1 ($0.41/share) (Yahoo Finance)
 > Nike closed at ~$38.46 (Aug 27), hitting a 12-year low as Truist Financial downgraded shares following Dick's Sporting Goods' weak Q2 flagging broad footwear demand headwinds. The 46-share position at $71.69 avg cost carries an unrealised loss of ≈ −$1,529 (46 × −$33.23). Dividend ex-date is Sep 1 ($0.41/share); next key catalyst is Q1 FY27 earnings Sep 24. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/) / [CNBC](https://www.cnbc.com/quotes/NKE)
+
+> **Evening update**
+
+> [!note]- SG & MY: Tuas Checkpoint car lanes close from Sept 1 for in-vehicle APCS construction (AsiaOne / Mothership.SG)
+> Car lanes at Tuas Checkpoint will close in phases from September 1 as construction begins on Singapore's Automated Passenger Clearance System (APCS), enabling drivers and passengers to clear immigration without leaving their vehicles via QR code and facial biometrics. The system is expected to roll out to all vehicles at Tuas by early 2027, followed by the redeveloped Woodlands Checkpoint — eliminating the decades-old practice of stepping out at the barrier. Motorcyclists at Tuas gained APCS access in Q3 2026. [AsiaOne](https://www.asiaone.com/singapore/tuas-checkpoint-automated-immigration-clearance-construction-works) / [Mothership.SG](https://mothership.sg/2026/05/automated-clearance-all-vehicles-tuas-checkpoint/)
+
+> [!note]- Malaysia: Haze forces Merdeka Eve address indoors — 18 areas unhealthy, KL briefly world's most polluted (Malay Mail / SCMP)
+> Malaysia's haze worsened sharply on August 28 with 18 monitoring stations recording unhealthy API readings — including Putrajaya (152) and Cheras in KL (159) — as smoke from Kalimantan and Sumatra hotspots blankets the Klang Valley. Kuala Lumpur briefly topped IQAir's global rankings as the most polluted city late Thursday, and was second behind Delhi on Friday morning with an AQI of 169. Prime Minister Anwar Ibrahim's Merdeka Eve address, originally planned for Dataran Merdeka, has been moved indoors to the Putrajaya International Convention Centre; haze is forecast to persist through August 31. [Malay Mail](https://www.malaymail.com/news/malaysia/2026/08/28/haze-worsens-as-18-areas-across-malaysia-including-kl-putrajaya-record-unhealthy-air-quality/232952) / [SCMP](https://www.scmp.com/news/asia/southeast-asia/article/3365522/malaysia-moves-anwars-national-day-speech-indoors-haze-spikes)
+
+> [!breaking]- World: US declares Strait of Hormuz shipping lanes mine-free; Trump: "That sucker is open" (Bloomberg / Gulf News)
+> Admiral Brad Cooper, head of US Central Command, declared Thursday night that Navy divers, SEALs, and aircraft have "meticulously and quietly" cleared Iranian sea mines from internationally recognised transit routes in the Strait of Hormuz — a landmark milestone in the months-long Hormuz crisis. President Trump celebrated bluntly: "That sucker is open." Qatar has entered de-escalation talks with Iran alongside the announcement, and a new US carrier group is en route to the region; roughly 20–30 tankers are transiting nightly, about half pre-war levels, with Brent crude expected to ease from its elevated $92/barrel risk premium. [Bloomberg](https://www.bloomberg.com/news/articles/2026-08-28/us-commander-in-video-declares-hormuz-shipping-lanes-mine-free) / [Gulf News](https://gulfnews.com/world/mena/us-declares-hormuz-mine-cleared-as-qatar-iran-seek-de-escalation-and-new-carrier-heads-to-middle-east-1.500654981)
+
+> [!note]- World: DRC Ebola hits 5,713 cases and 2,744 deaths — largest outbreak in Congo's history (WHO / UN News)
+> The 2026 Ebola epidemic in the Democratic Republic of the Congo has reached 5,713 confirmed cases and 2,744 deaths, making it the largest and deadliest Ebola outbreak in the country's history; it is caused by the Bundibugyo virus strain. The outbreak now spans 54 health zones across six provinces, with Ituri province accounting for roughly 90% of cases; Uganda was declared Ebola-free on August 25 after 42 days without a new case. UN health officials warn that transmission is outpacing contact tracing, and the virus has spread to two new health zones this week. [WHO](https://www.who.int/emergencies/situations/ebola-outbreak---drc-2026) / [UN News](https://news.un.org/en/story/2026/08/1168137)
+
+> [!note]- Tech: Intel unveils Xeon 7 'Diamond Rapids' at Hot Chips — 256 cores, 22 chiplets; Samsung debuts LPDDR5X-PIM (AI Weekly)
+> Intel revealed its next-generation Xeon 7 "Diamond Rapids" server CPU at Hot Chips 2026, featuring up to 256 cores across 22 chiplets — a dramatic leap in data centre compute density targeting AI and HPC workloads — but pushed the platform launch from late 2026 to early 2027. Separately, Samsung introduced LPDDR5X-PIM, embedding processing logic directly alongside DRAM cells to eliminate data-movement bottlenecks, signalling the next frontier in memory-compute integration. A Pew Research survey also found 34% of US adults now use AI chatbots for at least one health-related task, led by quick health information lookups (28%). [AI Weekly](https://aiweekly.co/ai-news-today)
+
+> [!note]- Economy: Warsh delivers Jackson Hole debut — bond markets volatile, 30-yr yield at 17-yr high, Sept hike odds in focus (Yahoo Finance / KuCoin)
+> Federal Reserve Chair Kevin Warsh delivered his inaugural Jackson Hole keynote this morning (10am ET), marking his first major policy signal three months into his tenure as the 17th Fed Chair. Warsh inherits a 30-year Treasury yield of 5.31% — its highest since 2007 — with core inflation at 3.4% still well above the 2% target and markets pricing roughly one-in-three odds of a September rate hike. Goldman Sachs had warned of amplified FX volatility depending on tone; analysts watched closely for any signal on whether the hiking cycle is paused or finished, and whether Warsh might revisit the Fed's long-standing inflation targeting framework. [Yahoo Finance](https://finance.yahoo.com/economy/policy/articles/warshs-jackson-hole-speech-course-050258340.html) / [KuCoin](https://www.kucoin.com/news/flash/fed-chair-kevin-warsh-s-jackson-hole-speech-sparks-bond-market-speculation)
 
 
 > [!note]- [[08-27-26 Thu]]
