@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-08-28T05:10
+updated: 2026-08-28T22:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -81,8 +81,22 @@ unread: true
 > [!note]- Science: Brain circuit "brake" discovered that can switch off chronic nerve pain in mice (ScienceDaily)
 > Researchers identified a neural circuit that acts as a biological "brake" on chronic pain: by selectively calming an overactive pain-signalling pathway, they were able to shut down persistent nerve pain in mice that resisted conventional treatment, pointing to a therapeutic target beyond opioids and existing analgesics. In a separate finding, DNA extracted from a nearly 190-year-old museum specimen collected in Nepal confirmed a previously unrecognised distinct Himalayan pangolin species hiding in plain sight across Nepal and northern India. [ScienceDaily](https://www.sciencedaily.com/news/top/health/)
 
-> [!note]- NKE: ~$38.46 (−0.3%) — 12-yr low; Truist downgrades; P&L ≈ −$1,529 on 46-share position; div ex-date Sep 1 ($0.41/share) (Yahoo Finance)
-> Nike closed at ~$38.46 (Aug 27), hitting a 12-year low as Truist Financial downgraded shares following Dick's Sporting Goods' weak Q2 flagging broad footwear demand headwinds. The 46-share position at $71.69 avg cost carries an unrealised loss of ≈ −$1,529 (46 × −$33.23). Dividend ex-date is Sep 1 ($0.41/share); next key catalyst is Q1 FY27 earnings Sep 24. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/) / [CNBC](https://www.cnbc.com/quotes/NKE)
+> [!note]- NKE: $38.99 (+1.4%) — holds near 12-yr low; P&L ≈ −$1,504 on 46-share position; div ex-date Sep 1 ($0.41/share) (Yahoo Finance)
+> Nike closed at $38.99 on August 28 — up +1.4% from yesterday's 12-year closing low of $38.46, though the stock remains deeply below its avg cost. The 46-share position at $71.69 avg cost carries an unrealised loss of ≈ −$1,504 (46 × −$32.70). Dividend ex-date Sep 1 ($0.41/share); next key catalyst is Q1 FY27 earnings Sep 24. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/) / [CNBC](https://www.cnbc.com/quotes/NKE)
+
+> **Evening update**
+
+> [!breaking]- World: US declares Strait of Hormuz mine-free; Trump: "That sucker is open" (Bloomberg / Gulf News)
+> Admiral Brad Cooper, head of US Central Command, declared Navy divers, SEALs, and aircraft have "meticulously and quietly" cleared Iranian sea mines from internationally recognised transit routes in the Strait of Hormuz. President Trump celebrated bluntly: "That sucker is open." Qatar entered de-escalation talks with Iran alongside the announcement; roughly 20–30 tankers are transiting nightly — about half pre-war levels — with Brent crude expected to ease from its $92/barrel risk premium. [Bloomberg](https://www.bloomberg.com/news/articles/2026-08-28/us-commander-in-video-declares-hormuz-shipping-lanes-mine-free) / [Gulf News](https://gulfnews.com/world/mena/us-declares-hormuz-mine-cleared-as-qatar-iran-seek-de-escalation-and-new-carrier-heads-to-middle-east-1.500654981)
+
+> [!note]- Macro: Warsh warns inflation "still too high" in Jackson Hole debut — rate hike by year-end back in play (CNBC / Forbes)
+> Fed Chair Kevin Warsh delivered his inaugural Jackson Hole speech, warning that "underlying trends" in inflation have not meaningfully improved despite better summer readings — stopping short of explicit forward guidance but clearly opening the door to a rate hike by October or December. Bond markets sold off on the hawkish tone. Separately, Bitcoin briefly touched $81,237 on Aug 25 — its highest since May — before pulling back to ~$79.5K Friday, supported by $1.92B in ETF inflows. [CNBC](https://www.cnbc.com/2026/08/28/kevin-warsh-jackson-hole-federal-reserve-inflation.html) / [Forbes](https://www.forbes.com/sites/tylerroush/2026/08/28/fed-chair-kevin-warsh-says-inflation-still-too-high-in-first-jackson-hole-speech/)
+
+> [!note]- Malaysia: Haze forces PM Anwar's Merdeka Eve address indoors — KL briefly world's most polluted city (Malay Mail / SCMP)
+> Malaysia's haze worsened sharply on August 28 with 18 monitoring stations recording unhealthy API readings — including Putrajaya (152) and Cheras in KL (159) — as Kalimantan and Sumatra fire hotspots blanketed the Klang Valley. Kuala Lumpur briefly topped IQAir's global rankings as the most polluted city, and was second behind Delhi on Friday with an AQI of 169. Prime Minister Anwar Ibrahim's Merdeka Eve address has been moved indoors to the Putrajaya International Convention Centre; haze is forecast to persist through August 31. [Malay Mail](https://www.malaymail.com/news/malaysia/2026/08/28/haze-worsens-as-18-areas-across-malaysia-including-kl-putrajaya-record-unhealthy-air-quality/232952) / [SCMP](https://www.scmp.com/news/asia/southeast-asia/article/3365522/malaysia-moves-anwars-national-day-speech-indoors-haze-spikes)
+
+> [!note]- SG & MY: Tuas Checkpoint car lanes close from Sept 1 for in-vehicle APCS immigration construction (AsiaOne / Mothership.SG)
+> Car lanes at Tuas Checkpoint will close in phases from September 1 as construction begins on Singapore's Automated Passenger Clearance System (APCS), enabling drivers and passengers to clear immigration without leaving their vehicles via QR code and facial biometrics. The system is expected to roll out to all vehicles at Tuas by early 2027, followed by the redeveloped Woodlands Checkpoint — eliminating the decades-old practice of stepping out at the barrier. [AsiaOne](https://www.asiaone.com/singapore/tuas-checkpoint-automated-immigration-clearance-construction-works) / [Mothership.SG](https://mothership.sg/2026/05/automated-clearance-all-vehicles-tuas-checkpoint/)
 
 
 > [!note]- [[08-27-26 Thu]]
