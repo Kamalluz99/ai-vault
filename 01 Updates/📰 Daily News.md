@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-08-29T20:30
+updated: 2026-08-30T05:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -60,6 +60,29 @@ unread: true
 > ```
 
 ## 2026-08
+
+### [[08-30-26 Sun]]
+
+> [!note]- AI: Federal judge rules Trump admin's Anthropic "national security risk" label illegal and baseless (Washington Post)
+> A federal judge in San Francisco ruled that the Trump administration's designation of AI firm Anthropic as a national security risk was "illegal and baseless," dealing a significant legal setback to the White House's effort to restrict the AI startup. The ruling follows the Pentagon's earlier retaliation against Anthropic after it refused a contract that would have overridden its safety restrictions on how Claude can be used. The decision adds to a broader regulatory whipsaw around AI in Washington this month. [Washington Post](https://www.washingtonpost.com/technology/innovations/)
+
+> [!note]- Tech: Amazon shuts down Mechanical Turk after 21 years, ending the marketplace that trained the ML era (Tech Startups)
+> Amazon is closing Mechanical Turk, the human-work crowdsourcing platform it launched in 2005, after 21 years of operation. The platform was foundational to the machine-learning era, supplying the labelled training data behind countless AI models. Its closure is widely seen as a signal that AI-generated synthetic data has displaced the need for human-annotated datasets at scale. The shutdown comes as tech layoffs in 2026 have already hit 127,000 workers, with AI cited as the driver in half of all events. [Tech Startups](https://techstartups.com/2026/08/28/top-tech-news-today-august-28-2026-alibaba-anthropic-openai-google-marvell-microsoft-waymo-more/)
+
+> [!note]- Macro: Fed's Warsh flags elevated inflation at Jackson Hole; gold at $4,637/oz; 30-yr yield flat at 5.24% (CNBC)
+> Federal Reserve Chair Kevin Warsh wrapped the Jackson Hole Symposium (Aug 27–29) expressing concern about elevated inflation while avoiding any forward guidance on rate timing — leaving markets no clearer on a September FOMC cut. The 30-year U.S. Treasury yield ended the week flat at 5.2371%, near its highest since 2007. Gold continued its August rally at $4,637/oz (+0.75%) on safe-haven demand; WTI oil fell ~1.6% to $85.65/bbl ahead of incoming Iran sanctions details. [CNBC](https://www.cnbc.com/2026/08/27/stock-market-today-live-updates.html)
+
+> [!breaking]- World: Bulk carrier Minoan Pioneer missing in Strait of Hormuz after projectile strike; Yemen sinks Indian cargo ship (News.az)
+> The Liberian-flagged bulk carrier Minoan Pioneer has gone missing in the Strait of Hormuz after being struck by an unknown projectile northeast of Oman — the first major Hormuz incident since the US declared shipping lanes mine-free earlier this week. Separately, Yemen's internationally recognised government reports a projectile attack sank the Indian-flagged cargo ship MSV Faize Noore Oliya in the Red Sea near Hodeidah; all 14 crew were rescued. Both incidents risk undercutting last week's Hormuz de-escalation momentum. [News.az](https://news.az/time/2026/8/30)
+
+> [!note]- Malaysia: Merdeka Eve — 100,000 expected at Dataran Merdeka midnight countdown amid haze (Malay Mail)
+> Malaysia's Merdeka 69 celebrations reach their centrepiece tonight with a midnight countdown at Dataran Merdeka in Kuala Lumpur, where up to 100,000 people are expected to gather, while Dataran Putrajaya prepares for 80,000+ at Monday's national parade. Persistent haze from Kalimantan and Sumatra continues to cloud the festivities — 18 monitoring stations recorded unhealthy API readings, with PM Anwar Ibrahim's Merdeka address relocated indoors to the Putrajaya International Convention Centre. Rapid KL is running 24-hour services through the long weekend. [Malay Mail](https://www.malaymail.com/)
+
+> [!note]- Science: NASA's Roman Space Telescope cleared for liftoff today aboard SpaceX Falcon Heavy (Space.com)
+> NASA's Nancy Grace Roman Space Telescope has been cleared for its targeted August 30 launch aboard a SpaceX Falcon Heavy rocket. Roman will survey wide swaths of sky to probe dark energy, dark matter, exoplanets, and distant galaxies — capabilities that complement the James Webb Space Telescope's deep but narrow view. It is one of NASA's flagship astrophysics missions and has been in development for over a decade. [Space.com](https://www.space.com/)
+
+> [!note]- NKE: $39.60 (+3.0%) — Nike names Walmart's Jane Ewing CCO to lead comeback from 12-year stock low (Yahoo Finance)
+> Nike (NKE) closed Friday at $39.60, up 3.0% from Thursday's $38.44 close, but remains near a 12-year low within a 52-week range of $38.17–$79.13. The company named Jane Ewing, formerly of Walmart, as its new Chief Commercial Officer in a leadership reshuffling aimed at reversing steep China revenue declines. At $39.60, NKE is trading $32.09 below the avg cost basis of $71.69 on 46 shares (-$1,476 unrealised). The analyst consensus price target is $50.52. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
 
 ### [[08-29-26 Sat]]
 
