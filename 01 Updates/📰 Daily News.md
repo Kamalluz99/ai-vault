@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-08-30T05:00
+updated: 2026-08-29T21:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -103,6 +103,9 @@ unread: true
 
 > [!breaking]- Science: First mRNA cancer vaccine succeeds in Phase 3 — Moderna/Merck halve melanoma recurrence (STAT News / Merck)
 > Moderna and Merck announced August 19 that their personalized mRNA cancer vaccine intismeran (combined with Keytruda/pembrolizumab) met both the primary endpoint of recurrence-free survival and the secondary endpoint of distant metastasis-free survival in the Phase 3 INTerpath-001 trial for completely resected Stage IIB–IV melanoma. It is the first mRNA-based cancer treatment and the first "neoantigen" vaccine to succeed in a late-stage randomised clinical trial — a landmark for the entire field. Moderna shares nearly tripled on the announcement, adding ~$44B in market cap; the companies are now preparing a regulatory submission. [STAT News](https://www.statnews.com/2026/08/19/mrna-cancer-vaccine-trial-melanoma-merck-moderna/) / [Merck](https://www.merck.com/news/merck-and-moderna-announce-phase-3-interpath-001-trial-of-intismeran-autogene-plus-keytruda-met-endpoints-of-recurrence-free-survival-rfs-and-distant-metastasis-free-survival-dmfs-in-patient/)
+
+> [!note]- NKE: $39.60 (Fri close, mkts closed Sat) — Jane Ewing named CCO; −$1,476 unrealised (Yahoo Finance)
+> Nike (NKE) last traded at $39.60 on Friday, August 28, up 3.0% from Thursday's $38.44 close — US equity markets are closed on Saturday. The company named Jane Ewing, formerly Walmart's EVP of Supply Chain, as its new Chief Commercial Officer, a leadership rebuild aimed at reversing steep China revenue declines from a 12-year stock low (52-week range: $38.17–$79.13). At $39.60 per share, 46 shares sit $32.09 below average cost of $71.69 — unrealised loss of −$1,476 USD. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
 
 > **Evening update**
 
