@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-08-29T05:09
+updated: 2026-08-29T20:30
 topic: daily news
 frequency: daily
 ongoing: false
@@ -80,6 +80,26 @@ unread: true
 
 > [!breaking]- Science: First mRNA cancer vaccine succeeds in Phase 3 — Moderna/Merck halve melanoma recurrence (STAT News / Merck)
 > Moderna and Merck announced August 19 that their personalized mRNA cancer vaccine intismeran (combined with Keytruda/pembrolizumab) met both the primary endpoint of recurrence-free survival and the secondary endpoint of distant metastasis-free survival in the Phase 3 INTerpath-001 trial for completely resected Stage IIB–IV melanoma. It is the first mRNA-based cancer treatment and the first "neoantigen" vaccine to succeed in a late-stage randomised clinical trial — a landmark for the entire field. Moderna shares nearly tripled on the announcement, adding ~$44B in market cap; the companies are now preparing a regulatory submission. [STAT News](https://www.statnews.com/2026/08/19/mrna-cancer-vaccine-trial-melanoma-merck-moderna/) / [Merck](https://www.merck.com/news/merck-and-moderna-announce-phase-3-interpath-001-trial-of-intismeran-autogene-plus-keytruda-met-endpoints-of-recurrence-free-survival-rfs-and-distant-metastasis-free-survival-dmfs-in-patient/)
+
+> **Evening update**
+
+> [!note]- SG & MY: Singapore NEA warns haze risk rising; SIIA flags Aug–Sep as rare "Red" peak danger (NEA / SIIA)
+> Singapore's National Environment Agency issued an advisory on August 29 warning that haze risk could worsen in the coming week as hotspots multiply across Kalimantan and southern Sumatra, with prevailing south-to-southeast winds expected to push smoke across the strait. The Singapore Institute of International Affairs had already issued a rare "Red" alert for 2026, naming August–September as the peak danger period — the highest warning since 2015. Malaysia already has 12 areas with unhealthy API readings, with Sarawak's Serian district topping the nation at 193. Both countries are on heightened alert as conditions are forecast to remain dry. [Mothership.SG](https://mothership.sg/2026/08/haze-risk-increase-nea/) / [SIIA](https://siiaonline.org/siia-haze-outlook-2026-in-the-media-august-2026/)
+
+> [!note]- Malaysia: Merdeka Eve countdown tomorrow — 100,000 at Dataran Merdeka; haze clouds outdoor events (Malay Mail / WAHDAH)
+> Malaysia's Merdeka Eve celebrations begin tomorrow (Sunday, Aug 30) with projection mapping and a midnight countdown at Dataran Merdeka in Kuala Lumpur, where 100,000 people are expected to gather, while Dataran Putrajaya prepares for over 80,000 at Monday's Merdeka 69 parade. The persistent haze from Kalimantan and Sumatra is disrupting outdoor festivities — several state events have been scaled back indoors, and PM Anwar Ibrahim's address was already relocated to the Putrajaya International Convention Centre. Rapid KL is running 24-hour services through the long weekend. [Malay Mail](https://www.malaymail.com/) / [WAHDAH](https://www.wahdah.my/blog/what-to-do-on-merdeka-day-2026-parades-celebrations-more)
+
+> [!breaking]- World: Nepal flash floods kill 626, leave 2,500+ missing — India and China mobilise rescue teams (CNN / India TV News)
+> Catastrophic flash floods and mudslides that struck a 72-km stretch of the Trishuli River in Nepal's Rasuwa and Nuwakot districts on August 26 have killed at least 626 people as of Saturday, with over 2,500 still missing. The floods buried dozens of settlements along the Nepal-China border and rescue teams are racing to reach remote areas before conditions deteriorate further. India has deployed an 11-member specialist rescue team, and China is assisting from the border side. UN officials warn this could be the deadliest single flood event in Nepal's recorded history. [CNN](https://www.cnn.com/2026/08/26/world/live-news/nepal-flash-flooding-floods-intl) / [India TV News](https://www.indiatvnews.com/news/world/nepal-flash-flood-deaths-rise-to-616-over-2-500-still-missing-india-sends-11-member-team-to-assist-on-rescue-2026-08-29-1052706)
+
+> [!note]- World: Trump announces "biggest oil deal in history" — US secures majority control of Venezuela's 65B barrels (CNN / Al Jazeera)
+> President Trump announced late Friday that the US has struck what he called "THE BIGGEST OIL DEAL IN WORLD HISTORY" with Venezuela, securing majority US control of more than 65 billion barrels of proven oil reserves "at no cost to" taxpayers, brokered by Secretary of State Marco Rubio and Secretary Pete Hegseth. Venezuela's revenue under the deal would be used exclusively to purchase American goods. Details on specific fields, companies involved, and how majority control will be exercised were not disclosed, leaving oil markets and analysts scrutinising the terms. [CNN](https://us.cnn.com/2026/08/28/politics/trump-venezuela-oil-deal) / [Al Jazeera](https://www.aljazeera.com/news/2026/8/29/trump-announces-biggest-oil-deal-in-world-history-with-venezuela)
+
+> [!note]- Tech: OpenAI, Anthropic, Google and 100+ companies sign open letter for coordinated defence against rogue AI (TechCrunch)
+> Over 100 companies — including OpenAI, Anthropic, Google, and Microsoft — co-signed an open letter calling on the private sector and governments to coordinate defences against AI-enabled cyber threats and rogue AI systems, marking a rare moment of public alignment across rival labs. The letter advocates for information sharing, incident response frameworks, and baseline AI security standards. Separately, Anthropic won a significant federal court ruling finding the Pentagon unlawfully retaliated against the company after it refused a contract that would have overridden its restrictions on Claude being used in lethal autonomous weapons systems. [TechCrunch](https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/)
+
+> [!note]- Economy: SEA chip boom lifts Vietnam and Philippines toward high-income status; Malaysia shields farmland from AI land rush (Nikkei Asia / ISEAS)
+> A semiconductor manufacturing and AI data centre boom is accelerating economic upgrading across Southeast Asia — Vietnam and the Philippines are both on track for reclassification to "high-income" status, driven by surging chip exports and foreign investment. Malaysia, however, is seeking legislative protections to shield prime agricultural land from conversion for AI data centres and chipmaking facilities, as global tech giants scout for power-cheap land. The region's digital economy is projected to exceed $1 trillion by 2030, but governments are grappling with the trade-off between growth and land use. [Nikkei Asia](https://asia.nikkei.com/economy/south-east-asia) / [ISEAS](https://www.iseas.edu.sg/library/blog/daily-news-alerts/260818)
 
 > [!note]- [[08-28-26 Fri]]
 >
