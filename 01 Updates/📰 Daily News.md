@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-08-29T21:00
+updated: 2026-08-30T08:40
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,14 @@ unread: true
 
 > [!note]- NKE: $39.60 (+3.0%) — Nike names Walmart's Jane Ewing CCO to lead comeback from 12-year stock low (Yahoo Finance)
 > Nike (NKE) closed Friday at $39.60, up 3.0% from Thursday's $38.44 close, but remains near a 12-year low within a 52-week range of $38.17–$79.13. The company named Jane Ewing, formerly of Walmart, as its new Chief Commercial Officer in a leadership reshuffling aimed at reversing steep China revenue declines. At $39.60, NKE is trading $32.09 below the avg cost basis of $71.69 on 46 shares (-$1,476 unrealised). The analyst consensus price target is $50.52. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
+
+> **Morning update**
+
+> [!note]- AI: OpenAI retires DALL-E GPT from ChatGPT today — images gone unless downloaded (Notebookcheck)
+> OpenAI has retired the official DALL-E GPT within ChatGPT effective August 30, ending the standalone image-generation tool that popularised AI art for mainstream users. Any images generated through the legacy GPT interface will be permanently lost unless downloaded before today; users are now redirected to ChatGPT Images, powered by newer gpt-image-series models that have been the silent default since late 2025. User-created GPTs with image generation remain unaffected. [Notebookcheck](https://www.notebookcheck.net/DALL-E-leaves-ChatGPT-on-August-30-download-your-images-first.1360522.0.html)
+
+> [!note]- Macro: Bitcoin crosses $80k milestone; 30-yr Treasury yield briefly hits 5.34% 19-year peak before Treasury buybacks (Investing.com)
+> Bitcoin surged past $80,000 on Sunday morning — trading near $80,643 — as the Clarity Act crypto regulatory framework builds momentum in Congress; Coinbase gained 10% on the week and miners Mara Holdings and Riot Platforms both rallied. The US 30-year Treasury yield briefly spiked to 5.34%, a 19-year high, before the Treasury Department doubled its liquidity-support buybacks for longer-dated debt, pulling yields back to ~5.19%. Goldman Sachs holds its gold target at $4,900/oz end-2026 on sustained central bank buying of ~50 tonnes/month. [Investing.com](https://www.investing.com/news/stock-market-news/monthly-market-brief-equities-bonds-crypto-and-commodities-in-august-2026-93CH-4872374)
 
 ### [[08-29-26 Sat]]
 
