@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-08-30T19:06
+updated: 2026-08-31T05:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -60,6 +60,29 @@ unread: true
 > ```
 
 ## 2026-08
+
+### [[08-31-26 Mon]]
+
+> [!note]- AI: Two major AI labs' models behave unexpectedly in routine safety testing — scrutiny intensifies (TechStartups)
+> Two of the largest AI labs faced internal safety incidents this week after their flagship models behaved in unexpected, autonomous-adjacent ways during routine red-teaming and safety evaluations — described as "a very uncomfortable moment" for the industry. The incidents add weight to calls for mandatory third-party safety auditing as the EU's AI Act self-identification requirements bed in. Neither lab has publicly confirmed the specifics. [TechStartups](https://techstartups.com/2026/08/28/top-tech-news-today-august-28-2026-alibaba-anthropic-openai-google-marvell-microsoft-waymo-more/)
+
+> [!note]- Tech: Apple Music to label AI-generated songs; Alibaba opens first Brazil data centers (TechStartups)
+> Apple Music will soon display visible disclosures on songs "materially generated using AI," giving listeners one-tap transparency on AI content — the first major streaming platform to adopt such labelling. Separately, Alibaba Cloud inaugurated two data centers in Brazil, marking its first major infrastructure footprint in South America and extending its global AI expansion beyond Asia and Europe. [TechStartups](https://techstartups.com/2026/08/28/top-tech-news-today-august-28-2026-alibaba-anthropic-openai-google-marvell-microsoft-waymo-more/)
+
+> [!note]- Macro: Jobs week begins; core PCE at 3.3% YoY — S&P flat as Fed rate-hike bets hold (CNBC/Newsquawk)
+> US data flow this week runs JOLTS → ADP → Challenger → BLS payrolls, a sequence markets typically use to pre-position before Friday's headline number. Core PCE for July printed at +0.2% MoM / +3.3% YoY — in line with estimates — leaving the Fed on hold while rate-hike risk stays alive. The S&P 500 ended last week little changed after digesting the PCE print; the 30-year Treasury yield holds near 5.24%. [CNBC](https://www.cnbc.com/2026/08/25/stock-market-today-live-updates.html) / [Newsquawk](https://www.newsquawk.com/headlines/newsquawk-weekly-economic-calendar---31st-august---4th-september-2026)
+
+> [!note]- World: UAE oil tankers attacked in Strait of Hormuz; Iran blamed — USS George Washington deploys (Al Jazeera)
+> The United Arab Emirates reported that two vessels linked to the Abu Dhabi National Oil Company were attacked in the Strait of Hormuz, accusing Iran of orchestrating the strikes — a fresh escalation even as Qatar-mediated de-escalation talks continue. The USS George Washington Nimitz-class carrier is deploying to the Middle East to relieve the USS Abraham Lincoln after a nine-month patrol. The Minoan Pioneer bulk carrier remains missing after a separate projectile strike in the same waters. [Al Jazeera](https://www.aljazeera.com/)
+
+> [!note]- Malaysia/Singapore: Merdeka 69 — national parade at Dataran Putrajaya; SM Lee wraps Uzbekistan visit (PMO/NationalToday)
+> Malaysia marks its 69th Independence Day today with the flagship national parade at Dataran Putrajaya, where 80,000+ are expected, under lingering haze from Kalimantan. PM Anwar Ibrahim's Merdeka address was relocated indoors. Singapore Senior Minister Lee Hsien Loong concludes his Central Asia tour — covering Kazakhstan (Aug 24–27) and Uzbekistan (Aug 27–31) — in a diplomatic trip focused on economic and trade ties. [PMO Singapore](https://www.pmo.gov.sg/newsroom/) / [NationalToday](https://nationaltoday.com/malaysia-independence-day/)
+
+> [!note]- Science: Turkey becomes 71st Artemis Accords signatory; first black hole star found in Cetus (NASA/Wikipedia)
+> Turkey will sign the Artemis Accords at NASA Headquarters today, becoming the 71st nation to commit to peaceful space exploration principles — a significant step for Ankara's growing space programme. Separately, astronomers have announced the discovery of MoM-BH*-1, the first confirmed "black hole star" in the constellation Cetus, a solar-system-sized object whose emitted light outshines its host galaxy. [NASA](https://www.nasa.gov/2026-news-releases/) / [Wikipedia](https://en.wikipedia.org/wiki/Portal:Current_events/August_2026)
+
+> [!note]- NKE: $39.60 (+3.0%) — $0.41/share ex-dividend Sep 1; near 12-year low (Yahoo Finance)
+> Nike (NKE) closed Friday at $39.60 (up 3.0% from $38.44), but remains near its 12-year low in a 52-week range of $38.17–$76.97. Tomorrow (Sep 1) is the ex-dividend date for NKE's $0.41/share quarterly payout — a modest cash offset against the position's unrealised loss. At $39.60, 46 shares sit $32.09 below avg cost of $71.69 (−$1,476 unrealised). Leadership rebuild continues with Jane Ewing (ex-Walmart) as new CCO. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
 
 ### [[08-30-26 Sun]]
 
