@@ -135,6 +135,14 @@ unread: true
 > [!note]- Science: Roman Space Telescope lifts off on Falcon Heavy at 07:26 EDT — bound for Earth-Sun L2 (SpaceNews / MSN)
 > NASA's Nancy Grace Roman Space Telescope launched aboard a SpaceX Falcon Heavy from Kennedy Space Center's Launch Complex 39A at 07:26 EDT (19:26 SGT) on August 30, beginning a 30-day cruise to the Earth-Sun Lagrange Point 2, roughly 930,000 miles away. Roman's 288-megapixel Wide Field Instrument will survey wide swaths of sky with a field of view at least 100× larger than Hubble's, probing dark energy, dark matter, exoplanets, and distant galaxies over a projected five-year mission. Science operations are expected to begin in early 2027 following commissioning. [SpaceNews](https://spacenews.com/roman-space-telescope-ready-for-aug-30-launch/) / [MSN](https://www.msn.com/en-us/news/other/falcon-heavy-to-launch-nancy-grace-roman-space-telescope-aug-30/gm-GMFE79528E)
 
+> **Late night update**
+
+> [!breaking]- World: Nepal-Tibet glacier collapse — 750 dead, 3,000+ missing in catastrophic Himalayan flood (CNN / Al Jazeera)
+> A glacier near Langtang Lirung peak in Nepal collapsed and plunged into the river below, triggering catastrophic floods and landslides across Nepal and Tibet that have killed at least 750 people with more than 3,000 still missing as of Sunday evening. Rescue operations have been repeatedly suspended due to bad weather and a landslide-formed lake on the Nepal-China border that began overflowing — a secondary dam detected downstream on Saturday risks a fresh inundation wave. The Red Cross estimates some 90,000 people are likely affected by the disaster. [CNN](https://www.cnn.com/2026/08/30/world/live-news/nepal-china-flood) / [Al Jazeera](https://www.aljazeera.com/news/2026/8/27/nepal-tibet-floods-what-happened-what-caused-them-and-who-is-missing)
+
+> [!note]- World: CIA's Ratcliffe made covert Moscow visit proposing Trump-Putin-Zelensky summit (Axios / Ukrainska Pravda)
+> CIA Director John Ratcliffe made a covert trip to Moscow earlier this week, meeting Russian intelligence chiefs Naryshkin (SVR) and Bortnikov (FSB) and floating a trilateral Trump-Putin-Zelensky summit aimed at restarting US-mediated peace talks on Ukraine. Ukraine was briefed on Friday — Zelensky supported the proposal — but Putin rejected it; the Kremlin subsequently denied any agreement was reached. Trump called the visit "semi-routine" while acknowledging its purpose was to end the war. [Axios](https://www.axios.com/2026/08/29/cia-director-ratcliffe-putin-zelensky-summit-war) / [Ukrainska Pravda](https://www.pravda.com.ua/eng/news/2026/08/30/8050987/)
+
 ### [[08-29-26 Sat]]
 
 > [!note]- AI: 2026 model race pace: 9 frontier releases in Aug's first week, GLM-5.3-Flash latest (LLM Stats)
