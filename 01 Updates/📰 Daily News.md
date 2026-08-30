@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-08-30T08:40
+updated: 2026-08-30T19:06
 topic: daily news
 frequency: daily
 ongoing: false
@@ -91,6 +91,26 @@ unread: true
 
 > [!note]- Macro: Bitcoin crosses $80k milestone; 30-yr Treasury yield briefly hits 5.34% 19-year peak before Treasury buybacks (Investing.com)
 > Bitcoin surged past $80,000 on Sunday morning — trading near $80,643 — as the Clarity Act crypto regulatory framework builds momentum in Congress; Coinbase gained 10% on the week and miners Mara Holdings and Riot Platforms both rallied. The US 30-year Treasury yield briefly spiked to 5.34%, a 19-year high, before the Treasury Department doubled its liquidity-support buybacks for longer-dated debt, pulling yields back to ~5.19%. Goldman Sachs holds its gold target at $4,900/oz end-2026 on sustained central bank buying of ~50 tonnes/month. [Investing.com](https://www.investing.com/news/stock-market-news/monthly-market-brief-equities-bonds-crypto-and-commodities-in-august-2026-93CH-4872374)
+
+> **Evening update**
+
+> [!note]- Singapore & Malaysia: Singapore Q2 GDP beats at 5.7%; MAS unveils S$7T asset-management hub drive (MAS / The Edge SG)
+> Singapore's economy expanded 5.7% year-on-year in Q2 2026, ahead of forecasts, led by robust AI-related tech manufacturing and financial services. On August 19, the Monetary Authority of Singapore announced a package of measures to cement Singapore's standing as a leading asset management hub — the sector now oversees nearly S$7 trillion in assets under management, growing at 7.5% annually for five consecutive years. MAS cited global AI capital expenditure flows as a key tailwind, with the Johor-Singapore Special Economic Zone drawing increasing bilateral investment interest. [MAS](https://www.mas.gov.sg/news/media-releases/2026/mas-introduces-measures-to-strengthen-singapores-competitiveness-as-a-leading-asset-management-hub) / [The Edge SG](https://www.theedgesingapore.com/news/singapore-economy/singapore-economy-should-continue-expand-firm-pace-second-half-2026-mas)
+
+> [!note]- Malaysia: Danantara takes control of $70B resource export portfolio on Merdeka Eve (SCMP)
+> Malaysia's state-linked investment entity Danantara Sumberdaya has assumed operational oversight of the country's coal, palm oil and nickel export portfolio — valued at approximately $70 billion — in a significant consolidation of state control over natural resource revenues timed to coincide with Merdeka 69. The move aligns with PM Anwar Ibrahim's "Malaysia MADANI" prosperity agenda, channelling commodity surpluses toward sovereign reserves and infrastructure. Observers draw comparisons to Singapore's GIC and Norway's Government Pension Fund, though Danantara's governance framework is still being established. [SCMP](https://www.scmp.com/news/asia/southeast-asia)
+
+> [!breaking]- World: Meta agrees to landmark $16.68B settlement with 47 US states over teen social media harm (Yahoo Finance / Axios)
+> Meta has agreed to pay up to $16.68 billion to resolve claims from 47 U.S. states, Washington D.C., Puerto Rico, and U.S. territories that Facebook and Instagram were deliberately engineered to addict young users — one of the largest consumer protection payouts in US history. Under the deal, users under 18 will face a default two-hour combined daily limit across both platforms, with the apps blocked from midnight to 6am for young users and notifications muted during school hours. Meta denied wrongdoing; the proposed settlement still requires court approval. [Yahoo Finance](https://finance.yahoo.com/media-advertising/articles/meta-us-states-agree-16-145500294.html) / [Axios](https://www.axios.com/2026/08/26/meta-lawsuit-settlement-states-facebook)
+
+> [!note]- World: Qatar-Iran Hormuz diplomacy holds despite fresh shipping strike; US carrier en route (Bloomberg / Gulf News)
+> Qatar's active mediation between Iran and US negotiators is continuing following Thursday's declaration of Hormuz shipping lanes as mine-free — even as today's Minoan Pioneer projectile strike underscored the route's fragility. A new US carrier group is en route to reinforce the Strait; roughly 20–30 tankers are transiting nightly, about half pre-war levels. Iran has not publicly committed to keeping the straits permanently open, and the five-month war pause remains tied to unconfirmed pledges linked to its nuclear programme. [Bloomberg](https://www.bloomberg.com/news/articles/2026-08-28/us-commander-in-video-declares-hormuz-shipping-lanes-mine-free) / [Gulf News](https://gulfnews.com/world/mena/us-declares-hormuz-mine-cleared-as-qatar-iran-seek-de-escalation-and-new-carrier-heads-to-middle-east-1.500654981)
+
+> [!note]- Tech: OpenAI's Jalapeño ASIC posts 1.9x Nvidia Blackwell inference throughput in SemiAnalysis benchmarks (CNBC)
+> OpenAI's first custom inference chip — codenamed "Jalapeño" and built with Broadcom — delivered 1.5–1.9× more inference throughput per watt than Nvidia's Blackwell (GB200/GB300) racks and 3.6× lower latency on InferenceX metrics in independent SemiAnalysis tests. The 700W ASIC targets only inference, leaving Nvidia's training dominance intact, and volume production is not until 2027; comparisons also exclude Nvidia's upcoming Vera Rubin generation. OpenAI plans to begin deploying Jalapeño within its own compute infrastructure by end-2026. [CNBC](https://www.cnbc.com/2026/08/26/openai-jalapeno-ai-chip-nvidia.html) / [Yahoo Finance](https://finance.yahoo.com/technology/ai/articles/openai-says-chip-outperforms-nvidia-101753747.html)
+
+> [!note]- Science: Roman Space Telescope lifts off on Falcon Heavy at 07:26 EDT — bound for Earth-Sun L2 (SpaceNews / MSN)
+> NASA's Nancy Grace Roman Space Telescope launched aboard a SpaceX Falcon Heavy from Kennedy Space Center's Launch Complex 39A at 07:26 EDT (19:26 SGT) on August 30, beginning a 30-day cruise to the Earth-Sun Lagrange Point 2, roughly 930,000 miles away. Roman's 288-megapixel Wide Field Instrument will survey wide swaths of sky with a field of view at least 100× larger than Hubble's, probing dark energy, dark matter, exoplanets, and distant galaxies over a projected five-year mission. Science operations are expected to begin in early 2027 following commissioning. [SpaceNews](https://spacenews.com/roman-space-telescope-ready-for-aug-30-launch/) / [MSN](https://www.msn.com/en-us/news/other/falcon-heavy-to-launch-nancy-grace-roman-space-telescope-aug-30/gm-GMFE79528E)
 
 ### [[08-29-26 Sat]]
 
