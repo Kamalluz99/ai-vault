@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-08-31T05:05
+updated: 2026-08-31T19:06
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,26 @@ unread: true
 
 > [!note]- NKE: $39.60 (+3.0%) — $0.41/share ex-dividend Sep 1; near 12-year low (Yahoo Finance)
 > Nike (NKE) closed Friday at $39.60 (up 3.0% from $38.44), but remains near its 12-year low in a 52-week range of $38.17–$76.97. Tomorrow (Sep 1) is the ex-dividend date for NKE's $0.41/share quarterly payout — a modest cash offset against the position's unrealised loss. At $39.60, 46 shares sit $32.09 below avg cost of $71.69 (−$1,476 unrealised). Leadership rebuild continues with Jane Ewing (ex-Walmart) as new CCO. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
+
+> **Evening update**
+
+> [!breaking]- World: US strikes Iran's Larak Island; Iran fires missiles at US bases in Jordan (CNN / Al Jazeera)
+> U.S. Central Command struck two IRGC rocket launchers on Iran's Larak Island on August 31, after forces were observed preparing to launch rockets carrying sea mines into the Strait of Hormuz — the first US military strike on Iran in more than a month. Iran's IRGC vowed retaliation and fired ballistic missiles at US military positions in Jordan; Tehran said the strike killed and wounded several fighters and civilians. The escalation comes just days after CENTCOM declared Hormuz shipping lanes mine-free following weeks of Qatar-mediated diplomacy, sharply undermining the de-escalation momentum. [CNN](https://www.cnn.com/2026/08/30/politics/us-iran-strikes-larak-island) / [Al Jazeera](https://www.aljazeera.com/news/2026/8/30/us-strikes-irans-lark-island-in-first-attack-in-weeks)
+
+> [!note]- World: Nepal-Tibet floods death toll passes 900 with 4,700+ missing, rescue battles weather (ABC News / CNN)
+> The death toll from last week's catastrophic Himalayan floods rose to at least 919 as of Monday — 903 confirmed in Nepal and 16 on the Tibetan side — with more than 4,700 people still missing, including at least 85 Americans. Rescue operations continue to be suspended and restarted due to bad weather, landslides, and the risk of a secondary dam-break on the Nepal-China border. The Red Cross estimates around 90,000 people are affected; this is on track to be the deadliest single flood disaster in Nepal's recorded history. [ABC News](https://abcnews.com/International/nepal-tibet-flood-death-toll-surpasses-900-officials/story?id=136081207) / [CNN](https://www.cnn.com/2026/08/29/world/live-news/nepal-china-flood)
+
+> [!note]- Singapore & Malaysia: Merdeka 69 parade draws 100,000+ at Dataran Putrajaya (MCI Group / PMO)
+> Malaysia's 69th Independence Day parade drew over 100,000 people to Dataran Putrajaya on Monday morning, with 76 contingents, 22 marching bands, and 10,819 participants — the Yang di-Pertuan Agong Sultan Ibrahim and PM Anwar Ibrahim presided, under the theme "Malaysia MADANI: Kesejahteraan Dinikmati." Singapore Senior Minister Lee Hsien Loong concluded his official visit to Uzbekistan on August 31, wrapping a combined Kazakhstan-Uzbekistan tour that focused on trade, investment, and diplomatic ties, with SM Lee returning to Singapore. [MCI Group](https://mcigroup.my/news/national-day-2026-merdeka-spirit-soars-at-dataran-putrajaya/) / [PMO Singapore](https://www.pmo.gov.sg/newsroom/)
+
+> [!note]- Malaysia: Anwar's Merdeka address touts 6% growth; SARA raised to RM15B, fuel quotas lifted (The Star / Malay Mail)
+> Prime Minister Anwar Ibrahim delivered his Merdeka 69 national address at the Putrajaya International Convention Centre — shifted indoors due to haze — citing Malaysia's 6% GDP growth and the ringgit's standing as Asia's best-performing currency in 2025 as markers of national progress. Key announcements: SARA cash assistance raised to RM15 billion, and the monthly Budi95 petrol and diesel subsidy quotas increased. Anwar called on Malaysians to safeguard national unity, framing independence as "a continuous courage to build a more just, prosperous and equitable nation." [The Star](https://www.thestar.com.my/news/nation/2026/08/30/malaysia039s-6-economic-growth-latest-chapter-in-nation039s-progress-says-pm-anwar) / [Malay Mail](https://www.malaymail.com/news/malaysia/2026/08/30/ahead-of-national-day-anwar-urges-malaysians-to-protect-the-nation-and-stay-united/233307)
+
+> [!note]- Tech: AWS adds MiniMax models to Bedrock with 4M-token context for agentic enterprise AI (AWS / AI Weekly)
+> Amazon Web Services has integrated MiniMax's latest large models into its Bedrock managed AI platform, giving enterprise developers access to 4-million-token context windows and a mixture-of-experts (MoE) architecture optimised for agentic workflows — the largest context window available on any managed cloud AI platform. The addition arrives with AWS's unified API, auto-scaling, and security controls, and follows Bedrock's earlier integrations of Anthropic Claude, Meta Llama, and Mistral. The move signals AWS's strategy to serve as the neutral aggregator of frontier AI capacity for enterprise customers. [AWS](https://aws.amazon.com/) / [AI Weekly](https://aiweekly.co/ai-news-today)
+
+> [!note]- Economy: Oil surges 2%, Dow futures fall as Iran strike lifts Fed rate-hike odds to 60% (TheStreet / CaixaBank)
+> Crude oil jumped over 2% at the Asia open on Monday after US forces struck Iranian rocket launchers in the Strait of Hormuz, reigniting supply-disruption fears just four days after CENTCOM declared the shipping lanes mine-free. Dow Jones futures slid as markets repriced the geopolitical risk premium, while Fed rate-hike odds for September surged from 35% to 60% as Chair Warsh's hawkish Jackson Hole close continued to filter through. The 30-year US Treasury yield holds near its 19-year high at 5.24%, with gold near $4,637/oz on sustained safe-haven demand. [TheStreet](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-aug-31-2026) / [CaixaBank Research](https://www.caixabankresearch.com/en/publications/financial-markets-daily-report/31-august-2026)
 
 > [!note]- [[08-30-26 Sun]]
 >
