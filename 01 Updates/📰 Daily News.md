@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-08-31T19:06
+updated: 2026-09-01T05:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -58,6 +58,31 @@ unread: true
 > > [!breaking]- World: Major diplomatic deadline expires tonight (Al Jazeera)
 > > A strategic chokepoint deadline expires at 8pm ET. Negotiations have stalled and military action looks imminent. [Source](https://example.com)
 > ```
+
+## 2026-09
+
+### [[09-01-26 Tue]]
+
+> [!note]- AI: John Ternus takes Apple CEO role; foldable iPhone and AI strategy top agenda (TechCrunch)
+> Apple's longtime hardware chief John Ternus officially succeeded Tim Cook as CEO on September 1 — the first Apple CEO transition since 2011. His immediate priorities include reshaping Apple Intelligence, deciding the final form of the long-rumoured foldable iPhone with Apple Pencil support, and rebuilding the AI executive bench. The first Apple event under Ternus is scheduled for September 9, taglined "Surprise and Shine." [TechCrunch](https://techcrunch.com/2026/08/26/apple-is-holding-its-iphone-launch-event-on-september-9/)
+
+> [!note]- Tech: Apple's Sep 9 event to launch foldable iPhone and Watch Series 12 under new CEO Ternus (TechCrunch)
+> Apple's first product launch event under CEO John Ternus takes place September 9 with the "Surprise and Shine" tagline. The lineup is expected to include the long-awaited foldable iPhone, Apple Watch Series 12, Apple Watch Ultra, and new smart home devices — a major hardware reveal and Ternus's first major public stage appearance as CEO. [TechCrunch](https://techcrunch.com/2026/08/26/apple-is-holding-its-iphone-launch-event-on-september-9/)
+
+> [!note]- Macro: Fed Sep rate-hike odds climb to ~55% on Warsh "solid economy" remarks; oil higher on US-Iran tensions (Investing.com)
+> September rate-hike probability jumped from ~35% to ~55% after Fed Chair Kevin Warsh described underlying economic activity as "solid," backed by robust business investment and full employment. Oil prices rose further as US-Iran Strait of Hormuz tensions simmered following Monday's US strikes on Iranian positions. The 30-year Treasury yield stays near 5.24%, a 19-year high, with September shaping up as a risk-heavy month for markets. [Investing.com](https://www.investing.com/news/economy-news/september-risks-are-stacking-up-hard-and-fast-for-world-markets-4882183)
+
+> [!note]- World: Latvia bans all imports from Russia and Belarus effective today; Hormuz and Nepal crises ongoing (Wikipedia)
+> Latvia's cabinet enforced a total import ban on goods from Russia and Belarus starting September 1, tightening Europe's economic pressure campaign. Meanwhile, the Strait of Hormuz remains on edge following Monday's US strike on Iranian positions, and Nepal's catastrophic Himalayan flood death toll surpasses 900 with 4,700+ still missing. [Wikipedia](https://en.wikipedia.org/wiki/Portal:Current_events/September_2026)
+
+> [!note]- Malaysia/Singapore: PM Anwar's 6 Sep 1 policies take effect — fuel, AI, healthcare, e-Invoicing; Selangor SUKMA holiday (The Star)
+> PM Anwar Ibrahim announced six immediate policy measures effective September 1: fuel subsidy adjustments, school maintenance funding, AI infrastructure investment, healthcare digitalisation, mandatory e-Invoicing rollout, and expanded microfinancing. Separately, the Selangor state government declared today a special public holiday celebrating its SUKMA 2026 championship — 101 gold, 73 silver, 71 bronze medals for the overall title. [The Star](https://www.thestar.com.my/news/nation/2026/08/24/selangor-declares-sept-1-public-holiday-for-state-over-sukma-success)
+
+> [!note]- Science: Rocket Lab launches Japanese Earth-observing radar satellite; Nancy Grace Roman Telescope nears launch (Space.com / Sci Am)
+> Rocket Lab launched a Japanese synthetic aperture radar (SAR) Earth-observation satellite early September 1, expanding Japan's persistent surveillance and disaster-monitoring capabilities. NASA's Nancy Grace Roman Space Telescope — featured in September's Scientific American — is approaching its launch window, with imaging speed surpassing any previous space observatory. [Space.com](https://www.space.com/) / [Scientific American](https://www.scientificamerican.com/)
+
+> [!note]- NKE: $39.41 (ex-div $0.41/share today) — 11-year low, down 38% YTD on turnaround doubts (Yahoo Finance)
+> Nike sits at $39.41 — its lowest level since September 2014 — after falling ~3% on Monday amid weak direct-to-consumer sales and China headwinds. Today (Sep 1) is the ex-dividend date for the $0.41/share quarterly payout, providing a small cash offset to the unrealised loss. At $39.41, the 46-share position is $32.28 below avg cost of $71.69 (≈ −$1,485 unrealised). Stock is down 38% in 2026. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
 
 ## 2026-08
 
