@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-09-01T08:20
+updated: 2026-09-01T19:07
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,26 @@ unread: true
 
 > [!note]- NKE: $39.41 (ex-div $0.41/share today) — 11-year low, down 38% YTD on turnaround doubts (Yahoo Finance)
 > Nike sits at $39.41 — its lowest level since September 2014 — after falling ~3% on Monday amid weak direct-to-consumer sales and China headwinds. Today (Sep 1) is the ex-dividend date for the $0.41/share quarterly payout, providing a small cash offset to the unrealised loss. At $39.41, the 46-share position is $32.28 below avg cost of $71.69 (≈ −$1,485 unrealised). Stock is down 38% in 2026. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
+
+> **Evening update**
+
+> [!note]- Singapore & Malaysia: JB-Singapore RTS on track for 2026 opening; JS-SEZ enters implementation phase (Travel & Tour World)
+> The Johor Bahru-Singapore Rapid Transit System remains on schedule to open by the end of 2026, carrying up to 10,000 passengers per hour in each direction once operational. Simultaneously, the Johor-Singapore Special Economic Zone has moved from planning to active implementation, pairing Johor's land and labour scale with Singapore's capital, technology and global connectivity to attract high-value manufacturing and services investment. Together, these two flagship bilateral projects mark a step-change in cross-border economic integration as both governments deepen ties. [Travel & Tour World](https://www.travelandtourworld.com/news/article/malaysia-joins-thailand-singapore-and-vietnam-to-unleash-the-ultimate-high-speed-rail-network-in-2026-a-milestone-for-regional-power-and-prosperity/)
+
+> [!breaking]- Malaysia: Indonesian wildfire haze chokes Sarawak — ASEAN Level 3 alert, API 476, hundreds of schools closed (Al Jazeera)
+> Smoke from 285,000 hectares of burning forest and peatland across Indonesian Kalimantan has pushed air quality in Malaysian Borneo to hazardous levels, with the Air Pollutant Index peaking at 476 near the Sarawak-Indonesia border — far above the 300 "hazardous" threshold. ASEAN activated its highest Level 3 transboundary haze alert covering Indonesia, Singapore, Malaysia and Brunei, while hundreds of Sarawak schools closed and emergency cloud-seeding operations were launched. Regional watchdog SIIA had flagged August-September as the highest-risk months; the crisis is forecast to persist through the month if Kalimantan's dry season continues. [Al Jazeera](https://www.aljazeera.com/news/2026/9/1/toxic-haze-from-indonesian-fires-chokes-malaysian-borneo)
+
+> [!note]- World: Keffe D found guilty — first-ever conviction in 30-year-old Tupac Shakur murder case (Al Jazeera)
+> A Las Vegas jury deliberated fewer than three hours before finding Duane "Keffe D" Davis, 63, guilty of first-degree murder with a deadly weapon for orchestrating the September 1996 drive-by shooting that killed rap icon Tupac Shakur — the first criminal conviction ever secured in the case. The 11-day Clark County trial centred on Davis's own memoir and recorded admissions; he faces up to life in prison and has announced plans to appeal. [Al Jazeera](https://www.aljazeera.com/news/2026/9/1/ex-gang-leader-keffe-d-found-guilty-of-killing-rap-legend-tupac-shakur)
+
+> [!note]- World: Eurozone inflation hits 3-year high of 3.3% in August; ECB rate hike cemented for Sep 10 (Euronews)
+> Eurostat confirmed Tuesday that eurozone annual inflation rose to 3.3% in August — a three-year high, up from 2.9% in July — as energy prices surged 14.3% year-on-year, driven by Strait of Hormuz supply disruptions and higher global oil and gas costs. Core inflation eased slightly to 2.4% and services fell to 3.0%, but the headline jump has cemented expectations for a European Central Bank rate hike at its September 10 meeting. [Euronews](https://www.euronews.com/business/2026/09/01/eurozone-inflation-jumps-to-33-in-august-as-energy-prices-surge)
+
+> [!note]- Tech: Pentagon's GenAI.mil adds ChatGPT Mil and Grok — 1.7M of 3M DoD staff already onboard (TechCrunch)
+> The US Department of Defense expanded its GenAI.mil AI portal on August 31 by adding OpenAI's ChatGPT Mil and xAI's Grok for Government alongside the existing Google Gemini for Government, giving over 3 million military and civilian personnel single-portal access to three competing frontier AI models for unclassified administrative, logistics and planning tasks. More than 1.7 million unique users are already onboarded. Anthropic's Claude was notably absent — the company declined contract terms that would have allowed its AI to be applied to lethal autonomous weapons systems. [TechCrunch](https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/)
+
+> [!note]- Science: China's solar capacity surpasses coal for first time — 1.286bn kW vs 1.285bn kW (Euronews)
+> China's national energy regulator announced Tuesday that installed solar power capacity has exceeded coal-fired power for the first time in history: 1.286 billion kilowatts of solar against 1.285 billion kilowatts of coal, as of end of July 2026. The milestone follows a record 315 GW of solar and 119 GW of wind added in 2025 — over 80% of all new generation capacity that year — with solar generation growing 15.5% in the first seven months of 2026. Coal still generates more actual electricity due to higher utilisation rates, but the capacity crossover marks a historic structural shift in the world's largest energy system. [Euronews](https://www.euronews.com/2026/09/01/solar-outpaces-coal-for-the-first-time-in-china-how-does-europe-compare)
 
 
 ## 2026-08
