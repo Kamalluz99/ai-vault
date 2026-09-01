@@ -81,6 +81,9 @@ unread: true
 > [!note]- Science: Rocket Lab launches Synspective Strix SAR satellite — 85th Electron mission (Space.com)
 > Rocket Lab launched the Japanese Synspective "Strix" synthetic aperture radar Earth-imaging satellite from its New Zealand launch site early Wednesday (postponed from September 1 due to weather), completing the 12th Electron launch of 2026 and the rocket's 85th mission overall. The satellite was deployed to a 575km sun-synchronous orbit roughly 56 minutes after liftoff, expanding Synspective's persistent SAR constellation for disaster monitoring and infrastructure surveillance. The mission is named "Owl Around the World." [Space.com](https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launches-japanese-earth-observing-satellite-after-5-week-delay-video-photos)
 
+> [!note]- NKE: $38.20 (–3.1%) — JPMorgan downgrades to Underweight, $40 PT; stock –38% YTD (Yahoo Finance)
+> Nike (NKE) fell to $38.20, down ~3.1% from yesterday's $39.41 close (which also included the $0.41 ex-dividend). JPMorgan analyst Matthew Boss downgraded NKE to Underweight from Neutral and cut the price target from $47 to $40, citing persistent turnaround doubts and weak China business; Q1 FY2027 earnings due Oct 1 are expected to show a 10.2% revenue decline YoY. At $38.20, the 46-share position sits $33.49 below avg cost of $71.69 (−$1,541 unrealised). [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
+
 > [!note]- [[09-01-26 Tue]]
 >
 > > [!note]- AI: John Ternus takes Apple CEO role; foldable iPhone and AI strategy top agenda (TechCrunch)
