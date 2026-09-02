@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-09-02T10:00
+updated: 2026-09-02T19:07
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,26 @@ unread: true
 
 > [!note]- NKE: $38.20 (–3.1%) — JPMorgan downgrades to Underweight, $40 PT; stock –38% YTD (Yahoo Finance)
 > Nike (NKE) fell to $38.20, down ~3.1% from yesterday's $39.41 close (which also included the $0.41 ex-dividend). JPMorgan analyst Matthew Boss downgraded NKE to Underweight from Neutral and cut the price target from $47 to $40, citing persistent turnaround doubts and weak China business; Q1 FY2027 earnings due Oct 1 are expected to show a 10.2% revenue decline YoY. At $38.20, the 46-share position sits $33.49 below avg cost of $71.69 (−$1,541 unrealised). [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
+
+> **Evening update**
+
+> [!note]- Singapore & Malaysia: PM Wong meets Thai PM at first Leaders' Retreat since 2015 (AsiaOne)
+> Prime Minister Lawrence Wong visited Bangkok on September 2 for the inaugural Singapore-Thailand Leaders' Retreat with Thai PM Anutin Charnvirakul — the first such bilateral summit since 2015. The two leaders reviewed long-standing defence and economic ties while exploring new collaboration in green and digital economies, energy resilience, food security, and combatting transnational crime. Singapore ministers for Foreign Affairs, Sustainability, Social Development, and Digital Development accompanied PM Wong, reflecting the breadth of the agenda. [AsiaOne](https://www.asiaone.com/singapore/singapore-thailand-leaders-retreat-asean-artificial-intelligence-food-security-connectivity)
+
+> [!note]- Malaysia: Kalimantan haze spreads to Sabah; 6 areas hit unhealthy API levels (NST)
+> Cross-border haze from Indonesian Kalimantan forest fires extended further into Malaysian Borneo on Wednesday, with six areas in Sabah recording unhealthy Air Pollutant Index readings — KK Polytechnic registering the highest at 185. The worsening air quality follows the Level 3 ASEAN transboundary haze alert activated a day earlier for Sarawak, where API peaked above 476. Authorities are closely monitoring the situation as the dry season shows no sign of abating. [NST](https://www.nst.com.my/newssummary/1520288)
+
+> [!note]- World: Ukraine's 5th school year begins underground as Russian missiles force Kyiv air-raid shelters (CNN)
+> Kyiv schoolchildren began their fifth school year since Russia's invasion underground on September 2, with several schools shifting classes to basements after overnight Russian ballistic missile strikes on the capital made surface ceremonies untenable. At the Ukrainian Global School, traditional first-day celebrations gave way to sirens and distant explosions; the school decided near-constant attacks made repeated shelter runs unsustainable. The opening day underscored the grinding toll of the Russia-Ukraine war as it enters its fifth academic year. [CNN](https://www.cnn.com/2026/09/01/world/ukraine-marks-first-day-of-school)
+
+> [!note]- World: USS Abraham Lincoln arrives Thailand in landmark US Navy Southeast Asia port call (Euronews)
+> The US Navy aircraft carrier USS Abraham Lincoln arrived at Laem Chabang port in Thailand on September 2 in what officials described as a record US Navy deployment to the country. The visit signals deepening US-Thailand defence ties and comes amid elevated US military presence across the Indo-Pacific as the 2026 Iran war and Strait of Hormuz tensions reshape global naval posture. The Lincoln had previously patrolled the Middle East and is now pivoting to the Pacific theatre. [Euronews](https://www.euronews.com/video/2026/09/02/latest-news-bulletin-september-2nd-2026-midday)
+
+> [!note]- Tech: Sony and Warner Music sue Anthropic over AI training on copyrighted song lyrics (AI Tools Recap)
+> Sony Music and Warner Music Group have filed a lawsuit against AI startup Anthropic, alleging its AI models were trained on copyrighted song lyrics without authorisation — one of the most significant music-industry legal challenges against an AI lab to date. The suits add to growing legal pressure on AI companies from content creators, following earlier actions by The New York Times and book authors. The filing raises fresh questions about fair-use boundaries as generative AI training practices face increasing judicial scrutiny. [AI Tools Recap](https://aitoolsrecap.com/Blog/AINewsSeptember2026.aspx)
+
+> [!note]- Science: NASA's Roman Space Telescope nears launch; Hubble-quality images across 100× wider field (Scientific American)
+> NASA's Nancy Grace Roman Space Telescope is approaching its launch window, combining Hubble Space Telescope-level imaging resolution with a field of view 100 times larger — enabling astronomers to survey vast swaths of sky in unprecedented detail in a single pointing. The telescope will probe dark energy, dark matter, and exoplanet populations through wide-field surveys impossible with any previous space observatory. Scientific American spotlighted Roman as a transformative instrument for mapping the large-scale structure of the universe. [Scientific American](https://www.scientificamerican.com/)
 
 > [!note]- [[09-01-26 Tue]]
 >
