@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-09-03T05:05
+updated: 2026-09-03T19:07
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,26 @@ unread: true
 
 > [!note]- NKE: ~$38 (near 12-yr low, −38% YTD) — Walmart's Jane Ewing named Chief Commercial Officer in turnaround push (Fool.com)
 > Nike stock remains pinned near $38 — its lowest level since August 2014 — with shares down approximately 38% year-to-date. The company named Walmart supply-chain executive Jane Ewing as its new Chief Commercial Officer in a bid to inject retail operations expertise into the stalled turnaround. Analyst consensus sits at "Hold" with a $50.52 price target (implied +32% upside). Position: 46 shares at $71.69 avg cost (est. −$1,541 unrealised). [Fool.com](https://www.fool.com/quote/nyse/nke/)
+
+> **Evening update**
+
+> [!note]- Singapore: S$220M fintech pledge and Tech Week 2026 set for Sep 29–30 (TechNode / OpenPR)
+> Singapore reaffirmed its status as Asia's fintech capital by committing S$220 million to the sector over three years, while Tech Week Singapore 2026 — scheduled for September 29–30 at Sands Expo & Convention Centre — is set to draw more than 30,000 participants including policymakers, investors, and founders from across the region. Senior Minister of State for Digital Development Tan Kiat How will serve as Guest of Honour, with the theme centred on Asia's "Infrastructure Era" covering AI, cloud, and digital payments buildout. [OpenPR](https://www.openpr.com/news/4620746/tech-week-singapore-2026-charting-the-next-phase-of)
+
+> [!note]- Malaysia: Bursa opens higher ahead of BNM OPR call; fuel prices cut 5 sen/L from Sep 3–9 (NST / Carlist.my)
+> Bursa Malaysia opened on a positive note Thursday with gains led by financial, plantation, and utilities stocks, as investors positioned ahead of Bank Negara Malaysia's overnight policy rate (OPR) decision — a closely watched policy call given rising global rate pressures. At the pump, RON97, unsubsidised RON95, and diesel prices were trimmed by 5 sen per litre for the September 3–9 period, offering minor cost relief to consumers. A 3.4-magnitude earthquake also struck 10km west of Keningau, Sabah at 9:31am, causing tremors in surrounding areas with no casualties reported. [NST](https://www.nst.com.my/newssummary/1519879) / [Carlist.my](https://www.carlist.my/news/petrol-price-update-81088/81088/)
+
+> [!note]- World: Xi visits Egypt for first time in decade as China fills US influence vacuum (Euronews)
+> Chinese President Xi Jinping arrived in Egypt this week for a state visit — Beijing's first presidential-level visit in over a decade — deepening Sino-Egyptian ties across infrastructure, trade, and diplomacy under the Belt and Road umbrella. The trip comes as US global attention is consumed by the Iran war and domestic politics, creating an opening for China to extend its footprint across Africa and the Arab world. Xi is expected to sign new agreements around the Suez Canal economic zone and green energy investment. [Euronews](https://www.euronews.com/video/2026/09/03/latest-news-bulletin-september-3rd-2026-morning)
+
+> [!note]- World: Germany blames Russia for Leipzig airport drone attack; Ukraine warns airlines off Russian airspace (Euronews)
+> Berlin formally attributed a drone sabotage incident at Leipzig/Halle Airport — a major European air cargo hub — to Russian state actors, adding to a growing list of infrastructure attacks across the continent. Ukraine simultaneously issued a formal aviation warning urging international carriers to avoid Russian airspace, citing unsafe and unpredictable military activity. The EU also advanced plans for additional sanctions targeting Russia's alleged deportation of Ukrainian children, sustaining broad pressure on Moscow. [Euronews](https://www.euronews.com/video/2026/09/03/latest-news-bulletin-september-3rd-2026-morning)
+
+> [!breaking]- Tech: OpenAI's Astra AI can now autonomously find and exploit cybersecurity vulnerabilities (AI Agent Store)
+> OpenAI disclosed that its Astra AI system has crossed a critical cybersecurity capability threshold, demonstrating the ability to autonomously discover and exploit security vulnerabilities at a level that changes the enterprise risk equation. The development prompted immediate discussion about responsible disclosure, red-teaming norms, and whether existing regulatory frameworks can keep pace. Separately, AI security startup AIR raised $50 million to police the AI agent software supply chain, and JetStream launched "Clearance," a pre-execution reasoning engine that blocks dangerous agent action sequences before they run. [AI Agent Store](https://aiagentstore.ai/ai-agent-news/this-week)
+
+> [!note]- Economy: India monsoon 13% below normal; El Niño threatens global harvests; bond yields near Jan 2025 highs (Grain Central / Rio Times)
+> India's cumulative monsoon was 13% below normal as of September 2, while a strengthening El Niño is raising alarms for South American crop production and US Midwest corn and soybean yields heading into the autumn harvest window. Global bond yields pushed to their highest since January 2025, driven by Middle East oil risk and sticky inflation, compounding food-cost pressures that could spill into 2027. Wheat and corn both hit fresh contract highs during the session before pulling back on profit-taking. [Grain Central](https://www.graincentral.com/markets/daily-market-wire-3-september-2026/) / [Rio Times](https://www.riotimesonline.com/global-economy-briefing-september-3-2026/)
 
 > [!note]- [[09-02-26 Wed]]
 >
