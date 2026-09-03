@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-09-04T05:00
+updated: 2026-09-03T21:14
 topic: daily news
 frequency: daily
 ongoing: false
@@ -126,6 +126,14 @@ unread: true
 >
 > > [!note]- Economy: India monsoon 13% below normal; El Niño threatens global harvests; bond yields near Jan 2025 highs (Grain Central / Rio Times)
 > > India's cumulative monsoon was 13% below normal as of September 2, while a strengthening El Niño is raising alarms for South American crop production and US Midwest corn and soybean yields heading into the autumn harvest window. Global bond yields pushed to their highest since January 2025, driven by Middle East oil risk and sticky inflation, compounding food-cost pressures that could spill into 2027. Wheat and corn both hit fresh contract highs during the session before pulling back on profit-taking. [Grain Central](https://www.graincentral.com/markets/daily-market-wire-3-september-2026/) / [Rio Times](https://www.riotimesonline.com/global-economy-briefing-september-3-2026/)
+>
+> > **Late evening update (21:10 SGT)**
+>
+> > [!breaking]- World: Iran strikes US bases in UAE and Kuwait with missiles and drones (Al Jazeera)
+> > Iran launched missiles and suicide drones at US military bases at Al Minhad Air Base in the UAE and Ahmed Al Jaber Air Base in Kuwait on September 3, targeting satellite communications systems, equipment warehouses, and hangars housing American aircraft. The strikes represent the heaviest exchange of fire in the 2026 US-Iran conflict to date; Trump said the "renewed clashes will not last too long" while pledging a firm US response. Kuwait condemned the attacks as a flagrant violation of its sovereignty, while CENTCOM confirmed additional retaliatory strikes on IRGC targets were under way. [Al Jazeera](https://www.aljazeera.com/news/liveblog/2026/9/3/iran-war-live-trump-says-renewed-us-iran-clashes-will-not-last-too)
+>
+> > [!note]- Macro: Wall St reverses — S&P closes +0.46% at 7,667; oil stays $91/bbl on Iran-UAE/Kuwait escalation (Rio Times)
+> > US equities recovered by the close: S&P 500 ended at 7,667 (+0.46%), Dow at 53,062 (+0.56%), Nasdaq at 26,218 (+0.45%) — partially reversing the day's losses. Oil held at $91/bbl (WTI) as the late-day Iran strikes on UAE and Kuwait kept energy risk premiums elevated; the 10-year Treasury yield held at 4.784% with Fed hike odds near 70% for September. [Rio Times](https://www.riotimesonline.com/global-economy-briefing-september-3-2026/)
 >
 > > [!note]- [[09-02-26 Wed]]
 > >
