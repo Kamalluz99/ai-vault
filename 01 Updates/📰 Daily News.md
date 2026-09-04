@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-09-03T21:14
+updated: 2026-09-04T19:07
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,26 @@ unread: true
 
 > [!note]- NKE: ~$38.32 (12-yr low, −38% YTD) — Jane Ewing named CCO as turnaround drags on; analyst avg PT $50.52 (Fool.com)
 > Nike shares remain near $38.32 — a 12-year low — with the stock down 38% year-to-date as its turnaround stalls. The company named Walmart supply-chain executive Jane Ewing as Chief Commercial Officer in a bid to bring retail operations expertise to the struggling brand. Analyst consensus sits at "Hold" with a $50.52 average price target (+32% implied upside). Position: 46 shares at $71.69 avg cost (est. −$1,541 unrealised). [Fool.com](https://www.fool.com/quote/nyse/nke/)
+
+> **Evening update**
+
+> [!note]- Singapore: SG-China institute Darknavy claims full admin access to latest Starlink terminal via firmware hack (SCMP)
+> The Singapore-Shanghai cybersecurity institute Darknavy has announced it achieved full administrative control over SpaceX's latest Starlink ground terminal — the first team in the world to breach updated models that resisted top international research teams for years. Beginning in March with a Starlink Standard Actuated terminal purchased in Singapore, researchers reverse-engineered the firmware to run arbitrary custom code on the device. Details of the exploit are being withheld pending responsible disclosure, but the breakthrough could enable simulation, interception, and analysis of satellite-to-ground communication protocols. [SCMP](https://www.scmp.com/news/china/science/article/3366192/china-singapore-security-team-claims-breakthrough-hacking-starlink-terminals)
+
+> [!note]- Malaysia: Malaysia Day ceremony in Kuching moved indoors as Sarawak haze reaches dangerous levels ahead of Sept 16 (The Sun)
+> Malaysia's national Malaysia Day celebration on September 16 in Kuching has been relocated from outdoor venues to the Borneo Convention Centre Kuching (BCCK) as worsening haze conditions across Sarawak push air quality into the "Unhealthy" range. The transboundary haze — driven by peatland and forest fires in Indonesia, intensified by El Niño — prompted the regional watchdog SIIA to issue a rare "Red" haze alert covering Malaysia, Singapore, and Brunei through September. Communications Minister Fahmi Fadzil confirmed the indoor switch as a precaution ahead of the tens of thousands expected to attend national celebrations. [The Sun](https://thesun.my/news/malaysia-news/people-issues/malaysia-day-celebration-moved-indoors-in-kuching-amid-worsening-haze/)
+
+> [!note]- World: Nepal-China flood death toll tops 1,280 with 5,620 missing; survivors pulled from tunnel after 9 days (Al Jazeera)
+> The catastrophic flash floods triggered by a Himalayan glacier collapse on August 28 have now killed more than 1,280 people across Nepal and China's Tibet Autonomous Region, with over 5,620 still missing as rescue operations enter their second week. Nepal Army rescuers retrieved two hydropower workers alive after nine days trapped inside a flood-buried tunnel in Rasuwa district. Some 590 foreign nationals from 39 countries remain unaccounted for, with bodies carried as far as 240km downstream into India. [Al Jazeera](https://www.aljazeera.com/news/2026/9/1/death-toll-from-devastating-floods-in-china-and-nepal-surpasses-1000)
+
+> [!note]- World: Macron-Burnham summit hails stronger UK-France ties; Lithuania warns Russia "highly likely" to escalate EU attacks (Euronews)
+> French President Macron and UK Prime Minister Andy Burnham held talks at Downing Street, jointly signalling a new era of post-Brexit UK-France cooperation on defence, migration, and energy as European relations warm. Separately, Lithuania's defence minister warned it is "highly likely" Russia will escalate sabotage attacks on European critical infrastructure following the Leipzig airport drone incident, urging EU allies to harden defences and deepen intelligence sharing. Iran also stated on September 4 that any future US strike would draw an "asymmetric and multi-layered" response, keeping Middle East tensions elevated. [Euronews](https://www.euronews.com/video/2026/09/04/latest-news-bulletin-september-4th-2026-midday)
+
+> [!note]- Tech: Cisco rolls out personalised AI agents to all 90,000 employees in one of the largest enterprise AI deployments yet (AI Agent Store)
+> Cisco has expanded its "MyAgent" programme to provision every one of its approximately 90,000 global employees with a personalised AI agent — one of the largest enterprise-wide agentic AI deployments on record. The rollout coincides with Genesys unveiling four AI products for its cloud contact-centre platform and CrowdStrike launching an AI Partner Specialization to help channel partners secure the growing "agentic enterprise." The wave of announcements underscores how AI agents are rapidly shifting from pilot projects to full workforce integration at major tech firms. [AI Agent Store](https://aiagentstore.ai/ai-agent-news/this-week)
+
+> [!note]- Economy: August NFP consensus +55K; dollar slides as Fed September rate-hike odds fall to ~50% ahead of Warsh FOMC (FXStreet)
+> August nonfarm payrolls — due 12:30 GMT Friday — are expected to show a recovery to around 55,000 new jobs after July's shock loss of 23,000, the first monthly decline since 2020. The US dollar index fell 0.63% to 98.97 and Treasury yields eased as markets trimmed September Fed rate-hike odds from ~70% to roughly 50%, opening the door to a hold from new Fed Chair Kevin Warsh. Core PCE remains sticky at 3.7%, making the September 15–16 FOMC the pivotal event with no clear consensus between hawks and doves. [FXStreet](https://www.fxstreet.com/analysis/nfp-preview-can-jobs-data-ease-rate-hike-fears-202609040011)
 
 > [!note]- [[09-03-26 Thu]]
 >
