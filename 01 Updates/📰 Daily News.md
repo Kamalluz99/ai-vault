@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-09-05T05:15
+updated: 2026-09-05T05:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -81,8 +81,8 @@ unread: true
 > [!note]- Science: NASA's Roman Space Telescope begins 3-month cruise to L2 after Falcon Heavy launch (Space.com)
 > NASA's Nancy Grace Roman Space Telescope is now on a million-mile, three-month journey to its final station at the Sun-Earth L2 Lagrange point following its August 30 launch aboard a SpaceX Falcon Heavy. Roman will deliver Hubble-quality imaging across a field of view 100 times larger, enabling wide-field surveys of dark energy, dark matter, and exoplanet populations impossible with any prior space observatory. Engineers are conducting instrument health checks en route, with first science observations targeted for early 2027. [Space.com](https://www.space.com/)
 
-> [!note]- NKE: ~$38.52 (−38% YTD, 12-yr low) — Hold consensus PT $53.62; earnings beat was one-time tariff refund (Yahoo Finance)
-> Nike stock remains near $38.52 — down roughly 38% year-to-date and near a 12-year low — with Friday's strong NFP print sending the broader market lower and adding pressure. A 26-analyst consensus holds "Hold" with a $53.62 average price target (+39% implied upside), though Nike's recent earnings double-beat was inflated by a $986M one-time tariff refund; underlying margins and revenue growth disappointed. Position: 46 shares at $71.69 avg cost (unrealised −$1,526). [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
+> [!note]- NKE: ~$38.52 (Sept 3 close, near 12-yr low) — NFP blowout raises Fed hike odds; Q1 results due Sept 30 (Yahoo Finance)
+> Nike closed at $38.52 on September 3. Friday's August NFP blowout (+162K vs 53K expected) sent the broader market lower, and with no Friday NKE data available, the position stands at ~$1,772 market value (46 shares). Q1 FY2026 results due Sept 30 (Street: EPS $0.27, rev $10.96B). JPMorgan cut 2027 outlook citing China and competition headwinds; unrealised loss ~−$1,533 vs avg cost $71.69. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
 
 > [!note]- [[09-04-26 Fri]]
 >
