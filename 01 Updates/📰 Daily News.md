@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-09-06T05:00
+updated: 2026-09-06T05:30
 topic: daily news
 frequency: daily
 ongoing: false
@@ -126,6 +126,9 @@ unread: true
 >
 > > [!note]- Science: Google DeepMind's WeatherNext 3 goes public — hourly 5km forecasts, 60% better rain accuracy (AI Weekly)
 > > Google DeepMind released WeatherNext 3 on September 3, marking a step-change in AI-powered meteorology: the model produces hourly weather forecasts at up to 5km spatial resolution and achieves 60% more accurate rainfall predictions a day out compared to prior AI models. It outperforms conventional numerical weather prediction on key extreme-event metrics, with potential applications for flood early-warning systems, agricultural planning, and disaster preparedness in climate-vulnerable regions such as Southeast Asia. The release follows a string of major AI weather model launches in 2025–26, cementing AI as the new frontier in operational meteorology. [AI Weekly](https://aiweekly.co/ai-news-today)
+>
+> > [!breaking]- AI: Claude proves Fermat's Last Theorem in 11 days — first machine-verified Lean 4 proof (SiliconANGLE)
+> > Anthropic announced on September 5 that Claude worked autonomously for 11 days via the Prove2ME platform to produce the first ever end-to-end, machine-checked Lean 4 proof of Fermat's Last Theorem — a feat mathematicians estimated would take years. The model spawned dozens of sub-agents, generating 6 billion tokens and proving 29,500 intermediate theorems across 13 million lines of code — more than five times the size of the entire Mathlib library. The achievement represents a landmark in AI mathematical reasoning and formal verification. [SiliconANGLE](https://siliconangle.com/2026/09/04/anthropic-uses-claude-to-formalize-proof-of-fermats-last-theorem/)
 
 > [!note]- [[09-04-26 Fri]]
 >
