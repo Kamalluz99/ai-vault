@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-09-05T05:00
+updated: 2026-09-05T19:05
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,26 @@ unread: true
 
 > [!note]- NKE: ~$38.52 (Sept 3 close, near 12-yr low) — NFP blowout raises Fed hike odds; Q1 results due Sept 30 (Yahoo Finance)
 > Nike closed at $38.52 on September 3. Friday's August NFP blowout (+162K vs 53K expected) sent the broader market lower, and with no Friday NKE data available, the position stands at ~$1,772 market value (46 shares). Q1 FY2026 results due Sept 30 (Street: EPS $0.27, rev $10.96B). JPMorgan cut 2027 outlook citing China and competition headwinds; unrealised loss ~−$1,533 vs avg cost $71.69. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
+
+> **Evening update**
+
+> [!breaking]- World: US strikes Iranian oil tanker near Kharg Island as US-Iran war escalates (Euronews)
+> Iranian media reported on September 5 that a US strike hit an Iranian oil tanker near Kharg Island — the hub responsible for more than 90% of Iran's crude exports — with explosions heard and the vessel being evacuated. The incident follows Iran's launch of anti-ship missiles in the Strait of Hormuz on September 4 and comes amid the broader resumption of hostilities since the June peace deal collapsed. Neither US nor Iranian officials had confirmed or denied the strike at time of writing. [Euronews](https://www.euronews.com/2026/09/05/iranian-media-report-us-strike-on-iranian-oil-tanker-near-kharg-island)
+
+> [!note]- Singapore & Malaysia: PSI hits Unhealthy across SG as haze worsens; Malaysia Day moved indoors (The Star)
+> Singapore's 24-hour PSI peaked at 120 in the central region at 6am on September 5, with the west (103) and east (102) also entering the Unhealthy range before improving slightly by mid-morning; smoke plumes from Sumatra and Kalimantan fires are the primary cause. The haze belt extends across Malaysia: Sarawak's already-announced indoor relocation of Malaysia Day celebrations to the Borneo Convention Centre Kuching (BCCK) on September 16 was further justified as Sarawak's API remained elevated. Residents in both countries are advised to limit outdoor activity and wear masks. [The Star](https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/05/air-in-central-singapore-remains-unhealthy-psi-in-western-and-eastern-regions-dip-to-moderate)
+
+> [!note]- Malaysia: Wife of missing SAR officer joins Nepal aid mission as 55 Malaysians still unaccounted for (Bernama)
+> Hani Othman, who has been in Nepal for eight days tracking the fate of her husband — a Special Airborne Fire and Rescue Team officer among those missing after the Himalayan flash floods — joined a humanitarian aid distribution mission for disaster victims on September 5. The SMART team of 11 sent by Malaysia continues search operations in Nepal, where the overall death toll has surpassed 1,280 with 5,620+ missing. Fifty-five Malaysians remain unaccounted for as rescue efforts are hampered by landslides and blocked mountain roads. [Bernama](https://www.bernama.com/en/)
+
+> [!note]- World: Iran's 59-missile-and-drone salvo collapses ceasefire; US-Iran war fully reignited (Al Jazeera)
+> Iran launched at least 59 missiles and drones overnight on September 1–2, targeting US bases and interests in Jordan, Bahrain, Kuwait, and Iraq — the largest Iranian barrage since the April 8 ceasefire. The June 14 peace memorandum of understanding, which was meant to formally end the conflict within 60 days, broke down in July after Iran struck commercial vessels that bypassed the pre-agreed route. As of September 5, active military exchanges continue on both sides with no diplomatic off-ramp visible. [Al Jazeera](https://www.aljazeera.com/news/liveblog/2026/9/2/iran-war-live-us-bombs-iran-tehran-retaliates-on-gulf-neighbours-jordan)
+
+> [!note]- Tech: Sony & Warner Chappell sue Anthropic for pirating tens of thousands of songs to train Claude (TechCrunch)
+> Sony Music Publishing and Warner Chappell Music filed suit in California federal court against Anthropic, CEO Dario Amodei, and co-founder Benjamin Mann, alleging the company pirated lyrics and sheet music from Library Genesis and the Pirate Library Mirror to train its Claude models — "one of the largest and most blatant ongoing thefts of intellectual property in history." The publishers seek up to $150,000 per work wilfully infringed across tens of thousands of songs including "I Am the Walrus" and "Hallelujah." Anthropic previously settled with book authors for $1.5B in 2025; Concord Music and UMG have separately sought $3B+ in earlier suits. [TechCrunch](https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/)
+
+> [!note]- Science: Google DeepMind's WeatherNext 3 goes public — hourly 5km forecasts, 60% better rain accuracy (AI Weekly)
+> Google DeepMind released WeatherNext 3 on September 3, marking a step-change in AI-powered meteorology: the model produces hourly weather forecasts at up to 5km spatial resolution and achieves 60% more accurate rainfall predictions a day out compared to prior AI models. It outperforms conventional numerical weather prediction on key extreme-event metrics, with potential applications for flood early-warning systems, agricultural planning, and disaster preparedness in climate-vulnerable regions such as Southeast Asia. The release follows a string of major AI weather model launches in 2025–26, cementing AI as the new frontier in operational meteorology. [AI Weekly](https://aiweekly.co/ai-news-today)
 
 > [!note]- [[09-04-26 Fri]]
 >
