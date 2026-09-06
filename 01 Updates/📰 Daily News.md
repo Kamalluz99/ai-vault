@@ -81,6 +81,9 @@ unread: true
 > [!note]- Science: Hubble confirms Saturn's 10-sided decagon — giant atmospheric wave encircles south pole (NASA / ScienceDaily)
 > NASA's Hubble Space Telescope has confirmed a massive, evolving 10-sided (decagonal) atmospheric wave encircling Saturn's south pole — the first large regular-sided jet pattern observed in the planet's southern hemisphere. Centred around 60° south, the decagon rides one of Saturn's powerful eastward jet streams and extends through multiple atmospheric layers. Scientists traced it back to 2023 and note it is actively strengthening, offering a rare chance to watch a giant planetary atmospheric pattern develop in real time — unlike the northern hexagon, stable for 40+ years. [NASA / ScienceDaily](https://www.sciencedaily.com/releases/2026/09/260903064229.htm)
 
+> [!note]- NKE: ~$38.41 (Fri Sep 5 close; markets closed Labor Day) — Nike to exit S&P 100 on Sep 21 (CNBC)
+> Nike (NKE) last traded at approximately $38.41 on Friday September 5; US markets are shut today for Labor Day with Tuesday the next session. Nike is set to be removed from the S&P 100 Index on September 21 following its sustained market-cap decline — a significant index demotion capping a rough year. Position: 46 shares at $71.69 avg cost (est. unrealised loss ~−$1,519). [CNBC](https://www.cnbc.com/quotes/NKE)
+
 > [!note]- [[09-06-26 Sun]]
 >
 > > [!note]- AI: Claude Fable 5.1 tops Artificial Analysis Index v4.2 as GPT-6 Astra rolls out to all ChatGPT users (AI Weekly)
