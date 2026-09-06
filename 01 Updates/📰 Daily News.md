@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-09-06T19:07
+updated: 2026-09-07T05:03
 topic: daily news
 frequency: daily
 ongoing: false
@@ -61,48 +61,68 @@ unread: true
 
 ## 2026-09
 
-### [[09-06-26 Sun]]
+### [[09-07-26 Mon]]
 
-> [!note]- AI: Claude Fable 5.1 tops Artificial Analysis Index v4.2 as GPT-6 Astra rolls out to all ChatGPT users (AI Weekly)
-> Artificial Analysis published its Intelligence Index v4.2 on September 4, with Claude Fable 5.1 ranked first, GPT-6 Astra second, and Meta's latest model third; private test sets now account for 40% of index weighting. OpenAI's GPT-6 Astra simultaneously entered full rollout to all ChatGPT Plus, Pro, Business, and Enterprise users and is also available via the OpenAI API and AWS. [AI Weekly](https://aiweekly.co/ai-news-today)
+> [!note]- AI: EU AI Act transparency task forces launch as 190+ firms sign AI content code (European Commission)
+> The European Commission launched two industry task forces this September under the newly active AI Act Code of Practice on Transparency of AI-Generated Content, following the code's publication in June 2026 and its formal entry into effect on August 2. Signatories include Anthropic, Google, Meta, Microsoft, OpenAI, and Mistral among 190+ organisations; task forces will advance watermarking, disclosure, and best-practice implementation. The EU's transparency framework is the world's first binding regulatory overlay on AI-generated media. [European Commission](https://digital-strategy.ec.europa.eu/en/news/strong-backing-code-practice-transparency-ai-generated-content)
 
-> [!note]- Tech: Tesla's wheel-free Cybercabs hit Austin streets — federal safety probe launched immediately (TechStartups)
-> Tesla deployed its driverless, wheel-free Cybercab robotaxis on Austin public roads, drawing a near-immediate federal safety investigation. The launch comes as Uber separately announced 3,300 job cuts — roughly 10% of its global workforce — redirecting capital toward its autonomous vehicle programme to compete with Tesla and Waymo. [TechStartups](https://techstartups.com/2026/09/04/top-tech-news-today-september-4-2026-amazon-google-microsoft-nvidia-openai-tesla-more/)
+> [!note]- Tech: All eyes on Apple's Sept 9 event — iPhone 17 and first-ever foldable expected under new CEO Ternus (Al Jazeera)
+> Apple's September 9 product event will be CEO John Ternus's debut unveiling since succeeding Tim Cook on September 1, with analysts expecting the iPhone 17 lineup and Apple's first foldable device — a direct challenge to Samsung and Google. Apple remains the only major Big Tech company without a frontier AI model, making the AI features baked into its new hardware its most scrutinised element. The event arrives as the market watches whether the new leadership can close Apple's AI gap. [Al Jazeera](https://www.aljazeera.com/economy/2026/9/1/john-ternus-succeeds-tim-cook-as-apple-ceo-after-15-years)
 
-> [!note]- Macro: US markets closed Mon (Labor Day); last close Fri Sep 4 — S&P −0.38% to 7,718 on NFP blowout; Fed hike odds linger (CNBC)
-> US equities are closed today and Monday for Labor Day. The Friday Aug NFP print (+162K vs 53K expected) sent the S&P 500 down 0.38% to 7,718.60, Dow −0.51% to 53,414.25, Nasdaq −0.29%, with Fed rate-hike odds remaining elevated ahead of the September 15–16 FOMC meeting. [CNBC](https://www.cnbc.com/2026/09/01/stock-market-today-live-updates.html)
+> [!note]- Macro: US markets closed for Labor Day; futures eye Tuesday reopening after NFP shock raised Fed hike odds (CNBC)
+> US equity and bond markets are shuttered today for Labor Day. When trading resumes Tuesday at 9:30am ET, investors will grapple with Friday's blowout August NFP print (+162K vs 53K expected), which sent the S&P 500 down 0.38% to 7,718.60, 2-year Treasury yields to their highest since January 2025, and Fed rate-hike odds sharply higher ahead of the September 15–16 FOMC meeting. A 25bp hike is now priced in by a meaningful share of the market. [CNBC](https://www.cnbc.com/2026/09/03/stock-market-today-live-updates.html)
 
-> [!breaking]- World: US strikes IRGC again in Iran's Kermanshah — 5 killed; Trump envoys land in Moscow for Ukraine talks (Wikipedia)
-> The US carried out additional airstrikes against IRGC targets in Kermanshah, Iran, killing five members of the IRGC Aerospace Force in the continuing 2026 US-Iran conflict. Separately, two Trump administration envoys arrived in Moscow on September 5 to hold direct talks on Ukraine, marking a rare diplomatic engagement as the Russia-Ukraine war heads into another pivotal phase. [Wikipedia](https://en.wikipedia.org/wiki/Portal:Current_events/September_2026)
+> [!note]- World: Witkoff & Kushner meet Zelensky in Kyiv; temporary truce on capital strikes holds (Bloomberg)
+> US envoys Steve Witkoff and Jared Kushner met President Zelensky in Kyiv on September 6–7, a day after "frank" but inconclusive talks with Putin in Moscow. Both sides agreed to a temporary halt on strikes targeting each other's capitals to allow diplomacy to breathe, though Russia conceded nothing on territorial gains. The shuttle diplomacy is the most direct US engagement on Ukraine since Trump returned to office, but a comprehensive settlement remains distant. [Bloomberg](https://www.bloomberg.com/news/articles/2026-09-06/trump-envoys-arrive-in-kyiv-in-new-push-to-end-russia-s-war)
 
-> [!note]- Malaysia/Singapore: Haze worsens — Singapore PSI peaks at 120 (Unhealthy); Malaysia Day ceremony moved indoors (The Star)
-> Singapore's 24-hour PSI peaked at 120 in the central region on September 5 as smoke from Sumatra and Kalimantan fires blankets the island; western and eastern PSI also crossed into Unhealthy territory. The haze belt extends across Malaysia, with Sarawak's Malaysia Day ceremony on September 16 moved indoors to BCCK Kuching; Malaysia's SMART team remains in Nepal searching for 55 missing nationals. [The Star](https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/05/air-in-central-singapore-remains-unhealthy-psi-in-western-and-eastern-regions-dip-to-moderate)
+> [!note]- Malaysia: Para Sukma four events postponed — Selangor haze API hits Very Unhealthy 169 (Malay Mail)
+> The Selangor 2026 Sukma Para Games organising committee postponed four para sports events on September 6 after Selangor's Air Pollutant Index (API) hit 169 by noon. Para athletics at UiTM Stadium, swimming at the Selangor Aquatic Complex, archery at Kombes, and lawn bowls at Bayuemas, Klang were all suspended on Environment and Health Ministry advice. Haze driven by Sumatra and Kalimantan fires continues to blanket peninsular Malaysia and Borneo with no clearing expected before mid-week. [Malay Mail](https://www.malaymail.com/news/sports/2026/09/06/haze-hits-para-sukma-four-events-postponed-after-selangor-api-climbs-to-unhealthy-169/234163)
 
-> [!note]- Science: BepiColombo begins final Mercury orbit insertion after 8-year journey; sea squirt compound reverses aging in mice (ScienceNews)
-> The ESA/JAXA BepiColombo spacecraft has commenced its final arrival sequence at Mercury — the first probe to approach the planet in nearly a decade — after almost eight years traversing the inner solar system. Separately, a substance extracted from edible sea squirts reversed several signs of aging in older mice, raising hopes for novel longevity therapeutics. [ScienceNews](https://www.sciencenews.org/sn-magazine/september-2026)
+> [!note]- Science: Hubble confirms Saturn's 10-sided decagon — giant atmospheric wave encircles south pole (NASA / ScienceDaily)
+> NASA's Hubble Space Telescope has confirmed a massive, evolving 10-sided (decagonal) atmospheric wave encircling Saturn's south pole — the first large regular-sided jet pattern observed in the planet's southern hemisphere. Centred around 60° south, the decagon rides one of Saturn's powerful eastward jet streams and extends through multiple atmospheric layers. Scientists traced it back to 2023 and note it is actively strengthening, offering a rare chance to watch a giant planetary atmospheric pattern develop in real time — unlike the northern hexagon, stable for 40+ years. [NASA / ScienceDaily](https://www.sciencedaily.com/releases/2026/09/260903064229.htm)
 
-> [!note]- NKE: ~$38.43 (+0.3%, Fri Sep 4 close — markets closed Sun/Mon) — JPMorgan cuts 2027 earnings outlook on China and competition fears (CNBC)
-> Nike (NKE) closed Friday at approximately $38.43 (range $37.98–$38.66), near its 12-year low. Markets are closed through Monday for Labor Day; Tuesday is the next trading session. JPMorgan cut its 2027 Nike earnings outlook citing China demand weakness and rising competition as key headwinds. Position: 46 shares at $71.69 avg cost (est. unrealised loss ~−$1,519). [CNBC](https://www.cnbc.com/quotes/NKE)
-
-> **Evening update**
-
-> [!note]- SG & Malaysia: Haze eases in Singapore; Sukma events axed in Malaysia (Malay Mail)
-> Singapore's 24-hour PSI readings across all five regions returned to the Moderate range by morning on September 6, following a day of Unhealthy readings that peaked at 123 in the central region overnight. Malaysia's 8am readings still showed 35 Unhealthy areas plus two Very Unhealthy zones — Kuching and Sri Aman in Sarawak — with Selangor's API reaching a Very Unhealthy 169 by noon, forcing postponement of four para sports events at the 2026 Sukma Games. Authorities warn that Indonesian fire smoke could push Singapore back into Unhealthy territory in coming days. [Malay Mail](https://www.malaymail.com/news/singapore/2026/09/06/singapore-haze-eases-after-unhealthy-readings-but-smoke-threat-lingers/234077)
-
-> [!note]- Malaysia: Ex-minister's remand extended 2 days in Tabung Haji Saudi probe (Bernama)
-> Malaysian authorities extended the remand of a former minister for two additional days as investigators pursue allegations of irregularities in a Lembaga Tabung Haji hotel-lease arrangement in Saudi Arabia. Tabung Haji, Malaysia's Muslim pilgrimage savings fund managing over nine million depositors, has faced scrutiny over its Saudi real estate transactions. The remand extension signals that active financial misconduct leads are being pursued. [Bernama](https://www.bernama.com/en/)
-
-> [!note]- World: Witkoff & Kushner in Kyiv after 'frank' Putin talks, no deal (Bloomberg)
-> US special envoys Steve Witkoff and Jared Kushner arrived by train in Kyiv on September 6 for talks with President Zelensky, a day after more than three hours of "frank" but inconclusive discussions with Putin in Moscow. Russia expressed confidence in its military gains in eastern Ukraine and conceded nothing, though both sides agreed a temporary truce on strikes targeting each other's capitals to facilitate diplomacy. The shuttle diplomacy marks the most direct US engagement on the Russia-Ukraine conflict since Trump returned to office. [Bloomberg](https://www.bloomberg.com/news/articles/2026-09-06/trump-envoys-arrive-in-kyiv-in-new-push-to-end-russia-s-war)
-
-> [!breaking]- World: US destroys 3 Iranian tankers after IRGC targets US carrier (ABC News)
-> US forces permanently disabled two Iranian oil tankers and destroyed a third after IRGC ballistic missiles targeted a US aircraft carrier and destroyer in the Strait of Hormuz — a major new escalation on Day 190 of the 2026 Iran war. The tanker strikes follow Friday's US hit on a vessel near Kharg Island, which handles over 90% of Iran's crude exports, effectively squeezing Tehran's oil revenues directly. The cycle of Iranian strikes on US warships and US strikes on Iranian oil infrastructure continues with no diplomatic resolution in sight. [ABC News](https://abcnews.com/International/live-updates/iran-live-updates-centcom-targeted-iranian-forces-posed/?id=136080582)
-
-> [!note]- Tech: John Ternus is Apple's new CEO as Tim Cook exits (Al Jazeera)
-> John Ternus officially became Apple CEO on September 1, succeeding Tim Cook who transitions to executive chairman after 15 years. Ternus, 52, who led Apple's hardware engineering division, inherits the company's sharpest strategic challenge: Apple remains the only major Big Tech company without a frontier AI model, even as GPT-6 Astra and Claude Fable 5.1 set new capability benchmarks. His first major test arrives September 9 when Apple is expected to unveil a new iPhone alongside its first-ever foldable device. [Al Jazeera](https://www.aljazeera.com/economy/2026/9/1/john-ternus-succeeds-tim-cook-as-apple-ceo-after-15-years)
-
-> [!note]- Economy: S. Korea chip exports +209% YoY in August; AI drives record (CNBC)
-> South Korea's semiconductor exports surged 209% year-on-year in August to an all-time monthly record, with total exports climbing 68.7% YoY to $98.25 billion as global demand for AI training chips and high-bandwidth memory drives an unprecedented supercycle. The data confirms that the AI infrastructure buildout continues to reshape global trade, even as the US trade deficit widened 24.4% in July to $88.6 billion — largely on surging technology imports feeding the same buildout. Chip-equipment spending is now widely expected to remain elevated well into 2027. [CNBC](https://www.cnbc.com/2026/09/01/stock-market-today-live-updates.html)
+> [!note]- [[09-06-26 Sun]]
+>
+> > [!note]- AI: Claude Fable 5.1 tops Artificial Analysis Index v4.2 as GPT-6 Astra rolls out to all ChatGPT users (AI Weekly)
+> > Artificial Analysis published its Intelligence Index v4.2 on September 4, with Claude Fable 5.1 ranked first, GPT-6 Astra second, and Meta's latest model third; private test sets now account for 40% of index weighting. OpenAI's GPT-6 Astra simultaneously entered full rollout to all ChatGPT Plus, Pro, Business, and Enterprise users and is also available via the OpenAI API and AWS. [AI Weekly](https://aiweekly.co/ai-news-today)
+>
+> > [!note]- Tech: Tesla's wheel-free Cybercabs hit Austin streets — federal safety probe launched immediately (TechStartups)
+> > Tesla deployed its driverless, wheel-free Cybercab robotaxis on Austin public roads, drawing a near-immediate federal safety investigation. The launch comes as Uber separately announced 3,300 job cuts — roughly 10% of its global workforce — redirecting capital toward its autonomous vehicle programme to compete with Tesla and Waymo. [TechStartups](https://techstartups.com/2026/09/04/top-tech-news-today-september-4-2026-amazon-google-microsoft-nvidia-openai-tesla-more/)
+>
+> > [!note]- Macro: US markets closed Mon (Labor Day); last close Fri Sep 4 — S&P −0.38% to 7,718 on NFP blowout; Fed hike odds linger (CNBC)
+> > US equities are closed today and Monday for Labor Day. The Friday Aug NFP print (+162K vs 53K expected) sent the S&P 500 down 0.38% to 7,718.60, Dow −0.51% to 53,414.25, Nasdaq −0.29%, with Fed rate-hike odds remaining elevated ahead of the September 15–16 FOMC meeting. [CNBC](https://www.cnbc.com/2026/09/01/stock-market-today-live-updates.html)
+>
+> > [!breaking]- World: US strikes IRGC again in Iran's Kermanshah — 5 killed; Trump envoys land in Moscow for Ukraine talks (Wikipedia)
+> > The US carried out additional airstrikes against IRGC targets in Kermanshah, Iran, killing five members of the IRGC Aerospace Force in the continuing 2026 US-Iran conflict. Separately, two Trump administration envoys arrived in Moscow on September 5 to hold direct talks on Ukraine, marking a rare diplomatic engagement as the Russia-Ukraine war heads into another pivotal phase. [Wikipedia](https://en.wikipedia.org/wiki/Portal:Current_events/September_2026)
+>
+> > [!note]- Malaysia/Singapore: Haze worsens — Singapore PSI peaks at 120 (Unhealthy); Malaysia Day ceremony moved indoors (The Star)
+> > Singapore's 24-hour PSI peaked at 120 in the central region on September 5 as smoke from Sumatra and Kalimantan fires blankets the island; western and eastern PSI also crossed into Unhealthy territory. The haze belt extends across Malaysia, with Sarawak's Malaysia Day ceremony on September 16 moved indoors to BCCK Kuching; Malaysia's SMART team remains in Nepal searching for 55 missing nationals. [The Star](https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/05/air-in-central-singapore-remains-unhealthy-psi-in-western-and-eastern-regions-dip-to-moderate)
+>
+> > [!note]- Science: BepiColombo begins final Mercury orbit insertion after 8-year journey; sea squirt compound reverses aging in mice (ScienceNews)
+> > The ESA/JAXA BepiColombo spacecraft has commenced its final arrival sequence at Mercury — the first probe to approach the planet in nearly a decade — after almost eight years traversing the inner solar system. Separately, a substance extracted from edible sea squirts reversed several signs of aging in older mice, raising hopes for novel longevity therapeutics. [ScienceNews](https://www.sciencenews.org/sn-magazine/september-2026)
+>
+> > [!note]- NKE: ~$38.43 (+0.3%, Fri Sep 4 close — markets closed Sun/Mon) — JPMorgan cuts 2027 earnings outlook on China and competition fears (CNBC)
+> > Nike (NKE) closed Friday at approximately $38.43 (range $37.98–$38.66), near its 12-year low. Markets are closed through Monday for Labor Day; Tuesday is the next trading session. JPMorgan cut its 2027 Nike earnings outlook citing China demand weakness and rising competition as key headwinds. Position: 46 shares at $71.69 avg cost (est. unrealised loss ~−$1,519). [CNBC](https://www.cnbc.com/quotes/NKE)
+>
+> > **Evening update**
+>
+> > [!note]- SG & Malaysia: Haze eases in Singapore; Sukma events axed in Malaysia (Malay Mail)
+> > Singapore's 24-hour PSI readings across all five regions returned to the Moderate range by morning on September 6, following a day of Unhealthy readings that peaked at 123 in the central region overnight. Malaysia's 8am readings still showed 35 Unhealthy areas plus two Very Unhealthy zones — Kuching and Sri Aman in Sarawak — with Selangor's API reaching a Very Unhealthy 169 by noon, forcing postponement of four para sports events at the 2026 Sukma Games. Authorities warn that Indonesian fire smoke could push Singapore back into Unhealthy territory in coming days. [Malay Mail](https://www.malaymail.com/news/singapore/2026/09/06/singapore-haze-eases-after-unhealthy-readings-but-smoke-threat-lingers/234077)
+>
+> > [!note]- Malaysia: Ex-minister's remand extended 2 days in Tabung Haji Saudi probe (Bernama)
+> > Malaysian authorities extended the remand of a former minister for two additional days as investigators pursue allegations of irregularities in a Lembaga Tabung Haji hotel-lease arrangement in Saudi Arabia. Tabung Haji, Malaysia's Muslim pilgrimage savings fund managing over nine million depositors, has faced scrutiny over its Saudi real estate transactions. The remand extension signals that active financial misconduct leads are being pursued. [Bernama](https://www.bernama.com/en/)
+>
+> > [!note]- World: Witkoff & Kushner in Kyiv after 'frank' Putin talks, no deal (Bloomberg)
+> > US special envoys Steve Witkoff and Jared Kushner arrived by train in Kyiv on September 6 for talks with President Zelensky, a day after more than three hours of "frank" but inconclusive discussions with Putin in Moscow. Russia expressed confidence in its military gains in eastern Ukraine and conceded nothing, though both sides agreed a temporary truce on strikes targeting each other's capitals to facilitate diplomacy. The shuttle diplomacy marks the most direct US engagement on the Russia-Ukraine conflict since Trump returned to office. [Bloomberg](https://www.bloomberg.com/news/articles/2026-09-06/trump-envoys-arrive-in-kyiv-in-new-push-to-end-russia-s-war)
+>
+> > [!breaking]- World: US destroys 3 Iranian tankers after IRGC targets US carrier (ABC News)
+> > US forces permanently disabled two Iranian oil tankers and destroyed a third after IRGC ballistic missiles targeted a US aircraft carrier and destroyer in the Strait of Hormuz — a major new escalation on Day 190 of the 2026 Iran war. The tanker strikes follow Friday's US hit on a vessel near Kharg Island, which handles over 90% of Iran's crude exports, effectively squeezing Tehran's oil revenues directly. The cycle of Iranian strikes on US warships and US strikes on Iranian oil infrastructure continues with no diplomatic resolution in sight. [ABC News](https://abcnews.com/International/live-updates/iran-live-updates-centcom-targeted-iranian-forces-posed/?id=136080582)
+>
+> > [!note]- Tech: John Ternus is Apple's new CEO as Tim Cook exits (Al Jazeera)
+> > John Ternus officially became Apple CEO on September 1, succeeding Tim Cook who transitions to executive chairman after 15 years. Ternus, 52, who led Apple's hardware engineering division, inherits the company's sharpest strategic challenge: Apple remains the only major Big Tech company without a frontier AI model, even as GPT-6 Astra and Claude Fable 5.1 set new capability benchmarks. His first major test arrives September 9 when Apple is expected to unveil a new iPhone alongside its first-ever foldable device. [Al Jazeera](https://www.aljazeera.com/economy/2026/9/1/john-ternus-succeeds-tim-cook-as-apple-ceo-after-15-years)
+>
+> > [!note]- Economy: S. Korea chip exports +209% YoY in August; AI drives record (CNBC)
+> > South Korea's semiconductor exports surged 209% year-on-year in August to an all-time monthly record, with total exports climbing 68.7% YoY to $98.25 billion as global demand for AI training chips and high-bandwidth memory drives an unprecedented supercycle. The data confirms that the AI infrastructure buildout continues to reshape global trade, even as the US trade deficit widened 24.4% in July to $88.6 billion — largely on surging technology imports feeding the same buildout. Chip-equipment spending is now widely expected to remain elevated well into 2027. [CNBC](https://www.cnbc.com/2026/09/01/stock-market-today-live-updates.html)
 
 > [!note]- [[09-05-26 Sat]]
 >
