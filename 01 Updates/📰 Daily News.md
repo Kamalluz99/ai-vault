@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-09-06T05:30
+updated: 2026-09-06T19:07
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,26 @@ unread: true
 
 > [!note]- NKE: ~$38.43 (+0.3%, Fri Sep 4 close — markets closed Sun/Mon) — JPMorgan cuts 2027 earnings outlook on China and competition fears (CNBC)
 > Nike (NKE) closed Friday at approximately $38.43 (range $37.98–$38.66), near its 12-year low. Markets are closed through Monday for Labor Day; Tuesday is the next trading session. JPMorgan cut its 2027 Nike earnings outlook citing China demand weakness and rising competition as key headwinds. Position: 46 shares at $71.69 avg cost (est. unrealised loss ~−$1,519). [CNBC](https://www.cnbc.com/quotes/NKE)
+
+> **Evening update**
+
+> [!note]- SG & Malaysia: Haze eases in Singapore; Sukma events axed in Malaysia (Malay Mail)
+> Singapore's 24-hour PSI readings across all five regions returned to the Moderate range by morning on September 6, following a day of Unhealthy readings that peaked at 123 in the central region overnight. Malaysia's 8am readings still showed 35 Unhealthy areas plus two Very Unhealthy zones — Kuching and Sri Aman in Sarawak — with Selangor's API reaching a Very Unhealthy 169 by noon, forcing postponement of four para sports events at the 2026 Sukma Games. Authorities warn that Indonesian fire smoke could push Singapore back into Unhealthy territory in coming days. [Malay Mail](https://www.malaymail.com/news/singapore/2026/09/06/singapore-haze-eases-after-unhealthy-readings-but-smoke-threat-lingers/234077)
+
+> [!note]- Malaysia: Ex-minister's remand extended 2 days in Tabung Haji Saudi probe (Bernama)
+> Malaysian authorities extended the remand of a former minister for two additional days as investigators pursue allegations of irregularities in a Lembaga Tabung Haji hotel-lease arrangement in Saudi Arabia. Tabung Haji, Malaysia's Muslim pilgrimage savings fund managing over nine million depositors, has faced scrutiny over its Saudi real estate transactions. The remand extension signals that active financial misconduct leads are being pursued. [Bernama](https://www.bernama.com/en/)
+
+> [!note]- World: Witkoff & Kushner in Kyiv after 'frank' Putin talks, no deal (Bloomberg)
+> US special envoys Steve Witkoff and Jared Kushner arrived by train in Kyiv on September 6 for talks with President Zelensky, a day after more than three hours of "frank" but inconclusive discussions with Putin in Moscow. Russia expressed confidence in its military gains in eastern Ukraine and conceded nothing, though both sides agreed a temporary truce on strikes targeting each other's capitals to facilitate diplomacy. The shuttle diplomacy marks the most direct US engagement on the Russia-Ukraine conflict since Trump returned to office. [Bloomberg](https://www.bloomberg.com/news/articles/2026-09-06/trump-envoys-arrive-in-kyiv-in-new-push-to-end-russia-s-war)
+
+> [!breaking]- World: US destroys 3 Iranian tankers after IRGC targets US carrier (ABC News)
+> US forces permanently disabled two Iranian oil tankers and destroyed a third after IRGC ballistic missiles targeted a US aircraft carrier and destroyer in the Strait of Hormuz — a major new escalation on Day 190 of the 2026 Iran war. The tanker strikes follow Friday's US hit on a vessel near Kharg Island, which handles over 90% of Iran's crude exports, effectively squeezing Tehran's oil revenues directly. The cycle of Iranian strikes on US warships and US strikes on Iranian oil infrastructure continues with no diplomatic resolution in sight. [ABC News](https://abcnews.com/International/live-updates/iran-live-updates-centcom-targeted-iranian-forces-posed/?id=136080582)
+
+> [!note]- Tech: John Ternus is Apple's new CEO as Tim Cook exits (Al Jazeera)
+> John Ternus officially became Apple CEO on September 1, succeeding Tim Cook who transitions to executive chairman after 15 years. Ternus, 52, who led Apple's hardware engineering division, inherits the company's sharpest strategic challenge: Apple remains the only major Big Tech company without a frontier AI model, even as GPT-6 Astra and Claude Fable 5.1 set new capability benchmarks. His first major test arrives September 9 when Apple is expected to unveil a new iPhone alongside its first-ever foldable device. [Al Jazeera](https://www.aljazeera.com/economy/2026/9/1/john-ternus-succeeds-tim-cook-as-apple-ceo-after-15-years)
+
+> [!note]- Economy: S. Korea chip exports +209% YoY in August; AI drives record (CNBC)
+> South Korea's semiconductor exports surged 209% year-on-year in August to an all-time monthly record, with total exports climbing 68.7% YoY to $98.25 billion as global demand for AI training chips and high-bandwidth memory drives an unprecedented supercycle. The data confirms that the AI infrastructure buildout continues to reshape global trade, even as the US trade deficit widened 24.4% in July to $88.6 billion — largely on surging technology imports feeding the same buildout. Chip-equipment spending is now widely expected to remain elevated well into 2027. [CNBC](https://www.cnbc.com/2026/09/01/stock-market-today-live-updates.html)
 
 > [!note]- [[09-05-26 Sat]]
 >
