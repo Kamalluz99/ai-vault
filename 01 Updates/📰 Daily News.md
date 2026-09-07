@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-09-07T05:03
+updated: 2026-09-07T20:30
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,26 @@ unread: true
 
 > [!note]- NKE: ~$38.41 (Fri Sep 5 close; markets closed Labor Day) — Nike to exit S&P 100 on Sep 21 (CNBC)
 > Nike (NKE) last traded at approximately $38.41 on Friday September 5; US markets are shut today for Labor Day with Tuesday the next session. Nike is set to be removed from the S&P 100 Index on September 21 following its sustained market-cap decline — a significant index demotion capping a rough year. Position: 46 shares at $71.69 avg cost (est. unrealised loss ~−$1,519). [CNBC](https://www.cnbc.com/quotes/NKE)
+
+> **Evening update**
+
+> [!note]- SG & Malaysia: Singapore Parliament opens ministerial salary debate — PM Wong to speak (AsiaOne)
+> Singapore's Parliament sits today (September 7) to debate the Government's response to an independent committee's recommendations on salaries for MPs and political office holders. Prime Minister Lawrence Wong and Coordinating Minister Chan Chun Sing will deliver ministerial statements. Singapore's political salaries — the world's highest — have not been adjusted since 2012, when ministers took a 36% pay cut; a junior minister currently earns S$1.1M and the PM S$2.2M annually. The independent committee chaired by Gan Seow Kee completed its review in April 2026. [AsiaOne](https://www.asiaone.com/singapore/ministerial-salaries-mp-parliament-lawrence-wong-chan-chun-sing)
+
+> [!note]- Malaysia: Serian haze emergency lifted as air quality improves; Samarahan still Very Unhealthy at 226 (Bernama)
+> Malaysian authorities lifted the emergency declaration in Serian, Sarawak on September 7 after the district's Air Pollutant Index dropped back below hazardous levels. However, Samarahan recorded a Very Unhealthy API of 226 as of 8am — the sole area in Malaysia at that level — while the broader peninsula and east Malaysia showed significant improvement from the 35 Unhealthy and 2 Very Unhealthy areas recorded earlier this week. The haze, driven by Sumatra and Kalimantan fires, is expected to gradually ease but will linger until Indonesian dry conditions change. [Bernama](https://www.bernama.com/en/)
+
+> [!breaking]- World: Iran ballistic missiles hit US warships; US destroys 3 tankers; Brent at $96 on third straight gain (CNBC)
+> Iranian forces targeted a US aircraft carrier and destroyer with ballistic missiles in the Strait of Hormuz over the weekend — the latest escalation in the 2026 US-Iran war — while US forces destroyed three Iranian oil tankers in retaliation, further choking Tehran's crude export capacity near Kharg Island. Brent crude climbed for a third consecutive session on September 7 to $96.28 a barrel (+0.8% on the day, +7.6% on the week) as energy markets price in sustained Strait closure risk. Iran has signalled it will respond to further US strikes with "even more painful" measures, with no diplomatic off-ramp in sight. [CNBC](https://www.cnbc.com/2026/09/07/stock-market-today-live-updates.html)
+
+> [!note]- World: AfD wins historic Saxony-Anhalt state election — far-right reshapes German politics (Geopolitics Explained)
+> Germany's Alternative für Deutschland (AfD) scored a historic victory in the Saxony-Anhalt state election, the latest in a string of eastern German state wins for the far-right party amid voter anger over migration and economic stagnation. The result intensifies pressure on the mainstream coalition government in Berlin and adds to evidence that centre-right and centre-left parties across Europe face existential challenges from insurgent nationalist movements — a trend accelerating in France, Austria, and the Netherlands. The AfD's eastern German dominance is now structurally entrenched ahead of the next federal election cycle. [Geopolitics Explained](https://geopoliticsexplained.substack.com/p/this-week-in-geopolitics-6th-september)
+
+> [!note]- Tech: Apple Sep 9 event preview — iPhone 18 Pro + first-ever foldable iPhone Ultra with 2nm A20 chip (MacRumors)
+> Apple's September 9 "Surprise and Shine" event — CEO John Ternus's debut since succeeding Tim Cook on September 1 — will unveil the iPhone 18 Pro, iPhone 18 Pro Max, and the company's first foldable device, tentatively named iPhone Ultra, all powered by the new 2nm A20 Pro chip. There will be no standard iPhone 18 this cycle; Apple is saving affordable models for spring 2027. The foldable marks Apple's first major form-factor change in over a decade, directly challenging Samsung's Galaxy Z Fold and Google's Pixel Fold at the premium end. [MacRumors](https://www.macrumors.com/guide/apple-september-2026-what-to-expect/)
+
+> [!note]- Economy: US markets reopen Tuesday; Fed hike odds 58.4% after Warsh reaffirms 2% target; Asian bourses mixed (Sunday Guardian)
+> US equity and bond markets remain closed September 7 for Labor Day, with Tuesday's reopening set to be shaped by Iran-driven oil prices, hot NFP data, and Friday's CPI print as the next key catalyst. Fed Chair Kevin Warsh's Jackson Hole speech reaffirmed the Fed's 2% inflation target, pushing the probability of a September 25bp rate hike to 58.4% — up from 49.4% before the August NFP blowout of +162K vs 53K expected. Asian markets diverged: Japan's Nikkei +2.12%, South Korea's Kospi +4.61%, Germany's DAX −0.14%, while Brent crude's 7.6% weekly surge adds a fresh inflation impulse. [Sunday Guardian](https://sundayguardianlive.com/business/dow-jones-futures-prediction-markets-closed-for-labor-day-as-investors-await-tuesday-wall-street-opening-check-dow-outlook-fed-rate-hike-bets-inflation-data-key-things-to-watch-278743/)
 
 > [!note]- [[09-06-26 Sun]]
 >
