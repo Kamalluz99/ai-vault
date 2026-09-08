@@ -104,8 +104,8 @@ unread: true
 > > [!note]- Science: CAR T-cell therapy delivers drug-free remission in severe rheumatoid arthritis (ScienceDaily)
 > > A Phase 1 trial published in Nature Medicine found that mivocabtagene autoleucel — a CD19-directed CAR T-cell therapy — dramatically reduced disease activity in all six patients with treatment-refractory rheumatoid arthritis, with three achieving full medication-free remission at 24–36 weeks follow-up. The therapy works by depleting B cells without the severe toxicities seen in oncology applications. Results were presented at EULAR 2026, setting up a larger Phase 2 COMPARE trial enrolling ten more patients before year-end. [ScienceDaily](https://www.sciencedaily.com/releases/2026/08/260828082330.htm)
 >
-> > [!note]- NKE: ~$38.41 (Sep 5 last close; US markets reopen today post-Labor Day) — set to exit S&P 100 on Sep 21; stock near 12-yr low (CNBC)
-> > Nike (NKE) last closed at approximately $38.41 on Friday September 5; today is the first live US trading session after the Labor Day long weekend. The company is set to be removed from the S&P 100 on September 21, reflecting sustained market-cap decline driven by weak Greater China demand, soft sportswear appetite, and strained wholesale relationships. Analyst consensus: 8 Buy / 15 Hold / 2 Sell, avg 12-month target $50.05. Position: 46 shares at $71.69 avg cost (est. unrealised loss ~−$1,519). [CNBC](https://www.cnbc.com/quotes/NKE)
+> > [!note]- NKE: $38.40 (Sep 8 close, −0.0%) — S&P 100 exit looms Sep 21; unrealised loss −$1,531 (CNBC)
+> > Nike (NKE) closed at $38.40 on Tuesday September 8 — essentially flat on its first full session post-Labor Day (intraday range $37.98–$38.66). The company remains on track for removal from the S&P 100 on September 21, a milestone of sustained market-cap decline driven by weak Greater China demand, sluggish sportswear sentiment, and strained wholesale relationships. Analyst consensus: 8 Buy / 15 Hold / 2 Sell, avg 12-month target $50.05. Position: 46 shares at $71.69 avg cost; unrealised loss ~−$1,531 (46 × ($38.40 − $71.69)). [CNBC](https://www.cnbc.com/quotes/NKE)
 >
 > > **Evening update**
 >
