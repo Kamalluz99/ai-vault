@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-09-08T05:07
+updated: 2026-09-08T19:07
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,26 @@ unread: true
 
 > [!note]- NKE: ~$38.41 (Sep 5 last close; US markets reopen today post-Labor Day) — set to exit S&P 100 on Sep 21; stock near 12-yr low (CNBC)
 > Nike (NKE) last closed at approximately $38.41 on Friday September 5; today is the first live US trading session after the Labor Day long weekend. The company is set to be removed from the S&P 100 on September 21, reflecting sustained market-cap decline driven by weak Greater China demand, soft sportswear appetite, and strained wholesale relationships. Analyst consensus: 8 Buy / 15 Hold / 2 Sell, avg 12-month target $50.05. Position: 46 shares at $71.69 avg cost (est. unrealised loss ~−$1,519). [CNBC](https://www.cnbc.com/quotes/NKE)
+
+> **Evening update**
+
+> [!note]- SG & Malaysia: Singapore Parliament accepts 9% ministerial pay rise effective Oct 15 (Bloomberg)
+> Singapore's PM Lawrence Wong told Parliament on September 8 that the government accepts an independent committee's recommendation to raise political office holders' salaries by up to 9% from October 15 — the first adjustment since 2012. Wong's own salary will rise 64% to S$3.6M annually, while an MR4-grade minister will earn S$1.2M. In a notable gesture, Wong pledged to donate his full salary increase of S$1.4M to charity over the next five years. [Bloomberg](https://www.bloomberg.com/news/articles/2026-09-08/singapore-ministers-pay-to-rise-by-up-to-9-in-one-time-boost)
+
+> [!note]- Malaysia: Anwar calls for stronger ASEAN haze rules; Malaysia won't shield firms in fires (Malay Mail)
+> PM Anwar Ibrahim said on September 8 that Malaysia will not shield any of its companies if Indonesia takes action against them for involvement in the Sumatra and Kalimantan forest fires driving this season's transboundary haze crisis. He called for a stronger ASEAN enforcement mechanism, saying the haze "is affecting lives, particularly children and babies." The statement marks a firmer bilateral posture amid sustained haze that has seen emergency declarations and widespread disruption across Malaysia. [Malay Mail](https://www.malaymail.com/news/malaysia/2026/09/08/anwar-asean-haze-mechanism-needs-stronger-action-malaysia-wont-shield-firms/234382)
+
+> [!note]- World: Iran and Oman explore Hormuz passage deal as US-Iran oil war grinds on (WEF)
+> Iran and Oman are reportedly in back-channel negotiations over an agreement to ease commercial shipping passage through the Strait of Hormuz, under which firms would pay maritime service fees to a newly-established corporation — a potential off-ramp that could partially reopen one of the world's most critical shipping lanes. Brent crude holds near $95–96/bbl as markets price in sustained Hormuz disruption risk from the ongoing US-Iran tanker conflict. Any deal would reduce Iran's chokepoint leverage while also ending the effective oil-export blockade on Tehran. [WEF](https://www.weforum.org/stories/geo-economics-and-politics/iran-us-war-and-other-geopolitical-stories-to-know-this-month/)
+
+> [!note]- World: Houthis declare Bab el-Mandeb blockade on Saudi ships, opening second front (WEF)
+> Yemen's Houthi forces declared a blockade of Saudi-linked shipping through the Bab el-Mandeb strait, placing two of the world's most critical maritime chokepoints — Hormuz in the Gulf and Bab el-Mandeb on the Red Sea — under simultaneous active threat. The dual-chokepoint posture sharply raises the cost and insurance risk profile of Gulf-region energy shipments, further straining global trade routes already disrupted by the US-Iran war. Analysts warn the combined effect could push Brent significantly higher if both lanes face protracted disruption. [WEF](https://www.weforum.org/stories/geo-economics-and-politics/iran-us-war-and-other-geopolitical-stories-to-know-this-month/)
+
+> [!note]- Tech: OpenAI confirms DevDay 2026 on Sept 29 — Managed Agents platform debut in SF (Crypto Briefing)
+> OpenAI confirmed DevDay 2026 will take place September 29 at Fort Mason, San Francisco, with a Sam Altman keynote at 10am PT. The headline feature is expected to be Managed Agents — a unified platform for building, deploying, and hosting AI agents with customizable environments, skills, and plugins — building on a year of agent-focused infrastructure releases including Frontier and Workspace Agents GA. The event marks OpenAI's biggest-ever developer conference and arrives just three weeks after the planned Thursday release of delayed models. [Crypto Briefing](https://cryptobriefing.com/openai-managed-agents-devday-2026/)
+
+> [!note]- Economy: Wall St. braces for Aug PPI/CPI before 58.4%-odds Fed rate hike on Sept 15 (WTOP)
+> Wall Street's focus this week turns to August inflation data: the Producer Price Index on Thursday September 10 and the Consumer Price Index on Friday September 11, the last major macro inputs before the Federal Reserve's September 15–16 FOMC meeting. Markets currently price a 58.4% probability of a 25bp rate hike, sharply elevated after the August NFP blowout (+162K vs 53K expected) and Fed Chair Kevin Warsh's hawkish Jackson Hole address reaffirming the 2% target. Oil near $95–96/bbl from Hormuz-Bab el-Mandeb disruptions adds a fresh inflation wildcard. [WTOP](https://wtop.com/national/2026/09/wall-street-week-ahead-the-market-focuses-on-key-inflation-updates)
 
 > [!note]- [[09-07-26 Mon]]
 >
