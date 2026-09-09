@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-09-09T05:06
+updated: 2026-09-09T19:07
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,26 @@ unread: true
 
 > [!note]- NKE: $38.37 (−0.1%) — Nike to exit S&P 100 on Sep 21 after 18-year run; stock near 12-yr low (CNBC)
 > Nike (NKE) trades at $38.37 (−0.08% from Tuesday's $38.40 close), day range $38.22–$38.74, 52-week range $37.95–$76.97. Nike will be removed from the S&P 100 on September 21, ending an 18-year index run amid sustained market-cap decline from weak Greater China demand and strained wholesale relationships. Avg analyst 12-month target $50.46. Position: 46 shares at $71.69 avg cost (est. unrealised loss ~−$1,524). [CNBC](https://www.cnbc.com/quotes/NKE)
+
+> **Evening update**
+
+> [!note]- SG & Malaysia: JB–Singapore RTS Link hits 90% completion; December 2026 passenger launch on track (LTA)
+> The Johor Bahru–Singapore Rapid Transit System Link reached 90% completion and remains on schedule to open for passenger service in December 2026, with Singapore's Land Transport Authority confirming steady progress on both sides of the causeway. The first of eight CRRC-built LRT trains — capable of serving 10,000 commuters per hour per direction — was unveiled at the Singapore Rail Test Centre in July 2026. Singapore FM Vivian Balakrishnan reiterated this week the city-state's commitment to the RTS Link as a cornerstone of SG–MY bilateral cooperation, as elevated September school-holiday border traffic highlights the project's urgency. [LTA](https://www.lta.gov.sg/content/ltagov/en/upcoming_projects/rail_expansion/JB-Singapore_RTS_link.html)
+
+> [!note]- Malaysia: Sarawak haze emergency lifted in Serian as API falls; Very Unhealthy readings persist nationwide (Al Jazeera)
+> Malaysia cancelled the air-quality emergency declared in Serian, Sarawak on September 8 after the Air Pollutant Index dropped below emergency thresholds, but authorities warned that large swathes of Sarawak and peninsular Malaysia remain at Very Unhealthy pollution levels from ongoing Indonesian fires. IQAir forecasts below-normal rainfall through October, giving little prospect of sustained clearing before then. PM Anwar Ibrahim has called for stronger ASEAN enforcement mechanisms and said Malaysia will not shield any of its companies found to be involved in the Kalimantan and Sumatra fires driving the haze. [Al Jazeera](https://www.aljazeera.com/news/2026/9/5/malaysia-declares-emergency-in-sarawak-as-haze-from-indonesia-worsens)
+
+> [!note]- World: US-Iran Hormuz war — CENTCOM releases tanker-strike footage; Tehran plans restricted navigation zone (Al Jazeera)
+> US Central Command released footage on September 8 showing a strike on an Iranian tanker in the Gulf of Oman as part of its "Economic D-Day" naval blockade, while Tehran announced plans to declare a restricted navigation zone near the Strait of Hormuz — a move that would formally codify what is already a chokepoint under active siege. Commercial shipping traffic through Hormuz has fallen sharply as war-risk insurance premiums surge; the June ceasefire collapsed in July after Iran resumed attacks on commercial vessels to assert sovereignty over the strait. Oil holds near $96/bbl with no diplomatic off-ramp visible. [Al Jazeera](https://www.aljazeera.com/news/liveblog/2026/9/7/iran-war-live-tehran-to-announce-new-hormuz-shipping-route-in-coming-days)
+
+> [!note]- World: US-Canada trade war escalates — Washington to ban Canadian alcohol, dairy, and motorcycles from Sep 29 (CNBC)
+> The Trump administration announced September 9 that outright import bans on select Canadian products — including wines, spirits, dairy, and motorcycles — will take effect September 29, replacing existing 50% tariffs with harder prohibitions in a sharp escalation of the bilateral trade conflict. Canada immediately retaliated with fresh tariffs on CA$27.6 billion worth of US goods spanning steel, dairy, farm equipment, and electronics, while Washington simultaneously restricted $50 billion in federal procurement from Canadian suppliers. Analysts warn the combined measures will push consumer prices higher on both sides of the border and disrupt highly integrated North American supply chains. [CNBC](https://www.cnbc.com/2026/09/09/us-canada-trade-war-import-ban.html)
+
+> [!note]- Tech: SE Asia claims 37 Global Top 500 Fintech spots — Singapore leads the region with 27 entries (CNBC/Statista)
+> Southeast Asia secured 37 places in the CNBC and Statista 2026 Global Top 500 Fintech Companies rankings, with Singapore accounting for 27 of those entries and cementing its position as the region's leading fintech hub across digital payments, wealthtech, and insurtech. The result reflects Singapore's mature MAS-backed regulatory environment and arrives as the city-state's startup ecosystem is valued at US$291.7 billion with 19 unicorns. Analysts say Singapore's AI-integrated fintech platforms are driving the next wave of regional value creation across payments and capital markets. [The SEA Desk](https://www.thesoutheastasiadesk.com/p/asean-news-briefing-merdeka-haze-maritime-defense)
+
+> [!note]- Economy: Markets fall ahead of Fed FOMC — S&P drops to 7,674; Goldman warns oil at $120/bbl if chokepoints close (Goldman Sachs / Capital Economics)
+> US equities retreated on September 9 with the S&P 500 falling 0.58% to 7,674 and the Dow losing 1.18% to 52,786, as traders priced a 56% probability of a 25bp Fed rate hike at the September 15–16 FOMC meeting. Oil remains a key inflation wildcard: Capital Economics set Brent at $100/bbl as its base case through year-end, while Goldman Sachs warned of a potential spike to $120/bbl if simultaneous disruptions at Hormuz and Bab el-Mandeb intensify — directly complicating the Fed's inflation-versus-growth calculus. Thursday's PPI and Friday's CPI data are the final major inputs before the rate decision. [Rio Times](https://www.riotimesonline.com/global-economy-briefing-september-9-2026/)
 
 > [!note]- [[09-08-26 Tue]]
 >
