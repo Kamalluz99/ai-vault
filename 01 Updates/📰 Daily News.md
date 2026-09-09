@@ -81,6 +81,10 @@ unread: true
 > [!note]- Science: Hubble confirms 10-sided atmospheric decagon encircling Saturn's south pole (NASA)
 > NASA and an international team led by Agustín Sánchez-Lavega have confirmed a massive decagonal (10-sided) wave pattern swirling around Saturn's south pole, published September 2 in Science Advances and featured as NASA's Astronomy Picture of the Day on September 8. The structure mirrors Saturn's famous northern hexagon — discovered by Voyager in 1987 — and sits within a powerful jet stream, extending through multiple atmospheric layers rather than being a shallow cloud feature. The finding suggests geometric polar vortices may be a common feature of gas giants, prompting fresh analysis of similar patterns in Jupiter's atmosphere. [NASA](https://science.nasa.gov/missions/hubble/nasas-hubble-tracks-new-decagon-encircling-saturns-south-pole/)
 
+
+> [!note]- NKE: $37.03 (−2.8%) — near 52-wk low $36.85 ahead of S&P 100 exit Sep 21; unrealised loss ~−$1,594 (CNBC)
+> Nike (NKE) trades at $37.03, down 2.8% from Wednesday's $38.10 close, with a day range of $36.85–$37.85 — approaching a new 52-week low. Q4 revenue fell 4% currency-neutral, Greater China −17%, with management guiding low-to-mid single-digit revenue declines over the next three quarters. S&P 100 removal on Sep 21 ends an 18-year index run. Position: 46 shares at $71.69 avg cost; est. unrealised loss ~−$1,594. [CNBC](https://www.cnbc.com/quotes/NKE)
+
 > [!note]- [[09-09-26 Wed]]
 >
 > > [!note]- AI: OpenAI chief scientist urges AI research slowdown — warns of recursive self-improvement risk (SiliconANGLE)
