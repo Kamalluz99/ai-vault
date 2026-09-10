@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-09-10T05:06
+updated: 2026-09-10T19:07
 topic: daily news
 frequency: daily
 ongoing: false
@@ -84,6 +84,26 @@ unread: true
 
 > [!note]- NKE: $37.03 (−2.8%) — near 52-wk low $36.85 ahead of S&P 100 exit Sep 21; unrealised loss ~−$1,594 (CNBC)
 > Nike (NKE) trades at $37.03, down 2.8% from Wednesday's $38.10 close, with a day range of $36.85–$37.85 — approaching a new 52-week low. Q4 revenue fell 4% currency-neutral, Greater China −17%, with management guiding low-to-mid single-digit revenue declines over the next three quarters. S&P 100 removal on Sep 21 ends an 18-year index run. Position: 46 shares at $71.69 avg cost; est. unrealised loss ~−$1,594. [CNBC](https://www.cnbc.com/quotes/NKE)
+
+> **Evening update**
+
+> [!note]- SG & Malaysia: Singapore haze returns to unhealthy range — 24-hr PSI hits 105 at 8am (Malay Mail)
+> Central Singapore's 24-hour Pollutant Standards Index climbed to 105 at 8am on September 10, pushing air quality back into the unhealthy band for the second time in a week as smoke from Sumatran and Kalimantan fires intensified overnight. The NEA has issued daily haze advisories since September 4, when PSI first hit 123 — the highest since 2023 — and forecasts readings to remain in the high-moderate to low-unhealthy range throughout the day. Dry conditions persisting in Kalimantan give little prospect of sustained clearing before October, and both NEA and MOH have urged vulnerable groups to avoid prolonged outdoor activity. [Malay Mail](https://www.malaymail.com/news/singapore/2026/09/10/singapore-haze-pushes-air-quality-into-unhealthy-range-again/234637)
+
+> [!note]- Malaysia: Malaysia ranks 2nd in ASEAN digital index behind Singapore — GSMA releases at KL summit (TNGlobal)
+> Malaysia came second in Southeast Asia — trailing only Singapore — in GSMA's ASEAN Digital Nations Index, unveiled at the M360 ASEAN 2026 conference in Kuala Lumpur on September 9–10. The index assessed digital infrastructure, data governance, cybersecurity, and AI policy, with Malaysia's AI Nation 2030 strategy cited as a key differentiator above peers like Vietnam, Thailand, and the Philippines. Communications Minister Fahmi Fadzil, who addressed the conference, said the ranking validates Malaysia's ambition to become the region's AI and digital-economy hub. [TNGlobal](https://technode.global/2026/09/10/malaysia-ranks-second-to-singapore-in-gsmas-asean-digital-nations-index/)
+
+> [!breaking]- World: Russian drone nearly strikes Zelenskyy's plane at Chișinău — NATO airspace breached (Euronews)
+> Ukrainian President Volodymyr Zelenskyy narrowly avoided a Russian drone strike while waiting to depart Chișinău International Airport for Oslo on September 9, with Norwegian PM Jonas Gahr Støre disclosing the near-miss on September 10: "His flight was almost hit by a drone when it was taking off from Moldova." Moldovan military tracked the UAV from 4:20pm CEST, and Romania's Defence Ministry confirmed it crossed into Romanian — and therefore NATO — airspace before coming down roughly 160 km from the airport. The incident marks the first confirmed drone incursion directly threatening a sitting head of state's aircraft, and is set to intensify allied calls for expanded air-defence coverage around senior officials. [Euronews](https://www.euronews.com/my-europe/2026/09/10/timeline-how-a-russian-drone-nearly-hit-zelenskyys-plane-in-moldova)
+
+> [!note]- World: Trump at RNC Midterm Convention vows Iran war ends "immediately" after November (Anadolu Agency)
+> President Trump headlined the Republican National Committee's Midterm Convention on September 10, pledging the seven-month-old US-Iran war would end "immediately" once Republicans secure congressional majorities in November's midterms — a claim opposition leaders say subordinates national security to electoral strategy. The convention convenes as Brent crude holds above $100/bbl from Hormuz tensions and Wall Street anticipates a Fed hike at the September 15–16 FOMC, with the war's economic fallout dominating domestic campaign messaging from both parties. BRICS leaders also gathered in New Delhi this week, with the Iran conflict and oil-market stability high on their agenda. [Anadolu Agency](https://aa.com.tr/en/world/morning-briefing-sept-10-2026/4052707)
+
+> [!note]- Tech: Apple Reference Image debuts at iPhone 18 event — tool lets users spot AI-edited photos (Apple)
+> Apple introduced Reference Image at its September 9 "Surprise and Shine" event alongside the iPhone 18 Pro and foldable iPhone Ultra, giving users a built-in way to determine whether a photo has been digitally altered by AI or other editing tools. The feature analyses pixel-level authenticity markers and ships with iOS 20 on the iPhone 18 Pro line. Its launch arrives as the EU's AI Act content-provenance obligations gear up for major platforms by year-end and pressure mounts on tech companies to label AI-generated or AI-altered content across social media. [Apple](https://www.apple.com/newsroom/)
+
+> [!note]- Economy: Anthropic model projects AI could push US GDP to $44.4T by 2030 — Stanford AI Index echoes scale (Anthropic / Stanford HAI)
+> Anthropic released an interactive economic model and working paper projecting that under an extreme AI-adoption scenario, US GDP could reach $44.4 trillion by 2030 — well above conventional forecasts — while also driving significantly higher unemployment among knowledge workers, based on a survey of 10,980 US adults. The projection lands alongside Stanford HAI's 2026 AI Index finding that generative AI's estimated annual value to US consumers already reached $172 billion, with median per-user value tripling between 2025 and 2026 and organisational adoption hitting 88%. Both reports underscore a rapid acceleration in AI's economic footprint that is outpacing most regulatory and workforce-adjustment frameworks. [Stanford HAI](https://hai.stanford.edu/ai-index/2026-ai-index-report)
 
 > [!note]- [[09-09-26 Wed]]
 >
