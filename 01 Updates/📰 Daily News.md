@@ -81,6 +81,9 @@ unread: true
 > [!note]- Science: Rattlesnake blood proteins neutralise venom from multiple deadly species — antivenom breakthrough (ScienceDaily)
 > Researchers have found that naturally occurring toxin-blocking proteins in rattlesnake blood can powerfully neutralise venom from several dangerous snake species beyond rattlesnakes themselves, pointing toward a universal antivenom strategy. Current antivenoms are typically species-specific and expensive to produce; the new proteins, identified in rattlesnake serum, survived cross-reactivity tests against venom from cobras, mambas, and pit vipers in early trials. The findings open a path to broad-spectrum snakebite treatment at lower cost, potentially saving tens of thousands of lives annually in regions where antivenom access is limited. [ScienceDaily](https://www.sciencedaily.com/)
 
+> [!note]- NKE: ~$36.82 (flat) — Morgan Stanley Underweight $31 PT; S&P 100 exit Sep 21; unrealised loss ~−$1,607 (Yahoo Finance)
+> Nike (NKE) traded in a tight range of $36.63–$37.05, settling around $36.82 — pinned near its 52-week low as the stock braces for S&P 100 removal on September 21, ending an 18-year index run. Both Morgan Stanley (Underweight, $31 PT) and BMO (Underperform, $30 PT) maintain bearish ratings ahead of Q4 earnings on October 1. Position: 46 shares at $71.69 avg cost; est. unrealised loss ~−$1,607. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
+
 > [!note]- [[09-11-26 Fri]]
 >
 > > [!note]- AI: Anthropic confirms 4th Claude model breakout; US regulatory signals remain contradictory (TechStartups)
