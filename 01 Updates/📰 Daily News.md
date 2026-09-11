@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-09-11T05:08
+updated: 2026-09-11T19:07
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,26 @@ unread: true
 
 > [!note]- NKE: $36.59 (−2.0%) — near 52-wk low ahead of S&P 100 removal Sep 21; unrealised loss ~−$1,615 (Yahoo Finance)
 > Nike (NKE) closed Thursday at $36.59, down from the $37.35 prior close, near its 52-week low of $36.85. The stock will be removed from the S&P 100 on September 21, ending an 18-year index run; Morgan Stanley carries Underweight and BMO a Sell rating. Position: 46 shares at $71.69 avg cost; est. unrealised loss ~−$1,615. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
+
+> **Evening update**
+
+> [!note]- Singapore & Malaysia: PUB issues flash flood warnings as heavy thundery showers sweep Singapore (AsiaOne)
+> Heavy thundery showers swept northern, eastern, and central Singapore on Friday afternoon, with PUB issuing flash flood warnings and urging the public to avoid low-lying areas. The National Environment Agency extended severe weather alerts through 3.45pm SGT, with downpours affecting outdoor events including the BFA Beach Festival at Sentosa. Singapore's wet September weather continues amid elevated haze risks from ongoing Indonesian fires. [AsiaOne](https://www.asiaone.com/singapore/heavy-thundery-showers-11-september)
+
+> [!note]- Malaysia: King Sultan Ibrahim defers Najib Razak's clemency bid; UMNO still hopeful (Malay Mail)
+> Malaysia's King Sultan Ibrahim postponed a decision on former PM Najib Razak's second royal pardon application on Friday, deferring it to the next pardons board meeting with no fixed date. The King pardoned 65 other inmates in the same session. UMNO president Ahmad Zahid expressed disappointment but maintained hope for a favourable outcome; Najib has been imprisoned since 2022 and received an additional 15-year sentence in December 2025 for related 1MDB money-laundering charges. [Malay Mail](https://www.malaymail.com/news/malaysia/2026/09/11/zahid-says-umno-still-hopes-for-favourable-outcome-after-najib-clemency-deferred/234812)
+
+> [!note]- World: Algeria severs all diplomatic ties with UAE, citing exhausted bilateral channels (Anadolu Agency)
+> Algeria announced on September 11 that it was cutting all diplomatic relations with the United Arab Emirates, stating it had exhausted every means of preserving bilateral ties. The decision marks a sharp deterioration in relations between the two countries and is expected to send ripples across North African and Gulf diplomatic circles. Neither government has publicly detailed the precise trigger for the rupture. [Anadolu Agency](https://aa.com.tr/en/world/morning-briefing-sept-11-2026/4053862)
+
+> [!breaking]- World: Trump says Iran war ends "before midterms" as US expands strikes on 9/11 anniversary (Euronews)
+> President Trump said on September 11 — the 25th anniversary of the 9/11 attacks — that he expects the US-Iran war to conclude before November's midterm elections, tying conflict resolution to a Republican congressional majority. US CENTCOM expanded strikes on IRGC targets through the day, while Yemen's Houthi-aligned army separately declared a military zone around the Taiz-Mocha road, broadening the regional conflict's footprint. Sombre Ground Zero ceremonies contrasted sharply with the continued military escalation across the Middle East. [Euronews](https://www.euronews.com/video/2026/09/11/latest-news-bulletin-september-11th-2026-midday)
+
+> [!note]- Tech: OpenAI opens Agents API to public beta — Codex harness now available to all developers (OpenAI)
+> OpenAI launched the Agents API in public beta on September 10, giving developers access to the same orchestration infrastructure that powers its Codex agent — handling context, tool use, and long-running sandboxed environments — at no extra fee beyond standard API usage. Deployment options span OpenAI's managed sandboxes and partner infrastructure from Cloudflare, DigitalOcean, and Oracle. The launch directly competes with similar agent-infrastructure offerings from Anthropic and others. [OpenAI](https://openai.com/index/introducing-the-agents-api/)
+
+> [!breaking]- Economy: Asian markets tumble 1.7% post-CPI — Brent at $107.86, US 10-yr yield nears 5% (Tickmill)
+> MSCI's Asia Pacific Index fell 1.7% — its steepest single-day drop in three weeks — as surging crude and spiking bond yields rattled global risk assets on Friday. Brent crude edged to $107.86/bbl, flirting with the $110 level, while an under-subscribed US Treasury buyback pushed the 10-year yield toward 4.96%, tightening financial conditions ahead of the September 15–16 FOMC. The selloff follows this morning's August CPI release and deepening market conviction of a 25bp hike; Oracle bucked the trend, rising after-hours on strong cloud revenue. [Tickmill](https://www.tickmill.com/blog/daily-market-outlook-september-11-2026)
 
 > [!note]- [[09-10-26 Thu]]
 >
