@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-09-12T05:06
+updated: 2026-09-12T19:05
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,26 @@ unread: true
 
 > [!note]- NKE: ~$36.82 (flat) — Morgan Stanley Underweight $31 PT; S&P 100 exit Sep 21; unrealised loss ~−$1,607 (Yahoo Finance)
 > Nike (NKE) traded in a tight range of $36.63–$37.05, settling around $36.82 — pinned near its 52-week low as the stock braces for S&P 100 removal on September 21, ending an 18-year index run. Both Morgan Stanley (Underweight, $31 PT) and BMO (Underperform, $30 PT) maintain bearish ratings ahead of Q4 earnings on October 1. Position: 46 shares at $71.69 avg cost; est. unrealised loss ~−$1,607. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
+
+> **Evening update**
+
+> [!note]- Singapore & Malaysia: Singapore haze worsens — central PSI hits 106 as Indonesian fires spread in Kalimantan (The Independent SG)
+> Air quality in Singapore's central region returned to the unhealthy range on Saturday, with the 24-hour PSI reaching 106 as moderate to dense smoke from fires in Kalimantan and southern Sumatra drifted toward the city-state. The West Kalimantan government has extended its haze emergency status until September 20, and dry conditions in Kalimantan mean fire risk remains high through next week. Singapore's NEA urged residents to reduce outdoor activities, particularly strenuous exercise, and to wear N95 masks if going out. [The Independent SG](https://theindependent.sg/air-quality-in-singapore-reaches-unhealthy-range-in-central-region-due-to-transboundary-haze-from-indonesia-fires/)
+
+> [!note]- Malaysia: Sarawak haze emergency — Serian API 258 (very unhealthy), 8 districts affected; school reopening under review (Borneo Post)
+> Serian recorded a very unhealthy Air Pollutant Index (API) reading of 258 on Saturday morning as transboundary haze from Indonesian forest fires blanketed parts of Sarawak, with eight other areas registering unhealthy readings. A fire at a Kuching retail outlet burned for 11 hours before being contained. The Sarawak Education Department was set to announce at 8 pm whether affected schools would reopen, as state authorities extended emergency haze response protocols and local authorities urged residents to stay indoors. [Borneo Post](https://www.theborneopost.com/)
+
+> [!note]- World: Hong Kong activists sentenced 5–7 years as Beijing clampdown on dissent deepens (Euronews)
+> A Hong Kong court sentenced activists to between 5 and 7 years in prison on September 11, in a case widely seen as a barometer of the city's eroding freedoms under Beijing's national security framework. The sentencing follows a string of high-profile prosecutions since the 2020 National Security Law, which critics say has effectively ended the "one country, two systems" arrangement promised at the 1997 handover. International human rights groups condemned the ruling and renewed calls for targeted sanctions on the officials overseeing the prosecutions. [Euronews](https://www.euronews.com/video/2026/09/12/latest-news-bulletin-september-12th-2026-midday)
+
+> [!note]- World: Canada retaliates with $20B tariffs on US goods as Trump trade war deepens (NPR)
+> Canada struck back at President Trump's tariffs by announcing levies on approximately $20 billion worth of American goods — targeting US steel, aluminium, and consumer products — and vowing to keep them in place until Washington removes its own. The escalation adds fresh uncertainty to trilateral USMCA trade and risks rekindling inflation pressures in both economies, arriving days before the Federal Reserve's September 15–16 FOMC meeting. The move mirrors similar retaliation from the EU and signals a hardening allied consensus that Trump tariffs will not go unanswered. [NPR](https://www.npr.org/sections/world/)
+
+> [!note]- Tech: Sony Music and Warner Chappell sue Anthropic and its founders over AI training data — up to $150k per song (AI Tools Recap)
+> Sony Music Publishing and Warner Chappell Music filed a 48-page copyright complaint naming Anthropic and its founders personally, seeking up to $150,000 in statutory damages per song allegedly ingested to train Claude without authorisation. The suit is one of the most targeted yet in the music industry's push against AI labs, going beyond the company to hold individual executives liable. A ruling against Anthropic could set sweeping precedent for how generative AI companies must handle copyrighted material in pre-training datasets across the entire sector. [AI Tools Recap](https://aitoolsrecap.com/Blog/AINewsSeptember2026.aspx)
+
+> [!note]- Science/Economy: Copernicus confirms August 2026 was Earth's hottest month on record; scientists warn of accelerating warming (Science News)
+> The European climate service Copernicus confirmed on September 10 that August 2026 smashed global temperature records, continuing an unbroken streak of anomalous heat events driven primarily by human-caused greenhouse gas emissions. Scientists noted the surge is compounded by a developing El Niño pattern, raising concern that 2026 will set a new annual temperature record. The finding arrives ahead of upcoming COP climate talks and aligns with a UN forecast that global growth will moderate in 2026 as trade weakens and climate disruptions accumulate. [Science News](https://www.sciencenews.org/sn-magazine/september-2026)
 
 > [!note]- [[09-11-26 Fri]]
 >
