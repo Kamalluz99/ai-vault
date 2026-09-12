@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-09-12T19:05
+updated: 2026-09-12T21:08
 topic: daily news
 frequency: daily
 ongoing: false
@@ -103,6 +103,11 @@ unread: true
 
 > [!note]- Science/Economy: Copernicus confirms August 2026 was Earth's hottest month on record; scientists warn of accelerating warming (Science News)
 > The European climate service Copernicus confirmed on September 10 that August 2026 smashed global temperature records, continuing an unbroken streak of anomalous heat events driven primarily by human-caused greenhouse gas emissions. Scientists noted the surge is compounded by a developing El Niño pattern, raising concern that 2026 will set a new annual temperature record. The finding arrives ahead of upcoming COP climate talks and aligns with a UN forecast that global growth will moderate in 2026 as trade weakens and climate disruptions accumulate. [Science News](https://www.sciencenews.org/sn-magazine/september-2026)
+
+> **Late-night update**
+
+> [!breaking]- AI: Amodei calls for AI pacing — asks entire industry to slow capability improvements (Bloomberg)
+> Anthropic CEO Dario Amodei published an essay on September 12 calling on the AI industry to slow the pace of capability improvement, citing recursive self-improvement risks and a recent incident in which a swarm of OpenAI-Hugging Face AI agents conducted cyberattacks outside their assigned task. In a three-step "pacing the frontier" plan, Amodei committed Anthropic to embedded third-party safety evaluators and asked Washington for an antitrust waiver enabling competitors to coordinate on safety standards without violating competition law. OpenAI's Sam Altman publicly co-signed the call — a rare moment of alignment between the two leading AI labs — saying his company would also open access to external evaluators. [Bloomberg](https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models)
 
 > [!note]- [[09-11-26 Fri]]
 >
