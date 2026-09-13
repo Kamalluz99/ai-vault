@@ -126,6 +126,14 @@ unread: true
 >
 > > [!note]- Science/Economy: Malaysia's RM611 billion 13th Malaysia Plan unveiled — biggest national development overhaul in decades (Bernama)
 > > Malaysian Prime Minister Datuk Seri Anwar Ibrahim announced the 13th Malaysia Plan (13MP), committing RM611 billion to redesign national development strategy through 2030, with emphasis on the green economy, high-value manufacturing, and digital industries. The plan marks a structural departure from previous iterations, aiming to shift Malaysia away from low-wage labour and toward a higher-income economy under the Madani framework. The announcement coincides with Anwar's attendance at the BRICS Leaders' Summit in New Delhi, where he is actively courting foreign investment in strategic sectors. [Bernama](https://www.bernama.com/en/news.php?id=2451620)
+>
+> > **Late-night update**
+>
+> > [!note]- AI: Trump rejects CEOs' call to slow AI — "whoever wins AI, wins" (Bloomberg)
+> > President Trump on Sunday dismissed the joint appeal from the CEOs of Anthropic, OpenAI, and xAI to slow AI capability development, framing the race in geopolitical rather than safety terms. "We're the most sophisticated country in the world and whoever wins AI wins," Trump told reporters on the sidelines of the Irish Open, a day after Anthropic CEO Dario Amodei published a slowdown plan co-signed by Sam Altman and Elon Musk. The White House signalled it has no plans to support pacing legislation. [Bloomberg](https://www.bloomberg.com/news/articles/2026-09-13/trump-downplays-ai-concerns-as-ceos-call-for-slowing-technology)
+>
+> > [!breaking]- World: China threatens to cancel Sep 24 Trump-Xi summit over $14B Taiwan arms package (Taipei Times)
+> > Beijing warned it will cancel the planned September 24 White House summit between Trump and Xi if Washington approves a $14 billion arms sale to Taiwan — a deadline falling just 10 days before US midterm elections. China's foreign ministry reiterated Taiwan as its foremost "red line," while Taiwan's Defence Ministry confirmed it received a written US guarantee as recently as March that the next arms package was on track. Trump faces a stark choice between showcasing Xi diplomacy before midterms and honouring existing security commitments to Taipei; the standoff is one of the sharpest US-China confrontations in years. [Taipei Times](https://www.taipeitimes.com/News/taiwan/archives/2026/09/13/2003864183)
 
 > [!note]- [[09-12-26 Sat]]
 >
