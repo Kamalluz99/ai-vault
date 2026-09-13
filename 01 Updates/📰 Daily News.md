@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-09-13T05:00
+updated: 2026-09-13T19:02
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,26 @@ unread: true
 
 > [!note]- NKE: ~$36.85 (+0.7% Fri) — S&P 100 exit Sep 21 in 8 days; Morgan Stanley $31 PT; unrealised loss ~−$1,603 (Yahoo Finance)
 > Nike (NKE) closed Friday at approximately $36.85, a modest recovery from Thursday's $36.59 close, though still pinned near its 52-week low ahead of S&P 100 removal on September 21 — ending an 18-year index run. Morgan Stanley (Underweight, $31 PT) and BMO (Underperform, $30 PT) remain bearish; Q1 FY2026 earnings are expected on September 30 with consensus at $0.27/share. Position: 46 shares at $71.69 avg cost; est. unrealised loss ~−$1,603. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
+
+> **Evening update**
+
+> [!note]- SG & Malaysia: Johor-Singapore RTS Link completes first dynamic train run ahead of Dec 2026 launch (Malay Mail)
+> The Johor–Singapore Rapid Transit System Link hit a key milestone as its inaugural train completed a dynamic run along the full cross-border route, keeping the project on track for passenger service between December 2026 and January 2027. Eight CRRC Zhuzhou-built trains are being commissioned in sequence, with systems testing covering signalling integration, platform screen doors, and onboard communications. The five-minute Woodlands North–Bukit Chagar ride is expected to offer fares in the S$5–S$7 range with peak-frequency service every 3.6 minutes at launch. [Malay Mail](https://malaymail.com/news/singapore/2025/12/29/a-first-ride-at-last-johorsingapore-rts-link-hits-key-milestone-with-inaugural-train-test-from-depot-to-border/203606)
+
+> [!note]- Malaysia: PM Anwar meets Indian firms at BRICS Summit; Segula Technologies to open Malaysian engineering hub (Malay Mail)
+> Malaysian PM Datuk Seri Anwar Ibrahim, attending the 18th BRICS Leaders' Summit in New Delhi, held meetings with Segula Technologies India, AWL Agri Business, and Motherson Group to advance investment and industrial cooperation in strategic sectors. Segula Technologies India expressed intent to establish a global engineering centre in Malaysia by end-2026, targeting local AI and engineering talent across automotive, aerospace, and advanced manufacturing. PM Anwar said the engagements reflect continued investor confidence in Malaysia's economic direction and policies. [Malay Mail](https://www.malaymail.com/news/malaysia/2026/09/13/anwar-says-malaysia-set-to-gain-from-new-investment-industrial-cooperation-with-india/234996)
+
+> [!note]- World: Philippine ferry MV June Aster death toll climbs to 76 off Palawan — 13 still unaccounted for (US News)
+> Philippine rescue teams recovered 41 more charred remains from the MV June Aster, raising the confirmed death toll to 76 with 13 people still unaccounted for following a fire that erupted on September 11 off Palawan's Coron coast. Survivors described hearing a loud explosion before smoke and flames swept through the vessel, which was carrying more than 130 passengers at the time. Forensic teams are processing recovered remains at temporary tents in Coron town while investigators work to determine the cause of the fire. [US News](https://www.usnews.com/news/world/articles/2026-09-12/philippines-begins-identifying-victims-from-ferry-fire-as-dozens-still-missing)
+
+> [!note]- World: Trump says US-Iran war could end "very soon" as Houthis hit Saudi military base with ballistic missiles (Anadolu Agency)
+> President Donald Trump stated the US war on Iran could conclude "very soon," accusing Tehran of prolonging the conflict to influence the November 3 US midterm elections and bolster domestic hardliners. Simultaneously, Yemen's Houthi forces — backed by Iran — claimed a ballistic missile and drone attack on a Saudi military base, intensifying fears of proxy war escalation in the Arabian Peninsula. Ships transiting the Strait of Hormuz remain on heightened alert, though diplomatic back-channels between Washington and Tehran are reportedly still open. [Anadolu Agency](https://aa.com.tr/en/world/morning-briefing-sept-13-2026/4055569)
+
+> [!note]- Tech: OpenAI Agents API enters public beta — Codex harness accessible via single API call, no extra fees (MarkTechPost)
+> OpenAI launched its Agents API in public beta on September 10, giving all developers access to the managed infrastructure behind Codex — including session handling, context compaction, multi-step recovery, and subagent delegation — through a single API endpoint. Agents can run on OpenAI-hosted sandboxes or third-party environments from nine partners including Cloudflare, DigitalOcean, E2B, Vercel, and Oracle; pricing is token-and-tool-based with no additional API charges. The release is OpenAI's most direct push to commoditise agentic infrastructure, arriving amid rivalry with Anthropic's own agent tooling and the newly announced Nvidia–Hugging Face acquisition. [MarkTechPost](https://www.marktechpost.com/2026/09/10/openai-launches-the-agents-api-in-public-beta-putting-the-codex-harness-behind-one-api-call/)
+
+> [!note]- Science/Economy: Malaysia's RM611 billion 13th Malaysia Plan unveiled — biggest national development overhaul in decades (Bernama)
+> Malaysian Prime Minister Datuk Seri Anwar Ibrahim announced the 13th Malaysia Plan (13MP), committing RM611 billion to redesign national development strategy through 2030, with emphasis on the green economy, high-value manufacturing, and digital industries. The plan marks a structural departure from previous iterations, aiming to shift Malaysia away from low-wage labour and toward a higher-income economy under the Madani framework. The announcement coincides with Anwar's attendance at the BRICS Leaders' Summit in New Delhi, where he is actively courting foreign investment in strategic sectors. [Bernama](https://www.bernama.com/en/news.php?id=2451620)
 
 
 > [!note]- [[09-12-26 Sat]]
