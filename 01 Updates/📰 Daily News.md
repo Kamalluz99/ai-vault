@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-09-14T05:00
+updated: 2026-09-14T19:06
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,26 @@ unread: true
 
 > [!note]- NKE: ~$36.85 (Fri close) — S&P 100 removal in 7 days (Sep 21); Q1 FY26 earnings Sep 30; unrealised loss ~−$1,603 (Yahoo Finance)
 > Nike enters Monday flat from Friday's ~$36.85 close with S&P 100 removal 7 days out (effective September 21), a structural selling event as passive index funds rebalance out. Q1 FY2026 earnings are due September 30 with consensus at $0.27/share EPS; Morgan Stanley (Underweight, $31 PT) and BMO (Underperform, $30 PT) remain bearish. Position: 46 shares at $71.69 avg cost; est. unrealised loss ~−$1,603. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
+
+> **Evening update**
+
+> [!note]- SG & Malaysia: Singapore unveils $55k child support package as fertility hits record low 0.87 (Fortune)
+> Singapore's PM Lawrence Wong announced a revamped Child Support Package offering over $55,000 per child — an $11,000 baby gift, $35,200 in credits to age 16, and up to $11,000 in account grants — effective April 2027. Births fell below 30,000 for the first time ever last year, with the fertility rate crashing to a historic low of 0.87 per woman. Wong explicitly acknowledged that cash incentives alone cannot reverse the trend, pledging broader quality-of-life reforms to make family life more affordable. [Fortune](https://fortune.com/2026/08/29/singapore-overhauls-baby-bonus-will-it-work-boost-fertility/)
+
+> [!note]- Malaysia: PM Anwar begins 2-day official visit to Maldives for bilateral talks (Malay Mail)
+> Prime Minister Datuk Seri Anwar Ibrahim departed for the Maldives on September 14 for an official two-day visit, with talks expected to centre on bilateral trade, Islamic cooperation, and regional resilience. The visit comes fresh off Anwar's engagement with BRICS leaders in New Delhi, where he secured investment pledges from Indian conglomerates. The Maldives leg is part of Anwar's sustained diplomatic outreach across the broader Indian Ocean region under Malaysia's Madani foreign policy. [Malay Mail](https://www.malaymail.com/)
+
+> [!breaking]- World: Saudi Arabia shuts major oil pipeline after Houthi attack; Brent crude tops $107/bbl (Reuters)
+> Saudi Arabia shut down a key oil export pipeline as a precautionary measure after it came under attack, sending Brent crude above $107 a barrel — its highest since 2022 — and amplifying fears of a broader Gulf supply disruption. Houthi forces simultaneously struck a Saudi military base with ballistic missiles, the latest escalation in a proxy conflict tied to Iran's standoff with the United States. The twin events hit markets days before the Fed's rate decision, compounding inflation pressures already driving a ~90% probability of a 25bp hike on September 16. [Reuters](https://www.reuters.com/)
+
+> [!note]- World: France and Canada join UK banning Israeli West Bank settlement goods; Israel shuts British Consulate (CSMonitor)
+> France and Canada announced bans on imports from Israeli settlements in the occupied West Bank, aligning with a move the United Kingdom had already taken, citing obligations under international humanitarian law. Israel's government retaliated by declaring it would close the British Consulate in Jerusalem, marking the sharpest diplomatic rift between Israel and its Western allies in years. The coordinated action falls short of broad sanctions but signals growing Western impatience with continued Israeli settlement expansion. [CSMonitor](https://www.csmonitor.com/World/2026/0914/our-world-september14)
+
+> [!note]- Tech: AI leaders push for development slowdown, clash with Trump and Wall Street; standards body in talks (Bloomberg)
+> Anthropic and OpenAI executives publicly called for tapping the brakes on AI development in the name of safety, triggering pushback from financial markets and a Trump administration both invested in maintaining US AI dominance at all costs. The two companies are simultaneously in talks with Google to create an industry-led AI standards body, a move critics say substitutes self-regulation for the harder government oversight some researchers demand. The tension comes as Anthropic's Fable 5.1 topped coding benchmarks this week at 38.8% SWE-bench resolution, illustrating how competitive pressure continues to accelerate capability growth even as safety concerns mount. [Bloomberg](https://www.bloomberg.com/news/articles/2026-09-14/ai-bosses-risk-clash-with-wall-street-and-trump-over-safety-call)
+
+> [!note]- Science: Copernicus confirms August 2026 as Earth's hottest month on record, extending year-long streak (Guardian)
+> The European climate service Copernicus confirmed that August 2026 was the hottest August in recorded history, extending a relentless streak of broken monthly global temperature records stretching back over a year. Surface temperatures exceeded the 1991–2020 baseline by the widest margin observed for the month, driven by persistent anomalous ocean heat in the Atlantic and elevated atmospheric greenhouse gas concentrations. Scientists say the streak makes it near-certain that 2026 as a whole will be the warmest year ever recorded, further straining the credibility of 1.5°C Paris Agreement targets. [Guardian](https://www.theguardian.com/)
 
 > [!note]- [[09-13-26 Sun]]
 >
