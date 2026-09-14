@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-09-15T05:00
+updated: 2026-09-15T05:08
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,9 @@ unread: true
 
 > [!note]- NKE: ~$36.85 (flat) — S&P 100 removal in 6 days (Sep 21); Q1 FY26 earnings Sep 30; unrealised loss ~−$1,603 (Yahoo Finance)
 > Nike trades near $36.85 Tuesday, broadly flat, with S&P 100 removal six days away on September 21 — a structural overhang as passive index funds rebalance out. Q1 FY2026 earnings are due September 30 with consensus at $0.27/share EPS; Morgan Stanley (Underweight, $31 PT) and BMO (Underperform, $30 PT) remain bearish. Position: 46 shares at $71.69 avg cost; est. unrealised loss ~−$1,603. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
+
+> [!breaking]- Science: DRC Ebola tops 7,200 cases, 3,475 dead — Congo's worst epidemic; spread may have peaked (Africanews)
+> Congo's ongoing Ebola outbreak surpassed 7,200 confirmed cases and 3,475 deaths across 62 health zones in seven provinces, making it the worst Ebola epidemic in DRC history and the world's second-largest ever. The outbreak is caused by the Bundibugyo ebolavirus strain — for which Zaire-type vaccines offer limited protection — complicating containment in conflict-affected eastern and northern regions. Officials say transmission indicators suggest the outbreak peaked in late August, though spread into South Ubangi province bordering the Central African Republic raises cross-border contagion concerns. [Africanews](https://www.africanews.com/2026/09/14/drc-ebola-outbreak-passes-7000-cases-but-officials-say-spread-may-have-peaked/)
 
 > [!note]- [[09-14-26 Mon]]
 >
