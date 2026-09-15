@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-09-15T05:08
+updated: 2026-09-15T19:05
 topic: daily news
 frequency: daily
 ongoing: false
@@ -86,6 +86,26 @@ unread: true
 
 > [!breaking]- Science: DRC Ebola tops 7,200 cases, 3,475 dead — Congo's worst epidemic; spread may have peaked (Africanews)
 > Congo's ongoing Ebola outbreak surpassed 7,200 confirmed cases and 3,475 deaths across 62 health zones in seven provinces, making it the worst Ebola epidemic in DRC history and the world's second-largest ever. The outbreak is caused by the Bundibugyo ebolavirus strain — for which Zaire-type vaccines offer limited protection — complicating containment in conflict-affected eastern and northern regions. Officials say transmission indicators suggest the outbreak peaked in late August, though spread into South Ubangi province bordering the Central African Republic raises cross-border contagion concerns. [Africanews](https://www.africanews.com/2026/09/14/drc-ebola-outbreak-passes-7000-cases-but-officials-say-spread-may-have-peaked/)
+
+> **Evening update**
+
+> [!breaking]- SG & Malaysia: Singapore hits first islandwide unhealthy PSI since 2019 — central at 154 (Malay Mail)
+> Singapore's air quality crossed the unhealthy threshold across all regions on September 15 for the first time since 2019, with the 24-hour PSI reaching 154 in the central region — the worst reading since the 2019 haze season. Indonesia's forest and peatland fires in Kalimantan and southern Sumatra are driving thick transboundary smoke across the Strait of Malacca; Kuala Lumpur also ranked among the world's most polluted cities on the same day. The National Environment Agency advised residents to reduce outdoor activity and wear masks, with no meaningful improvement expected until regional winds shift or rainfall suppresses the fires — potentially stretching into October. [Malay Mail](https://www.malaymail.com/news/singapore/2026/09/15/singapore-records-first-islandwide-unhealthy-psi-since-2019-as-haze-worsens/235275)
+
+> [!note]- Malaysia: PM Anwar welcomed in Maldives; both nations reaffirm solidarity on Palestine (The Sun)
+> Prime Minister Datuk Seri Anwar Ibrahim received a ceremonial welcome in Malé on September 15, opening a two-day state visit centred on bilateral trade, Islamic cooperation, and Indian Ocean regional resilience. In joint statements, Malaysia and the Maldives reaffirmed steadfast support for Palestinian statehood and called for an immediate ceasefire in Gaza, with Anwar describing the issue as close to both nations' hearts. The Maldives leg is part of Anwar's sustained diplomatic outreach following his BRICS Summit engagement in New Delhi earlier this month. [The Sun](https://thesun.my/news/malaysia-news/people-issues/pm-anwar-accorded-official-welcome-in-maldives/)
+
+> [!note]- World: Houthis squeeze Bab-el-Mandeb chokepoint, threatening second global shipping lane (Reuters)
+> Iran-backed Houthi forces escalated their maritime campaign by striking near the Bab-el-Mandeb strait — a second critical shipping chokepoint after the Red Sea entry — raising fears of a near-complete disruption to the Asia–Europe trade corridor. The attacks compound the Saudi pipeline shutdown from earlier in the week that pushed Brent crude above $107/bbl, and maritime insurance premiums for Gulf transit are surging. Shipping operators are reviewing extended Cape of Good Hope diversions as geopolitical pressure on Gulf energy logistics intensifies. [Reuters](https://www.reuters.com/)
+
+> [!note]- World: NATO pledges increased Ukraine support ahead of Western summit; drone strike rattles Poland border (Euronews)
+> NATO's secretary-general pledged fresh military and financial support for Ukraine on September 15, ahead of a planned Western leaders' summit, as Ukrainian forces reported intensified Russian shelling along the northeastern front. The pledge follows a Russian drone strike near the Ukraine-Poland border over the weekend that rattled NATO's eastern flank and prompted emergency consultations among alliance members. Western allies are under mounting pressure to sustain Ukrainian battlefield capacity as the conflict approaches its fourth winter with no diplomatic resolution in sight. [Euronews](https://www.euronews.com/video/2026/09/15/latest-news-bulletin-september-15th-2026-morning)
+
+> [!note]- Tech: Anthropic posts second straight profitable quarter — $559M operating income on $11.5B Q2 revenue (Bloomberg)
+> Anthropic told investors it will post roughly $559 million in adjusted operating income for Q2 on $11.5 billion in revenue, marking a second consecutive profitable quarter for the AI safety lab. The figures reflect explosive monetisation of Claude through enterprise API demand and the rapid growth of AI coding tools, cementing Anthropic as one of the fastest-scaling companies in tech history. Separately, Meta reassigned approximately 7,000 employees into its AI division after cutting around 8,000 workers in May, signalling industry-wide consolidation of headcount around AI product teams. [Bloomberg](https://www.bloomberg.com/)
+
+> [!note]- Macro: Semiconductor index tumbles 5.9% on AI slowdown fears; US consumer sentiment slips to 47.8 (Bloomberg)
+> The Philadelphia Semiconductor Index fell 5.9% on Tuesday — its sharpest single-day drop in months — as the AI safety debate sparked by Anthropic's weekend essay rattled investors, with Nvidia down 3.4% and Intel off 5.6%. The University of Michigan's September consumer sentiment index fell to 47.8 from 51.7 in August, its second straight monthly decline, as renewed fuel-price pressures and trade-policy uncertainty weighed on households. Together, the sector rotation out of semis and deteriorating consumer confidence add complexity to the Fed's rate-setting calculus ahead of Wednesday's decision. [Bloomberg](https://www.bloomberg.com/news/articles/2026-09-14/asian-stocks-to-fall-on-ai-key-us-yield-tops-5-markets-wrap)
 
 > [!note]- [[09-14-26 Mon]]
 >
