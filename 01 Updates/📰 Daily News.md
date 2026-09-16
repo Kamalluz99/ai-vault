@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-09-16T05:00
+updated: 2026-09-16T19:04
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,26 @@ unread: true
 
 > [!note]- NKE: $36.22 (~−1.7% from ~$36.85 Tue) — down 79% from ATH; S&P 100 removal Sep 21; earnings Oct 1 (Yahoo Finance)
 > Nike trades at $36.22, down approximately 1.7% from Tuesday's ~$36.85, and 79% below the all-time high as its China strategy continues to underperform. Telsey cut the price target to $44 (Market Perform) and Baird downgraded to Neutral at $44 (from $70). S&P 100 removal is five days away (September 21), a structural headwind as passive index funds rebalance out. Position: 46 shares at $71.69 avg cost; est. unrealised loss ~−$1,632. [Source](https://finance.yahoo.com/quote/NKE/)
+
+> **Evening update**
+
+> [!note]- SG & Malaysia: SEA-6 to grow 4.8% yearly; Singapore leads ASEAN FDI (The Star)
+> A new decade-long regional outlook projects Southeast Asia's six largest economies will average 4.8% annual growth from 2026 to 2035, with Malaysia specifically forecast at 4.3%, driven by semiconductors, data centres, and AI-linked investment. Singapore is identified as the region's most resilient hub, attracting more than 60% of Southeast Asian FDI and serving as the primary investment source into Indonesia, Malaysia, Thailand, and Vietnam. The report frames both nations as complementary pillars of regional economic stability as Southeast Asia navigates escalating US-China trade fragmentation. [The Star](https://www.thestar.com.my/business/business-news/2026/09/16/malaysia-projected-to-grow-43-annually-from-2026-2035-039sea-6039-economies-set-for-steady-growth)
+
+> [!note]- Malaysia: Malaysia Day 2026 in Kuching under Segulai Sejalai theme (Bernama)
+> Malaysia marks its 63rd Malaysia Day at the Borneo Convention Centre Kuching in Sarawak, with national celebrations themed "Malaysia MADANI: Kesejahteraan Dinikmati" paired with Sarawak's unity slogan Segulai Sejalai (togetherness). The Kuching venue places this year's event in East Malaysia, symbolically reinforcing the federation's origins on September 16, 1963, when Sabah, Sarawak, and Singapore joined Malaya. Leaders called for renewed commitment to unity, inclusivity, and shared prosperity across the nation's diverse regions. [Bernama](https://www.bernama.com/en/general/news.php?id=2605924)
+
+> [!note]- World: Indonesia ferry capsizes in Java Sea — 6 dead, 129 missing (Euronews)
+> Indonesian authorities intensified search-and-rescue operations after a passenger ferry overturned in bad weather in the Java Sea, killing at least six people and leaving 129 still missing. Coast guard and navy vessels combed the area as officials worked to account for all those aboard. Ferry disasters remain a recurring safety crisis in Indonesia's maritime archipelago, where ageing vessels and rapid weather changes frequently combine with fatal results. [Euronews](https://www.euronews.com/news/international)
+
+> [!note]- World: China FM slams AI slowdown call; Trump-Xi summit on horizon (Euronews)
+> China's Foreign Ministry rejected Anthropic CEO Dario Amodei's weekend call to slow AI development, labelling it "fearmongering" as Chinese and US leaders prepare to meet in Washington around September 24. The rebuke sharpens a public rift between Beijing and Washington over AI development philosophy, with China signalling it will not participate in any pacing arrangement that disadvantages its own industry. The exchange raises stakes for the Trump-Xi summit, where AI governance and export controls are expected to be central contested issues. [Euronews](https://www.euronews.com/news/international)
+
+> [!note]- Tech: OpenAI won't IPO in 2026; AI agents drive 395-org cyberattack (AI Weekly)
+> OpenAI CEO Sam Altman told Fortune that taking the company public in 2026 would be "ill-advised" given ongoing safety concerns, deferring an IPO despite the company's valuation exceeding $300 billion. Separately, a threat actor exploited two PaperCut NG/MF vulnerabilities and used AI agents to automate intrusions across 395 organisations — one of the first documented cases of AI-orchestrated mass exploitation at scale. The two developments illustrate AI's simultaneous role as a commercial force being withheld from public markets and a weapon deployed against organisations worldwide. [AI Weekly](https://aiweekly.co/ai-news-today/edition/2026-09-15)
+
+> [!note]- Economy: US 10-yr yield at 5.00% — 2007 high; Brent $108.75 (Rio Times)
+> The US 10-year Treasury yield closed at 5.00% — its highest closing level since 2007 — as markets priced a strong probability of the Fed's first rate hike since 2023, sending the S&P 500 down 0.45% to 7,586 and the Dow 0.63% lower to 52,093. Brent crude settled at $108.75/bbl, up 2.9%, in a near-20% September surge driven by ongoing Middle East shipping risk around the Strait of Hormuz. Analysts warn that sustained high yields combined with elevated energy prices risk worsening the global economic trajectory well below the IMF's already-slashed 0.7% growth forecast for 2026. [Rio Times](https://www.riotimesonline.com/global-economy-briefing-september-16-2026/)
 
 > [!note]- [[09-15-26 Tue]]
 >
