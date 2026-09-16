@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-09-16T19:04
+updated: 2026-09-17T05:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -61,48 +61,71 @@ unread: true
 
 ## 2026-09
 
-### [[09-16-26 Wed]]
+### [[09-17-26 Thu]]
 
-> [!note]- AI: Shanghai AI Lab releases Atria Dawn Preview — 744B-param agentic MoE (AI Weekly)
-> Shanghai AI Laboratory released Atria Dawn Preview, a 744B-parameter agentic mixture-of-experts model built on GLM-5.2, trained via a Verifiable Experience Pipeline that grounds tool use in executable environments. The launch comes as Microsoft sets new AI model constraints and the US–China AI governance rift deepens ahead of the September 24 Trump-Xi summit. [Source](https://aiweekly.co/ai-news-today)
+> [!breaking]- Macro: Fed hikes 25bp — first rate increase since July 2023; 10-yr yield at 5%, WTI above $100 (CNBC/Schwab)
+> The Federal Reserve voted to raise its benchmark rate by 25 basis points at the September FOMC meeting — the first hike since July 2023 — as sticky inflation driven by $100+ oil and a resilient labour market forced the committee's hand. The 10-year Treasury yield settled around 5%, its highest since 2007, and WTI crude held above $100/bbl. Markets now watch the pace of subsequent tightening, with the BoJ also expected to raise its rate to 1.25% at its September 17–18 meeting. [Source](https://www.schwab.com/learn/story/stock-market-update-open)
 
-> [!note]- Tech: Pangram raises $9M for AI-detection tool, lands Substack partnership (TechCrunch)
-> AI-detection startup Pangram secured $9 million in funding and announced a partnership with Substack alongside a new AI image detection product. Enterprise demand for tools identifying AI-generated content is rising sharply as synthetic media proliferates across publishing platforms. [Source](https://techcrunch.com/category/artificial-intelligence/)
+> [!note]- AI: LawZero lands $300M in Canada–Germany grants to build non-profit 'Scientist AI' (AI Weekly)
+> Canada and Germany each committed up to $150M in grants to LawZero, Yoshua Bengio's Montreal-based non-profit, unveiled at the All In AI conference to fund large-scale hiring and compute for a 'Scientist AI' safety research agenda. Separately, Microsoft AI CEO Mustafa Suleyman published an essay arguing that Anthropic baking consciousness speculation into Claude's constitution amounts to circular reasoning, intensifying the AI self-model debate. [Source](https://aiweekly.co/ai-news-today)
 
-> [!breaking]- Macro: Fed rate decision day — first hike since 2023 priced >70%; S&P fell 0.45% ahead of call (CNBC/Kiplinger)
-> The Federal Reserve announces its September rate decision today, with markets pricing above 70% odds of a 25bp hike — what would be the first increase since July 2023 — as energy prices above $100/bbl and a steady labour market keep inflation sticky. The S&P 500 fell 0.45% to 7,585.73 on Tuesday and the Philadelphia Semiconductor Index dropped 5.9%, with Treasury yields hitting multi-year highs ahead of the call. [Source](https://www.kiplinger.com/investing/live/fed-meeting-updates-and-commentary-september-2026)
+> [!note]- Tech: Microsoft sets limits on AI models; Apple bundles TV + Arcade into iCloud+ across 100+ countries (TechCrunch)
+> Microsoft imposed new usage limits on its frontier AI models as the industry navigates calls to throttle development — a rare self-imposed guardrail from a major vendor. Apple simultaneously began bundling Apple TV and Apple Arcade into iCloud+ subscriptions across 100+ countries this month, plans starting at ₹75/month in India, deepening its services bundle ahead of the autumn product cycle. [Source](https://techcrunch.com/)
 
-> [!note]- World: Houthis tighten Bab-el-Mandeb stranglehold; Brent tops $107 on Saudi pipeline strikes (Reuters)
-> Houthi forces escalated attacks near the Bab-el-Mandeb strait — a second critical shipping chokepoint — compounding earlier strikes on a major Saudi pipeline that pushed Brent crude above $107/bbl. Maritime insurance premiums for Gulf transit are surging and operators are reviewing extended Cape of Good Hope diversions. The simultaneous US-Iran tensions and Saudi outage are creating mounting pressure on global energy logistics heading into autumn. [Source](https://en.wikipedia.org/wiki/Portal:Current_events/September_2026)
+> [!note]- World: BoJ expected to hike to 1.25% today; Russia drone strikes resume near Ukraine-Poland border (Reuters)
+> The Bank of Japan is widely expected to raise its policy rate to 1.25% at its September 17–18 meeting — economists were nearly unanimous — a move that would compound global yield pressure following the Fed's hike. Separately, Russia continued drone strikes near the Ukraine-Poland border, rattling NATO's eastern flank and prompting emergency alliance consultations ahead of a planned Western summit. [Source](https://tradingeconomics.com/united-states/calendar)
 
-> [!note]- Malaysia/Singapore: Malaysia Day 2026 — national celebration moved indoors in Kuching as haze blankets region (The Asian Affairs)
-> Malaysia marks its 63rd Malaysia Day today (September 16), commemorating the 1963 formation of the federation, but the national celebration was shifted indoors to Kuching's BCCK centre after haze from Kalimantan and Sumatran peatland fires pushed air quality into the unhealthy range. Singapore's 24-hour PSI hit 154 islandwide on September 15 — the worst since 2019 — with no meaningful improvement expected until winds shift or rains arrive, possibly stretching into October. [Source](https://www.theasianaffairs.com/malaysia-day-2026-haze/)
+> [!note]- Malaysia/Singapore: Post-Malaysia Day haze persists; PSI elevated as Kalimantan fires continue (Mothership)
+> Transboundary haze from Kalimantan and Sumatran peatland fires continues to blanket Singapore and Malaysia the day after Malaysia Day, with PSI readings still elevated across the region. No meaningful improvement is expected until regional winds shift or rainfall suppresses the fires; outdoor activity advisories remain in effect across both countries. [Source](https://mothership.sg/)
 
-> [!note]- Science: Ordinary sunlight converted into quantum entanglement — new path for quantum comms (ScienceDaily)
-> Scientists demonstrated that ordinary broadband sunlight can serve as a source of quantum entanglement, a surprising result that opens a new path for quantum communication and sensing without specialised laser sources. The finding could significantly lower the barrier for real-world quantum network infrastructure. [Source](https://www.sciencedaily.com/)
+> [!note]- Science: Human brain reorganises genome in midlife — new clue to late-onset Alzheimer's risk (ScienceDaily)
+> Scientists discovered sweeping changes in how the human brain controls and organises its genome beginning in midlife, offering new clues to why ageing sharply increases the risk of Alzheimer's and other neurodegenerative diseases. The findings point to epigenetic remodelling of neural cells as a key vulnerability window, potentially opening new preventive intervention targets. [Source](https://www.sciencedaily.com/)
 
-> [!note]- NKE: $36.22 (~−1.7% from ~$36.85 Tue) — down 79% from ATH; S&P 100 removal Sep 21; earnings Oct 1 (Yahoo Finance)
-> Nike trades at $36.22, down approximately 1.7% from Tuesday's ~$36.85, and 79% below the all-time high as its China strategy continues to underperform. Telsey cut the price target to $44 (Market Perform) and Baird downgraded to Neutral at $44 (from $70). S&P 100 removal is five days away (September 21), a structural headwind as passive index funds rebalance out. Position: 46 shares at $71.69 avg cost; est. unrealised loss ~−$1,632. [Source](https://finance.yahoo.com/quote/NKE/)
+> [!note]- NKE: ~$36.00 (Sep 16 close, $35.76–$36.51 range) — Baird downgrades to Neutral, cuts PT $70→$44; S&P 100 removal Sep 21 (Yahoo Finance)
+> Nike closed at approximately $36.00 on September 16, with Baird downgrading to Neutral and cutting its price target to $44 from $70, while Telsey also holds Market Perform at $44. The S&P 100 removal on September 21 is four days away — a looming passive-fund headwind. Position: 46 shares at $71.69 avg cost; est. unrealised loss ~−$1,646. [Source](https://finance.yahoo.com/quote/NKE/)
 
-> **Evening update**
-
-> [!note]- SG & Malaysia: SEA-6 to grow 4.8% yearly; Singapore leads ASEAN FDI (The Star)
-> A new decade-long regional outlook projects Southeast Asia's six largest economies will average 4.8% annual growth from 2026 to 2035, with Malaysia specifically forecast at 4.3%, driven by semiconductors, data centres, and AI-linked investment. Singapore is identified as the region's most resilient hub, attracting more than 60% of Southeast Asian FDI and serving as the primary investment source into Indonesia, Malaysia, Thailand, and Vietnam. The report frames both nations as complementary pillars of regional economic stability as Southeast Asia navigates escalating US-China trade fragmentation. [The Star](https://www.thestar.com.my/business/business-news/2026/09/16/malaysia-projected-to-grow-43-annually-from-2026-2035-039sea-6039-economies-set-for-steady-growth)
-
-> [!note]- Malaysia: Malaysia Day 2026 in Kuching under Segulai Sejalai theme (Bernama)
-> Malaysia marks its 63rd Malaysia Day at the Borneo Convention Centre Kuching in Sarawak, with national celebrations themed "Malaysia MADANI: Kesejahteraan Dinikmati" paired with Sarawak's unity slogan Segulai Sejalai (togetherness). The Kuching venue places this year's event in East Malaysia, symbolically reinforcing the federation's origins on September 16, 1963, when Sabah, Sarawak, and Singapore joined Malaya. Leaders called for renewed commitment to unity, inclusivity, and shared prosperity across the nation's diverse regions. [Bernama](https://www.bernama.com/en/general/news.php?id=2605924)
-
-> [!note]- World: Indonesia ferry capsizes in Java Sea — 6 dead, 129 missing (Euronews)
-> Indonesian authorities intensified search-and-rescue operations after a passenger ferry overturned in bad weather in the Java Sea, killing at least six people and leaving 129 still missing. Coast guard and navy vessels combed the area as officials worked to account for all those aboard. Ferry disasters remain a recurring safety crisis in Indonesia's maritime archipelago, where ageing vessels and rapid weather changes frequently combine with fatal results. [Euronews](https://www.euronews.com/news/international)
-
-> [!note]- World: China FM slams AI slowdown call; Trump-Xi summit on horizon (Euronews)
-> China's Foreign Ministry rejected Anthropic CEO Dario Amodei's weekend call to slow AI development, labelling it "fearmongering" as Chinese and US leaders prepare to meet in Washington around September 24. The rebuke sharpens a public rift between Beijing and Washington over AI development philosophy, with China signalling it will not participate in any pacing arrangement that disadvantages its own industry. The exchange raises stakes for the Trump-Xi summit, where AI governance and export controls are expected to be central contested issues. [Euronews](https://www.euronews.com/news/international)
-
-> [!note]- Tech: OpenAI won't IPO in 2026; AI agents drive 395-org cyberattack (AI Weekly)
-> OpenAI CEO Sam Altman told Fortune that taking the company public in 2026 would be "ill-advised" given ongoing safety concerns, deferring an IPO despite the company's valuation exceeding $300 billion. Separately, a threat actor exploited two PaperCut NG/MF vulnerabilities and used AI agents to automate intrusions across 395 organisations — one of the first documented cases of AI-orchestrated mass exploitation at scale. The two developments illustrate AI's simultaneous role as a commercial force being withheld from public markets and a weapon deployed against organisations worldwide. [AI Weekly](https://aiweekly.co/ai-news-today/edition/2026-09-15)
-
-> [!note]- Economy: US 10-yr yield at 5.00% — 2007 high; Brent $108.75 (Rio Times)
-> The US 10-year Treasury yield closed at 5.00% — its highest closing level since 2007 — as markets priced a strong probability of the Fed's first rate hike since 2023, sending the S&P 500 down 0.45% to 7,586 and the Dow 0.63% lower to 52,093. Brent crude settled at $108.75/bbl, up 2.9%, in a near-20% September surge driven by ongoing Middle East shipping risk around the Strait of Hormuz. Analysts warn that sustained high yields combined with elevated energy prices risk worsening the global economic trajectory well below the IMF's already-slashed 0.7% growth forecast for 2026. [Rio Times](https://www.riotimesonline.com/global-economy-briefing-september-16-2026/)
+> [!note]- [[09-16-26 Wed]]
+>
+> > [!note]- AI: Shanghai AI Lab releases Atria Dawn Preview — 744B-param agentic MoE (AI Weekly)
+> > Shanghai AI Laboratory released Atria Dawn Preview, a 744B-parameter agentic mixture-of-experts model built on GLM-5.2, trained via a Verifiable Experience Pipeline that grounds tool use in executable environments. The launch comes as Microsoft sets new AI model constraints and the US–China AI governance rift deepens ahead of the September 24 Trump-Xi summit. [Source](https://aiweekly.co/ai-news-today)
+>
+> > [!note]- Tech: Pangram raises $9M for AI-detection tool, lands Substack partnership (TechCrunch)
+> > AI-detection startup Pangram secured $9 million in funding and announced a partnership with Substack alongside a new AI image detection product. Enterprise demand for tools identifying AI-generated content is rising sharply as synthetic media proliferates across publishing platforms. [Source](https://techcrunch.com/category/artificial-intelligence/)
+>
+> > [!breaking]- Macro: Fed rate decision day — first hike since 2023 priced >70%; S&P fell 0.45% ahead of call (CNBC/Kiplinger)
+> > The Federal Reserve announces its September rate decision today, with markets pricing above 70% odds of a 25bp hike — what would be the first increase since July 2023 — as energy prices above $100/bbl and a steady labour market keep inflation sticky. The S&P 500 fell 0.45% to 7,585.73 on Tuesday and the Philadelphia Semiconductor Index dropped 5.9%, with Treasury yields hitting multi-year highs ahead of the call. [Source](https://www.kiplinger.com/investing/live/fed-meeting-updates-and-commentary-september-2026)
+>
+> > [!note]- World: Houthis tighten Bab-el-Mandeb stranglehold; Brent tops $107 on Saudi pipeline strikes (Reuters)
+> > Houthi forces escalated attacks near the Bab-el-Mandeb strait — a second critical shipping chokepoint — compounding earlier strikes on a major Saudi pipeline that pushed Brent crude above $107/bbl. Maritime insurance premiums for Gulf transit are surging and operators are reviewing extended Cape of Good Hope diversions. The simultaneous US-Iran tensions and Saudi outage are creating mounting pressure on global energy logistics heading into autumn. [Source](https://en.wikipedia.org/wiki/Portal:Current_events/September_2026)
+>
+> > [!note]- Malaysia/Singapore: Malaysia Day 2026 — national celebration moved indoors in Kuching as haze blankets region (The Asian Affairs)
+> > Malaysia marks its 63rd Malaysia Day today (September 16), commemorating the 1963 formation of the federation, but the national celebration was shifted indoors to Kuching's BCCK centre after haze from Kalimantan and Sumatran peatland fires pushed air quality into the unhealthy range. Singapore's 24-hour PSI hit 154 islandwide on September 15 — the worst since 2019 — with no meaningful improvement expected until winds shift or rains arrive, possibly stretching into October. [Source](https://www.theasianaffairs.com/malaysia-day-2026-haze/)
+>
+> > [!note]- Science: Ordinary sunlight converted into quantum entanglement — new path for quantum comms (ScienceDaily)
+> > Scientists demonstrated that ordinary broadband sunlight can serve as a source of quantum entanglement, a surprising result that opens a new path for quantum communication and sensing without specialised laser sources. The finding could significantly lower the barrier for real-world quantum network infrastructure. [Source](https://www.sciencedaily.com/)
+>
+> > [!note]- NKE: $36.22 (~−1.7% from ~$36.85 Tue) — down 79% from ATH; S&P 100 removal Sep 21; earnings Oct 1 (Yahoo Finance)
+> > Nike trades at $36.22, down approximately 1.7% from Tuesday's ~$36.85, and 79% below the all-time high as its China strategy continues to underperform. Telsey cut the price target to $44 (Market Perform) and Baird downgraded to Neutral at $44 (from $70). S&P 100 removal is five days away (September 21), a structural headwind as passive index funds rebalance out. Position: 46 shares at $71.69 avg cost; est. unrealised loss ~−$1,632. [Source](https://finance.yahoo.com/quote/NKE/)
+>
+> > **Evening update**
+>
+> > [!note]- SG & Malaysia: SEA-6 to grow 4.8% yearly; Singapore leads ASEAN FDI (The Star)
+> > A new decade-long regional outlook projects Southeast Asia's six largest economies will average 4.8% annual growth from 2026 to 2035, with Malaysia specifically forecast at 4.3%, driven by semiconductors, data centres, and AI-linked investment. Singapore is identified as the region's most resilient hub, attracting more than 60% of Southeast Asian FDI and serving as the primary investment source into Indonesia, Malaysia, Thailand, and Vietnam. The report frames both nations as complementary pillars of regional economic stability as Southeast Asia navigates escalating US-China trade fragmentation. [The Star](https://www.thestar.com.my/business/business-news/2026/09/16/malaysia-projected-to-grow-43-annually-from-2026-2035-039sea-6039-economies-set-for-steady-growth)
+>
+> > [!note]- Malaysia: Malaysia Day 2026 in Kuching under Segulai Sejalai theme (Bernama)
+> > Malaysia marks its 63rd Malaysia Day at the Borneo Convention Centre Kuching in Sarawak, with national celebrations themed "Malaysia MADANI: Kesejahteraan Dinikmati" paired with Sarawak's unity slogan Segulai Sejalai (togetherness). The Kuching venue places this year's event in East Malaysia, symbolically reinforcing the federation's origins on September 16, 1963, when Sabah, Sarawak, and Singapore joined Malaya. Leaders called for renewed commitment to unity, inclusivity, and shared prosperity across the nation's diverse regions. [Bernama](https://www.bernama.com/en/general/news.php?id=2605924)
+>
+> > [!note]- World: Indonesia ferry capsizes in Java Sea — 6 dead, 129 missing (Euronews)
+> > Indonesian authorities intensified search-and-rescue operations after a passenger ferry overturned in bad weather in the Java Sea, killing at least six people and leaving 129 still missing. Coast guard and navy vessels combed the area as officials worked to account for all those aboard. Ferry disasters remain a recurring safety crisis in Indonesia's maritime archipelago, where ageing vessels and rapid weather changes frequently combine with fatal results. [Euronews](https://www.euronews.com/news/international)
+>
+> > [!note]- World: China FM slams AI slowdown call; Trump-Xi summit on horizon (Euronews)
+> > China's Foreign Ministry rejected Anthropic CEO Dario Amodei's weekend call to slow AI development, labelling it "fearmongering" as Chinese and US leaders prepare to meet in Washington around September 24. The rebuke sharpens a public rift between Beijing and Washington over AI development philosophy, with China signalling it will not participate in any pacing arrangement that disadvantages its own industry. The exchange raises stakes for the Trump-Xi summit, where AI governance and export controls are expected to be central contested issues. [Euronews](https://www.euronews.com/news/international)
+>
+> > [!note]- Tech: OpenAI won't IPO in 2026; AI agents drive 395-org cyberattack (AI Weekly)
+> > OpenAI CEO Sam Altman told Fortune that taking the company public in 2026 would be "ill-advised" given ongoing safety concerns, deferring an IPO despite the company's valuation exceeding $300 billion. Separately, a threat actor exploited two PaperCut NG/MF vulnerabilities and used AI agents to automate intrusions across 395 organisations — one of the first documented cases of AI-orchestrated mass exploitation at scale. The two developments illustrate AI's simultaneous role as a commercial force being withheld from public markets and a weapon deployed against organisations worldwide. [AI Weekly](https://aiweekly.co/ai-news-today/edition/2026-09-15)
+>
+> > [!note]- Economy: US 10-yr yield at 5.00% — 2007 high; Brent $108.75 (Rio Times)
+> > The US 10-year Treasury yield closed at 5.00% — its highest closing level since 2007 — as markets priced a strong probability of the Fed's first rate hike since 2023, sending the S&P 500 down 0.45% to 7,586 and the Dow 0.63% lower to 52,093. Brent crude settled at $108.75/bbl, up 2.9%, in a near-20% September surge driven by ongoing Middle East shipping risk around the Strait of Hormuz. Analysts warn that sustained high yields combined with elevated energy prices risk worsening the global economic trajectory well below the IMF's already-slashed 0.7% growth forecast for 2026. [Rio Times](https://www.riotimesonline.com/global-economy-briefing-september-16-2026/)
 
 > [!note]- [[09-15-26 Tue]]
 >
