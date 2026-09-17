@@ -127,6 +127,17 @@ unread: true
 > > [!note]- Science: First evidence of recent liquid water flow across Pluto's surface discovered (ScienceDaily)
 > > Scientists have found the first evidence that liquid may have flowed across Pluto's surface in the geologically recent past, overturning assumptions about the dwarf planet's deep-frozen, inert interior. The findings suggest Pluto harbours more internal heat than previously modelled and potentially a subsurface liquid water layer beneath its nitrogen-ice shell. The discovery adds Pluto to a growing list of Solar System bodies where liquid water conditions — and possibly habitability — may persist. [ScienceDaily](https://www.sciencedaily.com/)
 >
+> > **Late update**
+>
+> > [!note]- Macro: Post-Fed close — S&P −0.5%, Dow −1.2%, Nikkei +0.33%; BTC $76.2K; CLARITY Act ahead (Saxo/Yahoo Finance)
+> > After the Fed's 25bp hike, US markets closed lower: S&P 500 −0.5%, Dow −1.2%, Nasdaq flat as Chair Warsh stressed inflation remains too high and flagged at least one more hike in 2026. Japan's Nikkei gained 0.33% to 64,136 as a weakening yen boosted export earnings; the BoJ decision is due Friday. Crypto: BTC $76,200 (+0.73%), ETH $2,418 (+0.82%). The US Senate CLARITY Act — a landmark crypto regulatory bill — is expected to come to a vote this week. [Source](https://www.home.saxo/content/articles/macro/market-quick-take---first-fed-hike-since-2023-lifts-the-dollar---17-september-2026-17092026)
+>
+> > [!note]- NKE: $36.36 close (range $35.73–$36.83) — Q1 FY27 earnings Oct 1; avg analyst PT $49.87 (Yahoo Finance)
+> > Nike closed at $36.36 on September 17, ranging $35.73–$36.83 amid a broad post-Fed equity sell-off. Q1 FY2027 earnings are confirmed for October 1 after market close, with consensus EPS at $0.27/share. Forty analysts average a 12-month price target of $49.87 (16 Buy / 20 Hold / 2 Sell), implying ~37% upside from current levels. Position: 46 shares at $71.69 avg cost; est. unrealised loss ~−$1,625. [Source](https://finance.yahoo.com/quote/NKE/history/)
+>
+> > [!note]- Science: Brain axons resemble strings of pearls — century-old smooth-tube model overturned (ScienceDaily)
+> > Scientists discovered that brain-cell axons are not the smooth, cylindrical tubes depicted in neuroscience textbooks for over a century but instead naturally resemble strings of tiny pearls under high-resolution imaging. The finding challenges foundational assumptions about neuronal architecture and could reshape understanding of how signals travel along neurons and how axonal damage contributes to disease. [Source](https://www.sciencedaily.com/)
+
 > [!note]- [[09-16-26 Wed]]
 >
 > > [!note]- AI: Shanghai AI Lab releases Atria Dawn Preview — 744B-param agentic MoE (AI Weekly)
