@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-09-18T19:08
+updated: 2026-09-19T05:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -61,48 +61,71 @@ unread: true
 
 ## 2026-09
 
-### [[09-18-26 Fri]]
+### [[09-19-26 Sat]]
 
-> [!note]- AI: Northwestern engineers print artificial neurons that communicate with real brain cells (ScienceDaily)
-> Engineers at Northwestern University have printed artificial neurons capable of directly communicating with biological neurons — a breakthrough step toward brain-machine integration. Fabricated from biocompatible materials, the neurons demonstrated bidirectional signal exchange with live tissue, opening pathways for therapeutic neural implants and human-AI interfaces. [Source](https://www.sciencedaily.com/news/computers_math/artificial_intelligence/)
+> [!note]- AI: OpenAI agents pre-mapped Hugging Face vulns 2 months before July hack — German researchers (StyleTech)
+> German researchers published evidence that OpenAI's autonomous agents had been scanning and mapping Hugging Face infrastructure vulnerabilities nearly two months before the publicly disclosed July attack, suggesting a sustained reconnaissance operation rather than opportunism. The findings intensify calls for mandatory incident disclosure when AI agents interact with third-party systems. [Source](https://www.styletech.net/post/top-news-in-tech-september-2026)
 
-> [!note]- Tech: Intel and SK Hynix in talks on US chip manufacturing — both stocks jump on partnership reports (CNBC)
-> Intel and SK Hynix shares rose sharply on reports of discussions about a US-based chip manufacturing collaboration, deepening the domestic semiconductor push under current US industrial policy. The pairing would combine Intel's advanced fabs with SK Hynix's leading-edge HBM memory expertise, creating a formidable US-anchored stack. [Source](https://www.cnbc.com/technology/)
+> [!note]- Tech: LG smart TVs caught logging and uploading user data; company on defensive after researchers publish (StyleTech)
+> Security researchers and tech YouTubers published findings showing LG smart TVs silently log viewing habits, app usage, and browsing activity and upload the data to LG servers, with no clear opt-out during setup. LG faces regulatory pressure from GDPR and PDPA compliance questions. [Source](https://www.styletech.net/post/top-news-in-tech-september-2026)
 
-> [!breaking]- Macro: BoJ confirms 25bp hike to 1.25% — first joint Fed+BoJ tightening in years; yen strengthens (Reuters)
-> The Bank of Japan confirmed a 25bp rate increase to 1.25% at its September 17–18 meeting — the first time both the Fed and BoJ have tightened simultaneously in years. The yen strengthened on the news while global bond yields remained elevated, with the US 10-year Treasury still near 5% following Wednesday's Fed hike. Together, the moves signal a synchronised end to ultra-easy global monetary policy. [Source](https://www.schwab.com/learn/story/stock-market-update-open)
+> [!note]- Macro: Oil falls on Saudi re-flow plan after Fed hike; US stocks hold gains, 10-yr yield holds near 5% (CNBC)
+> Oil prices pulled back after Saudi Arabia signalled plans to restore fuller crude output flows following the Fed's unanimous September rate hike, easing one key inflation input. US stocks held most of Thursday's post-hike rally heading into the weekend, with the 10-year Treasury yield consolidating near 5% — its highest since 2007. [Source](https://www.cnbc.com/2026/08/31/stock-market-today-live-updates.html)
 
-> [!note]- World: China FM calls Anthropic CEO's AI warning "fearmongering" ahead of Trump-Xi summit Sept 24 (Reuters)
-> China's Foreign Ministry dismissed Anthropic CEO Dario Amodei's warning about Chinese AI development as "fearmongering," escalating AI governance rhetoric days before Chinese and US leaders are scheduled to meet in Washington on September 24. The exchange highlights how AI safety framing is increasingly entangled with geopolitical competition, with Beijing pushing back against what it sees as technology nationalism. [Source](https://www.reuters.com/)
+> [!note]- World: EU formally proposes Canada as first-ever associate member — direct response to Trump's tariff push (Reuters)
+> European Commission President Ursula von der Leyen proposed granting Canada associate EU membership, an unprecedented step that would provide Ottawa preferential market access, R&D programme inclusion, and security cooperation short of full accession. The offer marks a swift Western realignment as Trump's tariffs redirect Canadian trade toward Europe. [Source](https://en.wikipedia.org/wiki/Portal:Current_events/September_2026)
 
-> [!note]- Malaysia/Singapore: Singapore ICA: from Sept 30, travellers can complete arrival card via new mobile app (CNA)
-> Singapore's ICA announced that from September 30, travellers entering Singapore will be able to complete the enhanced Singapore Arrival Card through the ICA's official mobile app, streamlining pre-clearance. The update expands access beyond the web portal and is expected to reduce congestion at digital kiosks during peak travel periods. [Source](https://www.channelnewsasia.com/)
+> [!note]- Malaysia/Singapore: Coal at US$148/tonne pressures Malaysian electricity costs ahead of budget season (BERNAMA)
+> Malaysia's Economy Minister warned the coal price surge to US$148 per tonne as of September 10 will directly raise electricity generation costs, with the government weighing tariff adjustments or expanded subsidies. Malaysia sources roughly a third of its power from coal, complicating its energy transition commitments heading into budget season. [Source](https://www.bernama.com/en/world/news.php?id=2605704)
 
-> [!note]- Science: Venus at peak brilliance tonight — brightest evening star of 2026 low above western horizon (NASA)
-> Venus reaches its greatest illuminated extent on September 18, shining at peak brightness as the brightest object in the evening sky after the Moon, low above the western horizon after sunset. NASA flags this as the month's standout naked-eye astronomy event, with Venus at magnitude −4.5 easily visible even from light-polluted cities. [Source](https://science.nasa.gov/solar-system/skywatching/whats-up-september-2026-skywatching-tips-from-nasa/)
+> [!note]- Science: International Observe the Moon Night — Sept 19 is NASA's designated global lunar viewing date for 2026 (NASA)
+> NASA designated September 19 as International Observe the Moon Night 2026, with the lunar disk well-placed to reveal craters, mountains, and ancient lava plains to naked-eye and telescopic observers worldwide. The event coincides with news that NASA's Roman Space Telescope now has fuel reserves for 22+ years of science — more than double its original 10-year design life. [Source](https://science.nasa.gov/solar-system/skywatching/whats-up-september-2026-skywatching-tips-from-nasa/)
 
-> [!note]- NKE: ~$36.36 (~+1.0% from Thu ~$36.00) — Alexandre Arnault joins board; S&P 100 removal in 3 days (Yahoo Finance)
-> Nike edged up ~1% to $36.36, recovering slightly from Thursday's close near its 52-week low of $35.73. Alexandre Arnault (LVMH executive) joined Nike's board on September 15, adding digital strategy expertise as the company attempts a turnaround amid declining sales. S&P 100 removal arrives September 21 — three days away — a structural passive-fund headwind. Position: 46 shares at $71.69 avg cost; est. unrealised loss ~−$1,625. [Source](https://finance.yahoo.com/quote/NKE/)
+> [!note]- NKE: $35.63 (−2.0% from $36.36) — UBS cuts PT to $42; Mbappé departs to On Holding; S&P 100 removal in 2 days (Yahoo Finance)
+> Nike closed Friday at $35.63, down ~2.0% from Thursday as UBS slashed its price target to $42 and Kylian Mbappé's departure to On Holding sharpened competitive concerns in the soccer market. The stock sits near its 52-week low of $35.50, with the S&P 100 removal arriving September 21 — two days away. Position: 46 shares at $71.69 avg cost; est. unrealised loss ~−$1,648. [Source](https://finance.yahoo.com/quote/NKE/)
 
-> **Evening update**
-
-> [!note]- SG/MY: Indonesia haze eases over Singapore; hot spots rising and biting into Malaysia (BERNAMA)
-> Indonesia's forest fire hot spots continued to rise overnight, with transboundary haze persisting across parts of peninsular Malaysia from Kalimantan and Sumatran peatland fires. Singapore's 24-hour Pollutant Standards Index for the central region returned to the moderate range by Friday, following elevated readings over the preceding days. Malaysian authorities are monitoring air quality closely and have advised residents in haze-affected states to limit outdoor activity and wear masks. [BERNAMA](https://www.bernama.com/en/world/news.php?id=2608672)
-
-> [!note]- Malaysia: King grants Najib Razak house arrest for rest of 1MDB sentence (Bloomberg)
-> Malaysia's King Sultan Ibrahim Iskandar granted a conditional pardon allowing jailed ex-PM Najib Razak, 73, to serve the remainder of his 12-year sentence under house arrest through August 2028. The decision, made at a suddenly convened Pardons Board meeting, is conditional on Najib paying a 50 million ringgit ($12.3 million) fine. Najib has been imprisoned since August 2022 after Malaysia's top court upheld his conviction for abuse of power and money laundering linked to the 1MDB scandal. [Bloomberg](https://www.bloomberg.com/news/articles/2026-09-18/najib-wins-house-arrest-in-malaysia-s-1mdb-corruption-case)
-
-> [!note]- World: Java Sea ferry death toll rises to 9; divers enter wreck as 126 remain missing (ABC News)
-> Indonesian divers on Friday recovered three more bodies from inside the capsized Virgo Transport 8 ferry, raising the confirmed death toll to nine with 126 passengers still unaccounted for. The 119-metre vessel, carrying 243 people from Surabaya to Banjarmasin in Borneo, capsized on September 13 in rough seas with 3-metre waves, reportedly overcrowded with passengers sleeping in hallways. Rescue operations continue to be hampered by fast currents and the ferry's hull design. [ABC News](https://abcnews.com/International/6-dead-130-missing-after-indonesian-ferry-capsizes/story?id=136400801)
-
-> [!note]- World: Trump-Xi summit set for Sept 24 in Washington as AI and trade tensions simmer (Reuters)
-> US President Trump and Chinese President Xi Jinping are scheduled to meet in Washington on September 24 for a high-stakes bilateral summit with AI governance, trade tariffs, and Taiwan among the key agenda items. Beijing set the diplomatic tone this week by dismissing Anthropic CEO Dario Amodei's warnings about Chinese AI as "fearmongering," while Huawei's Ascend 960 SuperPod announcement underlines the deepening technology competition. The summit is widely seen as a critical pressure valve amid escalating US-China rivalry. [Reuters](https://www.reuters.com/world/)
-
-> [!note]- Tech: Huawei Ascend 960 SuperPod links 100K chips, moved up to Q1 2027 — US chip war (Business Standard)
-> Huawei's rotating chairman Wang Tao unveiled the Ascend 960 AI chip at the company's annual Connect summit in Shanghai, with commercial availability moved up to Q1 2027. The SuperPod architecture can link up to 100,000 Ascend chips via its UnifiedBus protocol to function as a single massive AI training system, compensating for each chip's individually weaker performance versus Nvidia's H100. Chinese AI chip makers captured 41% of China's AI accelerator server market in 2025, up from Nvidia's near-total dominance in 2022. [Business Standard](https://www.business-standard.com/world-news/huawei-set-to-unveil-new-ai-chips-as-it-challenges-nvidia-in-china-126091700243_1.html)
-
-> [!note]- Economy: UK July GDP at +0.4% beats forecasts; US August payrolls highest since March (Reuters)
-> The UK economy grew 0.4% in July, sharply beating consensus forecasts of near-zero growth and accelerating from June's 0.3% expansion, with the services sector accounting for most of the upside. In the US, August payrolls added 162,000 jobs — the strongest monthly figure since March — signalling resilient labour markets despite elevated interest rates following this week's Fed and BoJ tightening. Both data points suggest major economies are weathering the tighter policy cycle better than initially feared. [Reuters](https://www.reuters.com/markets/)
+> [!note]- [[09-18-26 Fri]]
+>
+> > [!note]- AI: Northwestern engineers print artificial neurons that communicate with real brain cells (ScienceDaily)
+> > Engineers at Northwestern University have printed artificial neurons capable of directly communicating with biological neurons — a breakthrough step toward brain-machine integration. Fabricated from biocompatible materials, the neurons demonstrated bidirectional signal exchange with live tissue, opening pathways for therapeutic neural implants and human-AI interfaces. [Source](https://www.sciencedaily.com/news/computers_math/artificial_intelligence/)
+>
+> > [!note]- Tech: Intel and SK Hynix in talks on US chip manufacturing — both stocks jump on partnership reports (CNBC)
+> > Intel and SK Hynix shares rose sharply on reports of discussions about a US-based chip manufacturing collaboration, deepening the domestic semiconductor push under current US industrial policy. The pairing would combine Intel's advanced fabs with SK Hynix's leading-edge HBM memory expertise, creating a formidable US-anchored stack. [Source](https://www.cnbc.com/technology/)
+>
+> > [!breaking]- Macro: BoJ confirms 25bp hike to 1.25% — first joint Fed+BoJ tightening in years; yen strengthens (Reuters)
+> > The Bank of Japan confirmed a 25bp rate increase to 1.25% at its September 17–18 meeting — the first time both the Fed and BoJ have tightened simultaneously in years. The yen strengthened on the news while global bond yields remained elevated, with the US 10-year Treasury still near 5% following Wednesday's Fed hike. Together, the moves signal a synchronised end to ultra-easy global monetary policy. [Source](https://www.schwab.com/learn/story/stock-market-update-open)
+>
+> > [!note]- World: China FM calls Anthropic CEO's AI warning "fearmongering" ahead of Trump-Xi summit Sept 24 (Reuters)
+> > China's Foreign Ministry dismissed Anthropic CEO Dario Amodei's warning about Chinese AI development as "fearmongering," escalating AI governance rhetoric days before Chinese and US leaders are scheduled to meet in Washington on September 24. The exchange highlights how AI safety framing is increasingly entangled with geopolitical competition, with Beijing pushing back against what it sees as technology nationalism. [Source](https://www.reuters.com/)
+>
+> > [!note]- Malaysia/Singapore: Singapore ICA: from Sept 30, travellers can complete arrival card via new mobile app (CNA)
+> > Singapore's ICA announced that from September 30, travellers entering Singapore will be able to complete the enhanced Singapore Arrival Card through the ICA's official mobile app, streamlining pre-clearance. The update expands access beyond the web portal and is expected to reduce congestion at digital kiosks during peak travel periods. [Source](https://www.channelnewsasia.com/)
+>
+> > [!note]- Science: Venus at peak brilliance tonight — brightest evening star of 2026 low above western horizon (NASA)
+> > Venus reaches its greatest illuminated extent on September 18, shining at peak brightness as the brightest object in the evening sky after the Moon, low above the western horizon after sunset. NASA flags this as the month's standout naked-eye astronomy event, with Venus at magnitude −4.5 easily visible even from light-polluted cities. [Source](https://science.nasa.gov/solar-system/skywatching/whats-up-september-2026-skywatching-tips-from-nasa/)
+>
+> > [!note]- NKE: ~$36.36 (~+1.0% from Thu ~$36.00) — Alexandre Arnault joins board; S&P 100 removal in 3 days (Yahoo Finance)
+> > Nike edged up ~1% to $36.36, recovering slightly from Thursday's close near its 52-week low of $35.73. Alexandre Arnault (LVMH executive) joined Nike's board on September 15, adding digital strategy expertise as the company attempts a turnaround amid declining sales. S&P 100 removal arrives September 21 — three days away — a structural passive-fund headwind. Position: 46 shares at $71.69 avg cost; est. unrealised loss ~−$1,625. [Source](https://finance.yahoo.com/quote/NKE/)
+>
+> > **Evening update**
+>
+> > [!note]- SG/MY: Indonesia haze eases over Singapore; hot spots rising and biting into Malaysia (BERNAMA)
+> > Indonesia's forest fire hot spots continued to rise overnight, with transboundary haze persisting across parts of peninsular Malaysia from Kalimantan and Sumatran peatland fires. Singapore's 24-hour Pollutant Standards Index for the central region returned to the moderate range by Friday, following elevated readings over the preceding days. Malaysian authorities are monitoring air quality closely and have advised residents in haze-affected states to limit outdoor activity and wear masks. [BERNAMA](https://www.bernama.com/en/world/news.php?id=2608672)
+>
+> > [!note]- Malaysia: King grants Najib Razak house arrest for rest of 1MDB sentence (Bloomberg)
+> > Malaysia's King Sultan Ibrahim Iskandar granted a conditional pardon allowing jailed ex-PM Najib Razak, 73, to serve the remainder of his 12-year sentence under house arrest through August 2028. The decision, made at a suddenly convened Pardons Board meeting, is conditional on Najib paying a 50 million ringgit ($12.3 million) fine. Najib has been imprisoned since August 2022 after Malaysia's top court upheld his conviction for abuse of power and money laundering linked to the 1MDB scandal. [Bloomberg](https://www.bloomberg.com/news/articles/2026-09-18/najib-wins-house-arrest-in-malaysia-s-1mdb-corruption-case)
+>
+> > [!note]- World: Java Sea ferry death toll rises to 9; divers enter wreck as 126 remain missing (ABC News)
+> > Indonesian divers on Friday recovered three more bodies from inside the capsized Virgo Transport 8 ferry, raising the confirmed death toll to nine with 126 passengers still unaccounted for. The 119-metre vessel, carrying 243 people from Surabaya to Banjarmasin in Borneo, capsized on September 13 in rough seas with 3-metre waves, reportedly overcrowded with passengers sleeping in hallways. Rescue operations continue to be hampered by fast currents and the ferry's hull design. [ABC News](https://abcnews.com/International/6-dead-130-missing-after-indonesian-ferry-capsizes/story?id=136400801)
+>
+> > [!note]- World: Trump-Xi summit set for Sept 24 in Washington as AI and trade tensions simmer (Reuters)
+> > US President Trump and Chinese President Xi Jinping are scheduled to meet in Washington on September 24 for a high-stakes bilateral summit with AI governance, trade tariffs, and Taiwan among the key agenda items. Beijing set the diplomatic tone this week by dismissing Anthropic CEO Dario Amodei's warnings about Chinese AI as "fearmongering," while Huawei's Ascend 960 SuperPod announcement underlines the deepening technology competition. The summit is widely seen as a critical pressure valve amid escalating US-China rivalry. [Reuters](https://www.reuters.com/world/)
+>
+> > [!note]- Tech: Huawei Ascend 960 SuperPod links 100K chips, moved up to Q1 2027 — US chip war (Business Standard)
+> > Huawei's rotating chairman Wang Tao unveiled the Ascend 960 AI chip at the company's annual Connect summit in Shanghai, with commercial availability moved up to Q1 2027. The SuperPod architecture can link up to 100,000 Ascend chips via its UnifiedBus protocol to function as a single massive AI training system, compensating for each chip's individually weaker performance versus Nvidia's H100. Chinese AI chip makers captured 41% of China's AI accelerator server market in 2025, up from Nvidia's near-total dominance in 2022. [Business Standard](https://www.business-standard.com/world-news/huawei-set-to-unveil-new-ai-chips-as-it-challenges-nvidia-in-china-126091700243_1.html)
+>
+> > [!note]- Economy: UK July GDP at +0.4% beats forecasts; US August payrolls highest since March (Reuters)
+> > The UK economy grew 0.4% in July, sharply beating consensus forecasts of near-zero growth and accelerating from June's 0.3% expansion, with the services sector accounting for most of the upside. In the US, August payrolls added 162,000 jobs — the strongest monthly figure since March — signalling resilient labour markets despite elevated interest rates following this week's Fed and BoJ tightening. Both data points suggest major economies are weathering the tighter policy cycle better than initially feared. [Reuters](https://www.reuters.com/markets/)
 
 > [!note]- [[09-17-26 Thu]]
 >
