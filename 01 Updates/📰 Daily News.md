@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-09-19T05:11
+updated: 2026-09-19T19:06
 topic: daily news
 frequency: daily
 ongoing: false
@@ -80,6 +80,26 @@ unread: true
 
 > [!note]- Science: Hidden immune organ discovered inside the skull — rapid first responder to brain cancer (ScienceDaily)
 > Scientists identified a previously unknown immune structure tucked inside the skull that functions as a rapid first responder when brain cancer or neurological threats appear. The organ, discovered in mice, appears to deploy immune cells locally before systemic immune responses can mount, suggesting it plays a gatekeeper role in brain tumour defence. Researchers say the finding could reshape how immunotherapy strategies are designed for gliomas and other hard-to-treat brain cancers. [Source](https://www.sciencedaily.com/news/health_medicine/)
+
+> **Evening update**
+
+> [!note]- SG/MY: Singapore haze hits unhealthy PSI 107; 20 Malaysian areas affected (Malay Mail)
+> Smoke drifting from Indonesian peatland and forest fires in Kalimantan and Sumatra pushed Singapore's 24-hour Pollutant Standards Index to 107 (unhealthy range) in the central region by Saturday morning. In Malaysia, 20 areas recorded unhealthy Air Pollutant Index readings as of 9 am, exacerbating an ongoing transboundary haze crisis that has worsened since Friday. Both governments advised residents to limit prolonged outdoor activity and wear masks, with no significant rainfall forecast to clear the smoke. [Malay Mail](https://www.malaymail.com/news/singapore/2026/09/19/haze-returns-to-unhealthy-levels-in-singapore-as-smoke-drifts-from-indonesia/235793)
+
+> [!note]- Malaysia: Loke resigns as Transport Minister; DAP stays in Anwar's govt (Malay Mail)
+> Anthony Loke Siew Fook resigned as Transport Minister on Saturday in protest over King Sultan Ibrahim's conditional pardon allowing former PM Najib Razak to serve his remaining 1MDB sentence under house arrest. DAP, the largest Pakatan Harapan coalition partner, announced it would remain in Anwar Ibrahim's unity government despite the decision, citing the importance of political stability. The resignation is the most significant ministerial casualty from Friday's controversial royal pardon, though the coalition has held together. [Malay Mail](https://www.malaymail.com/news/malaysia/2026/09/19/loke-resigns-as-transport-minister-dap-stays-in-anwars-government-after-najibs-conditional-pardon/235804)
+
+> [!note]- World: Russia holds first Duma vote in seized Ukrainian territories (NPR)
+> Russia conducted State Duma parliamentary elections across 11 electoral districts in the illegally annexed regions of Donetsk, Luhansk, Kherson, and Zaporizhzhia from September 18–20, the first such vote since annexation over four years ago. Ukraine and the international community condemned the elections as illegal and coercive, with OSCE observers not invited to monitor the process. The move legislatively entrenches Russian sovereignty over occupied territory ahead of any future ceasefire negotiations. [NPR](https://www.npr.org/2026/09/19/g-s1-144169/russia-holds-parliamentary-vote-in-areas-it-seized-from-ukraine)
+
+> [!note]- World: 2026 Asian Games open tonight in Nagoya, Japan (Al Jazeera)
+> The Aichi–Nagoya 2026 Asian Games officially opened Saturday evening at Paloma Mizuho Stadium, with 45 national and territorial delegations competing across 45 sports until October 4. Nagoya becomes the third Japanese city to host the Games after Tokyo (1958) and Hiroshima (1994), putting Japan back at the centre of Asian multi-sport competition. Organisers faced scrutiny this week over a growing accommodation shortage for athletes, teams, and officials in the lead-up to the ceremony. [Al Jazeera](https://www.aljazeera.com/sports/2026/9/18/asian-games-2026-dates-venues-sports-and-a-growing-accommodation-crisis)
+
+> [!note]- Tech: Google Home MCP gives AI assistants control of smart home devices (TechCrunch)
+> Google launched early access to Home MCP (Model Context Protocol) on September 16, enabling AI assistants including Claude, ChatGPT, and Google's own Antigravity to monitor cameras, review history, and control Nest and Matter-compatible devices. Access is gated to Google Home Premium Advanced subscribers at $20/month in the US, marking the first major smart home integration via the MCP standard. The release positions MCP as a practical bridge between frontier AI models and real-world IoT infrastructure as the protocol gains industry-wide adoption. [TechCrunch](https://techcrunch.com/category/artificial-intelligence/)
+
+> [!note]- Economy: Warren Buffett steps down as Berkshire Hathaway chairman (CNBC)
+> Warren Buffett, 96, announced on September 18 he is stepping down as chairman of Berkshire Hathaway immediately, with son Howard Buffett succeeding him as chairman and Greg Abel continuing as CEO. In a letter to shareholders, Buffett wrote "Father Time always wins," closing a 61-year stewardship in which Berkshire posted a 19.7% compounded annual return — nearly double the S&P 500. The move completes Buffett's succession plan, following the CEO handover to Abel earlier this year. [CNBC](https://www.cnbc.com/2026/09/18/buffett-stepping-down-as-berkshire-chairman.html)
 
 > [!note]- [[09-18-26 Fri]]
 >
