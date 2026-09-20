@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-09-20T19:15
+updated: 2026-09-21T05:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -61,25 +61,48 @@ unread: true
 
 ## 2026-09
 
-### [[09-20-26 Sun]]
+### [[09-21-26 Mon]]
 
-> [!note]- AI: Amodei, Altman, and Musk back "pacing" — coordinated call for slower frontier AI development (BuildFastWithAI)
-> Anthropic CEO Dario Amodei, alongside OpenAI CEO Sam Altman and xAI founder Elon Musk, is publicly backing "pacing" — a deliberate slowing of frontier AI development to allow safety work to keep up. The alignment of all three leading lab executives is historically unusual and has sparked debate about whether the stance reflects genuine safety concern, regulatory positioning, or a moat strategy against newer entrants. The call comes as the EU AI Act's transparency rules entered full effect in August and as global AI governance discussions intensify ahead of the Trump–Xi summit on September 24. [Source](https://www.buildfastwithai.com/blogs/collection/ai-industry-news-trends)
+> [!note]- AI: StepFun Step 5 Preview debuts — 600B sparse MoE, 1M-token context, API open (AI Weekly)
+> StepFun officially unveiled Step 5 Preview on September 20, a 600-billion-parameter sparse mixture-of-experts model supporting a 1-million-token context window, with open API access from launch day. The release positions StepFun among the handful of labs running frontier-scale models, and the 1M context targets long-form reasoning and enterprise code tasks. [Source](https://aiweekly.co/ai-news-today)
 
-> [!note]- Tech: Stripe acquires OpenRouter for $7B+ — bets on AI model routing as payments infrastructure (CNBC)
-> Stripe has finalised its acquisition of OpenRouter, the AI gateway that lets developers route traffic across 400+ models from 80+ providers through a single API, for over $7 billion. The deal — Stripe's largest ever — positions it at the infrastructure layer where enterprises choose which AI model runs and at what cost, turning model routing into a billing and payments problem Stripe is uniquely suited to solve. OpenRouter's platform processed billions of AI API calls monthly before the deal closed. [Source](https://www.cnbc.com/2026/08/19/stripe-openrouter-fintech-ai-model-marketplace-.html)
+> [!note]- Tech: Apple unveils iPhone Duo — first foldable iPhone with expanded Apple Intelligence (StyleTech)
+> Apple's September 2026 hardware event introduced the iPhone Duo, the company's inaugural foldable smartphone, alongside updated iPhone models featuring deepened Apple Intelligence integration. The foldable is positioned as a productivity flagship and marks Apple's first serious bid in a form factor already held by Samsung and Google. [Source](https://www.styletech.net/post/top-news-in-tech-september-2026)
 
-> [!note]- Macro: Markets digest BoJ hike; gold at 6-week low as central banks hold; Trump–Xi summit in focus (Reuters)
-> Global markets entered Sunday with equities steady after last week's Bank of Japan rate hike to 1.25% rippled through bond yields, while gold fell to a six-week low as the Fed, ECB, and BoE all held rates steady with no near-term cuts signalled. Oil maintained a risk premium above $100 on Iran's ongoing Gulf blockade dynamics. Investor attention is shifting toward the September 24 Trump–Xi summit in Washington, which is expected to set the tone for trade and tech policy into year-end. [Source](https://www.cnbc.com/2026/09/17/stock-market-today-live-updates.html)
+> [!note]- Macro: Triple witching + BoJ hike weigh on equities; Fed raised rates first time since 2023; Trump–Xi summit Sept 24 (CNBC/Schwab)
+> US equities opened Monday lower as the Bank of Japan's rate hike rippled into bond yields and Friday's triple witching session elevated volatility. The S&P 500 and Dow are heading for a losing week after the Fed unanimously raised rates for the first time since 2023, penciling in one more hike in 2026 with futures pricing ~42% odds of two. Trump–Xi summit on September 24 looms as the week's market-defining event, with trade and AI policy both on the agenda. [Source](https://www.cnbc.com/2026/09/18/stock-market-next-week-outlook-for-sept-21-25-2026.html)
 
-> [!note]- World: Russia's 3-day Duma vote in occupied Ukraine concludes — Kyiv and West condemn elections (NPR)
-> Russia's three-day State Duma parliamentary elections across the illegally annexed regions of Donetsk, Luhansk, Kherson, and Zaporizhzhia concluded today (September 20), the first such vote since annexation over four years ago. Ukraine and Western governments condemned the process as coercive and illegitimate, with no OSCE observers invited. The vote entrenches Russian legislative sovereignty over occupied territory and signals Moscow's posture ahead of any ceasefire talks. [Source](https://www.npr.org/2026/09/19/g-s1-144169/russia-holds-parliamentary-vote-in-areas-it-seized-from-ukraine)
+> [!note]- World: Trump seals Greenland deal — US secures expanded military presence from Denmark (NPR)
+> President Trump announced a formal agreement with Denmark to significantly expand US military presence in Greenland, ending months of escalating pressure — including threats to take the island by force from the NATO ally. The deal stops short of territorial acquisition but grants new basing rights and strategic Arctic access. [Source](https://www.npr.org/sections/world/)
 
-> [!note]- Malaysia: UMNO to frame royal pardon backing as defending constitutional monarchy — coalition stabilises (FMT)
-> Following Saturday's resignation of Transport Minister Anthony Loke (DAP) over King Sultan Ibrahim's conditional pardon of former PM Najib Razak, UMNO is expected to publicly frame its support as a matter of upholding the constitutional monarchy rather than backing Najib personally. DAP has confirmed it will remain in Anwar Ibrahim's unity government, easing the most acute coalition tension. The pardon continues to generate political fallout with legal challenges expected, but immediate risk of government collapse appears limited. [Source](https://www.freemalaysiatoday.com/)
+> [!note]- Malaysia/Singapore: Singapore Arrival Card gets enhanced ICA mobile app integration from September 30 (ICA/TTW)
+> From September 30, travellers entering Singapore can complete the enhanced Arrival Card directly through the Immigration and Checkpoints Authority's official mobile app, streamlining pre-arrival processing. The update follows ongoing congestion warnings at Singapore–Malaysia land checkpoints, where digital integration remains incomplete at several major border nodes. [Source](https://www.travelandtourworld.com/news/article/ex4in5d1quli/)
 
-> [!note]- Science: Ozempic/Wegovy (semaglutide) linked to ~40% fewer asthma attacks in 80,000-patient study (ScienceDaily)
-> A large real-world UK study of over 80,000 patients found that semaglutide — the active ingredient in Ozempic and Wegovy — is associated with approximately 40% fewer asthma attacks and about 20% fewer COPD flare-ups. Presented at the European Respiratory Society Congress in Barcelona, the findings add to growing evidence that GLP-1 receptor agonists have potent anti-inflammatory effects beyond diabetes and weight management. Peer-reviewed publication is pending, but the effect size has prompted calls for urgent clinical trials targeting respiratory disease. [Source](https://www.sciencedaily.com/releases/2026/09/260909005155.htm)
+> [!note]- Science: DOE launches $215M race to build functional quantum computer by 2028 (ScienceDaily)
+> The US Department of Energy kicked off a $215 million competitive programme targeting a functional quantum computer within two years, spread across national laboratories and university consortia with deliverables tied to error-correction milestones. The timeline is among the most aggressive in US government quantum history. [Source](https://www.sciencedaily.com/)
+
+> [!note]- NKE: $35.55 (near 52-wk low $35.50) — exits S&P 100 today; Q1 FY26 earnings Sep 30; unrealised loss ~−$1,662 (Yahoo Finance)
+> Nike was officially removed from the S&P 100 index before market open on September 21, retaining its S&P 500 seat but triggering passive-fund rebalancing that has driven the stock to within $0.05 of its 52-week low. Morgan Stanley (Underweight, $31 PT) and BMO (Underperform, $30 PT) remain bearish ahead of Q1 FY2026 earnings on September 30. Position: 46 shares at $71.69 avg cost; est. unrealised loss ~−$1,662. [Source](https://finance.yahoo.com/quote/NKE/)
+
+> [!note]- [[09-20-26 Sun]]
+>
+> > [!note]- AI: Amodei, Altman, and Musk back "pacing" — coordinated call for slower frontier AI development (BuildFastWithAI)
+> > Anthropic CEO Dario Amodei, alongside OpenAI CEO Sam Altman and xAI founder Elon Musk, is publicly backing "pacing" — a deliberate slowing of frontier AI development to allow safety work to keep up. The alignment of all three leading lab executives is historically unusual and has sparked debate about whether the stance reflects genuine safety concern, regulatory positioning, or a moat strategy against newer entrants. The call comes as the EU AI Act's transparency rules entered full effect in August and as global AI governance discussions intensify ahead of the Trump–Xi summit on September 24. [Source](https://www.buildfastwithai.com/blogs/collection/ai-industry-news-trends)
+> >
+> > [!note]- Tech: Stripe acquires OpenRouter for $7B+ — bets on AI model routing as payments infrastructure (CNBC)
+> > Stripe has finalised its acquisition of OpenRouter, the AI gateway that lets developers route traffic across 400+ models from 80+ providers through a single API, for over $7 billion. The deal — Stripe's largest ever — positions it at the infrastructure layer where enterprises choose which AI model runs and at what cost, turning model routing into a billing and payments problem Stripe is uniquely suited to solve. OpenRouter's platform processed billions of AI API calls monthly before the deal closed. [Source](https://www.cnbc.com/2026/08/19/stripe-openrouter-fintech-ai-model-marketplace-.html)
+> >
+> > [!note]- Macro: Markets digest BoJ hike; gold at 6-week low as central banks hold; Trump–Xi summit in focus (Reuters)
+> > Global markets entered Sunday with equities steady after last week's Bank of Japan rate hike to 1.25% rippled through bond yields, while gold fell to a six-week low as the Fed, ECB, and BoE all held rates steady with no near-term cuts signalled. Oil maintained a risk premium above $100 on Iran's ongoing Gulf blockade dynamics. Investor attention is shifting toward the September 24 Trump–Xi summit in Washington, which is expected to set the tone for trade and tech policy into year-end. [Source](https://www.cnbc.com/2026/09/17/stock-market-today-live-updates.html)
+> >
+> > [!note]- World: Russia's 3-day Duma vote in occupied Ukraine concludes — Kyiv and West condemn elections (NPR)
+> > Russia's three-day State Duma parliamentary elections across the illegally annexed regions of Donetsk, Luhansk, Kherson, and Zaporizhzhia concluded today (September 20), the first such vote since annexation over four years ago. Ukraine and Western governments condemned the process as coercive and illegitimate, with no OSCE observers invited. The vote entrenches Russian legislative sovereignty over occupied territory and signals Moscow's posture ahead of any ceasefire talks. [Source](https://www.npr.org/2026/09/19/g-s1-144169/russia-holds-parliamentary-vote-in-areas-it-seized-from-ukraine)
+> >
+> > [!note]- Malaysia: UMNO to frame royal pardon backing as defending constitutional monarchy — coalition stabilises (FMT)
+> > Following Saturday's resignation of Transport Minister Anthony Loke (DAP) over King Sultan Ibrahim's conditional pardon of former PM Najib Razak, UMNO is expected to publicly frame its support as a matter of upholding the constitutional monarchy rather than backing Najib personally. DAP has confirmed it will remain in Anwar Ibrahim's unity government, easing the most acute coalition tension. The pardon continues to generate political fallout with legal challenges expected, but immediate risk of government collapse appears limited. [Source](https://www.freemalaysiatoday.com/)
+> >
+> > [!note]- Science: Ozempic/Wegovy (semaglutide) linked to ~40% fewer asthma attacks in 80,000-patient study (ScienceDaily)
+> > A large real-world UK study of over 80,000 patients found that semaglutide — the active ingredient in Ozempic and Wegovy — is associated with approximately 40% fewer asthma attacks and about 20% fewer COPD flare-ups. Presented at the European Respiratory Society Congress in Barcelona, the findings add to growing evidence that GLP-1 receptor agonists have potent anti-inflammatory effects beyond diabetes and weight management. Peer-reviewed publication is pending, but the effect size has prompted calls for urgent clinical trials targeting respiratory disease. [Source](https://www.sciencedaily.com/releases/2026/09/260909005155.htm)
 
 > [!note]- [[09-15-26 Tue]]
 
