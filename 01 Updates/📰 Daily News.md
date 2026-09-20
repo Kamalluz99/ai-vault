@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-09-21T05:00
+updated: 2026-09-21T05:17
 topic: daily news
 frequency: daily
 ongoing: false
@@ -64,22 +64,22 @@ unread: true
 ### [[09-21-26 Mon]]
 
 > [!note]- AI: StepFun Step 5 Preview debuts — 600B sparse MoE, 1M-token context, API open (AI Weekly)
-> StepFun officially unveiled Step 5 Preview on September 20, a 600-billion-parameter sparse mixture-of-experts model supporting a 1-million-token context window, with open API access from launch day. The release positions StepFun among the handful of labs running frontier-scale models, and the 1M context targets long-form reasoning and enterprise code tasks. [Source](https://aiweekly.co/ai-news-today)
+> StepFun officially unveiled Step 5 Preview on September 20, a 600-billion-parameter sparse mixture-of-experts model supporting a 1-million-token context window, with open API access from launch day. The release positions StepFun among the handful of labs running frontier-scale models and the 1M context targets long-form reasoning and enterprise code tasks. China's frontier model cadence continues despite ongoing US export restrictions on advanced chips. [Source](https://aiweekly.co/ai-news-today)
 
-> [!note]- Tech: Apple unveils iPhone Duo — first foldable iPhone with expanded Apple Intelligence (StyleTech)
-> Apple's September 2026 hardware event introduced the iPhone Duo, the company's inaugural foldable smartphone, alongside updated iPhone models featuring deepened Apple Intelligence integration. The foldable is positioned as a productivity flagship and marks Apple's first serious bid in a form factor already held by Samsung and Google. [Source](https://www.styletech.net/post/top-news-in-tech-september-2026)
+> [!note]- Tech: Apple unveils iPhone Duo — first foldable iPhone with deeper Apple Intelligence (StyleTech)
+> Apple's September 2026 event introduced the iPhone Duo, its inaugural foldable smartphone, alongside updated iPhone models with deepened Apple Intelligence integration. The foldable targets productivity and marks Apple's first serious entry into a form factor already held by Samsung and Google. The launch is the headline product story of Apple's fall 2026 cycle. [Source](https://www.styletech.net/post/top-news-in-tech-september-2026)
 
-> [!note]- Macro: Triple witching + BoJ hike weigh on equities; Fed raised rates first time since 2023; Trump–Xi summit Sept 24 (CNBC/Schwab)
-> US equities opened Monday lower as the Bank of Japan's rate hike rippled into bond yields and Friday's triple witching session elevated volatility. The S&P 500 and Dow are heading for a losing week after the Fed unanimously raised rates for the first time since 2023, penciling in one more hike in 2026 with futures pricing ~42% odds of two. Trump–Xi summit on September 24 looms as the week's market-defining event, with trade and AI policy both on the agenda. [Source](https://www.cnbc.com/2026/09/18/stock-market-next-week-outlook-for-sept-21-25-2026.html)
+> [!note]- Macro: Fed hikes first time since 2023; BoJ at 1.25%; Trump–Xi summit Sept 24 sets tone for year-end (CNBC)
+> US equities opened Monday lower as the Fed's first rate hike since 2023 — penciling in one more rise with futures at ~42% odds of two — combined with the Bank of Japan at 1.25% and Friday's triple witching to elevate bond yields and volatility. The S&P 500 and Dow are on track for a losing week, and market focus is fully on the September 24 Trump–Xi summit in Washington, where AI policy and trade tariffs are both on the agenda. [Source](https://www.cnbc.com/2026/09/18/stock-market-next-week-outlook-for-sept-21-25-2026.html)
 
-> [!note]- World: Trump seals Greenland deal — US secures expanded military presence from Denmark (NPR)
-> President Trump announced a formal agreement with Denmark to significantly expand US military presence in Greenland, ending months of escalating pressure — including threats to take the island by force from the NATO ally. The deal stops short of territorial acquisition but grants new basing rights and strategic Arctic access. [Source](https://www.npr.org/sections/world/)
+> [!note]- World: Trump-Denmark Greenland deal signed — US gains Arctic basing rights without annexation (NPR)
+> President Trump and Denmark formalised an agreement granting the US significantly expanded military basing rights in Greenland, ending months of escalating pressure including implied threats to take the island from the NATO ally. The deal stops short of territorial acquisition but secures strategic Arctic access at a moment of heightened great-power competition in the High North. Russia and China have both increased Arctic activity in 2026. [Source](https://www.npr.org/sections/world/)
 
-> [!note]- Malaysia/Singapore: Singapore Arrival Card gets enhanced ICA mobile app integration from September 30 (ICA/TTW)
-> From September 30, travellers entering Singapore can complete the enhanced Arrival Card directly through the Immigration and Checkpoints Authority's official mobile app, streamlining pre-arrival processing. The update follows ongoing congestion warnings at Singapore–Malaysia land checkpoints, where digital integration remains incomplete at several major border nodes. [Source](https://www.travelandtourworld.com/news/article/ex4in5d1quli/)
+> [!note]- Malaysia: September 2026 policy overhaul — RON95 reform, digital borders, new business rules take effect (TTW/Edge)
+> Malaysia's September 2026 changes represent the country's most comprehensive legislative and regulatory overhaul since the pandemic: targeted RON95 fuel subsidy rationalisation is set to save the government at least RM2.5 billion this year, while digital border integration and updated business rules also take effect this month. Bank Negara held the OPR at 2.75% for an eighth straight meeting as the Economy Ministry targets ~5% GDP growth for 2026. [Source](https://www.travelandtourworld.com/news/article/2z01p6hu8uyv/)
 
-> [!note]- Science: DOE launches $215M race to build functional quantum computer by 2028 (ScienceDaily)
-> The US Department of Energy kicked off a $215 million competitive programme targeting a functional quantum computer within two years, spread across national laboratories and university consortia with deliverables tied to error-correction milestones. The timeline is among the most aggressive in US government quantum history. [Source](https://www.sciencedaily.com/)
+> [!note]- Science: Youngest planet ever confirmed — Elias 2-24 b is under 1 million years old (Space.com)
+> Astronomers confirmed Elias 2-24 b as the youngest known planet, at less than one million years old and still embedded in the protoplanetary disk where it formed. The Jupiter-sized world gives scientists an unprecedented window into active planet formation, challenging models that assumed giant planets take millions of years to coalesce. Researchers say the discovery reshapes understanding of how quickly large planets can emerge in young stellar systems. [Source](https://www.space.com/)
 
 > [!note]- NKE: $35.55 (near 52-wk low $35.50) — exits S&P 100 today; Q1 FY26 earnings Sep 30; unrealised loss ~−$1,662 (Yahoo Finance)
 > Nike was officially removed from the S&P 100 index before market open on September 21, retaining its S&P 500 seat but triggering passive-fund rebalancing that has driven the stock to within $0.05 of its 52-week low. Morgan Stanley (Underweight, $31 PT) and BMO (Underperform, $30 PT) remain bearish ahead of Q1 FY2026 earnings on September 30. Position: 46 shares at $71.69 avg cost; est. unrealised loss ~−$1,662. [Source](https://finance.yahoo.com/quote/NKE/)
