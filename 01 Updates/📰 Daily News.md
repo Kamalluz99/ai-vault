@@ -103,6 +103,9 @@ unread: true
 > >
 > > [!note]- Science: Ozempic/Wegovy (semaglutide) linked to ~40% fewer asthma attacks in 80,000-patient study (ScienceDaily)
 > > A large real-world UK study of over 80,000 patients found that semaglutide — the active ingredient in Ozempic and Wegovy — is associated with approximately 40% fewer asthma attacks and about 20% fewer COPD flare-ups. Presented at the European Respiratory Society Congress in Barcelona, the findings add to growing evidence that GLP-1 receptor agonists have potent anti-inflammatory effects beyond diabetes and weight management. Peer-reviewed publication is pending, but the effect size has prompted calls for urgent clinical trials targeting respiratory disease. [Source](https://www.sciencedaily.com/releases/2026/09/260909005155.htm)
+> >
+> > [!note]- NKE: $35.55 (near 52-wk low $35.50) — Mbappé ends 20yr Nike deal, signs with On Holding; S&P 100 exit Monday (Yahoo Finance)
+> > Nike closed Friday at $35.55, just $0.05 above its 52-week low of $35.50, after French superstar Kylian Mbappé ended his ~20-year Nike partnership to sign with Swiss brand On Holding — Nike stock fell 0.4% on the news while On rose 2.4%. The loss of arguably the world's most marketable soccer player compounds Nike's brand-damage spiral ahead of Monday's S&P 100 removal and Q1 FY2026 earnings on September 30. Position: 46 shares at $71.69 avg cost; est. unrealised loss = 46 × ($35.55 − $71.69) = −$1,662. [Source](https://finance.yahoo.com/quote/NKE/)
 
 > [!note]- [[09-15-26 Tue]]
 
