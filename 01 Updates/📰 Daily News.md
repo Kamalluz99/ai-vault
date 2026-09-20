@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-09-20T05:16
+updated: 2026-09-20T19:15
 topic: daily news
 frequency: daily
 ongoing: false
@@ -80,6 +80,56 @@ unread: true
 
 > [!note]- Science: Ozempic/Wegovy (semaglutide) linked to ~40% fewer asthma attacks in 80,000-patient study (ScienceDaily)
 > A large real-world UK study of over 80,000 patients found that semaglutide — the active ingredient in Ozempic and Wegovy — is associated with approximately 40% fewer asthma attacks and about 20% fewer COPD flare-ups. Presented at the European Respiratory Society Congress in Barcelona, the findings add to growing evidence that GLP-1 receptor agonists have potent anti-inflammatory effects beyond diabetes and weight management. Peer-reviewed publication is pending, but the effect size has prompted calls for urgent clinical trials targeting respiratory disease. [Source](https://www.sciencedaily.com/releases/2026/09/260909005155.htm)
+
+> [!note]- [[09-15-26 Tue]]
+
+> > [!note]- NKE: ~$36.85 (flat) — S&P 100 removal in 6 days (Sep 21); Q1 FY26 earnings Sep 30; unrealised loss ~−$1,603 (Yahoo Finance)
+> > Nike trades near $36.85 Tuesday, broadly flat, with S&P 100 removal six days away on September 21 — a structural overhang as passive index funds rebalance out. Q1 FY2026 earnings are due September 30 with consensus at $0.27/share EPS; Morgan Stanley (Underweight, $31 PT) and BMO (Underperform, $30 PT) remain bearish. Position: 46 shares at $71.69 avg cost; est. unrealised loss ~−$1,603. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
+>
+> > [!breaking]- Science: DRC Ebola tops 7,200 cases, 3,475 dead — Congo's worst epidemic; spread may have peaked (Africanews)
+> > Congo's ongoing Ebola outbreak surpassed 7,200 confirmed cases and 3,475 deaths across 62 health zones in seven provinces, making it the worst Ebola epidemic in DRC history and the world's second-largest ever. The outbreak is caused by the Bundibugyo ebolavirus strain — for which Zaire-type vaccines offer limited protection — complicating containment in conflict-affected eastern and northern regions. Officials say transmission indicators suggest the outbreak peaked in late August, though spread into South Ubangi province bordering the Central African Republic raises cross-border contagion concerns. [Africanews](https://www.africanews.com/2026/09/14/drc-ebola-outbreak-passes-7000-cases-but-officials-say-spread-may-have-peaked/)
+>
+> > **Evening update**
+>
+> > [!breaking]- SG & Malaysia: Singapore hits first islandwide unhealthy PSI since 2019 — central at 154 (Malay Mail)
+> > Singapore's air quality crossed the unhealthy threshold across all regions on September 15 for the first time since 2019, with the 24-hour PSI reaching 154 in the central region — the worst reading since the 2019 haze season. Indonesia's forest and peatland fires in Kalimantan and southern Sumatra are driving thick transboundary smoke across the Strait of Malacca; Kuala Lumpur also ranked among the world's most polluted cities on the same day. The National Environment Agency advised residents to reduce outdoor activity and wear masks, with no meaningful improvement expected until regional winds shift or rainfall suppresses the fires — potentially stretching into October. [Malay Mail](https://www.malaymail.com/news/singapore/2026/09/15/singapore-records-first-islandwide-unhealthy-psi-since-2019-as-haze-worsens/235275)
+>
+> > [!note]- Malaysia: PM Anwar welcomed in Maldives; both nations reaffirm solidarity on Palestine (The Sun)
+> > Prime Minister Datuk Seri Anwar Ibrahim received a ceremonial welcome in Malé on September 15, opening a two-day state visit centred on bilateral trade, Islamic cooperation, and Indian Ocean regional resilience. In joint statements, Malaysia and the Maldives reaffirmed steadfast support for Palestinian statehood and called for an immediate ceasefire in Gaza, with Anwar describing the issue as close to both nations' hearts. The Maldives leg is part of Anwar's sustained diplomatic outreach following his BRICS Summit engagement in New Delhi earlier this month. [The Sun](https://thesun.my/news/malaysia-news/people-issues/pm-anwar-accorded-official-welcome-in-maldives/)
+>
+> > [!note]- World: Houthis squeeze Bab-el-Mandeb chokepoint, threatening second global shipping lane (Reuters)
+> > Iran-backed Houthi forces escalated their maritime campaign by striking near the Bab-el-Mandeb strait — a second critical shipping chokepoint after the Red Sea entry — raising fears of a near-complete disruption to the Asia–Europe trade corridor. The attacks compound the Saudi pipeline shutdown from earlier in the week that pushed Brent crude above $107/bbl, and maritime insurance premiums for Gulf transit are surging. Shipping operators are reviewing extended Cape of Good Hope diversions as geopolitical pressure on Gulf energy logistics intensifies. [Reuters](https://www.reuters.com/)
+>
+> > [!note]- World: NATO pledges increased Ukraine support ahead of Western summit; drone strike rattles Poland border (Euronews)
+> > NATO's secretary-general pledged fresh military and financial support for Ukraine on September 15, ahead of a planned Western leaders' summit, as Ukrainian forces reported intensified Russian shelling along the northeastern front. The pledge follows a Russian drone strike near the Ukraine-Poland border over the weekend that rattled NATO's eastern flank and prompted emergency consultations among alliance members. Western allies are under mounting pressure to sustain Ukrainian battlefield capacity as the conflict approaches its fourth winter with no diplomatic resolution in sight. [Euronews](https://www.euronews.com/video/2026/09/15/latest-news-bulletin-september-15th-2026-morning)
+>
+> > [!note]- Tech: Anthropic posts second straight profitable quarter — $559M operating income on $11.5B Q2 revenue (Bloomberg)
+> > Anthropic told investors it will post roughly $559 million in adjusted operating income for Q2 on $11.5 billion in revenue, marking a second consecutive profitable quarter for the AI safety lab. The figures reflect explosive monetisation of Claude through enterprise API demand and the rapid growth of AI coding tools, cementing Anthropic as one of the fastest-scaling companies in tech history. Separately, Meta reassigned approximately 7,000 employees into its AI division after cutting around 8,000 workers in May, signalling industry-wide consolidation of headcount around AI product teams. [Bloomberg](https://www.bloomberg.com/)
+>
+> > [!note]- Macro: Semiconductor index tumbles 5.9% on AI slowdown fears; US consumer sentiment slips to 47.8 (Bloomberg)
+> > The Philadelphia Semiconductor Index fell 5.9% on Tuesday — its sharpest single-day drop in months — as the AI safety debate sparked by Anthropic's weekend essay rattled investors, with Nvidia down 3.4% and Intel off 5.6%. The University of Michigan's September consumer sentiment index fell to 47.8 from 51.7 in August, its second straight monthly decline, as renewed fuel-price pressures and trade-policy uncertainty weighed on households. Together, the sector rotation out of semis and deteriorating consumer confidence add complexity to the Fed's rate-setting calculus ahead of Wednesday's decision. [Bloomberg](https://www.bloomberg.com/news/articles/2026-09-14/asian-stocks-to-fall-on-ai-key-us-yield-tops-5-markets-wrap)
+>
+> > [!note]- [[09-14-26 Mon]]
+
+> **Evening update**
+
+> [!note]- SG/MY: Singapore leads Southeast Asia with 27 fintech entries in CNBC Global Top 500 list (CNBC)
+> Singapore's fintech ecosystem claimed 27 places in CNBC and Statista's 2026 Global Top 500 Fintech Companies list — the highest count in Southeast Asia and fourth globally. The rankings span digital payments, wealthtech, and insurtech sectors, reinforcing Singapore's position as the region's premier financial technology hub. MAS chief Chia Der Jiun credited a decade of regulatory clarity and talent development for the result, which spans homegrown players alongside regional subsidiaries of global fintechs. [CNBC](https://www.cnbc.com/)
+
+> [!note]- Malaysia: SEA countries including Malaysia barred from 2026 Miss Universe; Thailand franchise pushes back (FMT)
+> Contestants from Malaysia, Singapore, Thailand, Indonesia, Vietnam, and Laos were declared ineligible for the 2026 Miss Universe pageant following a regional franchise licensing dispute. Thailand's national franchise holder publicly rejected the disqualification as a unilateral breach of contractual terms, while Malaysia's pageant organiser confirmed it had received no prior consultation. The episode highlights structural tensions within the Miss Universe Organisation as it integrates newly acquired regional franchises under a restructured global model. [Free Malaysia Today](https://www.freemalaysiatoday.com/)
+
+> [!note]- World: Israeli warplanes strike southern Lebanon, breaching US-mediated ceasefire framework (Euronews)
+> Israeli warplanes launched fresh airstrikes on the Nabatieh al-Fawqa area of southern Lebanon on Sunday, hitting the Old Square neighbourhood and prompting Lebanese officials to condemn the attacks as a violation of the US-brokered arrangement. The US urged restraint while Israeli officials cited ongoing Hezbollah movement near the border as justification. The strikes put renewed pressure on Middle East ceasefire diplomacy just four days before the Trump–Xi summit in Washington, where regional stability is a secondary agenda item. [Euronews](https://www.euronews.com/video/2026/09/20/latest-news-bulletin-september-20th-2026-morning)
+
+> [!note]- World: North Korea fires suspected ballistic missile into East Sea (Anadolu Agency)
+> North Korea launched what South Korea's Joint Chiefs of Staff and Japan's coast guard assessed as a ballistic missile into the East Sea on Sunday, the latest in a series of provocations amid elevated regional tensions. No injuries or damage to vessels were reported, and the missile's trajectory and range are under analysis by US and South Korean intelligence. The launch coincides with heightened diplomatic activity in the region ahead of major US–China talks. [Anadolu Agency](https://aa.com.tr/en/world/morning-briefing-sept-20-2026/4062300)
+
+> [!note]- Tech: Trump to appoint AI czar and create new 'AI Force' modelled on Space Force (AI Weekly)
+> President Trump announced plans to appoint a White House AI czar and establish an "AI Force" — a dedicated government branch modelled on the US Space Force — to coordinate national AI strategy and oversight. The announcement arrives as AI governance heads into the Trump–Xi summit on September 24 as a core agenda item, with the US and China competing for global AI leadership. Technology industry groups broadly welcomed the move, though oversight advocates called for explicit congressional accountability mechanisms for the new body. [AI Weekly](https://aiweekly.co/ai-news-today)
+
+> [!note]- Economy: South Korea semiconductor exports hit all-time record — up 209% YoY on AI infrastructure demand (CNBC)
+> South Korea's semiconductor exports surged 209% year-on-year in August to an all-time record, driven by insatiable demand for AI infrastructure components including HBM memory from SK Hynix and NAND from Samsung. Total goods exports climbed 68.7% year-on-year to $98.25 billion, illustrating how hyperscaler AI buildout is reshaping global trade flows. Analysts expect the elevated run rate to persist through year-end as major cloud providers maintain open capex budgets for AI compute expansion. [CNBC](https://www.cnbc.com/2026/09/17/stock-market-today-live-updates.html)
 
 > [!note]- [[09-19-26 Sat]]
 >
