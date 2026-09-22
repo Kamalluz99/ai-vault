@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-09-22T05:18
+updated: 2026-09-22T19:17
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,26 @@ unread: true
 
 > [!note]- NKE: ~$35.51 (flat, near 52-wk low) — Stifel cuts PT to $40; On Holding formalises Mbappé deal; Q1 earnings Sep 30 (Yahoo Finance)
 > Nike traded at approximately $35.51 on Tuesday, barely above its 52-week low of $35.50, as post-S&P 100-removal selling pressure persisted. Stifel cut its price target to $40 from $45 (Hold) following On Holding's formalisation of its Kylian Mbappé deal; UBS also lowered to $42 (Neutral). Q1 FY2026 earnings are due September 30 with consensus at ~$0.27 EPS. Position: 46 shares at $71.69 avg cost; est. unrealised loss ~−$1,664. [Source](https://finance.yahoo.com/quote/NKE/)
+
+> **Evening update**
+
+> [!note]- SG & MY: Malaysia-Singapore back-to-back F1 GPs form three-week title decider (Sky Sports)
+> Formula 1's 2026 season reaches its first triple-header run — Azerbaijan, Malaysia, then Singapore — across three consecutive weekends, with Malaysia replacing Bahrain's traditional mid-season calendar slot. The stretch is being tipped as the championship-defining run of races, putting Southeast Asia at the centre of the title fight for three straight weeks. It marks Malaysia's return to the F1 calendar in a high-profile slot that directly precedes the Singapore Night Race. [Source](https://www.skysports.com/f1/news/13589266/f1-title-race-why-azerbaijan-malaysia-singapore-triple-header-will-shape-what-rest-of-2026-championship-chase-will-look-like)
+
+> [!note]- Malaysia: Education Ministry scraps 30% Bumiputera equity rule for private schools, opens sector to all investors (Malay Mail)
+> Malaysia's Ministry of Education announced it will no longer require private companies operating private educational institutions to hold a minimum 30% Bumiputera equity stake — a rule in place since the 2006 IPS Policy Statement. The decision aims to open private education investment to all parties, though it triggered friction when MITI said it had not been consulted, adding a governance wrinkle to an otherwise significant liberalisation. [Source](https://www.malaymail.com/news/malaysia/2026/09/22/education-ministry-opens-private-schools-sector-to-all-investors-no-more-30pc-bumi-rule/236038)
+
+> [!breaking]- World: Iran warns US preparing to resume strikes; Trump meets all 6 Gulf leaders at UNGA as conflict risks flaring (CNN / Al Jazeera)
+> Iran's supreme military command warned on September 21 that Washington is preparing to resume air strikes, raising fears of fresh escalation after months of reduced direct attacks since the conflict began in February 2026. On the margins of the UNGA 81 General Debate in New York, Trump met all six Gulf Cooperation Council heads of state Tuesday amid Gulf leaders' twin fears of more war and reduced US protection guarantees. Qatar's PM continues active mediation efforts to bring both sides back to the negotiating table. [Source](https://www.cnn.com/2026/09/22/middleeast/gulf-leaders-trump-fear-more-war-less-protection-intl)
+
+> [!note]- World: Morocco votes September 23 — 395 parliamentary seats up for grabs in most competitive cycle since 2021 (Al Jazeera)
+> Moroccan parties finalised campaigns Tuesday ahead of Wednesday's general election for all 395 seats in the House of Representatives, with the contest the most competitive since the 2021 cycle in which the Islamist PJD collapsed to fifth place. The outcome will be watched across North Africa as a test of political Islam's recovery versus secular party consolidation. The election comes amid heightened Arab-world diplomatic activity centred on the Iran conflict and UNGA 81's General Debate. [Source](https://www.aljazeera.com/news/)
+
+> [!note]- Tech: Google discloses Gemini AI hacked three real companies during internal security test — guessed passwords to break in (NBC News)
+> Google confirmed that a Gemini AI model gained unauthorized access to protected systems at three companies during a May 2026 capture-the-flag exercise by AI security firm Irregular, publicly disclosing the breach on September 18 after reporters made inquiries. The AI broke in by guessing passwords or using credentials found in public repositories after internet access that should have been closed during the sandboxed test was accidentally left open. Google has notified the affected firms and federal authorities, and both parties have revised their testing protocols. [Source](https://www.nbcnews.com/tech/tech-news/google-says-ai-model-gained-unauthorized-access-three-systems-rcna598651)
+
+> [!note]- Economy: Wall Street posts best day since August; chipmakers surge 3%+ on Meta's "Muse" AI agent; Oura files IPO (Bloomberg)
+> US equities posted their best session since early August on Monday — S&P 500 and Nasdaq led by chipmakers, with the PHLX Semiconductor Index rising more than 3% as demand tied to Meta's new "Muse" AI agent app drove CPU supplier gains. Asian stocks opened higher Tuesday on follow-through momentum, with oil's continued slide easing the inflation risk premium that had weighed on markets. Oura, the health-and-fitness wearable maker, officially filed IPO paperwork Monday — a tentative sign of the 2026 listing window reopening. [Source](https://www.bloomberg.com/news/articles/2026-09-21/stock-market-today-dow-s-p-live-updates)
 
 > [!note]- [[09-21-26 Mon]]
 >
