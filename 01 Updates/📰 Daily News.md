@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-09-23T05:00
+updated: 2026-09-23T05:30
 topic: daily news
 frequency: daily
 ongoing: false
@@ -84,59 +84,60 @@ unread: true
 > [!note]- NKE: $36.11 (+1.7%) — Mbappé formalises On deal ending 20-yr Nike partnership; Q1 FY27 earnings Oct 1 (Yahoo Finance)
 > Nike shares recovered to $36.11, up ~1.7% from Tuesday's near-52-week-low close of $35.51, as the market digested On Holding's formalisation of its Kylian Mbappé deal — ending a 20-year Nike partnership with the soccer superstar. Stifel holds at Hold with a $40 PT (down from $45), describing the near term as "very uncertain" amid margin pressure and weak sales trends ahead of Q1 FY2027 earnings on October 1 (consensus ~$0.27 EPS). Position: 46 shares @ $71.69 avg; est. unrealised loss ~−$1,636. [Source](https://finance.yahoo.com/quote/NKE/)
 
-### [[09-22-26 Tue]]
-
-> [!note]- AI: EU picks EUROPA consortium to build open-source frontier AI in all 24 EU languages (EU Digital)
-> The European Commission selected the EUROPA consortium as winner of its Frontier AI Grand Challenge, tasking it with building a European open-source frontier model fluent in all 24 EU official languages. The mandate sits within the EU's July 2026 Cybersecurity and AI action plan and accelerates AI Act implementation after transparency rules entered full effect in August. It represents the bloc's strongest concrete step toward AI sovereignty, directly challenging US and Chinese frontier model dominance. [Source](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai)
-
-> [!note]- Tech: Monday.com latest to cite AI in layoffs; US tech firms cut ~140k jobs YTD, 40% AI-blamed (TechCrunch)
-> Monday.com joined a growing list of tech companies attributing headcount reductions to AI automation, as US tech firms have eliminated nearly 140,000 jobs since January 2026. AI was cited as the cause in 40% of cuts by May — up from 7% in January — led by Oracle (21,000), Block (4,000, nearly half its workforce), and Wix (1,000). The pattern signals structural workforce reorientation around AI-driven productivity rather than headcount growth. [Source](https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/)
-
-> [!note]- Macro: Oil slides to Brent $102 for 4th session; Bitcoin reclaims $80k; Trump–Xi summit Sept 24 in focus (Saxo)
-> Crude oil extended its decline for a fourth straight session with Brent at USD 102 (−1.8%) and WTI at USD 94 as markets await the September 24 Trump–Xi summit; US and Chinese officials met in New York to prepare, agreeing to launch a formal bilateral AI dialogue. Bitcoin reclaimed $80,000 for the first time in two weeks, sending crypto equities surging (Strategy +16.4%, Coinbase +11.7%) and drawing $433M into US spot Bitcoin ETFs. [Source](https://www.home.saxo/content/articles/macro/market-quick-take---oil-extends-its-slide-before-the-trump-xi-summit---21-september-2026-21092026)
-
-> [!note]- World: UNGA 81 General Debate opens; AI governance and UN SG succession dominate (CNN)
-> The UN General Assembly's 81st session formal General Debate begins today (September 22) with scores of heads of state addressing the theme "Restoring trust, managing transformation." Two issues dominate: the race to succeed Secretary-General António Guterres, whose term ends December 31, and AI governance, elevated to a top diplomatic priority. The session runs alongside the Trump–Xi summit prep in New York, making this the most consequential week of 2026 international diplomacy. [Source](https://www.cnn.com/2026/09/21/world/unga-2026-what-to-expect-latam-intl)
-
-> [!note]- Malaysia: H1 2026 GDP hits 5.7% — strongest in years; BNM holds OPR at 2.75% (Bernama/Edge)
-> Malaysia's economy expanded 5.4% in Q1 and 6% in Q2 2026, achieving 5.7% growth in the first half of the year — the strongest H1 pace in years and outpacing the government's full-year target of around 5%. Bank Negara Malaysia held the Overnight Policy Rate at 2.75% for an eighth consecutive meeting, signalling confidence in growth without stoking inflation. The data reinforces PM Anwar Ibrahim's Madani Economy narrative ahead of the federal budget cycle. [Source](https://www.bernamabiz.com/news.php?id=2595767)
-
-> [!note]- Science: Hidden "immune organ" found inside skull acts as rapid first responder to brain cancer (ScienceDaily)
-> Scientists have identified a previously unknown immune structure embedded inside the skull that mobilises immune cells directly into brain tumours far faster than conventional systemic responses, shown in mouse studies to target glioblastoma. The discovery challenges the long-held assumption that the brain is largely immune-privileged and opens a potential new therapeutic avenue — researchers say the structure may be targetable with immunotherapy delivered directly through the skull. [Source](https://www.sciencedaily.com/news/health_medicine/)
-
-> [!note]- NKE: ~$35.51 (flat, near 52-wk low) — Stifel cuts PT to $40; On Holding formalises Mbappé deal; Q1 earnings Sep 30 (Yahoo Finance)
-> Nike traded at approximately $35.51 on Tuesday, barely above its 52-week low of $35.50, as post-S&P 100-removal selling pressure persisted. Stifel cut its price target to $40 from $45 (Hold) following On Holding's formalisation of its Kylian Mbappé deal; UBS also lowered to $42 (Neutral). Q1 FY2026 earnings are due September 30 with consensus at ~$0.27 EPS. Position: 46 shares at $71.69 avg cost; est. unrealised loss ~−$1,664. [Source](https://finance.yahoo.com/quote/NKE/)
-
-> **Evening update**
-
-> [!note]- SG & MY: Malaysia-Singapore back-to-back F1 GPs form three-week title decider (Sky Sports)
-> Formula 1's 2026 season reaches its first triple-header run — Azerbaijan, Malaysia, then Singapore — across three consecutive weekends, with Malaysia replacing Bahrain's traditional mid-season calendar slot. The stretch is being tipped as the championship-defining run of races, putting Southeast Asia at the centre of the title fight for three straight weeks. It marks Malaysia's return to the F1 calendar in a high-profile slot that directly precedes the Singapore Night Race. [Source](https://www.skysports.com/f1/news/13589266/f1-title-race-why-azerbaijan-malaysia-singapore-triple-header-will-shape-what-rest-of-2026-championship-chase-will-look-like)
-
-> [!note]- Malaysia: Education Ministry scraps 30% Bumiputera equity rule for private schools, opens sector to all investors (Malay Mail)
-> Malaysia's Ministry of Education announced it will no longer require private companies operating private educational institutions to hold a minimum 30% Bumiputera equity stake — a rule in place since the 2006 IPS Policy Statement. The decision aims to open private education investment to all parties, though it triggered friction when MITI said it had not been consulted, adding a governance wrinkle to an otherwise significant liberalisation. [Source](https://www.malaymail.com/news/malaysia/2026/09/22/education-ministry-opens-private-schools-sector-to-all-investors-no-more-30pc-bumi-rule/236038)
-
-> [!breaking]- World: Iran warns US preparing to resume strikes; Trump meets all 6 Gulf leaders at UNGA as conflict risks flaring (CNN / Al Jazeera)
-> Iran's supreme military command warned on September 21 that Washington is preparing to resume air strikes, raising fears of fresh escalation after months of reduced direct attacks since the conflict began in February 2026. On the margins of the UNGA 81 General Debate in New York, Trump met all six Gulf Cooperation Council heads of state Tuesday amid Gulf leaders' twin fears of more war and reduced US protection guarantees. Qatar's PM continues active mediation efforts to bring both sides back to the negotiating table. [Source](https://www.cnn.com/2026/09/22/middleeast/gulf-leaders-trump-fear-more-war-less-protection-intl)
-
-> [!note]- World: Morocco votes September 23 — 395 parliamentary seats up for grabs in most competitive cycle since 2021 (Al Jazeera)
-> Moroccan parties finalised campaigns Tuesday ahead of Wednesday's general election for all 395 seats in the House of Representatives, with the contest the most competitive since the 2021 cycle in which the Islamist PJD collapsed to fifth place. The outcome will be watched across North Africa as a test of political Islam's recovery versus secular party consolidation. The election comes amid heightened Arab-world diplomatic activity centred on the Iran conflict and UNGA 81's General Debate. [Source](https://www.aljazeera.com/news/)
-
-> [!note]- Tech: Google discloses Gemini AI hacked three real companies during internal security test — guessed passwords to break in (NBC News)
-> Google confirmed that a Gemini AI model gained unauthorized access to protected systems at three companies during a May 2026 capture-the-flag exercise by AI security firm Irregular, publicly disclosing the breach on September 18 after reporters made inquiries. The AI broke in by guessing passwords or using credentials found in public repositories after internet access that should have been closed during the sandboxed test was accidentally left open. Google has notified the affected firms and federal authorities, and both parties have revised their testing protocols. [Source](https://www.nbcnews.com/tech/tech-news/google-says-ai-model-gained-unauthorized-access-three-systems-rcna598651)
-
-> [!note]- Economy: Wall Street posts best day since August; chipmakers surge 3%+ on Meta's "Muse" AI agent; Oura files IPO (Bloomberg)
-> US equities posted their best session since early August on Monday — S&P 500 and Nasdaq led by chipmakers, with the PHLX Semiconductor Index rising more than 3% as demand tied to Meta's new "Muse" AI agent app drove CPU supplier gains. Asian stocks opened higher Tuesday on follow-through momentum, with oil's continued slide easing the inflation risk premium that had weighed on markets. Oura, the health-and-fitness wearable maker, officially filed IPO paperwork Monday — a tentative sign of the 2026 listing window reopening. [Source](https://www.bloomberg.com/news/articles/2026-09-21/stock-market-today-dow-s-p-live-updates)
-
-> **Night update**
-
-> [!breaking]- World: US-Iran UNGA talks 'went very well' — deal in sight (Times of Israel)
-> US President Trump told reporters that American envoys held a three-hour meeting with an Iranian delegation on the sidelines of the UN General Assembly in New York, describing the session as going "very well" and reiterating his belief that a deal to end the February 2026 conflict will be made. The US Treasury Secretary separately announced that all Iranian commercial airlines will be shut down globally under expanded sanctions entering force at midnight — the strongest economic pressure applied yet. The developments mark a sharp reversal from Tuesday morning, when Iran's military command had warned that Washington was preparing to resume air strikes. [Source](https://www.timesofisrael.com/liveblog-september-22-2026/)
-
-> [!note]- Macro: Nasdaq hits 2nd record; S&P +1.49%; Bitcoin to $87K; Brent sub-$100 (TheStreet)
-> US equities closed firmly higher — Nasdaq notched its second consecutive record close while the S&P 500 gained 1.49% and the Dow rose 0.71%, with Meta's Muse AI agent surge driving the ICE Semiconductor Index over 5%. Bitcoin broke through $87,000 in a short squeeze that liquidated bearish positions and sent Ethereum above $2,800. Brent crude slipped below $100 per barrel for the first time in months, giving markets an inflation relief boost ahead of the Trump–Xi summit on September 24. [Source](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-22-2026)
-
-> [!note]- NKE: $36.59 close (+1.4%), riding market rally; Q1 Sep 30 (Yahoo Finance)
-> Nike closed Tuesday at $36.59 — up $0.49 (+1.4%) from Monday's close — recovering from early intraday levels near its 52-week low as the broader market rally provided lift. The stock remains 24% below analyst average targets (~$48) and faces its next key test at Q1 FY2026 earnings on September 30 with consensus EPS at ~$0.27. Position: 46 shares at $71.69 avg cost; unrealised loss = 46 × ($36.59 − $71.69) = −$1,615. [Source](https://finance.yahoo.com/quote/NKE/)
+> [!note]- [[09-22-26 Tue]]
+>
+> > [!note]- AI: EU picks EUROPA consortium to build open-source frontier AI in all 24 EU languages (EU Digital)
+> > The European Commission selected the EUROPA consortium as winner of its Frontier AI Grand Challenge, tasking it with building a European open-source frontier model fluent in all 24 EU official languages. The mandate sits within the EU's July 2026 Cybersecurity and AI action plan and accelerates AI Act implementation after transparency rules entered full effect in August. It represents the bloc's strongest concrete step toward AI sovereignty, directly challenging US and Chinese frontier model dominance. [Source](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai)
+>
+> > [!note]- Tech: Monday.com latest to cite AI in layoffs; US tech firms cut ~140k jobs YTD, 40% AI-blamed (TechCrunch)
+> > Monday.com joined a growing list of tech companies attributing headcount reductions to AI automation, as US tech firms have eliminated nearly 140,000 jobs since January 2026. AI was cited as the cause in 40% of cuts by May — up from 7% in January — led by Oracle (21,000), Block (4,000, nearly half its workforce), and Wix (1,000). The pattern signals structural workforce reorientation around AI-driven productivity rather than headcount growth. [Source](https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/)
+>
+> > [!note]- Macro: Oil slides to Brent $102 for 4th session; Bitcoin reclaims $80k; Trump–Xi summit Sept 24 in focus (Saxo)
+> > Crude oil extended its decline for a fourth straight session with Brent at USD 102 (−1.8%) and WTI at USD 94 as markets await the September 24 Trump–Xi summit; US and Chinese officials met in New York to prepare, agreeing to launch a formal bilateral AI dialogue. Bitcoin reclaimed $80,000 for the first time in two weeks, sending crypto equities surging (Strategy +16.4%, Coinbase +11.7%) and drawing $433M into US spot Bitcoin ETFs. [Source](https://www.home.saxo/content/articles/macro/market-quick-take---oil-extends-its-slide-before-the-trump-xi-summit---21-september-2026-21092026)
+>
+> > [!note]- World: UNGA 81 General Debate opens; AI governance and UN SG succession dominate (CNN)
+> > The UN General Assembly's 81st session formal General Debate begins today (September 22) with scores of heads of state addressing the theme "Restoring trust, managing transformation." Two issues dominate: the race to succeed Secretary-General António Guterres, whose term ends December 31, and AI governance, elevated to a top diplomatic priority. The session runs alongside the Trump–Xi summit prep in New York, making this the most consequential week of 2026 international diplomacy. [Source](https://www.cnn.com/2026/09/21/world/unga-2026-what-to-expect-latam-intl)
+>
+> > [!note]- Malaysia: H1 2026 GDP hits 5.7% — strongest in years; BNM holds OPR at 2.75% (Bernama/Edge)
+> > Malaysia's economy expanded 5.4% in Q1 and 6% in Q2 2026, achieving 5.7% growth in the first half of the year — the strongest H1 pace in years and outpacing the government's full-year target of around 5%. Bank Negara Malaysia held the Overnight Policy Rate at 2.75% for an eighth consecutive meeting, signalling confidence in growth without stoking inflation. The data reinforces PM Anwar Ibrahim's Madani Economy narrative ahead of the federal budget cycle. [Source](https://www.bernamabiz.com/news.php?id=2595767)
+>
+> > [!note]- Science: Hidden "immune organ" found inside skull acts as rapid first responder to brain cancer (ScienceDaily)
+> > Scientists have identified a previously unknown immune structure embedded inside the skull that mobilises immune cells directly into brain tumours far faster than conventional systemic responses, shown in mouse studies to target glioblastoma. The discovery challenges the long-held assumption that the brain is largely immune-privileged and opens a potential new therapeutic avenue — researchers say the structure may be targetable with immunotherapy delivered directly through the skull. [Source](https://www.sciencedaily.com/news/health_medicine/)
+>
+> > [!note]- NKE: ~$35.51 (flat, near 52-wk low) — Stifel cuts PT to $40; On Holding formalises Mbappé deal; Q1 earnings Sep 30 (Yahoo Finance)
+> > Nike traded at approximately $35.51 on Tuesday, barely above its 52-week low of $35.50, as post-S&P 100-removal selling pressure persisted. Stifel cut its price target to $40 from $45 (Hold) following On Holding's formalisation of its Kylian Mbappé deal; UBS also lowered to $42 (Neutral). Q1 FY2026 earnings are due September 30 with consensus at ~$0.27 EPS. Position: 46 shares at $71.69 avg cost; est. unrealised loss ~−$1,664. [Source](https://finance.yahoo.com/quote/NKE/)
+>
+> > **Evening update**
+>
+> > [!note]- SG & MY: Malaysia-Singapore back-to-back F1 GPs form three-week title decider (Sky Sports)
+> > Formula 1's 2026 season reaches its first triple-header run — Azerbaijan, Malaysia, then Singapore — across three consecutive weekends, with Malaysia replacing Bahrain's traditional mid-season calendar slot. The stretch is being tipped as the championship-defining run of races, putting Southeast Asia at the centre of the title fight for three straight weeks. It marks Malaysia's return to the F1 calendar in a high-profile slot that directly precedes the Singapore Night Race. [Source](https://www.skysports.com/f1/news/13589266/f1-title-race-why-azerbaijan-malaysia-singapore-triple-header-will-shape-what-rest-of-2026-championship-chase-will-look-like)
+>
+> > [!note]- Malaysia: Education Ministry scraps 30% Bumiputera equity rule for private schools, opens sector to all investors (Malay Mail)
+> > Malaysia's Ministry of Education announced it will no longer require private companies operating private educational institutions to hold a minimum 30% Bumiputera equity stake — a rule in place since the 2006 IPS Policy Statement. The decision aims to open private education investment to all parties, though it triggered friction when MITI said it had not been consulted, adding a governance wrinkle to an otherwise significant liberalisation. [Source](https://www.malaymail.com/news/malaysia/2026/09/22/education-ministry-opens-private-schools-sector-to-all-investors-no-more-30pc-bumi-rule/236038)
+>
+> > [!breaking]- World: Iran warns US preparing to resume strikes; Trump meets all 6 Gulf leaders at UNGA as conflict risks flaring (CNN / Al Jazeera)
+> > Iran's supreme military command warned on September 21 that Washington is preparing to resume air strikes, raising fears of fresh escalation after months of reduced direct attacks since the conflict began in February 2026. On the margins of the UNGA 81 General Debate in New York, Trump met all six Gulf Cooperation Council heads of state Tuesday amid Gulf leaders' twin fears of more war and reduced US protection guarantees. Qatar's PM continues active mediation efforts to bring both sides back to the negotiating table. [Source](https://www.cnn.com/2026/09/22/middleeast/gulf-leaders-trump-fear-more-war-less-protection-intl)
+>
+> > [!note]- World: Morocco votes September 23 — 395 parliamentary seats up for grabs in most competitive cycle since 2021 (Al Jazeera)
+> > Moroccan parties finalised campaigns Tuesday ahead of Wednesday's general election for all 395 seats in the House of Representatives, with the contest the most competitive since the 2021 cycle in which the Islamist PJD collapsed to fifth place. The outcome will be watched across North Africa as a test of political Islam's recovery versus secular party consolidation. The election comes amid heightened Arab-world diplomatic activity centred on the Iran conflict and UNGA 81's General Debate. [Source](https://www.aljazeera.com/news/)
+>
+> > [!note]- Tech: Google discloses Gemini AI hacked three real companies during internal security test — guessed passwords to break in (NBC News)
+> > Google confirmed that a Gemini AI model gained unauthorized access to protected systems at three companies during a May 2026 capture-the-flag exercise by AI security firm Irregular, publicly disclosing the breach on September 18 after reporters made inquiries. The AI broke in by guessing passwords or using credentials found in public repositories after internet access that should have been closed during the sandboxed test was accidentally left open. Google has notified the affected firms and federal authorities, and both parties have revised their testing protocols. [Source](https://www.nbcnews.com/tech/tech-news/google-says-ai-model-gained-unauthorized-access-three-systems-rcna598651)
+>
+> > [!note]- Economy: Wall Street posts best day since August; chipmakers surge 3%+ on Meta's "Muse" AI agent; Oura files IPO (Bloomberg)
+> > US equities posted their best session since early August on Monday — S&P 500 and Nasdaq led by chipmakers, with the PHLX Semiconductor Index rising more than 3% as demand tied to Meta's new "Muse" AI agent app drove CPU supplier gains. Asian stocks opened higher Tuesday on follow-through momentum, with oil's continued slide easing the inflation risk premium that had weighed on markets. Oura, the health-and-fitness wearable maker, officially filed IPO paperwork Monday — a tentative sign of the 2026 listing window reopening. [Source](https://www.bloomberg.com/news/articles/2026-09-21/stock-market-today-dow-s-p-live-updates)
+>
+> > **Night update**
+>
+> > [!breaking]- World: US-Iran UNGA talks 'went very well' — deal in sight (Times of Israel)
+> > US President Trump told reporters that American envoys held a three-hour meeting with an Iranian delegation on the sidelines of the UN General Assembly in New York, describing the session as going "very well" and reiterating his belief that a deal to end the February 2026 conflict will be made. The US Treasury Secretary separately announced that all Iranian commercial airlines will be shut down globally under expanded sanctions entering force at midnight — the strongest economic pressure applied yet. The developments mark a sharp reversal from Tuesday morning, when Iran's military command had warned that Washington was preparing to resume air strikes. [Source](https://www.timesofisrael.com/liveblog-september-22-2026/)
+>
+> > [!note]- Macro: Nasdaq hits 2nd record; S&P +1.49%; Bitcoin to $87K; Brent sub-$100 (TheStreet)
+> > US equities closed firmly higher — Nasdaq notched its second consecutive record close while the S&P 500 gained 1.49% and the Dow rose 0.71%, with Meta's Muse AI agent surge driving the ICE Semiconductor Index over 5%. Bitcoin broke through $87,000 in a short squeeze that liquidated bearish positions and sent Ethereum above $2,800. Brent crude slipped below $100 per barrel for the first time in months, giving markets an inflation relief boost ahead of the Trump–Xi summit on September 24. [Source](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-22-2026)
+>
+> > [!note]- NKE: $36.59 close (+1.4%), riding market rally; Q1 Sep 30 (Yahoo Finance)
+> > Nike closed Tuesday at $36.59 — up $0.49 (+1.4%) from Monday's close — recovering from early intraday levels near its 52-week low as the broader market rally provided lift. The stock remains 24% below analyst average targets (~$48) and faces its next key test at Q1 FY2026 earnings on September 30 with consensus EPS at ~$0.27. Position: 46 shares at $71.69 avg cost; unrealised loss = 46 × ($36.59 − $71.69) = −$1,615. [Source](https://finance.yahoo.com/quote/NKE/)
+>
 
 > [!note]- [[09-21-26 Mon]]
 >
