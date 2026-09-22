@@ -127,6 +127,17 @@ unread: true
 > [!note]- Economy: Wall Street posts best day since August; chipmakers surge 3%+ on Meta's "Muse" AI agent; Oura files IPO (Bloomberg)
 > US equities posted their best session since early August on Monday — S&P 500 and Nasdaq led by chipmakers, with the PHLX Semiconductor Index rising more than 3% as demand tied to Meta's new "Muse" AI agent app drove CPU supplier gains. Asian stocks opened higher Tuesday on follow-through momentum, with oil's continued slide easing the inflation risk premium that had weighed on markets. Oura, the health-and-fitness wearable maker, officially filed IPO paperwork Monday — a tentative sign of the 2026 listing window reopening. [Source](https://www.bloomberg.com/news/articles/2026-09-21/stock-market-today-dow-s-p-live-updates)
 
+> **Night update**
+
+> [!breaking]- World: US-Iran UNGA talks 'went very well' — deal in sight (Times of Israel)
+> US President Trump told reporters that American envoys held a three-hour meeting with an Iranian delegation on the sidelines of the UN General Assembly in New York, describing the session as going "very well" and reiterating his belief that a deal to end the February 2026 conflict will be made. The US Treasury Secretary separately announced that all Iranian commercial airlines will be shut down globally under expanded sanctions entering force at midnight — the strongest economic pressure applied yet. The developments mark a sharp reversal from Tuesday morning, when Iran's military command had warned that Washington was preparing to resume air strikes. [Source](https://www.timesofisrael.com/liveblog-september-22-2026/)
+
+> [!note]- Macro: Nasdaq hits 2nd record; S&P +1.49%; Bitcoin to $87K; Brent sub-$100 (TheStreet)
+> US equities closed firmly higher — Nasdaq notched its second consecutive record close while the S&P 500 gained 1.49% and the Dow rose 0.71%, with Meta's Muse AI agent surge driving the ICE Semiconductor Index over 5%. Bitcoin broke through $87,000 in a short squeeze that liquidated bearish positions and sent Ethereum above $2,800. Brent crude slipped below $100 per barrel for the first time in months, giving markets an inflation relief boost ahead of the Trump–Xi summit on September 24. [Source](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-22-2026)
+
+> [!note]- NKE: $36.59 close (+1.4%), riding market rally; Q1 Sep 30 (Yahoo Finance)
+> Nike closed Tuesday at $36.59 — up $0.49 (+1.4%) from Monday's close — recovering from early intraday levels near its 52-week low as the broader market rally provided lift. The stock remains 24% below analyst average targets (~$48) and faces its next key test at Q1 FY2026 earnings on September 30 with consensus EPS at ~$0.27. Position: 46 shares at $71.69 avg cost; unrealised loss = 46 × ($36.59 − $71.69) = −$1,615. [Source](https://finance.yahoo.com/quote/NKE/)
+
 > [!note]- [[09-21-26 Mon]]
 >
 > > [!note]- AI: China's cyberspace regulator pushes for agile AI oversight with built-in safeguards (Reuters)
