@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-09-23T19:16
+updated: 2026-09-23T23:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -103,6 +103,17 @@ unread: true
 
 > [!note]- Economy: Nasdaq hits record 27,244; US diesel cracks $6/gallon; flash PMIs land today (Rio Times)
 > The Nasdaq Composite rose 0.45% to a record 27,244.28 on Wednesday while the Dow slipped 0.36% to 51,863, with markets diverging along the AI-tech versus cyclicals axis. US diesel prices exceeded $6 per gallon for the first time, reaching $6.45/gallon on September 18, squeezing transport and logistics supply chains nationwide. The Federal Reserve's hawkish stance is holding yields and the dollar firm as September flash PMIs for Germany and the US land today, key growth tests after August's stronger-than-expected jobs print. [Source](https://www.riotimesonline.com/global-economy-briefing-september-23-2026/)
+
+> **Night update**
+
+> [!breaking]- Macro: 10-yr Treasury hits 5.1% — 19-yr high; Fed hikes; stocks reverse (CNBC)
+> The 10-year US Treasury yield surged to 5.104% on Wednesday — its highest level since July 2007 — driven by stronger-than-expected flash PMIs, hawkish Fed commentary, and a poor 5-year note auction. The Federal Reserve hiked rates for the first time in three years, raising the overnight rate to 3.75–4%, sending equities sharply lower: S&P 500 −0.75% to 7,706, Nasdaq −1.13% to 26,936, Dow −352 pts. Markets erased earlier gains entirely, reversing the morning rally. [Source](https://www.cnbc.com/2026/09/23/treasury-yields-oil-inflation-fed.html)
+
+> [!note]- Tech: OpenAI Sora API shuts down midnight tonight, ending $1B Disney deal (The Decoder)
+> OpenAI's Sora video-generation API closes permanently at midnight tonight (September 24 deadline), ending the company's $1 billion Disney deal to bring Marvel and Pixar characters into AI-generated clips. The consumer app shut down in April 2026 after Sora cost ~$1M/day to run while generating only $2.1M in total lifetime revenue. OpenAI is redirecting compute to coding tools and enterprise products; users have been emailed to download their content before the final cutoff. [Source](https://the-decoder.com/openai-sets-two-stage-sora-shutdown-with-app-closing-april-2026-and-api-following-in-september/)
+
+> [!note]- NKE: ~$35.94 (−0.5%) — yield shock drags close below morning read; Q1 earnings Oct 1 (Yahoo Finance)
+> Nike closed Wednesday at approximately $35.94 — below the $36.11 morning level — as the 10-year yield spike to 5.1% weighed on the broader market and sent high-multiple consumer names lower. Day range: $35.78–$36.62. Q1 FY2027 earnings remain on October 1 with consensus ~$0.27 EPS. Position: 46 shares @ $71.69 avg; est. unrealised loss ≈ −$1,645. [Source](https://finance.yahoo.com/quote/NKE/)
 
 > [!note]- [[09-22-26 Tue]]
 >
