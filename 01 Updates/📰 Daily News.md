@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-09-23T05:30
+updated: 2026-09-23T19:16
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,26 @@ unread: true
 
 > [!note]- NKE: $36.11 (+1.7%) — Mbappé formalises On deal ending 20-yr Nike partnership; Q1 FY27 earnings Oct 1 (Yahoo Finance)
 > Nike shares recovered to $36.11, up ~1.7% from Tuesday's near-52-week-low close of $35.51, as the market digested On Holding's formalisation of its Kylian Mbappé deal — ending a 20-year Nike partnership with the soccer superstar. Stifel holds at Hold with a $40 PT (down from $45), describing the near term as "very uncertain" amid margin pressure and weak sales trends ahead of Q1 FY2027 earnings on October 1 (consensus ~$0.27 EPS). Position: 46 shares @ $71.69 avg; est. unrealised loss ~−$1,636. [Source](https://finance.yahoo.com/quote/NKE/)
+
+> **Evening update**
+
+> [!note]- SG & MY: SG-MY Leaders Retreat seals RTS Link pact; JS-SEZ on track Dec 2026 (MFA)
+> Prime Ministers Lawrence Wong and Anwar Ibrahim signed a Supplementary Agreement to the RTS Link Bilateral Agreement at their 12th Leaders Retreat, locking in CIQ co-location arrangements ahead of the line's targeted December 2026 service commencement. The leaders reaffirmed progress on the Johor-Singapore Special Economic Zone and framed deeper economic integration as essential amid a challenging global environment. Over 10 million Singaporeans visited Malaysia in H1 2026, underscoring the depth of bilateral ties. [Source](https://www.mfa.gov.sg/newsroom/press-statements-transcripts-and-photos/joint-statement-by-pm-lawrence-wong-and-pm-dato--seri-anwar-ibrahim-at-the-12th-singapore-malaysia-leaders--retreat/)
+
+> [!note]- Malaysia: Shahmalarani wins karate gold at 2026 Aichi-Nagoya Asian Games (Malay Mail)
+> National karate exponent C. Shahmalarani secured Malaysia's third gold medal at the Aichi-Nagoya 2026 Asian Games by winning the women's below-50kg kumite event today. Earlier, e-sports athlete Taj Izrin Aiman won Malaysia's second gold in Gran Turismo 7, earning personal congratulations from PM Anwar Ibrahim who called it an inspiration for the nation's youth. Bursa Malaysia retreated at open as investors took profits on recent gains amid ongoing US-Iran diplomatic signals. [Source](https://www.malaymail.com/news/sports/2026/09/23/asian-games-shahmalarani-secures-malaysias-third-gold-with-karate-victory/236268)
+
+> [!breaking]- World: Iran rebukes Trump UNGA threats; warns US faces strategic impasse (Press TV)
+> Iranian Armed Forces issued a formal response to President Trump's UN General Assembly address, saying his latest threats prove the US is facing a strategic impasse in its confrontation with Iran. The exchange raised tensions on the sidelines of UNGA 81, running alongside Xi Jinping's three-day US state visit and the anticipated September 24 Trump-Xi summit. Gulf leaders present in New York continued bilateral diplomacy with Trump amid dual fears of renewed US-Iran strikes and reduced US security guarantees. [Source](https://www.presstv.co.uk/Detail/2026/09/23/776831/Press-TV-s-news-headlines-)
+
+> [!note]- World: France hosts landmark UN Security Council session on AI and global security (AI Weekly)
+> France, holding the September 2026 UN Security Council presidency, convened a first-ever 15-member session dedicated to artificial intelligence and international security on September 23. OpenAI CEO Sam Altman and senior representatives from Anthropic, DeepSeek, and Moonshot are expected to address the council on AI risks and governance frameworks. The session marks the first time the Security Council has formally placed AI on the peace-and-security agenda, reflecting accelerating anxiety about frontier model geopolitics. [Source](https://aiweekly.co/ai-news-today)
+
+> [!note]- Tech: OpenAI launches GPT-6 Sol and Luna at half the price of GPT-5.6 (LLM Stats)
+> OpenAI released GPT-6 Sol and Luna on Tuesday, priced at $2/$10 per million tokens, half the cost of the prior GPT-5.6 tier. Sol is positioned as the fast, cost-efficient option while Luna targets richer reasoning workloads, extending OpenAI's strategy of deploying frontier capability at declining price points. The launch follows sustained competitive pressure from DeepSeek and Anthropic's Claude series, keeping the frontier model price war accelerating heading into Q4 2026. [Source](https://llm-stats.com/llm-updates)
+
+> [!note]- Economy: Nasdaq hits record 27,244; US diesel cracks $6/gallon; flash PMIs land today (Rio Times)
+> The Nasdaq Composite rose 0.45% to a record 27,244.28 on Wednesday while the Dow slipped 0.36% to 51,863, with markets diverging along the AI-tech versus cyclicals axis. US diesel prices exceeded $6 per gallon for the first time, reaching $6.45/gallon on September 18, squeezing transport and logistics supply chains nationwide. The Federal Reserve's hawkish stance is holding yields and the dollar firm as September flash PMIs for Germany and the US land today, key growth tests after August's stronger-than-expected jobs print. [Source](https://www.riotimesonline.com/global-economy-briefing-september-23-2026/)
 
 > [!note]- [[09-22-26 Tue]]
 >
