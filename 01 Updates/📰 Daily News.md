@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-09-24T05:00
+updated: 2026-09-24T19:17
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,26 @@ unread: true
 
 > [!note]- NKE: $35.94 (−0.5%) — near 52-wk low $35.35; Oppenheimer cuts PT $60→$52, Barclays $52→$48; Q1 earnings Oct 1 (Yahoo Finance)
 > Nike trades at $35.94 — near its 52-week low of $35.35 — as analyst downgrades pile up ahead of Q1 FY2027 earnings on October 1 (consensus ~$0.27 EPS). Oppenheimer cut its price target to $52 from $60 and Barclays to $48 from $52, both citing weak sales, heavier promotions, and turnaround execution risk. Nike was also removed from the S&P 100. Position: 46 shares @ $71.69 avg; est. unrealised loss ~−$1,644. [Source](https://finance.yahoo.com/quote/NKE/)
+
+> **Evening update**
+
+> [!note]- SG & MY: FIFA ASEAN Cup kicks off in Jakarta — Malaysia vs Bangladesh, Singapore faces Indonesia (Malay Mail)
+> The inaugural FIFA ASEAN Cup Division 1 stage opens Thursday at Jakarta's Gelora Bung Karno Stadium, with Malaysia facing Bangladesh at 4pm local time before hosts Indonesia meet Singapore four hours later. The tournament is the region's first FIFA-sanctioned national-team competition and has drawn significant interest, with banners and security deployed across the venue ahead of the matches. Both Malaysia and Singapore will be eager for strong starts as they look to advance from the group stage. [Source](https://www.malaymail.com/news/sports/2026/09/24/malaysia-face-bangladesh-as-fifa-asean-cup-gets-set-for-jakarta-showdown/236381)
+
+> [!note]- Malaysia: Asian Games 2026 — double gold lifts Malaysia to 8th in medal standings (Malay Mail)
+> Malaysia struck two gold medals on Day 5 of the Aichi-Nagoya 2026 Asian Games — Gran Turismo 7 e-sports (Taj Izrin Aiman) and women's karate kumite (C. Shahmalarani) — climbing to 8th overall with three golds, one silver and five bronzes. The double haul cements Malaysia's strongest Asian Games performance in years and follows PM Anwar Ibrahim's congratulations to both athletes. Malaysia is now targeting its best-ever finish on the Games' final medal table. [Source](https://www.malaymail.com/news/sports/2026/09/24/asian-games-2026-malaysia-strike-double-gold-climb-to-top-10-in-medal-standings/236303)
+
+> [!note]- World: Trump-Xi Washington summit delivers limited wins — trade truce extended, AI dialogue formalised (CNN)
+> The Trump-Xi White House summit produced a narrowly positive outcome: an extension of the bilateral trade truce, a framework to formalise the US-China AI governance dialogue, and minor fentanyl and military hotline initiatives. No major breakthroughs emerged on Taiwan, critical minerals, or semiconductor export controls. CNN analysis described the summit as struggling to match its "grand pageantry" amid deep structural US-China rivalry, but credited it with preventing further escalation. [Source](https://www.cnn.com/2026/09/24/politics/trump-xi-meeting-china-ai)
+
+> [!note]- World: Iran war enters war-of-attrition phase; Strait of Hormuz closed to Western shipping since May (Al Jazeera)
+> The 2026 Iran conflict has transitioned into a grinding war of attrition after the June MoU ceasefire formally collapsed in August, with the US and Iran exchanging limited strikes under a renewed sanctions campaign. Lloyd's List Intelligence records no Western-allied commercial transits through the Strait of Hormuz since 4 May, effectively cutting a key global oil artery and pressuring energy prices. Iran's president told UNGA 81 on Thursday that his country is a victim of US aggression, signalling no near-term diplomatic resolution. [Source](https://www.aljazeera.com/news/liveblog/2026/9/20/iran-war-live-tehran-calls-for-end-to-war-lifting-of-us-naval-blockade)
+
+> [!note]- Tech: Anthropic releases Claude Opus 5.5 — Fable 5.1-class performance at $4/$20 per million tokens (LLM Stats)
+> Anthropic launched Claude Opus 5.5, the first model in its new Claude 5.5 family, priced at $4 per million input tokens and $20 per million output tokens — delivering performance comparable to the higher-end Claude Fable 5.1 at substantially lower operating cost. The release coincides with Salesforce's unveiling of AIforce at Dreamforce 2026 and Google's Gemini antigravity-preview-09-2026 managed-agent harness update, marking an accelerating phase of price compression and enterprise AI tooling expansion. [Source](https://llm-stats.com/llm-updates)
+
+> [!note]- Economy: Dollar firms at 101.18; 10-yr US yield holds 5.116% (19-yr high); gold drops 1.72% to $4,289 (Rio Times)
+> The US dollar index held at 101.184 and the 10-year Treasury yield maintained 5.116% — its highest level since 2007 — on Thursday, as markets absorbed Wednesday's Fed rate hike and stronger-than-expected flash PMI data. Gold fell 1.72% to $4,289/oz as the firmer dollar and elevated real yields eroded safe-haven demand. Brazil's real and other EM currencies came under significant pressure from the yield environment, with emerging-market assets broadly retreating. [Source](https://www.riotimesonline.com/global-economy-briefing-september-24-2026/)
 
 > [!note]- [[09-23-26 Wed]]
 >
