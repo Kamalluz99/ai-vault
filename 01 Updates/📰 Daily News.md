@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-09-26T05:00
+updated: 2026-09-26T05:19
 topic: daily news
 frequency: daily
 ongoing: false
@@ -63,26 +63,23 @@ unread: true
 
 ### [[09-26-26 Sat]]
 
-> [!note]- AI: MIT flying robot hits 450% speed boost with new AI control system (ScienceDaily)
-> MIT engineers unveiled an AI control system that increases the speed of their tiny flapping-wing robot by approximately 450%, enabling it to execute 10 somersaults in 11 seconds with insect-like agility. The breakthrough uses model predictive control trained in simulation and transferred to the physical robot, allowing it to navigate complex environments far more dynamically than before. The work marks a significant advance in micro-aerial vehicle performance through learned locomotion control. [Source](https://www.sciencedaily.com/news/computers_math/artificial_intelligence/)
+> [!note]- AI: Anthropic releases Claude Opus 5.5 — Fable-level intelligence at 40% lower cost (LLM Stats)
+> Anthropic launched Claude Opus 5.5, achieving near-Fable 5.1 performance on most tasks at approximately 40% lower cost than Opus 5, with self-reported Terminal-Bench of 66.4% and SWE-bench Pro of 89.9%. The release lands alongside OpenAI’s GPT-6 Astra and a same-price Grok 4.7 upgrade, marking a dense week of frontier model shipping. The efficiency gain continues a structural trend of rapid price-performance improvement at the top of the model hierarchy. [Source](https://llm-stats.com/ai-news)
 
-> [!note]- Tech: Mark Zuckerberg debuts $1,299 Meta VR Glasses and Muse Charm AI pendant in agentic push (The Verge)
-> Meta CEO Mark Zuckerberg unveiled $1,299 VR Glasses and a new Muse Charm wearable pendant, expanding Meta’s AI agent hardware ecosystem beyond the Quest headset line. The Muse Charm is designed as a passive, always-on AI companion worn around the neck, complementing the VR Glasses in Meta’s strategy to build ambient AI experiences. The products position Meta’s hardware lineup to compete with Apple’s Vision Pro and emerging AI wearable devices. [Source](https://www.theverge.com/)
+> [!note]- Tech: Uber cuts 250+ jobs at SF HQ; 2026 tech layoffs surpass 225,000 amid AI displacement (TechCo)
+> Uber is cutting more than 250 roles at its San Francisco headquarters, the latest in a wave of 2026 tech layoffs that has now impacted at least 225,122 workers across the industry. AI-driven efficiency gains, macroeconomic headwinds, and geopolitical uncertainty are the primary drivers cited — earlier this year, Jack Dorsey’s Block cut nearly half its workforce and Oracle made 21,000 cuts over 12 months. The pattern reflects a structural shift rather than a cyclical correction, with headcount reductions outpacing new hiring across the sector. [Source](https://tech.co/news/tech-companies-layoffs)
 
-> [!note]- Macro: S&P 500 +1.49% to 7,764; Nasdaq record 27,122; Fed hikes first time since 2023; yields at 19-yr highs (CNBC)
-> US equities rallied with the S&P 500 closing at 7,764.70 (+1.49%) and the Nasdaq at a record 27,122.09 (+2.26%) as AI and chip stocks led gains — AMD hit $1T market cap (+10%) and Intel surged 12%. The Federal Reserve voted to raise the federal funds rate at its September meeting, the first hike since 2023, as steady jobs data and elevated energy from ongoing Iran–Hormuz tensions kept inflation in focus. The 10-year yield remains near 19-year highs with Brent crude holding above $106. [Source](https://www.cnbc.com/2026/09/20/stock-market-today-live-updates.html)
+> [!note]- Macro: US-Iran talks explore Hormuz deal; oil drops; gold at $4,293 as Oct rate hike odds hit 70% (FX Street)
+> Oil fell Friday after US and Iranian negotiators in New York — on UNGA sidelines — reportedly explored a deal to reopen the Strait of Hormuz in exchange for eased sanctions, the first credible diplomatic signal since the February war began. Gold eased to $4,293/oz as markets now price a ~70% chance of a Fed rate hike in October and ~95% in December on persistent inflation and resilient jobs data. The 10-year Treasury yield remains near its highest level since 2007. [Source](https://www.fxstreet.com/analysis/its-2026-and-stocks-rise-gold-hits-4-391-oil-up-cryptos-up-bonds-steady-202601021229)
 
-> [!note]- World: US airstrikes hit IRGC targets in Iran; Venezuela’s acting president makes first UNGA appearance (Al Jazeera)
-> The US carried out additional airstrikes on Islamic Revolutionary Guard Corps targets in Iran in response to continued attacks on commercial shipping in the Strait of Hormuz and on US forces in the region. At UNGA 81, Venezuela’s acting president made her first address to the General Assembly since taking power, pledging elections and stating the people will determine the “right moment” for transition. Both developments unfolded against the backdrop of the UNGA General Debate week in New York. [Source](https://www.aljazeera.com/news/)
+> [!note]- World: Pakistan brokers two-week Iran ceasefire; Islamabad Talks begin as UNGA diplomacy stalls (Deutsche Bank Research)
+> Pakistan has brokered a two-week ceasefire in the ongoing Iran war and is hosting the Islamabad Talks — a multi-party channel involving Iran, the US, and Gulf states — while managing domestic protests and an energy crisis linked to the conflict. At UNGA in New York, Secretary-General Guterres chaired his final General Debate amid deep divisions over both Iran and Ukraine, with no deal in sight. The ceasefire marks the first pause in fighting since joint US-Israeli strikes on February 28 killed Iran’s Supreme Leader. [Source](https://www.dbresearch.com/PROD/IE-PROD/PROD0000000000643896/This_Month_in_Geopolitics:_September_2026.PDF)
 
-> [!note]- SG & MY: Le Tour de Langkawi 2026 routes around Shah Alam close from 11am Sunday for Stage 1 (The Sun)
-> Several roads around Shah Alam will be temporarily closed starting 11am on Sunday, September 27, for the opening stage of Le Tour de Langkawi 2026 — one of Asia’s oldest and most prestigious professional cycling races. The ADMM-Plus Exercise Trident Resolve, a 19-nation military exercise involving 2,200 personnel from ASEAN Defence Ministers’ Meeting Plus countries, also concluded today in Banten, Indonesia after running September 20–26. [Source](https://thesun.my/)
+> [!note]- Malaysia: MACC detains ex-CEO and CFO in RM370M Tabung Haji plantation share deal probe (Malay Mail)
+> The Malaysian Anti-Corruption Commission (MACC) arrested a former CEO and CFO linked to a RM370 million plantation share deal under scrutiny by the Tabung Haji Royal Commission of Inquiry. The RCI is examining investment decisions and governance lapses at the state pilgrim fund, and the arrests signal the investigation is entering its enforcement phase. Commentary in local media has called on Umno — which governed during the period under review — to make an honest accounting of its role in the fund’s management failures. [Source](https://www.malaymail.com/)
 
-> [!note]- Science: Neptune at opposition today — Harvest Moon rises alongside Saturn and Neptune (NASA/EarthSky)
-> Neptune reaches opposition on September 26 — its closest and brightest point relative to Earth for 2026, though binoculars or a telescope are still needed to see the ice giant. The Harvest Moon rises tonight in company with both Saturn and Neptune, creating a rare multi-planet viewing opportunity in the late-September sky. In other science news, a new needle-thin brain implant capable of recording neural activity, delivering drugs, and stimulating multiple brain regions using a single flexible fibre was announced this week. [Source](https://science.nasa.gov/solar-system/skywatching/whats-up-september-2026-skywatching-tips-from-nasa/)
-
-> [!note]- NKE: $35.99 (−0.3%) — BofA downgrades to Hold, cuts PT to $30; Mbappé ends 20-yr Nike deal; Q1 FY27 earnings Oct 1 (Yahoo Finance)
-> Nike trades at $35.99, near its 52-week low of $35.35, as Bank of America downgraded the stock to Hold and slashed its price target to $30 — the lowest on the Street — citing a longer-than-expected turnaround timeline. Kylian Mbappé’s formalized deal with On Holding marks the definitive end of his 20-year Nike partnership, a notable brand and marketing blow. Q1 FY2027 earnings are due October 1 (consensus ~$0.27 EPS). Position: 46 shares @ $71.69 avg; unrealised loss ~−$1,642. [Source](https://finance.yahoo.com/quote/NKE/)
+> [!note]- Science: First microblazar found in Milky Way — stellar black hole jets firing near-light-speed plasma at Earth (SciTechDaily)
+> Astronomers have identified the first microblazar ever detected inside the Milky Way: a stellar-mass black hole whose relativistic plasma jets are aimed directly at Earth, a miniature version of the powerful blazars previously observed only at cosmological distances. The discovery provides an unprecedented close-up view of jet formation and particle acceleration physics. Separately, a new study found that long COVID may damage dopamine-releasing neurons in the brain, potentially explaining persistent fatigue, slowed movement, and memory difficulties in millions of patients. [Source](https://scitechdaily.com/)
 
 > [!note]- [[09-25-26 Fri]]
 >
