@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-09-29T05:18
+updated: 2026-09-28T05:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -121,6 +121,29 @@ unread: true
 >
 > > [!note]- Economy: US markets open defensively; PCE data Thursday and Micron earnings set up key week (CNBC)
 > > US equity markets opened Monday in a defensive posture, with a notable rotation out of high-growth technology and precious metals into energy and consumer staples as investors positioned ahead of a data-heavy week. The Bureau of Economic Analysis releases August PCE inflation data Thursday — the Fed's preferred gauge — expected to shape whether another rate hike before year-end is warranted after September's 25 bp increase. Micron Technology reports Q4 2026 earnings Tuesday with a trillion-dollar market cap, making it a bellwether for the broader AI hardware cycle. [Source](https://stockmarketwatch.com/live/stock-market-today)
+>
+> > **Second run**
+>
+> > [!note]- AI: Anthropic releases Claude Sonnet 5.5 — 30% faster at same Sonnet 5 price (TechCrunch)
+> > Anthropic launched Claude Sonnet 5.5 on September 28, positioning it as the fastest, lowest-cost option in the Claude 5.5 family — generating output more than 30% faster while maintaining Sonnet 5's unchanged pricing of $2 input / $10 output per million tokens. The model is optimised for well-scoped everyday tasks including bug fixes, documents, slides, spreadsheets, and design work, and is already available on AWS, Google Cloud, and Microsoft Azure. Anthropic said Claude Haiku 5.5, targeting high-volume, cost-sensitive applications, will join the family in the coming weeks. [Source](https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/)
+>
+> > [!note]- Tech: Intuit cuts 3,000 roles (17% of workforce) in AI-driven restructuring (tech.co)
+> > Intuit announced it is eliminating approximately 3,000 positions — about 17% of its global workforce — citing AI automation as the primary driver as it reconfigures operations around AI-powered workflows for TurboTax, QuickBooks, and Credit Karma. The move adds to a mounting 2026 total of 225,000+ tech sector job losses across 519 layoff events, with AI cited as a contributing factor in roughly 40% of cuts. Intuit joins Oracle, Microsoft Xbox, and Uber in the latest wave of large-scale workforce reductions driven by AI-enabled efficiency gains. [Source](https://tech.co/news/tech-companies-layoffs)
+>
+> > [!note]- Macro: S&P 500 −0.77% to 7,684; gold −3.84% to $4,155; Bitcoin −1.23% to $83,492 (Investrade)
+> > US equities fell broadly Monday — S&P 500 −0.77% to 7,683.69, Dow −0.67% to 51,481.51, Nasdaq −0.92% to 26,820.38 — as Iran-Hormuz tensions kept oil elevated and 10-year Treasury yields near two-decade highs. Gold dropped sharply 3.84% to $4,155.20 on a stronger dollar and tightening expectations, while Bitcoin fell 1.23% to $83,492 on risk-off sentiment; WTI crude held at $92.60/bbl (+0.21%). Key weekly catalysts: August PCE inflation Wednesday and the September jobs report Friday. [Source](https://investrade.com/market-review-september-28-2026/)
+>
+> > [!breaking]- World: Bangkok floods Day 4 — 700K affected, 8 dead, $327M damage; cabinet declares holiday (US News)
+> > Bangkok entered its fourth consecutive day as a declared disaster zone Monday, with 329,000 households (≈700,000 people) across 25 provinces affected after 320mm of rain — nearly the city's entire September average — fell in just three days. Thailand's Cabinet declared September 28–29 a special public holiday in Bangkok, Pathum Thani, Samut Prakan, and Nonthaburi, with more than 3,000 people sheltered across 200+ emergency centres and 8 deaths recorded since September 16. Economic damage is estimated at 11 billion baht ($327M) and rising; floodwaters were beginning to ease by Monday evening. [Source](https://www.usnews.com/news/world/articles/2026-09-28/thousands-huddle-in-bangkok-shelters-as-thai-flood-damages-seen-at-320-million)
+>
+> > [!breaking]- SG & MY: Tun Dr Siti Hasmah laid to rest at National Mausoleum; Mahathir weeps after 70 years (Malay Mail)
+> > Tun Dr Siti Hasmah Mohd Ali, wife of former PM Tun Dr Mahathir Mohamad, was accorded a state funeral and laid to rest at the National Mausoleum in Putrajaya on Monday, buried beside Tun Endon Mahmood as thousands filled Masjid As-Syarif in Taman Sungai Besi Indah — funeral prayers were held twice due to the enormous crowd. She passed away at the National Heart Institute aged 100; Tun Mahathir, 101, wept at her graveside, marking the end of a 70-year marriage. PM Anwar Ibrahim directed full state funeral honours with military participation. [Source](https://www.malaymail.com/news/malaysia/2026/09/28/dr-hasmah-laid-to-rest-at-national-mausoleum-as-crowd-of-supporters-gather-in-droves-to-pay-last-respects/236907)
+>
+> > [!note]- Science: Single CRISPR infusion cuts LDL 53%, triglycerides 48% for full year — NEJM (ScienceDaily)
+> > A Phase 1 Cleveland Clinic trial published in the New England Journal of Medicine found that a single infusion of CTX310, a CRISPR-Cas9 therapy targeting the ANGPTL3 gene in the liver, reduced LDL ("bad") cholesterol by 52.5% and triglycerides by 47.8% at one year with no serious adverse events in 15 patients with difficult-to-treat lipid disorders. The treatment switches off a gene that limits fat clearance from the bloodstream, making it a potential one-shot alternative to lifelong statin therapy. Findings were simultaneously presented at the 2026 European Society of Cardiology annual meeting. [Source](https://www.sciencedaily.com/releases/2026/09/260925005434.htm)
+>
+> > [!note]- NKE: $36.49 (+2.08%) — Jefferies raises target to $75 (Buy); Q1 FY27 earnings Oct 1; position −$1,619 (GuruFocus)
+> > Nike bucked the broader market selloff on Monday, rising 2.08% to $36.49, after Jefferies analyst Randal Konik raised his target to $75 (Buy) and forecast Nike will beat Q1 FY27 consensus — projecting $11.5B in sales and $0.48 EPS versus Street estimates of $11.3B and $0.44. Q1 FY2027 earnings are due after market close on October 1, the next major catalyst. Position: 46 shares @ $71.69 avg cost; unrealised loss = 46 × ($36.49 − $71.69) = −$1,619. [Source](https://www.gurufocus.com/news/9100026/jefferies-sees-nike-nke-surpassing-q1-sales-and-eps-estimates-maintains-buy-rating)
 >
 
 > [!note]- [[09-26-26 Sat]]
