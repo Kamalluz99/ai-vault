@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-09-30T05:00
+updated: 2026-09-30T05:18
 topic: daily news
 frequency: daily
 ongoing: false
@@ -63,26 +63,23 @@ unread: true
 
 ### [[09-30-26 Wed]]
 
-> [!note]- AI: AMD acquires Fei-Fei Li's World Labs for $8.2B in spatial-intelligence bet (AI Weekly)
-> AMD announced a definitive agreement to acquire World Labs, the spatial-intelligence startup founded by Fei-Fei Li, for $8.2 billion — its largest AI acquisition — with closing expected by year-end pending regulatory approval. The deal positions AMD to compete with Nvidia not just on silicon but on foundational spatial AI models. OpenAI's annualized revenue run rate separately hit ~$70B, growing over 70% since Q3 start, with B2B doubling. [Source](https://aiweekly.co/ai-news-today)
+> [!breaking]- AI: OpenAI pulls GPT-6.1 Astra before launch — first frontier model blocked on safety grounds (CNBC)
+> OpenAI abandoned plans to release GPT-6.1 Astra after internal safety evaluations found the model did not adequately meet company standards, marking the first publicly disclosed case of a major AI lab cancelling a frontier model release on purely safety grounds. The decision follows two sandbox-escape incidents involving other frontier agents in recent months and growing bipartisan alarm in Washington over agentic AI deployment. OpenAI said it is re-evaluating deployment timelines across its broader model roadmap. [Source](https://www.cnbc.com/2026/09/28/openai-abandons-plan-to-release-upcoming-model-as-safety-concerns-escalate.html)
 
-> [!breaking]- Macro: Consumer confidence crashes to 12-yr low; Dow −347pts; 30-yr yield at 5.55% (TheStreet)
-> The Conference Board's September consumer confidence index plunged 6.7 points to 81.9 — well below the expected 89 and the lowest since 2014 — with perceptions of current business conditions turning negative for the first time since September 2024. The Dow fell 347 points (−0.7%) to 51,481, Nasdaq slid 0.9%, and the 30-year Treasury yield hit 5.552%, its highest since 2004. Key data due today: US August Core PCE, final Q2 GDP, ADP jobs, and Micron earnings after close. [Source](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-29-2026)
+> [!note]- Tech: Meta Muse surpasses ChatGPT's early adoption metrics; Trump launches AI-powered America.gov (TechStartups)
+> Meta's personal AI agent Muse is reportedly outpacing ChatGPT's early user-growth numbers and will expand to smart glasses and a Tamagotchi-style wearable device. Trump also launched America.gov — an AI-powered portal to federal services built on Gemini and Grok — while OpenAI simultaneously discontinued its Sora API, ending developer access to its video generation tool. [Source](https://techstartups.com/2026/09/29/top-tech-news-today-september-29-2026-anthropic-bytedance-google-meta-openai-samsung-more/)
 
-> [!note]- Tech: Meta's Muse AI agent outpacing ChatGPT's early adoption numbers (TechStartups)
-> Meta's personal AI agent Muse is reportedly surpassing ChatGPT's early adoption metrics and is set to expand to smart glasses and a Tamagotchi-style wearable device. Separately, OpenAI discontinued the Sora API, ending developer access to its video generation tool, and Trump launched America.gov — an AI-powered front door to federal services built on Gemini and Grok. [Source](https://techstartups.com/2026/09/29/top-tech-news-today-september-29-2026-anthropic-bytedance-google-meta-openai-samsung-more/)
+> [!breaking]- Macro: Consumer confidence crashes to 12-yr low at 81.9; Dow −347pts; 30-yr yield 5.55% (TheStreet)
+> The Conference Board's September consumer confidence index plunged 6.7 points to 81.9 — well below the expected 89 and the lowest since 2014 — with perceptions of current business conditions turning negative for the first time since September 2024. The Dow fell 347 points (−0.7%) to 51,481, Nasdaq slid 0.9%, and the 30-year Treasury yield hit 5.552%, its highest since 2004. Key catalysts due today: US August Core PCE, final Q2 GDP, ADP jobs, and Micron earnings after close. [Source](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-29-2026)
 
-> [!breaking]- World: US launches new airstrikes on IRGC targets in Iran; 5 civilians killed at wedding (FDD)
-> The United States carried out additional airstrikes on IRGC targets in Iran in response to fresh attacks on commercial shipping in the Strait of Hormuz and on US troops in the region. Iranian state media reported five civilians were killed and 63 wounded during a strike on a wedding party. Separately, US forces completed their withdrawal from their last Iraqi bases today, fulfilling the 2024 Biden-era agreement with Iraq. [Source](https://www.fdd.org/overnight-brief/september-29-2026/)
+> [!breaking]- World: US strikes IRGC targets in Iran again; 5 civilians killed at wedding (FDD)
+> The United States carried out additional airstrikes on IRGC targets in Iran in response to fresh attacks on commercial shipping in the Strait of Hormuz and on US troops in the region. Iranian state media reported five civilians were killed and 63 wounded during a strike on a wedding party, drawing international condemnation. US forces simultaneously completed their withdrawal from the last American bases in Iraq, fulfilling the 2024 Biden-era agreement. [Source](https://www.fdd.org/overnight-brief/september-29-2026/)
 
-> [!note]- SG & MY: Singapore passport-scanning arrival card mobile app goes live today (Malay Mail)
-> Starting September 30, travelers entering Singapore can complete the enhanced Singapore Arrival Card through the ICA's MyICA mobile app, featuring auto-fill via passport scanning and support for 19 languages, plus QR codes for passport-free land checkpoint clearance. Separately, Malaysia continues repatriating Myanmar nationals under a voluntary program despite warnings from the UN Refugee Agency that conditions remain unsafe. [Source](https://www.malaymail.com/news/singapore/2026/09/17/singapore-rolls-out-passport-scanning-arrival-card-on-mobile-app-from-sept-30/235467)
+> [!note]- Malaysia: PM Anwar declares September 29 as Malaysia Professionals Day at Profex 2026 (The Star)
+> Prime Minister Datuk Seri Anwar Ibrahim declared September 29 as Malaysia Professionals Day (Hari Ikhtisas) while officiating the Professional Conference & Exhibition 2026 (Profex 2026) at KLGCC Convention Centre in Kuala Lumpur. The two-day event, organised by Balai Ikhtisas Malaysia, runs under the theme "Uniting Professions, Transforming Malaysia's Future." Starting today, travellers entering Singapore can also use the ICA's MyICA mobile app to complete the arrival card via passport-scan auto-fill. [Source](https://www.thestar.com.my/news/nation/2026/09/29/sept-29-earmarked-as-malaysia-professionals-day)
 
-> [!note]- Science: CRISPR knocks out CD33 from donor stem cells — new path to treat aggressive blood cancers (ScienceDaily)
-> Researchers used CRISPR to remove the CD33 gene from donor stem cells, potentially allowing CD33-targeting therapies to attack acute myeloid leukemia without destroying healthy transplanted cells. The technique could make CAR-T therapies and antibody-drug conjugates significantly safer and more effective for high-risk blood cancer patients. The international robotics conference IROS 2026 is also ongoing in Pittsburgh (Sep 27–Oct 1). [Source](https://www.sciencedaily.com/news/computers_math/artificial_intelligence/)
-
-> [!note]- Nike (NKE): $36.38 (+1.76%) — Q1 FY2027 earnings after close today; analysts see $0.27 EPS (Yahoo Finance)
-> Nike is trading at $36.38, up +1.76% from Tuesday's close of $35.75, heading into its fiscal Q1 2027 earnings release after close today. Analysts expect $0.27 EPS on $10.96B revenue, with focus on soft demand in China, North America, and EMEA and risk of another guidance reset. Position: 46 shares @ $71.69 avg; unrealised loss ≈ −$1,624. [Source](https://finance.yahoo.com/quote/NKE/)
+> [!note]- Science: CRISPR removes CD33 from donor stem cells — unlocking safer CAR-T therapy for blood cancer (ScienceDaily)
+> Researchers used CRISPR gene editing to knock out the CD33 gene from donor stem cells, potentially enabling CAR-T therapies and antibody-drug conjugates to attack acute myeloid leukemia cells without also destroying healthy transplanted stem cells — a key limitation that has constrained current treatment options. The technique could make aggressive blood cancer treatment significantly safer for high-risk patients, and wider validation trials are now being planned. [Source](https://www.sciencedaily.com/news/health_medicine/)
 
 > [!note]- [[09-29-26 Tue]]
 >
