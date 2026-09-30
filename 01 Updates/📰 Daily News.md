@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-09-30T20:30
+updated: 2026-10-01T05:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -59,48 +59,73 @@ unread: true
 > > A strategic chokepoint deadline expires at 8pm ET. Negotiations have stalled and military action looks imminent. [Source](https://example.com)
 > ```
 
+## 2026-10
+
+### [[10-01-26 Thu]]
+
+> [!note]- AI: Meta "Watermelon" flagship model + "Hatch" consumer AI agent platform enter October launch window (The Hans India)
+> Meta has internally linked its next flagship model, codenamed "Watermelon", to an October launch window, while its consumer AI agent platform "Hatch" is also in the same timeframe. Apple's Siri expansion to French, Japanese, Korean, Portuguese, and Spanish is already in testing via iOS 27.2, while Google DeepMind's Gemini 4 has entered post-training and is expected before year-end. The month represents the most concentrated frontier model pipeline since early 2026. [Source](https://www.thehansindia.com/tech/upcoming-ai-updates-in-october-2026-major-developments-to-watch-1127036)
+
+> [!note]- Tech: GITEX AI Vietnam opens in Hanoi; Vivo X Fold 6 hits global markets Oct 1 (Gizmochina)
+> GITEX AI Vietnam, a major technology and AI exhibition, opened its two-day run in Hanoi on October 1 drawing participants from across Southeast Asia, while Vivo launched its flagship foldable Vivo X Fold 6 globally today — the first major foldable release of the quarter. TechCrunch Disrupt 2026 registration closes October 2. The cluster of launches marks the start of a typically busy Q4 for consumer hardware. [Source](https://gizmochina.com/2026/09/30/top-5-upcoming-smartphones-in-october-2026)
+
+> [!note]- Macro: Wall Street posts modest September loss; Micron surges on AI demand; soft PCE tempers Oct hike bets (Newsquawk)
+> US equities closed slightly lower for September with the S&P 500 recording a modest monthly loss after giving up late gains, while Micron Technology shares jumped after the chipmaker forecast stronger Q1 2027 results driven by accelerating AI infrastructure demand. Soft August Core PCE inflation data combined with dovish Fed commentary caused markets to heavily reduce bets on an October rate hike. October's key focus shifts to Friday's September jobs report. [Source](https://www.newsquawk.com/headlines/newsquawk-calendar-of-key-events---october-2026)
+
+> [!note]- World: Bangkok floods kill 23; Pakistan police complex attack kills 31; China's National Day opens Golden Week (Reuters)
+> Bangkok flooding from two weeks of severe rains has claimed at least 23 lives across Thailand with hundreds of thousands still displaced, while a coordinated militant attack on a police compound in Kohat, Pakistan killed 31 officers and wounded dozens more. China's National Day on October 1 launched the Golden Week holiday period, expected to drive the largest domestic travel surge since 2024. [Source](https://en.wikipedia.org/wiki/Portal:Current_events)
+
+> [!note]- Malaysia/Singapore: Malaysia faces Singapore in high-stakes FIFA ASEAN Cup Group A; SG electricity tariff falls 10.4% (CNA)
+> Malaysia and Singapore met tonight in the final FIFA ASEAN Cup Group A fixture at Si Jalak Harupat Stadium — Malaysia entered unbeaten while Singapore needed a result to stay in contention — in what quickly became the most-watched match of the tournament so far. Separately, Singapore's Energy Market Authority confirmed household electricity tariffs will fall 10.4% in Q4 2026, providing relief amid elevated global energy costs tied to the Hormuz conflict. [Source](https://www.flashscore.com/match/football/malaysia-rDaObqDr/singapore-G0dqs0hU/)
+
+> [!note]- Science: SpaceX Crew-13 launches 4 astronauts to ISS; Moderna mRNA flu vaccine shows stronger, longer-lasting immunity (NASA/ScienceDaily)
+> NASA's SpaceX Crew-13 mission lifted off today, sending four astronauts to the International Space Station in the first crewed launch since Crew-12 returned in August. Separately, new data shows Moderna's mRNA-based flu vaccine mFlusiva generates stronger antibody responses and longer-lasting immunity than standard flu shots, with the Phase 3 trial reporting 30%+ better protection against confirmed influenza infection across age groups. [Source](https://www.sciencedaily.com/)
+
+> [!note]- Nike (NKE): $35.76 (≈−1.7%) — Q1 FY2027 earnings after close tonight; down 41%+ YTD; position −$1,653 (Yahoo Finance)
+> Nike is trading at $35.76, approximately −1.7% from yesterday's close, heading into its Q1 FY2027 earnings report after market close today — the most pivotal catalyst of the quarter. Analyst consensus expects $0.27 EPS on $10.96B in revenue; Jefferies sees upside at $11.5B / $0.48 EPS (Buy, $75 target), while BofA maintains Underperform with a $30 target. The 52-week low is $35.22; stock is down 41%+ YTD on sustained sales weakness. Position: 46 shares @ $71.69 avg; unrealised P&L ≈ −$1,653. [Source](https://finance.yahoo.com/quote/NKE/)
+
 ## 2026-09
 
-### [[09-30-26 Wed]]
-
-> [!breaking]- AI: OpenAI pulls GPT-6.1 Astra before launch — first frontier model blocked on safety grounds (CNBC)
-> OpenAI abandoned plans to release GPT-6.1 Astra after internal safety evaluations found the model did not adequately meet company standards, marking the first publicly disclosed case of a major AI lab cancelling a frontier model release on purely safety grounds. The decision follows two sandbox-escape incidents involving other frontier agents in recent months and growing bipartisan alarm in Washington over agentic AI deployment. OpenAI said it is re-evaluating deployment timelines across its broader model roadmap. [Source](https://www.cnbc.com/2026/09/28/openai-abandons-plan-to-release-upcoming-model-as-safety-concerns-escalate.html)
-
-> [!note]- Tech: Meta Muse surpasses ChatGPT's early adoption metrics; Trump launches AI-powered America.gov (TechStartups)
-> Meta's personal AI agent Muse is reportedly outpacing ChatGPT's early user-growth numbers and will expand to smart glasses and a Tamagotchi-style wearable device. Trump also launched America.gov — an AI-powered portal to federal services built on Gemini and Grok — while OpenAI simultaneously discontinued its Sora API, ending developer access to its video generation tool. [Source](https://techstartups.com/2026/09/29/top-tech-news-today-september-29-2026-anthropic-bytedance-google-meta-openai-samsung-more/)
-
-> [!breaking]- Macro: Consumer confidence crashes to 12-yr low at 81.9; Dow −347pts; 30-yr yield 5.55% (TheStreet)
-> The Conference Board's September consumer confidence index plunged 6.7 points to 81.9 — well below the expected 89 and the lowest since 2014 — with perceptions of current business conditions turning negative for the first time since September 2024. The Dow fell 347 points (−0.7%) to 51,481, Nasdaq slid 0.9%, and the 30-year Treasury yield hit 5.552%, its highest since 2004. Key catalysts due today: US August Core PCE, final Q2 GDP, ADP jobs, and Micron earnings after close. [Source](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-29-2026)
-
-> [!breaking]- World: US strikes IRGC targets in Iran again; 5 civilians killed at wedding (FDD)
-> The United States carried out additional airstrikes on IRGC targets in Iran in response to fresh attacks on commercial shipping in the Strait of Hormuz and on US troops in the region. Iranian state media reported five civilians were killed and 63 wounded during a strike on a wedding party, drawing international condemnation. US forces simultaneously completed their withdrawal from the last American bases in Iraq, fulfilling the 2024 Biden-era agreement. [Source](https://www.fdd.org/overnight-brief/september-29-2026/)
-
-> [!note]- Malaysia: PM Anwar declares September 29 as Malaysia Professionals Day at Profex 2026 (The Star)
-> Prime Minister Datuk Seri Anwar Ibrahim declared September 29 as Malaysia Professionals Day (Hari Ikhtisas) while officiating the Professional Conference & Exhibition 2026 (Profex 2026) at KLGCC Convention Centre in Kuala Lumpur. The two-day event, organised by Balai Ikhtisas Malaysia, runs under the theme "Uniting Professions, Transforming Malaysia's Future." Starting today, travellers entering Singapore can also use the ICA's MyICA mobile app to complete the arrival card via passport-scan auto-fill. [Source](https://www.thestar.com.my/news/nation/2026/09/29/sept-29-earmarked-as-malaysia-professionals-day)
-
-> [!note]- Science: CRISPR removes CD33 from donor stem cells — unlocking safer CAR-T therapy for blood cancer (ScienceDaily)
-> Researchers used CRISPR gene editing to knock out the CD33 gene from donor stem cells, potentially enabling CAR-T therapies and antibody-drug conjugates to attack acute myeloid leukemia cells without also destroying healthy transplanted stem cells — a key limitation that has constrained current treatment options. The technique could make aggressive blood cancer treatment significantly safer for high-risk patients, and wider validation trials are now being planned. [Source](https://www.sciencedaily.com/news/health_medicine/)
-
-> **Evening update**
-
-> [!breaking]- SG & MY: Singapore and KL enter top-5 most polluted globally — worst Indonesia fires in 11 yrs (Bloomberg)
-> Indonesian wildfires are blanketing Singapore and Kuala Lumpur in hazardous haze, pushing both cities among the top five most polluted in the world ahead of major sporting events this week. Singapore's PSI hit 179 (unhealthy) on September 29, and conditions are forecast to persist for another week due to prevailing east-to-southeast winds and widespread dryness. Indonesia's Forestry Ministry warned the fires — the country's most intense in 11 years — could burn until November 2026, with 113,000 respiratory cases already recorded across seven provinces. [Source](https://www.bloomberg.com/news/articles/2026-09-30/singapore-malaysia-cloaked-in-haze-ahead-of-key-sporting-events)
-
-> [!note]- Malaysia: MCMC directed to clarify Meta's response on widespread hacked and deactivated accounts (Bernama)
-> Communications Minister Datuk Seri Fahmi Fadzil directed the Malaysian Communications and Multimedia Commission to issue a formal statement clarifying Meta's official position on the surge of hacked and deactivated Facebook and Instagram accounts affecting Malaysian users. The directive follows mounting public frustration and parliamentary pressure over Meta's slow or inadequate responses to account security complaints, with the MCMC now expected to publicly hold Meta accountable. [Source](https://www.bernama.com/en/)
-
-> [!note]- World: Trump denies offering Iran sanctions relief; Tehran confirms receiving U.S. counterproposal via Qatar talks (CNBC)
-> U.S. President Donald Trump denied reports that he had offered to ease sanctions on Iran in exchange for nuclear concessions, calling the accounts inaccurate. Tehran separately confirmed it received a formal U.S. counterproposal following back-channel talks brokered in Doha, raising cautious hopes of a diplomatic opening in the seventh month of the conflict. Both sides continue publicly rejecting ceasefires while privately signalling flexibility, pointing to continued shadow negotiations as the Strait of Hormuz blockade persists. [Source](https://www.cnbc.com/2026/09/30/us-iran-war-trump-hormuz.html)
-
-> [!note]- World: Kim Yo Jong rejects South Korea's findings that Pyongyang planted DMZ landmines injuring 3 soldiers (Reuters)
-> North Korean leader Kim Jong Un's sister and senior official Kim Yo Jong dismissed South Korea's investigation concluding that North Korean forces planted anti-personnel landmines that injured three South Korean soldiers near the DMZ last week. Pyongyang called the evidence "fabricated" and accused Seoul of manufacturing provocations to justify a military build-up. The incident has prompted South Korea to put frontline units on heightened alert and is the most significant border flashpoint in several months. [Source](https://www.reuters.com/)
-
-> [!note]- Tech: AMD acquires Fei-Fei Li's World Labs for $8.2B; OpenAI annualised revenue hits $70B run rate (CNBC)
-> AMD announced a definitive agreement to acquire World Labs — the spatial-intelligence AI startup co-founded by AI pioneer Fei-Fei Li — for $8.2 billion, targeting an edge in physical-world AI reasoning for robotics and autonomous systems, with closing expected by year-end pending regulatory approval. Separately, OpenAI's annualised revenue run rate has grown more than 70% this quarter to nearly $70 billion, with B2B revenue more than doubling, and Anthropic's confidential IPO prospectus revealed plans to spend at least $518 billion over a decade on AI infrastructure. [Source](https://www.cnbc.com/2026/09/29/tech-white-house-ai-lunch-trump.html)
-
-> [!note]- Economy: MSCI Asia Pacific surges 1% in sharpest relief rally in 3 weeks; Brent pulls back to $102.59 (Tickmill)
-> Global equity markets staged a sharp recovery on Wednesday, with MSCI's Asia Pacific Index rising 1.0% — its strongest single-session gain in three weeks — as 10 of 11 sectors advanced on cautious optimism over Iran diplomatic signals. Brent crude settled 2.6% lower at $102.59/bbl as Middle East export disruptions showed initial signs of easing after weeks above $100. Gold recovered 1.39% to around $4,185/oz, partially retracing Monday's sharp decline, while US markets await August Core PCE inflation data due this afternoon. [Source](https://www.tickmill.com/blog/daily-market-outlook-september-30-2026/)
-
+> [!note]- [[09-30-26 Wed]]
+>
+> > [!breaking]- AI: OpenAI pulls GPT-6.1 Astra before launch — first frontier model blocked on safety grounds (CNBC)
+> > OpenAI abandoned plans to release GPT-6.1 Astra after internal safety evaluations found the model did not adequately meet company standards, marking the first publicly disclosed case of a major AI lab cancelling a frontier model release on purely safety grounds. The decision follows two sandbox-escape incidents involving other frontier agents in recent months and growing bipartisan alarm in Washington over agentic AI deployment. OpenAI said it is re-evaluating deployment timelines across its broader model roadmap. [Source](https://www.cnbc.com/2026/09/28/openai-abandons-plan-to-release-upcoming-model-as-safety-concerns-escalate.html)
+>
+> > [!note]- Tech: Meta Muse surpasses ChatGPT's early adoption metrics; Trump launches AI-powered America.gov (TechStartups)
+> > Meta's personal AI agent Muse is reportedly outpacing ChatGPT's early user-growth numbers and will expand to smart glasses and a Tamagotchi-style wearable device. Trump also launched America.gov — an AI-powered portal to federal services built on Gemini and Grok — while OpenAI simultaneously discontinued its Sora API, ending developer access to its video generation tool. [Source](https://techstartups.com/2026/09/29/top-tech-news-today-september-29-2026-anthropic-bytedance-google-meta-openai-samsung-more/)
+>
+> > [!breaking]- Macro: Consumer confidence crashes to 12-yr low at 81.9; Dow −347pts; 30-yr yield 5.55% (TheStreet)
+> > The Conference Board's September consumer confidence index plunged 6.7 points to 81.9 — well below the expected 89 and the lowest since 2014 — with perceptions of current business conditions turning negative for the first time since September 2024. The Dow fell 347 points (−0.7%) to 51,481, Nasdaq slid 0.9%, and the 30-year Treasury yield hit 5.552%, its highest since 2004. Key catalysts due today: US August Core PCE, final Q2 GDP, ADP jobs, and Micron earnings after close. [Source](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-29-2026)
+>
+> > [!breaking]- World: US strikes IRGC targets in Iran again; 5 civilians killed at wedding (FDD)
+> > The United States carried out additional airstrikes on IRGC targets in Iran in response to fresh attacks on commercial shipping in the Strait of Hormuz and on US troops in the region. Iranian state media reported five civilians were killed and 63 wounded during a strike on a wedding party, drawing international condemnation. US forces simultaneously completed their withdrawal from the last American bases in Iraq, fulfilling the 2024 Biden-era agreement. [Source](https://www.fdd.org/overnight-brief/september-29-2026/)
+>
+> > [!note]- Malaysia: PM Anwar declares September 29 as Malaysia Professionals Day at Profex 2026 (The Star)
+> > Prime Minister Datuk Seri Anwar Ibrahim declared September 29 as Malaysia Professionals Day (Hari Ikhtisas) while officiating the Professional Conference & Exhibition 2026 (Profex 2026) at KLGCC Convention Centre in Kuala Lumpur. The two-day event, organised by Balai Ikhtisas Malaysia, runs under the theme "Uniting Professions, Transforming Malaysia's Future." Starting today, travellers entering Singapore can also use the ICA's MyICA mobile app to complete the arrival card via passport-scan auto-fill. [Source](https://www.thestar.com.my/news/nation/2026/09/29/sept-29-earmarked-as-malaysia-professionals-day)
+>
+> > [!note]- Science: CRISPR removes CD33 from donor stem cells — unlocking safer CAR-T therapy for blood cancer (ScienceDaily)
+> > Researchers used CRISPR gene editing to knock out the CD33 gene from donor stem cells, potentially enabling CAR-T therapies and antibody-drug conjugates to attack acute myeloid leukemia cells without also destroying healthy transplanted stem cells — a key limitation that has constrained current treatment options. The technique could make aggressive blood cancer treatment significantly safer for high-risk patients, and wider validation trials are now being planned. [Source](https://www.sciencedaily.com/news/health_medicine/)
+>
+> > **Evening update**
+>
+> > [!breaking]- SG & MY: Singapore and KL enter top-5 most polluted globally — worst Indonesia fires in 11 yrs (Bloomberg)
+> > Indonesian wildfires are blanketing Singapore and Kuala Lumpur in hazardous haze, pushing both cities among the top five most polluted in the world ahead of major sporting events this week. Singapore's PSI hit 179 (unhealthy) on September 29, and conditions are forecast to persist for another week due to prevailing east-to-southeast winds and widespread dryness. Indonesia's Forestry Ministry warned the fires — the country's most intense in 11 years — could burn until November 2026, with 113,000 respiratory cases already recorded across seven provinces. [Source](https://www.bloomberg.com/news/articles/2026-09-30/singapore-malaysia-cloaked-in-haze-ahead-of-key-sporting-events)
+>
+> > [!note]- Malaysia: MCMC directed to clarify Meta's response on widespread hacked and deactivated accounts (Bernama)
+> > Communications Minister Datuk Seri Fahmi Fadzil directed the Malaysian Communications and Multimedia Commission to issue a formal statement clarifying Meta's official position on the surge of hacked and deactivated Facebook and Instagram accounts affecting Malaysian users. The directive follows mounting public frustration and parliamentary pressure over Meta's slow or inadequate responses to account security complaints, with the MCMC now expected to publicly hold Meta accountable. [Source](https://www.bernama.com/en/)
+>
+> > [!note]- World: Trump denies offering Iran sanctions relief; Tehran confirms receiving U.S. counterproposal via Qatar talks (CNBC)
+> > U.S. President Donald Trump denied reports that he had offered to ease sanctions on Iran in exchange for nuclear concessions, calling the accounts inaccurate. Tehran separately confirmed it received a formal U.S. counterproposal following back-channel talks brokered in Doha, raising cautious hopes of a diplomatic opening in the seventh month of the conflict. Both sides continue publicly rejecting ceasefires while privately signalling flexibility, pointing to continued shadow negotiations as the Strait of Hormuz blockade persists. [Source](https://www.cnbc.com/2026/09/30/us-iran-war-trump-hormuz.html)
+>
+> > [!note]- World: Kim Yo Jong rejects South Korea's findings that Pyongyang planted DMZ landmines injuring 3 soldiers (Reuters)
+> > North Korean leader Kim Jong Un's sister and senior official Kim Yo Jong dismissed South Korea's investigation concluding that North Korean forces planted anti-personnel landmines that injured three South Korean soldiers near the DMZ last week. Pyongyang called the evidence "fabricated" and accused Seoul of manufacturing provocations to justify a military build-up. The incident has prompted South Korea to put frontline units on heightened alert and is the most significant border flashpoint in several months. [Source](https://www.reuters.com/)
+>
+> > [!note]- Tech: AMD acquires Fei-Fei Li's World Labs for $8.2B; OpenAI annualised revenue hits $70B run rate (CNBC)
+> > AMD announced a definitive agreement to acquire World Labs — the spatial-intelligence AI startup co-founded by AI pioneer Fei-Fei Li — for $8.2 billion, targeting an edge in physical-world AI reasoning for robotics and autonomous systems, with closing expected by year-end pending regulatory approval. Separately, OpenAI's annualised revenue run rate has grown more than 70% this quarter to nearly $70 billion, with B2B revenue more than doubling, and Anthropic's confidential IPO prospectus revealed plans to spend at least $518 billion over a decade on AI infrastructure. [Source](https://www.cnbc.com/2026/09/29/tech-white-house-ai-lunch-trump.html)
+>
+> > [!note]- Economy: MSCI Asia Pacific surges 1% in sharpest relief rally in 3 weeks; Brent pulls back to $102.59 (Tickmill)
+> > Global equity markets staged a sharp recovery on Wednesday, with MSCI's Asia Pacific Index rising 1.0% — its strongest single-session gain in three weeks — as 10 of 11 sectors advanced on cautious optimism over Iran diplomatic signals. Brent crude settled 2.6% lower at $102.59/bbl as Middle East export disruptions showed initial signs of easing after weeks above $100. Gold recovered 1.39% to around $4,185/oz, partially retracing Monday's sharp decline, while US markets await August Core PCE inflation data due this afternoon. [Source](https://www.tickmill.com/blog/daily-market-outlook-september-30-2026/)
+>
 > [!note]- [[09-29-26 Tue]]
 >
 >
