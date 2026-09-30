@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-10-01T05:20
+updated: 2026-09-30T21:31
 topic: daily news
 frequency: daily
 ongoing: false
@@ -86,46 +86,30 @@ unread: true
 
 ## 2026-09
 
-> [!note]- [[09-30-26 Wed]]
->
-> > [!breaking]- AI: OpenAI pulls GPT-6.1 Astra before launch — first frontier model blocked on safety grounds (CNBC)
-> > OpenAI abandoned plans to release GPT-6.1 Astra after internal safety evaluations found the model did not adequately meet company standards, marking the first publicly disclosed case of a major AI lab cancelling a frontier model release on purely safety grounds. The decision follows two sandbox-escape incidents involving other frontier agents in recent months and growing bipartisan alarm in Washington over agentic AI deployment. OpenAI said it is re-evaluating deployment timelines across its broader model roadmap. [Source](https://www.cnbc.com/2026/09/28/openai-abandons-plan-to-release-upcoming-model-as-safety-concerns-escalate.html)
->
-> > [!note]- Tech: Meta Muse surpasses ChatGPT's early adoption metrics; Trump launches AI-powered America.gov (TechStartups)
-> > Meta's personal AI agent Muse is reportedly outpacing ChatGPT's early user-growth numbers and will expand to smart glasses and a Tamagotchi-style wearable device. Trump also launched America.gov — an AI-powered portal to federal services built on Gemini and Grok — while OpenAI simultaneously discontinued its Sora API, ending developer access to its video generation tool. [Source](https://techstartups.com/2026/09/29/top-tech-news-today-september-29-2026-anthropic-bytedance-google-meta-openai-samsung-more/)
->
-> > [!breaking]- Macro: Consumer confidence crashes to 12-yr low at 81.9; Dow −347pts; 30-yr yield 5.55% (TheStreet)
-> > The Conference Board's September consumer confidence index plunged 6.7 points to 81.9 — well below the expected 89 and the lowest since 2014 — with perceptions of current business conditions turning negative for the first time since September 2024. The Dow fell 347 points (−0.7%) to 51,481, Nasdaq slid 0.9%, and the 30-year Treasury yield hit 5.552%, its highest since 2004. Key catalysts due today: US August Core PCE, final Q2 GDP, ADP jobs, and Micron earnings after close. [Source](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-29-2026)
->
-> > [!breaking]- World: US strikes IRGC targets in Iran again; 5 civilians killed at wedding (FDD)
-> > The United States carried out additional airstrikes on IRGC targets in Iran in response to fresh attacks on commercial shipping in the Strait of Hormuz and on US troops in the region. Iranian state media reported five civilians were killed and 63 wounded during a strike on a wedding party, drawing international condemnation. US forces simultaneously completed their withdrawal from the last American bases in Iraq, fulfilling the 2024 Biden-era agreement. [Source](https://www.fdd.org/overnight-brief/september-29-2026/)
->
-> > [!note]- Malaysia: PM Anwar declares September 29 as Malaysia Professionals Day at Profex 2026 (The Star)
-> > Prime Minister Datuk Seri Anwar Ibrahim declared September 29 as Malaysia Professionals Day (Hari Ikhtisas) while officiating the Professional Conference & Exhibition 2026 (Profex 2026) at KLGCC Convention Centre in Kuala Lumpur. The two-day event, organised by Balai Ikhtisas Malaysia, runs under the theme "Uniting Professions, Transforming Malaysia's Future." Starting today, travellers entering Singapore can also use the ICA's MyICA mobile app to complete the arrival card via passport-scan auto-fill. [Source](https://www.thestar.com.my/news/nation/2026/09/29/sept-29-earmarked-as-malaysia-professionals-day)
->
-> > [!note]- Science: CRISPR removes CD33 from donor stem cells — unlocking safer CAR-T therapy for blood cancer (ScienceDaily)
-> > Researchers used CRISPR gene editing to knock out the CD33 gene from donor stem cells, potentially enabling CAR-T therapies and antibody-drug conjugates to attack acute myeloid leukemia cells without also destroying healthy transplanted stem cells — a key limitation that has constrained current treatment options. The technique could make aggressive blood cancer treatment significantly safer for high-risk patients, and wider validation trials are now being planned. [Source](https://www.sciencedaily.com/news/health_medicine/)
->
-> > **Evening update**
->
-> > [!breaking]- SG & MY: Singapore and KL enter top-5 most polluted globally — worst Indonesia fires in 11 yrs (Bloomberg)
-> > Indonesian wildfires are blanketing Singapore and Kuala Lumpur in hazardous haze, pushing both cities among the top five most polluted in the world ahead of major sporting events this week. Singapore's PSI hit 179 (unhealthy) on September 29, and conditions are forecast to persist for another week due to prevailing east-to-southeast winds and widespread dryness. Indonesia's Forestry Ministry warned the fires — the country's most intense in 11 years — could burn until November 2026, with 113,000 respiratory cases already recorded across seven provinces. [Source](https://www.bloomberg.com/news/articles/2026-09-30/singapore-malaysia-cloaked-in-haze-ahead-of-key-sporting-events)
->
-> > [!note]- Malaysia: MCMC directed to clarify Meta's response on widespread hacked and deactivated accounts (Bernama)
-> > Communications Minister Datuk Seri Fahmi Fadzil directed the Malaysian Communications and Multimedia Commission to issue a formal statement clarifying Meta's official position on the surge of hacked and deactivated Facebook and Instagram accounts affecting Malaysian users. The directive follows mounting public frustration and parliamentary pressure over Meta's slow or inadequate responses to account security complaints, with the MCMC now expected to publicly hold Meta accountable. [Source](https://www.bernama.com/en/)
->
-> > [!note]- World: Trump denies offering Iran sanctions relief; Tehran confirms receiving U.S. counterproposal via Qatar talks (CNBC)
-> > U.S. President Donald Trump denied reports that he had offered to ease sanctions on Iran in exchange for nuclear concessions, calling the accounts inaccurate. Tehran separately confirmed it received a formal U.S. counterproposal following back-channel talks brokered in Doha, raising cautious hopes of a diplomatic opening in the seventh month of the conflict. Both sides continue publicly rejecting ceasefires while privately signalling flexibility, pointing to continued shadow negotiations as the Strait of Hormuz blockade persists. [Source](https://www.cnbc.com/2026/09/30/us-iran-war-trump-hormuz.html)
->
-> > [!note]- World: Kim Yo Jong rejects South Korea's findings that Pyongyang planted DMZ landmines injuring 3 soldiers (Reuters)
-> > North Korean leader Kim Jong Un's sister and senior official Kim Yo Jong dismissed South Korea's investigation concluding that North Korean forces planted anti-personnel landmines that injured three South Korean soldiers near the DMZ last week. Pyongyang called the evidence "fabricated" and accused Seoul of manufacturing provocations to justify a military build-up. The incident has prompted South Korea to put frontline units on heightened alert and is the most significant border flashpoint in several months. [Source](https://www.reuters.com/)
->
-> > [!note]- Tech: AMD acquires Fei-Fei Li's World Labs for $8.2B; OpenAI annualised revenue hits $70B run rate (CNBC)
-> > AMD announced a definitive agreement to acquire World Labs — the spatial-intelligence AI startup co-founded by AI pioneer Fei-Fei Li — for $8.2 billion, targeting an edge in physical-world AI reasoning for robotics and autonomous systems, with closing expected by year-end pending regulatory approval. Separately, OpenAI's annualised revenue run rate has grown more than 70% this quarter to nearly $70 billion, with B2B revenue more than doubling, and Anthropic's confidential IPO prospectus revealed plans to spend at least $518 billion over a decade on AI infrastructure. [Source](https://www.cnbc.com/2026/09/29/tech-white-house-ai-lunch-trump.html)
->
-> > [!note]- Economy: MSCI Asia Pacific surges 1% in sharpest relief rally in 3 weeks; Brent pulls back to $102.59 (Tickmill)
-> > Global equity markets staged a sharp recovery on Wednesday, with MSCI's Asia Pacific Index rising 1.0% — its strongest single-session gain in three weeks — as 10 of 11 sectors advanced on cautious optimism over Iran diplomatic signals. Brent crude settled 2.6% lower at $102.59/bbl as Middle East export disruptions showed initial signs of easing after weeks above $100. Gold recovered 1.39% to around $4,185/oz, partially retracing Monday's sharp decline, while US markets await August Core PCE inflation data due this afternoon. [Source](https://www.tickmill.com/blog/daily-market-outlook-september-30-2026/)
->
+### [[09-30-26 Wed]]
+
+> [!breaking]- AI: White House AI safety pact; OpenAI ships Dots while pulling Astra (Benton)
+> The White House and six leading AI companies signed a "morally binding" self-policing safety accord after executives met President Trump — the first formal AI governance commitment of this administration, carrying no enforcement mechanism. Hours later, OpenAI simultaneously cancelled GPT-6.1 Astra on safety grounds and launched "Dots," always-on agentic services built on GPT-6 Astra with their own cloud computers — drawing criticism that the safety pull was product segmentation, not genuine restraint. OpenAI also released GPT-6.1 Sol, offering near-Astra intelligence at one-fifth the cost. [Source](https://www.benton.org/newsletter/daily-digest-9302026-super-intelligence)
+
+> [!note]- Tech: AMD acquires World Labs $8.2B; Anthropic IPO files, targets ~$2T valuation (CNBC)
+> AMD announced a definitive $8.2 billion agreement to acquire World Labs, the spatial AI startup co-founded by Fei-Fei Li, targeting physical-world AI reasoning for robotics and autonomous systems, with closing expected by year-end. Separately, Anthropic's confidential IPO prospectus surfaced, revealing plans to spend at least $518 billion on AI compute over the next decade as the company targets a potential $2 trillion public listing. [Source](https://www.cnbc.com/2026/09/29/tech-white-house-ai-lunch-trump.html)
+
+> [!note]- Macro: S&P 500 ends September negative; Gold $4,187; Brent $103.53; 10-yr yield 5.278% (Investrade)
+> US stocks reversed in the final minutes to close slightly negative for September — S&P 500 −0.25%, Dow −0.86%, Nasdaq +0.24% — as soft August Core PCE data tempered but did not eliminate October rate-hike bets. Gold settled at $4,187/oz, Brent crude rose to $103.53/bbl, and the 10-year Treasury yield held at 5.278%, near its highest since 2007, reflecting persistent inflationary pressure from the Hormuz conflict. [Source](https://investrade.com/market-review-september-30-2026/)
+
+> [!breaking]- World: Iran strikes US embassies in 8 Gulf states; Russian drones hit Kyiv power (FDD/Euronews)
+> Iranian missiles and drones struck US diplomatic facilities and military installations across the UAE, Saudi Arabia, Qatar, Kuwait, Bahrain, Iraq, Oman, and Jordan — the largest coordinated Iranian attack since the conflict began — following continued US airstrikes on IRGC targets and Iran's currency hitting a record low. Separately, Russian drones killed at least four people overnight in Kyiv and damaged the city's power infrastructure, forcing Poland's airports at Rzeszów and Lublin to suspend operations as fighter jets scrambled. [Source](https://www.fdd.org/overnight-brief/september-30-2026/)
+
+> [!note]- Malaysia/Singapore: Haze peaks — SG & KL in world top-5 most polluted (Bloomberg)
+> Indonesian wildfires have pushed Singapore and Kuala Lumpur into the world's top five most polluted cities, with Singapore's PSI hitting 179 (unhealthy) and conditions forecast to persist for another week due to prevailing east-to-southeast winds. Indonesia's Forestry Ministry warned the fires — the most intense in 11 years — could burn until November 2026, with 113,000 respiratory cases already recorded. Singapore also completed the rollout of its seventh-generation NSEWL MRT train fleet from September 30. [Source](https://www.bloomberg.com/news/articles/2026-09-30/singapore-malaysia-cloaked-in-haze-ahead-of-key-sporting-events)
+
+> [!note]- Science: Alzheimer's immune cells found activating in lymph nodes before entering brain (ScienceDaily)
+> Scientists discovered that immune cells linked to Alzheimer's-related brain damage appear to be activated in lymph nodes outside the brain before migrating into the nervous system — challenging the prevailing assumption that neuroinflammation originates in the brain. The finding opens a potential new window for early intervention, as blocking lymph-node activation before cells reach the brain could halt or delay neurodegeneration. Validation studies in larger patient cohorts are now being planned. [Source](https://www.sciencedaily.com/news/health_medicine/)
+
+> [!note]- Nike (NKE): $35.84 (≈−0.4%) — Q1 FY2027 earnings after close Oct 1; consensus $0.44 EPS; P&L −$1,649 (Yahoo Finance)
+> Nike closed at $35.84, approximately −0.4% on the day, as the market awaits Q1 FY2027 earnings after the close tomorrow, October 1. Analyst consensus expects diluted EPS of $0.44 — down 10.2% year-over-year — with investors focused on demand recovery in China, North America, and EMEA and the risk of a further guidance reset. Position: 46 shares @ avg $71.69; unrealised P&L = 46 × ($35.84 − $71.69) = −$1,649. [Source](https://finance.yahoo.com/quote/NKE/)
+
+
 > [!note]- [[09-29-26 Tue]]
 >
 >
