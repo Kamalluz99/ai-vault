@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-09-30T05:18
+updated: 2026-09-30T20:30
 topic: daily news
 frequency: daily
 ongoing: false
@@ -80,6 +80,26 @@ unread: true
 
 > [!note]- Science: CRISPR removes CD33 from donor stem cells — unlocking safer CAR-T therapy for blood cancer (ScienceDaily)
 > Researchers used CRISPR gene editing to knock out the CD33 gene from donor stem cells, potentially enabling CAR-T therapies and antibody-drug conjugates to attack acute myeloid leukemia cells without also destroying healthy transplanted stem cells — a key limitation that has constrained current treatment options. The technique could make aggressive blood cancer treatment significantly safer for high-risk patients, and wider validation trials are now being planned. [Source](https://www.sciencedaily.com/news/health_medicine/)
+
+> **Evening update**
+
+> [!breaking]- SG & MY: Singapore and KL enter top-5 most polluted globally — worst Indonesia fires in 11 yrs (Bloomberg)
+> Indonesian wildfires are blanketing Singapore and Kuala Lumpur in hazardous haze, pushing both cities among the top five most polluted in the world ahead of major sporting events this week. Singapore's PSI hit 179 (unhealthy) on September 29, and conditions are forecast to persist for another week due to prevailing east-to-southeast winds and widespread dryness. Indonesia's Forestry Ministry warned the fires — the country's most intense in 11 years — could burn until November 2026, with 113,000 respiratory cases already recorded across seven provinces. [Source](https://www.bloomberg.com/news/articles/2026-09-30/singapore-malaysia-cloaked-in-haze-ahead-of-key-sporting-events)
+
+> [!note]- Malaysia: MCMC directed to clarify Meta's response on widespread hacked and deactivated accounts (Bernama)
+> Communications Minister Datuk Seri Fahmi Fadzil directed the Malaysian Communications and Multimedia Commission to issue a formal statement clarifying Meta's official position on the surge of hacked and deactivated Facebook and Instagram accounts affecting Malaysian users. The directive follows mounting public frustration and parliamentary pressure over Meta's slow or inadequate responses to account security complaints, with the MCMC now expected to publicly hold Meta accountable. [Source](https://www.bernama.com/en/)
+
+> [!note]- World: Trump denies offering Iran sanctions relief; Tehran confirms receiving U.S. counterproposal via Qatar talks (CNBC)
+> U.S. President Donald Trump denied reports that he had offered to ease sanctions on Iran in exchange for nuclear concessions, calling the accounts inaccurate. Tehran separately confirmed it received a formal U.S. counterproposal following back-channel talks brokered in Doha, raising cautious hopes of a diplomatic opening in the seventh month of the conflict. Both sides continue publicly rejecting ceasefires while privately signalling flexibility, pointing to continued shadow negotiations as the Strait of Hormuz blockade persists. [Source](https://www.cnbc.com/2026/09/30/us-iran-war-trump-hormuz.html)
+
+> [!note]- World: Kim Yo Jong rejects South Korea's findings that Pyongyang planted DMZ landmines injuring 3 soldiers (Reuters)
+> North Korean leader Kim Jong Un's sister and senior official Kim Yo Jong dismissed South Korea's investigation concluding that North Korean forces planted anti-personnel landmines that injured three South Korean soldiers near the DMZ last week. Pyongyang called the evidence "fabricated" and accused Seoul of manufacturing provocations to justify a military build-up. The incident has prompted South Korea to put frontline units on heightened alert and is the most significant border flashpoint in several months. [Source](https://www.reuters.com/)
+
+> [!note]- Tech: AMD acquires Fei-Fei Li's World Labs for $8.2B; OpenAI annualised revenue hits $70B run rate (CNBC)
+> AMD announced a definitive agreement to acquire World Labs — the spatial-intelligence AI startup co-founded by AI pioneer Fei-Fei Li — for $8.2 billion, targeting an edge in physical-world AI reasoning for robotics and autonomous systems, with closing expected by year-end pending regulatory approval. Separately, OpenAI's annualised revenue run rate has grown more than 70% this quarter to nearly $70 billion, with B2B revenue more than doubling, and Anthropic's confidential IPO prospectus revealed plans to spend at least $518 billion over a decade on AI infrastructure. [Source](https://www.cnbc.com/2026/09/29/tech-white-house-ai-lunch-trump.html)
+
+> [!note]- Economy: MSCI Asia Pacific surges 1% in sharpest relief rally in 3 weeks; Brent pulls back to $102.59 (Tickmill)
+> Global equity markets staged a sharp recovery on Wednesday, with MSCI's Asia Pacific Index rising 1.0% — its strongest single-session gain in three weeks — as 10 of 11 sectors advanced on cautious optimism over Iran diplomatic signals. Brent crude settled 2.6% lower at $102.59/bbl as Middle East export disruptions showed initial signs of easing after weeks above $100. Gold recovered 1.39% to around $4,185/oz, partially retracing Monday's sharp decline, while US markets await August Core PCE inflation data due this afternoon. [Source](https://www.tickmill.com/blog/daily-market-outlook-september-30-2026/)
 
 > [!note]- [[09-29-26 Tue]]
 >
