@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-09-30T21:31
+updated: 2026-10-01T19:18
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,26 @@ unread: true
 
 > [!note]- Nike (NKE): $35.76 (≈−1.7%) — Q1 FY2027 earnings after close tonight; down 41%+ YTD; position −$1,653 (Yahoo Finance)
 > Nike is trading at $35.76, approximately −1.7% from yesterday's close, heading into its Q1 FY2027 earnings report after market close today — the most pivotal catalyst of the quarter. Analyst consensus expects $0.27 EPS on $10.96B in revenue; Jefferies sees upside at $11.5B / $0.48 EPS (Buy, $75 target), while BofA maintains Underperform with a $30 target. The 52-week low is $35.22; stock is down 41%+ YTD on sustained sales weakness. Position: 46 shares @ $71.69 avg; unrealised P&L ≈ −$1,653. [Source](https://finance.yahoo.com/quote/NKE/)
+
+> **Evening update**
+
+> [!note]- Singapore & Malaysia: Malaysia vs Singapore ASEAN Cup 2026 derby — Oct 1 group stage fixture (GlobalSportsArchive)
+> Malaysia and Singapore faced off on October 1 in a FIFA ASEAN Cup 2026 group stage match, renewing one of Southeast Asia's most heated football rivalries. The revamped ASEAN Cup — which replaces the AFF Championship as the region's first FIFA-sanctioned tournament — raises the stakes considerably for both nations. The result feeds directly into qualification for the next round, making this classic derby more consequential than any previous edition. [Source](https://globalsportsarchive.com/en/soccer/match/2026-10-01/malaysia-vs-singapore/4533345)
+
+> [!note]- Malaysia: Fuel prices cut from Oct 1; Bursa opens lower on Wall Street drag (NST)
+> Malaysia reduced fuel prices effective October 1, with RON97 and unsubsidised RON95 falling 5 sen per litre, and unsubsidised diesel dropping 15 sen, offering modest relief to consumers. Bursa Malaysia's benchmark index opened slightly lower on Thursday, tracking a mixed Wall Street close as soft US inflation data sent conflicting signals to investors. Petronas also confirmed a temporary shutdown of the Songkhla export pipeline following a routine inspection. [Source](https://www.nst.com.my/business/corporate/2026/10/1545205/market-pulse-am-oct-1-2026-watch)
+
+> [!note]- World: FlyDubai cockpit fight triggers hijacking alert; plane safely diverted to Saudi Arabia (Anadolu Agency)
+> A physical altercation between pilots aboard a FlyDubai commercial flight led one crew member to attempt to crash the aircraft, prompting an emergency hijacking alert to be activated before the situation was brought under control. The plane was safely diverted and landed in Saudi Arabia with no casualties reported. The incident has prompted aviation authorities to review cockpit access and flight deck security protocols. [Source](https://aa.com.tr/en/world/morning-briefing-oct-1-2026/4074422)
+
+> [!note]- World: South Korea formalises $54B US investment — Alaska LNG and 8 nuclear plants (SBS Korea)
+> US President Donald Trump formally announced South Korea's $54 billion investment package in the United States, comprising a stake in an Alaskan LNG development project and the construction of eight large-scale nuclear power plants on American soil. The announcement deepens US-South Korea economic ties and fits a pattern of Trump extracting major investment pledges from allied nations seeking to preserve favourable trade terms. [Source](https://news.sbs.co.kr/english/article.do?news_id=N1008777811)
+
+> [!note]- Tech: Google unveils Gemini 4 Argon — 1M-token frontier model for cybersecurity and enterprise (The Neuron)
+> Google announced Gemini 4 Argon, a new frontier AI model built for complex software engineering, enterprise knowledge work, and cybersecurity defence, featuring a one-million-token context window. The model launches initially via Google's Fairwind programme, with trusted cybersecurity professionals receiving priority access before wider rollout. The release lands in a crowded week of frontier model announcements from OpenAI, Anthropic, and Amazon Web Services. [Source](https://theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-september-30-2026)
+
+> [!note]- Science: CERN begins LHC magnet replacement for High-Luminosity upgrade targeting 10× collision data (MyLifeGB)
+> CERN has started swapping out critical superconducting magnets in the Large Hadron Collider as part of the High-Luminosity LHC upgrade, a major multi-year overhaul aimed at dramatically increasing the machine's collision rate. The upgrade is projected to deliver 10 times more data than the current LHC configuration, enabling far more precise measurements of the Higgs boson and searches for physics beyond the Standard Model. Work is expected to continue through the late 2020s before the enhanced collider resumes full operation. [Source](https://www.mylifegb.com/news/science-technology-news-briefs-october-2026)
 
 ## 2026-09
 
