@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-10-02T05:25
+updated: 2026-10-02T19:17
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,26 @@ unread: true
 
 > [!note]- Nike (NKE): $35.30 (≈−1.3%) — Q1 FY2027 results reported Oct 1; Deutsche Bank cuts PT $37, Piper Sandler cuts to $38; P&L −$1,674 (Yahoo Finance)
 > Nike is trading near $35.30 on Friday, down approximately 1.3% from its prior close, following Q1 FY2027 earnings reported after the bell on October 1 — results prompted Deutsche Bank to cut its price target to $37 from $45, and Piper Sandler to trim to $38 from $45. The stock is near a 12-year low and down over 41% year-to-date on sustained sales weakness, with retail investors largely holding their positions as turnaround clarity remains elusive. Position: 46 shares @ $71.69 avg; unrealised P&L ≈ −$1,674. [Source](https://finance.yahoo.com/quote/NKE/)
+
+> **Evening update**
+
+> [!note]- Singapore & Malaysia: Singapore eliminated from ASEAN Cup after 6–0 thrashing by Malaysia (AsiaOne)
+> Singapore's FIFA ASEAN Cup 2026 campaign ended in a record defeat on October 1, falling 6–0 to Malaysia at Si Jalak Harupat Stadium in Bandung — the heaviest margin in their tournament history. The result eliminates Singapore from the group stage while Malaysia advance convincingly in the revamped, FIFA-sanctioned tournament that replaces the AFF Championship. Calls for structural reform in Singapore football are expected to intensify following the scoreline. [Source](https://www.asiaone.com/sports/sports/fifa-asean-cup-2026-malaysia-singapore-result)
+
+> [!note]- Malaysia: JB–Singapore RTS Link passenger service pushed back to February 2027 (Malay Mail)
+> Passenger service on the Johor Bahru–Singapore Rapid Transit System Link has been delayed again, now targeting February 2027, extending a string of setbacks for the cross-border rail project. The Ministry of Transport confirmed the revised timeline, citing ongoing finishing works, disappointing daily commuters on both sides of the Causeway who had anticipated relief from Causeway road congestion. No new opening date guarantee was given. [Source](https://www.malaymail.com/news/malaysia)
+
+> [!note]- World: Netanyahu confirms Omani co-pilot attempted to crash Israel-bound FlyDubai flight; UAE investigating (WNG)
+> Israeli PM Benjamin Netanyahu confirmed on Friday that the October 1 cockpit incident aboard a FlyDubai flight was a deliberate terror attack, with an Omani co-pilot attempting to down the aircraft en route to Israel after undergoing Islamist radicalization. Crew and passengers overpowered the attacker before the plane diverted safely to Saudi Arabia; the suspect was subsequently transferred to Abu Dhabi where UAE authorities lead the investigation. Netanyahu's office said the assessment is that the suspect acted alone. [Source](https://wng.org/podcasts/friday-morning-news-october-2-2026-1790887673)
+
+> [!note]- World: UN condemns Pakistan airstrikes killing 10 in Afghanistan; Putin renews nuclear warnings at NATO (WNG)
+> The United Nations condemned Pakistani airstrikes that killed at least 10 civilians inside Afghanistan, raising cross-border tensions in a region already destabilised by the full US military withdrawal completed this week. In Europe, Russian President Vladimir Putin again issued nuclear warnings aimed at NATO members amid stalled Ukraine peace talks, drawing a sharp rebuke from Brussels. The two developments underline the breadth of active global security flashpoints heading into the weekend. [Source](https://wng.org/podcasts/friday-morning-news-october-2-2026-1790887673)
+
+> [!note]- Tech: OpenAI- and Anthropic-aligned groups spend $55.7M on US midterm races to shape AI law (Philadelphia Inquirer)
+> Political advocacy groups aligned with OpenAI and Anthropic have collectively spent $55.7 million in advertising and voter outreach across key 2026 US midterm races, marking the frontier AI sector's most aggressive foray into direct political influence to date. The spending targets lawmakers voting on pending AI liability, copyright, and safety legislation, signalling that Silicon Valley's largest AI players are repositioning as active power brokers rather than policy bystanders. Smaller AI coalitions are adding to the total on both sides of the regulatory debate. [Source](https://www.inquirer.com/news/nation-world/artificial-intelligence-companies-midterm-spending-20261002.html)
+
+> [!note]- Economy: IMF projects global growth at 3.0% in 2026 as Hormuz conflict stokes EM inflation (IMF)
+> The IMF forecasts global growth at 3.0% for 2026 and 3.4% for 2027, with energy-importing emerging markets hit hardest as WTI crude near $100/bbl sustains inflationary pressure from the US-Iran Strait of Hormuz standoff. Developing economies face the weakest per-capita income growth since the pandemic, while AI-integrated economies in the US and East Asia see a partial tech-demand offset. Southeast Asia carries added exposure via a Hormuz fertiliser bottleneck affecting roughly a third of the region's seaborne fertiliser supply. [Source](https://www.imf.org/en/publications/weo)
 
 > [!note]- [[10-01-26 Thu]]
 >
