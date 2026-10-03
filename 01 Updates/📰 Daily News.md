@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-10-03T05:19
+updated: 2026-10-03T20:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -80,6 +80,26 @@ unread: true
 
 > [!note]- Science: FDA approves first-ever drug for Alexander Disease after 30-year research effort (ScienceDaily)
 > The US Food and Drug Administration approved the first treatment for Alexander Disease, a rare and fatal genetic neurological disorder that destroys the brain's white matter, ending a 30-year research effort with no previous therapeutic options. The disease typically strikes infants and young children, causing severe cognitive and motor decline. The approval marks a rare-disease milestone and opens a pathway for similar leukodystrophy conditions where single-gene targets can now be addressed by modern gene-silencing therapies. [Source](https://www.sciencedaily.com/news/health_medicine/)
+
+> **Evening update**
+
+> [!note]- Singapore & Malaysia: Malaysia denied ASEAN Cup final despite 6–0 Singapore rout; Indonesia advances on goals (The Sun)
+> Malaysia finished Group A level on seven points and +9 goal difference with Indonesia after their 6–0 demolition of Singapore, but Indonesia's 9–2 victory over Bangladesh gave them the superior goals-scored count needed to advance directly to the October 5 final. Malaysia drop to the bronze play-off, ending a campaign that saw them dominate on the pitch without the result that mattered. The outcome adds pressure on both football federations to invest in youth development ahead of the next ASEAN Cup cycle. [Source](https://thesun.my/sports/malaysias-6-0-win-over-singapore-not-enough-to-reach-asean-cup-final/)
+
+> [!note]- Malaysia: Verstappen takes pole at Sepang as F1 returns to Malaysia for first time since 2017 (Formula 1)
+> Max Verstappen grabbed pole position for the 2026 Bahrain Grand Prix at Sepang, clocking a 1:35.130 to edge Lewis Hamilton (Ferrari, +0.298s) and Isack Hadjar in Red Bull-Ford's first pole as a partnership — also the first time an American engine brand has claimed F1 pole since 1999. The session marked Formula 1's first qualifying at Sepang in nine years, with tens of thousands of Malaysian fans in attendance and PM Anwar Ibrahim expected trackside for race day on Sunday. [Source](https://www.formula1.com/en/latest/article/verstappen-seizes-first-pole-position-of-the-season-in-qualifying-for-bahrain-gp-in-malaysia.3BW0zzYBLhG54bsQoNKFvP)
+
+> [!note]- World: Trump threatens to double tariffs on South Korea if Seoul rejects $54B Alaska LNG deal (Japan Times)
+> President Trump declared on Friday that South Korea has committed to a $54 billion Alaska LNG investment, threatening to double US import tariffs if Seoul declines — a unilateral announcement that South Korea's Industry Minister said went "far beyond what was agreed." The Alaska LNG megaproject has long struggled to attract Asian financing, and Trump is leveraging trade access to force commitments ahead of the US midterms. Analysts question whether Trump retains the legal authority to raise tariffs on South Korea after the Supreme Court curtailed executive tariff powers earlier this year. [Source](https://www.japantimes.co.jp/business/2026/10/03/economy/trump-threatens-south-korea-lng/)
+
+> [!note]- World: G7 agrees IEA-coordinated 100M-barrel emergency oil release as diesel hits record $6.53/gallon (NBC News)
+> The G7 and IEA partner countries agreed on a coordinated 100-million-barrel emergency release of diesel and crude oil stocks, front-loaded with a "substantial" diesel draw within the first 20 days, to tackle record pump prices driven by the US-Iran Hormuz standoff. US diesel hit $6.53 per gallon — a record — before the announcement, which sent crude prices lower. Goldman Sachs estimated the release can offset only about half the diesel price surge, citing structural limits: refinery lag on crude volumes, Russian export restrictions, and continued Hormuz disruption. [Source](https://www.nbcnews.com/business/energy/g-7-diesel-crude-release-trump-macron-rcna601132)
+
+> [!note]- Tech: Meta's "Hatch" AI agent platform and "Watermelon" flagship model both targeting October launch (Digital Applied)
+> Meta is building a consumer-facing AI agent platform codenamed "Hatch" designed to proactively manage tasks across its app ecosystem, alongside a new frontier model known internally as "Watermelon" — both reportedly targeting an October release window. The disclosures position Meta as the next major player to enter the personal-agent race, following OpenAI's delayed GPT-6.1 Astra and Google's restricted Gemini 4 Argon launch earlier this week. Meta's consumer scale — over 3 billion daily active users across Facebook, Instagram, and WhatsApp — would give Hatch an instant distribution advantage no standalone AI app can match. [Source](https://www.digitalapplied.com/blog/ai-model-releases-october-2026-tracker)
+
+> [!note]- Economy: AI-suspected breach hits four South Korean banks; authorities order system-wide audit of externally exposed systems (SBS Korea)
+> South Korean financial authorities confirmed that personal data from four major banks — Shinhan, KB Kookmin, Hana, and BNK Busan — had been leaked, with circumstances pointing toward AI-assisted extraction of customer records. The Financial Services Commission ordered a comprehensive security audit of all banking systems with external exposure, while police launched a parallel criminal investigation. The breach is the largest to hit South Korea's financial sector since 2014, raising concerns about the use of generative AI to industrialise data-harvesting attacks at scale. [Source](https://news.sbs.co.kr/english/article.do?news_id=N1008781572)
 
 > [!note]- [[10-02-26 Fri]]
 >
