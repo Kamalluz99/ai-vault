@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-10-04T05:15
+updated: 2026-10-04T19:17
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,26 @@ unread: true
 
 > [!note]- Nike (NKE): $33.85 (−4.1%) — UBS cuts PT to $34, Truist to $29 after Q1 FY2027 revenue miss; P&L −$1,741 (MarketBeat)
 > Nike closed Friday at $33.85, down ~4.1% from the prior close and near a 12-year low. UBS cut its price target to $34 from $42 (Neutral) and Truist to $29 from $42 (Hold) after Q1 FY2027 revenue missed expectations. Nike also launched the "Pace" cost-reduction programme; stock is down over 48% year-to-date. Position: 46 shares @ $71.69 avg; unrealised P&L ≈ −$1,741. [Source](https://www.marketbeat.com/stocks/NYSE/NKE/news/)
+
+> **Evening update**
+
+> [!note]- Singapore & Malaysia: Malaysia repatriates 1,500 Myanmar migrants on navy ships; UN warns of risks (Japan Times)
+> Nearly 1,500 Myanmar nationals convicted of immigration violations in Malaysia were transported home aboard two navy warships and a hospital ship on Sunday, the first batch of 5,000 detainees earmarked for repatriation from Malaysian immigration centres. The UN and rights groups warned the opaque scheme cannot guarantee returnees' safety in a country consumed by civil war since 2021, with risks including forced military conscription. Malaysia's Home Ministry confirmed 10,388 additional Myanmar nationals remain in detention awaiting further repatriation stages. [Japan Times](https://www.japantimes.co.jp/news/2026/10/04/asia-pacific/society/myanmar-migrants-malaysia/)
+
+> [!note]- Malaysia: Verstappen wins chaotic Bahrain GP at Sepang; F1 returns to Malaysia after nine years (RacingNews365)
+> Max Verstappen claimed victory at the 2026 Bahrain Grand Prix held at Sepang International Circuit, completing Formula 1's first race in Malaysia since 2017 in chaotic conditions. Lewis Hamilton retired during the race after starting from second on the grid for Ferrari, while the event drew over 200,000 fans to the Klang Valley with PM Anwar Ibrahim attending trackside. The win also marked Red Bull-Ford's first race victory as a partnership and the first American engine brand F1 win since 1999. [RacingNews365](https://racingnews365.com/live-2026-f1-bahrain-grand-prix-in-malaysia-verstappen-hamilton-on-front-row)
+
+> [!note]- World: Nepal to drain four glacial lakes after floods; missing Malaysian found alive after 37 days (NPR)
+> Nepal announced plans to drain four high-altitude glacial lakes at imminent risk of bursting following September floods that killed hundreds and displaced thousands across the Himalayas. A Malaysian national reported missing in the disaster was reunited with family after 37 days, though 54 other Malaysians remain unaccounted for. The drainage operations are expected to take months and will require international engineering support to safely reduce lake volumes. [NPR](https://www.npr.org/sections/world/)
+
+> [!note]- World: Projectile strikes tanker in Strait of Hormuz; five Indian crew rescued unharmed (Yahoo News)
+> Five Indian nationals were rescued after a projectile struck a commercial tanker transiting the Strait of Hormuz amid the ongoing US-Iran standoff that has kept the critical waterway under elevated threat for months. All five crew members were reported safe, though the incident underscores persistent danger to commercial shipping in the strait through which approximately 20% of global oil trade flows. WTI crude held near $91.93/bbl on continued Hormuz supply risk. [Yahoo News](https://www.yahoo.com/news/world/articles/latest-news-bulletin-october-4th-100016606.html)
+
+> [!note]- Tech: Trump secures voluntary AI safety accord with US tech and AI company leaders (MarketingProfs)
+> President Trump announced a voluntary agreement with leaders of major US technology and AI companies establishing a framework for industry safety controls, opting for industry collaboration over legislation. The accord follows OpenAI's cancelled GPT-6.1 Astra launch over alignment failures and Anthropic's stark investor warning about advanced AI risks, both of which elevated pressure on the White House to demonstrate AI governance leadership. Critics noted that voluntary frameworks without enforcement mechanisms have historically produced limited real-world compliance. [MarketingProfs](https://marketingprofs.com/opinions/2026/56056/ai-update-october-02-2026-ai-news-and-views-from-the-past-week)
+
+> [!note]- Science: World Space Week 2026 opens Oct 4 with "Rocket Revolution" theme as private launch sector booms (InformaxPrime)
+> World Space Week 2026 officially began today — the 69th anniversary of Sputnik's historic orbit — with the theme "Rocket Revolution," celebrating the rapid transformation of rocket technology by private startups and universities. The global event runs October 4–10, highlighting new launch systems, low-cost small satellites, and university-led space research programmes that are expanding access to space at unprecedented pace. Scientists noted that per-kilogram launch costs have dropped over 90% in a decade, opening space to nations and institutions once priced out. [InformaxPrime](https://www.informaxprime.com/2026/10/the-rocket-revolution-has-begun-why.html)
 
 > [!note]- [[10-03-26 Sat]]
 >
