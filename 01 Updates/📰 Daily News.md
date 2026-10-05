@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-10-05T05:23
+updated: 2026-10-06T05:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -61,28 +61,52 @@ unread: true
 
 ## 2026-10
 
-### [[10-05-26 Mon]]
+### [[10-06-26 Tue]]
 
-> [!note]- AI: Trump signs executive order creating "Super Intelligence Force" AI task force (CNN)
-> President Trump signed an executive order on October 4 establishing the "Super Intelligence Force," a federal AI task force chaired by DNI Jay Clayton alongside FTC Chair Andrew Ferguson, Pentagon under secretary Emil Michael, and OPM Director Scott Kupor. The task force is charged with ensuring America "leads the World in Super Intelligence" and was explicitly framed as a counter to calls for AI slowdown — coming days after OpenAI cancelled GPT-6.1 Astra over alignment failures and Anthropic issued stark investor warnings about advanced AI risks. [Source](https://www.cnn.com/2026/10/04/politics/trump-ai-task-force-jay-clayton)
+> [!note]- AI: Google pauses OSS bug bounty after AI-generated reports overwhelm program (TechStartups)
+> Google suspended its Open Source Software Vulnerability Rewards Program after being flooded with automated AI-generated vulnerability reports, straining researcher bandwidth and diluting genuine submissions. The move exposes a growing paradox: the same AI tools that accelerate real vulnerability discovery are being weaponised as spam engines against security programs. [Source](https://techstartups.com/2026/10/05/top-tech-news-today-october-5-2026-deutsche-telekom-foxconn-google-openai-schneider-electric-more/)
 
-> [!note]- Tech: Google Googlebook expands internationally; ChromeOS retired for Android-based Aluminium OS (tech-insider)
-> Google launched the Googlebook — the direct successor to the Chromebook — to the UK, Canada, Ireland, France, Germany, and Australia on October 5, following its US debut on October 4. The device starts at $899, runs Aluminium OS (built on Android 17), and includes 12 months of Google AI Pro; OEM partners include Acer, ASUS, Dell, HP, and Lenovo. The launch retires the 15-year-old ChromeOS platform in favour of a unified Android stack, positioning Googlebook as a direct rival to Microsoft Copilot+ PCs and Apple Intelligence Macs. [Source](https://tech-insider.org/googlebook-cheat-sheet-price-models-gemini-features-2026/)
+> [!note]- Tech: OpenAI tests visual ads in ChatGPT image generation as weekly users hit 1.2 billion (TechStartups)
+> OpenAI began testing visual ads inside ChatGPT's image generation feature — its first push into ad-supported monetisation — as the platform crossed 1.2 billion weekly active users, roughly a 4× increase over 18 months. The move signals a potential shift in OpenAI's revenue model beyond subscriptions and API fees. [Source](https://techstartups.com/2026/10/05/top-tech-news-today-october-5-2026-deutsche-telekom-foxconn-google-openai-schneider-electric-more/)
 
-> [!breaking]- World: US-Iran war escalation: 3rd carrier deployed; Trump team holds secret Camp David summit (Al Jazeera)
-> Trump's entire national security team held a secret Camp David meeting on October 3 to debate relaunching major combat operations against Iran, as the US simultaneously deployed a third carrier strike group (USS Theodore Roosevelt, ~9,000 personnel) to the region. Explosions were reported near Iran's Qeshm Island on October 4, while Iran's top negotiator demanded the US fulfil seven conditions from the June Islamabad ceasefire deal, which Trump has rejected. Operation Epic Fury has killed 18 US service members since launching in February 2026 when US-Israel strikes triggered Iran to close the Strait of Hormuz. [Source](https://www.aljazeera.com/news/liveblog/2026/10/4/iran-war-live-yemeni-forces-strike-sanaa-as-trump-warns-tehran-of-hard-way)
+> [!note]- Macro: Nasdaq hits fresh all-time high on Nvidia record; Dow and S&P 500 slip on yields and Iran-driven oil pressure (CNBC)
+> The Nasdaq Composite surged to a fresh all-time high powered by a Nvidia record close and a broad semiconductor revival following Micron Technology's blowout quarterly results. The Dow Jones and S&P 500 retreated as elevated Treasury yields and oil prices linked to the US-Iran conflict weighed on rate-sensitive sectors. September payrolls (29K) pushed Fed October hike odds down to 21%; trade balance data and Dallas Fed President Logan's remarks are on Tuesday's calendar. [Source](https://www.cnbc.com/2026/10/02/stock-market-next-week-outlook-for-oct-5-9-2026-.html)
 
-> [!note]- Macro: Sep payrolls crash to 29K — well below 84K forecast; Fed hold on Oct 28 near-certain (CNBC)
-> The September nonfarm payrolls report came in at just 29,000, far below the 84,000 consensus forecast, with unemployment rising to 4.2% and prior months revised down a combined 60,000. Wage growth slowed to 3.0% YoY, the slowest pace since 2021. Markets now price only a 21% chance of an October rate hike (down from 54% the prior week), with S&P 500 futures higher Monday as Treasury yields retreated; ISM Services PMI and a $58B Treasury auction are on today's calendar. [Source](https://www.cnbc.com/2026/10/02/jobs-report-september-2026.html)
+> [!breaking]- World: Israel-Hamas indirect peace talks open in Egypt; Netanyahu signals hostage deal could come this week (WNG)
+> Israeli and Hamas negotiators began indirect peace talks in Cairo today — a week after President Trump introduced a Gaza peace proposal backed by regional Arab states. Secretary of State Rubio said an end to the war may be "closer than ever," and Netanyahu signalled a hostage release announcement could come within days, with terms calling for all hostages freed within 72 hours and a phased Israeli withdrawal from Gaza. US government shutdown entered day six with no congressional breakthrough. [Source](https://wng.org/podcasts/monday-morning-news-october-6-2026-1759692228)
 
-> [!note]- Malaysia: JPJ suspends all MYEG services effective today over unresolved contract; M'sia-SG sign supply chain workgroup (Malay Mail)
-> Malaysia's Road Transport Department (JPJ) suspended all MYEG Group services effective October 5 over unresolved contractual obligations, directing motorists to use JPJ counters, the MyJPJ app, kiosks, and post offices for vehicle renewals and licensing. Separately, Malaysia and Singapore endorsed a new bilateral Supply Chain Cooperation Workgroup to build resilience against future disruptions — a complement to both countries' ongoing bilateral economic integration. [Source](https://www.malaymail.com/news/malaysia/2026/10/02/jpj-suspends-all-myeg-services-from-oct-5-over-unresolved-contractual-obligations/237417)
+> [!note]- Malaysia/Singapore: F1 Singapore Grand Prix runs Oct 5-11; Malaysia-SG conclude three-year Digital Economy Framework (TechTradeAsia)
+> The Formula 1 Singapore Grand Prix is underway at Marina Bay Circuit through October 11, drawing global audiences one week after F1's return to Sepang. Malaysia and Singapore also marked the conclusion of their three-year Digital Economy Framework on Cooperation, reaffirming commitment to deepen bilateral trade, investment, and supply chain resilience. [Source](https://www.techtradeasia.com/2026/10/malaysia-singapore-reaffirm-commitment.html)
 
-> [!note]- Science: Nobel Prize in Physiology or Medicine 2026 announced in Stockholm; orexin sleep research and GLP-1 drugs were top predictions (Lasker Foundation)
-> The 2026 Nobel Prize in Physiology or Medicine was announced this morning in Stockholm at 11:30 CEST, opening Nobel Week through October 12. Top predicted recipients include Emmanuel Mignot (Stanford) and Masashi Yanagisawa (University of Tsukuba) — the 2026 Lasker Basic Medical Research Award winners for discovering the orexin/hypocretin system underlying narcolepsy and insomnia drugs — and GLP-1 pioneers whose work underpins Ozempic and Wegovy; the Lasker Award is historically the strongest Nobel predictor. [Source](https://laskerfoundation.org/winners/orexin-a-brain-peptide-that-maintains-wakefulness/)
+> [!note]- Science: US and 16 nations adopt "Kyoto Vision for Golden Age of Science" — AI and metascience at the core (AIP)
+> The United States and 16 partner nations endorsed the "Kyoto Vision for a Golden Age of Science" at a forum in Japan, calling for AI and metascience to accelerate global scientific discovery. The declaration prioritises reproducibility, open data standards, and cross-border research coordination, with AI positioned as a core instrument for the next research cycle. [Source](https://aip.org/fyi/the-week-of-october-5-2026)
 
-> [!note]- Nike (NKE): $33.85 (−3.64%) — down 48% YTD; UBS cuts PT to $34; position P&L ≈ −$1,741 (MarketBeat)
-> Nike closed at $33.85, down 3.64% from the prior close, near a 12-year low and off over 48% year-to-date. UBS maintained Neutral with a $34 price target (cut from $42), while Telsey cut to $35 from $44. Nike launched its "Pace" cost-reduction programme this week. Position: 46 shares @ $71.69 avg; unrealised P&L ≈ −$1,741. [Source](https://stockanalysis.com/stocks/nke/)
+> [!note]- Nike (NKE): $33.72 (-0.4%) — S&P Global cuts credit rating to 'A' from 'A+' citing China deterioration (CNN)
+> Nike closed at $33.72 on October 5, down ~0.4% from its prior close of $33.87, as S&P Global Ratings downgraded Nike's credit to 'A' from 'A+', pointing to severe top-line deterioration in Greater China and negative free cash flow expected over the next 2-3 years. Analyst consensus among 33 Wall Street names is Hold (8 Buy / 18 Hold / 7 Sell). Position: 46 shares @ $71.69 avg; unrealised P&L approximately -$1,747. [Source](https://edition.cnn.com/markets/stocks/NKE)
+
+> [!note]- [[10-05-26 Mon]]
+>
+> > [!note]- AI: Trump signs executive order creating "Super Intelligence Force" AI task force (CNN)
+> > President Trump signed an executive order on October 4 establishing the "Super Intelligence Force," a federal AI task force chaired by DNI Jay Clayton alongside FTC Chair Andrew Ferguson, Pentagon under secretary Emil Michael, and OPM Director Scott Kupor. The task force is charged with ensuring America "leads the World in Super Intelligence" and was explicitly framed as a counter to calls for AI slowdown — coming days after OpenAI cancelled GPT-6.1 Astra over alignment failures and Anthropic issued stark investor warnings about advanced AI risks. [Source](https://www.cnn.com/2026/10/04/politics/trump-ai-task-force-jay-clayton)
+>
+> > [!note]- Tech: Google Googlebook expands internationally; ChromeOS retired for Android-based Aluminium OS (tech-insider)
+> > Google launched the Googlebook — the direct successor to the Chromebook — to the UK, Canada, Ireland, France, Germany, and Australia on October 5, following its US debut on October 4. The device starts at $899, runs Aluminium OS (built on Android 17), and includes 12 months of Google AI Pro; OEM partners include Acer, ASUS, Dell, HP, and Lenovo. The launch retires the 15-year-old ChromeOS platform in favour of a unified Android stack, positioning Googlebook as a direct rival to Microsoft Copilot+ PCs and Apple Intelligence Macs. [Source](https://tech-insider.org/googlebook-cheat-sheet-price-models-gemini-features-2026/)
+>
+> > [!breaking]- World: US-Iran war escalation: 3rd carrier deployed; Trump team holds secret Camp David summit (Al Jazeera)
+> > Trump's entire national security team held a secret Camp David meeting on October 3 to debate relaunching major combat operations against Iran, as the US simultaneously deployed a third carrier strike group (USS Theodore Roosevelt, ~9,000 personnel) to the region. Explosions were reported near Iran's Qeshm Island on October 4, while Iran's top negotiator demanded the US fulfil seven conditions from the June Islamabad ceasefire deal, which Trump has rejected. Operation Epic Fury has killed 18 US service members since launching in February 2026 when US-Israel strikes triggered Iran to close the Strait of Hormuz. [Source](https://www.aljazeera.com/news/liveblog/2026/10/4/iran-war-live-yemeni-forces-strike-sanaa-as-trump-warns-tehran-of-hard-way)
+>
+> > [!note]- Macro: Sep payrolls crash to 29K — well below 84K forecast; Fed hold on Oct 28 near-certain (CNBC)
+> > The September nonfarm payrolls report came in at just 29,000, far below the 84,000 consensus forecast, with unemployment rising to 4.2% and prior months revised down a combined 60,000. Wage growth slowed to 3.0% YoY, the slowest pace since 2021. Markets now price only a 21% chance of an October rate hike (down from 54% the prior week), with S&P 500 futures higher Monday as Treasury yields retreated; ISM Services PMI and a $58B Treasury auction are on today's calendar. [Source](https://www.cnbc.com/2026/10/02/jobs-report-september-2026.html)
+>
+> > [!note]- Malaysia: JPJ suspends all MYEG services effective today over unresolved contract; M'sia-SG sign supply chain workgroup (Malay Mail)
+> > Malaysia's Road Transport Department (JPJ) suspended all MYEG Group services effective October 5 over unresolved contractual obligations, directing motorists to use JPJ counters, the MyJPJ app, kiosks, and post offices for vehicle renewals and licensing. Separately, Malaysia and Singapore endorsed a new bilateral Supply Chain Cooperation Workgroup to build resilience against future disruptions — a complement to both countries' ongoing bilateral economic integration. [Source](https://www.malaymail.com/news/malaysia/2026/10/02/jpj-suspends-all-myeg-services-from-oct-5-over-unresolved-contractual-obligations/237417)
+>
+> > [!note]- Science: Nobel Prize in Physiology or Medicine 2026 announced in Stockholm; orexin sleep research and GLP-1 drugs were top predictions (Lasker Foundation)
+> > The 2026 Nobel Prize in Physiology or Medicine was announced this morning in Stockholm at 11:30 CEST, opening Nobel Week through October 12. Top predicted recipients include Emmanuel Mignot (Stanford) and Masashi Yanagisawa (University of Tsukuba) — the 2026 Lasker Basic Medical Research Award winners for discovering the orexin/hypocretin system underlying narcolepsy and insomnia drugs — and GLP-1 pioneers whose work underpins Ozempic and Wegovy; the Lasker Award is historically the strongest Nobel predictor. [Source](https://laskerfoundation.org/winners/orexin-a-brain-peptide-that-maintains-wakefulness/)
+>
+> > [!note]- Nike (NKE): $33.85 (−3.64%) — down 48% YTD; UBS cuts PT to $34; position P&L ≈ −$1,741 (MarketBeat)
+> > Nike closed at $33.85, down 3.64% from the prior close, near a 12-year low and off over 48% year-to-date. UBS maintained Neutral with a $34 price target (cut from $42), while Telsey cut to $35 from $44. Nike launched its "Pace" cost-reduction programme this week. Position: 46 shares @ $71.69 avg; unrealised P&L ≈ −$1,741. [Source](https://stockanalysis.com/stocks/nke/)
+>
 
 > [!note]- [[10-04-26 Sun]]
 >
