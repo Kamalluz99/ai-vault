@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-10-06T05:00
+updated: 2026-10-05T05:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -61,28 +61,51 @@ unread: true
 
 ## 2026-10
 
-### [[10-06-26 Tue]]
+### [[10-05-26 Mon]]
 
-> [!note]- AI: Google pauses OSS bug bounty after AI-generated reports overwhelm program (TechStartups)
-> Google suspended its Open Source Software Vulnerability Rewards Program after being flooded with automated AI-generated vulnerability reports, straining researcher bandwidth and diluting genuine submissions. The move exposes a growing paradox: the same AI tools that accelerate real vulnerability discovery are being weaponised as spam engines against security programs. [Source](https://techstartups.com/2026/10/05/top-tech-news-today-october-5-2026-deutsche-telekom-foxconn-google-openai-schneider-electric-more/)
+> [!note]- AI: India demands binding AI rules as White House self-policing accord draws scrutiny (TechTimes)
+> India's government demanded binding international AI regulations on October 5, calling for defined roles for governments, frontier model developers, deployers, academia, and independent safety researchers — a direct challenge to the Trump administration's voluntary self-policing accord signed last weekend. Officials at a New Delhi AI governance forum said a framework with formal harm-reporting channels and enforcement mechanisms is "non-negotiable" for India's participation in future multilateral AI governance bodies. The pushback echoes broader international frustration after OpenAI's cancelled GPT-6.1 Astra raised questions about whether voluntary industry pledges can govern advanced AI risks. [Source](https://techtimes.com/articles/328526/20261005/india-demands-binding-ai-rules-white-house-self-policing-accord-draws-scrutiny.htm)
 
-> [!note]- Tech: OpenAI tests visual ads in ChatGPT image generation as weekly users hit 1.2 billion (TechStartups)
-> OpenAI began testing visual ads inside ChatGPT's image generation feature — its first push into ad-supported monetisation — as the platform crossed 1.2 billion weekly active users, roughly a 4× increase over 18 months. The move signals a potential shift in OpenAI's revenue model beyond subscriptions and API fees. [Source](https://techstartups.com/2026/10/05/top-tech-news-today-october-5-2026-deutsche-telekom-foxconn-google-openai-schneider-electric-more/)
+> [!note]- Tech: Microsoft's Ninja Theory begins formal UK shutdown consultation; Xbox studio closure looms (tech-insider)
+> Ninja Theory, the British studio behind Hellblade: Senua's Sacrifice and acquired by Microsoft in 2018, has entered a formal UK workforce consultation process for a proposed shutdown — the latest in a wave of Xbox studio closures reshaping Microsoft's gaming division in 2026. The final headcount affected remains unresolved pending the consultation period, as employees weigh redundancy terms. The closure follows earlier Microsoft shutdowns of Tango Gameworks, Arkane Austin, and Alpha Dog Games, raising fresh questions about Xbox's long-term first-party studio strategy. [Source](https://tech-insider.org/ninja-theory-layoffs-closure-xbox-2026/)
 
-> [!note]- Macro: Nasdaq hits fresh all-time high on Nvidia record; Dow and S&P 500 slip on yields and Iran-driven oil pressure (CNBC)
-> The Nasdaq Composite surged to a fresh all-time high powered by a Nvidia record close and a broad semiconductor revival following Micron Technology's blowout quarterly results. The Dow Jones and S&P 500 retreated as elevated Treasury yields and oil prices linked to the US-Iran conflict weighed on rate-sensitive sectors. September payrolls (29K) pushed Fed October hike odds down to 21%; trade balance data and Dallas Fed President Logan's remarks are on Tuesday's calendar. [Source](https://www.cnbc.com/2026/10/02/stock-market-next-week-outlook-for-oct-5-9-2026-.html)
+> [!note]- Macro: Asia stocks up ~1%, WTI slips to $90 as Fed hike odds fall below 20%; Bitcoin holds above $84K (CapitalStreetFX)
+> Asian equities extended Friday's Wall Street rally into Monday, with the MSCI Asia-Pacific index gaining ~1% and Japan's Nikkei 225 rising ~2% after the weak September payrolls print (29K vs. 84K forecast) pushed Federal Reserve October hike odds below 20%. WTI crude slipped 1% to $90.12/bbl as the G7's 100-million-barrel emergency oil release weighed on prices despite fresh Houthi strikes on Saudi Aramco facilities. Gold steadied near $4,148/oz and Bitcoin held above $84,000 — its four-month high — as lower real yields globally supported risk assets. [Source](https://www.capitalstreetfx.com/market-analysis/weekly-us-market-outlook-5-8-october-2026/)
 
-> [!breaking]- World: Israel-Hamas indirect peace talks open in Egypt; Netanyahu signals hostage deal could come this week (WNG)
-> Israeli and Hamas negotiators began indirect peace talks in Cairo today — a week after President Trump introduced a Gaza peace proposal backed by regional Arab states. Secretary of State Rubio said an end to the war may be "closer than ever," and Netanyahu signalled a hostage release announcement could come within days, with terms calling for all hostages freed within 72 hours and a phased Israeli withdrawal from Gaza. US government shutdown entered day six with no congressional breakthrough. [Source](https://wng.org/podcasts/monday-morning-news-october-6-2026-1759692228)
+> [!breaking]- World: Russia warns diplomats to leave Kyiv amid three straight days of Dnipro bridge strikes (JustSecurity)
+> Russia's Foreign Ministry issued a formal advisory urging all foreign diplomats and nationals to leave Kyiv on October 5, following three consecutive days of missile strikes targeting the city's Dnipro river bridges — key crossings linking eastern and western Kyiv. Western governments scrambled to brief embassies on contingency evacuation plans, while Ukraine's air defences intercepted multiple missiles but reported structural damage to at least one bridge span. The escalation signals a possible strategic shift toward severing Kyiv's internal logistics ahead of winter. [Source](https://justsecurity.org/159662/early-edition-october-5-2026)
 
-> [!note]- Malaysia/Singapore: F1 Singapore Grand Prix runs Oct 5-11; Malaysia-SG conclude three-year Digital Economy Framework (TechTradeAsia)
-> The Formula 1 Singapore Grand Prix is underway at Marina Bay Circuit through October 11, drawing global audiences one week after F1's return to Sepang. Malaysia and Singapore also marked the conclusion of their three-year Digital Economy Framework on Cooperation, reaffirming commitment to deepen bilateral trade, investment, and supply chain resilience. [Source](https://www.techtradeasia.com/2026/10/malaysia-singapore-reaffirm-commitment.html)
+> [!note]- Malaysia/Singapore: Singapore Services PMI dips to 58.1 in Sep; tech workers earn median S$8K/month as digital economy tops S$144B (NST)
+> Singapore's S&P Global Services PMI eased to 58.1 in September from 59.4 in August — still firmly expansionary but moderating from multi-month highs as new order growth slowed and input costs rose. Separately, Singapore tech workers earned a median monthly wage of S$8,000 in 2025, 60% above the national resident median, as the country's digital economy grew to S$144.1 billion with AI and cloud services the fastest-growing segments. Bursa Malaysia opened modestly higher today, with rate-sensitive sectors leading on the back of weaker US payrolls data. [Source](https://www.nst.com.my/business/corporate/2026/10/1547853/market-pulse-am-oct-5-2026-watch)
 
-> [!note]- Science: US and 16 nations adopt "Kyoto Vision for Golden Age of Science" — AI and metascience at the core (AIP)
-> The United States and 16 partner nations endorsed the "Kyoto Vision for a Golden Age of Science" at a forum in Japan, calling for AI and metascience to accelerate global scientific discovery. The declaration prioritises reproducibility, open data standards, and cross-border research coordination, with AI positioned as a core instrument for the next research cycle. [Source](https://aip.org/fyi/the-week-of-october-5-2026)
+> [!note]- Science: Nobel in Physiology or Medicine 2026 awarded to Deisseroth, Hegemann and Nagel for optogenetics (ScienceDaily)
+> Karl Deisseroth (Stanford), Peter Hegemann (Humboldt University), and Georg Nagel (University of Würzburg) were awarded the 2026 Nobel Prize in Physiology or Medicine for developing optogenetics — a technique that uses light pulses to control individual neurons with millisecond precision, transforming neuroscience research. The award surprised many who had predicted the prize would go to orexin researchers or GLP-1 pioneers; optogenetics has already enabled precise study of neural circuits in depression, Parkinson's disease, and addiction. Early human clinical trials are underway to restore vision in blind patients using optogenetic tools. [Source](https://www.sciencedaily.com/news/health_medicine/)
 
-> [!note]- Nike (NKE): $33.72 (-0.4%) — S&P Global cuts credit rating to 'A' from 'A+' citing China deterioration (CNN)
-> Nike closed at $33.72 on October 5, down ~0.4% from its prior close of $33.87, as S&P Global Ratings downgraded Nike's credit to 'A' from 'A+', pointing to severe top-line deterioration in Greater China and negative free cash flow expected over the next 2-3 years. Analyst consensus among 33 Wall Street names is Hold (8 Buy / 18 Hold / 7 Sell). Position: 46 shares @ $71.69 avg; unrealised P&L approximately -$1,747. [Source](https://edition.cnn.com/markets/stocks/NKE)
+> [!note]- Nike (NKE): $33.72 (-0.4%) — Goldman Sachs cuts PT to $30; NKE on pace for worst year in listed history (Yahoo Finance)
+> Nike closed at $33.72, down ~0.4% from the prior close of $33.87, with Goldman Sachs resetting its price target to $30 from $38 (Neutral) amid continued brand weakness in Greater China and North America. Evercore ISI cut to $28, Barclays to $37 from $48 (Overweight maintained), and Truist to $29 from $42 — among multiple analyst downgrades today; 42 analysts now average a $39.99 12-month target. Nike shares are down over 45% year-to-date, on track for the stock's worst annual performance in listed history. Position: 46 shares @ $71.69 avg; unrealised P&L ≈ −$1,747. [Source](https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-resets-nike-stock-181700740.html)
+
+> [!note]- [[10-06-26 Tue]]
+>
+> > [!note]- AI: Google pauses OSS bug bounty after AI-generated reports overwhelm program (TechStartups)
+> > Google suspended its Open Source Software Vulnerability Rewards Program after being flooded with automated AI-generated vulnerability reports, straining researcher bandwidth and diluting genuine submissions. The move exposes a growing paradox: the same AI tools that accelerate real vulnerability discovery are being weaponised as spam engines against security programs. [Source](https://techstartups.com/2026/10/05/top-tech-news-today-october-5-2026-deutsche-telekom-foxconn-google-openai-schneider-electric-more/)
+>
+> > [!note]- Tech: OpenAI tests visual ads in ChatGPT image generation as weekly users hit 1.2 billion (TechStartups)
+> > OpenAI began testing visual ads inside ChatGPT's image generation feature — its first push into ad-supported monetisation — as the platform crossed 1.2 billion weekly active users, roughly a 4× increase over 18 months. The move signals a potential shift in OpenAI's revenue model beyond subscriptions and API fees. [Source](https://techstartups.com/2026/10/05/top-tech-news-today-october-5-2026-deutsche-telekom-foxconn-google-openai-schneider-electric-more/)
+>
+> > [!note]- Macro: Nasdaq hits fresh all-time high on Nvidia record; Dow and S&P 500 slip on yields and Iran-driven oil pressure (CNBC)
+> > The Nasdaq Composite surged to a fresh all-time high powered by a Nvidia record close and a broad semiconductor revival following Micron Technology's blowout quarterly results. The Dow Jones and S&P 500 retreated as elevated Treasury yields and oil prices linked to the US-Iran conflict weighed on rate-sensitive sectors. September payrolls (29K) pushed Fed October hike odds down to 21%; trade balance data and Dallas Fed President Logan's remarks are on Tuesday's calendar. [Source](https://www.cnbc.com/2026/10/02/stock-market-next-week-outlook-for-oct-5-9-2026-.html)
+>
+> > [!breaking]- World: Israel-Hamas indirect peace talks open in Egypt; Netanyahu signals hostage deal could come this week (WNG)
+> > Israeli and Hamas negotiators began indirect peace talks in Cairo today — a week after President Trump introduced a Gaza peace proposal backed by regional Arab states. Secretary of State Rubio said an end to the war may be "closer than ever," and Netanyahu signalled a hostage release announcement could come within days, with terms calling for all hostages freed within 72 hours and a phased Israeli withdrawal from Gaza. US government shutdown entered day six with no congressional breakthrough. [Source](https://wng.org/podcasts/monday-morning-news-october-6-2026-1759692228)
+>
+> > [!note]- Malaysia/Singapore: F1 Singapore Grand Prix runs Oct 5-11; Malaysia-SG conclude three-year Digital Economy Framework (TechTradeAsia)
+> > The Formula 1 Singapore Grand Prix is underway at Marina Bay Circuit through October 11, drawing global audiences one week after F1's return to Sepang. Malaysia and Singapore also marked the conclusion of their three-year Digital Economy Framework on Cooperation, reaffirming commitment to deepen bilateral trade, investment, and supply chain resilience. [Source](https://www.techtradeasia.com/2026/10/malaysia-singapore-reaffirm-commitment.html)
+>
+> > [!note]- Science: US and 16 nations adopt "Kyoto Vision for Golden Age of Science" — AI and metascience at the core (AIP)
+> > The United States and 16 partner nations endorsed the "Kyoto Vision for a Golden Age of Science" at a forum in Japan, calling for AI and metascience to accelerate global scientific discovery. The declaration prioritises reproducibility, open data standards, and cross-border research coordination, with AI positioned as a core instrument for the next research cycle. [Source](https://aip.org/fyi/the-week-of-october-5-2026)
+>
+> > [!note]- Nike (NKE): $33.72 (-0.4%) — S&P Global cuts credit rating to 'A' from 'A+' citing China deterioration (CNN)
+> > Nike closed at $33.72 on October 5, down ~0.4% from its prior close of $33.87, as S&P Global Ratings downgraded Nike's credit to 'A' from 'A+', pointing to severe top-line deterioration in Greater China and negative free cash flow expected over the next 2-3 years. Analyst consensus among 33 Wall Street names is Hold (8 Buy / 18 Hold / 7 Sell). Position: 46 shares @ $71.69 avg; unrealised P&L approximately -$1,747. [Source](https://edition.cnn.com/markets/stocks/NKE)
 
 > [!note]- [[10-05-26 Mon]]
 >
