@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-10-07T05:00
+updated: 2026-10-06T06:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -61,28 +61,51 @@ unread: true
 
 ## 2026-10
 
-### [[10-07-26 Wed]]
+### [[10-06-26 Tue]]
 
-> [!note]- AI: Trump announces "Super Intelligence Force" AI task force to advance US dominance (ABC News)
-> President Trump formally announced a new "Super Intelligence Force" — an AI task force charged with advancing US AI dominance while managing national-security risks from frontier models. The order directs federal agencies to leverage frontier AI to accelerate government services, deepening the administration's pro-innovation posture just days after last week's voluntary White House AI safety pact with six major companies. [Source](https://abcnews.com/Politics/president-donald-trump-announces-creation-super-intelligence-force/story?id=136986122)
+> [!note]- AI: Mistral releases "Le Chonk" — 1T open-weight model for general agentic tasks (BenchLM)
+> Mistral AI released Mistral Large 4, nicknamed "Le Chonk," on October 6 — a 1-trillion-parameter open-weight model trained on 4,000 Grace Blackwell GPUs, designed for general agentic capabilities. The release underscores the intensifying race between European and US AI labs to deploy frontier open-weight models capable of autonomous multi-step task execution, as Mistral continues expanding beyond its European stronghold into global enterprise markets. [Source](https://benchlm.ai/model-updates)
 
-> [!note]- Tech: India Mobile Congress 2026 opens Oct 7 — 6G, AI-native telecom, quantum comms in focus (Business Standard)
-> The India Mobile Congress 2026 opened in New Delhi today, drawing global telecoms and semiconductor companies for a four-day showcase themed "Scale Without Boundaries," with sessions on 6G architecture, AI-native networks, satellite comms, and cybersecurity. Samsung's Galaxy Tab S12+ and S12 Ultra also hit US store shelves today, and Apple's first foldable iPhone Duo is expected to launch this month. [Source](https://www.business-standard.com/technology/tech-news/india-mobile-congress-2026-begins-oct-7-with-6g-ai-cybersecurity-in-focus-126100600736_1.html)
+> [!note]- Tech: Palo Alto Networks acquires agentic AI platform Console for $500M (SecurityWeek)
+> Palo Alto Networks agreed to acquire Console, an AI-native platform for building agentic security workflows, for $500 million in cash, deepening its Cortex AI platform's autonomous capabilities. The deal reflects the accelerating wave of cybersecurity M&A in 2026 — SecurityWeek tracked 39 cybersecurity deals in September alone — as vendors race to embed agentic AI into their platforms ahead of enterprise procurement cycles. [Source](https://securityweek.com/cybersecurity-ma-roundup-39-deals-announced-in-september-2026)
 
-> [!note]- Macro: FOMC minutes released today; S&P 500 at 7,782; markets mixed amid sticky yields (Kiplinger)
-> The Federal Reserve releases its latest FOMC meeting minutes today, detailing last month's unanimous rate hike and signalling the trajectory for the November meeting. The US500 closed at 7,782 on Tuesday, with Nasdaq and S&P MidCap posting gains while the Dow and S&P 500 dipped on persistent 10-year yield pressure; Levi Strauss and Applied Digital report earnings today. [Source](https://www.kiplinger.com/investing/economy/this-weeks-economic-calendar)
+> [!note]- Macro: Nasdaq closes at record 27,477; weak Sep payrolls (+29K) slashes Fed hike odds to 22% (NordFX)
+> A shock September payrolls miss (+29,000 vs. ~90,000 expected, unemployment 4.2%) cut Fed rate-hike odds below 22% and lifted equities, with the Nasdaq closing at a record 27,477.31 (+1.05%) and the S&P 500 at 7,773.99 (+0.66%). Gold fell 0.44% to $4,121/oz as risk appetite improved; Brent crude rose 0.55% to $100.87/bbl; the 10-year Treasury yield held near a 24-year high at 5.35%. [Source](https://nordfx.com/market-news/market-pulse-october-06-2026)
 
-> [!note]- World: Myanmar army airstrike on Rakhine market kills 49, wounds 58 — deadliest single strike in weeks (Wikipedia)
-> Myanmar's ruling junta launched an airstrike on a civilian market in Rakhine State on October 7, killing 49 people and injuring 58 more according to the Arakan Army rebel group that controls much of the region. The strike follows airstrikes on displacement camps in the same area yesterday that killed eight, drawing fresh international calls for humanitarian access amid the junta's ongoing offensive. [Source](https://en.wikipedia.org/wiki/Portal:Current_events/October_2026)
+> [!note]- World: Ukraine destroys $150M of Russian jets in deep strike 500km inside Russia (Wikipedia)
+> Ukraine conducted a long-range strike on a Russian military airfield approximately 500 kilometres inside Russian territory, destroying an estimated $150 million worth of combat aircraft — one of the deepest and costliest strikes on Russian aviation since the war began. The attack follows Russia's ongoing missile campaign targeting Kyiv's Dnipro bridges and signals Ukraine's continued ability to project force deep behind enemy lines despite mounting front-line pressure. [Source](https://en.wikipedia.org/wiki/Portal:Current_events/October_2026)
 
-> [!note]- Malaysia/Singapore: Malaysia & Singapore finalise digital economy framework — DuitNow-NETS QR linkage live (TechTradeAsia)
-> Malaysian and Singaporean ministers concluded talks reaffirming bilateral trade ties, announcing completion of the three-year Digital Economy Framework and live implementation of the cross-border DuitNow-NETS QR payment linkage enabling seamless MYR/SGD mobile payments. The AEO Mutual Recognition Arrangement is also in effect, reducing customs friction for approved exporters between the two countries. [Source](https://www.techtradeasia.com/2026/10/malaysia-singapore-reaffirm-commitment.html)
+> [!note]- Malaysia/Singapore: F1 SG Grand Prix opens Day 1; MY beats SG 6-0 but misses ASEAN Cup final on goal diff (The Star)
+> The Singapore F1 Grand Prix opened to fans on October 6 with the race weekend running through October 11, drawing tens of thousands of visitors to the Marina Bay street circuit. In football, Malaysia beat Singapore 6-0 in the ASEAN Cup 2026 Causeway Derby — Bergson scoring a hat-trick — but failed to reach the final as Indonesia scored in the 96th and 97th minutes of the parallel Group A match, denying Malaysia on overall goal difference; cross-border haze from Kalimantan fires remains at unhealthy API levels across Johor and northern states. [Source](https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/06/asean-news-headlines-at-10pm-on-tuesday-oct-6-2026)
 
-> [!note]- Science: SpaceX Crew-12 splashes down after nearly 10 months aboard the ISS (Space.com)
-> SpaceX's Crew-12 astronauts returned to Earth on October 7 after approximately 10 months aboard the International Space Station — one of the longest standard commercial crew rotations on record. The return followed three M-class solar flares on October 6 that triggered minor radio blackouts, adding mild space-weather considerations to reentry planning. [Source](https://www.space.com)
+> [!note]- Science: Nobel Prize in Physics 2026 awarded to Francis Halzen for IceCube neutrino observatory (Science.org)
+> The 2026 Nobel Prize in Physics was awarded to Francis Halzen of the University of Wisconsin–Madison for conceiving, building, and operating the IceCube Neutrino Observatory at the South Pole — the world's largest particle detector, buried deep in Antarctic ice. IceCube confirmed the detection of ultra-high-energy neutrinos from deep space, marking the birth of high-energy neutrino astronomy and opening a new cosmic observational window alongside gravitational wave and electromagnetic astronomy. [Source](https://www.science.org/news)
 
-> [!note]- Nike (NKE): ~$34.41 (+2.0%) — Berenberg downgrades to Sell, PT $27.50; near 13-year low (Yahoo Finance)
-> Nike is trading around $34.41, up roughly 2% from Monday's close near $33.72, though the stock remains near a 13-year low after falling ~5% last week following Q1 revenue of $11.2B (−4% YoY). Berenberg downgraded to Sell with a $27.50 target (down from $49), flagging weakening sportswear mix, severe China deterioration, and a slower recovery path; UBS and Barclays also cut targets. Position: 46 shares @ $71.69 avg; unrealised P&L ≈ −$1,715. [Source](https://finance.yahoo.com/quote/NKE/)
+> [!note]- Nike (NKE): $34.41 (+2.1%) — Berenberg downgrades to Sell, PT $27.50; Buy ratings at 20-yr low (GuruFocus)
+> Nike traded at $34.41 on October 6, recovering ~2.1% from Monday's $33.72 close, but Berenberg cut the stock from Hold to Sell with a price target of $27.50 — a 44% reduction — citing structural weakness in Jordan, sportswear, and Greater China, with restructuring unlikely to bear fruit before FY2029. Only 26% of analysts covering Nike now rate it a Buy, the lowest proportion in at least 20 years; the dividend payout ratio of 72% is also raising sustainability concerns. Position: 46 shares @ $71.69 avg; unrealised P&L ≈ −$1,715. [Source](https://gurufocus.com/news/9111254/nike-nke-faces-revenue-pressure-amid-dividend-sustainability-concerns-and-analyst-downgrade)
+
+> [!note]- [[10-07-26 Wed]]
+>
+> > [!note]- AI: Trump announces "Super Intelligence Force" AI task force to advance US dominance (ABC News)
+> > President Trump formally announced a new "Super Intelligence Force" — an AI task force charged with advancing US AI dominance while managing national-security risks from frontier models. The order directs federal agencies to leverage frontier AI to accelerate government services, deepening the administration's pro-innovation posture just days after last week's voluntary White House AI safety pact with six major companies. [Source](https://abcnews.com/Politics/president-donald-trump-announces-creation-super-intelligence-force/story?id=136986122)
+>
+> > [!note]- Tech: India Mobile Congress 2026 opens Oct 7 — 6G, AI-native telecom, quantum comms in focus (Business Standard)
+> > The India Mobile Congress 2026 opened in New Delhi today, drawing global telecoms and semiconductor companies for a four-day showcase themed "Scale Without Boundaries," with sessions on 6G architecture, AI-native networks, satellite comms, and cybersecurity. Samsung's Galaxy Tab S12+ and S12 Ultra also hit US store shelves today, and Apple's first foldable iPhone Duo is expected to launch this month. [Source](https://www.business-standard.com/technology/tech-news/india-mobile-congress-2026-begins-oct-7-with-6g-ai-cybersecurity-in-focus-126100600736_1.html)
+>
+> > [!note]- Macro: FOMC minutes released today; S&P 500 at 7,782; markets mixed amid sticky yields (Kiplinger)
+> > The Federal Reserve releases its latest FOMC meeting minutes today, detailing last month's unanimous rate hike and signalling the trajectory for the November meeting. The US500 closed at 7,782 on Tuesday, with Nasdaq and S&P MidCap posting gains while the Dow and S&P 500 dipped on persistent 10-year yield pressure; Levi Strauss and Applied Digital report earnings today. [Source](https://www.kiplinger.com/investing/economy/this-weeks-economic-calendar)
+>
+> > [!note]- World: Myanmar army airstrike on Rakhine market kills 49, wounds 58 — deadliest single strike in weeks (Wikipedia)
+> > Myanmar's ruling junta launched an airstrike on a civilian market in Rakhine State on October 7, killing 49 people and injuring 58 more according to the Arakan Army rebel group that controls much of the region. The strike follows airstrikes on displacement camps in the same area yesterday that killed eight, drawing fresh international calls for humanitarian access amid the junta's ongoing offensive. [Source](https://en.wikipedia.org/wiki/Portal:Current_events/October_2026)
+>
+> > [!note]- Malaysia/Singapore: Malaysia & Singapore finalise digital economy framework — DuitNow-NETS QR linkage live (TechTradeAsia)
+> > Malaysian and Singaporean ministers concluded talks reaffirming bilateral trade ties, announcing completion of the three-year Digital Economy Framework and live implementation of the cross-border DuitNow-NETS QR payment linkage enabling seamless MYR/SGD mobile payments. The AEO Mutual Recognition Arrangement is also in effect, reducing customs friction for approved exporters between the two countries. [Source](https://www.techtradeasia.com/2026/10/malaysia-singapore-reaffirm-commitment.html)
+>
+> > [!note]- Science: SpaceX Crew-12 splashes down after nearly 10 months aboard the ISS (Space.com)
+> > SpaceX's Crew-12 astronauts returned to Earth on October 7 after approximately 10 months aboard the International Space Station — one of the longest standard commercial crew rotations on record. The return followed three M-class solar flares on October 6 that triggered minor radio blackouts, adding mild space-weather considerations to reentry planning. [Source](https://www.space.com)
+>
+> > [!note]- Nike (NKE): ~$34.41 (+2.0%) — Berenberg downgrades to Sell, PT $27.50; near 13-year low (Yahoo Finance)
+> > Nike is trading around $34.41, up roughly 2% from Monday's close near $33.72, though the stock remains near a 13-year low after falling ~5% last week following Q1 revenue of $11.2B (−4% YoY). Berenberg downgraded to Sell with a $27.50 target (down from $49), flagging weakening sportswear mix, severe China deterioration, and a slower recovery path; UBS and Barclays also cut targets. Position: 46 shares @ $71.69 avg; unrealised P&L ≈ −$1,715. [Source](https://finance.yahoo.com/quote/NKE/)
 
 > [!note]- [[10-06-26 Tue]]
 >
