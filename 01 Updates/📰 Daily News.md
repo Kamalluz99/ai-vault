@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-10-06T05:17
+updated: 2026-10-06T19:17
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,26 @@ unread: true
 
 > [!note]- Nike (NKE): $33.72 (-0.4%) — S&P Global cuts credit rating to 'A' from 'A+' citing China deterioration (CNN)
 > Nike closed at $33.72 on October 5, down ~0.4% from its prior close of $33.87, as S&P Global Ratings downgraded Nike's credit to 'A' from 'A+', pointing to severe top-line deterioration in Greater China and negative free cash flow expected over the next 2-3 years. Analyst consensus among 33 Wall Street names is Hold (8 Buy / 18 Hold / 7 Sell). Position: 46 shares @ $71.69 avg; unrealised P&L approximately -$1,747. [Source](https://edition.cnn.com/markets/stocks/NKE)
+
+> **Evening update**
+
+> [!note]- SG/MY: Singapore haze worsens — PSI unhealthy across all northern regions as Kalimantan fires intensify (The Star)
+> Air quality across most of Singapore remained unhealthy through the day on October 6, with the 24-hour PSI hitting 130 in central Singapore and above 100 in the north (107), east (112), and west (117) — only the south (95) stayed in the moderate range. Smoke plumes from active fires in Kalimantan and Sumatra are being funnelled toward Singapore and Peninsular Malaysia by prevailing southeast winds, and NEA has advised residents to limit prolonged outdoor exertion. [Source](https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/06/haze-in-singapore-air-quality-remains-unhealthy-for-much-of-the-island)
+
+> [!note]- Malaysia: PM Anwar to table Budget 2027 with expanded welfare, higher social spending and subsidy reform (Malay Mail)
+> Malaysian Prime Minister Anwar Ibrahim is set to present the fifth MADANI budget this week, with plans for targeted cash handouts for lower-income households, increased education and healthcare allocations, and continued subsidy rationalisation. The government aims to sustain its fiscal deficit reduction path while prioritising bottom-40 household welfare, building on last year's RM470 billion Budget 2026 framework. [Source](https://www.malaymail.com/news/malaysia)
+
+> [!note]- World: Myanmar military airstrikes on Rakhine displacement camps kill 8 civilians — Arakan Army (Reuters)
+> Myanmar's military carried out airstrikes on civilian displacement camps in Rakhine State on October 6, killing at least eight people according to the Arakan Army rebel group, which controls much of the region and has been fighting junta forces since late 2023. The strikes targeted communities sheltering hundreds of thousands of internally displaced persons who fled earlier fighting, drawing fresh international calls for humanitarian access to the area. [Source](https://www.reuters.com)
+
+> [!note]- World: Third US aircraft carrier en route to Middle East as Iran-Hormuz standoff deepens (AP)
+> A third US aircraft carrier strike group is en route to the Middle East, bringing American carrier presence in the region to its highest level since the 1991 Gulf War, as the Strait of Hormuz standoff with Iran shows no sign of resolution. Iranian lawmakers have introduced a bill to withdraw from the Nuclear Non-Proliferation Treaty, and Tehran continues to deny IAEA inspectors access to most nuclear facilities, further complicating diplomatic efforts. [Source](https://apnews.com)
+
+> [!note]- Tech: Southeast Asia rethinks AI data centre boom as grid, water and permitting strains mount (MIT Technology Review)
+> Countries across Southeast Asia are reassessing the pace of their AI data centre buildouts as electricity grid capacity, water supply, and permitting bottlenecks increasingly constrain deployment timelines in Singapore, Malaysia, and Indonesia — the region's three largest markets. The rethink follows record hyperscaler investment in 2025–26, with utility operators and governments now demanding stricter sustainability and infrastructure pre-conditions before approving new facilities. [Source](https://www.technologyreview.com)
+
+> [!note]- Science: 7 cancer types rising sharply among adults under 50 across England, US and Netherlands — study (ScienceDaily)
+> A cross-country study of cancer registry data from England, the United States, and the Netherlands found significant increases in seven cancer types — including thyroid, colorectal, kidney, and breast cancers — rising particularly rapidly among people under 50 despite improvements in older age groups. Researchers flagged ultra-processed food consumption, rising obesity rates, and sedentary lifestyles as likely contributors, and called for updated screening guidelines to reflect this shift toward younger patient demographics. [Source](https://www.sciencedaily.com/news/health_medicine/)
 
 > [!note]- [[10-05-26 Mon]]
 >
