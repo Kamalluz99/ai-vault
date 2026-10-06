@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-10-06T19:17
+updated: 2026-10-07T05:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -61,48 +61,74 @@ unread: true
 
 ## 2026-10
 
-### [[10-06-26 Tue]]
+### [[10-07-26 Wed]]
 
-> [!note]- AI: AMD acquires Fei-Fei Li's World Labs for $8.2B in stock to anchor spatial AI (TechStartups)
-> AMD has agreed to acquire World Labs — the spatial intelligence startup co-founded by AI pioneer Fei-Fei Li — for $8.2 billion in stock, integrating Li and her research team directly into AMD's AI organisation. The deal positions AMD to compete with Nvidia not just in accelerator silicon but in foundational AI research, specifically 3D spatial reasoning and world-model capabilities that underpin next-generation robotics and agentic systems. [Source](https://techstartups.com/2026/10/05/top-tech-news-today-october-5-2026-deutsche-telekom-foxconn-google-openai-schneider-electric-more/)
+> [!note]- AI: Trump announces "Super Intelligence Force" AI task force to advance US dominance (ABC News)
+> President Trump formally announced a new "Super Intelligence Force" — an AI task force charged with advancing US AI dominance while managing national-security risks from frontier models. The order directs federal agencies to leverage frontier AI to accelerate government services, deepening the administration's pro-innovation posture just days after last week's voluntary White House AI safety pact with six major companies. [Source](https://abcnews.com/Politics/president-donald-trump-announces-creation-super-intelligence-force/story?id=136986122)
 
-> [!note]- Tech: Schneider Electric acquires US industrial software giant PTC for $22.6B — Europe's largest deal of 2026 (TechStartups)
-> Schneider Electric has agreed to acquire PTC — the US maker of product lifecycle management and engineering software — for approximately $22.6 billion, its largest acquisition ever and one of Europe's biggest transactions of the year. The deal adds PTC's industrial data and design tools to Schneider's energy management AI offerings, creating a dominant player in AI-driven industrial automation and smart manufacturing. [Source](https://techstartups.com/2026/10/05/top-tech-news-today-october-5-2026-deutsche-telekom-foxconn-google-openai-schneider-electric-more/)
+> [!note]- Tech: India Mobile Congress 2026 opens Oct 7 — 6G, AI-native telecom, quantum comms in focus (Business Standard)
+> The India Mobile Congress 2026 opened in New Delhi today, drawing global telecoms and semiconductor companies for a four-day showcase themed "Scale Without Boundaries," with sessions on 6G architecture, AI-native networks, satellite comms, and cybersecurity. Samsung's Galaxy Tab S12+ and S12 Ultra also hit US store shelves today, and Apple's first foldable iPhone Duo is expected to launch this month. [Source](https://www.business-standard.com/technology/tech-news/india-mobile-congress-2026-begins-oct-7-with-6g-ai-cybersecurity-in-focus-126100600736_1.html)
 
-> [!note]- Macro: Gold posts second weekly decline as 10-year real yields approach 2.9%; FOMC minutes due Wednesday (TalkMarkets)
-> Gold fell roughly 3.4% last week — its second consecutive weekly decline — as the 10-year Treasury yield hit a 24-year high and real yields pushed toward 2.9%, eroding the metal's appeal. Bitcoin held at $85,714 (-0.16%) and Brent crude traded between $98–$104 on sustained Strait of Hormuz tension; key calendar events this week include FOMC Minutes on Wednesday and ECB accounts on Thursday. [Source](https://talkmarkets.com/article/forex-and-cryptocurrency-forecast-for-october-59-2026)
+> [!note]- Macro: FOMC minutes released today; S&P 500 at 7,782; markets mixed amid sticky yields (Kiplinger)
+> The Federal Reserve releases its latest FOMC meeting minutes today, detailing last month's unanimous rate hike and signalling the trajectory for the November meeting. The US500 closed at 7,782 on Tuesday, with Nasdaq and S&P MidCap posting gains while the Dow and S&P 500 dipped on persistent 10-year yield pressure; Levi Strauss and Applied Digital report earnings today. [Source](https://www.kiplinger.com/investing/economy/this-weeks-economic-calendar)
 
-> [!breaking]- World: Iran MPs introduce NPT withdrawal bill; Hormuz won't reopen until 7 US conditions met (JustSecurity)
-> Iranian lawmakers introduced a bill calling for withdrawal from the Nuclear Non-Proliferation Treaty, while Parliament Speaker Qalibaf declared the Strait of Hormuz will remain closed until seven conditions from the June Islamabad ceasefire MOU are fulfilled — conditions President Trump has publicly rejected. The IAEA reports Iran has denied inspectors access to most of its 22 nuclear sites for over a year; Trump's national security cabinet held a full Camp David summit this weekend to debate relaunching major combat operations under Operation Epic Fury. [Source](https://justsecurity.org/159662/early-edition-october-5-2026)
+> [!note]- World: Myanmar army airstrike on Rakhine market kills 49, wounds 58 — deadliest single strike in weeks (Wikipedia)
+> Myanmar's ruling junta launched an airstrike on a civilian market in Rakhine State on October 7, killing 49 people and injuring 58 more according to the Arakan Army rebel group that controls much of the region. The strike follows airstrikes on displacement camps in the same area yesterday that killed eight, drawing fresh international calls for humanitarian access amid the junta's ongoing offensive. [Source](https://en.wikipedia.org/wiki/Portal:Current_events/October_2026)
 
-> [!note]- Malaysia: Skyro secures KPKT moneylending licence — Philippines fintech makes first cross-border Malaysia push (Manila Times)
-> Consumer finance group Skyro announced it has obtained a moneylender's licence from Malaysia's Ministry of Housing and Local Government (KPKT), authorising it to conduct online moneylending in the country. The company — which operates a scaled digital lending platform in the Philippines — plans to launch cash loans in Malaysia in the coming months, marking one of the first Southeast Asian fintechs to successfully expand its lending model cross-border into the Malaysian regulated market. [Source](https://manilatimes.net/2026/10/06/tmt-newswire/media-outreach-newswire/skyro-obtains-moneylending-licence-in-malaysia-following-success-in-the-philippines/2439480)
+> [!note]- Malaysia/Singapore: Malaysia & Singapore finalise digital economy framework — DuitNow-NETS QR linkage live (TechTradeAsia)
+> Malaysian and Singaporean ministers concluded talks reaffirming bilateral trade ties, announcing completion of the three-year Digital Economy Framework and live implementation of the cross-border DuitNow-NETS QR payment linkage enabling seamless MYR/SGD mobile payments. The AEO Mutual Recognition Arrangement is also in effect, reducing customs friction for approved exporters between the two countries. [Source](https://www.techtradeasia.com/2026/10/malaysia-singapore-reaffirm-commitment.html)
 
-> [!note]- Science: Astronomers confirm second-generation planet orbiting a white dwarf — born from dead star's own debris (SciTechDaily)
-> Astronomers have confirmed the existence of a rare second-generation planet orbiting a white dwarf — a world that formed from material ejected by the very star it now orbits in its remnant state. The discovery challenges standard planetary formation models and raises provocative questions about whether post-stellar environments could develop new planetary systems, and potentially even conditions for habitability, long after a star's death. [Source](https://scitechdaily.com)
+> [!note]- Science: SpaceX Crew-12 splashes down after nearly 10 months aboard the ISS (Space.com)
+> SpaceX's Crew-12 astronauts returned to Earth on October 7 after approximately 10 months aboard the International Space Station — one of the longest standard commercial crew rotations on record. The return followed three M-class solar flares on October 6 that triggered minor radio blackouts, adding mild space-weather considerations to reentry planning. [Source](https://www.space.com)
 
-> [!note]- Nike (NKE): $33.72 (-0.4%) — S&P Global cuts credit rating to 'A' from 'A+' citing China deterioration (CNN)
-> Nike closed at $33.72 on October 5, down ~0.4% from its prior close of $33.87, as S&P Global Ratings downgraded Nike's credit to 'A' from 'A+', pointing to severe top-line deterioration in Greater China and negative free cash flow expected over the next 2-3 years. Analyst consensus among 33 Wall Street names is Hold (8 Buy / 18 Hold / 7 Sell). Position: 46 shares @ $71.69 avg; unrealised P&L approximately -$1,747. [Source](https://edition.cnn.com/markets/stocks/NKE)
+> [!note]- Nike (NKE): ~$34.41 (+2.0%) — Berenberg downgrades to Sell, PT $27.50; near 13-year low (Yahoo Finance)
+> Nike is trading around $34.41, up roughly 2% from Monday's close near $33.72, though the stock remains near a 13-year low after falling ~5% last week following Q1 revenue of $11.2B (−4% YoY). Berenberg downgraded to Sell with a $27.50 target (down from $49), flagging weakening sportswear mix, severe China deterioration, and a slower recovery path; UBS and Barclays also cut targets. Position: 46 shares @ $71.69 avg; unrealised P&L ≈ −$1,715. [Source](https://finance.yahoo.com/quote/NKE/)
 
-> **Evening update**
-
-> [!note]- SG/MY: Singapore haze worsens — PSI unhealthy across all northern regions as Kalimantan fires intensify (The Star)
-> Air quality across most of Singapore remained unhealthy through the day on October 6, with the 24-hour PSI hitting 130 in central Singapore and above 100 in the north (107), east (112), and west (117) — only the south (95) stayed in the moderate range. Smoke plumes from active fires in Kalimantan and Sumatra are being funnelled toward Singapore and Peninsular Malaysia by prevailing southeast winds, and NEA has advised residents to limit prolonged outdoor exertion. [Source](https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/06/haze-in-singapore-air-quality-remains-unhealthy-for-much-of-the-island)
-
-> [!note]- Malaysia: PM Anwar to table Budget 2027 with expanded welfare, higher social spending and subsidy reform (Malay Mail)
-> Malaysian Prime Minister Anwar Ibrahim is set to present the fifth MADANI budget this week, with plans for targeted cash handouts for lower-income households, increased education and healthcare allocations, and continued subsidy rationalisation. The government aims to sustain its fiscal deficit reduction path while prioritising bottom-40 household welfare, building on last year's RM470 billion Budget 2026 framework. [Source](https://www.malaymail.com/news/malaysia)
-
-> [!note]- World: Myanmar military airstrikes on Rakhine displacement camps kill 8 civilians — Arakan Army (Reuters)
-> Myanmar's military carried out airstrikes on civilian displacement camps in Rakhine State on October 6, killing at least eight people according to the Arakan Army rebel group, which controls much of the region and has been fighting junta forces since late 2023. The strikes targeted communities sheltering hundreds of thousands of internally displaced persons who fled earlier fighting, drawing fresh international calls for humanitarian access to the area. [Source](https://www.reuters.com)
-
-> [!note]- World: Third US aircraft carrier en route to Middle East as Iran-Hormuz standoff deepens (AP)
-> A third US aircraft carrier strike group is en route to the Middle East, bringing American carrier presence in the region to its highest level since the 1991 Gulf War, as the Strait of Hormuz standoff with Iran shows no sign of resolution. Iranian lawmakers have introduced a bill to withdraw from the Nuclear Non-Proliferation Treaty, and Tehran continues to deny IAEA inspectors access to most nuclear facilities, further complicating diplomatic efforts. [Source](https://apnews.com)
-
-> [!note]- Tech: Southeast Asia rethinks AI data centre boom as grid, water and permitting strains mount (MIT Technology Review)
-> Countries across Southeast Asia are reassessing the pace of their AI data centre buildouts as electricity grid capacity, water supply, and permitting bottlenecks increasingly constrain deployment timelines in Singapore, Malaysia, and Indonesia — the region's three largest markets. The rethink follows record hyperscaler investment in 2025–26, with utility operators and governments now demanding stricter sustainability and infrastructure pre-conditions before approving new facilities. [Source](https://www.technologyreview.com)
-
-> [!note]- Science: 7 cancer types rising sharply among adults under 50 across England, US and Netherlands — study (ScienceDaily)
-> A cross-country study of cancer registry data from England, the United States, and the Netherlands found significant increases in seven cancer types — including thyroid, colorectal, kidney, and breast cancers — rising particularly rapidly among people under 50 despite improvements in older age groups. Researchers flagged ultra-processed food consumption, rising obesity rates, and sedentary lifestyles as likely contributors, and called for updated screening guidelines to reflect this shift toward younger patient demographics. [Source](https://www.sciencedaily.com/news/health_medicine/)
+> [!note]- [[10-06-26 Tue]]
+>
+>
+> > [!note]- AI: AMD acquires Fei-Fei Li's World Labs for $8.2B in stock to anchor spatial AI (TechStartups)
+> > AMD has agreed to acquire World Labs — the spatial intelligence startup co-founded by AI pioneer Fei-Fei Li — for $8.2 billion in stock, integrating Li and her research team directly into AMD's AI organisation. The deal positions AMD to compete with Nvidia not just in accelerator silicon but in foundational AI research, specifically 3D spatial reasoning and world-model capabilities that underpin next-generation robotics and agentic systems. [Source](https://techstartups.com/2026/10/05/top-tech-news-today-october-5-2026-deutsche-telekom-foxconn-google-openai-schneider-electric-more/)
+>
+> > [!note]- Tech: Schneider Electric acquires US industrial software giant PTC for $22.6B — Europe's largest deal of 2026 (TechStartups)
+> > Schneider Electric has agreed to acquire PTC — the US maker of product lifecycle management and engineering software — for approximately $22.6 billion, its largest acquisition ever and one of Europe's biggest transactions of the year. The deal adds PTC's industrial data and design tools to Schneider's energy management AI offerings, creating a dominant player in AI-driven industrial automation and smart manufacturing. [Source](https://techstartups.com/2026/10/05/top-tech-news-today-october-5-2026-deutsche-telekom-foxconn-google-openai-schneider-electric-more/)
+>
+> > [!note]- Macro: Gold posts second weekly decline as 10-year real yields approach 2.9%; FOMC minutes due Wednesday (TalkMarkets)
+> > Gold fell roughly 3.4% last week — its second consecutive weekly decline — as the 10-year Treasury yield hit a 24-year high and real yields pushed toward 2.9%, eroding the metal's appeal. Bitcoin held at $85,714 (-0.16%) and Brent crude traded between $98–$104 on sustained Strait of Hormuz tension; key calendar events this week include FOMC Minutes on Wednesday and ECB accounts on Thursday. [Source](https://talkmarkets.com/article/forex-and-cryptocurrency-forecast-for-october-59-2026)
+>
+> > [!breaking]- World: Iran MPs introduce NPT withdrawal bill; Hormuz won't reopen until 7 US conditions met (JustSecurity)
+> > Iranian lawmakers introduced a bill calling for withdrawal from the Nuclear Non-Proliferation Treaty, while Parliament Speaker Qalibaf declared the Strait of Hormuz will remain closed until seven conditions from the June Islamabad ceasefire MOU are fulfilled — conditions President Trump has publicly rejected. The IAEA reports Iran has denied inspectors access to most of its 22 nuclear sites for over a year; Trump's national security cabinet held a full Camp David summit this weekend to debate relaunching major combat operations under Operation Epic Fury. [Source](https://justsecurity.org/159662/early-edition-october-5-2026)
+>
+> > [!note]- Malaysia: Skyro secures KPKT moneylending licence — Philippines fintech makes first cross-border Malaysia push (Manila Times)
+> > Consumer finance group Skyro announced it has obtained a moneylender's licence from Malaysia's Ministry of Housing and Local Government (KPKT), authorising it to conduct online moneylending in the country. The company — which operates a scaled digital lending platform in the Philippines — plans to launch cash loans in Malaysia in the coming months, marking one of the first Southeast Asian fintechs to successfully expand its lending model cross-border into the Malaysian regulated market. [Source](https://manilatimes.net/2026/10/06/tmt-newswire/media-outreach-newswire/skyro-obtains-moneylending-licence-in-malaysia-following-success-in-the-philippines/2439480)
+>
+> > [!note]- Science: Astronomers confirm second-generation planet orbiting a white dwarf — born from dead star's own debris (SciTechDaily)
+> > Astronomers have confirmed the existence of a rare second-generation planet orbiting a white dwarf — a world that formed from material ejected by the very star it now orbits in its remnant state. The discovery challenges standard planetary formation models and raises provocative questions about whether post-stellar environments could develop new planetary systems, and potentially even conditions for habitability, long after a star's death. [Source](https://scitechdaily.com)
+>
+> > [!note]- Nike (NKE): $33.72 (-0.4%) — S&P Global cuts credit rating to 'A' from 'A+' citing China deterioration (CNN)
+> > Nike closed at $33.72 on October 5, down ~0.4% from its prior close of $33.87, as S&P Global Ratings downgraded Nike's credit to 'A' from 'A+', pointing to severe top-line deterioration in Greater China and negative free cash flow expected over the next 2-3 years. Analyst consensus among 33 Wall Street names is Hold (8 Buy / 18 Hold / 7 Sell). Position: 46 shares @ $71.69 avg; unrealised P&L approximately -$1,747. [Source](https://edition.cnn.com/markets/stocks/NKE)
+>
+> > **Evening update**
+>
+> > [!note]- SG/MY: Singapore haze worsens — PSI unhealthy across all northern regions as Kalimantan fires intensify (The Star)
+> > Air quality across most of Singapore remained unhealthy through the day on October 6, with the 24-hour PSI hitting 130 in central Singapore and above 100 in the north (107), east (112), and west (117) — only the south (95) stayed in the moderate range. Smoke plumes from active fires in Kalimantan and Sumatra are being funnelled toward Singapore and Peninsular Malaysia by prevailing southeast winds, and NEA has advised residents to limit prolonged outdoor exertion. [Source](https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/06/haze-in-singapore-air-quality-remains-unhealthy-for-much-of-the-island)
+>
+> > [!note]- Malaysia: PM Anwar to table Budget 2027 with expanded welfare, higher social spending and subsidy reform (Malay Mail)
+> > Malaysian Prime Minister Anwar Ibrahim is set to present the fifth MADANI budget this week, with plans for targeted cash handouts for lower-income households, increased education and healthcare allocations, and continued subsidy rationalisation. The government aims to sustain its fiscal deficit reduction path while prioritising bottom-40 household welfare, building on last year's RM470 billion Budget 2026 framework. [Source](https://www.malaymail.com/news/malaysia)
+>
+> > [!note]- World: Myanmar military airstrikes on Rakhine displacement camps kill 8 civilians — Arakan Army (Reuters)
+> > Myanmar's military carried out airstrikes on civilian displacement camps in Rakhine State on October 6, killing at least eight people according to the Arakan Army rebel group, which controls much of the region and has been fighting junta forces since late 2023. The strikes targeted communities sheltering hundreds of thousands of internally displaced persons who fled earlier fighting, drawing fresh international calls for humanitarian access to the area. [Source](https://www.reuters.com)
+>
+> > [!note]- World: Third US aircraft carrier en route to Middle East as Iran-Hormuz standoff deepens (AP)
+> > A third US aircraft carrier strike group is en route to the Middle East, bringing American carrier presence in the region to its highest level since the 1991 Gulf War, as the Strait of Hormuz standoff with Iran shows no sign of resolution. Iranian lawmakers have introduced a bill to withdraw from the Nuclear Non-Proliferation Treaty, and Tehran continues to deny IAEA inspectors access to most nuclear facilities, further complicating diplomatic efforts. [Source](https://apnews.com)
+>
+> > [!note]- Tech: Southeast Asia rethinks AI data centre boom as grid, water and permitting strains mount (MIT Technology Review)
+> > Countries across Southeast Asia are reassessing the pace of their AI data centre buildouts as electricity grid capacity, water supply, and permitting bottlenecks increasingly constrain deployment timelines in Singapore, Malaysia, and Indonesia — the region's three largest markets. The rethink follows record hyperscaler investment in 2025–26, with utility operators and governments now demanding stricter sustainability and infrastructure pre-conditions before approving new facilities. [Source](https://www.technologyreview.com)
+>
+> > [!note]- Science: 7 cancer types rising sharply among adults under 50 across England, US and Netherlands — study (ScienceDaily)
+> > A cross-country study of cancer registry data from England, the United States, and the Netherlands found significant increases in seven cancer types — including thyroid, colorectal, kidney, and breast cancers — rising particularly rapidly among people under 50 despite improvements in older age groups. Researchers flagged ultra-processed food consumption, rising obesity rates, and sedentary lifestyles as likely contributors, and called for updated screening guidelines to reflect this shift toward younger patient demographics. [Source](https://www.sciencedaily.com/news/health_medicine/)
+>
+>
 
 > [!note]- [[10-05-26 Mon]]
 >
