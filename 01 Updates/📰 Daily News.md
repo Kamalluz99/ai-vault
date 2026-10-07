@@ -1,6 +1,6 @@
 ---
 created:
-updated: 2026-10-07T08:30
+updated: 2026-10-07T19:17
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,26 @@ unread: true
 
 > [!note]- Nike (NKE): ~$34.41 (+2.0%) — Berenberg downgrades to Sell, PT $27.50; near 13-year low (Yahoo Finance)
 > Nike is trading around $34.41, up roughly 2% from Monday's close near $33.72, though the stock remains near a 13-year low after falling ~5% last week following Q1 revenue of $11.2B (−4% YoY). Berenberg downgraded to Sell with a $27.50 target (down from $49), flagging weakening sportswear mix, severe China deterioration, and a slower recovery path; UBS and Barclays also cut targets. Position: 46 shares @ $71.69 avg; unrealised P&L ≈ −$1,715. [Source](https://finance.yahoo.com/quote/NKE/)
+
+> **Evening update**
+
+> [!note]- Singapore & Malaysia: Haze shuts 200 Johor schools, smog looms over Singapore F1 weekend (The Malaysian Reserve)
+> Wildfire smoke from Kalimantan forced Malaysia to close some 200 schools, kindergartens and nurseries in Johor's Batu Pahat district as air quality in Kuala Lumpur hit "very unhealthy" levels, ranking the city the most polluted globally on Wednesday. The haze arrives with Singapore's Marina Bay F1 circuit mid-race-weekend, prompting organisers to monitor conditions closely. Greenpeace identified over 20 palm, pulp and sugar companies — several with ties to Malaysia and Singapore — whose land concessions contain sources of the fires. [Source](https://themalaysianreserve.com/2026/10/07/wildfire-haze-shuts-malaysia-schools-and-looms-over-singapore-f1/)
+
+> [!note]- Malaysia: 521kg meth seized from Laos private jet; NCID to travel to Laos to probe cross-border gang (Bernama)
+> Malaysia's Narcotics Crime Investigation Department announced its officials would travel to Laos to gather further intelligence on a cross-border drug syndicate after 521 kilograms of methamphetamine were seized from a private jet originating from Laos. The haul is one of the largest single-flight drug interceptions recorded in the region, pointing to increasingly sophisticated air-based trafficking networks operating across the Golden Triangle. [Source](https://bernama.com/en/world/news.php?id=2616395)
+
+> [!breaking]- World: US and Israel strike Iran nuclear and military sites; Tehran vows maximum retaliation (Euronews)
+> The United States and Israel conducted coordinated air strikes targeting Iran's nuclear and military installations, officials described as a direct response to Tehran's ongoing Hormuz closure and NPT withdrawal threat. Iran's leadership warned of a "maximum retaliatory response" across the region as a third US carrier strike group remains positioned in the Persian Gulf, raising fears of a broader Middle East conflagration. [Source](https://www.euronews.com/)
+
+> [!note]- World: Paris student protests turn violent; school pupils clash with riot police over funding crisis (Euronews)
+> Thousands of students took to the streets across France demanding increased school funding and urgent repairs to crumbling buildings, with clashes erupting in Paris between protesters and riot police deploying tear gas. The demonstrations are the latest flashpoint in a broader cycle of French public-sector unrest, coming amid a nationwide debate over austerity and the quality of state education. [Source](https://www.euronews.com/)
+
+> [!note]- Tech: Anthropic releases Claude Opus 5.5 at 40% lower cost than Opus 5, matching near-Fable performance (LLM Stats)
+> Anthropic released Claude Opus 5.5, a model that achieves near-Fable 5.1-level benchmark performance at approximately 40% lower cost per token than Opus 5, making frontier-class capabilities more accessible for enterprise deployments. The release comes days after OpenAI cancelled its GPT-6.1 Astra rollout over alignment failures, positioning Anthropic as the frontier lab delivering a capable model to market this week. [Source](https://llm-stats.com/ai-news)
+
+> [!note]- Science: Nobel Chemistry 2026 — Kagan and Soai win for homochirality, solving life's molecular handedness mystery (Business News This Week)
+> French chemist Henri B. Kagan and Japanese chemist Kenso Soai were awarded the 2026 Nobel Prize in Chemistry for pioneering work explaining how molecular asymmetry — homochirality — can emerge spontaneously, solving a century-old puzzle at the intersection of chemistry and the origins of life. Life on Earth uses almost exclusively left-handed amino acids and right-handed sugars; the pair's research on asymmetric autocatalysis and chiral amplification provides a plausible mechanism for how this one-sided molecular handedness first arose. [Source](https://businessnewsthisweek.com/education/nobel-chemistry-2026-henri-kagan-kenso-soai-win-prize-for-solving-century-old-molecular-mystery/)
 
 > [!note]- [[10-06-26 Tue]]
 >
