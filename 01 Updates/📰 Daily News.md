@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-09T05:19
+updated: 2026-10-08T05:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -60,29 +60,52 @@ unread: true
 
 ## 2026-10
 
-### [[10-09-26 Fri]]
+### [[10-08-26 Thu]]
 
-> [!note]- AI: FTC opens probe into OpenAI and Anthropic over autonomous AI agents (AI News)
-> The Federal Trade Commission launched an investigation into OpenAI and Anthropic within 24 hours of President Trump's AI self-policing pact, targeting autonomous AI agents critics say operate without adequate oversight or human control. The probe marks the first direct federal regulatory action against leading US AI labs, and comes as Goldman Sachs reported AI-related lower-rated companies have issued $88 billion in high-yield debt in 2026. [Source](https://blog.mean.ceo/ai-news-october-2026/)
+> [!note]- AI: India to release draft AI regulation paper within 30 days; govt to empanel approved vendors (Business Standard)
+> India's IT Minister Ashwini Vaishnaw announced the government will publish a draft consultation paper on AI regulation within 30 days, with industry expected to carry much of the rulemaking work and a list of approved AI vendors for public-sector projects to follow. The announcement positions India as one of the first large economies to formalise AI procurement standards, coming days after the White House voluntary self-policing accord and the FTC's probe into OpenAI and Anthropic. [Source](https://business-standard.com/amp/technology/artificial-intelligence/govt-to-release-draft-ai-regulation-paper-within-30-days-ashwini-vaishnaw-126100801183_1.html)
 
-> [!breaking]- World: US deploys third carrier group to Middle East as Trump warns of fresh Iran strikes (Reuters/CNBC)
-> The United States is sending a third aircraft carrier strike group to the Middle East as President Trump renewed warnings of new strikes against Iran, dramatically escalating the two-month-old US-Iran conflict that has already closed the Strait of Hormuz. Tehran declared it remains "fully prepared" for war to resume while insisting diplomacy is not finished; Pakistan-mediated talks, backed by China, remain the only active de-escalation channel. [Source](https://www.cnbc.com/world-politics/)
+> [!note]- Tech: Snap cuts 16% of workforce (~1,000 jobs) as AI disrupts ad model; Monday.com and Block also cut deeply (Yahoo Finance)
+> Snap announced layoffs of approximately 16% of its global workforce — roughly 1,000 employees — and closed over 300 open roles, with CEO Evan Spiegel citing AI-driven disruption to its advertising and engagement core. The cuts extend a wave of enterprise software layoffs in autumn 2026: Monday.com announced a 20% reduction (~600 employees) the same week, and Block (formerly Square) disclosed plans to cut 40% of staff, citing AI automation replacing manual development work. [Source](https://finance.yahoo.com/technology/ai/articles/running-list-major-tech-layoffs-012755703.html)
 
-> [!note]- Tech: Microsoft Surface event — Nvidia-powered AI PCs with Execution Containers sandboxing agent access on Windows 11 (BGR)
-> Microsoft unveiled Nvidia-powered Surface devices with AI agents as the centrepiece, while making Execution Containers generally available on Windows 11 to restrict what those agents can locally access. Finnish authorities also ordered Google to halt preparatory work at two planned data centres over environmental concerns, adding regulatory friction to Europe's AI infrastructure build-out. [Source](https://bgr.com/2279488/windows-surface-event-october-2026-liveblog-updates/)
+> [!breaking]- Macro: Oil surges 5% on Iran strike fears; S&P 500 -0.47%, 10-yr yield 5.36%, Bitcoin falls to $81K (Bloomberg/NordFX)
+> WTI crude surged over 5% to ~$93/bbl and Brent topped $104 after reports that the Pentagon has been ordered to prepare for a possible resumption of major combat operations against Iran ahead of the midterm elections. US equities weakened -- S&P 500 at 7,765.48 (-0.47%), Nasdaq -1.25%, Dow +0.10% -- while the 10-year Treasury yield touched 5.36%, its highest since 2002, and Bitcoin fell 2% to ~$81,000. [Source](https://nordfx.com/market-news/market-pulse-october-08-2026)
 
-> [!note]- Macro: S&P 500 7,765; Nasdaq −1.4%; Brent ~$100; 10-yr yield at 20-yr high; Bitcoin $83K (Bloomberg)
-> US equities slid Thursday — Nasdaq 100 −1.4%, chip-stock gauge −3.4%, S&P 500 at 7,765 — as renewed doubts about OpenAI's revenue outlook hit AI-linked shares. Brent crude held near $100 on Hormuz tension while 10-year Treasury yields stayed near their highest since 2002; Bitcoin fell to $83K amid forced liquidations as Fed minutes signal one more rate hike before year-end. [Source](https://bloomberg.com/news/articles/2026-10-07/stock-market-today-dow-s-p-live-updates)
+> [!note]- World: Tanker off Qatar struck by multiple projectiles; Trump weighs further Iran strikes before midterms (Times of Israel)
+> A commercial tanker in waters off Qatar reported hits from multiple projectiles, attributed by maritime agencies to Iran-linked forces, as the Hormuz conflict showed no sign of resolution. Reports emerged that President Trump is actively weighing further strikes on Iranian targets before November midterms, with the Pentagon already in contingency preparation; Iran continues to reject any ceasefire terms short of its full seven-condition Islamabad MOU demands. [Source](https://www.timesofisrael.com/liveblog-october-07-2026/)
 
-> [!note]- Malaysia: Negeri Sembilan schools closed Friday as Kalimantan haze hits unhealthy range (The Star)
-> All schools and educational institutions in Negeri Sembilan are closed today as haze from Kalimantan forest fires pushed air quality into the unhealthy range, extending school closures that began in Johor on Thursday. Singapore's air quality also hit "very unhealthy" overnight, with IQAir briefly ranking the city among the world's most polluted; Greenpeace identified over 20 palm and pulp companies whose concessions contain active fire sources. [Source](https://www.thestar.com.my/)
+> [!note]- Malaysia/Singapore: Singapore F1 Day 3 amid persistent haze; PSI unhealthy, Johor schools closed second consecutive day (Yahoo News SG)
+> Singapore's Formula One Grand Prix entered its third day with Kalimantan wildfire haze still blanketing the city, the PSI remaining in the unhealthy range across most regions, and Johor schools closed for a second consecutive day. F1 organisers said conditions are being monitored but are not at any level of operational concern; the National Environment Agency forecasts continued dry, smoky conditions over southern Southeast Asia for the coming days. [Source](https://sg.news.yahoo.com/singapore-smog-worst-in-world-as-haze-shuts-malaysia-schools-224418399.html)
 
-> [!note]- Science: CME arrives Friday — G1–G2 geomagnetic storm and auroras likely at high latitudes (EarthSky)
-> A coronal mass ejection launched on October 6 is forecast to arrive today, triggering G1–G2 (minor-to-moderate) geomagnetic storms and aurora displays at high latitudes, aided by a nearly new moon for dark skies. The 2026 Nobel season also wrapped this week: Chemistry to Henri Kagan and Kenso Soai for molecular homochirality, and Physics to Francis Halzen for IceCube neutrino astronomy. [Source](https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/)
+> [!note]- Science: Epilepsy drug lacosamide may block both arthritis pain and cartilage destruction -- dual-action OA therapy (ScienceDaily)
+> Yale researchers found that the epilepsy drug lacosamide appears to block a protein involved in both pain signalling and cartilage degradation in osteoarthritis, potentially offering a treatment that relieves pain while simultaneously slowing joint damage -- a combination no current OA drug achieves. The finding remains in early-stage research and awaits clinical trial validation, but opens a new avenue for the 500 million people globally living with osteoarthritis. [Source](https://www.sciencedaily.com/)
 
-> [!note]- Nike (NKE): ~$34.30 (est., −44% YTD) — Motley Fool flags record 4.8% yield as potential floor; Goldman PT $30 (Motley Fool)
-> Nike is estimated near $34.30 heading into Friday's session — last quoted October 7 — with shares down ~44% YTD after Q1 FY2027 revenue fell 4% to $11.2B and management guided a high-single-digit full-year decline. Motley Fool highlights the 4.8% dividend yield (highest of any Dow component) as a compelling data point, while Goldman Sachs ($30 target, Neutral) and Berenberg (Sell, $27.50) keep the near-term outlook bearish. Position: 46 shares @ $71.69 avg; unrealised P&L ≈ −$1,723. [Source](https://fool.com/investing/2026/10/08/1-stat-that-makes-nike-hard-to-ignore-this-october)
+> [!note]- Nike (NKE): $34.26 (-0.29%) -- UBS cuts PT to $34 (Neutral); 42 analysts avg $38.15 target; P&L approx -$1,722 (Yahoo Finance)
+> Nike traded at $34.26 on October 8, down 0.29% intraday, continuing to languish near a 13-year low after Q1 FY2027 revenue of $11.2B (-4% YoY) and a high-single-digit full-year decline guidance. UBS cut its price target from $42 to $34 (Neutral) and Telsey Advisory reiterated Hold at $35; consensus across 42 analysts averages a $38.15 twelve-month price target. Position: 46 shares @ $71.69 avg; unrealised P&L = 46 x ($34.26 - $71.69) approx -$1,722. [Source](https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-8-dow-sp-500-nasdaq-080537884.html)
 
+> [!note]- [[10-09-26 Fri]]
+>
+> > [!note]- AI: FTC opens probe into OpenAI and Anthropic over autonomous AI agents (AI News)
+> > The Federal Trade Commission launched an investigation into OpenAI and Anthropic within 24 hours of President Trump's AI self-policing pact, targeting autonomous AI agents critics say operate without adequate oversight or human control. The probe marks the first direct federal regulatory action against leading US AI labs, and comes as Goldman Sachs reported AI-related lower-rated companies have issued $88 billion in high-yield debt in 2026. [Source](https://blog.mean.ceo/ai-news-october-2026/)
+>
+> > [!breaking]- World: US deploys third carrier group to Middle East as Trump warns of fresh Iran strikes (Reuters/CNBC)
+> > The United States is sending a third aircraft carrier strike group to the Middle East as President Trump renewed warnings of new strikes against Iran, dramatically escalating the two-month-old US-Iran conflict that has already closed the Strait of Hormuz. Tehran declared it remains "fully prepared" for war to resume while insisting diplomacy is not finished; Pakistan-mediated talks, backed by China, remain the only active de-escalation channel. [Source](https://www.cnbc.com/world-politics/)
+>
+> > [!note]- Tech: Microsoft Surface event — Nvidia-powered AI PCs with Execution Containers sandboxing agent access on Windows 11 (BGR)
+> > Microsoft unveiled Nvidia-powered Surface devices with AI agents as the centrepiece, while making Execution Containers generally available on Windows 11 to restrict what those agents can locally access. Finnish authorities also ordered Google to halt preparatory work at two planned data centres over environmental concerns, adding regulatory friction to Europe's AI infrastructure build-out. [Source](https://bgr.com/2279488/windows-surface-event-october-2026-liveblog-updates/)
+>
+> > [!note]- Macro: S&P 500 7,765; Nasdaq −1.4%; Brent ~$100; 10-yr yield at 20-yr high; Bitcoin $83K (Bloomberg)
+> > US equities slid Thursday — Nasdaq 100 −1.4%, chip-stock gauge −3.4%, S&P 500 at 7,765 — as renewed doubts about OpenAI's revenue outlook hit AI-linked shares. Brent crude held near $100 on Hormuz tension while 10-year Treasury yields stayed near their highest since 2002; Bitcoin fell to $83K amid forced liquidations as Fed minutes signal one more rate hike before year-end. [Source](https://bloomberg.com/news/articles/2026-10-07/stock-market-today-dow-s-p-live-updates)
+>
+> > [!note]- Malaysia: Negeri Sembilan schools closed Friday as Kalimantan haze hits unhealthy range (The Star)
+> > All schools and educational institutions in Negeri Sembilan are closed today as haze from Kalimantan forest fires pushed air quality into the unhealthy range, extending school closures that began in Johor on Thursday. Singapore's air quality also hit "very unhealthy" overnight, with IQAir briefly ranking the city among the world's most polluted; Greenpeace identified over 20 palm and pulp companies whose concessions contain active fire sources. [Source](https://www.thestar.com.my/)
+>
+> > [!note]- Science: CME arrives Friday — G1–G2 geomagnetic storm and auroras likely at high latitudes (EarthSky)
+> > A coronal mass ejection launched on October 6 is forecast to arrive today, triggering G1–G2 (minor-to-moderate) geomagnetic storms and aurora displays at high latitudes, aided by a nearly new moon for dark skies. The 2026 Nobel season also wrapped this week: Chemistry to Henri Kagan and Kenso Soai for molecular homochirality, and Physics to Francis Halzen for IceCube neutrino astronomy. [Source](https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/)
+>
+> > [!note]- Nike (NKE): ~$34.30 (est., −44% YTD) — Motley Fool flags record 4.8% yield as potential floor; Goldman PT $30 (Motley Fool)
+> > Nike is estimated near $34.30 heading into Friday's session — last quoted October 7 — with shares down ~44% YTD after Q1 FY2027 revenue fell 4% to $11.2B and management guided a high-single-digit full-year decline. Motley Fool highlights the 4.8% dividend yield (highest of any Dow component) as a compelling data point, while Goldman Sachs ($30 target, Neutral) and Berenberg (Sell, $27.50) keep the near-term outlook bearish. Position: 46 shares @ $71.69 avg; unrealised P&L ≈ −$1,723. [Source](https://fool.com/investing/2026/10/08/1-stat-that-makes-nike-hard-to-ignore-this-october)
+>
 > [!note]- [[10-08-26 Thu]]
 >
 > > [!note]- AI: UN rights chief warns "clock on AI regulation is ticking" as NYC weighs 10 AI bills (UN News)
