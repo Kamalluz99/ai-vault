@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-08T20:30
+updated: 2026-10-09T05:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -60,45 +60,69 @@ unread: true
 
 ## 2026-10
 
-### [[10-08-26 Thu]]
+### [[10-09-26 Fri]]
 
-> [!note]- AI: UN rights chief warns "clock on AI regulation is ticking" as NYC weighs 10 AI bills (UN News)
-> UN High Commissioner for Human Rights warned on October 5 that the window to implement meaningful AI guardrails is rapidly closing, urging mandatory human rights safeguards before the technology becomes ungovernable. The call coincides with New York City's council holding hearings on 10 proposed AI-regulation bills — the most ambitious municipal AI legislation in the US — with testimony from Anthropic, OpenAI, Google, and Meta. Separately, Google restricted its newest model, Gemini 4 Argon, to cybersecurity defenders on initial release, reflecting a growing divergence between labs on open versus gated frontier deployment. [Source](https://news.un.org/en/story/2026/10/1168529)
+> [!note]- AI: FTC opens probe into OpenAI and Anthropic over "out-of-control" AI agents (AI News)
+> The FTC launched an investigation into OpenAI and Anthropic within 24 hours of President Trump's AI self-policing pact, targeting autonomous AI agents critics say operate without adequate oversight. The move marks the first direct federal regulatory action against leading US AI labs, and coincides with Goldman Sachs reporting that AI-related lower-rated companies have issued $88 billion in debt in 2026 through high-yield bonds. [Source](https://blog.mean.ceo/ai-news-october-2026/)
 
-> [!note]- Tech: HubSpot cuts 660 jobs (7%) as CEO pivots from software to AI-delivered outcomes (CBS Boston)
-> HubSpot announced it is cutting approximately 660 employees — around 7% of its global workforce — as CEO Yamini Rangan reframes the company's mission from CRM software delivery to AI-native customer outcomes. The move follows a cluster of autumn enterprise cuts: Microsoft offered voluntary buyouts to up to 7% of staff this week, and Autodesk announced roughly 1,000 layoffs in a sales restructuring. The pattern points to a broad rationalisation across enterprise software as generative AI collapses headcount assumptions across the industry. [Source](https://www.cbsnews.com/boston/news/hubspot-layoffs-employees-cambridge-ai/)
+> [!note]- Tech: Microsoft Surface event — Nvidia-powered PCs with AI agents; Execution Containers restrict agent access on Windows 11 (BGR/CNBC)
+> Microsoft showcased Nvidia-powered Surface devices with AI agents as the centrepiece, while making Execution Containers generally available on Windows 11 to sandbox what agents can locally access. Finnish authorities also ordered Google to halt preparatory work at two planned data centres over environmental concerns, and a drone attack forced Yandex to suspend operations at a major Russian computing facility. [Source](https://bgr.com/2279488/windows-surface-event-october-2026-liveblog-updates/)
 
-> [!note]- Macro: Dutch central bank moves 86 tonnes of gold from US and Canada to UK amid geopolitical hedging (BlackRock)
-> The Netherlands' DNB transferred approximately 86 tonnes of gold reserves from vaults in the United States and Canada to the United Kingdom, citing "increasing geopolitical unrest" as the driver for diversifying physical storage away from US soil. The move reflects a European central bank trend of repatriating reserves amid US foreign policy unpredictability. Gold spot trades near $4,199/oz as the Federal Reserve prepares for its next FOMC meeting on October 27–28 following September’s unanimous hike to 3.75–4.00%, with markets now pricing roughly four additional hikes over the next 12 months. [Source](https://www.blackrock.com/corporate/insights/blackrock-investment-institute/global-weekly-commentary)
+> [!note]- Macro: Nasdaq −1.4%, chip stocks −3.4% on OpenAI revenue doubts; S&P 500 7,765; Brent ~$100; Bitcoin $83K (Bloomberg)
+> US equities slid Thursday as OpenAI's revenue report revived AI spending-spree doubts — Nasdaq 100 −1.4%, chip-stock gauge −3.4%, S&P 500 closed at 7,765.36. Brent crude held near $100 on Hormuz tension, 10-year Treasury yields sat near their highest since 2002, and Bitcoin fell to $83,000 amid forced liquidations; Fed minutes signal one more rate hike before year-end. [Source](https://bloomberg.com/news/articles/2026-10-07/stock-market-today-dow-s-p-live-updates)
 
-> [!note]- World: Yemen forces reclaim Red Sea port city of Mokha from Iran-backed Houthis (Al Jazeera)
-> Yemeni government forces captured the port city of Mokha on the Red Sea coast, wresting control from Iran-backed Houthi fighters in a significant development in the civil conflict. The recapture matters strategically because the Houthis have sustained a year-long campaign of drone and missile attacks on Red Sea shipping — alongside Iran’s ongoing Hormuz closure — severely disrupting global maritime trade routes. The development coincides with Lithuanian officials backing a push to lift the ban on deploying nuclear weapons within NATO, drawing an immediate rebuke from Moscow. [Source](https://www.aljazeera.com/where/malaysia/)
+> [!note]- World: FBI arrests Chinese-American woman at LAX on charges of acting as unregistered Chinese agent (NPR)
+> The US FBI arrested a Chinese-American woman at Los Angeles International Airport, charging her with acting as an unregistered foreign agent of the Chinese government as part of a broader intelligence penetration campaign. The arrest adds to mounting US-China intelligence tensions already inflamed by the October 7–8 US-Israel strikes on Iran, which Tehran vowed to answer with maximum retaliation. [Source](https://www.npr.org/sections/news/)
 
-> [!note]- Malaysia: RON97 and unsubsidised RON95 rise 15 sen from today; Johor schools shut as haze worsens (Bernama)
-> Malaysia’s RON97 and unsubsidised RON95 petrol prices rose by 15 sen per litre effective October 8, while diesel remains unchanged at RM5.27, adding to household cost pressures. All schools in Johor are closed today for two days after haze from Kalimantan forest fires pushed air quality in the state into the unhealthy range; the Education Ministry ordered education departments nationwide to act immediately if conditions worsen. Greenpeace identified over 20 palm, pulp, and sugar companies — including some with Malaysian and Singaporean ties — whose land concessions contain the fire sources. [Source](https://www.bernama.com/en/)
+> [!note]- Malaysia/Singapore: Singapore air hits "very unhealthy" as Kalimantan haze intensifies; Malaysia schools remain closed (IQAir/Malay Mail)
+> Singapore's air quality deteriorated to the "very unhealthy" range as Kalimantan wildfire smoke blanketed the region, with IQAir briefly ranking the city among the world's most polluted. Schools across Johor remain closed as Malaysia's Education Ministry monitors conditions nationwide; Malaysia is also facing power grid pressure as the Southeast Asia AI data centre boom stresses regional energy infrastructure. [Source](https://www.malaymail.com)
 
-> [!note]- Science: NASA Crew-12 returns after 237 days as Crew-13 begins ISS blood-clotting and health research (NASA)
-> NASA’s SpaceX Crew-12 mission is concluding this week after 237 days aboard the International Space Station, with splashdown imminent following Crew-13’s successful docking on October 1. Crew-13’s investigations include studies of how microgravity affects blood flow and clotting — with direct implications for cardiovascular medicine on Earth — alongside other biomedical experiments. Separately, a recent study found that spaceflight disrupts gut microbiome function within weeks, slowing transit and increasing bacterial protein fermentation, a finding that will shape nutrition planning for long-duration Mars missions. [Source](https://nasa.gov/blogs/spacestation/2026/10/06/crew-12-ready-to-depart-as-new-residents-begin-advanced-health-research)
+> [!note]- Science: CME arriving Friday; G1–G2 geomagnetic storm and auroras possible at high latitudes (EarthSky)
+> A coronal mass ejection launched on October 6 is forecast to arrive Friday, triggering G1–G2 (minor to moderate) geomagnetic storms and aurora displays at high latitudes — aided by a nearly new moon providing dark skies. The 2026 Nobel season wraps with Chemistry going to Henri Kagan and Kenso Soai for explaining molecular homochirality, and Physics to Francis Halzen for IceCube neutrino astronomy. [Source](https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/)
 
-> **Evening update**
+> [!note]- Nike (NKE): ~$34.30 (est., −44% YTD) — Motley Fool flags record 4.8% yield as potential floor; Goldman PT $30 (Motley Fool)
+> Nike is estimated near $34.30 heading into Friday's session — last quoted October 7 — with shares down ~44% YTD after Q1 FY2027 revenue fell 4% to $11.2B and management guided a high-single-digit full-year decline. Motley Fool highlights the 4.8% dividend yield (highest of any Dow component) as a compelling data point, while Goldman Sachs ($30 target, Neutral) and Berenberg (Sell, $27.50) keep the near-term outlook bearish. Position: 46 shares @ $71.69 avg; unrealised P&L ≈ −$1,723. [Source](https://fool.com/investing/2026/10/08/1-stat-that-makes-nike-hard-to-ignore-this-october)
 
-> [!note]- Singapore & Malaysia: Singapore FM says city-state at "sensitive existential" point; pledges US-China neutrality (SCMP)
-> Singapore Foreign Minister Vivian Balakrishnan framed the city-state's position as one of "sensitive existential" vulnerability amid deepening US-China rivalry, pledging that Singapore will not take sides with either power. The statement underscores Singapore's long-held balancing strategy as both Washington and Beijing compete for influence across Southeast Asia's trade corridors and technology ecosystems. [Source](https://www.scmp.com/topics/singapore)
-
-> [!note]- Malaysia: Melaka sets state election for November 14, adding pressure on Anwar's Pakatan Harapan (Free Malaysia Today)
-> Malaysia's Melaka state has announced its state election for November 14, 2026, coming on the heels of Barisan Nasional's strong recent wins in other contests. The vote adds pressure on Prime Minister Anwar Ibrahim's Pakatan Harapan coalition as electoral momentum continues to shift, with national budget debates also heating up in the lead-up to polling day. [Source](https://www.freemalaysiatoday.com)
-
-> [!note]- World: Israel marks 3rd anniversary of October 7 attacks; airstrikes continue over Gaza (WORLD Radio / AP)
-> Israel commemorated the third anniversary of the October 7, 2023 Hamas attacks today, with Israeli jets reported flying over Gaza City as residents described fresh explosions and smoke plumes. The anniversary comes amid continuing international pressure to broker a ceasefire, with the UN describing the humanitarian situation in Gaza as catastrophic. [Source](https://wng.org/podcasts/thursday-morning-news-october-8-2026-1791412201)
-
-> [!note]- World: Russia launches mass drone-missile barrage on Ukrainian cities; at least 20 killed (NPR)
-> Russian missile and drone attacks struck multiple Ukrainian cities, killing at least 20 people in what Ukrainian officials described as one of the most intense bombardments in recent weeks. The strikes hit energy infrastructure and residential areas, deepening the humanitarian crisis as the war enters an escalatory phase ahead of winter. [Source](https://www.npr.org/sections/news/)
-
-> [!note]- Tech: OpenAI rolls out GPT-6 to all ChatGPT users with new "Intelligent UI" interactive mode (AI Weekly)
-> OpenAI began rolling out GPT-6 to all ChatGPT users, pairing the model with an "Intelligent UI" mode that embeds tappable buttons, interactive charts, editable forms, and diagrams directly inside conversations. Anthropic also released Claude Haiku 5.5 today — a smaller model priced roughly 75% below the previous Haiku version — as the AI cost-efficiency race intensifies across both frontier and mid-tier model tiers. [Source](https://aiweekly.co/ai-news-today)
-
-> [!note]- Economy: US trade deficit swells to record $105.6bn; World Bank raises Asia outlook but warns on AI concentration (Bloomberg)
-> The US trade deficit widened to $105.6 billion, its largest since just before the Trump-era tariffs took effect, driven by a surge in imports amid ongoing trade tensions. The World Bank raised its Asia growth outlook while warning that AI compute and infrastructure concentration in a handful of firms poses systemic risks; the IMF chief called AI simultaneously "the hope and the hazard" for global economic stability. [Source](https://www.bloomberg.com/economics)
+> [!note]- [[10-08-26 Thu]]
+>
+> > [!note]- AI: UN rights chief warns "clock on AI regulation is ticking" as NYC weighs 10 AI bills (UN News)
+> > UN High Commissioner for Human Rights warned on October 5 that the window to implement meaningful AI guardrails is rapidly closing, urging mandatory human rights safeguards before the technology becomes ungovernable. The call coincides with New York City's council holding hearings on 10 proposed AI-regulation bills — the most ambitious municipal AI legislation in the US — with testimony from Anthropic, OpenAI, Google, and Meta. Separately, Google restricted its newest model, Gemini 4 Argon, to cybersecurity defenders on initial release, reflecting a growing divergence between labs on open versus gated frontier deployment. [Source](https://news.un.org/en/story/2026/10/1168529)
+>
+> > [!note]- Tech: HubSpot cuts 660 jobs (7%) as CEO pivots from software to AI-delivered outcomes (CBS Boston)
+> > HubSpot announced it is cutting approximately 660 employees — around 7% of its global workforce — as CEO Yamini Rangan reframes the company's mission from CRM software delivery to AI-native customer outcomes. The move follows a cluster of autumn enterprise cuts: Microsoft offered voluntary buyouts to up to 7% of staff this week, and Autodesk announced roughly 1,000 layoffs in a sales restructuring. The pattern points to a broad rationalisation across enterprise software as generative AI collapses headcount assumptions across the industry. [Source](https://www.cbsnews.com/boston/news/hubspot-layoffs-employees-cambridge-ai/)
+>
+> > [!note]- Macro: Dutch central bank moves 86 tonnes of gold from US and Canada to UK amid geopolitical hedging (BlackRock)
+> > The Netherlands' DNB transferred approximately 86 tonnes of gold reserves from vaults in the United States and Canada to the United Kingdom, citing "increasing geopolitical unrest" as the driver for diversifying physical storage away from US soil. The move reflects a European central bank trend of repatriating reserves amid US foreign policy unpredictability. Gold spot trades near $4,199/oz as the Federal Reserve prepares for its next FOMC meeting on October 27–28 following September’s unanimous hike to 3.75–4.00%, with markets now pricing roughly four additional hikes over the next 12 months. [Source](https://www.blackrock.com/corporate/insights/blackrock-investment-institute/global-weekly-commentary)
+>
+> > [!note]- World: Yemen forces reclaim Red Sea port city of Mokha from Iran-backed Houthis (Al Jazeera)
+> > Yemeni government forces captured the port city of Mokha on the Red Sea coast, wresting control from Iran-backed Houthi fighters in a significant development in the civil conflict. The recapture matters strategically because the Houthis have sustained a year-long campaign of drone and missile attacks on Red Sea shipping — alongside Iran’s ongoing Hormuz closure — severely disrupting global maritime trade routes. The development coincides with Lithuanian officials backing a push to lift the ban on deploying nuclear weapons within NATO, drawing an immediate rebuke from Moscow. [Source](https://www.aljazeera.com/where/malaysia/)
+>
+> > [!note]- Malaysia: RON97 and unsubsidised RON95 rise 15 sen from today; Johor schools shut as haze worsens (Bernama)
+> > Malaysia’s RON97 and unsubsidised RON95 petrol prices rose by 15 sen per litre effective October 8, while diesel remains unchanged at RM5.27, adding to household cost pressures. All schools in Johor are closed today for two days after haze from Kalimantan forest fires pushed air quality in the state into the unhealthy range; the Education Ministry ordered education departments nationwide to act immediately if conditions worsen. Greenpeace identified over 20 palm, pulp, and sugar companies — including some with Malaysian and Singaporean ties — whose land concessions contain the fire sources. [Source](https://www.bernama.com/en/)
+>
+> > [!note]- Science: NASA Crew-12 returns after 237 days as Crew-13 begins ISS blood-clotting and health research (NASA)
+> > NASA’s SpaceX Crew-12 mission is concluding this week after 237 days aboard the International Space Station, with splashdown imminent following Crew-13’s successful docking on October 1. Crew-13’s investigations include studies of how microgravity affects blood flow and clotting — with direct implications for cardiovascular medicine on Earth — alongside other biomedical experiments. Separately, a recent study found that spaceflight disrupts gut microbiome function within weeks, slowing transit and increasing bacterial protein fermentation, a finding that will shape nutrition planning for long-duration Mars missions. [Source](https://nasa.gov/blogs/spacestation/2026/10/06/crew-12-ready-to-depart-as-new-residents-begin-advanced-health-research)
+>
+> > **Evening update**
+>
+> > [!note]- Singapore & Malaysia: Singapore FM says city-state at "sensitive existential" point; pledges US-China neutrality (SCMP)
+> > Singapore Foreign Minister Vivian Balakrishnan framed the city-state's position as one of "sensitive existential" vulnerability amid deepening US-China rivalry, pledging that Singapore will not take sides with either power. The statement underscores Singapore's long-held balancing strategy as both Washington and Beijing compete for influence across Southeast Asia's trade corridors and technology ecosystems. [Source](https://www.scmp.com/topics/singapore)
+>
+> > [!note]- Malaysia: Melaka sets state election for November 14, adding pressure on Anwar's Pakatan Harapan (Free Malaysia Today)
+> > Malaysia's Melaka state has announced its state election for November 14, 2026, coming on the heels of Barisan Nasional's strong recent wins in other contests. The vote adds pressure on Prime Minister Anwar Ibrahim's Pakatan Harapan coalition as electoral momentum continues to shift, with national budget debates also heating up in the lead-up to polling day. [Source](https://www.freemalaysiatoday.com)
+>
+> > [!note]- World: Israel marks 3rd anniversary of October 7 attacks; airstrikes continue over Gaza (WORLD Radio / AP)
+> > Israel commemorated the third anniversary of the October 7, 2023 Hamas attacks today, with Israeli jets reported flying over Gaza City as residents described fresh explosions and smoke plumes. The anniversary comes amid continuing international pressure to broker a ceasefire, with the UN describing the humanitarian situation in Gaza as catastrophic. [Source](https://wng.org/podcasts/thursday-morning-news-october-8-2026-1791412201)
+>
+> > [!note]- World: Russia launches mass drone-missile barrage on Ukrainian cities; at least 20 killed (NPR)
+> > Russian missile and drone attacks struck multiple Ukrainian cities, killing at least 20 people in what Ukrainian officials described as one of the most intense bombardments in recent weeks. The strikes hit energy infrastructure and residential areas, deepening the humanitarian crisis as the war enters an escalatory phase ahead of winter. [Source](https://www.npr.org/sections/news/)
+>
+> > [!note]- Tech: OpenAI rolls out GPT-6 to all ChatGPT users with new "Intelligent UI" interactive mode (AI Weekly)
+> > OpenAI began rolling out GPT-6 to all ChatGPT users, pairing the model with an "Intelligent UI" mode that embeds tappable buttons, interactive charts, editable forms, and diagrams directly inside conversations. Anthropic also released Claude Haiku 5.5 today — a smaller model priced roughly 75% below the previous Haiku version — as the AI cost-efficiency race intensifies across both frontier and mid-tier model tiers. [Source](https://aiweekly.co/ai-news-today)
+>
+> > [!note]- Economy: US trade deficit swells to record $105.6bn; World Bank raises Asia outlook but warns on AI concentration (Bloomberg)
+> > The US trade deficit widened to $105.6 billion, its largest since just before the Trump-era tariffs took effect, driven by a surge in imports amid ongoing trade tensions. The World Bank raised its Asia growth outlook while warning that AI compute and infrastructure concentration in a handful of firms poses systemic risks; the IMF chief called AI simultaneously "the hope and the hazard" for global economic stability. [Source](https://www.bloomberg.com/economics)
+>
 
 > [!note]- [[10-07-26 Wed]]
 >
