@@ -1,6 +1,5 @@
 ---
-updated: 2026-10-08T05:17
-updated: 2026-10-08T05:00
+updated: 2026-10-08T20:30
 topic: daily news
 frequency: daily
 ongoing: false
@@ -80,6 +79,26 @@ unread: true
 
 > [!note]- Science: NASA Crew-12 returns after 237 days as Crew-13 begins ISS blood-clotting and health research (NASA)
 > NASA’s SpaceX Crew-12 mission is concluding this week after 237 days aboard the International Space Station, with splashdown imminent following Crew-13’s successful docking on October 1. Crew-13’s investigations include studies of how microgravity affects blood flow and clotting — with direct implications for cardiovascular medicine on Earth — alongside other biomedical experiments. Separately, a recent study found that spaceflight disrupts gut microbiome function within weeks, slowing transit and increasing bacterial protein fermentation, a finding that will shape nutrition planning for long-duration Mars missions. [Source](https://nasa.gov/blogs/spacestation/2026/10/06/crew-12-ready-to-depart-as-new-residents-begin-advanced-health-research)
+
+> **Evening update**
+
+> [!note]- Singapore & Malaysia: Singapore FM says city-state at "sensitive existential" point; pledges US-China neutrality (SCMP)
+> Singapore Foreign Minister Vivian Balakrishnan framed the city-state's position as one of "sensitive existential" vulnerability amid deepening US-China rivalry, pledging that Singapore will not take sides with either power. The statement underscores Singapore's long-held balancing strategy as both Washington and Beijing compete for influence across Southeast Asia's trade corridors and technology ecosystems. [Source](https://www.scmp.com/topics/singapore)
+
+> [!note]- Malaysia: Melaka sets state election for November 14, adding pressure on Anwar's Pakatan Harapan (Free Malaysia Today)
+> Malaysia's Melaka state has announced its state election for November 14, 2026, coming on the heels of Barisan Nasional's strong recent wins in other contests. The vote adds pressure on Prime Minister Anwar Ibrahim's Pakatan Harapan coalition as electoral momentum continues to shift, with national budget debates also heating up in the lead-up to polling day. [Source](https://www.freemalaysiatoday.com)
+
+> [!note]- World: Israel marks 3rd anniversary of October 7 attacks; airstrikes continue over Gaza (WORLD Radio / AP)
+> Israel commemorated the third anniversary of the October 7, 2023 Hamas attacks today, with Israeli jets reported flying over Gaza City as residents described fresh explosions and smoke plumes. The anniversary comes amid continuing international pressure to broker a ceasefire, with the UN describing the humanitarian situation in Gaza as catastrophic. [Source](https://wng.org/podcasts/thursday-morning-news-october-8-2026-1791412201)
+
+> [!note]- World: Russia launches mass drone-missile barrage on Ukrainian cities; at least 20 killed (NPR)
+> Russian missile and drone attacks struck multiple Ukrainian cities, killing at least 20 people in what Ukrainian officials described as one of the most intense bombardments in recent weeks. The strikes hit energy infrastructure and residential areas, deepening the humanitarian crisis as the war enters an escalatory phase ahead of winter. [Source](https://www.npr.org/sections/news/)
+
+> [!note]- Tech: OpenAI rolls out GPT-6 to all ChatGPT users with new "Intelligent UI" interactive mode (AI Weekly)
+> OpenAI began rolling out GPT-6 to all ChatGPT users, pairing the model with an "Intelligent UI" mode that embeds tappable buttons, interactive charts, editable forms, and diagrams directly inside conversations. Anthropic also released Claude Haiku 5.5 today — a smaller model priced roughly 75% below the previous Haiku version — as the AI cost-efficiency race intensifies across both frontier and mid-tier model tiers. [Source](https://aiweekly.co/ai-news-today)
+
+> [!note]- Economy: US trade deficit swells to record $105.6bn; World Bank raises Asia outlook but warns on AI concentration (Bloomberg)
+> The US trade deficit widened to $105.6 billion, its largest since just before the Trump-era tariffs took effect, driven by a surge in imports amid ongoing trade tensions. The World Bank raised its Asia growth outlook while warning that AI compute and infrastructure concentration in a handful of firms poses systemic risks; the IMF chief called AI simultaneously "the hope and the hazard" for global economic stability. [Source](https://www.bloomberg.com/economics)
 
 > [!note]- [[10-07-26 Wed]]
 >
