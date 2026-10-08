@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-09T05:00
+updated: 2026-10-09T05:19
 topic: daily news
 frequency: daily
 ongoing: false
@@ -62,23 +62,23 @@ unread: true
 
 ### [[10-09-26 Fri]]
 
-> [!note]- AI: FTC opens probe into OpenAI and Anthropic over "out-of-control" AI agents (AI News)
-> The FTC launched an investigation into OpenAI and Anthropic within 24 hours of President Trump's AI self-policing pact, targeting autonomous AI agents critics say operate without adequate oversight. The move marks the first direct federal regulatory action against leading US AI labs, and coincides with Goldman Sachs reporting that AI-related lower-rated companies have issued $88 billion in debt in 2026 through high-yield bonds. [Source](https://blog.mean.ceo/ai-news-october-2026/)
+> [!note]- AI: FTC opens probe into OpenAI and Anthropic over autonomous AI agents (AI News)
+> The Federal Trade Commission launched an investigation into OpenAI and Anthropic within 24 hours of President Trump's AI self-policing pact, targeting autonomous AI agents critics say operate without adequate oversight or human control. The probe marks the first direct federal regulatory action against leading US AI labs, and comes as Goldman Sachs reported AI-related lower-rated companies have issued $88 billion in high-yield debt in 2026. [Source](https://blog.mean.ceo/ai-news-october-2026/)
 
-> [!note]- Tech: Microsoft Surface event — Nvidia-powered PCs with AI agents; Execution Containers restrict agent access on Windows 11 (BGR/CNBC)
-> Microsoft showcased Nvidia-powered Surface devices with AI agents as the centrepiece, while making Execution Containers generally available on Windows 11 to sandbox what agents can locally access. Finnish authorities also ordered Google to halt preparatory work at two planned data centres over environmental concerns, and a drone attack forced Yandex to suspend operations at a major Russian computing facility. [Source](https://bgr.com/2279488/windows-surface-event-october-2026-liveblog-updates/)
+> [!breaking]- World: US deploys third carrier group to Middle East as Trump warns of fresh Iran strikes (Reuters/CNBC)
+> The United States is sending a third aircraft carrier strike group to the Middle East as President Trump renewed warnings of new strikes against Iran, dramatically escalating the two-month-old US-Iran conflict that has already closed the Strait of Hormuz. Tehran declared it remains "fully prepared" for war to resume while insisting diplomacy is not finished; Pakistan-mediated talks, backed by China, remain the only active de-escalation channel. [Source](https://www.cnbc.com/world-politics/)
 
-> [!note]- Macro: Nasdaq −1.4%, chip stocks −3.4% on OpenAI revenue doubts; S&P 500 7,765; Brent ~$100; Bitcoin $83K (Bloomberg)
-> US equities slid Thursday as OpenAI's revenue report revived AI spending-spree doubts — Nasdaq 100 −1.4%, chip-stock gauge −3.4%, S&P 500 closed at 7,765.36. Brent crude held near $100 on Hormuz tension, 10-year Treasury yields sat near their highest since 2002, and Bitcoin fell to $83,000 amid forced liquidations; Fed minutes signal one more rate hike before year-end. [Source](https://bloomberg.com/news/articles/2026-10-07/stock-market-today-dow-s-p-live-updates)
+> [!note]- Tech: Microsoft Surface event — Nvidia-powered AI PCs with Execution Containers sandboxing agent access on Windows 11 (BGR)
+> Microsoft unveiled Nvidia-powered Surface devices with AI agents as the centrepiece, while making Execution Containers generally available on Windows 11 to restrict what those agents can locally access. Finnish authorities also ordered Google to halt preparatory work at two planned data centres over environmental concerns, adding regulatory friction to Europe's AI infrastructure build-out. [Source](https://bgr.com/2279488/windows-surface-event-october-2026-liveblog-updates/)
 
-> [!note]- World: FBI arrests Chinese-American woman at LAX on charges of acting as unregistered Chinese agent (NPR)
-> The US FBI arrested a Chinese-American woman at Los Angeles International Airport, charging her with acting as an unregistered foreign agent of the Chinese government as part of a broader intelligence penetration campaign. The arrest adds to mounting US-China intelligence tensions already inflamed by the October 7–8 US-Israel strikes on Iran, which Tehran vowed to answer with maximum retaliation. [Source](https://www.npr.org/sections/news/)
+> [!note]- Macro: S&P 500 7,765; Nasdaq −1.4%; Brent ~$100; 10-yr yield at 20-yr high; Bitcoin $83K (Bloomberg)
+> US equities slid Thursday — Nasdaq 100 −1.4%, chip-stock gauge −3.4%, S&P 500 at 7,765 — as renewed doubts about OpenAI's revenue outlook hit AI-linked shares. Brent crude held near $100 on Hormuz tension while 10-year Treasury yields stayed near their highest since 2002; Bitcoin fell to $83K amid forced liquidations as Fed minutes signal one more rate hike before year-end. [Source](https://bloomberg.com/news/articles/2026-10-07/stock-market-today-dow-s-p-live-updates)
 
-> [!note]- Malaysia/Singapore: Singapore air hits "very unhealthy" as Kalimantan haze intensifies; Malaysia schools remain closed (IQAir/Malay Mail)
-> Singapore's air quality deteriorated to the "very unhealthy" range as Kalimantan wildfire smoke blanketed the region, with IQAir briefly ranking the city among the world's most polluted. Schools across Johor remain closed as Malaysia's Education Ministry monitors conditions nationwide; Malaysia is also facing power grid pressure as the Southeast Asia AI data centre boom stresses regional energy infrastructure. [Source](https://www.malaymail.com)
+> [!note]- Malaysia: Negeri Sembilan schools closed Friday as Kalimantan haze hits unhealthy range (The Star)
+> All schools and educational institutions in Negeri Sembilan are closed today as haze from Kalimantan forest fires pushed air quality into the unhealthy range, extending school closures that began in Johor on Thursday. Singapore's air quality also hit "very unhealthy" overnight, with IQAir briefly ranking the city among the world's most polluted; Greenpeace identified over 20 palm and pulp companies whose concessions contain active fire sources. [Source](https://www.thestar.com.my/)
 
-> [!note]- Science: CME arriving Friday; G1–G2 geomagnetic storm and auroras possible at high latitudes (EarthSky)
-> A coronal mass ejection launched on October 6 is forecast to arrive Friday, triggering G1–G2 (minor to moderate) geomagnetic storms and aurora displays at high latitudes — aided by a nearly new moon providing dark skies. The 2026 Nobel season wraps with Chemistry going to Henri Kagan and Kenso Soai for explaining molecular homochirality, and Physics to Francis Halzen for IceCube neutrino astronomy. [Source](https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/)
+> [!note]- Science: CME arrives Friday — G1–G2 geomagnetic storm and auroras likely at high latitudes (EarthSky)
+> A coronal mass ejection launched on October 6 is forecast to arrive today, triggering G1–G2 (minor-to-moderate) geomagnetic storms and aurora displays at high latitudes, aided by a nearly new moon for dark skies. The 2026 Nobel season also wrapped this week: Chemistry to Henri Kagan and Kenso Soai for molecular homochirality, and Physics to Francis Halzen for IceCube neutrino astronomy. [Source](https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/)
 
 > [!note]- Nike (NKE): ~$34.30 (est., −44% YTD) — Motley Fool flags record 4.8% yield as potential floor; Goldman PT $30 (Motley Fool)
 > Nike is estimated near $34.30 heading into Friday's session — last quoted October 7 — with shares down ~44% YTD after Q1 FY2027 revenue fell 4% to $11.2B and management guided a high-single-digit full-year decline. Motley Fool highlights the 4.8% dividend yield (highest of any Dow component) as a compelling data point, while Goldman Sachs ($30 target, Neutral) and Berenberg (Sell, $27.50) keep the near-term outlook bearish. Position: 46 shares @ $71.69 avg; unrealised P&L ≈ −$1,723. [Source](https://fool.com/investing/2026/10/08/1-stat-that-makes-nike-hard-to-ignore-this-october)
