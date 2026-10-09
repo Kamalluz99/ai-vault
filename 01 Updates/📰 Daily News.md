@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-08T05:00
+updated: 2026-10-09T19:17
 topic: daily news
 frequency: daily
 ongoing: false
@@ -105,6 +105,26 @@ unread: true
 >
 > > [!note]- Nike (NKE): ~$34.30 (est., −44% YTD) — Motley Fool flags record 4.8% yield as potential floor; Goldman PT $30 (Motley Fool)
 > > Nike is estimated near $34.30 heading into Friday's session — last quoted October 7 — with shares down ~44% YTD after Q1 FY2027 revenue fell 4% to $11.2B and management guided a high-single-digit full-year decline. Motley Fool highlights the 4.8% dividend yield (highest of any Dow component) as a compelling data point, while Goldman Sachs ($30 target, Neutral) and Berenberg (Sell, $27.50) keep the near-term outlook bearish. Position: 46 shares @ $71.69 avg; unrealised P&L ≈ −$1,723. [Source](https://fool.com/investing/2026/10/08/1-stat-that-makes-nike-hard-to-ignore-this-october)
+>
+> > **Evening update**
+>
+> > [!note]- SG/MY: Singapore PSI 173 — briefly world's most polluted city (IQAir)
+> > Singapore's 24-hour Pollutant Standards Index hit 173 in the central region — the highest 2026 reading — as Kalimantan wildfire smoke intensified, briefly ranking Singapore the world's most polluted city according to IQAir. Earlier Friday, Kuala Lumpur held the top spot before slipping to second; Malaysia extended school closures across Negeri Sembilan and multiple Johor districts for a third consecutive day. F1 organisers said the Singapore Grand Prix will proceed as conditions remain below operational concern thresholds. [Source](https://en.tempo.co/read/2121255/todays-top-3-news-indonesian-haze-and-singapores-air-quality)
+>
+> > [!note]- Malaysia: Melaka sets state election for 14 November (Free Malaysia Today)
+> > The Melaka state government confirmed November 14 as election day, adding to a busy Malaysian electoral calendar after recent Barisan Nasional gains in other contests. The vote puts pressure on Prime Minister Anwar Ibrahim's Pakatan Harapan coalition, which faces a resurgent BN in the southern state and criticism over his Myanmar diplomacy. Melaka's result will be closely read as a bellwether for federal political momentum ahead of the next general election cycle. [Source](https://www.freemalaysiatoday.com)
+>
+> > [!note]- World: French farmers rally in Paris against EU-Mercosur trade deal (Euronews)
+> > Hundreds of French farmers drove tractors into Paris to protest the EU-Mercosur free trade agreement, which critics argue will flood European markets with cheaper South American produce held to lower environmental and animal-welfare standards. France, Poland and Austria have led opposition to the deal among EU member states as ratification votes approach. The demonstrations caused significant traffic disruption across the capital. [Source](https://www.euronews.com/video/2026/10/09/latest-news-bulletin-october-9th-2026-morning)
+>
+> > [!note]- World: Hamas attack marks 3 years; Russia kills one in Zaporizhzhia (Reuters/US News)
+> > Friday marks three years since Hamas's October 7, 2023 attack on Israel, with commemorations held across Israel and Jewish diaspora communities while fighting in Gaza remains unresolved. In Ukraine, a Russian airstrike killed one person and wounded two others in the Zaporizhzhia region, Ukrainian officials confirmed, as front-line fighting continued with no ceasefire in sight. [Source](https://www.usnews.com/news/world)
+>
+> > [!note]- Tech: OpenAI says Iranian operatives used its models to seed US media (Reuters)
+> > OpenAI disclosed that Iranian state-linked operatives used its AI models to generate news articles critical of the US-Iran war and plant them in American publications, marking a rare public acknowledgement of AI being weaponised for foreign domestic influence operations. The disclosure adds to a turbulent week for OpenAI, which already faces an FTC probe into its autonomous agents. The company did not name the outlets that ran the AI-generated content. [Source](https://everythingbriefing.substack.com/p/october-9-2026)
+>
+> > [!note]- Economy: IMF lifts 2026 global GDP forecast to 3.3% from 3.1% (IMF/Newsquawk)
+> > The IMF's World Economic Outlook upgraded its 2026 global growth forecast to 3.3%, up from 3.1%, citing a temporary easing of US-led trade tensions and stabilising business confidence since the tariff truce earlier this year. The upward revision diverges from the UN's more cautious 2.7% estimate, reflecting differing assumptions on Hormuz disruption and US fiscal pressures. The IMF flagged sustained high bond yields and Iran-linked energy disruption as key downside risks to the outlook. [Source](https://www.newsquawk.com/headlines/imf-world-economic-outlook-raises-2026-global-gdp-growth-forecast-to-33-prev-31-)
 >
 > [!note]- [[10-08-26 Thu]]
 >
