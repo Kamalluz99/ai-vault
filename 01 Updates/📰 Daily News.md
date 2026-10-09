@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-10T05:00
+updated: 2026-10-10T08:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -62,26 +62,23 @@ unread: true
 
 ### [[10-10-26 Sat]]
 
-> [!note]- AI: GPT-6 rolls out to all ChatGPT users with "Intelligent UI" mode; Anthropic releases Claude Haiku 5.5 (AI Weekly)
-> OpenAI began rolling out GPT-6 to all ChatGPT tiers, pairing the model with a new "Intelligent UI" mode that embeds tappable buttons, interactive charts, and editable forms directly inside conversations. On the same day, Anthropic released Claude Haiku 5.5 at roughly $0.10 input / $0.50 output per million tokens — about 75% cheaper than the previous Haiku version — intensifying the cost-efficiency race across mid-tier models. [Source](https://aiweekly.co/ai-news-today)
+> [!note]- AI: Anthropic releases Claude Haiku 5.5 — ~75% cheaper than prior Haiku (BenchLM)
+> Anthropic released Claude Haiku 5.5 on October 7, priced at approximately $0.10 per million input tokens and $0.50 per million output tokens — roughly 75% cheaper than the previous Haiku generation — intensifying competition in the cost-efficient LLM segment. Several other specialist models also shipped this week, including JetBrains' Mellum2.1 Thinking and Celeris-1 Decision. Separately, the Wall Street Journal reported that OpenAI cancelled its GPT-6.1 Astra model after internal safety tests, a claim that has not been independently confirmed. [Source](https://benchlm.ai/model-updates/releases/october-2026)
 
-> [!note]- Tech: SpaceX deal to acquire spectrum licence hammers AT&T, Verizon and T-Mobile shares (CNBC)
-> A reported deal for SpaceX to acquire a key spectrum licence sent shares of AT&T, Verizon, and T-Mobile sharply lower, as investors assessed the threat of Starlink's direct-to-cell service expanding into the core US wireless market. The move marks SpaceX's most direct challenge yet to the incumbent carriers' spectrum moat. AI startup Manus also raised $500M in its first funding round since a breakup with Meta. [Source](https://www.cnbc.com/technology/)
+> [!note]- Tech: Uber agrees to acquire ezCater for $2.3B in all-cash deal (GuruFocus)
+> Uber agreed to acquire corporate catering platform ezCater in an all-cash deal valued at $2.3 billion, subject to regulatory approval, expanding its business-to-business food delivery operations alongside its core consumer and freight businesses. The deal is among the largest US tech acquisitions of the past quarter. Amazon also confirmed a fresh round of layoffs affecting fewer than 1,000 employees across its retail operations in the US, India, and the UK, following roughly 30,000 corporate cuts earlier in 2026. [Source](https://gurufocus.com/news/9114873/amazon-amzn-announces-new-round-of-layoffs-amid-ai-investment-push)
 
-> [!note]- Macro: Dow +423 to 51,655; S&P 500 +0.59% to 7,812; WTI ~$92, Brent ~$104; 10-yr yield 5.23%; BTC ~$82K (TheStreet/BabyPips)
-> US equities bounced on Friday — Dow Jones +423 pts to 51,654.95, S&P 500 +0.59% to 7,811.54 — after President Trump announced Russia would supply diesel to US and global markets, easing some of the Hormuz-driven energy anxiety. WTI settled near $92/bbl and Brent above $104; the 10-year Treasury yield eased to ~5.23% after touching a 20-year high of 5.35% earlier in the week; Bitcoin held near $82,167. [Source](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-09-2026)
+> [!note]- Macro: Gold at $4,187; Brent tops $102 on Hormuz attacks; S&P 500 near 7,801; 10-yr yield 5.32% (BabyPips/Schwab)
+> Gold rebounded to $4,187/oz on October 9 (+1.3%) as fresh Iranian attacks on Strait of Hormuz tankers pushed Brent crude above $102/bbl and renewed risk-off flows. The S&P 500 closed near 7,801 (-0.2%), the 10-year Treasury yield held at 5.32% — near a two-decade high — and China's central bank extended its gold-buying streak for a 23rd consecutive month in September. [Source](https://www.babypips.com/news/financial-forex-market-recap-2026-10-07)
 
-> [!breaking]- World: Houthi rebels strike airports in Riyadh and Abha — 3 killed, dozens injured (Reuters)
-> Yemen's Iran-backed Houthi movement launched drone and missile strikes on King Khalid International Airport in Riyadh and Abha Regional Airport in Saudi Arabia's Asir region, killing at least three people and injuring dozens. The strikes mark a major escalation of the Hormuz-linked regional conflict and raise concerns about Saudi Arabia's formal entry into the war. The UAE also confirmed a flydubai co-pilot was detained for planning a 9/11-style suicide attack on Ben Gurion Airport in Israel. [Source](https://news.sbs.co.kr/amp/news.amp?news_id=N1008788937)
+> [!breaking]- World: Iran ramps Hormuz attacks; US deploys 3rd carrier group; Houthis hit Saudi airports (OilPrice/Reuters)
+> Iran stepped up attacks on commercial tankers in the Strait of Hormuz, prompting the US to deploy a third carrier group to the Middle East and President Trump to warn of further strikes before November midterms. Yemen's Houthi rebels simultaneously launched drone and missile strikes on Riyadh's King Khalid International Airport and Abha Regional Airport in Saudi Arabia, killing at least three people and injuring dozens — raising fears of a broader regional war drawing in Saudi Arabia. [Source](https://oilprice.com/Geopolitics/International/Rubio-Warns-Ukraine-Stalemate-Could-Turn-Into-Wider-Conflict.html)
 
-> [!note]- Malaysia/Singapore: Malaysia Budget 2027 pegged at ~$144B ahead of possible election; JB-SG RTS Link confirmed for Feb 2027 (FMT/Bernama)
-> Malaysia's government presented Budget 2027 with an allocation reported at approximately RM144 billion, ahead of what analysts see as a possible snap general election window, including a minimum wage rise to RM2,000 effective June 2027. Transport Minister Anthony Loke confirmed the Johor Bahru–Singapore Rapid Transit System Link will begin operations in February 2027 as scheduled, with buffer time built in for final safety approvals. Singapore Foreign Minister Vivian Balakrishnan separately reiterated that Singapore will remain neutral amid deepening US-China competition. [Source](https://www.freemalaysiatoday.com)
+> [!note]- Malaysia: Schools closed in KL and beyond as haze hits hazardous levels; El Niño heat wave warning issued (The Sun/Malay Mail)
+> Malaysian authorities closed schools in Kuala Lumpur and other parts of the country as smoke from Indonesian peat and forest fires pushed air quality into the hazardous range — reportedly among the worst readings in the world this week. Separately, the government warned citizens to prepare for extreme heat as El Niño conditions are forecast to intensify from late 2026 through April 2027, with temperatures expected to hit 40°C and threaten agriculture and water supplies. [Source](https://thesun.my/news/malaysia-news/malaysia-closes-schools-in-capital-parts-of-country-due-to-haze)
 
-> [!note]- Science: White House announces $6B+ in science investments at "New Golden Age" summit (White House)
-> The Trump administration announced over $6 billion in science funding commitments spanning government, industry, academia, and philanthropy at a "Science: A New Golden Age" summit on October 8, calling it the most ambitious set of US science initiatives this century. Key areas include AI compute infrastructure, quantum computing, space exploration, and biomedical research. NASA's SpaceX Crew-12 crew also returned to Earth this week after 237 days aboard the ISS. [Source](https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-trump-administration-announces-the-most-ambitious-set-of-science-initiatives-this-century/)
-
-> [!note]- Nike (NKE): $35.08 (+0.98%) — Q1 FY2027 EPS beats but revenue -4.3% YoY; Goldman and Berenberg remain bearish (Google Finance)
-> Nike traded at $35.08 on October 9, up 0.98%, though the stock remains near a 13-year low after Q1 FY2027 results showed EPS of $0.48 (beat $0.43 consensus) but revenue of $11.21B fell 4.3% YoY and missed estimates. Goldman Sachs and Berenberg both hold Sell ratings with targets of $30 and $27.50 respectively; consensus across 42 analysts averages $38.15. Position: 46 shares @ $71.69 avg; unrealised P&L ≈ −$1,684. [Source](https://www.google.com/finance/quote/NKE:NYSE)
+> [!note]- Science: NASA launches three Moon base investigations — targeting ice, lava tube shelters, and surface hazards (Universe Today)
+> NASA is advancing plans for humanity's first permanent Moon base by initiating three dedicated investigations: mapping accessible subsurface ice deposits, identifying underground lava tube shelters for long-duration habitation, and characterising surface hazards such as charged dust and micrometeorites. The effort is part of the Artemis programme's long-term surface operations phase, with site-selection data from upcoming robotic landers expected to narrow candidate base locations. [Source](https://www.universetoday.com/)
 
 ### [[10-08-26 Thu]]
 
