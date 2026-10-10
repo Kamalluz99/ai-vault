@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-09T05:00
+updated: 2026-10-10T19:17
 topic: daily news
 frequency: daily
 ongoing: false
@@ -105,6 +105,26 @@ unread: true
 >
 > > [!note]- Nike (NKE): $35.08 (+0.98%) — Q1 FY2027 EPS beats but revenue -4.3% YoY; Goldman and Berenberg remain bearish (Google Finance)
 > > Nike traded at $35.08 on October 9, up 0.98%, though the stock remains near a 13-year low after Q1 FY2027 results showed EPS of $0.48 (beat $0.43 consensus) but revenue of $11.21B fell 4.3% YoY and missed estimates. Goldman Sachs and Berenberg both hold Sell ratings with targets of $30 and $27.50 respectively; consensus across 42 analysts averages $38.15. Position: 46 shares @ $71.69 avg; unrealised P&L ≈ −$1,684. [Source](https://www.google.com/finance/quote/NKE:NYSE)
+>
+> > **Evening update**
+>
+> > [!note]- SG/MY: Singapore remains world's most polluted as Indonesia haze lingers; PM Anwar seeks ASEAN emergency meeting (Al Jazeera/SCMP)
+> > Southeast Asia's haze crisis showed no sign of easing on Saturday as smoke from Kalimantan forest fires kept Singapore among the world's most polluted cities and Malaysia's school closures in force across multiple states. Prime Minister Anwar Ibrahim directed Malaysia's foreign minister to push for an urgent ASEAN environment ministers' meeting to press Indonesia on fire suppression. Singapore's PSI remains in the very unhealthy range; IQAir data briefly ranked the city-state first globally for air pollution earlier this week. [Al Jazeera](https://www.aljazeera.com/news/2026/10/9/malaysia-shuts-schools-as-haze-from-indonesian-fires-chokes-southeast-asia)
+>
+> > [!note]- Malaysia: Schools closed in KL, Putrajaya and multiple states as haze API hits 170; 2 million students affected (Al Jazeera)
+> > Malaysia expanded school closures to Kuala Lumpur, Putrajaya, and several additional states as haze from Indonesian fires pushed the Air Pollution Index to approximately 170 in the capital — firmly in the unhealthy range. Roughly two million students are affected. Greenpeace separately identified over 20 palm oil and pulp concessions with active fire sources inside their boundaries, putting renewed pressure on corporate accountability across Indonesia's plantation sector. [Al Jazeera](https://www.aljazeera.com/news/2026/10/9/malaysia-shuts-schools-as-haze-from-indonesian-fires-chokes-southeast-asia)
+>
+> > [!note]- World: Global economy takes "gut punch" from Iran war; Hormuz closure enters second month with no end in sight (AP/Fortune)
+> > The Strait of Hormuz closure has stretched into its second month, with economists describing the cumulative impact as a "gut punch" to the global economy — the longest disruption of the world's most critical oil chokepoint in modern history. WTI crude remains near $92–$100/bbl, Brent holds above $100, war-risk shipping premiums are at record levels, and US 10-year Treasury yields have hit their highest since 2002. Import-dependent economies in Asia and Europe face mounting stagflation risk the longer talks remain deadlocked. [Fortune/AP](https://fortune.com/tag/international/)
+>
+> > [!note]- World: Trump to call Putin "very soon"; Yemeni forces retake Red Sea port of Mokha from Houthis (CNBC)
+> > President Trump told reporters he expects to speak with Russian President Vladimir Putin "very soon," citing concerns including a reported plague-linked death in Siberia. Separately, Yemeni government forces retook the Red Sea port city of Mokha from Iran-backed Houthi forces in a significant frontline shift that could reduce pressure on one key shipping corridor. Lithuania also announced a proposal to lift its decades-long ban on hosting nuclear weapons, drawing sharp condemnation from Moscow. [CNBC](https://www.cnbc.com/world-politics/)
+>
+> > [!note]- Tech: Boston Dynamics appoints former Amazon AI chief Rohit Prasad as CEO; Nvidia pledges $1B to US scientific computing (TechCrunch)
+> > Boston Dynamics named Rohit Prasad — formerly Amazon's head scientist for Alexa and later VP of AGI — as its new CEO, placing a heavy physical-AI bet at the helm of the robotics pioneer as the humanoid race intensifies. Nvidia separately committed $1 billion over five years to US scientific computing infrastructure, targeting AI-heavy research at national labs and universities. Anthropic also launched a free Claude-powered security scanner for open-source repositories, designed to detect vulnerabilities in public codebases at scale. [TechCrunch](https://techcrunch.com/category/artificial-intelligence/)
+>
+> > [!note]- Science/Economy: Gartner: Worldwide AI spending to hit $2.7 trillion in 2026, up 50% YoY despite global headwinds (Gartner/AI Magazine)
+> > Gartner projects worldwide AI spending will reach US$2.7 trillion in 2026 — a 50% year-on-year increase — driven by infrastructure, platform, and application investment even as the Iran war's supply-chain disruptions tighten credit and cloud procurement. A related industry report found global PC shipments have fallen roughly 20% as AI-driven memory shortages inflate component prices. India is expected to publish a draft AI regulation consultation paper within 30 days, positioning it as one of the first large economies to formalise AI procurement standards. [AI Magazine](https://aimagazine.com/)
 
 ### [[10-08-26 Thu]]
 
