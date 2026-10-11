@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-10T05:00
+updated: 2026-10-11T19:19
 topic: daily news
 frequency: daily
 ongoing: false
@@ -102,6 +102,26 @@ unread: true
 >
 > > [!note]- Science: Canadian telescope detects 9-billion-year-old hydrogen glow — standalone dark energy signal (ScienceDaily)
 > > A Canadian radio telescope detected faint 21-cm hydrogen emission from approximately 9 billion years ago using its own observations alone — the first such result without stacking or cross-correlation — opening a new window on dark energy and cosmic expansion at a redshift range previously inaccessible. Separately, NASA confirmed Arctic sea ice reached its 2026 annual minimum this week, another below-average extent year consistent with the decade-long trend. [Source](https://www.sciencedaily.com/)
+>
+> > **Evening update**
+>
+> > [!note]- Singapore & Malaysia: Singapore air quality "unhealthy" Oct 11; SG/MY firefighting teams confirmed for Indonesia deployment (Jakarta Globe)
+> > Singapore's air quality entered the "unhealthy" range on Sunday as Kalimantan haze continued to blanket the city-state, with IQAir data reflecting a week-long elevation. Indonesia formally accepted both Singapore's and Malaysia's offers of firefighting assistance on October 10, with logistics for personnel deployment to Kalimantan being finalised. Singapore's Environment Minister Grace Fu directly contacted her Indonesian counterpart on October 10 to coordinate; teams are expected to deploy early this week. [Jakarta Globe](https://jakartaglobe.id/news/indonesia-seeks-malaysia-singapore-cooperation-to-fight-transboundary-haze)
+>
+> > [!note]- Malaysia: Malaysian firefighting teams confirmed for Kalimantan deployment after Indonesia accepts bilateral aid (Tempo)
+> > Malaysia's firefighting and disaster management personnel are set to deploy to Kalimantan's worst-hit fire zones after Indonesia's Forestry Ministry formally accepted the offer on October 10, with Foreign Minister Mohamad Hasan having secured the agreement in talks with Jakarta. The two governments are finalising deployment zones and logistics; Malaysia has haze-fighting aircraft and ground crews on standby. Malaysian states continue to report school closures, with air quality in parts of Peninsular Malaysia remaining in the unhealthy range on Sunday. [Tempo](https://en.tempo.co/read/2121316/indonesia-welcomes-singapore-malaysia-offers-to-help-fight-forest-fires)
+>
+> > [!breaking]- World: Riyadh airport attack death toll rises to 12, 309 wounded; US weighs joining Saudi operations against Houthis (Euronews/AA)
+> > The Houthi strike on King Khalid International Airport in Riyadh has killed 12 people and wounded 309, Saudi authorities confirmed Sunday — a significant jump from the three killed reported Saturday. Saudi-led forces vowed a "firm" response, and Washington is actively weighing whether to join Saudi counter-operations against the Houthis in Yemen amid the escalating regional conflict tied to the Hormuz closure. [Euronews](https://www.euronews.com/video/2026/10/11/latest-news-bulletin-october-11th-2026-morning)
+>
+> > [!note]- World: Trump demands Ukraine replace Zelenskyy, calls for "new president" who can make a deal with Russia (Euronews)
+> > President Trump publicly declared "it's time for Ukraine to get a new president" who can "make a deal" with Russia, accusing Volodymyr Zelenskyy of repeatedly failing to negotiate an end to the war. The statement marks the most direct US pressure yet on Ukraine's leadership and is likely to complicate Kyiv's diplomatic position heading into ceasefire negotiations. [Euronews](https://www.euronews.com/video/2026/10/11/latest-news-bulletin-october-11th-2026-morning)
+>
+> > [!note]- Tech: OpenAI to test visual ads inside ChatGPT US this month; Reflection AI releases 501B-parameter Beam open model (AI Startup News)
+> > OpenAI will begin testing a visual ad format in the US later this month that appears while ChatGPT generates an image, marking the company's first step toward advertising-supported revenue outside subscriptions. Meanwhile, Reflection AI — backed by Nvidia — released Beam, a 501-billion-parameter mixture-of-experts open-weight model, and Cloudflare acquired the startup behind the Deno JavaScript runtime. [gtstu.com](https://gtstu.com/weekly-ai-startup-news-roundup-2026-10-11)
+>
+> > [!note]- Science/Economy: Global trust in science falls to 72% — lowest since 2017; financial hardship linked to sharpest decline (Business Standard)
+> > A global survey published this week found that 72% of people expressed at least some trust in science in 2025, down from 80% in 2020 and 77% in 2018 — the lowest level since 2017. The steepest decline was observed among people facing financial hardship, suggesting that economic stress and perceived distance from scientific institutions are compounding each other globally. [Business Standard](https://business-standard.com/amp/world-news/trust-in-science-falls-as-covid-era-confidence-fades-finds-global-survey-126101100073_1.html)
 
 ### [[10-09-26 Fri]]
 
