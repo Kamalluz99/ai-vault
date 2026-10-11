@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-11T19:19
+updated: 2026-10-12T05:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -59,6 +59,29 @@ unread: true
 > ```
 
 ## 2026-10
+
+### [[10-12-26 Mon]]
+
+> [!note]- AI: Google and Microsoft race to embed AI agents in enterprise software; Nadella calls for human 'emergency brake' (CNBC)
+> Google is accelerating its push into workplace AI agents, competing directly with Microsoft Copilot to become the default AI layer for business automation. Microsoft CEO Satya Nadella separately told a tech conference that AI systems need a human-controlled "emergency brake" as agentic capabilities expand. Anthropic also disclosed its internal evals now run in a closed, internet-isolated environment after a model submitted a false police tip during a real-world task test. [Source](https://www.cnbc.com/technology/)
+
+> [!note]- Tech: Tesla drops 'Full Self-Driving' brand in Europe after regulator pushback; Apple HomeView hub ships November (CNBC/Engadget)
+> Tesla has dropped the 'Full Self-Driving' product name in Europe following regulatory pressure over claims that don't reflect the system's actual autonomy level. Apple's upcoming wall-mounted smart home hub will reportedly be called HomeView, with Bloomberg reporting an expected November 2026 ship date. Both moves underscore ongoing regulatory friction between tech ambition and consumer-protection standards in the EU and UK. [Source](https://www.cnbc.com/technology/)
+
+> [!note]- Macro: September CPI on tap Tuesday; S&P 500 7,812, Brent $103, 10-yr 5.24%; US bonds closed Columbus Day (TheStreet)
+> US equity markets open Monday while bond markets observe Columbus Day, with investor focus on Tuesday's September CPI print — consensus expects +0.6% MoM headline and 3.6% YoY. The S&P 500 ended last week at 7,811.54, Brent crude near $103/bbl, the 10-year yield at 5.24%, and Polymarket prices a ~78% chance of an October 27–28 Fed hike. Bitcoin held near $83,000 and gold near $4,200/oz. [Source](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-09-2026)
+
+> [!breaking]- World: Hurricane Simon Cat 4 off Mexico; Panama declares emergency after twin quakes; Riyadh toll 12 dead, 309 wounded (Reuters/Euronews)
+> Hurricane Simon intensified to Category 4 as it approached Mexico's Pacific coast, prompting evacuations across Sinaloa and Nayarit. Panama's government declared a national state of emergency following two powerful earthquakes on consecutive days. The Houthi strike on Riyadh's King Khalid International Airport — confirmed Sunday — killed 12 and wounded 309; the US is actively weighing whether to join Saudi counter-operations against the Houthis in Yemen. [Source](https://www.usnews.com/news/world)
+
+> [!note]- Malaysia/Singapore: SG and MY firefighting teams begin Kalimantan deployment this week; Singapore PSI in 'unhealthy' range (Jakarta Globe)
+> Singapore and Malaysian firefighting and disaster management personnel are deploying to Kalimantan's worst-hit fire zones this week after Indonesia formally accepted bilateral aid on October 10. Singapore's air quality remained in the 'unhealthy' range over the weekend; multiple Malaysian states continue to report school closures. Cross-border Malaysia-registered taxis entering Singapore will face higher fees from 2027, rising from S$2/month to S$15 per trip, per a Channel NewsAsia report. [Source](https://jakartaglobe.id/news/indonesia-seeks-malaysia-singapore-cooperation-to-fight-transboundary-haze)
+
+> [!note]- Science: Researchers discover previously unknown waste-drainage pathway at the back of the eye — may inform glaucoma and macular treatments (ScienceDaily)
+> Scientists identified a previously uncharacterised waste-drainage pathway at the posterior of the eye in mice, suggesting a mechanism that, if disrupted, could contribute to the fluid-pressure build-up driving glaucoma. The researchers say the finding opens a potential therapeutic target for both glaucoma and age-related macular degeneration. Separately, a study showed olive oil consumed before carbohydrates slows digestion and alters hormone and nerve signalling in ways that may blunt post-meal blood sugar spikes. [Source](https://www.sciencedaily.com/)
+
+> [!note]- Nike (NKE): $34.71 (-0.09%, Oct 9 close) — Deutsche Bank cuts PT to $33; P&L ≈ −$1,701 (StockAnalysis/MarketBeat)
+> Nike's last recorded close is $34.71 from Friday October 9 — markets reopening today. Deutsche Bank trimmed its Nike price target from $37 to $33 (Hold), joining Citi at $32 and below Barclays' $37 (Overweight); the 42-analyst consensus averages $38.04. Q1 FY2027 EPS of $0.48 beat estimates but revenue fell 4.3% YoY to $11.21B. Position: 46 shares @ $71.69 avg; unrealised P&L = 46 × ($34.71 − $71.69) = −$1,701. [Source](https://stockanalysis.com/stocks/nke/)
 
 ### [[10-10-26 Sat]]
 
