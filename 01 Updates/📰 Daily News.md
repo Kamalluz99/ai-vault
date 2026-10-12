@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-12T19:19
+updated: 2026-10-13T05:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -59,6 +59,29 @@ unread: true
 > ```
 
 ## 2026-10
+
+### [[10-13-26 Tue]]
+
+> [!note]- AI: DeepSeek to raise $12B+ in Tencent-backed funding — largest AI raise in years (Bloomberg)
+> Bloomberg reports DeepSeek is set to raise at least $12 billion in a new funding round backed by Tencent, in one of the largest AI investment rounds in years. The Chinese lab has already disrupted frontier model pricing with its open-weight releases. Microsoft separately unveiled its Maia 300 inference chip targeting 2027 Azure scale-up, as hyperscalers race to reduce dependency on Nvidia. [Source](https://www.bloomberg.com/technology-ai)
+
+> [!note]- Tech: Apple "Welcome Home" event today in NYC — HomePod refresh and home hub rumoured (MacRumors/TechCrunch)
+> Apple is holding a "Welcome Home" product launch in Tribeca, New York at 9 AM ET today, with a HomePod update and possibly a new home hub device expected. The event coincides with TechCrunch Disrupt kicking off in San Francisco (Oct 13–15). Google also launched Gemini 4 Argon this week, its new top model targeting enterprise, coding, and cyber-defense tasks. [Source](https://www.macrumors.com/2026/10/03/top-stories-apple-smart-home-launch-october-13/)
+
+> [!note]- Macro: September CPI prints today; S&P near record 7,812; oil ~$94; bank earnings season opens (Bloomberg/FXCM)
+> The September CPI report — the week's key macro catalyst — drops today, with consensus at +0.6% MoM headline and 3.6% YoY. Oil traded above $94/bbl after Houthi strikes on Saudi Arabia, and a US–Russia "energy ceasefire" in Ukraine remains fragile. The S&P 500 ended Monday near 7,812 with chip stocks down 2.8%; bank earnings kick off this week with JPMorgan, Wells Fargo, and Citi reporting. [Source](https://www.bloomberg.com/news/articles/2026-10-11/oil-rises-on-mideast-attacks-dollar-edges-higher-markets-wrap)
+
+> [!note]- World: Riyadh airport attack: 12 killed, 309 wounded; Le Pen–Mélenchon French run-off poll (Reuters/Euronews)
+> The Houthi missile strike on King Khalid International Airport in Riyadh has killed 12 and wounded 309; Washington is weighing whether to join Saudi counter-operations in Yemen. A new French poll shows Marine Le Pen and Jean-Luc Mélenchon heading to a presidential run-off. Separately, 109 migrants died after a boat capsized off Djibouti, and Hurricane Simon's recovery continues along Mexico's Pacific coast. [Source](https://www.reuters.com/)
+
+> [!note]- Malaysia/Singapore: Haze persists; Firefly suspends Subang–Seletar flights; SG haze subsidies active (CNA/Malay Mail)
+> Haze from Kalimantan fires continues to blanket the region, with Singapore rolling out haze-relief subsidies and Malaysia's school closures active in worst-affected states including Johor. Firefly extended suspension of all Subang–Seletar flights through October 13, citing poor visibility. Malaysia-registered taxis entering Singapore are set to pay S$15 per trip from 2027 under new cross-border regulations. Malaysian and Singaporean firefighting teams are deploying to Kalimantan after Indonesia formally accepted bilateral aid. [Source](https://www.channelnewsasia.com/)
+
+> [!note]- Science: SpaceX/NASA ISS resupply launches 6:33 AM EDT today; world's first self-stabilizing nuclear clock (NASA/AIP)
+> NASA and SpaceX are targeting a 6:33 AM EDT launch of a Dragon cargo spacecraft to the ISS carrying science investigations, supplies, and the final set of roll-out solar arrays. A Vienna team separately reported the world's first self-stabilizing nuclear clock, which maintains atomic precision without external correction — a breakthrough for metrology and GPS. A Menin protein study in mice also reversed several age-related changes within 30 days. [Source](https://www.nasa.gov/2026-news-releases/)
+
+> [!note]- Nike (NKE): $35.35 (+1.84%) — Goldman Sachs cuts PT to $30; P&L ≈ −$1,672 (Yahoo Finance/GuruFocus)
+> Nike closed at $35.35, up $0.64 (+1.84%), recovering slightly within its 52-week range of $31.97–$70.44. Goldman Sachs cut its price target to $30 (below current price); Barclays holds Overweight at $37 and the 42-analyst consensus averages $38.04. Q1 FY2027 EPS of $0.48 beat estimates but revenue fell 4.3% YoY; next earnings estimated Dec 17. Position: 46 shares @ $71.69 avg; unrealised P&L = 46 × ($35.35 − $71.69) = −$1,672. [Source](https://finance.yahoo.com/quote/NKE/)
 
 ### [[10-11-26 Sun]]
 
