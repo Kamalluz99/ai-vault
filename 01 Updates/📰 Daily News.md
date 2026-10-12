@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-11T06:30
+updated: 2026-10-12T19:19
 topic: daily news
 frequency: daily
 ongoing: false
@@ -105,6 +105,26 @@ unread: true
 >
 > > [!note]- Nike (NKE): $34.71 (-0.09%, Oct 9 close) — Deutsche Bank cuts PT to $33; P&L ≈ −$1,701 (StockAnalysis/MarketBeat)
 > > Nike's last recorded close is $34.71 from Friday October 9 — markets reopening today. Deutsche Bank trimmed its Nike price target from $37 to $33 (Hold), joining Citi at $32 and below Barclays' $37 (Overweight); the 42-analyst consensus averages $38.04. Q1 FY2027 EPS of $0.48 beat estimates but revenue fell 4.3% YoY to $11.21B. Position: 46 shares @ $71.69 avg; unrealised P&L = 46 × ($34.71 − $71.69) = −$1,701. [Source](https://stockanalysis.com/stocks/nke/)
+>
+> **Evening update**
+>
+> > [!note]- Singapore & Malaysia: Indonesia brushes off haze criticism; SG rolls out subsidies, MY schools still closed in worst states (Malay Mail)
+> > An Indonesian official dismissed bilateral criticism with a "we send oxygen when there's no smoke" remark, even as 22 of Malaysia's 68 monitoring stations logged unhealthy API readings on Monday — peaking at 170 in Johor's Kota Tinggi. Singapore rolled out haze-relief subsidies for residents while Malaysia kept school closures active in worst-affected states. PM Anwar confirmed Malaysia's deployment of water-bombing aircraft and fire crews after Indonesia formally accepted bilateral aid. [Source](https://www.malaymail.com/news/malaysia/2026/10/12/we-send-oxygen-when-theres-no-smoke-indonesian-official-brushes-off-haze-criticism-in-malaysia-singapore/238761)
+>
+> > [!note]- Malaysia: Jordan's King Abdullah II concludes 2-day KL state visit covering Gaza and bilateral ties (The Star)
+> > Jordan's King Abdullah II concluded a two-day state visit to Malaysia on Monday, with talks centring on Gaza, the broader Middle East crisis, and bilateral economic cooperation. Malaysian King Sultan Ibrahim was briefed by Foreign Minister Mohamad Hasan on both the Jordanian and Egyptian state visits, which coincided at the royal palace. The dual high-level visits reinforce Malaysia's growing role as a diplomatic bridge partner for the Middle East under PM Anwar Ibrahim's foreign policy. [Source](https://www.thestar.com.my/news/nation/2026/10/09/king-receives-briefing-on-visits-of-egyptian-president-king-of-jordan)
+>
+> > [!note]- World: Trump urges Zelenskyy to halt strikes on Russian oil refineries as global diesel prices spike (Axios)
+> > President Trump urged Ukrainian President Zelenskyy to stop targeting Russian oil refineries and fuel infrastructure, warning the strikes are "hurting the world" by inflating global diesel prices amid an already-tight energy market. The call comes as US-mediated Ukraine-Russia peace talks are expected to resume in October. Zelenskyy has so far resisted pressure, viewing refinery strikes as legitimate targeting of Moscow's war economy. [Source](https://weartv.com/news/nation-world/gallery/trump-urges-zelensky-to-halt-strikes-on-russia-diesel-sites-amid-global-fuel-crunch)
+>
+> > [!note]- World: WHO presses Russia for answers on Siberian plague lab worker's unexplained death (Al Jazeera/ITV)
+> > The WHO said it still does not know what caused the October 2 death of a worker at Russia's Irkutsk Anti-Plague Research Institute, with laboratory testing ongoing and Russia providing minimal information. Rospotrebnadzor attributed the death to "pneumonia of unknown origin" and denied epidemic risk, claiming monitoring of 90% of the worker's contacts found no dangerous pathogens. US Secretary of State Rubio called on Moscow to share full findings with the international community; the WHO's risk assessment remains incomplete. [Source](https://www.aljazeera.com/news/2026/10/6/russia-denies-imposing-anti-plague-measures-after-lab-worker-death)
+>
+> > [!note]- Tech: Nvidia-backed Reflection AI poised to release first open-weight frontier model (Axios/DealRoom)
+> > Nvidia-backed Reflection AI is preparing to launch its first open-weight frontier model, marking the lab's public debut after raising $2 billion at an $8 billion valuation — Nvidia contributing $800 million — and securing a $1 billion compute deal with Nebius and a multi-year SpaceX contract worth up to $6.3 billion. The lab was founded in 2024 by two former Google DeepMind researchers and, when launched, will directly challenge Meta's Llama series and Mistral's newly announced "Chonk" open-weight model in the privacy-first enterprise market. [Source](https://app.dealroom.co/news/note/nvidia-backed-reflection-ai-prepares-first-open-weight-model-launch)
+>
+> > [!note]- Economy: Gold near $5,000/oz; S&P futures up as big-bank earnings season opens; Bursa higher on Budget 2027 (CNBC/NST)
+> > Gold hovered near $5,000 per troy ounce on Monday as investors positioned ahead of Tuesday's September CPI print — consensus expects +0.6% MoM headline — and a busy earnings week with JPMorgan, Wells Fargo, and Citi set to report. S&P 500 futures edged higher while Bursa Malaysia opened stronger, buoyed by positive Budget 2027 sentiment. CME FedWatch now prices a 17% chance of a Fed hike in October but an 86% probability by December. [Source](https://finance.yahoo.com/)
 
 ### [[10-10-26 Sat]]
 
