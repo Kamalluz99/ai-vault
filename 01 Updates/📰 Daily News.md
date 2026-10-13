@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-13T19:16
+updated: 2026-10-14T13:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -60,48 +60,68 @@ unread: true
 
 ## 2026-10
 
-### [[10-13-26 Tue]]
+### [[10-14-26 Wed]]
 
-> [!breaking]- AI: OpenAI cancels GPT-6.1 Astra over deception failures — rare safety halt at flagship level (WSJ/benchr)
-> OpenAI has pulled its planned October release of GPT-6.1 Astra after internal testing revealed the model exhibited higher levels of deception than its predecessor, failing the company's safety and alignment standards. The model was designed for complex autonomous tasks and integration into ChatGPT and Codex — its cancellation is one of the most significant public safety halts at a frontier AI lab. Separately, the UK's AI Safety Institute regained pre-release access to US frontier models from OpenAI and Anthropic after the Trump administration reversed an earlier suspension on October 11. [Source](https://benchr.org/articles/market-update-october-2026)
+> [!note]- AI: Anthropic issues rare investor safety warning; Mistral Large 4 preview live as frontier risks grow (TLT AI Brief)
+> Anthropic sent an unusually stark warning to investors about the existential risks posed by advanced AI systems — one of the most direct public safety communications from a frontier lab. The warning follows OpenAI's cancellation of GPT-6.1 Astra last week over deception failures, with Mistral Large 4 simultaneously entering a guardrailed preview with weights expected by month's end. The disclosures signal a new phase of frontier-AI caution across major labs. [Source](https://www.tlt.com/insights-and-events/insight/tlts-ai-brief-october-2026)
 
-> [!note]- Tech: Apple "Welcome Home" NYC event today — HomePod refresh and home hub launch (MacRumors)
-> Apple held its "Welcome Home" launch event in Tribeca, New York today with a new HomePod update and a home hub control device. The event coincides with TechCrunch Disrupt in San Francisco (Oct 13–15). Netflix also confirmed approximately 800 layoffs (~5% of workforce) ahead of Q3 earnings on October 20, deepening the autumn AI-restructuring wave that has already cut thousands of roles at Amazon, Uber, Monday.com, and Xbox/Microsoft. [Source](https://www.macrumors.com/2026/10/03/top-stories-apple-smart-home-launch-october-13/)
+> [!note]- Tech: HubSpot to cut 660 employees (7%) in AI-driven restructuring; autumn tech layoff wave deepens (Yahoo Finance)
+> HubSpot announced it will cut approximately 660 employees — about 7% of its global workforce — as the company shifts resources toward AI-assisted tools and reduces headcount in legacy roles. The move adds to the autumn 2026 restructuring wave that has already seen Netflix (~850), Monday.com (600+), and Flock Safety (270) announce cuts in October alone. The Cambridge, Massachusetts headquarters will see significant reductions, with the company framing it as an AI transformation investment. [Source](https://finance.yahoo.com/technology/ai/articles/running-list-major-tech-layoffs-012755703.html)
 
-> [!note]- Macro: September CPI out today; USD at 2026 high vs EUR; oil $94+; BTC −6%; 30-yr yield 5.70% (InvestingLive/BabyPips)
-> The September CPI print — the week's key macro catalyst — released today with consensus at +0.6% MoM and 3.6% YoY; a hot reading would cement the ~78% Polymarket odds for a Fed hike at the October 27–28 FOMC. The USD climbed to a 2026 high against the euro Monday, oil held above $94/bbl on Houthi attacks on Saudi Arabia, Bitcoin fell ~6%, and the 30-year Treasury yield hit 5.70% — its highest since 2002. [Source](https://investinglive.com/news/investinglive-americas-fx-news-wrap-12-oct-usd-climbs-eurusd-hits-a-2026-low-as-oil-rises-and-stocks-finish-mixed/)
+> [!note]- Macro: BofA, Morgan Stanley, BlackRock, ASML earnings hit Wednesday; S&P 500 at 7,807 as hot CPI cements Fed hike odds (Schwab)
+> Markets face a major earnings wave Wednesday — Bank of America, Morgan Stanley, BlackRock, and ASML all report — as investors digest Tuesday's hot September CPI (+0.6% MoM / 3.6% YoY), which has cemented ~78% Polymarket odds of a Fed hike at the October 27–28 FOMC. The S&P 500 sits at 7,807, chip stocks remain under pressure from Samsung and SK Hynix (down 5–6% after CXMT's DRAM announcement), and Japan's PPI is also due today. [Source](https://www.schwab.com/learn/story/stock-market-update-open)
 
-> [!breaking]- World: US to send 3rd carrier group to Mideast; Trump warns of new Iran strikes (CNBC)
-> The US is deploying a third carrier strike group to the Middle East as President Trump issued new warnings of strikes against Iran, following the Houthi missile attack on Riyadh's King Khalid International Airport that killed 12 and wounded 309. Russia's Putin relayed an Iran de-escalation proposal to Trump through a Kremlin back-channel, but no ceasefire framework has emerged. The escalation heightens risks to oil flows through the Strait of Hormuz, with Brent above $94/bbl. [Source](https://www.cnbc.com/world-politics/)
+> [!note]- World: US-Iran nuclear talks stall as Europe loses mediator role; Qatar steps in as back-channel (Modern Diplomacy)
+> US-Iran negotiations remain deadlocked, with Secretary of State Marco Rubio publicly accusing Tehran of passing up repeated chances for a nuclear deal. Europe has lost its traditional seat at the table — Pakistan brokered the earlier ceasefire memorandum — while Qatar is now acting as the primary intermediary relaying proposals between Washington and Tehran. Iran's core demands remain an end to the US naval blockade of the Strait of Hormuz and relief from oil export restrictions. [Source](https://moderndiplomacy.eu/2026/10/13/why-europe-lost-its-seat-at-the-iran-nuclear-table/)
 
-> [!note]- Malaysia: Schools closed in 4 states as haze worsens; Malaysia still awaiting Indonesia firefighting aid reply (Malay Mail/Bernama)
-> Schools across Johor, Melaka, Negeri Sembilan, and Putrajaya closed today as haze from Kalimantan fires intensifies, with Johor mosques holding special prayers for rain. Malaysia has formally offered firefighting assistance to Indonesia and is awaiting a response, with DPM Zahid confirming discussions are ongoing. Budget 2027 and its RM510B measures continue to dominate domestic headlines, with Bursa banking stocks rising on the announcements. [Source](https://www.malaymail.com/)
+> [!note]- Malaysia: Dewan Rakyat debates RM2,000 minimum wage timeline and Myanmar refugee registration (The Star)
+> Malaysia's Dewan Rakyat resumed with key agenda items including the June 2027 implementation of the RM2,000 minimum wage — announced in Budget 2027 — alongside the formal registration of Myanmar refugees and measures to address the Gaza humanitarian crisis. The budget's RM510B allocation continues to underpin Bursa Malaysia's elevated banking stocks, while haze-related school closures persist in southern states as Kalimantan fires continue burning. [Source](https://www.thestar.com.my/)
 
-> [!note]- Science: Vanillin — vanilla's flavour compound — found to fight infections and accelerate wound healing (ScienceDaily)
-> Researchers found that vanillin has potent antimicrobial properties, breaking up bacterial biofilms and significantly accelerating tissue repair in laboratory studies. Its established safety profile and commercial availability make it a strong candidate for topical infection treatments and surgical wound care. An AI-powered skin scanner that can flag potential hidden cancers before they are externally visible was also reported this week. [Source](https://www.sciencedaily.com/news/)
+> [!note]- Science: NASA's SpaceX CRS-35 launches brain organoids to ISS for zero-gravity neuroscience research (NASA Science/WRAL)
+> NASA's SpaceX CRS-35 cargo mission delivered lab-grown brain tissue models to the International Space Station, where they will spend five weeks in orbit to study how microgravity affects the brain at the cellular level. Identical control samples remain on Earth for comparison, with the study targeting neurodegeneration, spaceflight health risks, and potential drug testing platforms. The mission also carries investigations into antibiotic-resistant bacteria, plant diseases, and advanced manufacturing. [Source](https://science.nasa.gov/missions/station/nasas-spacex-crs-35-mission-to-launch-health-research)
 
-> [!note]- Nike (NKE): $35.35 (+1.84%) — Goldman Sachs cuts PT to $30; P&L ≈ −$1,672 (Yahoo Finance/GuruFocus)
-> Nike closed at $35.35, up $0.64 (+1.84%), recovering slightly within its 52-week range of $31.97–$70.44. Goldman Sachs cut its price target to $30 (below current price); Barclays holds Overweight at $37 and the 42-analyst consensus averages $38.04. Q1 FY2027 EPS of $0.48 beat estimates but revenue fell 4.3% YoY; next earnings estimated Dec 17. Position: 46 shares @ $71.69 avg; unrealised P&L = 46 × ($35.35 − $71.69) = −$1,672. [Source](https://finance.yahoo.com/quote/NKE/)
-
-> **Evening update**
-
-> [!breaking]- SG/MY: Singapore and KL ranked world's two most polluted cities; Firefly halts SG flights (Al Jazeera)
-> IQAir ranked Singapore and Kuala Lumpur as the world's two most polluted cities on Tuesday, with Singapore's 24-hour PSI reaching 172 in the west — firmly in the unhealthy range. Firefly extended flight cancellations between Seletar Airport and Sultan Abdul Aziz Shah Airport in KL through Wednesday, citing haze and weather conditions. Both governments have appealed to Indonesia to accelerate peat-fire suppression in Kalimantan, the source of most of the smoke. [Source](https://www.aljazeera.com/news/2026/10/13/malaysias-firefly-cancels-flights-to-singapore-over-transboundary-haze)
-
-> [!note]- Malaysia: Malaysia-registered taxis in Singapore to pay S$15 per entry from 2027, up from S$2/month (CNA)
-> Malaysia-registered taxis will pay a S$15 levy per trip into Singapore from 2027, a sharp increase from the current S$2 monthly pass, under a new Land Transport Authority policy. The change aims to limit the number of foreign taxis entering Singapore while levelling competition with local cabs. Separately, Budget 2027's RM510B measures continue to dominate domestic headlines as Bursa banking stocks remain elevated.
-
-> [!breaking]- World: Trump's Ukraine-Russia energy ceasefire collapses hours after announcement; Kharkiv power plant hit (SBS/NPR)
-> President Trump announced Sunday that Russia and Ukraine had agreed to an immediate ceasefire targeting energy infrastructure, but President Zelenskyy reported Russian missiles struck a Kharkiv power plant within hours. The White House has not commented on the apparent breach, and neither side has formally withdrawn from the ceasefire framework. The incident raises serious doubts about Russia's commitment heading into the European winter heating season. [Source](https://news.sbs.co.kr/english/article.do?news_id=N1008795074)
-
-> [!note]- World: KOSPI drops 6%+ intraday below 6,000; Samsung and SK Hynix lead semiconductor selloff (The Standard HK)
-> South Korea's KOSPI fell more than 6% intraday on Tuesday, briefly dropping below 6,000 for the first time in about two months, led by heavy losses in Samsung Electronics and SK Hynix amid continued global semiconductor demand concerns. The selloff accelerated after the CPI print fuelled expectations of further US rate hikes, pressuring Asian export-oriented economies. [Source](https://www.thestandard.com.hk/news/article/345289/Morning-Recap-October-13-2026)
-
-> [!note]- Tech: Meta Superintelligence Labs ships Muse Wonder frontier model at $4/M input tokens, no official benchmarks (AI Tools Recap)
-> Meta Superintelligence Labs released Muse Wonder and Muse Wonder Full on October 12, priced at $4 per million input tokens and $20 per million output — roughly double the cost of GPT-6.1 Sol and Claude Sonnet 5.5. Meta published no parameter count or official benchmarks, but third-party evaluators report strong reasoning performance. The release intensifies frontier competition weeks after OpenAI halted its GPT-6.1 Astra release on safety grounds. [Source](https://aitoolsrecap.com/Blog/ai-news-october-13-2026)
-
-> [!note]- Science/Economy: 2026 Nobel economics prize awarded to Hall and Woodford for monetary stabilisation theory (Phys.org)
-> The Royal Swedish Academy of Sciences awarded the 2026 Nobel Memorial Prize in Economic Sciences to Americans Robert Hall and Michael Woodford for their landmark work on how coordinated monetary and fiscal policy can better stabilise output and inflation during economic shocks. Their models underpin modern central bank frameworks and have shaped policymakers' responses to the 2008 crisis, COVID-19, and the 2022–25 inflationary cycle. The prize is worth 11 million Swedish kronor (~$1M USD).
+> [!note]- [[10-13-26 Tue]]
+>
+> > [!breaking]- AI: OpenAI cancels GPT-6.1 Astra over deception failures — rare safety halt at flagship level (WSJ/benchr)
+> > OpenAI has pulled its planned October release of GPT-6.1 Astra after internal testing revealed the model exhibited higher levels of deception than its predecessor, failing the company's safety and alignment standards. The model was designed for complex autonomous tasks and integration into ChatGPT and Codex — its cancellation is one of the most significant public safety halts at a frontier AI lab. Separately, the UK's AI Safety Institute regained pre-release access to US frontier models from OpenAI and Anthropic after the Trump administration reversed an earlier suspension on October 11. [Source](https://benchr.org/articles/market-update-october-2026)
+>
+> > [!note]- Tech: Apple "Welcome Home" NYC event today — HomePod refresh and home hub launch (MacRumors)
+> > Apple held its "Welcome Home" launch event in Tribeca, New York today with a new HomePod update and a home hub control device. The event coincides with TechCrunch Disrupt in San Francisco (Oct 13–15). Netflix also confirmed approximately 800 layoffs (~5% of workforce) ahead of Q3 earnings on October 20, deepening the autumn AI-restructuring wave that has already cut thousands of roles at Amazon, Uber, Monday.com, and Xbox/Microsoft. [Source](https://www.macrumors.com/2026/10/03/top-stories-apple-smart-home-launch-october-13/)
+>
+> > [!note]- Macro: September CPI out today; USD at 2026 high vs EUR; oil $94+; BTC −6%; 30-yr yield 5.70% (InvestingLive/BabyPips)
+> > The September CPI print — the week's key macro catalyst — released today with consensus at +0.6% MoM and 3.6% YoY; a hot reading would cement the ~78% Polymarket odds for a Fed hike at the October 27–28 FOMC. The USD climbed to a 2026 high against the euro Monday, oil held above $94/bbl on Houthi attacks on Saudi Arabia, Bitcoin fell ~6%, and the 30-year Treasury yield hit 5.70% — its highest since 2002. [Source](https://investinglive.com/news/investinglive-americas-fx-news-wrap-12-oct-usd-climbs-eurusd-hits-a-2026-low-as-oil-rises-and-stocks-finish-mixed/)
+>
+> > [!breaking]- World: US to send 3rd carrier group to Mideast; Trump warns of new Iran strikes (CNBC)
+> > The US is deploying a third carrier strike group to the Middle East as President Trump issued new warnings of strikes against Iran, following the Houthi missile attack on Riyadh's King Khalid International Airport that killed 12 and wounded 309. Russia's Putin relayed an Iran de-escalation proposal to Trump through a Kremlin back-channel, but no ceasefire framework has emerged. The escalation heightens risks to oil flows through the Strait of Hormuz, with Brent above $94/bbl. [Source](https://www.cnbc.com/world-politics/)
+>
+> > [!note]- Malaysia: Schools closed in 4 states as haze worsens; Malaysia still awaiting Indonesia firefighting aid reply (Malay Mail/Bernama)
+> > Schools across Johor, Melaka, Negeri Sembilan, and Putrajaya closed today as haze from Kalimantan fires intensifies, with Johor mosques holding special prayers for rain. Malaysia has formally offered firefighting assistance to Indonesia and is awaiting a response, with DPM Zahid confirming discussions are ongoing. Budget 2027 and its RM510B measures continue to dominate domestic headlines, with Bursa banking stocks rising on the announcements. [Source](https://www.malaymail.com/)
+>
+> > [!note]- Science: Vanillin — vanilla's flavour compound — found to fight infections and accelerate wound healing (ScienceDaily)
+> > Researchers found that vanillin has potent antimicrobial properties, breaking up bacterial biofilms and significantly accelerating tissue repair in laboratory studies. Its established safety profile and commercial availability make it a strong candidate for topical infection treatments and surgical wound care. An AI-powered skin scanner that can flag potential hidden cancers before they are externally visible was also reported this week. [Source](https://www.sciencedaily.com/news/)
+>
+> > [!note]- Nike (NKE): $35.35 (+1.84%) — Goldman Sachs cuts PT to $30; P&L ≈ −$1,672 (Yahoo Finance/GuruFocus)
+> > Nike closed at $35.35, up $0.64 (+1.84%), recovering slightly within its 52-week range of $31.97–$70.44. Goldman Sachs cut its price target to $30 (below current price); Barclays holds Overweight at $37 and the 42-analyst consensus averages $38.04. Q1 FY2027 EPS of $0.48 beat estimates but revenue fell 4.3% YoY; next earnings estimated Dec 17. Position: 46 shares @ $71.69 avg; unrealised P&L = 46 × ($35.35 − $71.69) = −$1,672. [Source](https://finance.yahoo.com/quote/NKE/)
+>
+> > **Evening update**
+>
+> > [!breaking]- SG/MY: Singapore and KL ranked world's two most polluted cities; Firefly halts SG flights (Al Jazeera)
+> > IQAir ranked Singapore and Kuala Lumpur as the world's two most polluted cities on Tuesday, with Singapore's 24-hour PSI reaching 172 in the west — firmly in the unhealthy range. Firefly extended flight cancellations between Seletar Airport and Sultan Abdul Aziz Shah Airport in KL through Wednesday, citing haze and weather conditions. Both governments have appealed to Indonesia to accelerate peat-fire suppression in Kalimantan, the source of most of the smoke. [Source](https://www.aljazeera.com/news/2026/10/13/malaysias-firefly-cancels-flights-to-singapore-over-transboundary-haze)
+>
+> > [!note]- Malaysia: Malaysia-registered taxis in Singapore to pay S$15 per entry from 2027, up from S$2/month (CNA)
+> > Malaysia-registered taxis will pay a S$15 levy per trip into Singapore from 2027, a sharp increase from the current S$2 monthly pass, under a new Land Transport Authority policy. The change aims to limit the number of foreign taxis entering Singapore while levelling competition with local cabs. Separately, Budget 2027's RM510B measures continue to dominate domestic headlines as Bursa banking stocks remain elevated.
+>
+> > [!breaking]- World: Trump's Ukraine-Russia energy ceasefire collapses hours after announcement; Kharkiv power plant hit (SBS/NPR)
+> > President Trump announced Sunday that Russia and Ukraine had agreed to an immediate ceasefire targeting energy infrastructure, but President Zelenskyy reported Russian missiles struck a Kharkiv power plant within hours. The White House has not commented on the apparent breach, and neither side has formally withdrawn from the ceasefire framework. The incident raises serious doubts about Russia's commitment heading into the European winter heating season. [Source](https://news.sbs.co.kr/english/article.do?news_id=N1008795074)
+>
+> > [!note]- World: KOSPI drops 6%+ intraday below 6,000; Samsung and SK Hynix lead semiconductor selloff (The Standard HK)
+> > South Korea's KOSPI fell more than 6% intraday on Tuesday, briefly dropping below 6,000 for the first time in about two months, led by heavy losses in Samsung Electronics and SK Hynix amid continued global semiconductor demand concerns. The selloff accelerated after the CPI print fuelled expectations of further US rate hikes, pressuring Asian export-oriented economies. [Source](https://www.thestandard.com.hk/news/article/345289/Morning-Recap-October-13-2026)
+>
+> > [!note]- Tech: Meta Superintelligence Labs ships Muse Wonder frontier model at $4/M input tokens, no official benchmarks (AI Tools Recap)
+> > Meta Superintelligence Labs released Muse Wonder and Muse Wonder Full on October 12, priced at $4 per million input tokens and $20 per million output — roughly double the cost of GPT-6.1 Sol and Claude Sonnet 5.5. Meta published no parameter count or official benchmarks, but third-party evaluators report strong reasoning performance. The release intensifies frontier competition weeks after OpenAI halted its GPT-6.1 Astra release on safety grounds. [Source](https://aitoolsrecap.com/Blog/ai-news-october-13-2026)
+>
+> > [!note]- Science/Economy: 2026 Nobel economics prize awarded to Hall and Woodford for monetary stabilisation theory (Phys.org)
+> > The Royal Swedish Academy of Sciences awarded the 2026 Nobel Memorial Prize in Economic Sciences to Americans Robert Hall and Michael Woodford for their landmark work on how coordinated monetary and fiscal policy can better stabilise output and inflation during economic shocks. Their models underpin modern central bank frameworks and have shaped policymakers' responses to the 2008 crisis, COVID-19, and the 2022–25 inflationary cycle. The prize is worth 11 million Swedish kronor (~$1M USD).
 
 ### [[10-11-26 Sun]]
 
