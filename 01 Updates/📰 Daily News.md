@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-13T19:16
+updated: 2026-10-14T05:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -59,6 +59,29 @@ unread: true
 > ```
 
 ## 2026-10
+
+### [[10-14-26 Wed]]
+
+> [!note]- AI: IMF warns AI is hitting job market like a "slow-moving tsunami," young graduates first in line (CNBC)
+> IMF Managing Director Kristalina Georgieva warned at the IMF-World Bank Annual Meetings that AI is disrupting the global labor market like a "slow-moving tsunami," with recent graduates and knowledge workers most exposed. The IMF estimates AI could affect 40% of jobs globally. Separately, Google's Gemini 4 Argon is now being evaluated by the UK's AI Security Institute, and the White House announced $6B in science initiatives at its "Science: A New Golden Age" summit, citing AI-driven research as a priority. [Source](https://cnbc.com/2026/10/12/imf-world-bank-ai-jobs-inflation-.html)
+
+> [!note]- Tech: IonQ acquires Elisity in all-stock deal for up to $1.3B, entering enterprise network security (TechCrunch Disrupt)
+> Quantum computing firm IonQ announced an all-stock acquisition of Elisity, a zero-trust network security company, for up to $1.3 billion. The deal signals IonQ's push beyond hardware into applied quantum security, with Elisity's microsegmentation platform as the entry point. The announcement came during TechCrunch Disrupt 2026 in San Francisco (Oct 13–15). CES Asia Unveiled also kicked off in Hong Kong today inside the Future Industries Zone of the Hong Kong Electronics Fair. [Source](https://techcrunch.com/)
+
+> [!note]- Macro: BofA, Morgan Stanley, BlackRock, ASML earnings due today; markets digest hot CPI; JPMorgan EPS misses (Schwab)
+> US markets turn to Wednesday's earnings wave — Bank of America, Morgan Stanley, BlackRock, and ASML — after Tuesday's September CPI came in at +0.6% MoM / 3.6% YoY, reinforcing the ~78% Polymarket odds of a Fed hike at the Oct 27–28 FOMC. JPMorgan EPS of $5.57 fell short of the $5.90 consensus but stock rose ~1% on the print. Chip stocks remain under pressure, with Samsung and SK Hynix down 5–6% after CXMT flagged mass production of next-gen DRAM for 2026. [Source](https://www.schwab.com/learn/story/stock-market-update-open)
+
+> [!note]- World: France poll: Le Pen and Mélenchon head for presidential runoff; Paris covered market gutted by fire (Reuters/Euronews)
+> A new Reuters poll shows Marine Le Pen and Jean-Luc Mélenchon leading ahead of France's next presidential election, setting up a potential far-right vs. far-left runoff — a historic first if it materialises. Separately, a major overnight fire gutted Paris's oldest covered food market, destroying much of its historic structure. [Source](https://www.euronews.com/video/2026/10/12/latest-news-bulletin-october-12th-2026-morning)
+
+> [!note]- Malaysia/Singapore: Indonesia official calls Kalimantan fires "natural phenomenon"; Firefly cancellations extended through Wednesday (Al Jazeera)
+> An Indonesian official pushed back on regional criticism of the Kalimantan peat fires fuelling Southeast Asian haze, calling them a natural phenomenon and noting Indonesia's forests also supply oxygen to neighbors. Firefly extended its Seletar–Subang flight cancellations through at least Wednesday, with Singapore's PSI still in the unhealthy range and both governments pressing Indonesia to accelerate suppression. [Source](https://www.aljazeera.com/news/2026/10/13/malaysias-firefly-cancels-flights-to-singapore-over-transboundary-haze)
+
+> [!note]- Science: JWST finds ancient galaxy cluster with unexpectedly dense dark matter halo, challenging early universe models (ScienceDaily)
+> NASA's James Webb Space Telescope has revealed an ancient galaxy cluster where dark matter is concentrated far more densely than current cosmological models predict, potentially requiring revisions to the Lambda-CDM standard model. The finding challenges assumptions about structure formation in the early universe. The FDA also approved the first drug targeting Alexander disease, a rare and fatal neurological disorder. [Source](https://www.sciencedaily.com/news/space_time/)
+
+> [!note]- Nike (NKE): $35.43 (+0.23%) — Berenberg downgrades to Sell; stock down 51% YoY; P&L ≈ −$1,668 (Robinhood/Investing.com)
+> Nike's latest trade shows $35.43 in the October 13 session, up marginally (+0.23%) from the $35.35 prior close. Berenberg downgraded to Sell from Hold on October 6; Deutsche Bank targets $33 (Hold), Goldman Sachs $30; analyst consensus averages $38.04. The stock has lost 51.4% over 12 months, trading near 13-year lows. Position: 46 shares @ $71.69 avg; unrealised P&L = 46 × ($35.43 − $71.69) = −$1,668. [Source](https://robinhood.com/us/en/stocks/NKE/)
 
 ### [[10-13-26 Tue]]
 
