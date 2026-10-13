@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-13T08:30
+updated: 2026-10-13T19:16
 topic: daily news
 frequency: daily
 ongoing: false
@@ -82,6 +82,26 @@ unread: true
 
 > [!note]- Nike (NKE): $35.35 (+1.84%) — Goldman Sachs cuts PT to $30; P&L ≈ −$1,672 (Yahoo Finance/GuruFocus)
 > Nike closed at $35.35, up $0.64 (+1.84%), recovering slightly within its 52-week range of $31.97–$70.44. Goldman Sachs cut its price target to $30 (below current price); Barclays holds Overweight at $37 and the 42-analyst consensus averages $38.04. Q1 FY2027 EPS of $0.48 beat estimates but revenue fell 4.3% YoY; next earnings estimated Dec 17. Position: 46 shares @ $71.69 avg; unrealised P&L = 46 × ($35.35 − $71.69) = −$1,672. [Source](https://finance.yahoo.com/quote/NKE/)
+
+> **Evening update**
+
+> [!breaking]- SG/MY: Singapore and KL ranked world's two most polluted cities; Firefly halts SG flights (Al Jazeera)
+> IQAir ranked Singapore and Kuala Lumpur as the world's two most polluted cities on Tuesday, with Singapore's 24-hour PSI reaching 172 in the west — firmly in the unhealthy range. Firefly extended flight cancellations between Seletar Airport and Sultan Abdul Aziz Shah Airport in KL through Wednesday, citing haze and weather conditions. Both governments have appealed to Indonesia to accelerate peat-fire suppression in Kalimantan, the source of most of the smoke. [Source](https://www.aljazeera.com/news/2026/10/13/malaysias-firefly-cancels-flights-to-singapore-over-transboundary-haze)
+
+> [!note]- Malaysia: Malaysia-registered taxis in Singapore to pay S$15 per entry from 2027, up from S$2/month (CNA)
+> Malaysia-registered taxis will pay a S$15 levy per trip into Singapore from 2027, a sharp increase from the current S$2 monthly pass, under a new Land Transport Authority policy. The change aims to limit the number of foreign taxis entering Singapore while levelling competition with local cabs. Separately, Budget 2027's RM510B measures continue to dominate domestic headlines as Bursa banking stocks remain elevated.
+
+> [!breaking]- World: Trump's Ukraine-Russia energy ceasefire collapses hours after announcement; Kharkiv power plant hit (SBS/NPR)
+> President Trump announced Sunday that Russia and Ukraine had agreed to an immediate ceasefire targeting energy infrastructure, but President Zelenskyy reported Russian missiles struck a Kharkiv power plant within hours. The White House has not commented on the apparent breach, and neither side has formally withdrawn from the ceasefire framework. The incident raises serious doubts about Russia's commitment heading into the European winter heating season. [Source](https://news.sbs.co.kr/english/article.do?news_id=N1008795074)
+
+> [!note]- World: KOSPI drops 6%+ intraday below 6,000; Samsung and SK Hynix lead semiconductor selloff (The Standard HK)
+> South Korea's KOSPI fell more than 6% intraday on Tuesday, briefly dropping below 6,000 for the first time in about two months, led by heavy losses in Samsung Electronics and SK Hynix amid continued global semiconductor demand concerns. The selloff accelerated after the CPI print fuelled expectations of further US rate hikes, pressuring Asian export-oriented economies. [Source](https://www.thestandard.com.hk/news/article/345289/Morning-Recap-October-13-2026)
+
+> [!note]- Tech: Meta Superintelligence Labs ships Muse Wonder frontier model at $4/M input tokens, no official benchmarks (AI Tools Recap)
+> Meta Superintelligence Labs released Muse Wonder and Muse Wonder Full on October 12, priced at $4 per million input tokens and $20 per million output — roughly double the cost of GPT-6.1 Sol and Claude Sonnet 5.5. Meta published no parameter count or official benchmarks, but third-party evaluators report strong reasoning performance. The release intensifies frontier competition weeks after OpenAI halted its GPT-6.1 Astra release on safety grounds. [Source](https://aitoolsrecap.com/Blog/ai-news-october-13-2026)
+
+> [!note]- Science/Economy: 2026 Nobel economics prize awarded to Hall and Woodford for monetary stabilisation theory (Phys.org)
+> The Royal Swedish Academy of Sciences awarded the 2026 Nobel Memorial Prize in Economic Sciences to Americans Robert Hall and Michael Woodford for their landmark work on how coordinated monetary and fiscal policy can better stabilise output and inflation during economic shocks. Their models underpin modern central bank frameworks and have shaped policymakers' responses to the 2008 crisis, COVID-19, and the 2022–25 inflationary cycle. The prize is worth 11 million Swedish kronor (~$1M USD).
 
 ### [[10-11-26 Sun]]
 
