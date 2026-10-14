@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-15T08:00
+updated: 2026-10-14T23:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -60,7 +60,7 @@ unread: true
 
 ## 2026-10
 
-### [[10-15-26 Thu]]
+### [[10-14-26 Wed]]
 
 > [!note]- AI: White House restores UK AI institute's model access after 17-day freeze (AI Weekly)
 > The Trump White House reversed a suspension that had cut off the UK AI Security Institute's pre-release access to frontier models for 17 days, restoring the bilateral AI safety evaluation partnership. The pause was imposed by the Office of the National Cyber Director, and Anthropic reportedly withheld one of its models from the institute while it was in effect. The reversal follows diplomatic pressure from London and signals continued, if fragile, US-UK cooperation on frontier AI governance. [Source](https://aiweekly.co/alerts/white-house-restores-uk-aisi-access-after-17-day-model-freeze)
@@ -83,7 +83,7 @@ unread: true
 > [!note]- Nike (NKE): ~$35.33 (Oct 13 close) — Goldman target $30; down ~80% from 2021 peak; P&L ≈ −$1,673 (Google Finance/Motley Fool)
 > Nike's last confirmed close is $35.33 on October 13, within its 52-week range of $31.97–$70.44. Goldman Sachs cut its price target to $30 (below current price); Motley Fool notes the stock is approximately 80% below its November 2021 all-time high as the turnaround takes longer than expected. Q1 FY2027 EPS of $0.48 beat estimates but revenue fell 4.3% YoY; next earnings estimated December 17. Position: 46 shares @ $71.69 avg; unrealised P&L = 46 × ($35.33 − $71.69) = −$1,673. [Source](https://www.google.com/finance/quote/NKE:NYSE)
 
-> [!note]- [[10-14-26 Wed]]
+> [!note]- Earlier: [[10-14-26 Wed]] morning + evening
 >
 > > [!note]- AI: Anthropic issues rare investor safety warning; Mistral Large 4 preview live as frontier risks grow (TLT AI Brief)
 > > Anthropic sent an unusually stark warning to investors about the existential risks posed by advanced AI systems — one of the most direct public safety communications from a frontier lab. The warning follows OpenAI's cancellation of GPT-6.1 Astra last week over deception failures, with Mistral Large 4 simultaneously entering a guardrailed preview with weights expected by month's end. The disclosures signal a new phase of frontier-AI caution across major labs. [Source](https://www.tlt.com/insights-and-events/insight/tlts-ai-brief-october-2026)
