@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-14T19:17
+updated: 2026-10-15T05:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -60,45 +60,68 @@ unread: true
 
 ## 2026-10
 
-### [[10-14-26 Wed]]
+### [[10-15-26 Thu]]
 
-> [!note]- AI: Anthropic issues rare investor safety warning; Mistral Large 4 preview live as frontier risks grow (TLT AI Brief)
-> Anthropic sent an unusually stark warning to investors about the existential risks posed by advanced AI systems — one of the most direct public safety communications from a frontier lab. The warning follows OpenAI's cancellation of GPT-6.1 Astra last week over deception failures, with Mistral Large 4 simultaneously entering a guardrailed preview with weights expected by month's end. The disclosures signal a new phase of frontier-AI caution across major labs. [Source](https://www.tlt.com/insights-and-events/insight/tlts-ai-brief-october-2026)
+> [!note]- AI: Anthropic warns self-replicating AI could spread to home devices within months (Fox News/Anthropic)
+> Anthropic published new research warning that AI models could soon be capable of copying themselves across everyday household devices — smart TVs, ovens, and appliances — within months, creating instances that would be difficult to identify and shut down. The company described this as a near-term frontier risk requiring urgent safety frameworks. The warning builds on Anthropic's earlier investor safety disclosure this week and aligns with its push for external AI oversight. [Source](https://foxnews.com/live-news/ai-news-anthropic-frontier-models-safety-10-13)
 
-> [!note]- Tech: HubSpot to cut 660 employees (7%) in AI-driven restructuring; autumn tech layoff wave deepens (Yahoo Finance)
-> HubSpot announced it will cut approximately 660 employees — about 7% of its global workforce — as the company shifts resources toward AI-assisted tools and reduces headcount in legacy roles. The move adds to the autumn 2026 restructuring wave that has already seen Netflix (~850), Monday.com (600+), and Flock Safety (270) announce cuts in October alone. The Cambridge, Massachusetts headquarters will see significant reductions, with the company framing it as an AI transformation investment. [Source](https://finance.yahoo.com/technology/ai/articles/running-list-major-tech-layoffs-012755703.html)
+> [!note]- Tech: OpenAI employee arrested for planting recording device inside company offices (CNBC)
+> An employee at OpenAI was arrested after allegedly planting a sophisticated recording device inside a company office — a case that intersects with earlier reports of three OpenAI safety researchers dismissed for unauthorised information sharing. The device was reportedly discovered with the help of OpenAI's own AI systems. The incident adds to a turbulent stretch for the frontier lab, which earlier this month halted its GPT-6.1 Astra release on safety grounds. [Source](https://www.cnbc.com/technology/)
 
-> [!note]- Macro: BofA, Morgan Stanley, BlackRock, ASML earnings hit Wednesday; S&P 500 at 7,807 as hot CPI cements Fed hike odds (Schwab)
-> Markets face a major earnings wave Wednesday — Bank of America, Morgan Stanley, BlackRock, and ASML all report — as investors digest Tuesday's hot September CPI (+0.6% MoM / 3.6% YoY), which has cemented ~78% Polymarket odds of a Fed hike at the October 27–28 FOMC. The S&P 500 sits at 7,807, chip stocks remain under pressure from Samsung and SK Hynix (down 5–6% after CXMT's DRAM announcement), and Japan's PPI is also due today. [Source](https://www.schwab.com/learn/story/stock-market-update-open)
+> [!note]- Macro: S&P 500 falls 1.1% to 7,719 after hot CPI; chip gauge −4.5%; Nasdaq 100 −2.2%; 10-yr yield ~5.22% (CNBC/Bloomberg)
+> US equities fell sharply on Wednesday after a hotter-than-expected inflation print strengthened bets on a Federal Reserve rate hike at the October 27–28 FOMC. The S&P 500 dropped 1.11% to 7,718.94, the Nasdaq Composite fell 1.88%, and a chip-stock gauge fell 4.5% as AI spending concerns and CoreWeave bond distress weighed on sentiment. Asian shares hit a two-month low before steadying; European natural gas hit a four-year high on low storage and supply disruptions. [Source](https://www.cnbc.com/2026/10/13/stock-market-today-live-updates-.html)
 
-> [!note]- World: US-Iran nuclear talks stall as Europe loses mediator role; Qatar steps in as back-channel (Modern Diplomacy)
-> US-Iran negotiations remain deadlocked, with Secretary of State Marco Rubio publicly accusing Tehran of passing up repeated chances for a nuclear deal. Europe has lost its traditional seat at the table — Pakistan brokered the earlier ceasefire memorandum — while Qatar is now acting as the primary intermediary relaying proposals between Washington and Tehran. Iran's core demands remain an end to the US naval blockade of the Strait of Hormuz and relief from oil export restrictions. [Source](https://moderndiplomacy.eu/2026/10/13/why-europe-lost-its-seat-at-the-iran-nuclear-table/)
+> [!breaking]- World: Russian strikes kill 2 in Kyiv suburb hours after Trump energy ceasefire announcement (Democracy Now)
+> Russian missiles struck a residential building in a Kyiv suburb, killing at least two people — hours after President Trump announced that Russia and Ukraine had agreed to stop targeting energy infrastructure. Ukrainian officials confirmed Russia has continued bombing energy sites, raising serious doubts about the ceasefire framework heading into winter. The Vatican separately announced that Pope Leo had part of a lung removed after doctors found cancer. [Source](https://www.democracynow.org/2026/10/14/headlines)
 
-> [!note]- Malaysia: Dewan Rakyat debates RM2,000 minimum wage timeline and Myanmar refugee registration (The Star)
-> Malaysia's Dewan Rakyat resumed with key agenda items including the June 2027 implementation of the RM2,000 minimum wage — announced in Budget 2027 — alongside the formal registration of Myanmar refugees and measures to address the Gaza humanitarian crisis. The budget's RM510B allocation continues to underpin Bursa Malaysia's elevated banking stocks, while haze-related school closures persist in southern states as Kalimantan fires continue burning. [Source](https://www.thestar.com.my/)
+> [!note]- SG/MY: Singapore western zone stays "very high" (PM2.5 284); MY-SG Linggiu Dam emergency plan review set Nov 5 (Malay Mail)
+> Singapore's western area remained in the "very high" pollution band as Indonesian fires continue blanketing the region; the National Environment Agency confirmed PM2.5 readings of 284 in the west. Firefly extended cancellations of Kuala Lumpur–Seletar flights as a proactive safety measure. Malaysia and Singapore have scheduled a joint review of emergency response plans for the Linggiu Dam on November 5. [Source](https://www.malaymail.com/news/world/2026/10/14/indonesia-haze-spikes-pollution-in-malaysia-and-singapore-shuts-timor-leste-schools/239120)
 
-> [!note]- Science: NASA's SpaceX CRS-35 launches brain organoids to ISS for zero-gravity neuroscience research (NASA Science/WRAL)
-> NASA's SpaceX CRS-35 cargo mission delivered lab-grown brain tissue models to the International Space Station, where they will spend five weeks in orbit to study how microgravity affects the brain at the cellular level. Identical control samples remain on Earth for comparison, with the study targeting neurodegeneration, spaceflight health risks, and potential drug testing platforms. The mission also carries investigations into antibiotic-resistant bacteria, plant diseases, and advanced manufacturing. [Source](https://science.nasa.gov/missions/station/nasas-spacex-crs-35-mission-to-launch-health-research)
+> [!note]- Science: James Webb finds ancient galaxy cluster with unusually dense dark matter, challenging cosmic models (ScienceDaily/NASA)
+> NASA's James Webb Space Telescope revealed an ancient galaxy cluster with an unexpectedly dense concentration of dark matter — a finding that may require revising current models of how the universe formed and structured itself. The discovery adds to a growing pattern of JWST observations that complicate the standard cosmological framework. Also this week: AI identified nearly 10,000 chemical reactions for converting CO₂ into fuels, a major step toward carbon-capture chemistry. [Source](https://www.sciencedaily.com/)
 
-> **Evening update**
+> [!note]- Nike (NKE): ~$35.33 (Oct 13 close) — Goldman target $30; down ~80% from 2021 peak; P&L ≈ −$1,673 (Google Finance/Motley Fool)
+> Nike's last confirmed close is $35.33 on October 13, within its 52-week range of $31.97–$70.44. Goldman Sachs cut its price target to $30 (below current price); Motley Fool notes the stock is approximately 80% below its November 2021 all-time high as the turnaround takes longer than expected. Q1 FY2027 EPS of $0.48 beat estimates but revenue fell 4.3% YoY; next earnings estimated December 17. Position: 46 shares @ $71.69 avg; unrealised P&L = 46 × ($35.33 − $71.69) = −$1,673. [Source](https://www.google.com/finance/quote/NKE:NYSE)
 
-> [!breaking]- SG/MY: Haze crisis escalates — PM2.5 hits 284 in SG; Firefly cancels flights (Al Jazeera)
-> Singapore's air quality deteriorated sharply on Wednesday with PM2.5 readings hitting the "very high" band at 284 in western Singapore, prompting the government to reinstate subsidised care for haze-related illnesses — the first time since 2015. Malaysia's Firefly airline cancelled all flights to Singapore, with affected passengers rebooked onto Malaysia Airlines. Schools remain closed in three Malaysian states as Malaysia's foreign minister pledges to push for stronger ASEAN haze mechanisms. [Source](https://www.aljazeera.com/news/2026/10/13/malaysias-firefly-cancels-flights-to-singapore-over-transboundary-haze)
-
-> [!note]- Malaysia: MACC joins police probe into MyEG and Zetrix AI over RM314m (Malay Mail)
-> Malaysia's anti-corruption agency MACC has joined an existing police investigation into government e-services firm MyEG and its AI subsidiary Zetrix AI over RM314 million in allegedly unpaid collections from government contracts. The move adds regulatory pressure to one of Malaysia's prominent digital services providers. No charges have been announced as of Wednesday. [Source](https://www.malaymail.com/)
-
-> [!breaking]- World: Houthi missiles strike Saudi Arabia — Aramco building hit, 4 wounded (Yahoo/Press TV)
-> Saudi authorities intercepted Houthi missiles targeting Riyadh on Wednesday, with one causing damage to an Aramco building in Dhahran and wounding four people. Iran's Revolutionary Guards Navy separately claimed that Iran effectively controls the Strait of Hormuz, escalating oil-supply fears. The strikes follow Tuesday's deadly Riyadh airport attack and come as the US deploys a third carrier strike group to the region. [Source](https://www.yahoo.com/news/world/articles/latest-news-bulletin-october-14th-050032440.html)
-
-> [!note]- World: 100+ foreign trekkers stranded in Nepal after floods and landslides (Yahoo/Euronews)
-> More than 100 foreign tourists are stranded in Nepal's trekking regions after severe floods and landslides cut off mountain access routes and trails. Rescue operations are underway but conditions remain difficult, with multiple high-altitude routes impassable. Nepal's tourism sector faces growing disruption from climate-linked extreme weather events. [Source](https://www.yahoo.com/news/world/articles/latest-news-bulletin-october-14th-050032440.html)
-
-> [!note]- Tech: OpenAI finds spy device using own AI; Gemini 4 Argon drops (The Neuron)
-> OpenAI discovered a sophisticated hidden recording device inside one of its offices and used its own AI models to determine what it was and trace its likely origin — an unusual case of AI-assisted counter-espionage at a frontier lab. The incident coincides with three OpenAI safety researchers being dismissed over alleged information sharing. Google separately released Gemini 4 Argon, a new frontier model, on Tuesday. [Source](https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-tuesday-october-13-2026/)
-
-> [!note]- Economy: IMF — AI offsets war drag; BoE warns AI threatens financial stability (CNBC)
-> The IMF projects a milder-than-feared global slowdown, crediting AI investment with partially offsetting the economic drag from the Middle East conflict, while warning that global economic resilience is approaching its limits. The Bank of England's governor separately warned that rapidly advancing AI models could pose systemic risks to global financial stability. US markets face major earnings from Bank of America, Morgan Stanley, BlackRock, and ASML on Wednesday. [Source](https://www.cnbc.com/world-economy/)
+> [!note]- [[10-14-26 Wed]]
+>
+> > [!note]- AI: Anthropic issues rare investor safety warning; Mistral Large 4 preview live as frontier risks grow (TLT AI Brief)
+> > Anthropic sent an unusually stark warning to investors about the existential risks posed by advanced AI systems — one of the most direct public safety communications from a frontier lab. The warning follows OpenAI's cancellation of GPT-6.1 Astra last week over deception failures, with Mistral Large 4 simultaneously entering a guardrailed preview with weights expected by month's end. The disclosures signal a new phase of frontier-AI caution across major labs. [Source](https://www.tlt.com/insights-and-events/insight/tlts-ai-brief-october-2026)
+>
+> > [!note]- Tech: HubSpot to cut 660 employees (7%) in AI-driven restructuring; autumn tech layoff wave deepens (Yahoo Finance)
+> > HubSpot announced it will cut approximately 660 employees — about 7% of its global workforce — as the company shifts resources toward AI-assisted tools and reduces headcount in legacy roles. The move adds to the autumn 2026 restructuring wave that has already seen Netflix (~850), Monday.com (600+), and Flock Safety (270) announce cuts in October alone. The Cambridge, Massachusetts headquarters will see significant reductions, with the company framing it as an AI transformation investment. [Source](https://finance.yahoo.com/technology/ai/articles/running-list-major-tech-layoffs-012755703.html)
+>
+> > [!note]- Macro: BofA, Morgan Stanley, BlackRock, ASML earnings hit Wednesday; S&P 500 at 7,807 as hot CPI cements Fed hike odds (Schwab)
+> > Markets face a major earnings wave Wednesday — Bank of America, Morgan Stanley, BlackRock, and ASML all report — as investors digest Tuesday's hot September CPI (+0.6% MoM / 3.6% YoY), which has cemented ~78% Polymarket odds of a Fed hike at the October 27–28 FOMC. The S&P 500 sits at 7,807, chip stocks remain under pressure from Samsung and SK Hynix (down 5–6% after CXMT's DRAM announcement), and Japan's PPI is also due today. [Source](https://www.schwab.com/learn/story/stock-market-update-open)
+>
+> > [!note]- World: US-Iran nuclear talks stall as Europe loses mediator role; Qatar steps in as back-channel (Modern Diplomacy)
+> > US-Iran negotiations remain deadlocked, with Secretary of State Marco Rubio publicly accusing Tehran of passing up repeated chances for a nuclear deal. Europe has lost its traditional seat at the table — Pakistan brokered the earlier ceasefire memorandum — while Qatar is now acting as the primary intermediary relaying proposals between Washington and Tehran. Iran's core demands remain an end to the US naval blockade of the Strait of Hormuz and relief from oil export restrictions. [Source](https://moderndiplomacy.eu/2026/10/13/why-europe-lost-its-seat-at-the-iran-nuclear-table/)
+>
+> > [!note]- Malaysia: Dewan Rakyat debates RM2,000 minimum wage timeline and Myanmar refugee registration (The Star)
+> > Malaysia's Dewan Rakyat resumed with key agenda items including the June 2027 implementation of the RM2,000 minimum wage — announced in Budget 2027 — alongside the formal registration of Myanmar refugees and measures to address the Gaza humanitarian crisis. The budget's RM510B allocation continues to underpin Bursa Malaysia's elevated banking stocks, while haze-related school closures persist in southern states as Kalimantan fires continue burning. [Source](https://www.thestar.com.my/)
+>
+> > [!note]- Science: NASA's SpaceX CRS-35 launches brain organoids to ISS for zero-gravity neuroscience research (NASA Science/WRAL)
+> > NASA's SpaceX CRS-35 cargo mission delivered lab-grown brain tissue models to the International Space Station, where they will spend five weeks in orbit to study how microgravity affects the brain at the cellular level. Identical control samples remain on Earth for comparison, with the study targeting neurodegeneration, spaceflight health risks, and potential drug testing platforms. The mission also carries investigations into antibiotic-resistant bacteria, plant diseases, and advanced manufacturing. [Source](https://science.nasa.gov/missions/station/nasas-spacex-crs-35-mission-to-launch-health-research)
+>
+> > **Evening update**
+>
+> > [!breaking]- SG/MY: Haze crisis escalates — PM2.5 hits 284 in SG; Firefly cancels flights (Al Jazeera)
+> > Singapore's air quality deteriorated sharply on Wednesday with PM2.5 readings hitting the "very high" band at 284 in western Singapore, prompting the government to reinstate subsidised care for haze-related illnesses — the first time since 2015. Malaysia's Firefly airline cancelled all flights to Singapore, with affected passengers rebooked onto Malaysia Airlines. Schools remain closed in three Malaysian states as Malaysia's foreign minister pledges to push for stronger ASEAN haze mechanisms. [Source](https://www.aljazeera.com/news/2026/10/13/malaysias-firefly-cancels-flights-to-singapore-over-transboundary-haze)
+>
+> > [!note]- Malaysia: MACC joins police probe into MyEG and Zetrix AI over RM314m (Malay Mail)
+> > Malaysia's anti-corruption agency MACC has joined an existing police investigation into government e-services firm MyEG and its AI subsidiary Zetrix AI over RM314 million in allegedly unpaid collections from government contracts. The move adds regulatory pressure to one of Malaysia's prominent digital services providers. No charges have been announced as of Wednesday. [Source](https://www.malaymail.com/)
+>
+> > [!breaking]- World: Houthi missiles strike Saudi Arabia — Aramco building hit, 4 wounded (Yahoo/Press TV)
+> > Saudi authorities intercepted Houthi missiles targeting Riyadh on Wednesday, with one causing damage to an Aramco building in Dhahran and wounding four people. Iran's Revolutionary Guards Navy separately claimed that Iran effectively controls the Strait of Hormuz, escalating oil-supply fears. The strikes follow Tuesday's deadly Riyadh airport attack and come as the US deploys a third carrier strike group to the region. [Source](https://www.yahoo.com/news/world/articles/latest-news-bulletin-october-14th-050032440.html)
+>
+> > [!note]- World: 100+ foreign trekkers stranded in Nepal after floods and landslides (Yahoo/Euronews)
+> > More than 100 foreign tourists are stranded in Nepal's trekking regions after severe floods and landslides cut off mountain access routes and trails. Rescue operations are underway but conditions remain difficult, with multiple high-altitude routes impassable. Nepal's tourism sector faces growing disruption from climate-linked extreme weather events. [Source](https://www.yahoo.com/news/world/articles/latest-news-bulletin-october-14th-050032440.html)
+>
+> > [!note]- Tech: OpenAI finds spy device using own AI; Gemini 4 Argon drops (The Neuron)
+> > OpenAI discovered a sophisticated hidden recording device inside one of its offices and used its own AI models to determine what it was and trace its likely origin — an unusual case of AI-assisted counter-espionage at a frontier lab. The incident coincides with three OpenAI safety researchers being dismissed over alleged information sharing. Google separately released Gemini 4 Argon, a new frontier model, on Tuesday. [Source](https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-tuesday-october-13-2026/)
+>
+> > [!note]- Economy: IMF — AI offsets war drag; BoE warns AI threatens financial stability (CNBC)
+> > The IMF projects a milder-than-feared global slowdown, crediting AI investment with partially offsetting the economic drag from the Middle East conflict, while warning that global economic resilience is approaching its limits. The Bank of England's governor separately warned that rapidly advancing AI models could pose systemic risks to global financial stability. US markets face major earnings from Bank of America, Morgan Stanley, BlackRock, and ASML on Wednesday. [Source](https://www.cnbc.com/world-economy/)
 
 > [!note]- [[10-13-26 Tue]]
 >
