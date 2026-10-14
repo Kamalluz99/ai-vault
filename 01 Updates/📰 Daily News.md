@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-14T13:00
+updated: 2026-10-14T19:17
 topic: daily news
 frequency: daily
 ongoing: false
@@ -79,6 +79,26 @@ unread: true
 
 > [!note]- Science: NASA's SpaceX CRS-35 launches brain organoids to ISS for zero-gravity neuroscience research (NASA Science/WRAL)
 > NASA's SpaceX CRS-35 cargo mission delivered lab-grown brain tissue models to the International Space Station, where they will spend five weeks in orbit to study how microgravity affects the brain at the cellular level. Identical control samples remain on Earth for comparison, with the study targeting neurodegeneration, spaceflight health risks, and potential drug testing platforms. The mission also carries investigations into antibiotic-resistant bacteria, plant diseases, and advanced manufacturing. [Source](https://science.nasa.gov/missions/station/nasas-spacex-crs-35-mission-to-launch-health-research)
+
+> **Evening update**
+
+> [!breaking]- SG/MY: Haze crisis escalates — PM2.5 hits 284 in SG; Firefly cancels flights (Al Jazeera)
+> Singapore's air quality deteriorated sharply on Wednesday with PM2.5 readings hitting the "very high" band at 284 in western Singapore, prompting the government to reinstate subsidised care for haze-related illnesses — the first time since 2015. Malaysia's Firefly airline cancelled all flights to Singapore, with affected passengers rebooked onto Malaysia Airlines. Schools remain closed in three Malaysian states as Malaysia's foreign minister pledges to push for stronger ASEAN haze mechanisms. [Source](https://www.aljazeera.com/news/2026/10/13/malaysias-firefly-cancels-flights-to-singapore-over-transboundary-haze)
+
+> [!note]- Malaysia: MACC joins police probe into MyEG and Zetrix AI over RM314m (Malay Mail)
+> Malaysia's anti-corruption agency MACC has joined an existing police investigation into government e-services firm MyEG and its AI subsidiary Zetrix AI over RM314 million in allegedly unpaid collections from government contracts. The move adds regulatory pressure to one of Malaysia's prominent digital services providers. No charges have been announced as of Wednesday. [Source](https://www.malaymail.com/)
+
+> [!breaking]- World: Houthi missiles strike Saudi Arabia — Aramco building hit, 4 wounded (Yahoo/Press TV)
+> Saudi authorities intercepted Houthi missiles targeting Riyadh on Wednesday, with one causing damage to an Aramco building in Dhahran and wounding four people. Iran's Revolutionary Guards Navy separately claimed that Iran effectively controls the Strait of Hormuz, escalating oil-supply fears. The strikes follow Tuesday's deadly Riyadh airport attack and come as the US deploys a third carrier strike group to the region. [Source](https://www.yahoo.com/news/world/articles/latest-news-bulletin-october-14th-050032440.html)
+
+> [!note]- World: 100+ foreign trekkers stranded in Nepal after floods and landslides (Yahoo/Euronews)
+> More than 100 foreign tourists are stranded in Nepal's trekking regions after severe floods and landslides cut off mountain access routes and trails. Rescue operations are underway but conditions remain difficult, with multiple high-altitude routes impassable. Nepal's tourism sector faces growing disruption from climate-linked extreme weather events. [Source](https://www.yahoo.com/news/world/articles/latest-news-bulletin-october-14th-050032440.html)
+
+> [!note]- Tech: OpenAI finds spy device using own AI; Gemini 4 Argon drops (The Neuron)
+> OpenAI discovered a sophisticated hidden recording device inside one of its offices and used its own AI models to determine what it was and trace its likely origin — an unusual case of AI-assisted counter-espionage at a frontier lab. The incident coincides with three OpenAI safety researchers being dismissed over alleged information sharing. Google separately released Gemini 4 Argon, a new frontier model, on Tuesday. [Source](https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-tuesday-october-13-2026/)
+
+> [!note]- Economy: IMF — AI offsets war drag; BoE warns AI threatens financial stability (CNBC)
+> The IMF projects a milder-than-feared global slowdown, crediting AI investment with partially offsetting the economic drag from the Middle East conflict, while warning that global economic resilience is approaching its limits. The Bank of England's governor separately warned that rapidly advancing AI models could pose systemic risks to global financial stability. US markets face major earnings from Bank of America, Morgan Stanley, BlackRock, and ASML on Wednesday. [Source](https://www.cnbc.com/world-economy/)
 
 > [!note]- [[10-13-26 Tue]]
 >
