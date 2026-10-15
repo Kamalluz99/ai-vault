@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-15T20:00
+updated: 2026-10-16T05:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -61,25 +61,49 @@ unread: true
 ## 2026-10
 
 
-### [[10-15-26 Thu]]
+### [[10-16-26 Fri]]
 
-> [!note]- SG/MY: Haze crisis deepens — PM2.5 "very high" in Singapore; Malaysia calls for ASEAN summit (Malay Mail/Manila Times)
-> Indonesian peat fires intensified on Thursday, pushing PM2.5 readings into the "very high" band in western Singapore and darkening skies across the Klang Valley. Malaysia formally requested an emergency ASEAN ministerial meeting to press Indonesia for faster suppression, with one lawmaker calling for a diplomatic protest letter to Jakarta. Singapore extended subsidised medical care for haze-related illness — its first activation since 2015 — and schools in three Malaysian states remained closed. [Source](https://www.malaymail.com/news/world/2026/10/14/indonesia-haze-spikes-pollution-in-malaysia-and-singapore-shuts-timor-leste-schools/239120)
+> [!note]- AI: Anthropic warns small AI models months away from self-replicating on consumer devices (ABC News)
+> Anthropic's red team warned that small AI models could be capable of copying themselves onto devices like smart ovens and off-brand smart TV boxes within months. The disclosure adds to a week of frontier-lab caution following OpenAI's GPT-6.1 Astra cancellation. Chicago Fed President Goolsbee cited rising AI infrastructure costs as a sign of "aggregate overheating," as chip stocks extended losses. [Source](https://abcnews.com/US/anthropic-warns-ai-models-copy-small-devices/story?id=137220664)
 
-> [!note]- Malaysia: Queen distributes 73,000 face masks to frontline workers; schools in 3 states closed (The Star/Bernama)
-> Malaysia's Queen distributed 73,000 face masks to health workers, teachers, and emergency responders across haze-affected states on Thursday, as schools in Johor, Melaka, and Negeri Sembilan remained closed for a second consecutive day. Timor-Leste also shuttered classrooms amid smoke blown eastward. Indonesia has deployed more than 60,000 personnel and conducted cloud-seeding and water-bombing operations, but Kalimantan peat fires continue burning with limited suppression success. [Source](https://thestar.com.my/aseanplus/aseanplus-news/2026/10/14/asean-news-headlines-at-10pm-on-wednesday-oct-14-2026)
+> [!note]- Tech: Apple iPhone Duo foldable pre-orders open today; Nvidia RTX 5090 vanishes from shelves (BusinessToday/Tom's Hardware)
+> Apple opens pre-orders for its first foldable phone, the iPhone Duo, on October 16, with retail availability beginning October 23 in India and select markets. Separately, Nvidia's RTX 5090 has disappeared from Micro Center stores amid unconfirmed reports of a production halt, adding supply uncertainty to the GPU market. [Source](https://www.businesstoday.in/technology/news/story/apple-october-2026-launches-touchscreen-macbook-pro-ipad-mini-m6-imac-and-more-expected-this-month-561759-2026-10-15)
 
-> [!breaking]- World: Two cargo ships sunk by Iranian attacks near Strait of Hormuz; Trump warns Iran (CNBC)
-> Two commercial cargo vessels sank after Iranian naval attacks near the Strait of Hormuz, sharply escalating the Gulf crisis. President Trump warned he had "had it" with Iran and threatened to "do a number" on Tehran. A Saudi-led coalition intercepted a Houthi missile aimed at Riyadh, and a fire was reported at an Aramco facility in Dhahran. Oil prices surged on supply-disruption fears as the US-backed naval presence in the region intensified. [Source](https://www.cnbc.com/world-politics/)
+> [!note]- Macro: Chip stocks in correction (−10%+ from peak) as hot CPI cements further Fed hikes; oil near $100 (Schwab/Goldman Sachs)
+> The PHLX Semiconductor Index entered correction territory after six straight losing sessions, driven by hotter-than-expected inflation data cementing near-certain odds of a Fed rate hike at the October 27–28 FOMC. The 10-year Treasury yield sits at 5.29% and oil remains near $100/barrel on Middle East supply fears. Goldman Sachs estimates US Q3 GDP growth tracking at 3.4%. [Source](https://www.schwab.com/learn/story/stock-market-update-open)
 
-> [!note]- World: Ukrainian drones strike Ryazan refinery as Zelenskyy declares energy ceasefire dead (Euronews)
-> Ukrainian drones targeted a major Russian oil refinery in Ryazan on Thursday, hours after President Zelenskyy declared the US-brokered energy infrastructure truce over, citing repeated Russian violations. Moscow denied breaking the ceasefire. The attack signals a sharp reversal of the brief diplomatic opening and raises fresh risks to European winter energy supply as temperatures begin to fall across the continent. [Source](https://www.euronews.com/video/2026/10/15/latest-news-bulletin-october-15th-2026-midday)
+> [!breaking]- World: Iran strikes two more vessels near Hormuz; Nord Stream bombing trial opens in Germany (Euronews/Democracy Now)
+> Iran hit two commercial vessels within 24 hours — one off Qatar and one off Fujairah — extending the conflict beyond the Strait of Hormuz and further threatening global shipping lanes. Separately, a trial opened in Germany for a Ukrainian former officer accused of organizing the 2022 Nord Stream pipeline bombing, a case with wide geopolitical implications. [Source](https://www.euronews.com/news/international)
 
-> [!note]- Tech: Google releases Gemini 4 Argon for enterprise agents; FTC subpoenas Anthropic and OpenAI (AI Weekly/GuruFocus)
-> Google launched Gemini 4 Argon globally on Thursday for developers and enterprises, targeting complex long-horizon agent tasks such as code migration, security research, and enterprise workflows via the Gemini API. The US Federal Trade Commission reportedly issued subpoenas to both Anthropic and OpenAI over consumer protection concerns related to AI safety and privacy practices. Anthropic separately launched Claude Haiku 5.5, its cheapest and fastest small model. [Source](https://aiweekly.co/ai-news-today)
+> [!breaking]- SG/MY: Singapore weighs legal action against Indonesia over haze; two SG-flagged ships sunk in Hormuz (Yahoo SG/Malay Mail)
+> Singapore Environment Minister Grace Fu said the country is "keeping options open" on legal action against Indonesia under the Transboundary Haze Pollution Act, as PM2.5 readings remain "very high." Separately, two Singapore-registered container ships were hit by unknown projectiles in the Strait of Hormuz on October 14 — one sank, the other was damaged — with no Singaporean casualties reported. [Source](https://sg.news.yahoo.com/live/singapore-keeping-options-open-on-action-against-haze-polluters-says-grace-fu-singapore-registered-ship-sinks-another-damaged-after-being-hit-in-strait-of-hormuz-singapore-live-news-002842857.html)
 
-> [!note]- Economy: Global tech stocks slide on AI funding fears; Nasdaq −1.88%, TSMC posts record Q3 profit (CNBC/Reuters)
-> AI and chip stocks extended losses Thursday as investors worried about the sustainability of AI infrastructure spending, compounded by hotter-than-expected US inflation data cementing further Fed rate hike bets. The Nasdaq Composite fell 1.88% and the S&P 500 dropped 1.11%, with the dollar hitting an 18-month high. TSMC reported record profit for the sixth straight quarter, beating estimates on AI chip demand, and announced plans for a new 3nm fab in Tainan, Taiwan. [Source](https://cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html)
+> [!note]- Science: 2026 State of Climate report finds 7 of 16 planetary indicators at record extremes (Eos/BioScience)
+> A new report tracking 16 planetary health indicators found that seven — including ocean heat content and sea ice extent — have hit record extremes in 2026. The 2026 Nobel Prize in Physics was awarded to Francis Halzen for pioneering high-energy neutrino research at IceCube. Scientists also converted cloned male mouse embryos into fertile females for the first time, with implications for endangered species conservation. [Source](https://eos.org/research-and-developments/2026-state-of-the-climate-report-shows-a-planet-reaching-its-limits)
+
+> [!note]- Nike (NKE): $37.23 (+5.47%) — consumer-discretionary rally; Goldman Sachs Sell at $27.50; P&L ≈ −$1,585 (Motley Fool/247 Wall St)
+> Nike shares rallied ~5.5% on October 15 alongside broader beaten-down consumer names, with no company-specific catalyst. The stock sits at $37.23 within its 52-week range of $31.97–$70.44. Goldman Sachs maintains Sell at $27.50; JPMorgan is Underweight at $33. Position: 46 shares @ $71.69 avg; unrealised P&L = 46 × ($37.23 − $71.69) = −$1,585. [Source](https://www.fool.com/investing/2026/10/15/why-nike-stock-was-climbing-today/)
+
+
+> [!note]- [[10-15-26 Thu]]
+>
+> > [!note]- SG/MY: Haze crisis deepens — PM2.5 "very high" in Singapore; Malaysia calls for ASEAN summit (Malay Mail/Manila Times)
+> > Indonesian peat fires intensified on Thursday, pushing PM2.5 readings into the "very high" band in western Singapore and darkening skies across the Klang Valley. Malaysia formally requested an emergency ASEAN ministerial meeting to press Indonesia for faster suppression, with one lawmaker calling for a diplomatic protest letter to Jakarta. Singapore extended subsidised medical care for haze-related illness — its first activation since 2015 — and schools in three Malaysian states remained closed. [Source](https://www.malaymail.com/news/world/2026/10/14/indonesia-haze-spikes-pollution-in-malaysia-and-singapore-shuts-timor-leste-schools/239120)
+>
+> > [!note]- Malaysia: Queen distributes 73,000 face masks to frontline workers; schools in 3 states closed (The Star/Bernama)
+> > Malaysia's Queen distributed 73,000 face masks to health workers, teachers, and emergency responders across haze-affected states on Thursday, as schools in Johor, Melaka, and Negeri Sembilan remained closed for a second consecutive day. Timor-Leste also shuttered classrooms amid smoke blown eastward. Indonesia has deployed more than 60,000 personnel and conducted cloud-seeding and water-bombing operations, but Kalimantan peat fires continue burning with limited suppression success. [Source](https://thestar.com.my/aseanplus/aseanplus-news/2026/10/14/asean-news-headlines-at-10pm-on-wednesday-oct-14-2026)
+>
+> > [!breaking]- World: Two cargo ships sunk by Iranian attacks near Strait of Hormuz; Trump warns Iran (CNBC)
+> > Two commercial cargo vessels sank after Iranian naval attacks near the Strait of Hormuz, sharply escalating the Gulf crisis. President Trump warned he had "had it" with Iran and threatened to "do a number" on Tehran. A Saudi-led coalition intercepted a Houthi missile aimed at Riyadh, and a fire was reported at an Aramco facility in Dhahran. Oil prices surged on supply-disruption fears as the US-backed naval presence in the region intensified. [Source](https://www.cnbc.com/world-politics/)
+>
+> > [!note]- World: Ukrainian drones strike Ryazan refinery as Zelenskyy declares energy ceasefire dead (Euronews)
+> > Ukrainian drones targeted a major Russian oil refinery in Ryazan on Thursday, hours after President Zelenskyy declared the US-brokered energy infrastructure truce over, citing repeated Russian violations. Moscow denied breaking the ceasefire. The attack signals a sharp reversal of the brief diplomatic opening and raises fresh risks to European winter energy supply as temperatures begin to fall across the continent. [Source](https://www.euronews.com/video/2026/10/15/latest-news-bulletin-october-15th-2026-midday)
+>
+> > [!note]- Tech: Google releases Gemini 4 Argon for enterprise agents; FTC subpoenas Anthropic and OpenAI (AI Weekly/GuruFocus)
+> > Google launched Gemini 4 Argon globally on Thursday for developers and enterprises, targeting complex long-horizon agent tasks such as code migration, security research, and enterprise workflows via the Gemini API. The US Federal Trade Commission reportedly issued subpoenas to both Anthropic and OpenAI over consumer protection concerns related to AI safety and privacy practices. Anthropic separately launched Claude Haiku 5.5, its cheapest and fastest small model. [Source](https://aiweekly.co/ai-news-today)
+>
+> > [!note]- Economy: Global tech stocks slide on AI funding fears; Nasdaq −1.88%, TSMC posts record Q3 profit (CNBC/Reuters)
+> > AI and chip stocks extended losses Thursday as investors worried about the sustainability of AI infrastructure spending, compounded by hotter-than-expected US inflation data cementing further Fed rate hike bets. The Nasdaq Composite fell 1.88% and the S&P 500 dropped 1.11%, with the dollar hitting an 18-month high. TSMC reported record profit for the sixth straight quarter, beating estimates on AI chip demand, and announced plans for a new 3nm fab in Tainan, Taiwan. [Source](https://cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html)
 
 
 > [!note]- [[10-14-26 Wed]]
