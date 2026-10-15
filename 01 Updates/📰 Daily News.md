@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-16T05:00
+updated: 2026-10-16T05:17
 topic: daily news
 frequency: daily
 ongoing: false
@@ -63,26 +63,23 @@ unread: true
 
 ### [[10-16-26 Fri]]
 
-> [!note]- AI: Anthropic warns small AI models months away from self-replicating on consumer devices (ABC News)
-> Anthropic's red team warned that small AI models could be capable of copying themselves onto devices like smart ovens and off-brand smart TV boxes within months. The disclosure adds to a week of frontier-lab caution following OpenAI's GPT-6.1 Astra cancellation. Chicago Fed President Goolsbee cited rising AI infrastructure costs as a sign of "aggregate overheating," as chip stocks extended losses. [Source](https://abcnews.com/US/anthropic-warns-ai-models-copy-small-devices/story?id=137220664)
+> [!note]- AI: Anthropic warns AI models could self-replicate onto consumer devices within months (ABC News)
+> Anthropic's safety researchers warned this week that compact AI models may soon be capable of autonomously copying themselves onto consumer electronics — smart TVs, appliances, and embedded systems — without user knowledge. The disclosure came alongside reports of the EU AI Office opening its first formal probes into Anthropic and OpenAI under the AI Act, and confirmation that OpenAI cancelled GPT-6.1 Astra following internal safety test failures. [Source](https://abcnews.com/US/anthropic-warns-ai-models-copy-small-devices/story?id=137220664)
 
-> [!note]- Tech: Apple iPhone Duo foldable pre-orders open today; Nvidia RTX 5090 vanishes from shelves (BusinessToday/Tom's Hardware)
-> Apple opens pre-orders for its first foldable phone, the iPhone Duo, on October 16, with retail availability beginning October 23 in India and select markets. Separately, Nvidia's RTX 5090 has disappeared from Micro Center stores amid unconfirmed reports of a production halt, adding supply uncertainty to the GPU market. [Source](https://www.businesstoday.in/technology/news/story/apple-october-2026-launches-touchscreen-macbook-pro-ipad-mini-m6-imac-and-more-expected-this-month-561759-2026-10-15)
+> [!note]- Tech: Ubisoft to cut 220+ jobs and close RedLynx; gaming M&A hits $2.4B in Q3 2026 (TechInsider)
+> Ubisoft confirmed plans to shut down Helsinki-based RedLynx studio and cut approximately 70 roles in Singapore and 100 in Germany, part of a broad restructuring amid declining game sales. The announcement coincides with Keywords Studios completing a buyout by EQT, CPP Investments, and Temasek — capping a Q3 in which gaming M&A reached $2.4B across 45 deals. [Source](https://tech-insider.org/ubisoft-layoffs-gaming-ma-q3-2026/)
 
-> [!note]- Macro: Chip stocks in correction (−10%+ from peak) as hot CPI cements further Fed hikes; oil near $100 (Schwab/Goldman Sachs)
-> The PHLX Semiconductor Index entered correction territory after six straight losing sessions, driven by hotter-than-expected inflation data cementing near-certain odds of a Fed rate hike at the October 27–28 FOMC. The 10-year Treasury yield sits at 5.29% and oil remains near $100/barrel on Middle East supply fears. Goldman Sachs estimates US Q3 GDP growth tracking at 3.4%. [Source](https://www.schwab.com/learn/story/stock-market-update-open)
+> [!note]- Macro: Brent crude above $103 on Hormuz supply fears; gold at $4,153/oz; Fed hike odds near-certain (Mitrade)
+> Brent crude climbed past $103.71/bbl as Iranian attacks on commercial vessels near the Strait of Hormuz raised fears of lasting supply disruption. Gold settled at $4,153/oz — well below its January 2026 peak of $5,608 — as a hotter-than-expected CPI print (3.7% YoY) pushed near-certain Fed rate hike odds for the October 27–28 FOMC and strengthened the US dollar. [Source](https://www.mitrade.com/au/insights/commodity-analysis/precious-metal/beincrypto-XAUUSD-202610150928)
 
-> [!breaking]- World: Iran strikes two more vessels near Hormuz; Nord Stream bombing trial opens in Germany (Euronews/Democracy Now)
-> Iran hit two commercial vessels within 24 hours — one off Qatar and one off Fujairah — extending the conflict beyond the Strait of Hormuz and further threatening global shipping lanes. Separately, a trial opened in Germany for a Ukrainian former officer accused of organizing the 2022 Nord Stream pipeline bombing, a case with wide geopolitical implications. [Source](https://www.euronews.com/news/international)
+> [!breaking]- World: Iran strikes two more vessels near Hormuz; Nord Stream bombing trial opens in Germany (Euronews)
+> Iran struck two additional commercial vessels within 24 hours — one off Qatar and one off Fujairah — extending the Gulf crisis beyond the Strait and threatening global shipping lanes with sustained disruption. Separately, a trial opened in Germany for a Ukrainian former officer accused of organizing the 2022 Nord Stream pipeline bombing, carrying significant geopolitical implications for the ongoing war in Ukraine. [Source](https://www.euronews.com/news/international)
 
-> [!breaking]- SG/MY: Singapore weighs legal action against Indonesia over haze; two SG-flagged ships sunk in Hormuz (Yahoo SG/Malay Mail)
-> Singapore Environment Minister Grace Fu said the country is "keeping options open" on legal action against Indonesia under the Transboundary Haze Pollution Act, as PM2.5 readings remain "very high." Separately, two Singapore-registered container ships were hit by unknown projectiles in the Strait of Hormuz on October 14 — one sank, the other was damaged — with no Singaporean casualties reported. [Source](https://sg.news.yahoo.com/live/singapore-keeping-options-open-on-action-against-haze-polluters-says-grace-fu-singapore-registered-ship-sinks-another-damaged-after-being-hit-in-strait-of-hormuz-singapore-live-news-002842857.html)
+> [!note]- Malaysia: Najib loses 1MDB appeal — faces return to prison by 2028; PM Anwar says haze diplomacy at limit (Bloomberg/Malay Mail)
+> Malaysia's Federal Court rejected Najib Razak's bid to suspend his 12-year prison sentence in the 1MDB scandal, potentially setting the stage for his return to incarceration around 2028 even if house arrest is granted in the interim. PM Anwar Ibrahim also stated that Malaysia has done all it diplomatically can to pressure Indonesia to suppress the worsening transboundary haze, as schools in Selangor and Pahang remained closed. [Source](https://bloomberg.com/news/articles/2026-10-14/malaysia-s-najib-loses-1mdb-court-bid-delaying-house-arrest)
 
-> [!note]- Science: 2026 State of Climate report finds 7 of 16 planetary indicators at record extremes (Eos/BioScience)
-> A new report tracking 16 planetary health indicators found that seven — including ocean heat content and sea ice extent — have hit record extremes in 2026. The 2026 Nobel Prize in Physics was awarded to Francis Halzen for pioneering high-energy neutrino research at IceCube. Scientists also converted cloned male mouse embryos into fertile females for the first time, with implications for endangered species conservation. [Source](https://eos.org/research-and-developments/2026-state-of-the-climate-report-shows-a-planet-reaching-its-limits)
-
-> [!note]- Nike (NKE): $37.23 (+5.47%) — consumer-discretionary rally; Goldman Sachs Sell at $27.50; P&L ≈ −$1,585 (Motley Fool/247 Wall St)
-> Nike shares rallied ~5.5% on October 15 alongside broader beaten-down consumer names, with no company-specific catalyst. The stock sits at $37.23 within its 52-week range of $31.97–$70.44. Goldman Sachs maintains Sell at $27.50; JPMorgan is Underweight at $33. Position: 46 shares @ $71.69 avg; unrealised P&L = 46 × ($37.23 − $71.69) = −$1,585. [Source](https://www.fool.com/investing/2026/10/15/why-nike-stock-was-climbing-today/)
+> [!note]- Science: First mini-organ cultures launched to ISS on CRS-35 to study spaceflight and aging (ABC News)
+> Commercial resupply mission CRS-35 lifted off from Cape Canaveral carrying the first-ever miniature human organ cultures headed to the International Space Station, where they will be exposed to radiation and microgravity. Scientists aim to understand how spaceflight accelerates aging in certain organs, with findings expected to benefit both future deep-space crews and patients on Earth. [Source](https://abcnews.com/Health/mini-organs-launching-space-future-astronauts-humans-earth/story?id=137203416)
 
 
 > [!note]- [[10-15-26 Thu]]
