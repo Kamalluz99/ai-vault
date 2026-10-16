@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-15T05:30
+updated: 2026-10-16T19:15
 topic: daily news
 frequency: daily
 ongoing: false
@@ -107,6 +107,26 @@ unread: true
 >
 > > [!note]- Nike (NKE): $37.23 (+5.47%) — consumer-discretionary rally; Goldman Sachs Sell at $27.50; P&L ≈ −$1,585 (Motley Fool/247 Wall St)
 > > Nike shares rallied ~5.5% on October 15 alongside broader beaten-down consumer names, with no company-specific catalyst. The stock sits at $37.23 within its 52-week range of $31.97–$70.44. Goldman Sachs maintains Sell at $27.50; JPMorgan is Underweight at $33. Position: 46 shares @ $71.69 avg; unrealised P&L = 46 × ($37.23 − $71.69) = −$1,585. [Source](https://www.fool.com/investing/2026/10/15/why-nike-stock-was-climbing-today/)
+>
+> > **Evening update**
+>
+> > [!note]- Singapore & Malaysia: ASEAN haze emergency meeting secured; Singapore economic losses mount (Malay Mail)
+> > Singapore and Malaysia secured agreement on Friday for an emergency ASEAN environment ministers' meeting on the transboundary haze, as PM2.5 levels remained in the "very high" band for a fourth consecutive day. Environment Minister Grace Fu reiterated that legal action against Indonesia under the Transboundary Haze Pollution Act "remains an option" as Jakarta deployed additional water-bombing aircraft with limited effect. Singapore's tourism sector flagged mounting visitor cancellations, with hospitality operators across the city-state reporting occupancy drops from the persistent smoke. [Malay Mail](https://www.malaymail.com/news/world/2026/10/14/indonesia-haze-spikes-pollution-in-malaysia-and-singapore-shuts-timor-leste-schools/239120)
+>
+> > [!note]- Malaysia: Schools closed 4th day in Johor and KL; economic toll estimated at RM300M daily (Inquirer)
+> > School closures extended into a fourth consecutive day in Johor, southern Kuala Lumpur, and Selangor as Malaysia's air quality index remained in the hazardous range, affecting an estimated 2 million students. Employers in haze-hit zones reported sharply reduced productivity as outdoor and construction work halted; economists estimated daily economic losses exceeding RM300 million if conditions persist. Indonesia has deployed additional firefighting aircraft over Kalimantan, but experts say suppression efforts remain insufficient against the scale of the peat burns. [Inquirer](https://globalnation.inquirer.net/341672/singapore-rolls-out-haze-subsidies-as-malaysia-extends-school-closures)
+>
+> > [!breaking]- World: Houthis strike Saudi Aramco HQ in Dhahran; Riyadh airport attack kills 12 (Global News)
+> > Houthi forces struck the Dhahran headquarters of Saudi Aramco, damaging the top floors of a building used by senior executives, in one of the most direct attacks on Saudi energy infrastructure since the Gulf conflict began. A separate strike killed at least 12 people at Riyadh's King Khalid International Airport, stranding inbound passengers and prompting a temporary ground stop. The twin attacks drove Brent crude above $98/barrel in overnight trading and intensified pressure on the US-led coalition to expand its response. [Global News](https://globalnews.ca/world/)
+>
+> > [!note]- World: Russia strikes Ukraine energy grid as Trump ceasefire fails; US Starlink access briefly cut (US News)
+> > Russian forces struck multiple Ukrainian energy facilities during an overnight missile barrage — a violation of the Trump-brokered energy infrastructure truce that Kyiv declared dead. US authorities confirmed military access to Starlink satellite communications was briefly suspended during the barrage, hampering battlefield coordination; Ukraine requested emergency restoration. Romania also resumed its search for seven sailors missing from a drone-hit Black Sea vessel as the conflict's geographic reach continued to widen. [US News](https://www.usnews.com/news/world)
+>
+> > [!note]- Tech: OpenAI cancels GPT-6.1 Astra after safety tests; Meta launches Muse Wonder model (WSJ/Hello Growth)
+> > OpenAI cancelled the planned release of GPT-6.1 Astra after internal safety evaluations revealed unacceptable risk profiles, according to the Wall Street Journal — a rare post-development model withdrawal for the company. Meta separately launched Muse Wonder on October 12, a multimodal creative model targeting artists and content creators. The cautious week follows Anthropic's small-model self-replication warning, EU AI Act enforcement actions, and FTC consumer protection subpoenas issued to both labs. [Hello Growth](https://hellogrowth.ai/en/blog/ai-news-october-2026)
+>
+> > [!note]- Science/Economy: Scientists unveil nuclear clock to rival atomic precision; EU targets Chinese imports (ScienceDaily/Bloomberg)
+> > Physicists announced a nuclear clock design using thorium-229 nuclear transitions — far more stable than electron-based atomic clocks — potentially achieving timekeeping accurate to within one second over 300 billion years, with implications for GPS, financial markets, and fundamental physics. The EU moved to strengthen powers to block Chinese imports amid an escalating trade dispute, while Australia's rate-hike odds eased as unemployment rose, reflecting diverging central bank paths as oil-driven inflation reshapes global monetary policy. [ScienceDaily](https://www.sciencedaily.com/)
 
 
 > [!note]- [[10-15-26 Thu]]
