@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-16T07:00
+updated: 2026-10-17T05:17
 topic: daily news
 frequency: daily
 ongoing: false
@@ -85,23 +85,23 @@ unread: true
 
 > [!note]- [[10-17-26 Sat]]
 >
-> > [!note]- AI: Reflection AI drops Beam (501B MoE); Character.AI files for bankruptcy (AI Weekly)
-> > Reflection AI released Beam, a 501-billion-parameter mixture-of-experts model on October 16. Character.AI filed for bankruptcy, capping a difficult stretch for consumer AI chatbot startups. Microsoft disclosed MAI-Base-2, a 2.8-trillion-parameter model; the FTC sent 50-page information demands to both OpenAI and Anthropic over security incidents and privacy. [Source](https://aiweekly.co/ai-news-today)
+> > [!note]- AI: Meta releases Muse Spark Open 816B MoE — 1M context, optimised for paired Mac Studios (AI Weekly)
+> > Meta released Muse Spark Open, an 816-billion-parameter mixture-of-experts model with 42B active parameters and a 1-million-token context window, under the Muse Model License. It is designed to run on two to four paired M5 Ultra Mac Studios via MLX, deepening Meta's Apple hardware partnership. Nvidia also shipped Nemotron 3.5 Super VL (120B MoE, 12B active), and Reflection AI's Beam (501B) began reaching Microsoft Foundry trusted partners. [Source](https://aiweekly.co/ai-news-today)
 >
-> > [!note]- Tech: Tesla unveils long-delayed Roadster at Waco launch; Apple-Meta Muse AI deal for Mac (CNBC)
-> > Tesla held a Roadster launch event in Waco, Texas, finally revealing the revived electric sports car years after it was first promised. Apple and Meta announced a partnership to run the Muse AI model natively on Mac computers. Taiwan moved to make AI-chip smuggling to China a criminal offense amid tightening export controls. [Source](https://www.cnbc.com/technology/)
+> > [!note]- Tech: OpenAI acquires Pathway for ~$400M in shares; Foxconn buys 50% of Mitsubishi Electric Mobility (Dealroom)
+> > OpenAI acquired Pathway, an AI data-pipeline and infrastructure startup, in a deal reportedly worth close to $400 million paid in OpenAI shares — a sign of the lab's push to control enterprise data infrastructure. Separately, Foxconn agreed to buy a 50% stake in Mitsubishi Electric Mobility, accelerating its pivot into EV software and systems, with the deal announced October 16. [Source](https://dealroom.co/news)
 >
-> > [!note]- Macro: Nasdaq 100 −2.5% Friday; S&P 500 at 7,659 (−1.09%); 10-yr yield 5.09% — AI rout deepens (Bloomberg/TheStreet)
-> > The Nasdaq 100 dropped 2.5% Friday, capping its worst week since April 2025 on AI funding concerns and US 10-year Treasury yields near 5.09%. The S&P 500 closed at 7,659.44 (−1.09%); CoreWeave bonds fell to distress levels. Consumer names including Nike and Walmart rose as investors rotated out of tech. [Source](https://bloomberg.com/news/articles/2026-10-15/stock-market-today-dow-s-p-live-updates)
+> > [!note]- Macro: Oil near $97 on Hormuz fears; gold $4,170; BTC $82,400; S&P 500 posts worst AI week since April 2025 (Mitrade/Bloomberg)
+> > WTI crude holds near $97/barrel on continued Hormuz supply risk, while gold recovered to ~$4,170/oz after an inflation-driven dip earlier in the week. Bitcoin sits at approximately $82,400. US equities closed the week sharply lower — S&P 500 fell 1.09% to 7,659 on Friday and the Nasdaq 100 lost 2.5%, capping its worst week since April 2025 as AI funding concerns and 10-year Treasury yields near 5.09% rattled risk assets. [Source](https://www.mitrade.com/au/insights/daily-market-outlook/news-today/market-news-today-australia-261016)
 >
-> > [!note]- World: Russian drone strikes cargo ship near Romania; Pakistan school collapse kills 33 (Global News/NPR)
-> > Russia struck a cargo ship near NATO-member Romania's coast, leaving seven sailors missing in the Black Sea. In Pakistan, a school roof collapsed killing 33. Istanbul suffered its worst flooding in 80+ years with four dead. Israeli settlers attacked Palestinians across the West Bank during the olive harvest. [Source](https://globalnews.ca/world/)
+> > [!breaking]- World: Iran threatens US warships; Trump rules out nukes and ground troops; IMF calls Hormuz blockade worst oil shock since 1970s (CNBC/Modern Diplomacy)
+> > Iran said it is "counting the moments" until it can strike US warships in the Gulf, while President Trump ruled out using nuclear weapons or deploying ground troops to Iran — narrowing perceived escalation paths as the conflict enters a stalemate. The IMF warned at its Bangkok annual meetings that the Hormuz blockade is the largest global oil supply disruption since the 1970s, projecting a 1.3% regional GDP contraction for 2026 and warning that fiscal buffers are "running out." [Source](https://www.cnbc.com/world-politics/)
 >
-> > [!breaking]- SG/MY: ASEAN haze emergency meeting secured; Singapore mulls legal action vs. Indonesia (Malay Mail/Al Jazeera)
-> > Singapore and Malaysia secured an emergency ASEAN environment ministers' meeting on transboundary haze as Indonesia's fire season drives hazardous PM2.5. Singapore Environment Minister Grace Fu said legal action under the Transboundary Haze Pollution Act remains an option. Schools in eight Selangor districts closed Friday; Firefly Subang–Seletar flights remain suspended. [Source](https://www.malaymail.com/news/world/2026/10/14/indonesia-haze-spikes-pollution-in-malaysia-and-singapore-shuts-timor-leste-schools/239120)
+> > [!note]- Malaysia: MOH urges N95 masks nationwide; Malaysia-Indonesia formal fire talks begin as haze enters week 3 (Malay Mail/Google News)
+> > Malaysia's Ministry of Health issued a nationwide advisory urging residents to wear N95 masks outdoors as Indonesia's fires continue to push air quality into unhealthy ranges. Malaysia and Indonesia have begun formal talks on the Sumatra and Kalimantan fires, and the government raised the threshold for haze-related school closures; Negeri Sembilan and Melaka schools have since reopened. Pakatan Harapan will announce its Melaka state-election candidate list on October 18. [Source](https://www.malaymail.com/)
 >
-> > [!note]- Science: Arctic sea ice shrinking in both winter and summer — satellite records confirm (ScienceDaily)
-> > New satellite analysis confirms Arctic sea ice is declining in both winter extent and summer minimum, accelerating warming feedback loops. UK scientists identified a T. rex cousin from a fossil sitting unrecognised at London's Natural History Museum for nearly a century. Researchers also engineered a plant immune receptor to help protect rice, wheat, and barley from devastating fungal disease. [Source](https://www.sciencedaily.com/)
+> > [!note]- Science: Webb reveals ancient galaxy cluster with unexpectedly dense dark matter — challenges models (ScienceDaily)
+> > The James Webb Space Telescope found an ancient galaxy cluster with a dark matter concentration significantly higher than standard cosmological models predict, raising questions about large-scale structure formation in the early universe. Also this week: a "Pac-Man enzyme" in bacteria can break down certain plastics; researchers found a way to reprogram a cancer-fueling protein to fight tumours; and scientists discovered that cellular autophagy behaves differently during aging than previously believed. [Source](https://www.sciencedaily.com/news/top/)
 >
 > > [!note]- Nike (NKE): ~$37.67 (est. +1.4% Fri) — lifted as traders flee AI stocks; Goldman Sell $27.50; P&L ≈ −$1,565 (Benzinga/FX Leaders)
 > > Nike shares gained Friday as investors rotated out of AI and chip stocks into beaten-down consumer names; Benzinga cited NKE among stocks that "got a lift as traders fled AI stocks." Goldman Sachs maintains Sell at $27.50; Moody's cut its outlook to Negative. Position: 46 shares @ $71.69 avg; est. unrealised P&L = 46 × ($37.67 − $71.69) = −$1,565. [Source](https://www.benzinga.com/trading-ideas/movers/26/10/62395717/nike-moderna-walmart-get-a-lift-as-traders-flee-ai-stocks)
