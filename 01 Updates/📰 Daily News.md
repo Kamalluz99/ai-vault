@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-16T19:15
+updated: 2026-10-17T05:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -59,6 +59,29 @@ unread: true
 > ```
 
 ## 2026-10
+
+### [[10-17-26 Sat]]
+
+> [!note]- AI: Reflection AI drops Beam (501B MoE); Character.AI files for bankruptcy (AI Weekly)
+> Reflection AI released Beam, a 501-billion-parameter mixture-of-experts model on October 16. Character.AI filed for bankruptcy, capping a difficult stretch for consumer AI chatbot startups. Microsoft disclosed MAI-Base-2, a 2.8-trillion-parameter model; the FTC sent 50-page information demands to both OpenAI and Anthropic over security incidents and privacy. [Source](https://aiweekly.co/ai-news-today)
+
+> [!note]- Tech: Tesla unveils long-delayed Roadster at Waco launch; Apple-Meta Muse AI deal for Mac (CNBC)
+> Tesla held a Roadster launch event in Waco, Texas, finally revealing the revived electric sports car years after it was first promised. Apple and Meta announced a partnership to run the Muse AI model natively on Mac computers. Taiwan moved to make AI-chip smuggling to China a criminal offense amid tightening export controls. [Source](https://www.cnbc.com/technology/)
+
+> [!note]- Macro: Nasdaq 100 −2.5% Friday; S&P 500 at 7,659 (−1.09%); 10-yr yield 5.09% — AI rout deepens (Bloomberg/TheStreet)
+> The Nasdaq 100 dropped 2.5% Friday, capping its worst week since April 2025 on AI funding concerns and US 10-year Treasury yields near 5.09%. The S&P 500 closed at 7,659.44 (−1.09%); CoreWeave bonds fell to distress levels. Consumer names including Nike and Walmart rose as investors rotated out of tech. [Source](https://bloomberg.com/news/articles/2026-10-15/stock-market-today-dow-s-p-live-updates)
+
+> [!note]- World: Russian drone strikes cargo ship near Romania; Pakistan school collapse kills 33 (Global News/NPR)
+> Russia struck a cargo ship near NATO-member Romania's coast, leaving seven sailors missing in the Black Sea. In Pakistan, a school roof collapsed killing 33. Istanbul suffered its worst flooding in 80+ years with four dead. Israeli settlers attacked Palestinians across the West Bank during the olive harvest. [Source](https://globalnews.ca/world/)
+
+> [!breaking]- SG/MY: ASEAN haze emergency meeting secured; Singapore mulls legal action vs. Indonesia (Malay Mail/Al Jazeera)
+> Singapore and Malaysia secured an emergency ASEAN environment ministers' meeting on transboundary haze as Indonesia's fire season drives hazardous PM2.5. Singapore Environment Minister Grace Fu said legal action under the Transboundary Haze Pollution Act remains an option. Schools in eight Selangor districts closed Friday; Firefly Subang–Seletar flights remain suspended. [Source](https://www.malaymail.com/news/world/2026/10/14/indonesia-haze-spikes-pollution-in-malaysia-and-singapore-shuts-timor-leste-schools/239120)
+
+> [!note]- Science: Arctic sea ice shrinking in both winter and summer — satellite records confirm (ScienceDaily)
+> New satellite analysis confirms Arctic sea ice is declining in both winter extent and summer minimum, accelerating warming feedback loops. UK scientists identified a T. rex cousin from a fossil sitting unrecognised at London's Natural History Museum for nearly a century. Researchers also engineered a plant immune receptor to help protect rice, wheat, and barley from devastating fungal disease. [Source](https://www.sciencedaily.com/)
+
+> [!note]- Nike (NKE): ~$37.67 (est. +1.4% Fri) — lifted as traders flee AI stocks; Goldman Sell $27.50; P&L ≈ −$1,565 (Benzinga/FX Leaders)
+> Nike shares gained Friday as investors rotated out of AI and chip stocks into beaten-down consumer names; Benzinga cited NKE among stocks that "got a lift as traders fled AI stocks." Goldman Sachs maintains Sell at $27.50; Moody's cut its outlook to Negative. Position: 46 shares @ $71.69 avg; est. unrealised P&L = 46 × ($37.67 − $71.69) = −$1,565. [Source](https://www.benzinga.com/trading-ideas/movers/26/10/62395717/nike-moderna-walmart-get-a-lift-as-traders-flee-ai-stocks)
 
 
 ### [[10-15-26 Thu]]
