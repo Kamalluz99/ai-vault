@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-18T05:14
+updated: 2026-10-17T21:29
 topic: daily news
 frequency: daily
 ongoing: false
@@ -80,6 +80,50 @@ unread: true
 > [!note]- Science: Astronomers find universal jet-launching rule holds across all black hole sizes (ScienceDaily)
 > A new study found that black holes ranging from stellar-mass to supermassive launch powerful relativistic jets according to the same underlying physical rule, suggesting jet production is a universal feature of accretion rather than unique to specific mass scales. The discovery unifies decades of seemingly contradictory observations across different classes of black hole systems and opens new avenues for modelling galactic evolution and jet feedback. [Source](https://www.sciencedaily.com/)
 
+> [!note]- [[10-17-26 Sat]]
+>
+> > [!note]- AI: Meta releases Muse Spark Open 816B MoE — 1M context, optimised for paired Mac Studios (AI Weekly)
+> > Meta released Muse Spark Open, an 816-billion-parameter mixture-of-experts model with 42B active parameters and a 1-million-token context window, under the Muse Model License. It is designed to run on two to four paired M5 Ultra Mac Studios via MLX, deepening Meta's Apple hardware partnership. Nvidia also shipped Nemotron 3.5 Super VL (120B MoE, 12B active), and Reflection AI's Beam (501B) began reaching Microsoft Foundry trusted partners. [Source](https://aiweekly.co/ai-news-today)
+>
+> > [!note]- Tech: OpenAI acquires Pathway for ~$400M in shares; Foxconn buys 50% of Mitsubishi Electric Mobility (Dealroom)
+> > OpenAI acquired Pathway, an AI data-pipeline and infrastructure startup, in a deal reportedly worth close to $400 million paid in OpenAI shares — a sign of the lab's push to control enterprise data infrastructure. Separately, Foxconn agreed to buy a 50% stake in Mitsubishi Electric Mobility, accelerating its pivot into EV software and systems, with the deal announced October 16. [Source](https://dealroom.co/news)
+>
+> > [!note]- Macro: Oil near $97 on Hormuz fears; gold $4,170; BTC $82,400; S&P 500 posts worst AI week since April 2025 (Mitrade/Bloomberg)
+> > WTI crude holds near $97/barrel on continued Hormuz supply risk, while gold recovered to ~$4,170/oz after an inflation-driven dip earlier in the week. Bitcoin sits at approximately $82,400. US equities closed the week sharply lower — S&P 500 fell 1.09% to 7,659 on Friday and the Nasdaq 100 lost 2.5%, capping its worst week since April 2025 as AI funding concerns and 10-year Treasury yields near 5.09% rattled risk assets. [Source](https://www.mitrade.com/au/insights/daily-market-outlook/news-today/market-news-today-australia-261016)
+>
+> > [!breaking]- World: Iran threatens US warships; Trump rules out nukes and ground troops; IMF calls Hormuz blockade worst oil shock since 1970s (CNBC/Modern Diplomacy)
+> > Iran said it is "counting the moments" until it can strike US warships in the Gulf, while President Trump ruled out using nuclear weapons or deploying ground troops to Iran — narrowing perceived escalation paths as the conflict enters a stalemate. The IMF warned at its Bangkok annual meetings that the Hormuz blockade is the largest global oil supply disruption since the 1970s, projecting a 1.3% regional GDP contraction for 2026 and warning that fiscal buffers are "running out." [Source](https://www.cnbc.com/world-politics/)
+>
+> > [!note]- Malaysia: MOH urges N95 masks nationwide; Malaysia-Indonesia formal fire talks begin as haze enters week 3 (Malay Mail/Google News)
+> > Malaysia's Ministry of Health issued a nationwide advisory urging residents to wear N95 masks outdoors as Indonesia's fires continue to push air quality into unhealthy ranges. Malaysia and Indonesia have begun formal talks on the Sumatra and Kalimantan fires, and the government raised the threshold for haze-related school closures; Negeri Sembilan and Melaka schools have since reopened. Pakatan Harapan will announce its Melaka state-election candidate list on October 18. [Source](https://www.malaymail.com/)
+>
+> > [!note]- Science: Webb reveals ancient galaxy cluster with unexpectedly dense dark matter — challenges models (ScienceDaily)
+> > The James Webb Space Telescope found an ancient galaxy cluster with a dark matter concentration significantly higher than standard cosmological models predict, raising questions about large-scale structure formation in the early universe. Also this week: a "Pac-Man enzyme" in bacteria can break down certain plastics; researchers found a way to reprogram a cancer-fueling protein to fight tumours; and scientists discovered that cellular autophagy behaves differently during aging than previously believed. [Source](https://www.sciencedaily.com/news/top/)
+>
+> > [!note]- Nike (NKE): ~$37.67 (est. +1.4% Fri) — lifted as traders flee AI stocks; Goldman Sell $27.50; P&L ≈ −$1,565 (Benzinga/FX Leaders)
+> > Nike shares gained Friday as investors rotated out of AI and chip stocks into beaten-down consumer names; Benzinga cited NKE among stocks that "got a lift as traders fled AI stocks." Goldman Sachs maintains Sell at $27.50; Moody's cut its outlook to Negative. Position: 46 shares @ $71.69 avg; est. unrealised P&L = 46 × ($37.67 − $71.69) = −$1,565. [Source](https://www.benzinga.com/trading-ideas/movers/26/10/62395717/nike-moderna-walmart-get-a-lift-as-traders-flee-ai-stocks)
+>
+> > **Evening update**
+>
+> > [!breaking]- SG/MY: Singapore-registered ship sinks after Hormuz attack; second vessel struck (AsiaOne)
+> > Two ships registered in Singapore were struck by projectiles in the Strait of Hormuz on Saturday, with one vessel sinking. The attacks come amid ongoing regional tensions following Iran's threat to target US warships, and mark the first direct maritime losses for Singapore-flagged vessels in the current conflict. The Singapore government has not yet issued an official statement; shipping insurers are expected to reassess Gulf-route risk premiums. [Source](https://www.asiaone.com/)
+>
+> > [!note]- Malaysia: SG threatens Transboundary Haze Act action; smoke blankets Johor and Selangor (Malay Mail)
+> > Singapore Environment Minister Grace Fu said authorities are open to pursuing legal action under the Transboundary Haze Pollution Act against parties responsible for Indonesian fires, as PM2.5 readings reached the "very high" band for the first time this season on Saturday. In Malaysia, Johor and Selangor remain the worst-affected states, with outdoor activities discouraged and schools on alert. Indonesia's fire hotspots in southern Sumatra and West Kalimantan continue to drive smoke across the region into a third week. [Source](https://www.malaymail.com/)
+>
+> > [!breaking]- World: Trump pauses Congress-passed Russia sanctions, overriding Ukraine objections (Euronews)
+> > US President Trump signed an executive order pausing new Russia sanctions passed by Congress, drawing sharp condemnation from Ukraine and European allies and signalling a potential policy shift toward easing pressure on Moscow. Ukraine declared the move a direct threat to peace negotiations; European capitals warned it undermines the Western coalition's leverage over Russia. The Kremlin had not yet formally responded to the order as of Saturday afternoon. [Source](https://www.euronews.com/video/2026/10/17/latest-news-bulletin-october-17th-2026-midday)
+>
+> > [!note]- World: Putin claims 660km "security zone" inside Ukraine, outside any peace settlement (Euronews)
+> > Russian President Putin announced that Russia is establishing a security zone spanning approximately 660 kilometres inside Ukrainian territory, declaring it would sit outside any future peace talks. Russian missiles simultaneously struck industrial facilities in Odesa and Zaporizhzhia, starting large fires at factories in both cities. The Kremlin framed the buffer zone as a permanent defensive measure, significantly complicating any ceasefire framework built around territorial lines. [Source](https://www.euronews.com/tag/world-news)
+>
+> > [!note]- Tech: Character.AI files for bankruptcy; plans asset sale to Disney (AI Weekly)
+> > Character.AI, the AI companion platform that once attracted billions in venture funding, filed for bankruptcy and announced plans to sell select assets to Disney. The collapse follows sustained regulatory scrutiny over its effects on teen users, lawsuits from families of minors, and intensifying competition from major AI labs offering similar conversational capabilities. The Disney deal marks an unusual entry point for the media giant into AI-native social platforms, though the scope of assets being sold was not specified. [Source](https://aiweekly.co/ai-news-today)
+>
+> > [!note]- Economy: WTO raises 2026 trade forecast to 3.9%; Brent hits $107 on Hormuz supply fears (WTO/The News)
+> > The World Trade Organization raised its 2026 global trade growth forecast to 3.9%, citing AI-driven productivity and resilient emerging-market demand despite war-related disruptions. Oil markets painted a more alarming picture: Brent crude rose to $107.51 per barrel on Strait of Hormuz supply fears, with WTI at $99.25, and analysts warning that sustained prices above $100 risk reigniting global inflation and forcing central banks to delay rate cuts. The IMF, meeting in Bangkok this week, warned that fiscal buffers in oil-importing nations are running out. [Source](https://www.thenews.pk/print/1443436-oil-shock-looms-global-energy-markets-sound-fresh-warning-for-world-economy)
+>
+
 > [!note]- [[10-16-26 Fri]]
 >
 > > [!note]- AI: Meta launches Muse Spark Open — 816B MoE model, runs on Mac (AI Weekly)
@@ -102,50 +146,7 @@ unread: true
 >
 > > [!note]- Nike (NKE): ~$37.50 (est.) — consumer rotation extends rally; weak guidance risks ahead; P&L ≈ −$1,573 (FX Leaders/MarketBeat)
 > > Nike shares traded near $37.50 on Friday, extending Thursday's 5%+ surge as investors continued rotating out of battered chip and AI names into consumer discretionary. FX Leaders warned on October 16 of upcoming weak guidance risks and potential dividend sustainability concerns ahead of Nike's next earnings. Analyst consensus sits at Reduce with an average price target of ~$41; Goldman Sachs maintains Sell at $27.50. Position: 46 shares @ $71.69 avg; est. unrealised P&L = 46 × ($37.50 − $71.69) = −$1,573. [Source](https://www.fxleaders.com/news/2026/10/16/nike-stock-forecast-weak-guidance-dividend-risks/)
->
-> > [!note]- [[10-17-26 Sat]]
-> >
-> > > [!note]- AI: Meta releases Muse Spark Open 816B MoE — 1M context, optimised for paired Mac Studios (AI Weekly)
-> > > Meta released Muse Spark Open, an 816-billion-parameter mixture-of-experts model with 42B active parameters and a 1-million-token context window, under the Muse Model License. It is designed to run on two to four paired M5 Ultra Mac Studios via MLX, deepening Meta's Apple hardware partnership. Nvidia also shipped Nemotron 3.5 Super VL (120B MoE, 12B active), and Reflection AI's Beam (501B) began reaching Microsoft Foundry trusted partners. [Source](https://aiweekly.co/ai-news-today)
-> >
-> > > [!note]- Tech: OpenAI acquires Pathway for ~$400M in shares; Foxconn buys 50% of Mitsubishi Electric Mobility (Dealroom)
-> > > OpenAI acquired Pathway, an AI data-pipeline and infrastructure startup, in a deal reportedly worth close to $400 million paid in OpenAI shares — a sign of the lab's push to control enterprise data infrastructure. Separately, Foxconn agreed to buy a 50% stake in Mitsubishi Electric Mobility, accelerating its pivot into EV software and systems, with the deal announced October 16. [Source](https://dealroom.co/news)
-> >
-> > > [!note]- Macro: Oil near $97 on Hormuz fears; gold $4,170; BTC $82,400; S&P 500 posts worst AI week since April 2025 (Mitrade/Bloomberg)
-> > > WTI crude holds near $97/barrel on continued Hormuz supply risk, while gold recovered to ~$4,170/oz after an inflation-driven dip earlier in the week. Bitcoin sits at approximately $82,400. US equities closed the week sharply lower — S&P 500 fell 1.09% to 7,659 on Friday and the Nasdaq 100 lost 2.5%, capping its worst week since April 2025 as AI funding concerns and 10-year Treasury yields near 5.09% rattled risk assets. [Source](https://www.mitrade.com/au/insights/daily-market-outlook/news-today/market-news-today-australia-261016)
-> >
-> > > [!breaking]- World: Iran threatens US warships; Trump rules out nukes and ground troops; IMF calls Hormuz blockade worst oil shock since 1970s (CNBC/Modern Diplomacy)
-> > > Iran said it is "counting the moments" until it can strike US warships in the Gulf, while President Trump ruled out using nuclear weapons or deploying ground troops to Iran — narrowing perceived escalation paths as the conflict enters a stalemate. The IMF warned at its Bangkok annual meetings that the Hormuz blockade is the largest global oil supply disruption since the 1970s, projecting a 1.3% regional GDP contraction for 2026 and warning that fiscal buffers are "running out." [Source](https://www.cnbc.com/world-politics/)
-> >
-> > > [!note]- Malaysia: MOH urges N95 masks nationwide; Malaysia-Indonesia formal fire talks begin as haze enters week 3 (Malay Mail/Google News)
-> > > Malaysia's Ministry of Health issued a nationwide advisory urging residents to wear N95 masks outdoors as Indonesia's fires continue to push air quality into unhealthy ranges. Malaysia and Indonesia have begun formal talks on the Sumatra and Kalimantan fires, and the government raised the threshold for haze-related school closures; Negeri Sembilan and Melaka schools have since reopened. Pakatan Harapan will announce its Melaka state-election candidate list on October 18. [Source](https://www.malaymail.com/)
-> >
-> > > [!note]- Science: Webb reveals ancient galaxy cluster with unexpectedly dense dark matter — challenges models (ScienceDaily)
-> > > The James Webb Space Telescope found an ancient galaxy cluster with a dark matter concentration significantly higher than standard cosmological models predict, raising questions about large-scale structure formation in the early universe. Also this week: a "Pac-Man enzyme" in bacteria can break down certain plastics; researchers found a way to reprogram a cancer-fueling protein to fight tumours; and scientists discovered that cellular autophagy behaves differently during aging than previously believed. [Source](https://www.sciencedaily.com/news/top/)
-> >
-> > > [!note]- Nike (NKE): ~$37.67 (est. +1.4% Fri) — lifted as traders flee AI stocks; Goldman Sell $27.50; P&L ≈ −$1,565 (Benzinga/FX Leaders)
-> > > Nike shares gained Friday as investors rotated out of AI and chip stocks into beaten-down consumer names; Benzinga cited NKE among stocks that "got a lift as traders fled AI stocks." Goldman Sachs maintains Sell at $27.50; Moody's cut its outlook to Negative. Position: 46 shares @ $71.69 avg; est. unrealised P&L = 46 × ($37.67 − $71.69) = −$1,565. [Source](https://www.benzinga.com/trading-ideas/movers/26/10/62395717/nike-moderna-walmart-get-a-lift-as-traders-flee-ai-stocks)
-> >
-> > > **Evening update**
-> >
-> > > [!breaking]- SG/MY: Singapore-registered ship sinks after Hormuz attack; second vessel struck (AsiaOne)
-> > > Two ships registered in Singapore were struck by projectiles in the Strait of Hormuz on Saturday, with one vessel sinking. The attacks come amid ongoing regional tensions following Iran's threat to target US warships, and mark the first direct maritime losses for Singapore-flagged vessels in the current conflict. The Singapore government has not yet issued an official statement; shipping insurers are expected to reassess Gulf-route risk premiums. [Source](https://www.asiaone.com/)
-> >
-> > > [!note]- Malaysia: SG threatens Transboundary Haze Act action; smoke blankets Johor and Selangor (Malay Mail)
-> > > Singapore Environment Minister Grace Fu said authorities are open to pursuing legal action under the Transboundary Haze Pollution Act against parties responsible for Indonesian fires, as PM2.5 readings reached the "very high" band for the first time this season on Saturday. In Malaysia, Johor and Selangor remain the worst-affected states, with outdoor activities discouraged and schools on alert. Indonesia's fire hotspots in southern Sumatra and West Kalimantan continue to drive smoke across the region into a third week. [Source](https://www.malaymail.com/)
-> >
-> > > [!breaking]- World: Trump pauses Congress-passed Russia sanctions, overriding Ukraine objections (Euronews)
-> > > US President Trump signed an executive order pausing new Russia sanctions passed by Congress, drawing sharp condemnation from Ukraine and European allies and signalling a potential policy shift toward easing pressure on Moscow. Ukraine declared the move a direct threat to peace negotiations; European capitals warned it undermines the Western coalition's leverage over Russia. The Kremlin had not yet formally responded to the order as of Saturday afternoon. [Source](https://www.euronews.com/video/2026/10/17/latest-news-bulletin-october-17th-2026-midday)
-> >
-> > > [!note]- World: Putin claims 660km "security zone" inside Ukraine, outside any peace settlement (Euronews)
-> > > Russian President Putin announced that Russia is establishing a security zone spanning approximately 660 kilometres inside Ukrainian territory, declaring it would sit outside any future peace talks. Russian missiles simultaneously struck industrial facilities in Odesa and Zaporizhzhia, starting large fires at factories in both cities. The Kremlin framed the buffer zone as a permanent defensive measure, significantly complicating any ceasefire framework built around territorial lines. [Source](https://www.euronews.com/tag/world-news)
-> >
-> > > [!note]- Tech: Character.AI files for bankruptcy; plans asset sale to Disney (AI Weekly)
-> > > Character.AI, the AI companion platform that once attracted billions in venture funding, filed for bankruptcy and announced plans to sell select assets to Disney. The collapse follows sustained regulatory scrutiny over its effects on teen users, lawsuits from families of minors, and intensifying competition from major AI labs offering similar conversational capabilities. The Disney deal marks an unusual entry point for the media giant into AI-native social platforms, though the scope of assets being sold was not specified. [Source](https://aiweekly.co/ai-news-today)
-> >
-> > > [!note]- Economy: WTO raises 2026 trade forecast to 3.9%; Brent hits $107 on Hormuz supply fears (WTO/The News)
-> > > The World Trade Organization raised its 2026 global trade growth forecast to 3.9%, citing AI-driven productivity and resilient emerging-market demand despite war-related disruptions. Oil markets painted a more alarming picture: Brent crude rose to $107.51 per barrel on Strait of Hormuz supply fears, with WTI at $99.25, and analysts warning that sustained prices above $100 risk reigniting global inflation and forcing central banks to delay rate cuts. The IMF, meeting in Bangkok this week, warned that fiscal buffers in oil-importing nations are running out. [Source](https://www.thenews.pk/print/1443436-oil-shock-looms-global-energy-markets-sound-fresh-warning-for-world-economy)
->
+
 
 ### [[10-15-26 Thu]]
 
