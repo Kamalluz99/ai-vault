@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-18T05:00
+updated: 2026-10-18T05:14
 topic: daily news
 frequency: daily
 ongoing: false
@@ -62,26 +62,23 @@ unread: true
 
 ### [[10-18-26 Sun]]
 
-> [!note]- AI: FBI arrests OpenAI employee who planted listening device in company office (The Verge)
-> The FBI arrested an OpenAI employee after federal agents discovered a listening device the worker had planted in the company's San Francisco office, per a Justice Department statement. The individual was charged with intercepting oral communications under federal wiretapping statutes. The case raised immediate questions about insider security at one of the world's most sensitive AI labs; OpenAI confirmed the individual is no longer employed and cooperated with investigators. [Source](https://www.washingtonpost.com/business/technology/)
+> [!breaking]- World: Saudi Aramco attacked; Trump rules out nukes vs Iran as war deepens (CNBC)
+> Houthi forces struck Saudi Aramco facilities as the Iran conflict escalated, testing the emerging Turkey-Pakistan-Saudi Arabia mutual-defence pact and sending Brent crude near $110/barrel. President Trump told reporters the US would not deploy nuclear weapons or ground troops against Iran, drawing clearer red lines while warning of severe consequences. The IMF raised its 2026 global growth forecast but cautioned resilience is nearing limits as energy disruptions compound supply-chain pressure. [Source](https://www.cnbc.com/world-politics/)
 
-> [!note]- Tech: Tesla unveils new Roadster in Waco; Musk declares it the "realization of flying cars" (Washington Post)
-> Tesla held a surprise unveiling event in Waco, Texas, for its long-delayed new Roadster, with CEO Elon Musk calling it the "realization of flying cars" — apparently referencing its rumoured air-thruster system and sub-one-second 0–60 time. No confirmed pricing or release date was given. Analysts remain sceptical, noting Tesla has missed multiple Roadster launch windows since the model's 2017 announcement, and the event provided no new delivery timeline. [Source](https://www.washingtonpost.com/business/technology/)
+> [!note]- AI: China drafts AI model export controls; Anthropic pitches US safety bill to Congress (AI Weekly)
+> China's Ministry of Commerce released a draft regulation that would subject advanced AI model weights and source code to export controls once they cross a defined performance threshold, with public comment open until November 15. Separately, Anthropic pitched US lawmakers a bill that would allow the federal government to seek a court order suspending a frontier AI model only if it poses imminent risk exceeding $1 billion in damage or 50+ deaths — petitionable solely by the Commerce Department. The dual moves mark a sharp tightening of AI governance on both sides of the Pacific. [Source](https://usecarly.com/blog/ai-news-2026-10-16)
 
-> [!note]- Macro: China Q3 GDP out today (prev 4.3%, consensus 4.4%); US deficit swells to $2T for FY2026 (CNBC/Trading Economics)
-> China releases its Q3 GDP figure on Sunday, with the consensus at 4.4% versus a 4.3% prior reading — a modest uptick attributed to AI-driven export demand. In the US, the federal budget deficit for fiscal year 2026 widened to nearly $2 trillion, driven by ballooning interest costs and defence outlays, its largest since the pandemic era. September US wholesale prices rose 6.3% year-on-year, the biggest jump since 2022, cementing near-certain odds of a Fed hike at the October 27–28 FOMC. [Source](https://tradingeconomics.com/calendar)
+> [!note]- Tech: Netflix cuts 1,000 staff; Monday.com trims 20% workforce, both cite AI shift (TechCrunch)
+> Netflix announced roughly 1,000 layoffs — about 6% of its workforce — concentrated in product, tech, legal, and HR, coming shortly after it abandoned a potential Warner Bros. acquisition amid intensifying competition for user attention. Monday.com simultaneously filed an SEC notice disclosing a 20% reduction (~600 jobs) while pledging reinvestment in AI-driven growth. The back-to-back cuts deepen an October tech layoff wave that already includes Block (40%), Amazon Stores, and Airtable. [Source](https://techcrunch.com/2026/10/14/netflix-to-lay-off-1000-staff-amid-intensifying-competition-for-user-attention/)
 
-> [!note]- World: EU emergency summit on energy crisis and 7-year budget; Trump presses Ukraine on concessions (Euronews)
-> European Union leaders convened an emergency summit to tackle spiralling energy prices — with Brent rising near $110/barrel on Hormuz supply fears — and an unfinished seven-year budget stalled over contributions. US President Trump reiterated pressure on Ukraine to accept territorial concessions in any ceasefire deal, deepening rifts in the Western alliance. The EU warned it will activate energy price caps if Brent remains above $100 for two consecutive weeks. [Source](https://www.euronews.com/news/international)
+> [!note]- Macro: Oil near $110 on Hormuz fears; gold $4,185; dollar slides on fading Fed hike bets (Benzinga)
+> Brent crude held near $109.69 and WTI near $101.84 as Hormuz supply-disruption fears and the Saudi Aramco attack kept energy markets on edge through the weekend. Gold settled around $4,185/oz on safe-haven demand while the dollar index fell toward 101.6 — heading for its first weekly loss in over a month — as traders trimmed Federal Reserve rate-hike bets ahead of the October 27–28 FOMC meeting. [Source](https://www.benzinga.com/markets/equities/26/10/62404483/stock-market-today-dow-sp-500-futures-rise-as-bessent-intensifies-economic-pressure-on-iran-treasury-yields-cool-off-tsla-aa-ibkr-in-focus)
 
-> [!note]- SG/MY: ASEAN haze emergency meeting confirmed; Singapore PM2.5 "very high" entering week 3 (Malay Mail)
-> ASEAN environment ministers confirmed an emergency session this week at Singapore and Malaysia's request, pressing Indonesia for a firm fire-suppression timeline as Sumatra and Kalimantan peat burns enter their third week. Singapore's PM2.5 remained in the "very high" band through the weekend; Johor schools are monitoring for possible closures on Monday. Environment Minister Grace Fu reiterated that action under the Transboundary Haze Pollution Act "remains an active option." [Source](https://www.malaymail.com/)
+> [!note]- Malaysia: Anwar to unveil PH Melaka election slate today; haze easing in Negeri Sembilan (Malay Mail)
+> Prime Minister Anwar Ibrahim is set to announce Pakatan Harapan's full candidate list for the upcoming Melaka state election on Sunday, as Perikatan Nasional also moves to forge opposition alliances ahead of polling day. On the haze front, Negeri Sembilan and Melaka schools reopened after air quality assessments as Sumatran peat fires showed signs of easing, though Malaysia is still awaiting Indonesia's response to an offer of firefighting assistance. Malaysia also unveiled six homegrown semiconductor designs valued at an estimated RM300 million. [Source](https://www.malaymail.com/)
 
-> [!note]- Science: Scientists vote to replace leap seconds with "leap hour" in first timekeeping reform since 1972 (Scientific American)
-> The General Conference on Weights and Measures voted to phase out leap seconds — the one-second adjustments that have periodically synced atomic clocks to Earth's rotation since 1972 — replacing them with a "leap hour" model allowing clocks to drift up to 3,600 seconds before correction. Set to take effect in the late 2030s, the change resolves recurring leap-second-induced software crashes that have disrupted Cloudflare, Reddit, and Linux systems in past decades. [Source](https://www.scientificamerican.com/)
-
-> [!note]- Nike (NKE): $37.13 (last close; pre-mkt ~$37.67, +1.4%) — rotation rally holds; Goldman Sell $27.50; P&L ≈ −$1,590 (FX Leaders/Google Finance)
-> Nike closed at $37.13 on October 16, with pre-market action on Saturday indicating a further move toward $37.67 as the consumer-discretionary rotation out of chip names continued. FX Leaders warned that weak guidance and dividend sustainability concerns remain ahead of the next earnings report; Goldman Sachs maintains Sell at $27.50 and Moody's recently cut its outlook to Negative. Position: 46 shares @ $71.69 avg; unrealised P&L = 46 × ($37.13 − $71.69) = −$1,590. [Source](https://www.fxleaders.com/news/2026/10/16/nike-stock-forecast-weak-guidance-dividend-risks/)
+> [!note]- Science: Astronomers find universal jet-launching rule holds across all black hole sizes (ScienceDaily)
+> A new study found that black holes ranging from stellar-mass to supermassive launch powerful relativistic jets according to the same underlying physical rule, suggesting jet production is a universal feature of accretion rather than unique to specific mass scales. The discovery unifies decades of seemingly contradictory observations across different classes of black hole systems and opens new avenues for modelling galactic evolution and jet feedback. [Source](https://www.sciencedaily.com/)
 
 > [!note]- [[10-16-26 Fri]]
 >
