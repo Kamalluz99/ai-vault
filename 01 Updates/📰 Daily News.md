@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-19T05:00
+updated: 2026-10-19T05:21
 topic: daily news
 frequency: daily
 ongoing: false
@@ -62,26 +62,27 @@ unread: true
 
 ### [[10-19-26 Mon]]
 
-> [!note]- AI: Schwab and JPMorgan block AI agents from client accounts; 81/134 models fail safety test (AI Weekly)
-> Major financial firms — Schwab and JPMorgan — confirmed they are actively blocking unauthorized AI agents from accessing client accounts, with JPMorgan's Jamie Dimon specifically saying the firm is "blocking outside agents." A separate report found 81 of 134 AI models failed a test built from terrorist-style questions, raising broad safety concerns across the industry. [Source](https://aiweekly.co/ai-news-today)
+> [!note]- AI: OpenAI pulls GPT-6.1 Astra after safety tests expose alignment failures (TLT AI Brief)
+> OpenAI has reportedly halted its next-generation model — GPT-6.1 Astra — after internal safety evaluations surfaced serious alignment failures, according to a law firm AI brief citing the Wall Street Journal. The withdrawal is one of the lab's most visible safety-driven rollbacks and comes as a US Senator introduces a bill to pause advanced AI development until a new federal safety regulator is operational. Google's Gemini 4 Argon, by contrast, opened to paying users worldwide on October 13. [TLT AI Brief](https://www.tlt.com/insights-and-events/insight/tlts-ai-brief-october-2026)
 
-> [!note]- Tech: Tesla unveils SpaceX-powered Roadster in Waco; described as a car that "flies" (TechCrunch)
-> Tesla revealed a dramatically reimagined Roadster at a Waco, Texas event, described as SpaceX-powered and capable of brief flight — a sharp departure from conventional EVs. The reveal coincides with Tesla's quarterly earnings this week, one of the key AI trade catalysts alongside Meta's results. [Source](https://techcrunch.com/2026/10/)
+> [!note]- Tech: Big Tech earnings week opens — Meta, Tesla, GM in focus amid AI spend scrutiny (Babypips)
+> A packed earnings week begins Monday with Meta, Tesla, GM, 3M, and Coca-Cola all set to report amid growing investor focus on whether AI infrastructure spending is translating to revenue. The week follows a Nasdaq that fell ~4% last week — its worst since June — driven by a chip-sector selloff and 10-year yields near 5.1%. Netflix also reports Thursday, months after announcing ~1,000 layoffs, and results will test whether its AI content bets are paying off. [Babypips](https://www.babypips.com/analysis/fundies-cheat-sheet-2026-10-19-oil-ai-earnings-yields)
 
-> [!note]- Macro: China Q3 GDP and Canadian CPI due Monday; 10-yr yield 5.09%; Tesla/Meta earnings in focus (Newsquawk/Trading Economics)
-> Markets open the week awaiting China's September activity data and Q3 GDP alongside Canadian CPI. The US 10-year Treasury yield sits near 5.09% and September CPI came in at 3.7% YoY — above the 3.6% forecast — keeping rate-hike pressure alive ahead of the October 27–28 FOMC. Tesla and Meta report this week as the two biggest AI-trade earnings catalysts. [Source](https://tradingeconomics.com/calendar?article=29375&importance=2&startdate=2026-10-16)
+> [!note]- Macro: Brent near $110 on Hormuz disruption; gold $4,187; Fed in blackout before Oct 28 FOMC (NordFX)
+> Brent crude enters the week near $109.69/barrel — a six-month high — as Houthi attacks on Saudi energy infrastructure and Hormuz shipping lanes continued over the weekend with two more vessels sunk. Gold holds at ~$4,187/oz amid safe-haven demand while Bitcoin is flat around $82,650 and the 10-year Treasury yield holds near 5.10%. The Fed is in its pre-FOMC communications blackout ahead of the October 28 rate decision. [NordFX](https://nordfx.com/market-news/forex-cryptocurrency-forecast-october-19-23-2026)
 
-> [!breaking]- World: SE Asia wildfire haze crisis escalates; French protests spread, Limoges town hall torched (Euronews)
-> Months of Indonesian wildfires have triggered a severe air-quality crisis across Southeast Asia with hundreds of thousands of hectares burning on Borneo and Sumatra. In France, cost-of-living protests spread nationally — the historic Limoges town hall was engulfed in flames and police clashed with protesters in Marseille. Ukraine says Russia is still bombing energy infrastructure despite Trump's claims of a ceasefire agreement. [Source](https://en.wikipedia.org/wiki/Portal:Current_events/October_2026)
+> [!note]- World: North Korea fires two ballistic missiles; China sanctions Paraguay and Belize over Taiwan (Geopolitics Explained)
+> North Korea launched two ballistic missiles, the latest provocation as Kim Jong-un steps up testing while US attention is focused on the Iran conflict. China separately imposed sanctions on Paraguay and Belize for maintaining formal ties with Taiwan, intensifying Beijing's pressure campaign on the shrinking list of states that recognise Taipei. Both developments underscore a wider pattern of authoritarian revisionism accelerating in parallel with the Gulf crisis. [Geopolitics Explained](https://geopoliticsexplained.substack.com/p/this-week-in-geopolitics-18th-october)
 
-> [!note]- SG/MY: NEA forecasts PSI 101–190 for Monday; western SG still at "very high" as haze season worsens (NEA/Al Jazeera)
-> Singapore's NEA forecast the Pollutant Standards Index at 101–190 for October 19 as Indonesian peat fires persist. Western districts hit "very high" levels over the weekend — the worst haze since 2015. Malaysia's Firefly KL–Singapore flights remain cancelled; PM Lawrence Wong is on a five-day Middle East tour (Oct 18–22). [Source](https://www.aljazeera.com/news/2026/10/13/malaysias-firefly-cancels-flights-to-singapore-over-transboundary-haze)
+> [!note]- Malaysia: Schools reopen post-haze; Q3 GDP beats estimates; Pearly–Thinaah win Denmark Open (Malay Mail)
+> Schools across several Malaysian states resumed normal classes Monday following haze-related closures, with Selangor running sessions but banning outdoor activities as Sumatra fire smoke dissipates. Malaysia's Q3 GDP growth beat analyst estimates, supporting the ringgit heading into a week of major global risk events and earnings reports. On the courts, Pearly Tan and M. Thinaah won the Denmark Open women's doubles title, the pair's latest international medal. [Malay Mail](https://www.malaymail.com/)
 
-> [!note]- Science: Timekeeping bodies vote to replace leap seconds with "leap hours"; Roman Telescope exceeds specs by 30% (Scientific American/ScienceDaily)
-> The world's standards bodies voted to retire the leap second in favour of a new "leap hour" system — resolving decades of debate over reconciling atomic time with Earth's rotation. Separately, NASA's Roman Space Telescope has exceeded mission performance expectations by nearly 30%, with revised data-collection projections. [Source](https://www.scientificamerican.com/)
+> [!note]- Science: SpaceX delivers brain organoids and 3D heart tissue to ISS for zero-g disease research (ABC News)
+> A SpaceX cargo mission on October 16 delivered miniature brain organoids, 3D-printed heart tissue, and artificial retina manufacturing hardware to the ISS, in a joint project by Mount Sinai, NASA, and Space Tango. Microgravity accelerates biological processes that take decades on Earth, and researchers expect insights relevant to Alzheimer's, cardiac failure, and vision loss within months of study. [ABC News](https://abcnews.com/Health/mini-organs-launching-space-future-astronauts-humans-earth/story?id=137203416)
 
 > [!note]- Nike (NKE): ~$37.13 (Oct 16 close, −0.03%) — down 40% YTD; Nov investor day key catalyst; P&L ≈ −$1,590 (Yahoo Finance/FX Leaders)
 > Nike closed at approximately $37.13 on Friday, about 16% above its October 2 intraday low of $31.97. The stock remains down ~40% YTD with a 52-week high of $70.44 and a consensus Reduce rating. FX Leaders flags weak guidance and dividend sustainability risks; the November investor day is the next major catalyst. Position: 46 shares @ $71.69 avg; est. unrealised P&L = 46 × ($37.13 − $71.69) = −$1,590. [Source](https://finance.yahoo.com/quote/NKE/news/)
+
 
 > [!note]- [[10-18-26 Sun]]
 >
@@ -125,7 +126,7 @@ unread: true
 >
 > > [!note]- Nike (NKE): $37.67 (Fri close, mkt closed Sun) — BTIG initiates Buy $100; Goldman Sell $27.50; P&L ≈ −$1,565 (Benzinga/Barchart)
 > > Nike closed Friday at approximately $37.67, up an estimated +1.4% as traders rotated into beaten-down consumer names. BTIG initiated coverage on October 14 with a Buy rating and a $100 target — a notably bullish outlier against Morgan Stanley's Underweight ($31) and Goldman Sachs's Sell ($27.50). Markets are closed Sunday; position: 46 shares @ $71.69 avg; unrealised P&L = 46 × ($37.67 − $71.69) = −$1,565. [Source](https://www.benzinga.com/trading-ideas/movers/26/10/62395717/nike-moderna-walmart-get-a-lift-as-traders-flee-ai-stocks)
-
+>
 > [!note]- [[10-17-26 Sat]]
 >
 > > [!note]- AI: Meta releases Muse Spark Open 816B MoE — 1M context, optimised for paired Mac Studios (AI Weekly)
