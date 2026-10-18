@@ -122,6 +122,9 @@ unread: true
 >
 > > [!note]- Science: IonQ hits 1,000 quantum entanglements/sec milestone; UK produce less nutritious than in 1960s (Disclosure News)
 > > IonQ announced 1,000 quantum entanglement events per second in a quantum interconnect demonstration — a key milestone toward deployable quantum networking infrastructure for future quantum-secured communications. Separately, research found that vegetables in the UK today contain measurably lower levels of minerals and vitamins than their 1960s counterparts, with soil depletion and selective breeding for yield over nutrition cited as likely causes. [Source](https://www.disclosurenews.it/news-burst-18-october-2026-get-the-news/)
+>
+> > [!note]- Nike (NKE): $37.67 (Fri close, mkt closed Sun) — BTIG initiates Buy $100; Goldman Sell $27.50; P&L ≈ −$1,565 (Benzinga/Barchart)
+> > Nike closed Friday at approximately $37.67, up an estimated +1.4% as traders rotated into beaten-down consumer names. BTIG initiated coverage on October 14 with a Buy rating and a $100 target — a notably bullish outlier against Morgan Stanley's Underweight ($31) and Goldman Sachs's Sell ($27.50). Markets are closed Sunday; position: 46 shares @ $71.69 avg; unrealised P&L = 46 × ($37.67 − $71.69) = −$1,565. [Source](https://www.benzinga.com/trading-ideas/movers/26/10/62395717/nike-moderna-walmart-get-a-lift-as-traders-flee-ai-stocks)
 
 > [!note]- [[10-17-26 Sat]]
 >
@@ -385,7 +388,8 @@ unread: true
 > >
 > > > [!note]- Science/Economy: 2026 Nobel economics prize awarded to Hall and Woodford for monetary stabilisation theory (Phys.org)
 > > > The Royal Swedish Academy of Sciences awarded the 2026 Nobel Memorial Prize in Economic Sciences to Americans Robert Hall and Michael Woodford for their landmark work on how coordinated monetary and fiscal policy can better stabilise output and inflation during economic shocks. Their models underpin modern central bank frameworks and have shaped policymakers' responses to the 2008 crisis, COVID-19, and the 2022–25 inflationary cycle. The prize is worth 11 million Swedish kronor (~$1M USD).
->
+
+
 ### [[10-11-26 Sun]]
 
 > [!note]- AI: OpenAI tests visual ads inside ChatGPT, marking first step toward ad revenue (OpenAI/AI Startup News)
