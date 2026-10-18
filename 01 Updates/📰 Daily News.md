@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-17T21:29
+updated: 2026-10-18T20:30
 topic: daily news
 frequency: daily
 ongoing: false
@@ -79,6 +79,26 @@ unread: true
 
 > [!note]- Science: Astronomers find universal jet-launching rule holds across all black hole sizes (ScienceDaily)
 > A new study found that black holes ranging from stellar-mass to supermassive launch powerful relativistic jets according to the same underlying physical rule, suggesting jet production is a universal feature of accretion rather than unique to specific mass scales. The discovery unifies decades of seemingly contradictory observations across different classes of black hole systems and opens new avenues for modelling galactic evolution and jet feedback. [Source](https://www.sciencedaily.com/)
+
+> **Evening update**
+
+> [!note]- SG/MY: Singapore PSI hits season-high 230; PM Wong begins Middle East tour, may invoke haze law (Mothership/SCMP)
+> Singapore's western districts recorded a PSI of 230 on Sunday — the highest reading this haze season — as Indonesian fires drove pollution levels to their worst since 2015. Prime Minister Lawrence Wong said Singapore is actively considering invoking the Transboundary Haze Pollution Act against companies responsible for Borneo and Sumatra peat fires. PM Wong simultaneously departed on a five-day Middle East visit (Oct 18–22), his first to the region since taking office, where the Hormuz oil crisis is expected to dominate bilateral talks. [Source](https://mothership.sg/2026/10/malaysia-close-schools-haze/)
+
+> [!note]- Malaysia: Melaka polls — PH vetting complete, candidates face RM10m bond; BN to name slate Oct 28 (Malay Mail)
+> Pakatan Harapan confirmed all vetting for the November 14 Melaka state election is complete, with each candidate required to sign a bond carrying a RM10 million penalty for breaching party discipline — a measure aimed at preventing party-hopping. Barisan Nasional Chief Minister Ab Rauf Yusoh said BN will unveil its candidate list on October 28, while PH plans to announce on October 24. The election has 28 seats, with BN holding 21 from the previous contest. [Source](https://www.malaymail.com/news/malaysia/2026/10/18/fahmi-confirms-pakatan-vetting-complete-melaka-candidates-to-sign-bond-with-rm10m-penalty/239625)
+
+> [!breaking]- World: Ukraine drones torch St Petersburg oil terminal; Trump energy ceasefire collapses (Business Standard)
+> Ukrainian drones set a major oil export terminal in St Petersburg ablaze overnight, escalating attacks on Russian energy infrastructure after the Trump-brokered energy ceasefire collapsed. Russia responded with 267 attack drones overnight — the largest single assault using Iranian-made projectiles — while ballistic missiles also struck the Zaporizhstal steel plant. Kyiv has formally resumed its campaign targeting Russian refineries, marking the definitive end of the energy infrastructure truce. [Source](https://business-standard.com/amp/world-news/blaze-at-st-petersburg-oil-sites-as-kyiv-launches-drones-at-russia-126101800383_1.html)
+
+> [!note]- World: Putin submits Iran-Russia strategic pact to State Duma; Hormuz attacks reach record 9 ships (CNBC)
+> Russian President Putin formally submitted the comprehensive Iran-Russia strategic partnership treaty to the State Duma for ratification, deepening Moscow-Tehran military-economic ties as the Gulf conflict intensifies. Hormuz ship attacks hit a record high with at least nine commercial vessels struck near the strait, pushing Brent crude toward $110 per barrel while the US maintains a no-nukes, no-ground-troops stance that critics say amounts to strategic ambiguity. [Source](https://www.cnbc.com/2026/10/16/oil-price-today-iran-strait-hormuz-ukraine-russia.html)
+
+> [!note]- Tech: DeepSeek V4.1 Flash 1017 debuts; UK escalates Microsoft AI antitrust probe (TechBytes/Voice of Emirates)
+> DeepSeek released V4.1 Flash 1017 via the Vercel AI Gateway, a fast open-weight model upgrade targeting real-time inference on modest hardware. British regulators moved in parallel to escalate an antitrust investigation into Microsoft's dominance of the software and AI markets, a probe that could impose conduct remedies similar to those the EU has pursued against US tech platforms. The developments underscore mounting pressure on both the open-source and proprietary fronts of the global AI race. [Source](https://voiceofemirates.com/en/science-and-tech/2026/10/18/britain-tightens-its-grip-on-microsoft-investigations-into-the-companys-dominance-of-the-software-and-artificial-intelligence-market)
+
+> [!note]- Science: IonQ hits 1,000 quantum entanglements/sec milestone; UK produce less nutritious than in 1960s (Disclosure News)
+> IonQ announced 1,000 quantum entanglement events per second in a quantum interconnect demonstration — a key milestone toward deployable quantum networking infrastructure for future quantum-secured communications. Separately, research found that vegetables in the UK today contain measurably lower levels of minerals and vitamins than their 1960s counterparts, with soil depletion and selective breeding for yield over nutrition cited as likely causes. [Source](https://www.disclosurenews.it/news-burst-18-october-2026-get-the-news/)
 
 > [!note]- [[10-17-26 Sat]]
 >
