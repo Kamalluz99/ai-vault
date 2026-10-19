@@ -127,6 +127,20 @@ unread: true
 > > [!note]- Science: Record Pacific temps fuel a 'super' El Niño; UNICEF warns of child risk (NBC News)
 > > Record sea surface temperatures across the Pacific Ocean are fuelling a "super" El Niño with severe global consequences, including droughts, floods, and ecosystem disruptions, according to climate scientists. UNICEF warned that hundreds of millions of children could face dangerous heatwaves, food insecurity, and disease outbreaks if the event intensifies as projected. The last comparable El Niño in 2015–16 caused an estimated $5.7 trillion in global economic damage. [NBC News](https://www.nbcnews.com/science)
 >
+> > **Night update**
+>
+> > [!note]- Nike (NKE): $36.82 (−0.8%); Goldman cuts target $38→$30 (Sell); P&L ≈ −$1,604 (MarketBeat)
+> > Nike fell roughly 0.8% Monday to around $36.82 intraday as Goldman Sachs cut its price target from $38 to $30 while maintaining a Sell rating, joining Berenberg ($27.50) and Bank of America ($24) on the bearish side. The consensus analyst target sits around $36–41. Position: 46 shares @ $71.69 avg; unrealised P&L = 46 × ($36.82 − $71.69) = −$1,604. [MarketBeat](https://www.marketbeat.com/stocks/NYSE/NKE/)
+>
+> > [!note]- Macro: Nasdaq rebounds 1.1%; WTI slips to ~$101; gold steady ~$4,168 (TheStreet)
+> > US equities bounced back Monday — S&P 500 +0.41%, Nasdaq +1.1% — partially recovering from last week's worst performance since April 2025. WTI crude eased ~0.9% to around $100.50/barrel while gold steadied near $4,168/oz and the Fed remained in its pre-FOMC blackout. [TheStreet](https://www.thestreet.com/stock-market-today/stock-market-today-oct-19-2026-nasdaq-futures-climb-as-tech-rebound-from-sell-off)
+>
+> > [!note]- World: Lavrov visits Tehran; Netanyahu tells Trump "job to finish" on Iran (Fox News)
+> > Russian Foreign Minister Lavrov arrived in Tehran Monday in his first visit since the US-Iran conflict began, deepening the Russia-Iran axis and condemning US-Israeli strikes as illegal. Israeli PM Netanyahu released footage of a call with Trump saying Israel has "a job to finish" on Iran, while Iran's foreign minister said conditions for reopening the Strait of Hormuz are unchanged. [Fox News](https://www.foxnews.com/live-news/iran-war-news-trump-israel-pentagon-october-19)
+>
+> > [!note]- SG/MY: Singapore to formally warn 7 Indonesian haze companies (NST/Kompas)
+> > Singapore confirmed it will issue formal warnings to seven Indonesian companies identified as responsible for the transboundary fires driving hazardous air quality into a third week. Both Malaysia and Singapore formally offered firefighting assistance to Indonesia, with Jakarta welcoming the offer. Firefly Subang–Seletar flights remain cancelled into Wednesday. [Kompas](https://go.kompas.com/read/2026/10/19/184646374/malaysia-and-singapore-offer-to-assist-with-fire-management-menko-polkam-welcome)
+>
 >
 
 > [!note]- [[10-18-26 Sun]]
