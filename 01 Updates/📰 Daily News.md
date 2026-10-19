@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-20T05:00
+updated: 2026-10-20T09:30
 topic: daily news
 frequency: daily
 ongoing: false
@@ -62,26 +62,23 @@ unread: true
 
 ### [[10-20-26 Tue]]
 
-> [!note]- AI: Nscale in talks to sell ~$45B compute to Anthropic; Tenstorrent raises $1.5B (CNBC/AI Weekly)
-> Nscale Ltd. is reportedly in advanced talks to provide Anthropic with cloud computing capacity in a deal potentially worth around $45 billion — one of the largest AI infrastructure contracts disclosed to date. Separately, Tenstorrent raised $1.5 billion in a Series E at a $6.2 billion valuation, doubling its valuation from last year, to fund volume manufacturing of its Galaxy AI systems. Anthropic's Q3 revenue was also cited at $16.8 billion by investors tracking the pace of frontier AI growth. [CNBC](https://cnbc.com/2026/10/18/stock-market-today-live-updates.html)
+> [!note]- AI: Florida AG seeks court order to halt OpenAI model development without oversight (WSJ/TLT)
+> Florida's Attorney General has petitioned a court to bar OpenAI from developing new AI models without independent oversight, in a case centred on alleged harm to minors from ChatGPT. The move is one of the most aggressive state-level legal challenges to a frontier AI lab to date and follows OpenAI's internal cancellation of GPT-6.1 Astra over safety concerns. Separately, Anthropic issued an unusually stark investor warning about advanced AI risks, and China published a draft export-control plan covering 23 AI categories including advanced models and agents. [TLT AI Brief](https://www.tlt.com/insights-and-events/insight/tlts-ai-brief-october-2026)
 
-> [!note]- Tech: DHS orders all US civilian federal agencies to remove and ban DeepSeek products (TechStartups/CNBC)
-> The Department of Homeland Security issued a directive requiring all US civilian federal agencies to remove DeepSeek AI products and third-party services built on its models, and to prohibit future procurement. The move escalates Washington's national security concerns around Chinese-developed AI, following earlier restrictions on military and intelligence agencies. Microsoft also withdrew from a major British AI data-centre project due to power supply constraints. [TechStartups](https://techstartups.com/2026/10/19/top-tech-news-today-october-19-2026-anthropic-deepseek-idealab-meta-microsoft-more/)
+> [!note]- Tech: Netflix cuts ~1,000 staff — 6% of workforce — as competition intensifies (TechCrunch)
+> Netflix is laying off approximately 1,000 employees, around 6% of its global workforce, with product and technology teams most affected. The cuts follow a costly bidding war for Warner Bros. content and come as the company bets on AI-assisted production to contain costs. Q3 earnings due Thursday will be the first test of whether that strategy is paying off. [TechCrunch](https://techcrunch.com/2026/10/14/netflix-to-lay-off-1000-staff-amid-intensifying-competition-for-user-attention/)
 
-> [!note]- Macro: Nasdaq, S&P 500 rebound as AI dip buyers return ahead of Meta earnings; Brent near $110 (CNBC/Bloomberg)
-> US equity futures bounced after the Nasdaq's worst week since June, with dip buyers returning on bets that AI infrastructure spending will underpin solid earnings — Meta's report later this week is seen as the key confidence test. Brent crude holds near $110/barrel on Hormuz supply risk, while China's Q3 GDP came in at 4.5%, beating estimates and moving the country closer to its annual growth target. [CNBC](https://cnbc.com/2026/10/18/stock-market-today-live-updates.html)
+> [!note]- Macro: Chipmakers extend slide dragging S&P 500 down 2.1% on week; Brent holds above $107 (Saxo Bank)
+> AI-linked semiconductor stocks continued their sell-off Monday, pushing the S&P 500 to its worst week since June as investors reassess AI valuations ahead of Meta earnings. Brent crude holds above $107/barrel on Hormuz supply risk, gold ranged $4,140–4,190, and Bitcoin sat near $82,000. The Fed enters pre-FOMC blackout with the October 28 rate decision approaching; CME FedWatch puts 89% odds on a December hike. [Saxo Bank](https://www.home.saxo/en-gb/content/articles/macro/market-quick-take---chipmakers-extend-their-slide-as-brent-holds-above-107---19-october-2026-19102026)
 
-> [!breaking]- World: Kenya Ebola cases rise to 7 including health workers; France protests see thousands arrested (CBS News/Al Jazeera)
-> Kenya's Ebola outbreak has grown to seven confirmed cases, now including health workers who treated the first patient — a sign of community spread that raises containment concerns. In Europe, France's nationwide cost-of-living protests turned violent over the weekend, leaving one dead and nearly 1,800 arrested; PM Lecornu called for localised curfews. A stampede at a Hindu festival in eastern India also killed 19 people. [CBS News](https://www.cbsnews.com/world/)
+> [!breaking]- World: US draws up "Mother of All Bombs" strike plans for Iran; Trump rules out nukes and ground troops (CNBC)
+> The US has reportedly drawn up targeting plans involving the GBU-57 Massive Ordnance Penetrator against Iranian nuclear facilities as Gulf tensions escalate sharply. Trump publicly ruled out nuclear weapons and ground troops but has not excluded conventional airstrikes. Iran is reportedly mobilising for war as Saudi Arabia faces fresh Houthi attacks on energy infrastructure, and the UK has advised against all non-essential travel to Saudi Arabia. [CNBC](https://www.cnbc.com/world-politics/)
 
-> [!note]- SG/MY: Malaysia and Singapore formally offer fire management help to Indonesia; highest-level haze alert across SEA (Kompas/France24)
-> Both Malaysia and Singapore have formally offered to assist Indonesia with fire management as haze from Sumatran and Kalimantan peat fires triggers the highest-level pollution alerts across parts of Southeast Asia. Singapore has warned seven Indonesian companies it holds responsible and is weighing invoking the Transboundary Haze Pollution Act. Firefly flight cancellations between Seletar and Subang entered a second straight week as visibility remains poor. [France24](https://www.france24.com/en/live-news/20261017-haze-triggers-highest-level-alert-in-parts-of-southeast-asia-monitor)
+> [!note]- Malaysia: Lim Guan Eng calls for legal action vs Indonesia over haze if ASEAN task force rejected (FMT)
+> DAP leader Lim Guan Eng has urged the government to pursue legal action against Indonesia if Jakarta refuses to accept an ASEAN-coordinated firefighting task force to address the annual haze crisis. Schools in several states have remained disrupted for a second week as Sumatran peat fires push air quality into hazardous territory across peninsular Malaysia. [Free Malaysia Today](https://www.freemalaysiatoday.com/)
 
-> [!note]- Science: World's largest dark matter detector spots single anomalous particle; solar wind hits Earth today (ScienceInsider/EarthSky)
-> The world's biggest dark matter detector reported detecting a single unusual particle event that scientists are investigating as a potential signal beyond the Standard Model. Separately, a high-speed solar wind stream is expected to arrive at Earth around October 20, forecasters say, with minor geomagnetic storm conditions (G1–G2) possible and aurora sightings at higher latitudes. [ScienceInsider](https://www.science.org/news)
-
-> [!note]- Nike (NKE): ~$37.13 (Oct 16 close, pre-open Oct 20) — Deutsche Bank cuts PT to $33; down 48% from avg; P&L ≈ −$1,590 (StockAnalysis/Barchart)
-> Nike's last confirmed close was $37.13 on October 16, about 16% above its October 2 intraday low of $31.97 and within a 52-week range of $31.97–$70.44. Deutsche Bank lowered its price target to $33 from $37, while BTIG remains an outlier bull at $100 Buy. Markets open at 9:30am ET; position: 46 shares @ $71.69 avg; unrealised P&L = 46 × ($37.13 − $71.69) = −$1,590. [StockAnalysis](https://stockanalysis.com/stocks/nke/)
+> [!note]- Science: ESA's Euclid telescope discovers new comet C/2026 S1 during dark-universe survey (Universe Today)
+> ESA's Euclid space telescope — designed to map dark matter and dark energy — has serendipitously detected a previously unknown comet, designated C/2026 S1 (Euclid), during its wide-field sky survey. The discovery adds solar system science to the telescope's cosmology portfolio and demonstrates its value as an unexpected survey instrument. Euclid has now mapped hundreds of millions of galaxies since its 2023 launch. [Universe Today](https://www.universetoday.com/)
 
 > [!note]- [[10-19-26 Mon]]
 >
