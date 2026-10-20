@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-20T09:30
+updated: 2026-10-20T19:04
 topic: daily news
 frequency: daily
 ongoing: false
@@ -79,6 +79,26 @@ unread: true
 
 > [!note]- Science: ESA's Euclid telescope discovers new comet C/2026 S1 during dark-universe survey (Universe Today)
 > ESA's Euclid space telescope — designed to map dark matter and dark energy — has serendipitously detected a previously unknown comet, designated C/2026 S1 (Euclid), during its wide-field sky survey. The discovery adds solar system science to the telescope's cosmology portfolio and demonstrates its value as an unexpected survey instrument. Euclid has now mapped hundreds of millions of galaxies since its 2023 launch. [Universe Today](https://www.universetoday.com/)
+
+> **Evening update**
+
+> [!note]- SG/MY: Haze returns to Singapore Oct 20–22; SEC restricts Asia Pulp & Paper (AsiaOne/NST)
+> Singapore's environmental regulator has imposed temporary restrictions on Asia Pulp & Paper and mandated daily fire reports as Sumatran peat fires push haze toward the island from October 20 to 22. Across the Causeway, an MP has urged Malaysia to enact a cross-border haze law modelled on Singapore's, enabling prosecution of companies behind transboundary pollution if ASEAN-level mechanisms continue to stall. [NST](https://www.nst.com.my/news/nation/2026/10/1559130/mp-malaysia-should-follow-singapores-example-enact-cross-border-haze)
+
+> [!note]- Malaysia: Record economic freedom score 7.57 — 35th globally, 2nd in ASEAN (Malay Mail)
+> Malaysia has achieved its highest-ever score on a major economic freedom index, reaching 7.57 out of 10 and ranking 35th worldwide, though it slipped one spot compared to last year. Singapore retained third place globally, keeping Malaysia as ASEAN's second-freest economy; analysts credit the country's improving trade openness and investment climate. [Malay Mail](https://malaymail.com/news/money/2026/10/19/malaysia-hits-record-economic-freedom-score-but-slips-to-35th-globally/239788)
+
+> [!note]- World: France imposes curfews in Paris and cities after weekend protests erupt into unrest (Open Chronicle)
+> France's government imposed overnight curfews in Paris and several major cities after nationwide protests descended into widespread clashes over the weekend. Italy is also facing widening unrest, with its government reportedly considering troop deployments to restore order as social tensions spread across southern Europe. [Open Chronicle](https://openchronicle.org/2026/10/20/global-news-brief-key-developments-around-the-world-october-20-2026/)
+
+> [!note]- World: Houthi strike kills 50+ at Yemeni camp; Sudan drone strikes kill 150+ (10 Things Global)
+> A Houthi missile strike on a Yemeni government military camp killed more than 50 people, one of the deadliest single strikes in months amid the ongoing civil conflict. Separately, drone strikes in Sudan and the disputed Abyei region killed more than 150 people, deepening what has become one of the world's worst active humanitarian crises. [10 Things Global](https://www.10things.news/p/10-things-global-news-20th-october-7aa)
+
+> [!note]- Tech: DHS bans DeepSeek from civilian federal systems; 8 state AGs sue OpenAI (ABC News/AI Report)
+> The US Department of Homeland Security has barred civilian federal agencies from using DeepSeek's AI tools, citing national security concerns about data handling and the model's Chinese provenance. Separately, attorneys general from eight states filed lawsuits against OpenAI over alleged harms from ChatGPT, joining Florida's AG and escalating state-level legal pressure on frontier AI labs. [ABC News](https://abcnews.go.com/technology)
+
+> [!note]- Science: Non-Abelian anyons confirmed for full range of universal quantum computing (ScienceDaily)
+> Researchers have demonstrated that exotic quantum particles called non-Abelian anyons can perform the complete set of logic operations required for universal quantum computing, a long-sought milestone in topological quantum computing. The advance points toward error-resistant qubits that inherently sidestep decoherence, potentially bringing fault-tolerant quantum computers significantly closer. [ScienceDaily](https://www.sciencedaily.com/)
 
 > [!note]- [[10-19-26 Mon]]
 >
