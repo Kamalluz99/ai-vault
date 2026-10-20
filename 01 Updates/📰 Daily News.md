@@ -123,6 +123,9 @@ unread: true
 > > [!note]- Science: Non-Abelian anyons confirmed for full range of universal quantum computing (ScienceDaily)
 > > Researchers have demonstrated that exotic quantum particles called non-Abelian anyons can perform the complete set of logic operations required for universal quantum computing, a long-sought milestone in topological quantum computing. The advance points toward error-resistant qubits that inherently sidestep decoherence, potentially bringing fault-tolerant quantum computers significantly closer. [ScienceDaily](https://www.sciencedaily.com/)
 
+> [!note]- Nike (NKE): ~$38.10 (+2.3% intraday) — bounces from lows; Dec 17 earnings (StockAnalysis)
+> Nike (NKE) traded around $38.10 midday Tuesday, up roughly 2.3% from Monday's official close of $37.21, as the stock bounced off recent lows amid light short-covering. Analyst consensus is Hold; recent downgrades include Goldman Sachs ($30, Sell) and Berenberg ($27.50, Sell), while Argus maintains a Buy at $42. Next earnings are due December 17, 2026. Position: 46 shares @ $71.69 avg; unrealised P&L = 46 × ($38.10 − $71.69) ≈ −$1,545. [StockAnalysis](https://stockanalysis.com/stocks/nke/)
+
 > [!note]- [[10-19-26 Mon]]
 >
 >
