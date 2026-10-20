@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-20T19:04
+updated: 2026-10-21T05:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -60,45 +60,68 @@ unread: true
 
 ## 2026-10
 
-### [[10-20-26 Tue]]
+### [[10-21-26 Wed]]
 
-> [!note]- AI: Florida AG seeks court order to halt OpenAI model development without oversight (WSJ/TLT)
-> Florida's Attorney General has petitioned a court to bar OpenAI from developing new AI models without independent oversight, in a case centred on alleged harm to minors from ChatGPT. The move is one of the most aggressive state-level legal challenges to a frontier AI lab to date and follows OpenAI's internal cancellation of GPT-6.1 Astra over safety concerns. Separately, Anthropic issued an unusually stark investor warning about advanced AI risks, and China published a draft export-control plan covering 23 AI categories including advanced models and agents. [TLT AI Brief](https://www.tlt.com/insights-and-events/insight/tlts-ai-brief-october-2026)
+> [!note]- AI: OpenAI GPT-6.1 Sol scores 97.9% on COBOL migration eval — up from 5.4% for prior model (AI Weekly)
+> OpenAI's latest reasoning model, GPT-6.1 Sol, hit 97.9% on the company's COBOL code-migration benchmark at max reasoning effort, a dramatic jump from the 5.4% posted by the previous GPT-5.6 Sol. The result highlights rapid capability gains in enterprise code transformation, a market facing a multi-decade COBOL maintenance backlog. China also launched a new state-owned data enterprise Tuesday aimed at strengthening its AI position, as Beijing separately demanded the US reverse its ban on DeepSeek in federal civilian systems. [AI Weekly](https://aiweekly.co/ai-news-today)
 
-> [!note]- Tech: Netflix cuts ~1,000 staff — 6% of workforce — as competition intensifies (TechCrunch)
-> Netflix is laying off approximately 1,000 employees, around 6% of its global workforce, with product and technology teams most affected. The cuts follow a costly bidding war for Warner Bros. content and come as the company bets on AI-assisted production to contain costs. Q3 earnings due Thursday will be the first test of whether that strategy is paying off. [TechCrunch](https://techcrunch.com/2026/10/14/netflix-to-lay-off-1000-staff-amid-intensifying-competition-for-user-attention/)
+> [!note]- Tech: Jio Platforms IPO opens today — India's largest-ever offering at ₹30,213 crore; Meta and Tesla earnings due (Groww)
+> Reliance Industries-backed Jio Platforms opened its IPO Wednesday, with subscriptions closing October 23 and a tentative listing on October 28 — potentially India's largest-ever public offering. Separately, Google released TorchTPU (an open-source PyTorch variant for its TPUs) one day after Amazon shipped TorchNeuron for Trainium chips, marking a week of competing AI hardware toolkits. Meta, Tesla, Lam Research, and Texas Instruments all report earnings today. [Groww](https://groww.in/blog/jio-platforms-ipo-to-open-on-october-21-2026)
 
-> [!note]- Macro: Chipmakers extend slide dragging S&P 500 down 2.1% on week; Brent holds above $107 (Saxo Bank)
-> AI-linked semiconductor stocks continued their sell-off Monday, pushing the S&P 500 to its worst week since June as investors reassess AI valuations ahead of Meta earnings. Brent crude holds above $107/barrel on Hormuz supply risk, gold ranged $4,140–4,190, and Bitcoin sat near $82,000. The Fed enters pre-FOMC blackout with the October 28 rate decision approaching; CME FedWatch puts 89% odds on a December hike. [Saxo Bank](https://www.home.saxo/en-gb/content/articles/macro/market-quick-take---chipmakers-extend-their-slide-as-brent-holds-above-107---19-october-2026-19102026)
+> [!breaking]- Macro: Nasdaq sinks 2%+ as investors question AI capex returns; Brent holds above $107 on Hormuz risk (CNN/Saxo)
+> The Nasdaq fell more than 2% as investors increasingly question whether AI infrastructure spending will translate to revenue, ahead of critical Big Tech earnings. Brent crude holds above $107/barrel on persistent Strait of Hormuz supply risk; the NAHB Housing Index missed forecasts at 29.0 and the MBA 30-year mortgage rate sits at 7.5%. The Fed remains in pre-FOMC blackout (Oct 17–29) with 89% CME FedWatch odds on a December hike. [CNN Markets](https://edition.cnn.com/markets)
 
-> [!breaking]- World: US draws up "Mother of All Bombs" strike plans for Iran; Trump rules out nukes and ground troops (CNBC)
-> The US has reportedly drawn up targeting plans involving the GBU-57 Massive Ordnance Penetrator against Iranian nuclear facilities as Gulf tensions escalate sharply. Trump publicly ruled out nuclear weapons and ground troops but has not excluded conventional airstrikes. Iran is reportedly mobilising for war as Saudi Arabia faces fresh Houthi attacks on energy infrastructure, and the UK has advised against all non-essential travel to Saudi Arabia. [CNBC](https://www.cnbc.com/world-politics/)
+> [!breaking]- World: Ukraine fires 1,000+ drones at 15 Russian regions; Zelensky nearly out of Patriots, offers 30-day refinery truce (Democracy Now/Reuters)
+> Ukraine launched its largest drone assault of the year, striking 15 Russian regions including oil infrastructure. President Zelensky said Ukraine has nearly exhausted its U.S.-made Patriot interceptors and offered a 30-day halt to refinery strikes in exchange for replenishment. A Zelensky–Witkoff meeting was scheduled in Norway. Meanwhile, France imposed curfews in major cities after weekend protests left ~1,000 police injured and 2,400 arrested; the interior minister offered to resign and Macron refused. [Democracy Now](https://www.democracynow.org/2026/10/20/headlines)
 
-> [!note]- Malaysia: Lim Guan Eng calls for legal action vs Indonesia over haze if ASEAN task force rejected (FMT)
-> DAP leader Lim Guan Eng has urged the government to pursue legal action against Indonesia if Jakarta refuses to accept an ASEAN-coordinated firefighting task force to address the annual haze crisis. Schools in several states have remained disrupted for a second week as Sumatran peat fires push air quality into hazardous territory across peninsular Malaysia. [Free Malaysia Today](https://www.freemalaysiatoday.com/)
+> [!note]- Malaysia/Singapore: Haze enters third week; Singapore PM Wong warns of action vs Indonesian companies; 7 firms formally warned (CNBC/NST)
+> Sumatran peat fires continue pushing hazardous air quality into Singapore and Malaysia for a third consecutive week. Singapore PM Lawrence Wong publicly warned of action against companies responsible for transboundary fires; regulators issued formal warnings to seven Indonesian companies and imposed restrictions on Asia Pulp & Paper with mandatory daily fire reporting. Malaysia's DAP leader Lim Guan Eng called for legal action against Indonesia if an ASEAN firefighting task force is rejected. [CNBC](https://www.cnbc.com/2026/10/16/singapore-haze-wong-warning-indonesia.html)
 
-> [!note]- Science: ESA's Euclid telescope discovers new comet C/2026 S1 during dark-universe survey (Universe Today)
-> ESA's Euclid space telescope — designed to map dark matter and dark energy — has serendipitously detected a previously unknown comet, designated C/2026 S1 (Euclid), during its wide-field sky survey. The discovery adds solar system science to the telescope's cosmology portfolio and demonstrates its value as an unexpected survey instrument. Euclid has now mapped hundreds of millions of galaxies since its 2023 launch. [Universe Today](https://www.universetoday.com/)
+> [!note]- Science: Orionid meteor shower peaks tonight — debris of Halley's Comet; dark matter detector spots anomalous particle (NASA/ScienceDaily)
+> The Orionid meteor shower, produced by debris from Halley's Comet, peaks on the night of October 21–22. A bright Moon will wash out fainter meteors, but the shower is worth watching from dark locations. Separately, the world's largest dark matter detector announced detection of a single anomalous particle that does not fit the Standard Model, raising questions for physics beyond current frameworks. [NASA Science](https://science.nasa.gov/solar-system/skywatching/whats-up-october-2026-skywatching-tips-from-nasa/)
 
-> **Evening update**
+> [!note]- Nike (NKE): ~$38.10 (+2.32% Oct 20) — down 41.6% YTD; BofA cuts target to $24; P&L ≈ −$1,545 (Google Finance/Motley Fool)
+> Nike rebounded ~2.3% to approximately $38.10 on October 20, recovering from its October 2 intraday low of $31.97 but still down 41.6% year-to-date. Bank of America cut its price target from $30 to $24 while maintaining Sell, joining Berenberg ($27.50) and Goldman Sachs ($30) on the bearish side. Position: 46 shares @ $71.69 avg; est. unrealised P&L = 46 × ($38.10 − $71.69) = −$1,545. [Motley Fool](https://fool.com/investing/2026/10/20/nike-now-yields-more-than-procter-gamble-and-twice)
 
-> [!note]- SG/MY: Haze returns to Singapore Oct 20–22; SEC restricts Asia Pulp & Paper (AsiaOne/NST)
-> Singapore's environmental regulator has imposed temporary restrictions on Asia Pulp & Paper and mandated daily fire reports as Sumatran peat fires push haze toward the island from October 20 to 22. Across the Causeway, an MP has urged Malaysia to enact a cross-border haze law modelled on Singapore's, enabling prosecution of companies behind transboundary pollution if ASEAN-level mechanisms continue to stall. [NST](https://www.nst.com.my/news/nation/2026/10/1559130/mp-malaysia-should-follow-singapores-example-enact-cross-border-haze)
-
-> [!note]- Malaysia: Record economic freedom score 7.57 — 35th globally, 2nd in ASEAN (Malay Mail)
-> Malaysia has achieved its highest-ever score on a major economic freedom index, reaching 7.57 out of 10 and ranking 35th worldwide, though it slipped one spot compared to last year. Singapore retained third place globally, keeping Malaysia as ASEAN's second-freest economy; analysts credit the country's improving trade openness and investment climate. [Malay Mail](https://malaymail.com/news/money/2026/10/19/malaysia-hits-record-economic-freedom-score-but-slips-to-35th-globally/239788)
-
-> [!note]- World: France imposes curfews in Paris and cities after weekend protests erupt into unrest (Open Chronicle)
-> France's government imposed overnight curfews in Paris and several major cities after nationwide protests descended into widespread clashes over the weekend. Italy is also facing widening unrest, with its government reportedly considering troop deployments to restore order as social tensions spread across southern Europe. [Open Chronicle](https://openchronicle.org/2026/10/20/global-news-brief-key-developments-around-the-world-october-20-2026/)
-
-> [!note]- World: Houthi strike kills 50+ at Yemeni camp; Sudan drone strikes kill 150+ (10 Things Global)
-> A Houthi missile strike on a Yemeni government military camp killed more than 50 people, one of the deadliest single strikes in months amid the ongoing civil conflict. Separately, drone strikes in Sudan and the disputed Abyei region killed more than 150 people, deepening what has become one of the world's worst active humanitarian crises. [10 Things Global](https://www.10things.news/p/10-things-global-news-20th-october-7aa)
-
-> [!note]- Tech: DHS bans DeepSeek from civilian federal systems; 8 state AGs sue OpenAI (ABC News/AI Report)
-> The US Department of Homeland Security has barred civilian federal agencies from using DeepSeek's AI tools, citing national security concerns about data handling and the model's Chinese provenance. Separately, attorneys general from eight states filed lawsuits against OpenAI over alleged harms from ChatGPT, joining Florida's AG and escalating state-level legal pressure on frontier AI labs. [ABC News](https://abcnews.go.com/technology)
-
-> [!note]- Science: Non-Abelian anyons confirmed for full range of universal quantum computing (ScienceDaily)
-> Researchers have demonstrated that exotic quantum particles called non-Abelian anyons can perform the complete set of logic operations required for universal quantum computing, a long-sought milestone in topological quantum computing. The advance points toward error-resistant qubits that inherently sidestep decoherence, potentially bringing fault-tolerant quantum computers significantly closer. [ScienceDaily](https://www.sciencedaily.com/)
+> [!note]- [[10-20-26 Tue]]
+>
+> > [!note]- AI: Florida AG seeks court order to halt OpenAI model development without oversight (WSJ/TLT)
+> > Florida's Attorney General has petitioned a court to bar OpenAI from developing new AI models without independent oversight, in a case centred on alleged harm to minors from ChatGPT. The move is one of the most aggressive state-level legal challenges to a frontier AI lab to date and follows OpenAI's internal cancellation of GPT-6.1 Astra over safety concerns. Separately, Anthropic issued an unusually stark investor warning about advanced AI risks, and China published a draft export-control plan covering 23 AI categories including advanced models and agents. [TLT AI Brief](https://www.tlt.com/insights-and-events/insight/tlts-ai-brief-october-2026)
+>
+> > [!note]- Tech: Netflix cuts ~1,000 staff — 6% of workforce — as competition intensifies (TechCrunch)
+> > Netflix is laying off approximately 1,000 employees, around 6% of its global workforce, with product and technology teams most affected. The cuts follow a costly bidding war for Warner Bros. content and come as the company bets on AI-assisted production to contain costs. Q3 earnings due Thursday will be the first test of whether that strategy is paying off. [TechCrunch](https://techcrunch.com/2026/10/14/netflix-to-lay-off-1000-staff-amid-intensifying-competition-for-user-attention/)
+>
+> > [!note]- Macro: Chipmakers extend slide dragging S&P 500 down 2.1% on week; Brent holds above $107 (Saxo Bank)
+> > AI-linked semiconductor stocks continued their sell-off Monday, pushing the S&P 500 to its worst week since June as investors reassess AI valuations ahead of Meta earnings. Brent crude holds above $107/barrel on Hormuz supply risk, gold ranged $4,140–4,190, and Bitcoin sat near $82,000. The Fed enters pre-FOMC blackout with the October 28 rate decision approaching; CME FedWatch puts 89% odds on a December hike. [Saxo Bank](https://www.home.saxo/en-gb/content/articles/macro/market-quick-take---chipmakers-extend-their-slide-as-brent-holds-above-107---19-october-2026-19102026)
+>
+> > [!breaking]- World: US draws up "Mother of All Bombs" strike plans for Iran; Trump rules out nukes and ground troops (CNBC)
+> > The US has reportedly drawn up targeting plans involving the GBU-57 Massive Ordnance Penetrator against Iranian nuclear facilities as Gulf tensions escalate sharply. Trump publicly ruled out nuclear weapons and ground troops but has not excluded conventional airstrikes. Iran is reportedly mobilising for war as Saudi Arabia faces fresh Houthi attacks on energy infrastructure, and the UK has advised against all non-essential travel to Saudi Arabia. [CNBC](https://www.cnbc.com/world-politics/)
+>
+> > [!note]- Malaysia: Lim Guan Eng calls for legal action vs Indonesia over haze if ASEAN task force rejected (FMT)
+> > DAP leader Lim Guan Eng has urged the government to pursue legal action against Indonesia if Jakarta refuses to accept an ASEAN-coordinated firefighting task force to address the annual haze crisis. Schools in several states have remained disrupted for a second week as Sumatran peat fires push air quality into hazardous territory across peninsular Malaysia. [Free Malaysia Today](https://www.freemalaysiatoday.com/)
+>
+> > [!note]- Science: ESA's Euclid telescope discovers new comet C/2026 S1 during dark-universe survey (Universe Today)
+> > ESA's Euclid space telescope — designed to map dark matter and dark energy — has serendipitously detected a previously unknown comet, designated C/2026 S1 (Euclid), during its wide-field sky survey. The discovery adds solar system science to the telescope's cosmology portfolio and demonstrates its value as an unexpected survey instrument. Euclid has now mapped hundreds of millions of galaxies since its 2023 launch. [Universe Today](https://www.universetoday.com/)
+>
+> > **Evening update**
+>
+> > [!note]- SG/MY: Haze returns to Singapore Oct 20–22; SEC restricts Asia Pulp & Paper (AsiaOne/NST)
+> > Singapore's environmental regulator has imposed temporary restrictions on Asia Pulp & Paper and mandated daily fire reports as Sumatran peat fires push haze toward the island from October 20 to 22. Across the Causeway, an MP has urged Malaysia to enact a cross-border haze law modelled on Singapore's, enabling prosecution of companies behind transboundary pollution if ASEAN-level mechanisms continue to stall. [NST](https://www.nst.com.my/news/nation/2026/10/1559130/mp-malaysia-should-follow-singapores-example-enact-cross-border-haze)
+>
+> > [!note]- Malaysia: Record economic freedom score 7.57 — 35th globally, 2nd in ASEAN (Malay Mail)
+> > Malaysia has achieved its highest-ever score on a major economic freedom index, reaching 7.57 out of 10 and ranking 35th worldwide, though it slipped one spot compared to last year. Singapore retained third place globally, keeping Malaysia as ASEAN's second-freest economy; analysts credit the country's improving trade openness and investment climate. [Malay Mail](https://malaymail.com/news/money/2026/10/19/malaysia-hits-record-economic-freedom-score-but-slips-to-35th-globally/239788)
+>
+> > [!note]- World: France imposes curfews in Paris and cities after weekend protests erupt into unrest (Open Chronicle)
+> > France's government imposed overnight curfews in Paris and several major cities after nationwide protests descended into widespread clashes over the weekend. Italy is also facing widening unrest, with its government reportedly considering troop deployments to restore order as social tensions spread across southern Europe. [Open Chronicle](https://openchronicle.org/2026/10/20/global-news-brief-key-developments-around-the-world-october-20-2026/)
+>
+> > [!note]- World: Houthi strike kills 50+ at Yemeni camp; Sudan drone strikes kill 150+ (10 Things Global)
+> > A Houthi missile strike on a Yemeni government military camp killed more than 50 people, one of the deadliest single strikes in months amid the ongoing civil conflict. Separately, drone strikes in Sudan and the disputed Abyei region killed more than 150 people, deepening what has become one of the world's worst active humanitarian crises. [10 Things Global](https://www.10things.news/p/10-things-global-news-20th-october-7aa)
+>
+> > [!note]- Tech: DHS bans DeepSeek from civilian federal systems; 8 state AGs sue OpenAI (ABC News/AI Report)
+> > The US Department of Homeland Security has barred civilian federal agencies from using DeepSeek's AI tools, citing national security concerns about data handling and the model's Chinese provenance. Separately, attorneys general from eight states filed lawsuits against OpenAI over alleged harms from ChatGPT, joining Florida's AG and escalating state-level legal pressure on frontier AI labs. [ABC News](https://abcnews.go.com/technology)
+>
+> > [!note]- Science: Non-Abelian anyons confirmed for full range of universal quantum computing (ScienceDaily)
+> > Researchers have demonstrated that exotic quantum particles called non-Abelian anyons can perform the complete set of logic operations required for universal quantum computing, a long-sought milestone in topological quantum computing. The advance points toward error-resistant qubits that inherently sidestep decoherence, potentially bringing fault-tolerant quantum computers significantly closer. [ScienceDaily](https://www.sciencedaily.com/)
 
 > [!note]- [[10-19-26 Mon]]
 >
