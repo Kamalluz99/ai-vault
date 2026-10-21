@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-22T05:00
+updated: 2026-10-22T06:30
 topic: daily news
 frequency: daily
 ongoing: false
@@ -62,26 +62,23 @@ unread: true
 
 ### [[10-22-26 Thu]]
 
-> [!note]- AI: Ken Griffin warns AI "almost certainly" in a bubble; US bans DeepSeek from federal agencies (Bloomberg/CIO)
-> Billionaire hedge fund manager Ken Griffin said investors are "almost certainly" in the midst of an AI bubble, comparing current investor euphoria to past tech cycles. Separately, the US Secretary of Homeland Security issued an order banning all DeepSeek products and services from federal agencies, giving departments 60 days to remove them amid supply chain concerns. Asian tech stocks partially rebounded mid-week, with SK Hynix up ~6% on SpaceX AI infrastructure optimism. [Bloomberg](https://www.bloomberg.com/news/articles/2026-10-20/ken-griffin-says-ai-almost-certainly-in-a-bubble-right-now)
+> [!note]- AI: Microsoft reports AI-powered attack hit 2,250 Azure tenants (FourWeekMBA)
+> Microsoft disclosed that an AI-automated cyberattack breached more than 2,250 Azure tenants, among the largest AI-assisted intrusion campaigns on record, using AI to automate lateral movement and credential harvesting across tenant boundaries. The disclosure arrives as the US DHS issued a 60-day order for federal agencies to remove all DeepSeek products over supply chain concerns. Separately, eight US states sued OpenAI this week alleging ChatGPT led users toward dangerous behaviour. [FourWeekMBA](https://fourweekmba.com/ai-daily-roundup-21-oct-2026-ai-run-attack-2250-tenants/)
 
-> [!note]- Tech: OpenAI to bring AI models to Google Cloud, expanding beyond Microsoft (CNBC)
-> OpenAI has signed a deal to make its models available on Google Cloud, marking a significant expansion beyond its primary Microsoft Azure partnership. Eight US states also filed lawsuits alleging ChatGPT caused documented harms to users, adding to growing state-level legal pressure on frontier AI labs. Microsoft separately announced Windows 11 can now keep 2GB more active data in RAM rather than swapping to slower storage. [CNBC](https://www.cnbc.com/technology/)
+> [!note]- Tech: Qualcomm announces global layoffs from November (Electronics Weekly)
+> Qualcomm CEO Cristiano Amon sent an internal memo announcing worldwide performance-based layoffs, with notifications beginning in November — scale undisclosed for a company of ~50,000 employees. eBay separately confirmed cutting roughly 9% of its workforce (~1,000 roles) as it restructures after the Depop acquisition. Both moves extend the year's broad wave of tech workforce reductions. [Electronics Weekly](https://www.electronicsweekly.com/news/business/qualcomm-to-start-worldwide-layoffs-2026-10/)
 
-> [!note]- Macro: S&P 500 +0.58% to 7,757 on partial bounce; WTI $101.79; US orders Gulf embassy staff home (CNBC/Bloomberg)
-> US stocks staged a partial recovery Tuesday — S&P 500 +0.58% to 7,757, Nasdaq +1.05% to 26,703 — helped by chip stocks on SpaceX AI sentiment. Gains pared late as oil climbed on renewed Middle East tension; WTI settled at $101.79 (−1.8%) and Brent at $108.79. The US State Department is preparing ordered departure of some embassy personnel and families from Gulf region posts. [CNBC](https://www.cnbc.com/2026/10/20/stock-market-today-live-updates.html)
+> [!note]- Macro: WTI at $101.79, Dow +1%, Nasdaq down; Fed hold at 83% probability (Mitrade)
+> WTI crude settled near $101.79 and Brent above $107, holding elevated amid Strait of Hormuz supply risk and conflicting US-Iran diplomacy signals. The Dow Jones gained roughly 1% on chip stock sentiment while the Nasdaq dipped on AI capex concerns ahead of Big Tech earnings. Gold fell for a third straight session around $4,120 as higher oil reinforced Fed tightening expectations; traders price an 83% chance of a hold and 94% odds of a December hike. [Mitrade](https://www.mitrade.com/au/insights/daily-market-outlook/news-today/market-news-today-australia-261021)
 
-> [!breaking]- World: US prepares ordered Gulf embassy departures as military tensions peak; Ukraine fires 1,000+ drones at Russia (Reuters/Democracy Now)
-> The US State Department is preparing ordered departure of some staff and families from embassies across the Gulf region as military tensions reach critical levels following reports of US targeting plans for Iranian facilities. Ukraine separately launched its largest drone assault of the year — over 1,000 drones hitting 15 Russian regions including oil infrastructure — and Russia struck Kyiv overnight in response. [Reuters](https://www.reuters.com)
+> [!note]- World: Witkoff meets Putin; Russia demands Ukraine concessions (CBS News)
+> US Special Envoy Steve Witkoff met Vladimir Putin as Moscow signalled Ukraine must make "necessary decisions" to advance peace talks, while Zelensky warned Ukraine's supply of US-made Patriot interceptors is nearly exhausted. France extended nightly curfews across central Paris and Lyon after the worst rioting in years left over 1,000 police injured and 2,400 arrested. The broader US-Iran military confrontation continues to reshape Gulf security alliances, with Saudi Arabia and the UAE reconsidering their relationships with Washington. [CBS News](https://www.cbsnews.com/news/russia-ukraine-war-witkoff-putin-trump-zelenskyy/)
 
-> [!note]- Malaysia/Singapore: Haze enters third consecutive week; PM Wong issues formal threat to Indonesian companies (CNBC/NST)
-> Sumatran peat fires continue pushing hazardous air quality across Singapore and Malaysia for a third week with no sign of abating as wind patterns persist. Singapore PM Lawrence Wong has publicly threatened formal regulatory action against Indonesian firms responsible for transboundary fires; seven companies have been formally warned and Asia Pulp & Paper now faces mandatory daily fire reporting and operational restrictions. [CNBC](https://www.cnbc.com/2026/10/16/singapore-haze-wong-warning-indonesia.html)
+> [!note]- Malaysia: Japan provides RM40m counter-drone system (AJA Newsbites)
+> Japan is providing Malaysia with a counter-drone detection and interdiction system worth approximately RM40 million to bolster border surveillance against drone intrusions. Separately, Malaysia Customs Border Agency director-general Mohd Shuhaily Mohd Zain was charged with assaulting Special Branch officers at KLIA but remains in post pending government direction. Bursa Malaysia opened higher following Wall Street gains. [AJA Newsbites](https://theasian.asia/archives/205448)
 
-> [!note]- Science: Orionid meteor shower peaks Oct 21–22 — Halley's Comet debris; NASA releases 16-galaxy Webb/Chandra gallery (NASA/ScienceDaily)
-> The Orionid meteor shower, produced by debris from Halley's Comet, peaks on the night of October 21–22; a bright waxing gibbous Moon will wash out fainter meteors but watching before dawn from a dark site is still worthwhile. NASA also released a spectacular gallery of 16 galaxies combining Chandra X-ray, James Webb, and Hubble data, revealing black hole jets and star-forming regions in unprecedented detail. [NASA Science](https://science.nasa.gov/solar-system/skywatching/whats-up-october-2026-skywatching-tips-from-nasa/)
-
-> [!note]- Nike (NKE): ~$37.46 (−1.1% Oct 21) — Goldman cuts target to $30; P&L ≈ −$1,575 (Investing.com/MarketBeat)
-> Nike slipped ~1.1% to approximately $37.46 on October 21, lingering near multi-year lows. Goldman Sachs cut its Nike price target from $38 to $30 (Sell), joining Bank of America ($24) and Berenberg ($27.50) on the bearish side as the stock sits 47.7% below the position's average cost. Position: 46 shares @ $71.69 avg; est. unrealised P&L = 46 × ($37.46 − $71.69) = −$1,575. [Investing.com](https://www.investing.com/equities/nike)
+> [!note]- Science: Varda Space tests cancer drug manufacturing in microgravity (Axios)
+> Commercial space company Varda Space Industries launched a mission to test whether low-Earth-orbit microgravity improves manufacturing of a cancer therapeutic, which may crystallise more uniformly in space for better efficacy and shelf life. Previous Varda missions returned drug crystals to Earth for analysis; commercial-scale production remains years away. NASA ISS research is also studying how pneumonia-causing bacteria can cause long-term cardiac damage. [Axios](https://axios.com/2026/10/20/cancer-drugs-space-varda)
 
 
 > [!note]- [[10-21-26 Wed]]
