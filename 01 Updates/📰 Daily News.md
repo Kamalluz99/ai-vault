@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-22T06:30
+updated: 2026-10-22T19:05
 topic: daily news
 frequency: daily
 ongoing: false
@@ -79,6 +79,26 @@ unread: true
 
 > [!note]- Science: Varda Space tests cancer drug manufacturing in microgravity (Axios)
 > Commercial space company Varda Space Industries launched a mission to test whether low-Earth-orbit microgravity improves manufacturing of a cancer therapeutic, which may crystallise more uniformly in space for better efficacy and shelf life. Previous Varda missions returned drug crystals to Earth for analysis; commercial-scale production remains years away. NASA ISS research is also studying how pneumonia-causing bacteria can cause long-term cardiac damage. [Axios](https://axios.com/2026/10/20/cancer-drugs-space-varda)
+
+> **Evening update**
+
+> [!note]- SG/MY: Malaysia September trade surplus surges 65% to RM33.7B — 77th straight month on AI demand (Bernama)
+> Malaysia's trade surplus climbed 65% to RM33.7 billion in September 2026, the country's 77th consecutive monthly surplus, driven by surging exports of electrical and electronic products feeding global AI infrastructure buildouts. Singapore remains a key transit and re-export corridor for these goods, deepening bilateral economic interdependence as AI hardware demand keeps regional trade buoyant. Full-year export momentum positions Malaysia to beat annual trade records set in 2025. [Bernama](https://www.bernama.com/en/)
+
+> [!note]- Malaysia: Perikatan Nasional deregistered by ROS; PAS mulls closer ties with Umno (Malay Mail)
+> The Registrar of Societies cancelled Perikatan Nasional's registration after the opposition coalition failed to rebut the grounds served against it within the required period, dealing a significant blow to former PM Muhyiddin Yassin's political vehicle. PAS spiritual leader Hashim Jasin said the development could free PAS to pursue closer ties with Umno, signalling a potential reshaping of Malaysia's opposition landscape. The deregistration leaves Muhyiddin's allies without a unified electoral brand ahead of the next polls. [Malay Mail](https://www.malaymail.com/)
+
+> [!breaking]- World: Russia strikes Kyiv with ballistic missiles hours after agreeing to peace talks — 1 dead, 22 hurt (AP/SBS)
+> Russian forces launched ballistic missiles and drones at Kyiv on Wednesday, killing one person and injuring 22, in strikes that came just hours after Moscow had signalled readiness to advance peace negotiations. Ukrainian officials condemned the attack as a deliberate bid to sabotage diplomacy, while Zelensky called on Western partners to accelerate air defence deliveries. The assault represents one of the war's starkest diplomatic contradictions to date. [SBS News](https://news.sbs.co.kr/english/article.do?news_id=N1008810065)
+
+> [!note]- World: Houthi missile kills 1 at Saudi Dammam airport; UK deploys fighter jets to kingdom (SBS News)
+> A Houthi missile struck King Fahd International Airport in Dammam, Saudi Arabia, killing one person and injuring eight in one of the most high-profile Gulf attacks this year. Britain responded by deploying fighter aircraft to Saudi Arabia to bolster the kingdom's air defences as Houthi strikes on energy infrastructure intensify. Iran, which backs the Houthis, is reported to be stalling diplomatic engagement ahead of US midterm elections, while seven tankers were reportedly on fire or damaged in the Strait of Hormuz. [SBS News](https://news.sbs.co.kr/english/article.do?news_id=N1008810065)
+
+> [!note]- Tech: AI turns old PHP bugs into working exploits; European government sites go offline (The Neuron AI)
+> Security researchers used AI to reverse-engineer legacy PHP engine vulnerabilities into functional attack code, prompting emergency patches and leading several European governments to take their official websites offline as a precaution. South Korea also activated a nationwide emergency cyber response. OpenAI separately coordinated disclosure with maintainers, security firms, and government agencies ahead of publication, in a case that highlights AI's emerging dual role as both attack enabler and defensive coordination tool. [The Neuron AI](https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-thursday-october-22-2026/)
+
+> [!note]- Macro: Malaysia palm oil poised for all-time October production record; CPO stocks climb to 3.51M tonnes (The Edge)
+> Malaysia's top palm oil growers expect October 2026 output to surpass the previous monthly record of 2.04 million tonnes, which would mark an all-time high for any October on record. The Malaysian Palm Oil Board reported September stocks at 3.51 million tonnes, up sharply month-on-month on seasonal peak harvest. Benchmark CPO futures remain elevated as China and India sustain strong import demand, with full-year production projected between 19.5 million and 19.8 million tonnes. [The Edge Malaysia](https://theedgemalaysia.com/node/821487)
 
 
 > [!note]- [[10-21-26 Wed]]
