@@ -1,4 +1,9 @@
 {
+  "permissions": {
+    "allow": [
+      "mcp__1e29f671-19bc-494a-be75-02ee513cdc38__*"
+    ]
+  },
   "hooks": {
     "PostToolUse": [
       {
