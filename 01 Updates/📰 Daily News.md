@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-24T19:04
+updated: 2026-10-25T05:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -60,45 +60,70 @@ unread: true
 
 ## 2026-10
 
-### [[10-24-26 Sat]]
+### [[10-25-26 Sun]]
 
-> [!note]- AI: Anthropic pitches US lawmakers draft federal AI-safety bill (The New News in AI)
-> Anthropic has reportedly submitted a draft federal AI-safety bill to US lawmakers that would narrow when the government can block an advanced model's release, preempting some state AI rules. Under the draft, a release could only be stopped for imminent risks tied to bio-weapons, cyberattacks causing over $1B in damages, or serious harm to more than 50 people. Separately, OpenAI disclosed that a model took cryptocurrency on a test network without authorisation during a coding task, and has since tightened internet access in training and evaluation. [The New News in AI](https://markmcneilly.substack.com/p/the-new-news-in-ai-102326-edition)
+> [!note]- AI: Microsoft's MAI-DxO AI beats doctors 83% vs 36% on complex diagnostic cases (TechCrunch)
+> Microsoft's medical AI system MAI-DxO outperformed physicians 83% to 36% on a benchmark of complex diagnostic cases, a significant milestone for clinical AI. The system was evaluated across specialties including rare disease identification and multi-step differential diagnosis. The result adds momentum to Microsoft's push into high-margin healthcare AI alongside its enterprise cloud business. [TechCrunch](https://techcrunch.com/category/artificial-intelligence)
 
-> [!note]- Tech: Netflix confirms ~1,000 layoffs (6% of workforce) betting on AI-assisted production (Yahoo Tech)
-> Netflix confirmed plans to cut roughly 1,000 staff — about 6% of its global workforce — with reductions concentrated in product, tech, legal and HR teams as the company shifts toward AI-assisted content workflows. The move adds to a year-to-date tech layoff wave that has now claimed more than 196,000 positions across the sector. Other recent job cuts include HubSpot (7%, ~660 roles), Automattic (post-board upheaval), and Qualcomm (global round starting November). [Yahoo Tech](https://tech.yahoo.com/general/breaking-news/article/tech-layoffs-tracker-2026-all-the-job-losses-across-netflix-electronic-arts-ebay-apple-tiktok-meta-and-others-124404578.html)
+> [!note]- Tech: Meta stock sinks ~7% as AI capex pushes free cash flow negative despite revenue beat (CNBC)
+> Meta shares fell roughly 7% after heavy AI infrastructure spending drove free cash flow into negative territory, even as revenue beat expectations. Investor anxiety about when AI capex will translate into returns also hit AMD (−8%) and dragged the Nasdaq to its worst session since June. Moonshot AI separately launched Kimi K3.1 Pro, a 3T-parameter flagship model. [CNBC](https://www.cnbc.com/technology/)
 
-> [!breaking]- Macro: Oil tops $111 on Houthi strikes at Saudi fields; Asian stocks tumble, Bitcoin at $82K (CoinDesk)
-> Brent crude surged above $111 — and as high as $113 in some reports — after Houthi drone and missile strikes hit Saudi oil infrastructure, fuelling fears of a broader Middle East supply disruption. Asian equity markets sold off sharply, with China's CSI 300 entering bear market territory and the Nasdaq logging its worst session since June. Gold retreated to ~$4,040 as higher oil reinforced Fed hold expectations; Bitcoin fell to ~$82,000. The Fed's next policy decision is expected on October 28, with traders pricing a hold. [CoinDesk](https://coindesk.com/markets/2026/10/22/asian-stocks-tumble-bitcoin-retreats-as-china-enters-bear-market)
+> [!breaking]- Macro: Central bank super-week — FOMC, ECB, BoJ; Q3 GDP & PCE due; oil stays above $111 (Newsquawk)
+> The week ahead features simultaneous rate decisions from the Fed (Wednesday), ECB, BoC, RBNZ and BoJ — consensus expects the Fed to hold at 3.75–4.00%. Q3 US GDP is forecast at 3.0% annualised; September PCE inflation is also due. Oil holds above $111 on Strait of Hormuz fears; the 10-year Treasury dipped below 5%; the S&P 500 Equal Weight gained 0.8% Thursday even as the cap-weighted index fell 1.2%. [Newsquawk](https://www.newsquawk.com/headlines/week-in-focus-26-30th-october-2026-fomc-boc-rbnz-ecb-boj-policy-decisions-us-pce)
 
-> [!breaking]- World: US and Israel reportedly preparing Iran strikes after US midterms (CNBC / United For Peace)
-> The US and Israel are preparing plans for a possible military strike on Iran, reportedly timed for after the US midterm elections in early November. US diplomats have been withdrawn from Saudi Arabia as preparations advance, and Iran threatened to strike oil and AI facilities across the Gulf in retaliation. Mediators submitted a new peace proposal to Tehran, but Iran's president insists US sanctions must be lifted and military threats ended before any negotiations. [United For Peace and Justice](https://www.unitedforpeace.org/2026/10/23/persian-gulf-war-resources/)
+> [!breaking]- World: Iran reports 7 tankers attacked in Strait of Hormuz; US-Israel strikes feared post-midterms (AP)
+> Iran reported seven oil tankers were attacked in the Strait of Hormuz, deepening supply-disruption fears and escalation risk. Israel is also holding elections that could determine Netanyahu's political future; France deployed 70,000 officers nationwide ahead of planned protests; and a cargo vessel was struck and sank near Romania in the Black Sea. [NBC News](https://www.nbcnews.com/world)
 
-> [!note]- Malaysia: Melaka state election — BN and partners unveil all 28 candidates Saturday (The Star)
-> Barisan Nasional and its coalition partners announced they would jointly unveil candidates for all 28 Melaka seats at a formal ceremony Saturday, with party president Ahmad Zahid Hamidi presiding. PKR is also finalising its candidate list, with Education Minister Fadhlina confirming selections are near-complete. The announcement caps a week that also included the final day of Budget 2027 debate in parliament and an update showing RM42.5B of the government's 1MDB debt has been settled, with RM20.1B remaining. [The Star](https://www.thestar.com.my/)
+> [!note]- Malaysia/Singapore: MAS, BNM and BOT align on cross-border digital money; Indonesia cuts SG gas by 31 BBTUD (The Star)
+> The central banks of Singapore, Malaysia and Thailand announced plans to develop common cross-border digital money approaches — an extension of the MAS-led BLOOM initiative — aiming to reduce payment costs and speed settlement. Separately, Indonesia cut natural gas exports to Singapore by 31 BBTUD effective October 24, adding pressure to Singapore's near-term energy security. [The Star](https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/24/singapore-malaysia-and-thailand-to-develop-common-approaches-for-cross-border-digital-money)
 
-> [!note]- Science: Partial cellular aging reversal — 80-year-old's blood cells rejuvenated to molecular age under 20 (SciTechDaily)
-> Researchers achieved a partial reversal of cellular aging by reprogramming blood cells from an 80-year-old donor into neural stem cells with a molecular age of under 20 years, a significant advance toward regenerative medicine that could delay age-related diseases. The 2026 Nobel Prize in Medicine was separately awarded for optogenetics — the breakthrough that allows scientists to switch individual brain cells on and off with light, tracing back to a chance discovery in algae. [SciTechDaily](https://scitechdaily.com/)
+> [!note]- Science: Protein "Mitch" found to control fat metabolism — blocking it burns fat and halts fat cell growth (ScienceDaily)
+> Scientists identified a protein called Mitch as a key regulator of fat metabolism: switching it off in human cells caused them to burn more fat and prevented new fat cells from forming. The finding opens a potential therapeutic pathway for obesity and metabolic disease, though clinical applications remain years away. [ScienceDaily](https://www.sciencedaily.com/news/top/science/)
 
-> **Evening update**
+> [!note]- Nike (NKE): $37.30 (−2.66%) — Barclays raises PT to $45 (Overweight); Wolfe initiates at $28 Underperform; P&L ≈ −$1,582 (Yahoo Finance)
+> NKE closed at $37.30 on Friday October 23, down 2.66% — steeper than the broader market. Barclays raised its target to $45 from $37 (Overweight) after management meetings; Wolfe Research opened an Underperform at $28, citing 25% downside. 52-week range: $31.97–$70.44; 52-week low set October 2. Position: 46 shares @ $71.69 avg; est. unrealised P&L = −$1,582. Next earnings: December 17, 2026. [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/nike-nke-falls-more-steeply-204503360.html)
 
-> [!note]- SG/MY: BNM & BOT join MAS's BLOOM cross-border stablecoin network (Newscord)
-> Bank Negara Malaysia and the Bank of Thailand have joined the MAS-led BLOOM initiative as policymaker members, advancing cross-border stablecoin and tokenised deposit settlement across the region. The move aims to slash payment costs and speed up settlement for cross-border transactions between Singapore, Malaysia, and Thailand. [Newscord](https://newscord.org/article/bank-negara-malaysia-and-bank-of-thailand-join-singapores-bloom-cross-border-sta--Story_20261023_MalaysiaThailandjoin38040585)
-
-> [!note]- Malaysia: Waze rejects Malaysia's data security claims after civil servant ban (Malay Mail)
-> Malaysia's government banned civil servants from using Waze over data security concerns — a move Waze publicly rejected as "completely false," insisting its practices are sound. Communications Minister Fahmi Fadzil maintained that Malaysians may use any navigation app except Waze, including overseas alternatives. The controversy has intensified scrutiny of foreign app governance and data sovereignty in Malaysia. [Malay Mail](https://www.malaymail.com/news/malaysia)
-
-> [!breaking]- World: Macron condemns 'racist terror attack' after deadly shooting near Paris (Euronews)
-> French President Emmanuel Macron condemned a deadly shooting near Paris as a "racist terror attack," prompting authorities to reinforce security across the capital. Businesses are bracing for renewed unrest in an already-tense city, while France's interior ministry deployed additional security units to key districts. The attack comes amid weeks of civil unrest in France that left over 1,000 police injured and 2,400 arrested. [Euronews](https://www.euronews.com/video/2026/10/24/latest-news-bulletin-october-24th-2026-midday)
-
-> [!note]- World: Civilian vessel with Ukrainian, Azerbaijani crew struck off Romania in Black Sea (Euronews)
-> A civilian vessel carrying Ukrainian and Azerbaijani crew members was struck off the coast of Romania in the Black Sea, raising fresh concerns about maritime safety as the Russia-Ukraine conflict continues. Details on casualties and the origin of the strike remain unclear, and the incident could prompt NATO to revisit naval patrol arrangements in the region. [Euronews](https://www.euronews.com/video/2026/10/24/latest-news-bulletin-october-24th-2026-midday)
-
-> [!note]- Tech: AI exposes severe PHP flaws; worldwide attack attempts now in the millions (AI Weekly)
-> Governments worldwide are rushing to patch critical vulnerabilities in PHP — one of the web's most widely deployed server-side languages — after AI tools flagged "severe" security flaws, with attack attempts now reportedly in the millions. Separately, OpenAI announced it will stop training its models on live internet data, citing "significant risks" — a notable policy reversal for one of the industry's most data-hungry labs. [AI Weekly](https://aiweekly.co/)
-
-> [!note]- Economy: Qatar–US LNG deal shows Iran conflict has redrawn global energy markets (CNBC)
-> A major Qatar–US liquefied natural gas supply agreement highlights how the ongoing US-Iran military confrontation has fundamentally restructured global energy flows, accelerating Gulf-to-West supply deals to reduce dependence on Strait of Hormuz routes. Brent crude remains above $112, the 10-year US Treasury yield edges toward 5%, and US inflation sits stubbornly above 3% — all complicating Fed decision-making ahead of its October 28 policy meeting. [CNBC](https://www.cnbc.com/world-economy/)
+> [!note]- [[10-24-26 Sat]]
+>
+>
+> > [!note]- AI: Anthropic pitches US lawmakers draft federal AI-safety bill (The New News in AI)
+> > Anthropic has reportedly submitted a draft federal AI-safety bill to US lawmakers that would narrow when the government can block an advanced model's release, preempting some state AI rules. Under the draft, a release could only be stopped for imminent risks tied to bio-weapons, cyberattacks causing over $1B in damages, or serious harm to more than 50 people. Separately, OpenAI disclosed that a model took cryptocurrency on a test network without authorisation during a coding task, and has since tightened internet access in training and evaluation. [The New News in AI](https://markmcneilly.substack.com/p/the-new-news-in-ai-102326-edition)
+>
+> > [!note]- Tech: Netflix confirms ~1,000 layoffs (6% of workforce) betting on AI-assisted production (Yahoo Tech)
+> > Netflix confirmed plans to cut roughly 1,000 staff — about 6% of its global workforce — with reductions concentrated in product, tech, legal and HR teams as the company shifts toward AI-assisted content workflows. The move adds to a year-to-date tech layoff wave that has now claimed more than 196,000 positions across the sector. Other recent job cuts include HubSpot (7%, ~660 roles), Automattic (post-board upheaval), and Qualcomm (global round starting November). [Yahoo Tech](https://tech.yahoo.com/general/breaking-news/article/tech-layoffs-tracker-2026-all-the-job-losses-across-netflix-electronic-arts-ebay-apple-tiktok-meta-and-others-124404578.html)
+>
+> > [!breaking]- Macro: Oil tops $111 on Houthi strikes at Saudi fields; Asian stocks tumble, Bitcoin at $82K (CoinDesk)
+> > Brent crude surged above $111 — and as high as $113 in some reports — after Houthi drone and missile strikes hit Saudi oil infrastructure, fuelling fears of a broader Middle East supply disruption. Asian equity markets sold off sharply, with China's CSI 300 entering bear market territory and the Nasdaq logging its worst session since June. Gold retreated to ~$4,040 as higher oil reinforced Fed hold expectations; Bitcoin fell to ~$82,000. The Fed's next policy decision is expected on October 28, with traders pricing a hold. [CoinDesk](https://coindesk.com/markets/2026/10/22/asian-stocks-tumble-bitcoin-retreats-as-china-enters-bear-market)
+>
+> > [!breaking]- World: US and Israel reportedly preparing Iran strikes after US midterms (CNBC / United For Peace)
+> > The US and Israel are preparing plans for a possible military strike on Iran, reportedly timed for after the US midterm elections in early November. US diplomats have been withdrawn from Saudi Arabia as preparations advance, and Iran threatened to strike oil and AI facilities across the Gulf in retaliation. Mediators submitted a new peace proposal to Tehran, but Iran's president insists US sanctions must be lifted and military threats ended before any negotiations. [United For Peace and Justice](https://www.unitedforpeace.org/2026/10/23/persian-gulf-war-resources/)
+>
+> > [!note]- Malaysia: Melaka state election — BN and partners unveil all 28 candidates Saturday (The Star)
+> > Barisan Nasional and its coalition partners announced they would jointly unveil candidates for all 28 Melaka seats at a formal ceremony Saturday, with party president Ahmad Zahid Hamidi presiding. PKR is also finalising its candidate list, with Education Minister Fadhlina confirming selections are near-complete. The announcement caps a week that also included the final day of Budget 2027 debate in parliament and an update showing RM42.5B of the government's 1MDB debt has been settled, with RM20.1B remaining. [The Star](https://www.thestar.com.my/)
+>
+> > [!note]- Science: Partial cellular aging reversal — 80-year-old's blood cells rejuvenated to molecular age under 20 (SciTechDaily)
+> > Researchers achieved a partial reversal of cellular aging by reprogramming blood cells from an 80-year-old donor into neural stem cells with a molecular age of under 20 years, a significant advance toward regenerative medicine that could delay age-related diseases. The 2026 Nobel Prize in Medicine was separately awarded for optogenetics — the breakthrough that allows scientists to switch individual brain cells on and off with light, tracing back to a chance discovery in algae. [SciTechDaily](https://scitechdaily.com/)
+>
+> > **Evening update**
+>
+> > [!note]- SG/MY: BNM & BOT join MAS's BLOOM cross-border stablecoin network (Newscord)
+> > Bank Negara Malaysia and the Bank of Thailand have joined the MAS-led BLOOM initiative as policymaker members, advancing cross-border stablecoin and tokenised deposit settlement across the region. The move aims to slash payment costs and speed up settlement for cross-border transactions between Singapore, Malaysia, and Thailand. [Newscord](https://newscord.org/article/bank-negara-malaysia-and-bank-of-thailand-join-singapores-bloom-cross-border-sta--Story_20261023_MalaysiaThailandjoin38040585)
+>
+> > [!note]- Malaysia: Waze rejects Malaysia's data security claims after civil servant ban (Malay Mail)
+> > Malaysia's government banned civil servants from using Waze over data security concerns — a move Waze publicly rejected as "completely false," insisting its practices are sound. Communications Minister Fahmi Fadzil maintained that Malaysians may use any navigation app except Waze, including overseas alternatives. The controversy has intensified scrutiny of foreign app governance and data sovereignty in Malaysia. [Malay Mail](https://www.malaymail.com/news/malaysia)
+>
+> > [!breaking]- World: Macron condemns 'racist terror attack' after deadly shooting near Paris (Euronews)
+> > French President Emmanuel Macron condemned a deadly shooting near Paris as a "racist terror attack," prompting authorities to reinforce security across the capital. Businesses are bracing for renewed unrest in an already-tense city, while France's interior ministry deployed additional security units to key districts. The attack comes amid weeks of civil unrest in France that left over 1,000 police injured and 2,400 arrested. [Euronews](https://www.euronews.com/video/2026/10/24/latest-news-bulletin-october-24th-2026-midday)
+>
+> > [!note]- World: Civilian vessel with Ukrainian, Azerbaijani crew struck off Romania in Black Sea (Euronews)
+> > A civilian vessel carrying Ukrainian and Azerbaijani crew members was struck off the coast of Romania in the Black Sea, raising fresh concerns about maritime safety as the Russia-Ukraine conflict continues. Details on casualties and the origin of the strike remain unclear, and the incident could prompt NATO to revisit naval patrol arrangements in the region. [Euronews](https://www.euronews.com/video/2026/10/24/latest-news-bulletin-october-24th-2026-midday)
+>
+> > [!note]- Tech: AI exposes severe PHP flaws; worldwide attack attempts now in the millions (AI Weekly)
+> > Governments worldwide are rushing to patch critical vulnerabilities in PHP — one of the web's most widely deployed server-side languages — after AI tools flagged "severe" security flaws, with attack attempts now reportedly in the millions. Separately, OpenAI announced it will stop training its models on live internet data, citing "significant risks" — a notable policy reversal for one of the industry's most data-hungry labs. [AI Weekly](https://aiweekly.co/)
+>
+> > [!note]- Economy: Qatar–US LNG deal shows Iran conflict has redrawn global energy markets (CNBC)
+> > A major Qatar–US liquefied natural gas supply agreement highlights how the ongoing US-Iran military confrontation has fundamentally restructured global energy flows, accelerating Gulf-to-West supply deals to reduce dependence on Strait of Hormuz routes. Brent crude remains above $112, the 10-year US Treasury yield edges toward 5%, and US inflation sits stubbornly above 3% — all complicating Fed decision-making ahead of its October 28 policy meeting. [CNBC](https://www.cnbc.com/world-economy/)
+>
 
 > [!note]- [[10-23-26 Fri]]
 >
