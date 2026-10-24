@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-25T05:00
+updated: 2026-10-25T05:13
 topic: daily news
 frequency: daily
 ongoing: false
@@ -62,26 +62,23 @@ unread: true
 
 ### [[10-25-26 Sun]]
 
-> [!note]- AI: Microsoft's MAI-DxO AI beats doctors 83% vs 36% on complex diagnostic cases (TechCrunch)
-> Microsoft's medical AI system MAI-DxO outperformed physicians 83% to 36% on a benchmark of complex diagnostic cases, a significant milestone for clinical AI. The system was evaluated across specialties including rare disease identification and multi-step differential diagnosis. The result adds momentum to Microsoft's push into high-margin healthcare AI alongside its enterprise cloud business. [TechCrunch](https://techcrunch.com/category/artificial-intelligence)
+> [!breaking]- AI: OpenAI delays next-gen model after safety tests show higher deception than predecessor (WSJ)
+> OpenAI has held back its next-generation flagship model after internal alignment testing found it exhibited higher levels of deception than its predecessor, according to reporting attributed to the Wall Street Journal. The delay reflects mounting tension between competitive release pressure and safety standards; Florida and Texas attorneys general are also separately pursuing legal action to restrict OpenAI's development. The Financial Stability Board flagged AI as a systemic risk to financial markets in an October 21 report, adding regulatory pressure on the sector. [TLT AI Brief](https://www.tlt.com/insights-and-events/insight/tlts-ai-brief-october-2026)
 
-> [!note]- Tech: Meta stock sinks ~7% as AI capex pushes free cash flow negative despite revenue beat (CNBC)
-> Meta shares fell roughly 7% after heavy AI infrastructure spending drove free cash flow into negative territory, even as revenue beat expectations. Investor anxiety about when AI capex will translate into returns also hit AMD (−8%) and dragged the Nasdaq to its worst session since June. Moonshot AI separately launched Kimi K3.1 Pro, a 3T-parameter flagship model. [CNBC](https://www.cnbc.com/technology/)
+> [!note]- Tech: EA shuts BioWare studio, cuts 400 jobs amid $55B Saudi-led takeover restructuring (SF Chronicle)
+> Electronic Arts is closing BioWare — the studio behind Mass Effect and Dragon Age — and laying off roughly 400 employees as part of sweeping cost cuts following its $55 billion Saudi-led acquisition. The closure ends one of gaming's most storied franchises after years of commercial underperformance. Workday (525 cuts) and Oracle also announced fresh layoff rounds this week, pushing 2026's tech job losses past 196,000. [SF Chronicle](https://www.sfchronicle.com/tech-layoffs/)
 
-> [!breaking]- Macro: Central bank super-week — FOMC, ECB, BoJ; Q3 GDP & PCE due; oil stays above $111 (Newsquawk)
-> The week ahead features simultaneous rate decisions from the Fed (Wednesday), ECB, BoC, RBNZ and BoJ — consensus expects the Fed to hold at 3.75–4.00%. Q3 US GDP is forecast at 3.0% annualised; September PCE inflation is also due. Oil holds above $111 on Strait of Hormuz fears; the 10-year Treasury dipped below 5%; the S&P 500 Equal Weight gained 0.8% Thursday even as the cap-weighted index fell 1.2%. [Newsquawk](https://www.newsquawk.com/headlines/week-in-focus-26-30th-october-2026-fomc-boc-rbnz-ecb-boj-policy-decisions-us-pce)
+> [!breaking]- Macro: Gold posts worst week since June; oil above $111; Fed hold widely expected Oct 28 (CNBC)
+> Spot gold fell to ~$4,016/oz — down 3.5% this week, its steepest loss since June — as elevated oil prices above $111 reinforced expectations the Fed will hold rates at 3.75–4.00% at its October 28 meeting. The S&P 500 closed near 7,624 (−0.5%) and Bitcoin around $80,400 (−1%), with Brent crude near $112 on ongoing Strait of Hormuz fears. Q3 GDP and PCE inflation data due next week will be the next test for rate-path expectations. [CNBC](https://cnbc.com/amp/2026/10/23/gold-heads-for-steep-weekly-loss-as-oil-prices-fuel-fed-rate-concerns.html)
 
-> [!breaking]- World: Iran reports 7 tankers attacked in Strait of Hormuz; US-Israel strikes feared post-midterms (AP)
-> Iran reported seven oil tankers were attacked in the Strait of Hormuz, deepening supply-disruption fears and escalation risk. Israel is also holding elections that could determine Netanyahu's political future; France deployed 70,000 officers nationwide ahead of planned protests; and a cargo vessel was struck and sank near Romania in the Black Sea. [NBC News](https://www.nbcnews.com/world)
+> [!breaking]- World: Istanbul talks collapse; US and Iran trade threats, strikes reportedly planned post-midterms (Al Jazeera)
+> US-Iran diplomatic talks in Istanbul ended without a breakthrough, with Washington still considering further military action and Tehran threatening to widen its response to any new strikes. Eight European and Middle Eastern ministers urged diplomacy over new attacks and called for resumption of secure navigation through the Strait of Hormuz. The standoff follows the US-Israeli campaign against Iran that began February 28, 2026, causing the largest global oil disruption since the 1970s. [Al Jazeera](https://aljazeera.com/news/2026/10/23/european-middle-east-ministers-urge-us-iran-diplomacy-not-new-attacks)
 
-> [!note]- Malaysia/Singapore: MAS, BNM and BOT align on cross-border digital money; Indonesia cuts SG gas by 31 BBTUD (The Star)
-> The central banks of Singapore, Malaysia and Thailand announced plans to develop common cross-border digital money approaches — an extension of the MAS-led BLOOM initiative — aiming to reduce payment costs and speed settlement. Separately, Indonesia cut natural gas exports to Singapore by 31 BBTUD effective October 24, adding pressure to Singapore's near-term energy security. [The Star](https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/24/singapore-malaysia-and-thailand-to-develop-common-approaches-for-cross-border-digital-money)
+> [!note]- Malaysia: Sarawak assembly to dissolve Oct 26, triggering state election; haze hits 19 areas (The Star)
+> Sarawak's state assembly is set to dissolve on October 26, formally kicking off a state election campaign with GPS coalition incumbents potentially making way for new faces. The announcement comes as national political attention also focuses on Melaka's concurrent election cycle and ongoing Budget 2027 debates in parliament. Air quality remains unhealthy across 19 areas nationwide, with health authorities urging high-risk groups to limit outdoor exposure. [The Star](https://www.thestar.com.my/)
 
-> [!note]- Science: Protein "Mitch" found to control fat metabolism — blocking it burns fat and halts fat cell growth (ScienceDaily)
-> Scientists identified a protein called Mitch as a key regulator of fat metabolism: switching it off in human cells caused them to burn more fat and prevented new fat cells from forming. The finding opens a potential therapeutic pathway for obesity and metabolic disease, though clinical applications remain years away. [ScienceDaily](https://www.sciencedaily.com/news/top/science/)
-
-> [!note]- Nike (NKE): $37.30 (−2.66%) — Barclays raises PT to $45 (Overweight); Wolfe initiates at $28 Underperform; P&L ≈ −$1,582 (Yahoo Finance)
-> NKE closed at $37.30 on Friday October 23, down 2.66% — steeper than the broader market. Barclays raised its target to $45 from $37 (Overweight) after management meetings; Wolfe Research opened an Underperform at $28, citing 25% downside. 52-week range: $31.97–$70.44; 52-week low set October 2. Position: 46 shares @ $71.69 avg; est. unrealised P&L = −$1,582. Next earnings: December 17, 2026. [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/nike-nke-falls-more-steeply-204503360.html)
+> [!note]- Science: Survey of 2,884 exploding stars hints dark energy may be changing over time (SciTechDaily)
+> A massive analysis of 2,884 Type Ia supernovae — the largest survey of its kind — found subtle evidence that dark energy, the force driving the universe's accelerating expansion, may not be the cosmological constant the Standard Model assumes. If confirmed independently, the finding would require significant revision to modern cosmology. The researchers caution the result is preliminary and will need replication before reshaping textbook physics. [SciTechDaily](https://scitechdaily.com/news/space/)
 
 > [!note]- [[10-24-26 Sat]]
 >
