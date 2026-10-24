@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-24T08:00
+updated: 2026-10-24T19:04
 topic: daily news
 frequency: daily
 ongoing: false
@@ -79,6 +79,26 @@ unread: true
 
 > [!note]- Science: Partial cellular aging reversal — 80-year-old's blood cells rejuvenated to molecular age under 20 (SciTechDaily)
 > Researchers achieved a partial reversal of cellular aging by reprogramming blood cells from an 80-year-old donor into neural stem cells with a molecular age of under 20 years, a significant advance toward regenerative medicine that could delay age-related diseases. The 2026 Nobel Prize in Medicine was separately awarded for optogenetics — the breakthrough that allows scientists to switch individual brain cells on and off with light, tracing back to a chance discovery in algae. [SciTechDaily](https://scitechdaily.com/)
+
+> **Evening update**
+
+> [!note]- SG/MY: BNM & BOT join MAS's BLOOM cross-border stablecoin network (Newscord)
+> Bank Negara Malaysia and the Bank of Thailand have joined the MAS-led BLOOM initiative as policymaker members, advancing cross-border stablecoin and tokenised deposit settlement across the region. The move aims to slash payment costs and speed up settlement for cross-border transactions between Singapore, Malaysia, and Thailand. [Newscord](https://newscord.org/article/bank-negara-malaysia-and-bank-of-thailand-join-singapores-bloom-cross-border-sta--Story_20261023_MalaysiaThailandjoin38040585)
+
+> [!note]- Malaysia: Waze rejects Malaysia's data security claims after civil servant ban (Malay Mail)
+> Malaysia's government banned civil servants from using Waze over data security concerns — a move Waze publicly rejected as "completely false," insisting its practices are sound. Communications Minister Fahmi Fadzil maintained that Malaysians may use any navigation app except Waze, including overseas alternatives. The controversy has intensified scrutiny of foreign app governance and data sovereignty in Malaysia. [Malay Mail](https://www.malaymail.com/news/malaysia)
+
+> [!breaking]- World: Macron condemns 'racist terror attack' after deadly shooting near Paris (Euronews)
+> French President Emmanuel Macron condemned a deadly shooting near Paris as a "racist terror attack," prompting authorities to reinforce security across the capital. Businesses are bracing for renewed unrest in an already-tense city, while France's interior ministry deployed additional security units to key districts. The attack comes amid weeks of civil unrest in France that left over 1,000 police injured and 2,400 arrested. [Euronews](https://www.euronews.com/video/2026/10/24/latest-news-bulletin-october-24th-2026-midday)
+
+> [!note]- World: Civilian vessel with Ukrainian, Azerbaijani crew struck off Romania in Black Sea (Euronews)
+> A civilian vessel carrying Ukrainian and Azerbaijani crew members was struck off the coast of Romania in the Black Sea, raising fresh concerns about maritime safety as the Russia-Ukraine conflict continues. Details on casualties and the origin of the strike remain unclear, and the incident could prompt NATO to revisit naval patrol arrangements in the region. [Euronews](https://www.euronews.com/video/2026/10/24/latest-news-bulletin-october-24th-2026-midday)
+
+> [!note]- Tech: AI exposes severe PHP flaws; worldwide attack attempts now in the millions (AI Weekly)
+> Governments worldwide are rushing to patch critical vulnerabilities in PHP — one of the web's most widely deployed server-side languages — after AI tools flagged "severe" security flaws, with attack attempts now reportedly in the millions. Separately, OpenAI announced it will stop training its models on live internet data, citing "significant risks" — a notable policy reversal for one of the industry's most data-hungry labs. [AI Weekly](https://aiweekly.co/)
+
+> [!note]- Economy: Qatar–US LNG deal shows Iran conflict has redrawn global energy markets (CNBC)
+> A major Qatar–US liquefied natural gas supply agreement highlights how the ongoing US-Iran military confrontation has fundamentally restructured global energy flows, accelerating Gulf-to-West supply deals to reduce dependence on Strait of Hormuz routes. Brent crude remains above $112, the 10-year US Treasury yield edges toward 5%, and US inflation sits stubbornly above 3% — all complicating Fed decision-making ahead of its October 28 policy meeting. [CNBC](https://www.cnbc.com/world-economy/)
 
 > [!note]- [[10-23-26 Fri]]
 >
