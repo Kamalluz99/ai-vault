@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-25T05:13
+updated: 2026-10-25T19:06
 topic: daily news
 frequency: daily
 ongoing: false
@@ -79,6 +79,26 @@ unread: true
 
 > [!note]- Science: Survey of 2,884 exploding stars hints dark energy may be changing over time (SciTechDaily)
 > A massive analysis of 2,884 Type Ia supernovae — the largest survey of its kind — found subtle evidence that dark energy, the force driving the universe's accelerating expansion, may not be the cosmological constant the Standard Model assumes. If confirmed independently, the finding would require significant revision to modern cosmology. The researchers caution the result is preliminary and will need replication before reshaping textbook physics. [SciTechDaily](https://scitechdaily.com/news/space/)
+
+> **Evening update**
+
+> [!note]- SG/MY: MAS, BNM and BOT to align on cross-border digital money (The Star)
+> The central banks of Singapore, Malaysia and Thailand announced plans to develop common approaches for cross-border digital money, covering payment interoperability and regulatory alignment. The Monetary Authority of Singapore, Bank Negara Malaysia and the Bank of Thailand will collaborate on frameworks enabling seamless digital transactions across the three economies. The initiative builds on the existing PayNow-DuitNow bilateral link between Singapore and Malaysia. [The Star](https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/24/singapore-malaysia-and-thailand-to-develop-common-approaches-for-cross-border-digital-money)
+
+> [!note]- Malaysia: Four killed including baby in Pagoh multi-vehicle highway crash (Malay Mail)
+> A fatal multi-vehicle collision in Pagoh, Johor killed four people on Sunday — a baby, a young child, and two elderly women — in one of the deadliest single-incident road accidents in the region this month. Emergency services responded to the scene on the North-South Expressway corridor. The crash underscores persistent road safety concerns on Malaysian highways, particularly during weekend peak travel. [Malay Mail](https://malaymail.com/news/malaysia/2026/10/25/baby-child-and-two-elderly-women-killed-in-multi-vehicle-pagoh-crash/240493)
+
+> [!note]- World: Kim Jong Un visits China to inaugurate new cross-border bridge (NBC News)
+> North Korean leader Kim Jong Un made a rare trip to China to personally inaugurate a new cross-border bridge linking the two countries — his first confirmed visit to China in several years. The ceremony signals deepening strategic alignment between Pyongyang and Beijing amid heightened global tensions, and the bridge is expected to facilitate greater bilateral trade and movement of goods. The visit comes as Kim's regime continues its international isolation following sustained weapons development. [NBC News](https://www.nbcnews.com/world)
+
+> [!breaking]- World: 400,000 march in France; Paris clashes erupt against Macron govt (ABC News)
+> More than 400,000 demonstrators marched across France in one of the country's largest protest waves in recent years, with violent clashes breaking out in Paris between protesters and riot police. The mobilisation reflects deep discontent with President Macron's government over labour policy, cost-of-living pressures, and fiscal direction heading into winter. European leaders are watching closely as France faces simultaneous pressure from the streets and a weakening public finance position. [ABC News](https://abcnews.com/international)
+
+> [!note]- Tech: US and China form rival global AI blocs, forcing nations to pick sides (AP)
+> The United States' Pax Silica group and China's World AI Cooperation Organization (WAICO) — with 28 founding members including Russia and Pakistan — are intensifying competition to shape global AI governance standards. Nations across Asia, Africa and Latin America are being pressured to formally align with one bloc or the other, threatening a fractured international AI landscape. Southeast Asian countries including Singapore and Malaysia have not declared affiliations as diplomatic pressure from both sides mounts. [AP via AI Weekly](https://aiweekly.co/ai-news-today)
+
+> [!note]- Economy: AI infrastructure debt boom echoes 2008 crisis risk, economists warn (Bloomberg)
+> Economists are raising alarms that rapid accumulation of AI infrastructure debt — spread across opaque corporate structures — parallels conditions preceding the 2007–2009 subprime collapse, with hidden leverage and concentrated exposure flagged as key risks. Meta's stock fell 7% post-earnings on concerns over AI costs and negative free cash flow, while DeepSeek closed a ~$15 billion funding round at a $74 billion pre-money valuation. The Financial Stability Board's October 21 report flagging AI as a systemic financial risk added weight to the warnings. [Bloomberg via Archyde](https://archyde.com/ai-boom-may-pose-financial-crisis-risk-economists-war)
 
 > [!note]- [[10-24-26 Sat]]
 >
