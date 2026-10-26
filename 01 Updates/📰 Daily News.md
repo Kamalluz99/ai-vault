@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-26T05:00
+updated: 2026-10-26T19:05
 topic: daily news
 frequency: daily
 ongoing: false
@@ -82,6 +82,26 @@ unread: true
 
 > [!note]- Nike (NKE): $37.30 (last close, Fri) — Barclays raises PT to $45 Overweight; Wolfe initiates Underperform $28 (StockTwits)
 > Barclays raised its Nike price target to $45 from $37 and kept an Overweight rating following management meetings, viewing shares as near bottom. Wolfe Research counters with an Underperform initiation at $28, citing ~25% downside. Q1 FY2027 beat on EPS ($0.48 vs est) but missed revenue ($11.21B); North America +2%, Greater China −26%. Investor Day set for Nov 16–17. Position: 46 shares @ $71.69 avg; unrealised P&L = 46 × ($37.30 − $71.69) = −$1,582. [StockTwits](https://stocktwits.com/news-articles/markets/equity/nke-stock-in-focus-barclays-raises-price-target-to-45-says-shares-are-near-bottom/cZxw4NxRBwA)
+
+> **Evening update**
+
+> [!note]- SG/MY: EMA and Malaysia's Energy Commission renew energy MoU at Singapore International Energy Week (The Star)
+> Singapore's Energy Market Authority and Malaysia's Energy Commission renewed their bilateral energy cooperation partnership at the 19th Singapore International Energy Week on October 26, marking 25 years of formal energy ties between the two regulators. The renewed MoU covers power grid planning and reliability, wholesale and retail electricity market regulation, and cross-border electricity trading projects. The signing adds to a day of broad bilateral deepening, coming alongside MAS's BLOOM stablecoin initiative welcoming Bank Negara Malaysia as a new partner. [The Star](https://www.thestar.com.my/business/business-news/2026/10/26/singapore-malaysia-energy-regulators-renew-partnership-to-boost-sector-cooperation)
+
+> [!note]- Malaysia: Sarawak assembly dissolved; 13th state election countdown begins alongside Melaka race (Malay Mail)
+> Sarawak's State Legislative Assembly was officially dissolved on October 26, triggering the formal start of the 13th Sarawak State Election campaign and an upcoming Election Commission meeting to set nomination and polling dates. The GPS coalition incumbents are expected to defend their majority, while the simultaneous Melaka election cycle sees its own manoeuvring — UMNO's Akmal Saleh has offered to stand aside if his court case risks hurting the party's chances. [Malay Mail](https://www.malaymail.com/news/malaysia/2026/10/26/sarawak-election-countdown-begins-with-assembly-dissolution-today-ec-meeting-next/240585)
+
+> [!breaking]- World: Lula defeats Bolsonaro for fourth term; Bolsonaro rejects result (SBS News)
+> Brazilian President Luiz Inácio Lula da Silva has won a fourth presidential term, defeating former president Jair Bolsonaro in the runoff election with final results announced October 26. Bolsonaro rejected the outcome, raising concerns about a repeat of the political unrest that followed his 2022 defeat. Markets had largely priced in a Lula victory, though uncertainty about post-election political stability keeps Brazil's risk premium elevated heading into the week. [SBS News](https://news.sbs.co.kr/english/article.do?news_id=N1008815021)
+
+> [!note]- World: Zelenskyy urges Patriot deliveries after Russian strikes kill 4 in Dnipropetrovsk (Yahoo News)
+> Ukrainian President Volodymyr Zelenskyy publicly urged allied governments to fulfil agreed deliveries of Patriot air defence interceptors after Russian missiles killed four people and wounded 22 in Dnipropetrovsk. The strikes come as US-Iran tensions remain elevated following the collapse of Istanbul talks, with Washington's post-midterm military intentions under close watch by regional states. G20 foreign ministers are set to meet in Atlanta on Friday, adding a key diplomatic event to an already volatile week. [Yahoo News](https://www.yahoo.com/news/world/articles/latest-news-bulletin-october-26th-060032970.html)
+
+> [!note]- Tech: Anthropic IPO filing expected any day; big tech Q3 earnings week begins (CNBC)
+> Anthropic is expected to publicly file IPO paperwork imminently, a landmark moment for the AI safety lab and one of the decade's most closely watched tech listings. The filing coincides with a critical earnings week — Microsoft and Alphabet report Wednesday, Amazon on Thursday — with investors focused on whether AI infrastructure spending is translating into measurable revenue growth. Separately, CoreWeave's credit default swap cost has risen above 10% annually, signalling growing unease in AI-adjacent debt markets. [CNBC](https://www.cnbc.com/technology/)
+
+> [!note]- Economy: Global markets open mixed on tech selloff and $112 oil; gold at $4,015; Barclays cuts 5,000 for AI (Bloomberg)
+> Global equity markets began the week mixed as oil prices above $112, AI infrastructure debt concerns, and Middle East risks weighed on sentiment — with the 10-year US Treasury at 4.97% and gold near $4,015/oz. Barclays announced plans to cut 5,000 jobs in an AI-driven efficiency push, while Goldman Sachs lowered its Kospi target to 9,000 amid South Korean market pressure. Brazil's election result and the Fed's October 28 rate decision are the week's top macro catalysts. [Bloomberg](https://www.nation.com.pk/26-Oct-2026/global-markets-open-mixed-amid-ongoing-tech-selloff-middle-east-risks)
 
 > [!note]- [[10-25-26 Sun]]
 >
