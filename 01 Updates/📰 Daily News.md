@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-26T19:05
+updated: 2026-10-27T05:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -60,48 +60,71 @@ unread: true
 
 ## 2026-10
 
-### [[10-26-26 Mon]]
+### [[10-27-26 Tue]]
 
-> [!breaking]- AI: OpenAI nears $1.25T funding round led by UAE investors (CNBC)
-> OpenAI is approaching the close of a new funding round that would value the company at $1.25 trillion, with UAE sovereign wealth investors reportedly leading the deal — cementing OpenAI's position as the world's most valuable private startup. The round comes as Elvis Presley rights holders filed suit against Anthropic, alleging its Claude models were trained on the late performer's catalogue without authorisation. [CNBC](https://www.cnbc.com/technology/)
+> [!breaking]- AI: Anthropic files for Nasdaq IPO under ticker "ANT"; reveals $16.29B revenue in 6 months to June (TechCrunch)
+> Anthropic has publicly filed its IPO prospectus to list on the Nasdaq under the ticker "ANT," one of the most closely watched public market debuts of the decade. Its filing reveals $16.29 billion in revenue for the six months ended June 2026, validating the company's $100B+ valuation range. The offering arrives amid strong AI sector tailwinds, with Anthropic competing directly with OpenAI, Google and Meta in enterprise AI. [TechCrunch](https://techcrunch.com/category/artificial-intelligence/)
 
-> [!note]- Tech: Critical PHP vulnerabilities CVE-2026-109618/9 disclosed; Railway platform hit by cyberattack (Unit 42)
-> Palo Alto Networks' Unit 42 published a threat brief on two critical PHP vulnerabilities that could allow unauthenticated remote code execution across affected server versions. Separately, developer hosting platform Railway urged all users to immediately revoke API keys after a cyberattack compromised parts of its infrastructure. [Palo Alto Unit 42](https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/)
+> [!note]- Tech: Apple set to launch touchscreen MacBook Pro and new iPad mini today; Microsoft offers buyouts to 60,000 staff (9to5Mac)
+> A Bloomberg report from October 8 predicted Apple would unveil its first touchscreen MacBook Pros and a new iPad mini "on or around Tuesday, October 27," marking Apple's entry into a new MacBook form factor. Microsoft separately announced it is offering voluntary buyouts to 60,000 employees as AI efficiency gains reduce headcount needs across engineering and operations, extending the year's broad tech workforce reduction trend. [9to5Mac](https://9to5mac.com/2026/10/08/apple-to-launch-touchscreen-macbook-pro-and-more-on-october-27-report/)
 
-> [!breaking]- Macro: Dow tumbles 600+ pts on oil surge; AI chip stocks drag S&P 500, Nasdaq lower (CNBC)
-> The Dow Jones fell more than 600 points as oil prices above $111 hammered sentiment and most sectors sold off; the S&P 500 closed near 7,624 (−0.5%) and the Nasdaq fell as AI-linked chipmakers plunged, with South Korean stocks dropping over 5% on the spillover. The Federal Reserve's October 28 rate decision is the next major catalyst. [CNBC](https://www.cnbc.com/markets/)
+> [!note]- Macro: US stocks rise, oil eases ahead of 2-day Fed meeting and mega-cap earnings blitz (Schwab)
+> US stocks opened higher as investors positioned for a pivotal week: the Federal Reserve's two-day meeting begins today with a rate decision expected Wednesday, while oil eases slightly from highs above $112. About one-third of the S&P 500 reports this week — Meta, Microsoft, Alphabet, and Amazon — alongside PCE inflation and GDP data Thursday. Fed is widely expected to hold rates at 3.75–4.00%. [Schwab](https://www.schwab.com/learn/story/stock-market-update-open)
 
-> [!note]- World: Japan tightens permanent residency — raises income and language bar, fees up 20x for foreign nationals (Reuters)
-> Japan enacted sweeping changes to permanent residency requirements, introducing above-average income and basic Japanese-language standards while raising application fees roughly twentyfold. The move is designed to attract high-skilled migrants while managing immigration volumes amid demographic pressure, though critics warn the fee hike disproportionately deters qualified applicants from lower-income countries. [Reuters via Wikipedia](https://en.wikipedia.org/wiki/Portal:Current_events/October_2026)
+> [!breaking]- World: US ready to strike Iran within 96 hrs of Trump's approval; Cyclone Arnab nears India's AP coast (nation.com.pk)
+> Reports indicate US forces are positioned to execute strikes against Iran within 96 hours of a direct order from President Trump, following the collapse of Istanbul diplomatic talks, with Tehran threatening Gulf-wide retaliation. Separately, Cyclone Arnab is forecast to make landfall on Andhra Pradesh's coast within 24–48 hours, with Odisha also on high alert, potentially displacing hundreds of thousands. Both crises are developing simultaneously. [Nation PK](https://www.nation.com.pk/)
 
-> [!note]- Malaysia/SG: Indonesia cuts gas exports to Singapore; SG insists all parties must honour contracts (CNA)
-> Indonesia has cut natural gas exports to Singapore, raising energy supply security concerns for the city-state. Singapore's government responded by stating it expects all contractual parties to honour existing agreements, signalling it would seek recourse for the reduction. The development adds to regional energy tensions already strained by elevated global oil prices and Iran-related disruptions. [CNA](https://www.channelnewsasia.com/)
+> [!note]- Malaysia/SG: Malaysia-SG agree 300 MW Linggiu Dam floating solar project and subsea power interconnector at SIEW 2026 (now.solar)
+> Malaysia's Deputy PM Fadillah Yusof announced bilateral energy deepening at Singapore International Energy Week 2026: a 300 MW floating solar project at Linggiu Dam in Johor, and formal progress on a subsea electricity interconnector between the two countries. He met Singapore's Energy Minister Dr Tan See Leng on the sidelines of the event. The deals mark a significant step toward Malaysia-Singapore cross-border clean energy trade. [now.solar](https://now.solar/2026/10/27/malaysia-singapore-continue-to-strengthen-energy-supply-cooperation-says-dpm-fadillah-newswav/)
 
-> [!note]- Science: Low-dose aspirin linked to 70% lower relative dementia risk in specific genetic group (ScienceDaily)
-> A study published October 25 found that older adults with a specific genetic profile had a 70% lower relative risk of developing dementia when taking low-dose aspirin regularly, adding to evidence of its potential neuroprotective effects. The finding is preliminary and requires larger trials to quantify absolute risk reduction, but may point toward personalised dementia prevention strategies. [ScienceDaily](https://www.sciencedaily.com/news/)
+> [!note]- Science: Chinese scientists discover "D-rex," a record-sized giant fungus (ScienceDaily)
+> Chinese scientists reported the discovery of "D-rex," an unusually large fungal organism and one of the biggest ever catalogued, with details on classification and ecological significance still under study. The find is among a cluster of notable natural science stories this month, alongside accelerating Arctic sea ice loss and reports of three active black holes found in one galaxy more than 12.5 billion light-years away. [ScienceDaily](https://www.sciencedaily.com/news/)
 
-> [!note]- Nike (NKE): $37.30 (last close, Fri) — Barclays raises PT to $45 Overweight; Wolfe initiates Underperform $28 (StockTwits)
-> Barclays raised its Nike price target to $45 from $37 and kept an Overweight rating following management meetings, viewing shares as near bottom. Wolfe Research counters with an Underperform initiation at $28, citing ~25% downside. Q1 FY2027 beat on EPS ($0.48 vs est) but missed revenue ($11.21B); North America +2%, Greater China −26%. Investor Day set for Nov 16–17. Position: 46 shares @ $71.69 avg; unrealised P&L = 46 × ($37.30 − $71.69) = −$1,582. [StockTwits](https://stocktwits.com/news-articles/markets/equity/nke-stock-in-focus-barclays-raises-price-target-to-45-says-shares-are-near-bottom/cZxw4NxRBwA)
+> [!note]- Nike (NKE): ~$37.88 (+1.5%) — Barclays PT $45 Overweight; DB cuts to $33 Hold; P&L ≈ −$1,555 (StockAnalysis)
+> NKE traded around $37.88 in midday trading October 26, up ~1.5% from its $37.30 October 23 close. Barclays raised its price target to $45 (Overweight) after management meetings; Deutsche Bank cut its target to $33 (Hold); Wolfe Research holds an Underperform initiation at $28. Greater China remains a drag (−26% in constant currency last quarter). Position: 46 shares @ $71.69 avg; unrealised P&L = 46 × ($37.88 − $71.69) ≈ −$1,555. [StockAnalysis](https://stockanalysis.com/stocks/nke/)
 
-> **Evening update**
-
-> [!note]- SG/MY: EMA and Malaysia's Energy Commission renew energy MoU at Singapore International Energy Week (The Star)
-> Singapore's Energy Market Authority and Malaysia's Energy Commission renewed their bilateral energy cooperation partnership at the 19th Singapore International Energy Week on October 26, marking 25 years of formal energy ties between the two regulators. The renewed MoU covers power grid planning and reliability, wholesale and retail electricity market regulation, and cross-border electricity trading projects. The signing adds to a day of broad bilateral deepening, coming alongside MAS's BLOOM stablecoin initiative welcoming Bank Negara Malaysia as a new partner. [The Star](https://www.thestar.com.my/business/business-news/2026/10/26/singapore-malaysia-energy-regulators-renew-partnership-to-boost-sector-cooperation)
-
-> [!note]- Malaysia: Sarawak assembly dissolved; 13th state election countdown begins alongside Melaka race (Malay Mail)
-> Sarawak's State Legislative Assembly was officially dissolved on October 26, triggering the formal start of the 13th Sarawak State Election campaign and an upcoming Election Commission meeting to set nomination and polling dates. The GPS coalition incumbents are expected to defend their majority, while the simultaneous Melaka election cycle sees its own manoeuvring — UMNO's Akmal Saleh has offered to stand aside if his court case risks hurting the party's chances. [Malay Mail](https://www.malaymail.com/news/malaysia/2026/10/26/sarawak-election-countdown-begins-with-assembly-dissolution-today-ec-meeting-next/240585)
-
-> [!breaking]- World: Lula defeats Bolsonaro for fourth term; Bolsonaro rejects result (SBS News)
-> Brazilian President Luiz Inácio Lula da Silva has won a fourth presidential term, defeating former president Jair Bolsonaro in the runoff election with final results announced October 26. Bolsonaro rejected the outcome, raising concerns about a repeat of the political unrest that followed his 2022 defeat. Markets had largely priced in a Lula victory, though uncertainty about post-election political stability keeps Brazil's risk premium elevated heading into the week. [SBS News](https://news.sbs.co.kr/english/article.do?news_id=N1008815021)
-
-> [!note]- World: Zelenskyy urges Patriot deliveries after Russian strikes kill 4 in Dnipropetrovsk (Yahoo News)
-> Ukrainian President Volodymyr Zelenskyy publicly urged allied governments to fulfil agreed deliveries of Patriot air defence interceptors after Russian missiles killed four people and wounded 22 in Dnipropetrovsk. The strikes come as US-Iran tensions remain elevated following the collapse of Istanbul talks, with Washington's post-midterm military intentions under close watch by regional states. G20 foreign ministers are set to meet in Atlanta on Friday, adding a key diplomatic event to an already volatile week. [Yahoo News](https://www.yahoo.com/news/world/articles/latest-news-bulletin-october-26th-060032970.html)
-
-> [!note]- Tech: Anthropic IPO filing expected any day; big tech Q3 earnings week begins (CNBC)
-> Anthropic is expected to publicly file IPO paperwork imminently, a landmark moment for the AI safety lab and one of the decade's most closely watched tech listings. The filing coincides with a critical earnings week — Microsoft and Alphabet report Wednesday, Amazon on Thursday — with investors focused on whether AI infrastructure spending is translating into measurable revenue growth. Separately, CoreWeave's credit default swap cost has risen above 10% annually, signalling growing unease in AI-adjacent debt markets. [CNBC](https://www.cnbc.com/technology/)
-
-> [!note]- Economy: Global markets open mixed on tech selloff and $112 oil; gold at $4,015; Barclays cuts 5,000 for AI (Bloomberg)
-> Global equity markets began the week mixed as oil prices above $112, AI infrastructure debt concerns, and Middle East risks weighed on sentiment — with the 10-year US Treasury at 4.97% and gold near $4,015/oz. Barclays announced plans to cut 5,000 jobs in an AI-driven efficiency push, while Goldman Sachs lowered its Kospi target to 9,000 amid South Korean market pressure. Brazil's election result and the Fed's October 28 rate decision are the week's top macro catalysts. [Bloomberg](https://www.nation.com.pk/26-Oct-2026/global-markets-open-mixed-amid-ongoing-tech-selloff-middle-east-risks)
+> [!note]- [[10-26-26 Mon]]
+>
+> > [!breaking]- AI: OpenAI nears $1.25T funding round led by UAE investors (CNBC)
+> > OpenAI is approaching the close of a new funding round that would value the company at $1.25 trillion, with UAE sovereign wealth investors reportedly leading the deal — cementing OpenAI's position as the world's most valuable private startup. The round comes as Elvis Presley rights holders filed suit against Anthropic, alleging its Claude models were trained on the late performer's catalogue without authorisation. [CNBC](https://www.cnbc.com/technology/)
+>
+> > [!note]- Tech: Critical PHP vulnerabilities CVE-2026-109618/9 disclosed; Railway platform hit by cyberattack (Unit 42)
+> > Palo Alto Networks' Unit 42 published a threat brief on two critical PHP vulnerabilities that could allow unauthenticated remote code execution across affected server versions. Separately, developer hosting platform Railway urged all users to immediately revoke API keys after a cyberattack compromised parts of its infrastructure. [Palo Alto Unit 42](https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/)
+>
+> > [!breaking]- Macro: Dow tumbles 600+ pts on oil surge; AI chip stocks drag S&P 500, Nasdaq lower (CNBC)
+> > The Dow Jones fell more than 600 points as oil prices above $111 hammered sentiment and most sectors sold off; the S&P 500 closed near 7,624 (−0.5%) and the Nasdaq fell as AI-linked chipmakers plunged, with South Korean stocks dropping over 5% on the spillover. The Federal Reserve's October 28 rate decision is the next major catalyst. [CNBC](https://www.cnbc.com/markets/)
+>
+> > [!note]- World: Japan tightens permanent residency — raises income and language bar, fees up 20x for foreign nationals (Reuters)
+> > Japan enacted sweeping changes to permanent residency requirements, introducing above-average income and basic Japanese-language standards while raising application fees roughly twentyfold. The move is designed to attract high-skilled migrants while managing immigration volumes amid demographic pressure, though critics warn the fee hike disproportionately deters qualified applicants from lower-income countries. [Reuters via Wikipedia](https://en.wikipedia.org/wiki/Portal:Current_events/October_2026)
+>
+> > [!note]- Malaysia/SG: Indonesia cuts gas exports to Singapore; SG insists all parties must honour contracts (CNA)
+> > Indonesia has cut natural gas exports to Singapore, raising energy supply security concerns for the city-state. Singapore's government responded by stating it expects all contractual parties to honour existing agreements, signalling it would seek recourse for the reduction. The development adds to regional energy tensions already strained by elevated global oil prices and Iran-related disruptions. [CNA](https://www.channelnewsasia.com/)
+>
+> > [!note]- Science: Low-dose aspirin linked to 70% lower relative dementia risk in specific genetic group (ScienceDaily)
+> > A study published October 25 found that older adults with a specific genetic profile had a 70% lower relative risk of developing dementia when taking low-dose aspirin regularly, adding to evidence of its potential neuroprotective effects. The finding is preliminary and requires larger trials to quantify absolute risk reduction, but may point toward personalised dementia prevention strategies. [ScienceDaily](https://www.sciencedaily.com/news/)
+>
+> > [!note]- Nike (NKE): $37.30 (last close, Fri) — Barclays raises PT to $45 Overweight; Wolfe initiates Underperform $28 (StockTwits)
+> > Barclays raised its Nike price target to $45 from $37 and kept an Overweight rating following management meetings, viewing shares as near bottom. Wolfe Research counters with an Underperform initiation at $28, citing ~25% downside. Q1 FY2027 beat on EPS ($0.48 vs est) but missed revenue ($11.21B); North America +2%, Greater China −26%. Investor Day set for Nov 16–17. Position: 46 shares @ $71.69 avg; unrealised P&L = 46 × ($37.30 − $71.69) = −$1,582. [StockTwits](https://stocktwits.com/news-articles/markets/equity/nke-stock-in-focus-barclays-raises-price-target-to-45-says-shares-are-near-bottom/cZxw4NxRBwA)
+>
+> > **Evening update**
+>
+> > [!note]- SG/MY: EMA and Malaysia's Energy Commission renew energy MoU at Singapore International Energy Week (The Star)
+> > Singapore's Energy Market Authority and Malaysia's Energy Commission renewed their bilateral energy cooperation partnership at the 19th Singapore International Energy Week on October 26, marking 25 years of formal energy ties between the two regulators. The renewed MoU covers power grid planning and reliability, wholesale and retail electricity market regulation, and cross-border electricity trading projects. The signing adds to a day of broad bilateral deepening, coming alongside MAS's BLOOM stablecoin initiative welcoming Bank Negara Malaysia as a new partner. [The Star](https://www.thestar.com.my/business/business-news/2026/10/26/singapore-malaysia-energy-regulators-renew-partnership-to-boost-sector-cooperation)
+>
+> > [!note]- Malaysia: Sarawak assembly dissolved; 13th state election countdown begins alongside Melaka race (Malay Mail)
+> > Sarawak's State Legislative Assembly was officially dissolved on October 26, triggering the formal start of the 13th Sarawak State Election campaign and an upcoming Election Commission meeting to set nomination and polling dates. The GPS coalition incumbents are expected to defend their majority, while the simultaneous Melaka election cycle sees its own manoeuvring — UMNO's Akmal Saleh has offered to stand aside if his court case risks hurting the party's chances. [Malay Mail](https://www.malaymail.com/news/malaysia/2026/10/26/sarawak-election-countdown-begins-with-assembly-dissolution-today-ec-meeting-next/240585)
+>
+> > [!breaking]- World: Lula defeats Bolsonaro for fourth term; Bolsonaro rejects result (SBS News)
+> > Brazilian President Luiz Inácio Lula da Silva has won a fourth presidential term, defeating former president Jair Bolsonaro in the runoff election with final results announced October 26. Bolsonaro rejected the outcome, raising concerns about a repeat of the political unrest that followed his 2022 defeat. Markets had largely priced in a Lula victory, though uncertainty about post-election political stability keeps Brazil's risk premium elevated heading into the week. [SBS News](https://news.sbs.co.kr/english/article.do?news_id=N1008815021)
+>
+> > [!note]- World: Zelenskyy urges Patriot deliveries after Russian strikes kill 4 in Dnipropetrovsk (Yahoo News)
+> > Ukrainian President Volodymyr Zelenskyy publicly urged allied governments to fulfil agreed deliveries of Patriot air defence interceptors after Russian missiles killed four people and wounded 22 in Dnipropetrovsk. The strikes come as US-Iran tensions remain elevated following the collapse of Istanbul talks, with Washington's post-midterm military intentions under close watch by regional states. G20 foreign ministers are set to meet in Atlanta on Friday, adding a key diplomatic event to an already volatile week. [Yahoo News](https://www.yahoo.com/news/world/articles/latest-news-bulletin-october-26th-060032970.html)
+>
+> > [!note]- Tech: Anthropic IPO filing expected any day; big tech Q3 earnings week begins (CNBC)
+> > Anthropic is expected to publicly file IPO paperwork imminently, a landmark moment for the AI safety lab and one of the decade's most closely watched tech listings. The filing coincides with a critical earnings week — Microsoft and Alphabet report Wednesday, Amazon on Thursday — with investors focused on whether AI infrastructure spending is translating into measurable revenue growth. Separately, CoreWeave's credit default swap cost has risen above 10% annually, signalling growing unease in AI-adjacent debt markets. [CNBC](https://www.cnbc.com/technology/)
+>
+> > [!note]- Economy: Global markets open mixed on tech selloff and $112 oil; gold at $4,015; Barclays cuts 5,000 for AI (Bloomberg)
+> > Global equity markets began the week mixed as oil prices above $112, AI infrastructure debt concerns, and Middle East risks weighed on sentiment — with the 10-year US Treasury at 4.97% and gold near $4,015/oz. Barclays announced plans to cut 5,000 jobs in an AI-driven efficiency push, while Goldman Sachs lowered its Kospi target to 9,000 amid South Korean market pressure. Brazil's election result and the Fed's October 28 rate decision are the week's top macro catalysts. [Bloomberg](https://www.nation.com.pk/26-Oct-2026/global-markets-open-mixed-amid-ongoing-tech-selloff-middle-east-risks)
 
 > [!note]- [[10-25-26 Sun]]
 >
