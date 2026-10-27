@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-27T05:00
+updated: 2026-10-27T19:02
 topic: daily news
 frequency: daily
 ongoing: false
@@ -82,6 +82,26 @@ unread: true
 
 > [!note]- Nike (NKE): ~$37.88 (+1.5%) — Barclays PT $45 Overweight; DB cuts to $33 Hold; P&L ≈ −$1,555 (StockAnalysis)
 > NKE traded around $37.88 in midday trading October 26, up ~1.5% from its $37.30 October 23 close. Barclays raised its price target to $45 (Overweight) after management meetings; Deutsche Bank cut its target to $33 (Hold); Wolfe Research holds an Underperform initiation at $28. Greater China remains a drag (−26% in constant currency last quarter). Position: 46 shares @ $71.69 avg; unrealised P&L = 46 × ($37.88 − $71.69) ≈ −$1,555. [StockAnalysis](https://stockanalysis.com/stocks/nke/)
+
+> **Evening update**
+
+> [!note]- SG/MY: EMA approves Sembcorp to import 1.3 GW electricity from Malaysia (Malay Mail)
+> Singapore's Energy Market Authority has granted Sembcorp Utilities conditional approval to import 1.3 gigawatts of electricity into Singapore through a Malaysian consortium, adding a commercial layer to the energy ties deepened at SIEW 2026. The approval, one of the largest cross-border electricity import mandates in the region, complements the Linggiu Dam floating solar and subsea interconnector deals announced earlier today. It signals growing grid interdependence as both countries pursue decarbonisation targets. [Malay Mail](https://www.malaymail.com/news/singapore/2026/10/26/singapore-malaysia-renew-energy-partnership-covering-power-gas-and-renewables/240678)
+
+> [!note]- Malaysia: Southeast Asia's toxic haze spurs legal action calls; schools remain affected (Al Jazeera)
+> Smoke from Indonesian forest fires continues to blanket Southeast Asia, with Malaysia having closed schools across multiple regions and environmental groups calling for legal accountability under ASEAN frameworks. Experts note that the bloc's consensus-driven approach makes enforcement against polluters difficult, with air quality indices remaining hazardous in Sabah, Sarawak, and parts of the peninsula. The recurring haze crisis is sharpening domestic and regional debate over cross-border environmental liability. [Al Jazeera](https://www.aljazeera.com/where/singapore/)
+
+> [!note]- World: Israelis vote on Netanyahu's future; Orbán floated as UN Secretary-General candidate (SBS News)
+> Israeli voters headed to the polls today to weigh in on Prime Minister Benjamin Netanyahu's political future, in an election shaped by the ongoing Gaza conflict and domestic judicial reform controversies. In a parallel diplomatic development, Hungarian PM Viktor Orbán has been floated by allies as a candidate for UN Secretary-General, reflecting growing fractures within the Western alliance over Ukraine and Gaza policy. The Israeli election result is expected to determine the direction of post-war reconstruction diplomacy. [SBS News](https://news.sbs.co.kr/english/article.do?news_id=N1008816003)
+
+> [!note]- World: French protests spread despite concessions; Marine Le Pen launches 2027 presidential campaign (Euronews)
+> Street protests in France over pension and education reforms have broadened despite the government offering partial concessions on university fees and teacher pay, with demonstrations spreading to secondary cities. Far-right leader Marine Le Pen formally launched her 2027 presidential campaign, positioning herself as the candidate for voters frustrated by economic stagnation and immigration levels. The dual developments underscore France's volatile political landscape heading into election season. [Euronews](https://www.euronews.com/video/2026/10/27/latest-news-bulletin-october-27th-2026-morning)
+
+> [!note]- Tech: Amazon's $75 Bee wearable records your entire day; privacy backlash mounts (AI Weekly)
+> Amazon's newly released Bee wearable device passively records the wearer's daily activities and conversations to feed a personal AI assistant, drawing immediate criticism from privacy advocates who warn it blurs consent norms around ambient audio capture. The product joins a wave of consumer AI hardware, but its level of continuous recording has raised questions about data retention, transcript access, and how Amazon will monetise the data across its ad and cloud businesses. [AI Weekly](https://aiweekly.co/ai-news-today)
+
+> [!note]- Economy: Singapore GDP grows more than 5% as AI infrastructure demand drives expansion (Al Jazeera)
+> Singapore's economy expanded more than 5% in the latest quarter, outpacing regional peers and earlier government forecasts, driven by surging demand for AI infrastructure, financial services, and advanced manufacturing. The strong print comes against a backdrop of elevated global oil prices and Middle East geopolitical risk, suggesting Singapore's diversified trade-driven model is absorbing external shocks better than many peers. Analysts expect the Monetary Authority of Singapore to hold its exchange-rate policy settings steady. [Al Jazeera](https://www.aljazeera.com/where/singapore/)
 
 > [!note]- [[10-26-26 Mon]]
 >
