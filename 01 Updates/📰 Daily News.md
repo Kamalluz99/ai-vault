@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-28T05:15
+updated: 2026-10-28T19:06
 topic: daily news
 frequency: daily
 ongoing: false
@@ -79,6 +79,26 @@ unread: true
 
 > [!note]- Science: 13-astronaut study finds human heart well-adapted for Mars missions with regular exercise (ScienceDaily)
 > A study drawing on data from 13 astronauts found the human heart adapts well to long-duration spaceflight — particularly with regular exercise regimens in orbit — suggesting the cardiovascular system is more resilient to microgravity than previously assumed and that a crewed Mars mission is physiologically feasible. NASA's Crew-13 mission is also studying blood flow and clotting in microgravity. Separately, NASA's Swift observatory ended its 22-year mission this week after a reaction wheel failure. [ScienceDaily](https://www.sciencedaily.com/news/)
+
+> **Evening update**
+
+> [!note]- SG/MY: Singapore tightens trans-boundary haze law to hold regional polluters accountable (AsiaOne)
+> Singapore's government has moved to strengthen its trans-boundary haze legislation, creating clearer legal pathways to hold foreign companies responsible for land-clearing fires that blanket the region in hazardous smoke. The push gains urgency as Malaysia's air quality continues to recover from this month's haze episode, with only Samalaju in Sarawak still recording unhealthy readings. Environmental groups have long called for stronger enforcement mechanisms beyond ASEAN's consensus-driven framework. [AsiaOne](https://www.asiaone.com/)
+
+> [!note]- Malaysia: Senior police officer jailed 7.5 years for student's in-custody death (The Star)
+> An Ipoh High Court sentenced a senior police officer to seven years and six months in prison after he pleaded guilty to an amended charge over the 2023 in-custody death of a student. The conviction arrives amid a broader public reckoning over police accountability, with a separate formal investigation also opened this week into the custody death of Noorizwan Zulkefly. Rights groups say consecutive developments signal growing judicial willingness to hold officers criminally responsible. [The Star](https://www.thestar.com.my/)
+
+> [!note]- World: Israel election ends in deadlock — Netanyahu's bloc at 54, short of 61-seat majority (CNN)
+> Partial counts and exit polls from Israel's snap election show Netanyahu's Likud-led bloc at approximately 54 seats — well short of the 61 needed — while the broader opposition camp reached around 66 seats, including 17 Arab-party seats unlikely to enter any governing coalition. CNN described the outcome as a rebuke for Netanyahu, who was defiant despite his bloc falling significantly from its previous 68 seats. Final certified results are not expected until 4 November, and a sixth election in under a decade is now possible. [CNN](https://www.cnn.com/2026/10/28/world/live-news/israel-election-result-live-latest-netanyahu-eisenkot-intl)
+
+> [!note]- World: UK Autumn Budget 2026 — Reeves delivers fiscal statement amid growth vs austerity debate (Saxo Bank)
+> Chancellor Rachel Reeves delivered the UK's 2026 Autumn Budget on Wednesday, setting spending and tax priorities under pressure to narrow the fiscal gap without damaging economic growth. Markets watched closely for implications for gilt yields, employer tax changes and public investment commitments. The FTSE 100 slipped 0.8% during the session on disappointing corporate earnings, even as broader European indices held gains. [Saxo Bank](https://home.saxo/en-mena/content/articles/macro/market-quick-take---uk-autumn-budget-in-focus---28-october-2026-28102026)
+
+> [!note]- Tech: Meta to raise up to $95B in equity to fund AI data centre build-out (AI Weekly)
+> Meta Platforms is reportedly preparing to raise up to $95 billion in equity to accelerate its AI infrastructure build-out, including data centres and custom silicon, in one of the largest capital raises ever linked to AI spending. The fundraise signals that frontier AI players are increasingly tapping equity markets — not just debt — to finance unprecedented compute investment alongside Microsoft, Google and Amazon. Meta, Alphabet and Microsoft all report quarterly earnings after the US market close today in the week's most pivotal AI-spend session. [AI Weekly](https://aiweekly.co/ai-news-today)
+
+> [!note]- Economy: SK Hynix posts record Q3 profit — 83.3 trillion won, 7× YoY — on AI memory chip surge (Market News)
+> South Korea's SK Hynix posted a record quarterly operating profit of 83.3 trillion won for Q3 2026, more than seven times the year-earlier level, driven by surging demand for high-bandwidth memory chips critical to AI training and inference hardware. The result pushed Seoul's Kospi index up more than 6% on Wednesday — one of its best single-day performances of the year. The outcome reinforces how memory chip makers have emerged as primary financial beneficiaries of the global AI infrastructure investment wave. [Market News](https://hervecuviliez.substack.com/p/market-news-wednesday-28-october)
 
 > [!note]- [[10-27-26 Tue]]
 >
