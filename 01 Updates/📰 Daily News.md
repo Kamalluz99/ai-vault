@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-29T19:06
+updated: 2026-10-30T05:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -60,49 +60,72 @@ unread: true
 
 ## 2026-10
 
-### [[10-29-26 Thu]]
+### [[10-30-26 Fri]]
 
-> [!note]- AI: Trump bans "artificial intelligence" from federal docs; Senate drafts AI model block power (The Hill)
-> President Trump issued a directive banning the term "artificial intelligence" from all federal documents, ordering agencies to use "super intelligence" instead — extending a September 29 executive order. A Senate draft bill would separately grant the federal government power to block AI model releases under a duty-of-care framework; legal scholars flag likely First Amendment challenges. The White House is also weighing a mandatory pre-release evaluation executive order for frontier models, modelled on FDA drug approval, following concerns raised by Anthropic's Mythos model. [The Hill](https://thehill.com/homenews/administration/6175633-trump-bans-artificial-intelligence-term/)
+> [!note]- AI: Alphabet stock drops ~12% as AI capital spending disappoints; Gemini 4 Carbon restricted to vetted defenders (killtheai.com)
+> Alphabet shares fell about 12% after its Q3 earnings showed AI capital spending came in below investor estimates, reigniting concerns about AI ROI and pushing the Nasdaq down ~1.4%. Google separately limited access to Gemini 4 Carbon — its new cybersecurity model — to vetted cyber defenders at $2/M input and $10/M output tokens; broader availability remains pending U.S. government pre-release testing. [killtheai.com](https://killtheai.com/news/top-10-ai-news-today-october-29-2026)
 
-> [!note]- Tech: Opera launches WebAI — backed by Google & Microsoft — to run AI models locally in browsers (CNBC)
-> Opera unveiled WebAI on October 27, a proposed open web standard backed by both Google and Microsoft that lets open-weight AI models run locally in the browser without cloud dependencies or API keys. The proposal targets a future where AI features are native browser capabilities, removing reliance on third-party APIs and reducing latency. Airtable is also cutting a large portion of its workforce after acquisition by Bending Spoons, adding to 2026's growing AI-restructuring layoff count. [CNBC](https://cnbc.com/2026/10/28/cnbc-technology-summit-live-updates.html)
+> [!note]- Tech: Apple ships first touchscreen MacBook Pro; DoorDash to acquire Instacart for $17B (TechStartups)
+> Apple has begun shipping its first MacBook Pro with a touchscreen, a significant departure from Apple’s years-long resistance to touch-enabled laptops. DoorDash separately announced it will acquire Instacart for $17 billion, creating a combined on-demand delivery platform spanning meals and groceries. Anthropic is also reportedly preparing for a Nasdaq IPO, a major step for the AI company. [TechStartups](https://techstartups.com/2026/10/29/tech-news-today-october-29-2026-apple-alphabets-9-1b-cash-burn-googles-gemini-4-carbon-microsofts-ai-boom-and-samsungs-record-profits/)
 
-> [!note]- Macro: Asia rallies on SK Hynix earnings beat; Fed holds 3.75–4%; S&P 500 +0.3% at 7,743 (Schwab/Kiplinger)
-> South Korea's Kospi surged over 6% after SK Hynix reported strong AI-memory profits, lifting Asian markets broadly ahead of the US open. The Federal Reserve held rates at 3.75–4.00% as widely expected; Chair Warsh revised H1 GDP upward to 2.4% and announced fewer rate-setting meetings going forward. US markets closed higher: S&P 500 +0.3% at 7,743, Dow +0.2% at 52,475, Nasdaq +0.3% at 26,549; gold held near $4,050/oz and Bitcoin around $80,000. [Kiplinger](https://www.kiplinger.com/investing/live/fed-meeting-updates-and-commentary-october-2026)
+> [!note]- Macro: US Q3 GDP +3.4%; Nasdaq -1.4% on Alphabet selloff; Intel -16%, ServiceNow -27%; 10-yr yield ~5% (Yahoo Finance)
+> The US economy grew at a 3.4% annualised rate in Q3 2026, driven by investment, consumer spending and government spending. But equities fell sharply on Thursday: Alphabet sank ~12%, Intel dropped 16% on PC-slowdown guidance, ServiceNow plunged 27% after earnings, and the Nasdaq closed down ~1.4%. The 10-year Treasury yield hovered near 5% following the strong GDP and inflation data, adding pressure to growth valuations. [Yahoo Finance](https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-29-dow-sp-500-nasdaq-alphabet-microsoft-earnings-130305714.html)
 
-> [!breaking]- World: US warns Gulf states of post-midterm Iran strike; Trump floats Xi-Putin trilateral (WSJ/Modern Diplomacy)
-> The Wall Street Journal reports the US has warned Gulf Arab states to prepare for a "short and intense" military campaign against Iran after the November 3 midterm elections, with additional carrier strike groups and Patriot batteries deploying to the region. Trump also floated a three-way summit with Xi Jinping and Putin in Shenzhen, though China remains publicly silent. US envoy Witkoff met Putin in St. Petersburg, with trilateral Ukraine peace talks expected in Abu Dhabi in mid-November. [Modern Diplomacy](https://moderndiplomacy.eu/2026/10/28/as-rumors-of-xi-trump-putin-trilateral-talks-grow-louder-china-becomes-more-tight-lipped)
+> [!note]- World: Iran reports 7 oil tankers attacked in Strait of Hormuz as fears of wider conflict grow (NBC News)
+> Iran announced seven of its oil tankers were attacked in the Strait of Hormuz, raising fears of broader regional conflict as US forces remain positioned for a potential post-midterm strike following collapsed Istanbul talks. Spain’s death toll from Wednesday’s high-speed train crash near Toledo has climbed to at least 68, with rescue operations still under way and three days of national mourning in effect. [NBC News](https://www.nbcnews.com/world)
 
-> [!note]- Malaysia: High Court sentences senior police officer to 7.5 years over 2023 student custody death (The Star)
-> A senior police officer was sentenced to seven years and six months' imprisonment by the High Court in Ipoh after pleading guilty over a student's death in custody in 2023. The ruling comes amid wider scrutiny of Malaysian police custodial practices; a DAP lawmaker has separately pressed police to explain why the death of Noorizwan Zulkefly in custody was classified as grievous hurt rather than murder. [The Star](https://www.thestar.com.my/)
+> [!note]- Malaysia/Singapore: Singapore-Indonesia haze task force launched; Malaysia-SG RTS Link emergency drill completed (The Star)
+> Singapore and Indonesia activated a joint task force to combat illegal land-clearing fires driving the cross-border haze, with Singapore having summoned 10 company bosses to account for their role. Malaysia and Singapore also completed an RTS Link emergency-response exercise on October 27, a key safety milestone ahead of the cross-border rail link’s planned commercial opening in February 2027. [The Star](https://www.thestar.com.my/news/nation/2026/10/28/malaysia-singapore-conduct-rts-link-emergency-response-exercise)
 
-> [!note]- Science: NASA Artemis I data: lunar orbit radiation higher than Earth but less than feared (NASA/ScienceDaily)
-> New measurements from NASA's Artemis I mission confirm that cosmic radiation near the Moon is higher than in Earth orbit, though by less than scientists had feared — critical data for shielding the Lunar Gateway and future Mars missions. A separate study found 13 astronauts' hearts adapted structurally to spaceflight, adding to the human physiology baseline needed for long-duration missions. [ScienceDaily](https://www.sciencedaily.com/news/space_time/)
+> [!note]- Science: Magma deep in Earth holds extra oxygen — new clue to planet’s O2-rich atmosphere (ScienceDaily)
+> Researchers found that magma deep within the Earth can retain significantly more oxygen than previously known, offering a new mechanism to explain how the planet’s surface and atmosphere became so oxygen-rich over geological timescales. The finding challenges existing models of Earth’s oxidation history and suggests the deep mantle plays a larger active role in surface chemistry. [ScienceDaily](https://www.sciencedaily.com/news/)
 
-> [!note]- Nike (NKE): $37.43 (-1.27%) — Barclays PT $45 Overweight; near 52-week low $31.97; P&L ≈ -$1,576 (MarketBeat)
-> NKE closed around $37.43 on October 27, down ~1.27% from $37.91. Barclays holds an Overweight rating with a $45 target; Wolfe Research counters with Underperform at $28. The stock is up from its October 2 52-week low of $31.97 but down ~43% over the past year. Nike Investor Day is scheduled for November 16–17. Position: 46 shares @ $71.69 avg; unrealised P&L = 46 × ($37.43 − $71.69) ≈ -$1,576. [MarketBeat](https://www.marketbeat.com/instant-alerts/price-nike-nyse-nke-stock-price-up-16-heres-what-happened-2026-10-26/)
+> [!note]- Nike (NKE): $38.21 (+2.81%) — ‘Vegam Run’ unveiled for China market; YTD -41%; P&L ≈ −$1,540 (Yahoo Finance)
+> NKE traded at ~$38.21 on Thursday, up 2.81% on the session, with Nike announcing the “Vegam Run” shoe targeting the China market despite an ongoing Greater China sales slump. The stock has declined ~41% year-to-date, between its 52-week low of $31.97 and high of $69.14, with Barclays maintaining Overweight at $45. Position: 46 shares @ $71.69 avg; unrealised P&L = 46 × ($38.21 − $71.69) ≈ −$1,540. [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/nke-stock-ticks-higher-overnight-075602161.html)
 
-> **Evening update**
-
-> [!note]- SG/MY: Singapore summons 10 firms over haze as SG-Indonesia task force formed (SCMP/Washington Times)
-> Singapore summoned the bosses of 10 companies over the toxic haze blanketing the city-state, while separately Singapore and Indonesia agreed to set up a joint task force to combat illegal land burning driving the pollution. The haze has forced school closures and disrupted daily life across Singapore, with runners pushed indoors and air quality warnings in effect. Singapore's foreign minister said both nations have “a responsibility to ensure the health of all the citizens of Indonesia and Singapore.” [Washington Times](https://www.washingtontimes.com/news/2026/oct/27/singapore-indonesia-set-task-force-combat-haze-illegal-burning/)
-
-> [!note]- Malaysia: Ledger suspends hardware wallet sales in Malaysia after $3.5M tampered-device losses in SG (Crypto News)
-> Singapore police reported $3.5 million in losses linked to tampered Ledger hardware crypto wallets sold through unofficial channels, prompting Ledger to suspend sales across several Southeast Asian markets. The suspension, announced October 13, covers Malaysia, Singapore, Indonesia, Thailand, the Philippines, Vietnam, and Hong Kong. Malaysian crypto holders are advised to verify device authenticity and purchase only through authorised retailers. [Crypto News](https://crypto.news/singapore-police-report-3-5m-losses-from-tampered-ledger-wallets/)
-
-> [!breaking]- World: Spain high-speed train crash kills at least 64 near Toledo; 3 days of mourning declared (The Standard HK)
-> A high-speed train collision near Urda, Toledo, killed at least 64 people on Wednesday — some reports put the toll at 68 as rescue operations continue. Spain’s transport minister acknowledged a train was wrongly ordered onto the track despite a technical failure that had already halted all services, placing a procedural error at the centre of the investigation. Spain has declared three days of national mourning. [The Standard HK](https://www.thestandard.com.hk/news/article/346843/Morning-Recap-October-29-2026)
-
-> [!note]- World: UN finds no evidence Iran rebuilt bombed nuclear sites; Houthi strike shuts Aden airport (10 Things News)
-> UN inspectors reported finding no evidence Iran has rebuilt nuclear facilities destroyed in a previous Israeli strike, a rare positive data point amid ongoing regional tensions. Separately, a Houthi strike shut Aden airport in Yemen as the conflict’s reach continues to widen into civilian infrastructure. A Japan earthquake measuring 5.4 magnitude struck northeastern Chiba Prefecture with strong shaking felt in Tokyo. [10 Things News](https://www.10things.news/p/10-things-global-news-29th-october-e6a)
-
-> [!note]- Tech: Google releases Gemini 4 Carbon — cybersecurity AI scoring 88.2% on vulnerability benchmark (AI Dapted)
-> Google released Gemini 4 Carbon, a new AI model designed for cybersecurity applications, scoring 88.2% on SEC-bench Pro, a vulnerability-finding benchmark. The model is not yet available to consumers or ordinary developers. In a separate AI safety development, Anthropic’s Frontier Red Team disclosed that an unreleased Claude research model built working exploit chains across five operating systems. [AI Dapted](https://aidapted.ro/en/articles/ai-news-october-29-2026/)
-
-> [!note]- Economy: US fiscal 2026 deficit swells to nearly $2T; Fed holds rates in split 10–2 vote (Yahoo Finance)
-> The US federal budget deficit for fiscal year 2026 reached nearly $2 trillion, a 12% rise from the prior year, driven by rising debt-service costs and continued government spending. The Federal Reserve voted to hold interest rates steady at 3.75–4.00% in a surprise split 10–2 decision, nudging US equities modestly higher with the S&P 500 and Dow climbing on the day. Alphabet shares fell after a disappointing third-quarter earnings report, with Nasdaq-100 futures dropping over 1% after hours. [Yahoo Finance](https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-rise-as-fed-holds-rates-steady-in-split-vote-185837696.html)
-
+> [!note]- [[10-29-26 Thu]]
+>
+> > [!note]- AI: Trump bans “artificial intelligence” from federal docs; Senate drafts AI model block power (The Hill)
+> > President Trump issued a directive banning the term “artificial intelligence” from all federal documents, ordering agencies to use “super intelligence” instead — extending a September 29 executive order. A Senate draft bill would separately grant the federal government power to block AI model releases under a duty-of-care framework; legal scholars flag likely First Amendment challenges. The White House is also weighing a mandatory pre-release evaluation executive order for frontier models, modelled on FDA drug approval, following concerns raised by Anthropic’s Mythos model. [The Hill](https://thehill.com/homenews/administration/6175633-trump-bans-artificial-intelligence-term/)
+>
+> > [!note]- Tech: Opera launches WebAI — backed by Google & Microsoft — to run AI models locally in browsers (CNBC)
+> > Opera unveiled WebAI on October 27, a proposed open web standard backed by both Google and Microsoft that lets open-weight AI models run locally in the browser without cloud dependencies or API keys. The proposal targets a future where AI features are native browser capabilities, removing reliance on third-party APIs and reducing latency. Airtable is also cutting a large portion of its workforce after acquisition by Bending Spoons, adding to 2026’s growing AI-restructuring layoff count. [CNBC](https://cnbc.com/2026/10/28/cnbc-technology-summit-live-updates.html)
+>
+> > [!note]- Macro: Asia rallies on SK Hynix earnings beat; Fed holds 3.75–4%; S&P 500 +0.3% at 7,743 (Schwab/Kiplinger)
+> > South Korea’s Kospi surged over 6% after SK Hynix reported strong AI-memory profits, lifting Asian markets broadly ahead of the US open. The Federal Reserve held rates at 3.75–4.00% as widely expected; Chair Warsh revised H1 GDP upward to 2.4% and announced fewer rate-setting meetings going forward. US markets closed higher: S&P 500 +0.3% at 7,743, Dow +0.2% at 52,475, Nasdaq +0.3% at 26,549; gold held near $4,050/oz and Bitcoin around $80,000. [Kiplinger](https://www.kiplinger.com/investing/live/fed-meeting-updates-and-commentary-october-2026)
+>
+> > [!breaking]- World: US warns Gulf states of post-midterm Iran strike; Trump floats Xi-Putin trilateral (WSJ/Modern Diplomacy)
+> > The Wall Street Journal reports the US has warned Gulf Arab states to prepare for a “short and intense” military campaign against Iran after the November 3 midterm elections, with additional carrier strike groups and Patriot batteries deploying to the region. Trump also floated a three-way summit with Xi Jinping and Putin in Shenzhen, though China remains publicly silent. US envoy Witkoff met Putin in St. Petersburg, with trilateral Ukraine peace talks expected in Abu Dhabi in mid-November. [Modern Diplomacy](https://moderndiplomacy.eu/2026/10/28/as-rumors-of-xi-trump-putin-trilateral-talks-grow-louder-china-becomes-more-tight-lipped)
+>
+> > [!note]- Malaysia: High Court sentences senior police officer to 7.5 years over 2023 student custody death (The Star)
+> > A senior police officer was sentenced to seven years and six months’ imprisonment by the High Court in Ipoh after pleading guilty over a student’s death in custody in 2023. The ruling comes amid wider scrutiny of Malaysian police custodial practices; a DAP lawmaker has separately pressed police to explain why the death of Noorizwan Zulkefly in custody was classified as grievous hurt rather than murder. [The Star](https://www.thestar.com.my/)
+>
+> > [!note]- Science: NASA Artemis I data: lunar orbit radiation higher than Earth but less than feared (NASA/ScienceDaily)
+> > New measurements from NASA’s Artemis I mission confirm that cosmic radiation near the Moon is higher than in Earth orbit, though by less than scientists had feared — critical data for shielding the Lunar Gateway and future Mars missions. A separate study found 13 astronauts’ hearts adapted structurally to spaceflight, adding to the human physiology baseline needed for long-duration missions. [ScienceDaily](https://www.sciencedaily.com/news/space_time/)
+>
+> > [!note]- Nike (NKE): $37.43 (-1.27%) — Barclays PT $45 Overweight; near 52-week low $31.97; P&L ≈ -$1,576 (MarketBeat)
+> > NKE closed around $37.43 on October 27, down ~1.27% from $37.91. Barclays holds an Overweight rating with a $45 target; Wolfe Research counters with Underperform at $28. The stock is up from its October 2 52-week low of $31.97 but down ~43% over the past year. Nike Investor Day is scheduled for November 16–17. Position: 46 shares @ $71.69 avg; unrealised P&L = 46 × ($37.43 − $71.69) ≈ -$1,576. [MarketBeat](https://www.marketbeat.com/instant-alerts/price-nike-nyse-nke-stock-price-up-16-heres-what-happened-2026-10-26/)
+>
+> > **Evening update**
+>
+> > [!note]- SG/MY: Singapore summons 10 firms over haze as SG-Indonesia task force formed (SCMP/Washington Times)
+> > Singapore summoned the bosses of 10 companies over the toxic haze blanketing the city-state, while separately Singapore and Indonesia agreed to set up a joint task force to combat illegal land burning driving the pollution. The haze has forced school closures and disrupted daily life across Singapore, with runners pushed indoors and air quality warnings in effect. Singapore’s foreign minister said both nations have “a responsibility to ensure the health of all the citizens of Indonesia and Singapore.” [Washington Times](https://www.washingtontimes.com/news/2026/oct/27/singapore-indonesia-set-task-force-combat-haze-illegal-burning/)
+>
+> > [!note]- Malaysia: Ledger suspends hardware wallet sales in Malaysia after $3.5M tampered-device losses in SG (Crypto News)
+> > Singapore police reported $3.5 million in losses linked to tampered Ledger hardware crypto wallets sold through unofficial channels, prompting Ledger to suspend sales across several Southeast Asian markets. The suspension, announced October 13, covers Malaysia, Singapore, Indonesia, Thailand, the Philippines, Vietnam, and Hong Kong. Malaysian crypto holders are advised to verify device authenticity and purchase only through authorised retailers. [Crypto News](https://crypto.news/singapore-police-report-3-5m-losses-from-tampered-ledger-wallets/)
+>
+> > [!breaking]- World: Spain high-speed train crash kills at least 64 near Toledo; 3 days of mourning declared (The Standard HK)
+> > A high-speed train collision near Urda, Toledo, killed at least 64 people on Wednesday — some reports put the toll at 68 as rescue operations continue. Spain’s transport minister acknowledged a train was wrongly ordered onto the track despite a technical failure that had already halted all services, placing a procedural error at the centre of the investigation. Spain has declared three days of national mourning. [The Standard HK](https://www.thestandard.com.hk/news/article/346843/Morning-Recap-October-29-2026)
+>
+> > [!note]- World: UN finds no evidence Iran rebuilt bombed nuclear sites; Houthi strike shuts Aden airport (10 Things News)
+> > UN inspectors reported finding no evidence Iran has rebuilt nuclear facilities destroyed in a previous Israeli strike, a rare positive data point amid ongoing regional tensions. Separately, a Houthi strike shut Aden airport in Yemen as the conflict’s reach continues to widen into civilian infrastructure. A Japan earthquake measuring 5.4 magnitude struck northeastern Chiba Prefecture with strong shaking felt in Tokyo. [10 Things News](https://www.10things.news/p/10-things-global-news-29th-october-e6a)
+>
+> > [!note]- Tech: Google releases Gemini 4 Carbon — cybersecurity AI scoring 88.2% on vulnerability benchmark (AI Dapted)
+> > Google released Gemini 4 Carbon, a new AI model designed for cybersecurity applications, scoring 88.2% on SEC-bench Pro, a vulnerability-finding benchmark. The model is not yet available to consumers or ordinary developers. In a separate AI safety development, Anthropic’s Frontier Red Team disclosed that an unreleased Claude research model built working exploit chains across five operating systems. [AI Dapted](https://aidapted.ro/en/articles/ai-news-october-29-2026/)
+>
+> > [!note]- Economy: US fiscal 2026 deficit swells to nearly $2T; Fed holds rates in split 10–2 vote (Yahoo Finance)
+> > The US federal budget deficit for fiscal year 2026 reached nearly $2 trillion, a 12% rise from the prior year, driven by rising debt-service costs and continued government spending. The Federal Reserve voted to hold interest rates steady at 3.75–4.00% in a surprise split 10–2 decision, nudging US equities modestly higher with the S&P 500 and Dow climbing on the day. Alphabet shares fell after a disappointing third-quarter earnings report, with Nasdaq-100 futures dropping over 1% after hours. [Yahoo Finance](https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-rise-as-fed-holds-rates-steady-in-split-vote-185837696.html)
+>
 
 > [!note]- [[10-28-26 Wed]]
 >
