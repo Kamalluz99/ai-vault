@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-29T05:15
+updated: 2026-10-29T19:06
 topic: daily news
 frequency: daily
 ongoing: false
@@ -82,6 +82,26 @@ unread: true
 
 > [!note]- Nike (NKE): $37.43 (-1.27%) — Barclays PT $45 Overweight; near 52-week low $31.97; P&L ≈ -$1,576 (MarketBeat)
 > NKE closed around $37.43 on October 27, down ~1.27% from $37.91. Barclays holds an Overweight rating with a $45 target; Wolfe Research counters with Underperform at $28. The stock is up from its October 2 52-week low of $31.97 but down ~43% over the past year. Nike Investor Day is scheduled for November 16–17. Position: 46 shares @ $71.69 avg; unrealised P&L = 46 × ($37.43 − $71.69) ≈ -$1,576. [MarketBeat](https://www.marketbeat.com/instant-alerts/price-nike-nyse-nke-stock-price-up-16-heres-what-happened-2026-10-26/)
+
+> **Evening update**
+
+> [!note]- SG/MY: Singapore summons 10 firms over haze as SG-Indonesia task force formed (SCMP/Washington Times)
+> Singapore summoned the bosses of 10 companies over the toxic haze blanketing the city-state, while separately Singapore and Indonesia agreed to set up a joint task force to combat illegal land burning driving the pollution. The haze has forced school closures and disrupted daily life across Singapore, with runners pushed indoors and air quality warnings in effect. Singapore's foreign minister said both nations have “a responsibility to ensure the health of all the citizens of Indonesia and Singapore.” [Washington Times](https://www.washingtontimes.com/news/2026/oct/27/singapore-indonesia-set-task-force-combat-haze-illegal-burning/)
+
+> [!note]- Malaysia: Ledger suspends hardware wallet sales in Malaysia after $3.5M tampered-device losses in SG (Crypto News)
+> Singapore police reported $3.5 million in losses linked to tampered Ledger hardware crypto wallets sold through unofficial channels, prompting Ledger to suspend sales across several Southeast Asian markets. The suspension, announced October 13, covers Malaysia, Singapore, Indonesia, Thailand, the Philippines, Vietnam, and Hong Kong. Malaysian crypto holders are advised to verify device authenticity and purchase only through authorised retailers. [Crypto News](https://crypto.news/singapore-police-report-3-5m-losses-from-tampered-ledger-wallets/)
+
+> [!breaking]- World: Spain high-speed train crash kills at least 64 near Toledo; 3 days of mourning declared (The Standard HK)
+> A high-speed train collision near Urda, Toledo, killed at least 64 people on Wednesday — some reports put the toll at 68 as rescue operations continue. Spain’s transport minister acknowledged a train was wrongly ordered onto the track despite a technical failure that had already halted all services, placing a procedural error at the centre of the investigation. Spain has declared three days of national mourning. [The Standard HK](https://www.thestandard.com.hk/news/article/346843/Morning-Recap-October-29-2026)
+
+> [!note]- World: UN finds no evidence Iran rebuilt bombed nuclear sites; Houthi strike shuts Aden airport (10 Things News)
+> UN inspectors reported finding no evidence Iran has rebuilt nuclear facilities destroyed in a previous Israeli strike, a rare positive data point amid ongoing regional tensions. Separately, a Houthi strike shut Aden airport in Yemen as the conflict’s reach continues to widen into civilian infrastructure. A Japan earthquake measuring 5.4 magnitude struck northeastern Chiba Prefecture with strong shaking felt in Tokyo. [10 Things News](https://www.10things.news/p/10-things-global-news-29th-october-e6a)
+
+> [!note]- Tech: Google releases Gemini 4 Carbon — cybersecurity AI scoring 88.2% on vulnerability benchmark (AI Dapted)
+> Google released Gemini 4 Carbon, a new AI model designed for cybersecurity applications, scoring 88.2% on SEC-bench Pro, a vulnerability-finding benchmark. The model is not yet available to consumers or ordinary developers. In a separate AI safety development, Anthropic’s Frontier Red Team disclosed that an unreleased Claude research model built working exploit chains across five operating systems. [AI Dapted](https://aidapted.ro/en/articles/ai-news-october-29-2026/)
+
+> [!note]- Economy: US fiscal 2026 deficit swells to nearly $2T; Fed holds rates in split 10–2 vote (Yahoo Finance)
+> The US federal budget deficit for fiscal year 2026 reached nearly $2 trillion, a 12% rise from the prior year, driven by rising debt-service costs and continued government spending. The Federal Reserve voted to hold interest rates steady at 3.75–4.00% in a surprise split 10–2 decision, nudging US equities modestly higher with the S&P 500 and Dow climbing on the day. Alphabet shares fell after a disappointing third-quarter earnings report, with Nasdaq-100 futures dropping over 1% after hours. [Yahoo Finance](https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-rise-as-fed-holds-rates-steady-in-split-vote-185837696.html)
 
 
 > [!note]- [[10-28-26 Wed]]
