@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-30T19:05
+updated: 2026-10-31T05:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -60,48 +60,71 @@ unread: true
 
 ## 2026-10
 
-### [[10-30-26 Fri]]
+### [[10-31-26 Sat]]
 
-> [!note]- AI: Alphabet stock drops ~12% as AI capital spending disappoints; Gemini 4 Carbon restricted to vetted defenders (killtheai.com)
-> Alphabet shares fell about 12% after its Q3 earnings showed AI capital spending came in below investor estimates, reigniting concerns about AI ROI and pushing the Nasdaq down ~1.4%. Google separately limited access to Gemini 4 Carbon — its new cybersecurity model — to vetted cyber defenders at $2/M input and $10/M output tokens; broader availability remains pending U.S. government pre-release testing. [killtheai.com](https://killtheai.com/news/top-10-ai-news-today-october-29-2026)
+> [!note]- AI: AI cracks 27-year-old computer science problem — OpenAI & Anthropic claim breakthrough (Science)
+> AI researchers at OpenAI and Anthropic independently reported cracking a 27-year-old foundational computer science problem, a significant theoretical milestone. IBM also linked two quantum chips in a key step toward building larger quantum computers. These developments come alongside Mistral releasing a trillion-parameter open-weight model and Anthropic’s ongoing Nasdaq IPO preparations. [Science](https://www.science.org/news)
 
-> [!note]- Tech: Apple ships first touchscreen MacBook Pro; DoorDash to acquire Instacart for $17B (TechStartups)
-> Apple has begun shipping its first MacBook Pro with a touchscreen, a significant departure from Apple’s years-long resistance to touch-enabled laptops. DoorDash separately announced it will acquire Instacart for $17 billion, creating a combined on-demand delivery platform spanning meals and groceries. Anthropic is also reportedly preparing for a Nasdaq IPO, a major step for the AI company. [TechStartups](https://techstartups.com/2026/10/29/tech-news-today-october-29-2026-apple-alphabets-9-1b-cash-burn-googles-gemini-4-carbon-microsofts-ai-boom-and-samsungs-record-profits/)
+> [!note]- Tech: North Korea linked to $6.3B Binance hack; Tencent & Alibaba in talks to invest in DeepSeek at $20B+ (NPR/Bloomberg)
+> Blockchain intelligence firms linked North Korea to a $6.3 billion hack on Binance, though the exchange had not explicitly confirmed funds were taken as of October 30. Tencent and Alibaba are separately in talks to invest in Chinese AI startup DeepSeek at a valuation exceeding $20 billion, signalling accelerating consolidation of Chinese AI capital around domestic players. [NPR](https://www.npr.org)
 
-> [!note]- Macro: US Q3 GDP +3.4%; Nasdaq -1.4% on Alphabet selloff; Intel -16%, ServiceNow -27%; 10-yr yield ~5% (Yahoo Finance)
-> The US economy grew at a 3.4% annualised rate in Q3 2026, driven by investment, consumer spending and government spending. But equities fell sharply on Thursday: Alphabet sank ~12%, Intel dropped 16% on PC-slowdown guidance, ServiceNow plunged 27% after earnings, and the Nasdaq closed down ~1.4%. The 10-year Treasury yield hovered near 5% following the strong GDP and inflation data, adding pressure to growth valuations. [Yahoo Finance](https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-29-dow-sp-500-nasdaq-alphabet-microsoft-earnings-130305714.html)
+> [!note]- Macro: Markets closed (Sat); S&P 500 ~7,577 (−1.86% Fri); 10-yr yield ~5%; I-bond rate 5.51% from Nov 1 (CNBC/Kiplinger)
+> US equity markets are closed today (Saturday). Friday’s session closed the S&P 500 around 7,577, down 1.86%, as tech selling continued following Alphabet’s earnings disappointment. The 10-year Treasury yield holds near 5% after strong Q3 GDP data; the Fed held rates at 3.75–4.00% in a split 10-2 vote. Treasury set the new Series I bond composite rate at 5.51% effective November 1. [CNBC](https://www.cnbc.com/2026/10/30/stock-market-next-week-outlook-for-nov-2-6-2026.html)
 
-> [!note]- World: Iran reports 7 oil tankers attacked in Strait of Hormuz as fears of wider conflict grow (NBC News)
-> Iran announced seven of its oil tankers were attacked in the Strait of Hormuz, raising fears of broader regional conflict as US forces remain positioned for a potential post-midterm strike following collapsed Istanbul talks. Spain’s death toll from Wednesday’s high-speed train crash near Toledo has climbed to at least 68, with rescue operations still under way and three days of national mourning in effect. [NBC News](https://www.nbcnews.com/world)
+> [!note]- World: Norway mass shooting kills 2 at hunting party in Halden; FBI arrests Chinese American for surveilling Taiwan president’s family (Wikipedia/AP)
+> Two people were killed and one injured in a mass shooting at a hunting party in Halden, Norway; the perpetrator was arrested. Separately, the FBI arrested a Chinese American woman at Los Angeles International Airport accused of surveilling Taiwanese President Lai Ching-te’s son and family on US soil. [Wikipedia](https://en.wikipedia.org/wiki/Portal:Current_events/October_2026)
 
-> [!note]- Malaysia/Singapore: Singapore-Indonesia haze task force launched; Malaysia-SG RTS Link emergency drill completed (The Star)
-> Singapore and Indonesia activated a joint task force to combat illegal land-clearing fires driving the cross-border haze, with Singapore having summoned 10 company bosses to account for their role. Malaysia and Singapore also completed an RTS Link emergency-response exercise on October 27, a key safety milestone ahead of the cross-border rail link’s planned commercial opening in February 2027. [The Star](https://www.thestar.com.my/news/nation/2026/10/28/malaysia-singapore-conduct-rts-link-emergency-response-exercise)
+> [!note]- Malaysia/Singapore: Singapore-Malaysia navies complete Malapura bilateral exercise; SG haze subsidies begin (AsiaOne)
+> Singapore and Malaysia completed Malapura, a five-day bilateral maritime exercise, on October 30. Singapore simultaneously began rolling out haze subsidies as Malaysia extended school closures from cross-border Indonesian smoke; Singapore also received conditional approval for a Vietnam-Malaysia renewable power cable project. [AsiaOne](https://www.asiaone.com/singapore/singapore-malaysia-navies-2026-exercise-malapura)
 
-> [!note]- Science: Magma deep in Earth holds extra oxygen — new clue to planet’s O2-rich atmosphere (ScienceDaily)
-> Researchers found that magma deep within the Earth can retain significantly more oxygen than previously known, offering a new mechanism to explain how the planet’s surface and atmosphere became so oxygen-rich over geological timescales. The finding challenges existing models of Earth’s oxidation history and suggests the deep mantle plays a larger active role in surface chemistry. [ScienceDaily](https://www.sciencedaily.com/news/)
+> [!note]- Science: CME glancing blow possible Oct 31; diabetes remission in 6 months on low-calorie diet confirmed (EarthSky/ScienceDaily)
+> EarthSky reported a coronal mass ejection on a trajectory for a possible glancing blow to Earth late Friday through Saturday, with auroras possible at mid-latitudes. A separate ScienceDaily study found more than half of younger adults with type 2 diabetes could achieve full remission within six months on a structured low-calorie diet — a clinically significant result for global diabetes management. [ScienceDaily](https://www.sciencedaily.com/news/)
 
-> [!note]- Nike (NKE): $38.21 (+2.81%) — ‘Vegam Run’ unveiled for China market; YTD -41%; P&L ≈ −$1,540 (Yahoo Finance)
-> NKE traded at ~$38.21 on Thursday, up 2.81% on the session, with Nike announcing the “Vegam Run” shoe targeting the China market despite an ongoing Greater China sales slump. The stock has declined ~41% year-to-date, between its 52-week low of $31.97 and high of $69.14, with Barclays maintaining Overweight at $45. Position: 46 shares @ $71.69 avg; unrealised P&L = 46 × ($38.21 − $71.69) ≈ −$1,540. [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/nke-stock-ticks-higher-overnight-075602161.html)
+> [!note]- Nike (NKE): $38.42 (+3.42%) — Vegam Run unveiled for India; YTD −41%; P&L ≈ −$1,530 (JournalArta)
+> NKE closed Thursday at $38.42, up 3.42%, after Nike unveiled the “Vegam Run” shoe targeting India’s large running market ahead of a November 1 launch. The stock is down ~41% year-to-date from a 52-week high of $67.76; Barclays holds Overweight at $45. Position: 46 shares @ $71.69 avg; unrealised P&L = 46 × ($38.42 − $71.69) ≈ −$1,530. [JournalArta](https://journalarta.com/en/2026/10/30/nke-stock-technicals-gains-3-42-on-thursday-testing-key-resistance/)
 
-> **Evening update**
-
-> [!note]- SG/MY: Malaysia pushes for urgent ASEAN South China Sea Code of Conduct (The Star)
-> Malaysia called for urgent progress on the ASEAN South China Sea Code of Conduct negotiations, raising the stakes for regional maritime stability ahead of the bloc's year-end summit. The push comes as tensions in the South China Sea remain elevated, with multiple claimant states watching closely. Separately, Singapore's central bank reminded financial institutions to actively manage environmental risks tied to the ongoing haze crisis affecting the region. [The Star](https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/29/asean-news-headlines-at-10pm-on-thursday-oct-29-2026)
-
-> [!note]- Malaysia: Finance Minister — GDP to exceed 5% in 2026; Tencent Cloud commits multi-year investment (The Star)
-> Malaysia's Finance Minister confirmed the country's GDP growth is on track to exceed 5% for 2026, backed by robust exports and accelerating digital investment inflows. Tencent Cloud separately announced a multi-year commitment to expand Malaysian data infrastructure and cloud services, adding to a string of major tech pledges from hyperscalers to the country this year. [The Star](https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/29/asean-news-headlines-at-10pm-on-thursday-oct-29-2026)
-
-> [!note]- World: Israel election deadlock — Netanyahu and Eisenkot neck-and-neck after vote count (NBC News)
-> Israel's election results show Prime Minister Netanyahu and challenger Eisenkot in a near-dead heat, with no clear majority emerging for either bloc. The standoff sets up a protracted coalition-building process, with religious parties holding the balance of power. Regional observers are watching closely given ongoing tensions with Iran and stalled Gaza ceasefire negotiations. [NBC News](https://www.nbcnews.com/world)
-
-> [!note]- World: ECB chief resigns as economic volatility deepens across Europe (Global News)
-> The head of the European Central Bank has resigned amid mounting economic pressure, including a eurozone growth slowdown, persistent inflation, and turbulence in EU bond markets. The sudden departure adds uncertainty to European monetary policy at a time when the ECB has held its key rate steady at 2.5%. Markets reacted nervously, with the euro weakening against the dollar in after-hours trading. [Global News](https://globalnews.ca/world/)
-
-> [!note]- Tech: Nvidia faces US DOJ scrutiny over proposed $12.93B acquisition of Hugging Face (Reuters/AI Weekly)
-> The US Department of Justice is examining whether Nvidia's proposed $12.93 billion acquisition of AI model hub Hugging Face could harm competition in the AI infrastructure market. The probe adds significant regulatory risk to a deal that would give Nvidia direct influence over the open-source AI ecosystem. Separately, a Chinese national linked to chip smuggling was found to have routed Nvidia GPUs to China via a Malaysia-based intermediary, raising new export-control enforcement concerns. [AI Weekly](https://aiweekly.co/ai-news-today)
-
-> [!note]- Economy: Mistral opens trillion-parameter model to public; Canada pledges $1B+ for domestic AI (The Neuron)
-> French AI startup Mistral opened access to its new trillion-parameter model, significantly expanding the frontier of publicly available open-weight AI beyond what US hyperscalers offer. Canada committed over a billion dollars to a domestic AI company as part of a broader push to anchor AI leadership at home amid intensifying US-China competition. These moves signal a wave of mid-sized-power AI investment strategies aimed at matching hyperscaler scale without ceding sovereignty. [The Neuron](https://theneuron.ai/digest/everything-that-happened-in-ai-today-october-30-2026)
+> [!note]- [[10-30-26 Fri]]
+>
+> > [!note]- AI: Alphabet stock drops ~12% as AI capital spending disappoints; Gemini 4 Carbon restricted to vetted defenders (killtheai.com)
+> > Alphabet shares fell about 12% after its Q3 earnings showed AI capital spending came in below investor estimates, reigniting concerns about AI ROI and pushing the Nasdaq down ~1.4%. Google separately limited access to Gemini 4 Carbon — its new cybersecurity model — to vetted cyber defenders at $2/M input and $10/M output tokens; broader availability remains pending U.S. government pre-release testing. [killtheai.com](https://killtheai.com/news/top-10-ai-news-today-october-29-2026)
+>
+> > [!note]- Tech: Apple ships first touchscreen MacBook Pro; DoorDash to acquire Instacart for $17B (TechStartups)
+> > Apple has begun shipping its first MacBook Pro with a touchscreen, a significant departure from Apple’s years-long resistance to touch-enabled laptops. DoorDash separately announced it will acquire Instacart for $17 billion, creating a combined on-demand delivery platform spanning meals and groceries. Anthropic is also reportedly preparing for a Nasdaq IPO, a major step for the AI company. [TechStartups](https://techstartups.com/2026/10/29/tech-news-today-october-29-2026-apple-alphabets-9-1b-cash-burn-googles-gemini-4-carbon-microsofts-ai-boom-and-samsungs-record-profits/)
+>
+> > [!note]- Macro: US Q3 GDP +3.4%; Nasdaq -1.4% on Alphabet selloff; Intel -16%, ServiceNow -27%; 10-yr yield ~5% (Yahoo Finance)
+> > The US economy grew at a 3.4% annualised rate in Q3 2026, driven by investment, consumer spending and government spending. But equities fell sharply on Thursday: Alphabet sank ~12%, Intel dropped 16% on PC-slowdown guidance, ServiceNow plunged 27% after earnings, and the Nasdaq closed down ~1.4%. The 10-year Treasury yield hovered near 5% following the strong GDP and inflation data, adding pressure to growth valuations. [Yahoo Finance](https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-29-dow-sp-500-nasdaq-alphabet-microsoft-earnings-130505714.html)
+>
+> > [!note]- World: Iran reports 7 oil tankers attacked in Strait of Hormuz as fears of wider conflict grow (NBC News)
+> > Iran announced seven of its oil tankers were attacked in the Strait of Hormuz, raising fears of broader regional conflict as US forces remain positioned for a potential post-midterm strike following collapsed Istanbul talks. Spain’s death toll from Wednesday’s high-speed train crash near Toledo has climbed to at least 68, with rescue operations still under way and three days of national mourning in effect. [NBC News](https://www.nbcnews.com/world)
+>
+> > [!note]- Malaysia/Singapore: Singapore-Indonesia haze task force launched; Malaysia-SG RTS Link emergency drill completed (The Star)
+> > Singapore and Indonesia activated a joint task force to combat illegal land-clearing fires driving the cross-border haze, with Singapore having summoned 10 company bosses to account for their role. Malaysia and Singapore also completed an RTS Link emergency-response exercise on October 27, a key safety milestone ahead of the cross-border rail link’s planned commercial opening in February 2027. [The Star](https://www.thestar.com.my/news/nation/2026/10/28/malaysia-singapore-conduct-rts-link-emergency-response-exercise)
+>
+> > [!note]- Science: Magma deep in Earth holds extra oxygen — new clue to planet’s O2-rich atmosphere (ScienceDaily)
+> > Researchers found that magma deep within the Earth can retain significantly more oxygen than previously known, offering a new mechanism to explain how the planet’s surface and atmosphere became so oxygen-rich over geological timescales. The finding challenges existing models of Earth’s oxidation history and suggests the deep mantle plays a larger active role in surface chemistry. [ScienceDaily](https://www.sciencedaily.com/news/)
+>
+> > [!note]- Nike (NKE): $38.21 (+2.81%) — ‘Vegam Run’ unveiled for China market; YTD -41%; P&L ≈ −$1,540 (Yahoo Finance)
+> > NKE traded at ~$38.21 on Thursday, up 2.81% on the session, with Nike announcing the “Vegam Run” shoe targeting the China market despite an ongoing Greater China sales slump. The stock has declined ~41% year-to-date, between its 52-week low of $31.97 and high of $69.14, with Barclays maintaining Overweight at $45. Position: 46 shares @ $71.69 avg; unrealised P&L = 46 × ($38.21 − $71.69) ≈ −$1,540. [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/nke-stock-ticks-higher-overnight-075602161.html)
+>
+> > **Evening update**
+>
+> > [!note]- SG/MY: Malaysia pushes for urgent ASEAN South China Sea Code of Conduct (The Star)
+> > Malaysia called for urgent progress on the ASEAN South China Sea Code of Conduct negotiations, raising the stakes for regional maritime stability ahead of the bloc’s year-end summit. The push comes as tensions in the South China Sea remain elevated, with multiple claimant states watching closely. Separately, Singapore’s central bank reminded financial institutions to actively manage environmental risks tied to the ongoing haze crisis affecting the region. [The Star](https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/29/asean-news-headlines-at-10pm-on-thursday-oct-29-2026)
+>
+> > [!note]- Malaysia: Finance Minister — GDP to exceed 5% in 2026; Tencent Cloud commits multi-year investment (The Star)
+> > Malaysia’s Finance Minister confirmed the country’s GDP growth is on track to exceed 5% for 2026, backed by robust exports and accelerating digital investment inflows. Tencent Cloud separately announced a multi-year commitment to expand Malaysian data infrastructure and cloud services, adding to a string of major tech pledges from hyperscalers to the country this year. [The Star](https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/29/asean-news-headlines-at-10pm-on-thursday-oct-29-2026)
+>
+> > [!note]- World: Israel election deadlock — Netanyahu and Eisenkot neck-and-neck after vote count (NBC News)
+> > Israel’s election results show Prime Minister Netanyahu and challenger Eisenkot in a near-dead heat, with no clear majority emerging for either bloc. The standoff sets up a protracted coalition-building process, with religious parties holding the balance of power. Regional observers are watching closely given ongoing tensions with Iran and stalled Gaza ceasefire negotiations. [NBC News](https://www.nbcnews.com/world)
+>
+> > [!note]- World: ECB chief resigns as economic volatility deepens across Europe (Global News)
+> > The head of the European Central Bank has resigned amid mounting economic pressure, including a eurozone growth slowdown, persistent inflation, and turbulence in EU bond markets. The sudden departure adds uncertainty to European monetary policy at a time when the ECB has held its key rate steady at 2.5%. Markets reacted nervously, with the euro weakening against the dollar in after-hours trading. [Global News](https://globalnews.ca/world/)
+>
+> > [!note]- Tech: Nvidia faces US DOJ scrutiny over proposed $12.93B acquisition of Hugging Face (Reuters/AI Weekly)
+> > The US Department of Justice is examining whether Nvidia’s proposed $12.93 billion acquisition of AI model hub Hugging Face could harm competition in the AI infrastructure market. The probe adds significant regulatory risk to a deal that would give Nvidia direct influence over the open-source AI ecosystem. Separately, a Chinese national linked to chip smuggling was found to have routed Nvidia GPUs to China via a Malaysia-based intermediary, raising new export-control enforcement concerns. [AI Weekly](https://aiweekly.co/ai-news-today)
+>
+> > [!note]- Economy: Mistral opens trillion-parameter model to public; Canada pledges $1B+ for domestic AI (The Neuron)
+> > French AI startup Mistral opened access to its new trillion-parameter model, significantly expanding the frontier of publicly available open-weight AI beyond what US hyperscalers offer. Canada committed over a billion dollars to a domestic AI company as part of a broader push to anchor AI leadership at home amid intensifying US-China competition. These moves signal a wave of mid-sized-power AI investment strategies aimed at matching hyperscaler scale without ceding sovereignty. [The Neuron](https://theneuron.ai/digest/everything-that-happened-in-ai-today-october-30-2026)
 
 > [!note]- [[10-29-26 Thu]]
 >
