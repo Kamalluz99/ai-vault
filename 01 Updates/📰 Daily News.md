@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-30T05:00
+updated: 2026-10-30T19:05
 topic: daily news
 frequency: daily
 ongoing: false
@@ -82,6 +82,26 @@ unread: true
 
 > [!note]- Nike (NKE): $38.21 (+2.81%) — ‘Vegam Run’ unveiled for China market; YTD -41%; P&L ≈ −$1,540 (Yahoo Finance)
 > NKE traded at ~$38.21 on Thursday, up 2.81% on the session, with Nike announcing the “Vegam Run” shoe targeting the China market despite an ongoing Greater China sales slump. The stock has declined ~41% year-to-date, between its 52-week low of $31.97 and high of $69.14, with Barclays maintaining Overweight at $45. Position: 46 shares @ $71.69 avg; unrealised P&L = 46 × ($38.21 − $71.69) ≈ −$1,540. [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/nke-stock-ticks-higher-overnight-075602161.html)
+
+> **Evening update**
+
+> [!note]- SG/MY: Malaysia pushes for urgent ASEAN South China Sea Code of Conduct (The Star)
+> Malaysia called for urgent progress on the ASEAN South China Sea Code of Conduct negotiations, raising the stakes for regional maritime stability ahead of the bloc's year-end summit. The push comes as tensions in the South China Sea remain elevated, with multiple claimant states watching closely. Separately, Singapore's central bank reminded financial institutions to actively manage environmental risks tied to the ongoing haze crisis affecting the region. [The Star](https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/29/asean-news-headlines-at-10pm-on-thursday-oct-29-2026)
+
+> [!note]- Malaysia: Finance Minister — GDP to exceed 5% in 2026; Tencent Cloud commits multi-year investment (The Star)
+> Malaysia's Finance Minister confirmed the country's GDP growth is on track to exceed 5% for 2026, backed by robust exports and accelerating digital investment inflows. Tencent Cloud separately announced a multi-year commitment to expand Malaysian data infrastructure and cloud services, adding to a string of major tech pledges from hyperscalers to the country this year. [The Star](https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/29/asean-news-headlines-at-10pm-on-thursday-oct-29-2026)
+
+> [!note]- World: Israel election deadlock — Netanyahu and Eisenkot neck-and-neck after vote count (NBC News)
+> Israel's election results show Prime Minister Netanyahu and challenger Eisenkot in a near-dead heat, with no clear majority emerging for either bloc. The standoff sets up a protracted coalition-building process, with religious parties holding the balance of power. Regional observers are watching closely given ongoing tensions with Iran and stalled Gaza ceasefire negotiations. [NBC News](https://www.nbcnews.com/world)
+
+> [!note]- World: ECB chief resigns as economic volatility deepens across Europe (Global News)
+> The head of the European Central Bank has resigned amid mounting economic pressure, including a eurozone growth slowdown, persistent inflation, and turbulence in EU bond markets. The sudden departure adds uncertainty to European monetary policy at a time when the ECB has held its key rate steady at 2.5%. Markets reacted nervously, with the euro weakening against the dollar in after-hours trading. [Global News](https://globalnews.ca/world/)
+
+> [!note]- Tech: Nvidia faces US DOJ scrutiny over proposed $12.93B acquisition of Hugging Face (Reuters/AI Weekly)
+> The US Department of Justice is examining whether Nvidia's proposed $12.93 billion acquisition of AI model hub Hugging Face could harm competition in the AI infrastructure market. The probe adds significant regulatory risk to a deal that would give Nvidia direct influence over the open-source AI ecosystem. Separately, a Chinese national linked to chip smuggling was found to have routed Nvidia GPUs to China via a Malaysia-based intermediary, raising new export-control enforcement concerns. [AI Weekly](https://aiweekly.co/ai-news-today)
+
+> [!note]- Economy: Mistral opens trillion-parameter model to public; Canada pledges $1B+ for domestic AI (The Neuron)
+> French AI startup Mistral opened access to its new trillion-parameter model, significantly expanding the frontier of publicly available open-weight AI beyond what US hyperscalers offer. Canada committed over a billion dollars to a domestic AI company as part of a broader push to anchor AI leadership at home amid intensifying US-China competition. These moves signal a wave of mid-sized-power AI investment strategies aimed at matching hyperscaler scale without ceding sovereignty. [The Neuron](https://theneuron.ai/digest/everything-that-happened-in-ai-today-october-30-2026)
 
 > [!note]- [[10-29-26 Thu]]
 >
