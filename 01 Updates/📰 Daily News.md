@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-01T05:00
+updated: 2026-11-01T05:13
 topic: daily news
 frequency: daily
 ongoing: false
@@ -62,26 +62,23 @@ unread: true
 
 ### [[11-01-26 Sun]]
 
-> [!note]- AI: Musk says superintelligence could lift global output 20–30%; OpenAI cuts $10B from funding round (Startuphub)
-> Elon Musk, in a Walter Isaacson interview published October 31, said digital superintelligence could increase global economic output by 20–30%, framing it as an abundance-creating force. OpenAI simultaneously reduced its current funding-round target by $10 billion and trimmed its valuation by $150 billion amid a broader tech selloff, now targeting $1.25 trillion. [Startuphub](https://startuphub.ai/ai-news/artificial-intelligence/2026/musk-says-ai-will-erase-money-and-work)
+> [!note]- AI: Google launches Genie 4 — world model for real-time interactive simulation (AI Release Tracker)
+> Google announced Genie 4 on October 27, a world model capable of generating real-time interactive simulated environments from a single image or prompt, pushing AI beyond static generation into dynamic, playable worlds. Separately, Microsoft is reportedly post-training MAI-Base-2, a 2.8-trillion-parameter model that would rank among the largest pre-training runs ever attempted. [AI Release Tracker](https://aireleasetracker.com/latest)
 
-> [!note]- Tech: DoorDash to acquire Instacart for $17B; Intel −21% on weak PC guidance (TechCrunch)
-> DoorDash announced it will acquire grocery-delivery platform Instacart for $17 billion, creating a combined on-demand delivery giant spanning meals and groceries. Intel's stock plunged 21% — and fell 25% in after-hours trading — after the company cited a PC market slowdown for weak forward guidance, its worst session in years. [TechCrunch](https://techcrunch.com/)
+> [!note]- Tech: Netflix to cut ~1,000 jobs (6% of workforce) in latest wave of October tech layoffs (InformationWeek)
+> Netflix announced plans to lay off approximately 1,000 employees — about 6% of its workforce — as part of an ongoing cost realignment. The move extends a broad October wave that also hit Amazon (under 1,000 roles), HubSpot (~660), eBay (~9% of staff) and Electronic Arts (400 jobs plus the shutdown of BioWare); sector trackers put October's total tech job cuts above 5,000. [InformationWeek](https://www.informationweek.com/it-staffing-careers/2026-tech-company-layoffs)
 
-> [!breaking]- Macro: Nasdaq worst day since June — Intel −25%, Amazon −7% pre-market; S&P 500 ~7,577 (CNBC)
-> US markets took a significant hit on Friday as Intel plummeted ~25% and Amazon fell ~7% in extended trading after disappointing earnings. The S&P 500 closed around 7,577 (−1.86%) and the Nasdaq posted its worst single-session loss since June. The 10-year Treasury yield holds near 5% on strong Q3 GDP data (+3.4% annualised), adding sustained pressure to growth valuations. [CNBC](https://www.cnbc.com/)
+> [!note]- Macro: Gold hits 2026 yearly low below $3,900 as hawkish Fed bets surge; oil near $105 (BeinCrypto)
+> Gold fell below $3,900 per ounce — its lowest level of the year and roughly 30% below its January peak — as Fed official Musalem said more rate hikes are needed "soon," with JPMorgan now forecasting rises in December and early 2027. Oil climbed toward $105 on Middle East supply fears linked to Iran-US tensions, while Bitcoin faced ETF outflows of $636M after a suspected Binance hack. [BeinCrypto](https://beincrypto.com/gold-price-lowest-point-2026-analysts)
 
-> [!note]- World: US approves 500 Patriot missiles for Ukraine; Russian drone kills 14 at train station (CBS/NBC)
-> The US government approved a sale of 500 Patriot missiles to Ukraine, a significant military-aid commitment as fighting continues. Separately, a Russian drone struck two passenger trains at a station in central Ukraine, killing at least 14 people — one of the deadliest single attacks in weeks. [CBS](https://www.cbsnews.com/world/)
+> [!breaking]- World: Iran warns US/Israel of unlimited retaliation; Qatar shuttles ceasefire draft (CBS News)
+> Iran's Supreme Leader Mojtaba Khamenei warned the U.S. and Israel that if the conflict resumes, Iran will impose no geographical limits on its counter-attacks. Qatari mediators are shuttling an edited ceasefire draft and Trump said the war is "going to get wrapped up soon," but oil markets surged after reports the U.S. told Gulf allies to prepare for possible post-midterm strikes. [CBS News](https://www.cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks/)
 
-> [!note]- Malaysia/Singapore: Singapore rolls out haze subsidies; Malaysia extends school closures from Indonesian fires (FMT)
-> Singapore launched haze health subsidies for lower-income residents as smoke from Indonesian land-clearing fires pushed air quality to unhealthy levels. Malaysia extended school closures across multiple states as cross-border haze thickened; Singapore also summoned bosses of 10 companies to account for their role in the fires. [FMT](https://www.freemalaysiatoday.com/)
+> [!note]- Malaysia: Melaka state election nominations held Oct 31; campaign begins for Nov 14 polling day (NST)
+> Nominations for the 16th Melaka State Election were filed on October 31, with Pakatan Harapan and Perikatan Nasional candidates contesting seats including Tanjung Bidara. MCA secured the right to contest four seats after PN conceded Kota Laksamana. French President Macron is separately expected to make a state visit to Malaysia on November 16–17. [NST](https://nst.com.my/amp/news/nation/2026/10/1567162/news9-todays-top-headlines-october-30-2026-watch)
 
-> [!note]- Science: Spiders show REM-like sleep — twitching muscles and eye movements observed (SciTechDaily)
-> Researchers documented REM-like sleep phases in spiders, with leg twitches and retinal eye movements mirroring the REM behaviour seen in mammals. The finding pushes the evolutionary origins of dreaming-linked sleep significantly further back in the animal kingdom. [SciTechDaily](https://scitechdaily.com/)
-
-> [!note]- Nike (NKE): $38.67 (+0.65%) — China revenue −26%; YTD ~−46%; P&L ≈ −$1,519 (24/7 Wall St)
-> NKE closed at $38.67 on October 30, up 0.65% on the day, but down roughly 40% year-to-date and deeply underwater against the 52-week high of $69.14. A 24/7 Wall St report cited Nike's China revenue falling 26% as a key drag, with multiple analysts cutting targets; Barclays holds Overweight at $45. Position: 46 shares @ $71.69 avg; unrealised P&L = 46 × ($38.67 − $71.69) ≈ −$1,519. [247wallst](https://247wallst.com/personal-finance/2026/10/31/theyve-shot-themselves-in-the-face-ramsey-blames-kaepernick-for-nikes-collapse-but-nikes-china-revenue-was-down-26)
+> [!note]- Science: ISS-grown brain tumour organoids published in PNAS — closer to real GBM than Earth models (MedicalXpress)
+> Notre Dame researchers grew glioblastoma organoids aboard the ISS for 40 days and found the microgravity environment produces 3-D tumour models that more accurately mirror how brain cancer actually behaves than lab-grown equivalents. The PNAS-published results could improve how new GBM treatments are screened and tested. [MedicalXpress](https://medicalxpress.com/news/2026-10-space-grown-glioblastoma-organoids-advance.html)
 
 ## 2026-10
 
