@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-31T05:00
+updated: 2026-10-31T19:04
 topic: daily news
 frequency: daily
 ongoing: false
@@ -82,6 +82,26 @@ unread: true
 
 > [!note]- Nike (NKE): $38.42 (+3.42%) — Vegam Run unveiled for India; YTD −41%; P&L ≈ −$1,530 (JournalArta)
 > NKE closed Thursday at $38.42, up 3.42%, after Nike unveiled the “Vegam Run” shoe targeting India’s large running market ahead of a November 1 launch. The stock is down ~41% year-to-date from a 52-week high of $67.76; Barclays holds Overweight at $45. Position: 46 shares @ $71.69 avg; unrealised P&L = 46 × ($38.42 − $71.69) ≈ −$1,530. [JournalArta](https://journalarta.com/en/2026/10/30/nke-stock-technicals-gains-3-42-on-thursday-testing-key-resistance/)
+
+> **Evening update**
+
+> [!note]- SG/MY: Singapore summons 10 firms over haze; runners retreat indoors (AsiaOne)
+> Singapore’s Ministry of Sustainability and the Environment summoned the heads of 10 companies linked to Indonesia’s forest fires, stressing it is not seeking scapegoats but demanding accountability. With PSI readings elevated, runners and outdoor gym-goers have moved entirely indoors; the government has rolled out haze health subsidies for lower-income residents. [AsiaOne](https://www.asiaone.com/)
+
+> [!note]- Malaysia: RMAF takes delivery of first FA-50M, replacing Hawk fleet (NST)
+> The Royal Malaysian Air Force received its first FA-50M Golden Eagle light combat aircraft, the first delivery in its programme to retire the ageing BAE Hawk fleet. The FA-50M acquisition from South Korea’s KAI strengthens Malaysia’s air-combat modernisation within ASEAN. [NST](https://nst.com.my/)
+
+> [!note]- World: Zelenskyy in Istanbul for talks with Erdoğan on Ukraine war (Euronews)
+> Ukrainian President Volodymyr Zelenskyy made a working visit to Istanbul to meet Turkish President Recep Tayyip Erdoğan, with discussions centring on the Russia–Ukraine war and Black Sea shipping security. Turkey has maintained ties with both Kyiv and Moscow, positioning Erdoğan as a key potential mediator in any future negotiations. [Euronews](https://www.euronews.com/)
+
+> [!note]- World: Jaishankar urges diplomacy at G20 FM meeting in Atlanta (NDTV)
+> India’s External Affairs Minister S. Jaishankar addressed the G20 Foreign Ministers’ Meeting in Atlanta, hosted by US Secretary of State Marco Rubio, arguing that military solutions will not work and diplomacy must be given a chance. His remarks reflect India’s broader effort to position itself as a bridge-builder amid widening global divisions over the Ukraine war and Middle East tensions. [NDTV](https://www.ndtv.com/)
+
+> [!note]- Tech: Mistral 1T-param model live; Big Tech AI pledges hit $3T (AI Weekly)
+> Mistral released its trillion-parameter open-weight model to wider access, raising the ceiling for publicly available AI capabilities. Big Tech’s aggregated AI capital-spending pledges have climbed to approximately $3 trillion — up from $2.4 trillion in July — while Reddit’s CEO blamed Google’s AI Overviews for stripping the platform of over a million weekly referrals, sending shares down 29%. [AI Weekly](https://aiweekly.co/ai-news-today)
+
+> [!note]- Science: Earth warming 0.35°C/decade since 2015 — fastest ever (ScienceDaily)
+> Scientists have detected a major acceleration in global surface temperatures, with the planet warming at approximately 0.35°C per decade since around 2015 — the fastest sustained rate ever recorded. Researchers warn that exceeding the 1.5°C Paris Agreement target may occur sooner than earlier models projected if this acceleration continues. [ScienceDaily](https://www.sciencedaily.com/)
 
 > [!note]- [[10-30-26 Fri]]
 >
