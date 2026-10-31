@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-31T19:04
+updated: 2026-11-01T05:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -57,6 +57,31 @@ unread: true
 > > [!breaking]- World: Major diplomatic deadline expires tonight (Al Jazeera)
 > > A strategic chokepoint deadline expires at 8pm ET. Negotiations have stalled and military action looks imminent. [Source](https://example.com)
 > ```
+
+## 2026-11
+
+### [[11-01-26 Sun]]
+
+> [!note]- AI: Musk says superintelligence could lift global output 20–30%; OpenAI cuts $10B from funding round (Startuphub)
+> Elon Musk, in a Walter Isaacson interview published October 31, said digital superintelligence could increase global economic output by 20–30%, framing it as an abundance-creating force. OpenAI simultaneously reduced its current funding-round target by $10 billion and trimmed its valuation by $150 billion amid a broader tech selloff, now targeting $1.25 trillion. [Startuphub](https://startuphub.ai/ai-news/artificial-intelligence/2026/musk-says-ai-will-erase-money-and-work)
+
+> [!note]- Tech: DoorDash to acquire Instacart for $17B; Intel −21% on weak PC guidance (TechCrunch)
+> DoorDash announced it will acquire grocery-delivery platform Instacart for $17 billion, creating a combined on-demand delivery giant spanning meals and groceries. Intel's stock plunged 21% — and fell 25% in after-hours trading — after the company cited a PC market slowdown for weak forward guidance, its worst session in years. [TechCrunch](https://techcrunch.com/)
+
+> [!breaking]- Macro: Nasdaq worst day since June — Intel −25%, Amazon −7% pre-market; S&P 500 ~7,577 (CNBC)
+> US markets took a significant hit on Friday as Intel plummeted ~25% and Amazon fell ~7% in extended trading after disappointing earnings. The S&P 500 closed around 7,577 (−1.86%) and the Nasdaq posted its worst single-session loss since June. The 10-year Treasury yield holds near 5% on strong Q3 GDP data (+3.4% annualised), adding sustained pressure to growth valuations. [CNBC](https://www.cnbc.com/)
+
+> [!note]- World: US approves 500 Patriot missiles for Ukraine; Russian drone kills 14 at train station (CBS/NBC)
+> The US government approved a sale of 500 Patriot missiles to Ukraine, a significant military-aid commitment as fighting continues. Separately, a Russian drone struck two passenger trains at a station in central Ukraine, killing at least 14 people — one of the deadliest single attacks in weeks. [CBS](https://www.cbsnews.com/world/)
+
+> [!note]- Malaysia/Singapore: Singapore rolls out haze subsidies; Malaysia extends school closures from Indonesian fires (FMT)
+> Singapore launched haze health subsidies for lower-income residents as smoke from Indonesian land-clearing fires pushed air quality to unhealthy levels. Malaysia extended school closures across multiple states as cross-border haze thickened; Singapore also summoned bosses of 10 companies to account for their role in the fires. [FMT](https://www.freemalaysiatoday.com/)
+
+> [!note]- Science: Spiders show REM-like sleep — twitching muscles and eye movements observed (SciTechDaily)
+> Researchers documented REM-like sleep phases in spiders, with leg twitches and retinal eye movements mirroring the REM behaviour seen in mammals. The finding pushes the evolutionary origins of dreaming-linked sleep significantly further back in the animal kingdom. [SciTechDaily](https://scitechdaily.com/)
+
+> [!note]- Nike (NKE): $38.67 (+0.65%) — China revenue −26%; YTD ~−46%; P&L ≈ −$1,519 (24/7 Wall St)
+> NKE closed at $38.67 on October 30, up 0.65% on the day, but down roughly 40% year-to-date and deeply underwater against the 52-week high of $69.14. A 24/7 Wall St report cited Nike's China revenue falling 26% as a key drag, with multiple analysts cutting targets; Barclays holds Overweight at $45. Position: 46 shares @ $71.69 avg; unrealised P&L = 46 × ($38.67 − $71.69) ≈ −$1,519. [247wallst](https://247wallst.com/personal-finance/2026/10/31/theyve-shot-themselves-in-the-face-ramsey-blames-kaepernick-for-nikes-collapse-but-nikes-china-revenue-was-down-26)
 
 ## 2026-10
 
