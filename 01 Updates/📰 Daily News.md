@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-01T05:13
+updated: 2026-11-01T19:04
 topic: daily news
 frequency: daily
 ongoing: false
@@ -79,6 +79,26 @@ unread: true
 
 > [!note]- Science: ISS-grown brain tumour organoids published in PNAS — closer to real GBM than Earth models (MedicalXpress)
 > Notre Dame researchers grew glioblastoma organoids aboard the ISS for 40 days and found the microgravity environment produces 3-D tumour models that more accurately mirror how brain cancer actually behaves than lab-grown equivalents. The PNAS-published results could improve how new GBM treatments are screened and tested. [MedicalXpress](https://medicalxpress.com/news/2026-10-space-grown-glioblastoma-organoids-advance.html)
+
+> **Evening update**
+
+> [!note]- SG/MY: Malaysia-registered taxis entering Singapore to pay S$15/trip from 2027 (Malay Mail)
+> Malaysia-registered taxis crossing into Singapore will be charged S$15 per trip under a new fee structure taking effect in 2027, up sharply from the current S$2-per-month flat charge. The move aims to level the playing field with locally licensed ride-hail and taxi operators and will apply to all cross-border taxis using the Johor Bahru–Singapore corridors. [Malay Mail](https://www.malaymail.com/singapore)
+
+> [!note]- Malaysia: Acosta wins Malaysian MotoGP Sprint at Sepang; main race Sunday (MotoGP.com)
+> Pedro Acosta took victory in Saturday's Malaysian MotoGP Sprint Race at Sepang International Circuit, while pole-sitter Alex Márquez crashed out early in the race. The full grand prix was scheduled for Sunday, 1 November, with championship implications in play as the season enters its final rounds. [MotoGP](https://statsniper.com/leagues/motogp/race/2026/grand-prix-of-malaysia/)
+
+> [!note]- World: Two men charged in UK with aiding Iran over US military base incident (NBC News)
+> Two men have been charged in the United Kingdom with providing assistance to Iran in connection with an incident at a US-run military base on British soil. The arrests come amid continued Iran-US-Israel tensions and fears of further escalation in the Middle East. [NBC News](https://www.nbcnews.com/world)
+
+> [!note]- World: Thousands protest cost of living across Italy; clashes reported (NBC News)
+> Thousands took to the streets in cities across Italy to protest soaring living costs, with some demonstrations turning violent as clashes broke out between protesters and police. The unrest reflects widening discontent across Europe as inflation and energy prices continue to strain household finances. [NBC News](https://www.nbcnews.com/world)
+
+> [!note]- Tech: Apple overtakes Nvidia to hit $5.03T market cap amid AI chip selloff (AI Weekly)
+> Apple's market capitalisation surpassed Nvidia's to reach $5.03 trillion as investors sold chip stocks on fears of overcapacity in AI data-centre spending. OpenAI trimmed its latest fundraising round to $20 billion at a $1.25 trillion valuation amid the correction, while Anthropic's IPO is still expected during the week of November 16. [AI Weekly](https://aiweekly.co)
+
+> [!note]- Science/Economy: Bank of England warns AI models threaten global financial stability (CNBC)
+> The Bank of England Governor warned that advanced AI models pose systemic risks to global financial stability, citing their potential to amplify shocks through autonomous trading. Separately, OPEC+ reportedly agreed in principle to hold output targets steady in December, while markets brace for the US October jobs report — consensus sits at ~65,000 new jobs with unemployment steady at 4.2%. [CNBC](https://www.cnbc.com/world-economy/)
 
 ## 2026-10
 
