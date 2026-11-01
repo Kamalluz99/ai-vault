@@ -122,51 +122,54 @@ unread: true
 >
 > > [!note]- Science/Economy: Bank of England warns AI models threaten global financial stability (CNBC)
 > > The Bank of England Governor warned that advanced AI models pose systemic risks to global financial stability, citing their potential to amplify shocks through autonomous trading. Separately, OPEC+ reportedly agreed in principle to hold output targets steady in December, while markets brace for the US October jobs report — consensus sits at ~65,000 new jobs with unemployment steady at 4.2%. [CNBC](https://www.cnbc.com/world-economy/)
+>
+> > [!note]- Malaysia: Marc Márquez wins Malaysian MotoGP main race; title lead extends to 44 pts (crash.net)
+> > Marc Márquez won the 2026 Malaysian Grand Prix at Sepang on Sunday by 4.172 seconds, claiming his seventh victory of the season and his 80th premier-class win. Pedro Acosta, who had taken the Saturday sprint, finished second, with Alex Márquez third from pole position. Márquez now leads the championship by 44 points over Jorge Martín — who withdrew after a wrist injury at Phillip Island — with three rounds remaining: Qatar, Portimão and Valencia. [Source](https://www.crash.net/motogp/results/1108918/1/2026-malaysian-motogp-sepang-race-results)
 
 ## 2026-10
 
-### [[10-31-26 Sat]]
-
-> [!note]- AI: Gemini 4 Argon hits general availability; Kimi K3 3T open weights published (AI Weekly)
-> Google’s Gemini 4 Argon is now generally available to developers via the Gemini API and has rolled out to the Gemini app and Google Search for AI Pro and Ultra subscribers, completing a voluntary government pre-release access process before wider release. Moonshot AI separately published full weights for Kimi K3 on Hugging Face under a custom license, described as the first open-weight model in the 3-trillion-parameter class. OpenAI cancelled a planned GPT-6.1 Astra release after internal safety tests, with no replacement date set. [Source](https://aiweekly.co/)
-
-> [!note]- Tech: Anduril-Qualcomm unveil BlueChip — rugged US-made laptop for government and military (CNBC)
-> Anduril and Qualcomm announced BlueChip, a rugged laptop built from US-made components targeting government agencies, military personnel, law enforcement, and first responders, with orders expected to open in 2027. The initiative is part of a broader US push to reduce government dependence on foreign-manufactured hardware amid escalating geopolitical tensions. [Source](https://www.cnbc.com)
-
-> [!note]- Macro: Markets closed (Sat); S&P 500 ~7,580 (−1.8% Fri); gold −3% to ~$3,900; oil above $117 (Yahoo Finance)
-> US equity markets are closed today (Saturday). Friday’s S&P 500 fell about 1.8% to ~7,580, extending the week’s tech-led sell-off. Gold dropped approximately 3% to ~$3,900 an ounce — its lowest in a year — despite ongoing geopolitical risk, while oil climbed above $117 per barrel on Iran-Hormuz tensions. Bitcoin held near $77,000 and the VIX rose to ~19.4; the 10-year Treasury yield sits near 4.9%. [Source](https://finance.yahoo.com/markets/)
-
-> [!breaking]- World: US-Israel set to resume Iran airstrikes; Hegseth fires top military planner (CNBC/Geopolitical Futures)
-> The US and Israel are reportedly preparing to resume airstrikes against Iran after diplomacy collapsed — Iran’s senior officials rejected a US ceasefire proposal as unacceptable while Trump denied Iran talks were happening. Defense Secretary Hegseth fired a top US military planner amid the escalating crisis. Iran reported four tankers hit by mines in the Strait of Hormuz on Friday, driving oil above $117 and deepening fears of a broader regional war. [Source](https://www.cnbc.com/world-politics/)
-
-> [!note]- Malaysia/Singapore: Malaysia seizes $12M in smuggled US AI chips at KLIA (SCMP)
-> Malaysian authorities confiscated smuggled US-made AI chips worth approximately US$12 million at Kuala Lumpur International Airport, in a suspected attempt to circumvent US export controls on advanced semiconductors. The seizure is the latest Southeast Asian enforcement action following earlier reports of Nvidia GPUs being routed through the region. Indonesia’s ongoing haze fires have cost Malaysia an estimated US$1.97 billion this year. [Source](https://www.scmp.com/topics/malaysia)
-
-> [!note]- Science: Hidden aggressive cells found in “lower-risk” children’s tumors — reclassification expected (ScienceDaily)
-> Scientists discovered hidden aggressive cancer cells within rhabdomyosarcoma tumors classified as lower-risk in children, suggesting many pediatric cancer cases are currently under-treated. The finding is expected to prompt reclassification of pediatric cancer risk categories and earlier, more aggressive intervention protocols. Separately, Artemis I mission data confirms radiation near the Moon is elevated but less severe than previously feared for future crewed missions. [Source](https://www.sciencedaily.com/)
-
-> [!note]- Nike (NKE): $38.67 (Fri close, +0.65%); D.A. Davidson grows position; Investor Day Nov 16–17; P&L ≈ −$1,519 (MarketBeat)
-> NKE closed Friday at $38.67, up 0.65% from Thursday; markets are closed today (Saturday). D.A. Davidson disclosed a larger NKE position on October 31. Analyst ratings remain sharply split: Barclays Overweight at $45, Deutsche Bank Hold at $33, Berenberg Sell at $27.50; YTD performance down ~44%. Nike Investor Day is scheduled for November 16–17. Position: 46 shares @ $71.69 avg; unrealised P&L = 46 × ($38.67 − $71.69) ≈ −$1,519. [Source](https://marketbeat.com/instant-alerts/filing-nike-inc-nke-stock-da-davidson-co-grows-position-2026-10-31)
-
-> **Evening update**
-
-> [!note]- SG/MY: Singapore summons 10 firms over haze; runners retreat indoors (AsiaOne)
-> Singapore’s Ministry of Sustainability and the Environment summoned the heads of 10 companies linked to Indonesia’s forest fires, stressing it is not seeking scapegoats but demanding accountability. With PSI readings elevated, runners and outdoor gym-goers have moved entirely indoors; the government has rolled out haze health subsidies for lower-income residents. [AsiaOne](https://www.asiaone.com/)
-
-> [!note]- Malaysia: RMAF takes delivery of first FA-50M, replacing Hawk fleet (NST)
-> The Royal Malaysian Air Force received its first FA-50M Golden Eagle light combat aircraft, the first delivery in its programme to retire the ageing BAE Hawk fleet. The FA-50M acquisition from South Korea’s KAI strengthens Malaysia’s air-combat modernisation within ASEAN. [NST](https://nst.com.my/)
-
-> [!note]- World: Zelenskyy in Istanbul for talks with Erdoğan on Ukraine war (Euronews)
-> Ukrainian President Volodymyr Zelenskyy made a working visit to Istanbul to meet Turkish President Recep Tayyip Erdoğan, with discussions centring on the Russia–Ukraine war and Black Sea shipping security. Turkey has maintained ties with both Kyiv and Moscow, positioning Erdoğan as a key potential mediator in any future negotiations. [Euronews](https://www.euronews.com/)
-
-> [!note]- World: Jaishankar urges diplomacy at G20 FM meeting in Atlanta (NDTV)
-> India’s External Affairs Minister S. Jaishankar addressed the G20 Foreign Ministers’ Meeting in Atlanta, hosted by US Secretary of State Marco Rubio, arguing that military solutions will not work and diplomacy must be given a chance. His remarks reflect India’s broader effort to position itself as a bridge-builder amid widening global divisions over the Ukraine war and Middle East tensions. [NDTV](https://www.ndtv.com/)
-
-> [!note]- Tech: Mistral 1T-param model live; Big Tech AI pledges hit $3T (AI Weekly)
-> Mistral released its trillion-parameter open-weight model to wider access, raising the ceiling for publicly available AI capabilities. Big Tech’s aggregated AI capital-spending pledges have climbed to approximately $3 trillion — up from $2.4 trillion in July — while Reddit’s CEO blamed Google’s AI Overviews for stripping the platform of over a million weekly referrals, sending shares down 29%. [AI Weekly](https://aiweekly.co/ai-news-today)
-
-> [!note]- Science: Earth warming 0.35°C/decade since 2015 — fastest ever (ScienceDaily)
-> Scientists have detected a major acceleration in global surface temperatures, with the planet warming at approximately 0.35°C per decade since around 2015 — the fastest sustained rate ever recorded. Researchers warn that exceeding the 1.5°C Paris Agreement target may occur sooner than earlier models projected if this acceleration continues. [ScienceDaily](https://www.sciencedaily.com/)
+> [!note]- [[10-31-26 Sat]]
+>
+> > [!note]- AI: Gemini 4 Argon hits general availability; Kimi K3 3T open weights published (AI Weekly)
+> > Google’s Gemini 4 Argon is now generally available to developers via the Gemini API and has rolled out to the Gemini app and Google Search for AI Pro and Ultra subscribers, completing a voluntary government pre-release access process before wider release. Moonshot AI separately published full weights for Kimi K3 on Hugging Face under a custom license, described as the first open-weight model in the 3-trillion-parameter class. OpenAI cancelled a planned GPT-6.1 Astra release after internal safety tests, with no replacement date set. [Source](https://aiweekly.co/)
+>
+> > [!note]- Tech: Anduril-Qualcomm unveil BlueChip — rugged US-made laptop for government and military (CNBC)
+> > Anduril and Qualcomm announced BlueChip, a rugged laptop built from US-made components targeting government agencies, military personnel, law enforcement, and first responders, with orders expected to open in 2027. The initiative is part of a broader US push to reduce government dependence on foreign-manufactured hardware amid escalating geopolitical tensions. [Source](https://www.cnbc.com)
+>
+> > [!note]- Macro: Markets closed (Sat); S&P 500 ~7,580 (−1.8% Fri); gold −3% to ~$3,900; oil above $117 (Yahoo Finance)
+> > US equity markets are closed today (Saturday). Friday’s S&P 500 fell about 1.8% to ~7,580, extending the week’s tech-led sell-off. Gold dropped approximately 3% to ~$3,900 an ounce — its lowest in a year — despite ongoing geopolitical risk, while oil climbed above $117 per barrel on Iran-Hormuz tensions. Bitcoin held near $77,000 and the VIX rose to ~19.4; the 10-year Treasury yield sits near 4.9%. [Source](https://finance.yahoo.com/markets/)
+>
+> > [!breaking]- World: US-Israel set to resume Iran airstrikes; Hegseth fires top military planner (CNBC/Geopolitical Futures)
+> > The US and Israel are reportedly preparing to resume airstrikes against Iran after diplomacy collapsed — Iran’s senior officials rejected a US ceasefire proposal as unacceptable while Trump denied Iran talks were happening. Defense Secretary Hegseth fired a top US military planner amid the escalating crisis. Iran reported four tankers hit by mines in the Strait of Hormuz on Friday, driving oil above $117 and deepening fears of a broader regional war. [Source](https://www.cnbc.com/world-politics/)
+>
+> > [!note]- Malaysia/Singapore: Malaysia seizes $12M in smuggled US AI chips at KLIA (SCMP)
+> > Malaysian authorities confiscated smuggled US-made AI chips worth approximately US$12 million at Kuala Lumpur International Airport, in a suspected attempt to circumvent US export controls on advanced semiconductors. The seizure is the latest Southeast Asian enforcement action following earlier reports of Nvidia GPUs being routed through the region. Indonesia’s ongoing haze fires have cost Malaysia an estimated US$1.97 billion this year. [Source](https://www.scmp.com/topics/malaysia)
+>
+> > [!note]- Science: Hidden aggressive cells found in “lower-risk” children’s tumors — reclassification expected (ScienceDaily)
+> > Scientists discovered hidden aggressive cancer cells within rhabdomyosarcoma tumors classified as lower-risk in children, suggesting many pediatric cancer cases are currently under-treated. The finding is expected to prompt reclassification of pediatric cancer risk categories and earlier, more aggressive intervention protocols. Separately, Artemis I mission data confirms radiation near the Moon is elevated but less severe than previously feared for future crewed missions. [Source](https://www.sciencedaily.com/)
+>
+> > [!note]- Nike (NKE): $38.67 (Fri close, +0.65%); D.A. Davidson grows position; Investor Day Nov 16–17; P&L ≈ −$1,519 (MarketBeat)
+> > NKE closed Friday at $38.67, up 0.65% from Thursday; markets are closed today (Saturday). D.A. Davidson disclosed a larger NKE position on October 31. Analyst ratings remain sharply split: Barclays Overweight at $45, Deutsche Bank Hold at $33, Berenberg Sell at $27.50; YTD performance down ~44%. Nike Investor Day is scheduled for November 16–17. Position: 46 shares @ $71.69 avg; unrealised P&L = 46 × ($38.67 − $71.69) ≈ −$1,519. [Source](https://marketbeat.com/instant-alerts/filing-nike-inc-nke-stock-da-davidson-co-grows-position-2026-10-31)
+>
+> > **Evening update**
+>
+> > [!note]- SG/MY: Singapore summons 10 firms over haze; runners retreat indoors (AsiaOne)
+> > Singapore’s Ministry of Sustainability and the Environment summoned the heads of 10 companies linked to Indonesia’s forest fires, stressing it is not seeking scapegoats but demanding accountability. With PSI readings elevated, runners and outdoor gym-goers have moved entirely indoors; the government has rolled out haze health subsidies for lower-income residents. [AsiaOne](https://www.asiaone.com/)
+>
+> > [!note]- Malaysia: RMAF takes delivery of first FA-50M, replacing Hawk fleet (NST)
+> > The Royal Malaysian Air Force received its first FA-50M Golden Eagle light combat aircraft, the first delivery in its programme to retire the ageing BAE Hawk fleet. The FA-50M acquisition from South Korea’s KAI strengthens Malaysia’s air-combat modernisation within ASEAN. [NST](https://nst.com.my/)
+>
+> > [!note]- World: Zelenskyy in Istanbul for talks with Erdoğan on Ukraine war (Euronews)
+> > Ukrainian President Volodymyr Zelenskyy made a working visit to Istanbul to meet Turkish President Recep Tayyip Erdoğan, with discussions centring on the Russia–Ukraine war and Black Sea shipping security. Turkey has maintained ties with both Kyiv and Moscow, positioning Erdoğan as a key potential mediator in any future negotiations. [Euronews](https://www.euronews.com/)
+>
+> > [!note]- World: Jaishankar urges diplomacy at G20 FM meeting in Atlanta (NDTV)
+> > India’s External Affairs Minister S. Jaishankar addressed the G20 Foreign Ministers’ Meeting in Atlanta, hosted by US Secretary of State Marco Rubio, arguing that military solutions will not work and diplomacy must be given a chance. His remarks reflect India’s broader effort to position itself as a bridge-builder amid widening global divisions over the Ukraine war and Middle East tensions. [NDTV](https://www.ndtv.com/)
+>
+> > [!note]- Tech: Mistral 1T-param model live; Big Tech AI pledges hit $3T (AI Weekly)
+> > Mistral released its trillion-parameter open-weight model to wider access, raising the ceiling for publicly available AI capabilities. Big Tech’s aggregated AI capital-spending pledges have climbed to approximately $3 trillion — up from $2.4 trillion in July — while Reddit’s CEO blamed Google’s AI Overviews for stripping the platform of over a million weekly referrals, sending shares down 29%. [AI Weekly](https://aiweekly.co/ai-news-today)
+>
+> > [!note]- Science: Earth warming 0.35°C/decade since 2015 — fastest ever (ScienceDaily)
+> > Scientists have detected a major acceleration in global surface temperatures, with the planet warming at approximately 0.35°C per decade since around 2015 — the fastest sustained rate ever recorded. Researchers warn that exceeding the 1.5°C Paris Agreement target may occur sooner than earlier models projected if this acceleration continues. [ScienceDaily](https://www.sciencedaily.com/)
 
 > [!note]- [[10-30-26 Fri]]
 >
