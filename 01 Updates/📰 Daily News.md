@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-01T19:04
+updated: 2026-11-02T05:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -60,45 +60,68 @@ unread: true
 
 ## 2026-11
 
-### [[11-01-26 Sun]]
+### [[11-02-26 Mon]]
 
-> [!note]- AI: Google launches Genie 4 — world model for real-time interactive simulation (AI Release Tracker)
-> Google announced Genie 4 on October 27, a world model capable of generating real-time interactive simulated environments from a single image or prompt, pushing AI beyond static generation into dynamic, playable worlds. Separately, Microsoft is reportedly post-training MAI-Base-2, a 2.8-trillion-parameter model that would rank among the largest pre-training runs ever attempted. [AI Release Tracker](https://aireleasetracker.com/latest)
+> [!note]- AI: Anthropic files US IPO documents; OpenAI cuts fundraising target by $10B (Bloomberg)
+> Anthropic publicly filed IPO documents with the SEC showing extraordinary revenue growth alongside large losses, as AI sector investor scrutiny intensifies. Bloomberg separately reports OpenAI cut its funding target by $10 billion amid wider AI spending concerns, and S&P cut Meta's rating outlook to Negative on heavy AI capex. [Bloomberg](https://www.bloomberg.com/ai)
 
-> [!note]- Tech: Netflix to cut ~1,000 jobs (6% of workforce) in latest wave of October tech layoffs (InformationWeek)
-> Netflix announced plans to lay off approximately 1,000 employees — about 6% of its workforce — as part of an ongoing cost realignment. The move extends a broad October wave that also hit Amazon (under 1,000 roles), HubSpot (~660), eBay (~9% of staff) and Electronic Arts (400 jobs plus the shutdown of BioWare); sector trackers put October's total tech job cuts above 5,000. [InformationWeek](https://www.informationweek.com/it-staffing-careers/2026-tech-company-layoffs)
+> [!note]- Tech: Memory makers SK Hynix, Samsung, Kioxia post record Q3 earnings at ~80% operating margins (REALTECH News)
+> SK Hynix, Samsung, and Kioxia all reported record September-quarter results with operating margins near 80%, fueled by surging AI data-centre HBM and NAND demand. Micron's fiscal 2026 revenue also rose sharply. Microsoft's AI safety and privacy standard for schools simultaneously took effect on November 1. [REALTECH News](https://realtechnews.substack.com/p/realtech-news-november-2026)
 
-> [!note]- Macro: Gold hits 2026 yearly low below $3,900 as hawkish Fed bets surge; oil near $105 (BeinCrypto)
-> Gold fell below $3,900 per ounce — its lowest level of the year and roughly 30% below its January peak — as Fed official Musalem said more rate hikes are needed "soon," with JPMorgan now forecasting rises in December and early 2027. Oil climbed toward $105 on Middle East supply fears linked to Iran-US tensions, while Bitcoin faced ETF outflows of $636M after a suspected Binance hack. [BeinCrypto](https://beincrypto.com/gold-price-lowest-point-2026-analysts)
+> [!note]- Macro: S&P −0.6%, Nasdaq −2.0% for third straight weekly loss; US midterms Tue, BoE rate decision Thu (ATB)
+> US equities posted a third consecutive weekly decline, led by Alphabet's 12.6% drop after reporting its first-ever negative free cash flow as a public company. This week: US midterm elections Tuesday, Bank of England expected to raise 25bp to 4.00% Thursday (98% market probability), and October jobs report Friday. [ATB](https://www.atb.com/wealth/good-advice/markets/weekly-market-update-november-2-2026/)
 
-> [!breaking]- World: Iran warns US/Israel of unlimited retaliation; Qatar shuttles ceasefire draft (CBS News)
-> Iran's Supreme Leader Mojtaba Khamenei warned the U.S. and Israel that if the conflict resumes, Iran will impose no geographical limits on its counter-attacks. Qatari mediators are shuttling an edited ceasefire draft and Trump said the war is "going to get wrapped up soon," but oil markets surged after reports the U.S. told Gulf allies to prepare for possible post-midterm strikes. [CBS News](https://www.cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks/)
+> [!breaking]- World: Iran reports 3 tankers on fire in Strait of Hormuz as ceasefire talks continue (Euronews)
+> Iran's Revolutionary Guard says three oil tankers are on fire in the Strait of Hormuz while diplomatic talks remain ongoing, keeping oil markets on edge ahead of the US midterms. France sees high school blockades resume Monday over rising prices, and the FBI attributed a $6.3 billion Binance crypto hack to North Korea. [Euronews](https://www.euronews.com/)
 
-> [!note]- Malaysia: Melaka state election nominations held Oct 31; campaign begins for Nov 14 polling day (NST)
-> Nominations for the 16th Melaka State Election were filed on October 31, with Pakatan Harapan and Perikatan Nasional candidates contesting seats including Tanjung Bidara. MCA secured the right to contest four seats after PN conceded Kota Laksamana. French President Macron is separately expected to make a state visit to Malaysia on November 16–17. [NST](https://nst.com.my/amp/news/nation/2026/10/1567162/news9-todays-top-headlines-october-30-2026-watch)
+> [!note]- SG/MY: Singapore warns of Johor checkpoint congestion over Deepavali long weekend; haze panel probing firms (CNA/FMT)
+> Singapore authorities warned of long queues at Woodlands and Tuas checkpoints through the Deepavali holiday weekend. A seven-member expert panel is now investigating companies' transboundary haze links, with five Singapore-registered firms agreeing to independent scrutiny over ties to Indonesian fires. [FMT](https://www.freemalaysiatoday.com/category/tag/singapore)
 
-> [!note]- Science: ISS-grown brain tumour organoids published in PNAS — closer to real GBM than Earth models (MedicalXpress)
-> Notre Dame researchers grew glioblastoma organoids aboard the ISS for 40 days and found the microgravity environment produces 3-D tumour models that more accurately mirror how brain cancer actually behaves than lab-grown equivalents. The PNAS-published results could improve how new GBM treatments are screened and tested. [MedicalXpress](https://medicalxpress.com/news/2026-10-space-grown-glioblastoma-organoids-advance.html)
+> [!note]- Science: First patient undergoes pioneering stem-cell therapy for Parkinson's disease (Phys.org)
+> A patient has received the world's first stem-cell treatment for Parkinson's disease, marking a landmark advance in regenerative neuroscience. Separately, researchers confirmed trees can sense their own shape and use specialised reaction wood — functioning like opposing muscles — to keep trunks upright. [Phys.org](https://phys.org/)
 
-> **Evening update**
+> [!note]- Nike (NKE): ~$38.60 (−0.2%) — P&L ≈ −$1,522; down ~40% YTD near 52-week lows; Investor Day Nov 16–17 (Yahoo Finance)
+> NKE closed around $38.60 on November 1, near the bottom of its 52-week range ($31.97–$69.14) after a 2026 decline of roughly 40%, having hit 13-year lows in early October. Analyst targets range from $27.50 (Berenberg Sell) to $45 (Barclays Overweight); consensus is "Reduce" at ~$40.93. Position: 46 shares @ $71.69 avg; unrealised P&L ≈ −$1,522. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/news/)
 
-> [!note]- SG/MY: Malaysia-registered taxis entering Singapore to pay S$15/trip from 2027 (Malay Mail)
-> Malaysia-registered taxis crossing into Singapore will be charged S$15 per trip under a new fee structure taking effect in 2027, up sharply from the current S$2-per-month flat charge. The move aims to level the playing field with locally licensed ride-hail and taxi operators and will apply to all cross-border taxis using the Johor Bahru–Singapore corridors. [Malay Mail](https://www.malaymail.com/singapore)
-
-> [!note]- Malaysia: Acosta wins Malaysian MotoGP Sprint at Sepang; main race Sunday (MotoGP.com)
-> Pedro Acosta took victory in Saturday's Malaysian MotoGP Sprint Race at Sepang International Circuit, while pole-sitter Alex Márquez crashed out early in the race. The full grand prix was scheduled for Sunday, 1 November, with championship implications in play as the season enters its final rounds. [MotoGP](https://statsniper.com/leagues/motogp/race/2026/grand-prix-of-malaysia/)
-
-> [!note]- World: Two men charged in UK with aiding Iran over US military base incident (NBC News)
-> Two men have been charged in the United Kingdom with providing assistance to Iran in connection with an incident at a US-run military base on British soil. The arrests come amid continued Iran-US-Israel tensions and fears of further escalation in the Middle East. [NBC News](https://www.nbcnews.com/world)
-
-> [!note]- World: Thousands protest cost of living across Italy; clashes reported (NBC News)
-> Thousands took to the streets in cities across Italy to protest soaring living costs, with some demonstrations turning violent as clashes broke out between protesters and police. The unrest reflects widening discontent across Europe as inflation and energy prices continue to strain household finances. [NBC News](https://www.nbcnews.com/world)
-
-> [!note]- Tech: Apple overtakes Nvidia to hit $5.03T market cap amid AI chip selloff (AI Weekly)
-> Apple's market capitalisation surpassed Nvidia's to reach $5.03 trillion as investors sold chip stocks on fears of overcapacity in AI data-centre spending. OpenAI trimmed its latest fundraising round to $20 billion at a $1.25 trillion valuation amid the correction, while Anthropic's IPO is still expected during the week of November 16. [AI Weekly](https://aiweekly.co)
-
-> [!note]- Science/Economy: Bank of England warns AI models threaten global financial stability (CNBC)
-> The Bank of England Governor warned that advanced AI models pose systemic risks to global financial stability, citing their potential to amplify shocks through autonomous trading. Separately, OPEC+ reportedly agreed in principle to hold output targets steady in December, while markets brace for the US October jobs report — consensus sits at ~65,000 new jobs with unemployment steady at 4.2%. [CNBC](https://www.cnbc.com/world-economy/)
+> [!note]- [[11-01-26 Sun]]
+>
+> > [!note]- AI: Google launches Genie 4 — world model for real-time interactive simulation (AI Release Tracker)
+> > Google announced Genie 4 on October 27, a world model capable of generating real-time interactive simulated environments from a single image or prompt, pushing AI beyond static generation into dynamic, playable worlds. Separately, Microsoft is reportedly post-training MAI-Base-2, a 2.8-trillion-parameter model that would rank among the largest pre-training runs ever attempted. [AI Release Tracker](https://aireleasetracker.com/latest)
+>
+> > [!note]- Tech: Netflix to cut ~1,000 jobs (6% of workforce) in latest wave of October tech layoffs (InformationWeek)
+> > Netflix announced plans to lay off approximately 1,000 employees — about 6% of its workforce — as part of an ongoing cost realignment. The move extends a broad October wave that also hit Amazon (under 1,000 roles), HubSpot (~660), eBay (~9% of staff) and Electronic Arts (400 jobs plus the shutdown of BioWare); sector trackers put October's total tech job cuts above 5,000. [InformationWeek](https://www.informationweek.com/it-staffing-careers/2026-tech-company-layoffs)
+>
+> > [!note]- Macro: Gold hits 2026 yearly low below $3,900 as hawkish Fed bets surge; oil near $105 (BeinCrypto)
+> > Gold fell below $3,900 per ounce — its lowest level of the year and roughly 30% below its January peak — as Fed official Musalem said more rate hikes are needed "soon," with JPMorgan now forecasting rises in December and early 2027. Oil climbed toward $105 on Middle East supply fears linked to Iran-US tensions, while Bitcoin faced ETF outflows of $636M after a suspected Binance hack. [BeinCrypto](https://beincrypto.com/gold-price-lowest-point-2026-analysts)
+>
+> > [!breaking]- World: Iran warns US/Israel of unlimited retaliation; Qatar shuttles ceasefire draft (CBS News)
+> > Iran's Supreme Leader Mojtaba Khamenei warned the U.S. and Israel that if the conflict resumes, Iran will impose no geographical limits on its counter-attacks. Qatari mediators are shuttling an edited ceasefire draft and Trump said the war is "going to get wrapped up soon," but oil markets surged after reports the U.S. told Gulf allies to prepare for possible post-midterm strikes. [CBS News](https://www.cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks/)
+>
+> > [!note]- Malaysia: Melaka state election nominations held Oct 31; campaign begins for Nov 14 polling day (NST)
+> > Nominations for the 16th Melaka State Election were filed on October 31, with Pakatan Harapan and Perikatan Nasional candidates contesting seats including Tanjung Bidara. MCA secured the right to contest four seats after PN conceded Kota Laksamana. French President Macron is separately expected to make a state visit to Malaysia on November 16–17. [NST](https://nst.com.my/amp/news/nation/2026/10/1567162/news9-todays-top-headlines-october-30-2026-watch)
+>
+> > [!note]- Science: ISS-grown brain tumour organoids published in PNAS — closer to real GBM than Earth models (MedicalXpress)
+> > Notre Dame researchers grew glioblastoma organoids aboard the ISS for 40 days and found the microgravity environment produces 3-D tumour models that more accurately mirror how brain cancer actually behaves than lab-grown equivalents. The PNAS-published results could improve how new GBM treatments are screened and tested. [MedicalXpress](https://medicalxpress.com/news/2026-10-space-grown-glioblastoma-organoids-advance.html)
+>
+> > **Evening update**
+>
+> > [!note]- SG/MY: Malaysia-registered taxis entering Singapore to pay S$15/trip from 2027 (Malay Mail)
+> > Malaysia-registered taxis crossing into Singapore will be charged S$15 per trip under a new fee structure taking effect in 2027, up sharply from the current S$2-per-month flat charge. The move aims to level the playing field with locally licensed ride-hail and taxi operators and will apply to all cross-border taxis using the Johor Bahru–Singapore corridors. [Malay Mail](https://www.malaymail.com/singapore)
+>
+> > [!note]- Malaysia: Acosta wins Malaysian MotoGP Sprint at Sepang; main race Sunday (MotoGP.com)
+> > Pedro Acosta took victory in Saturday's Malaysian MotoGP Sprint Race at Sepang International Circuit, while pole-sitter Alex Márquez crashed out early in the race. The full grand prix was scheduled for Sunday, 1 November, with championship implications in play as the season enters its final rounds. [MotoGP](https://statsniper.com/leagues/motogp/race/2026/grand-prix-of-malaysia/)
+>
+> > [!note]- World: Two men charged in UK with aiding Iran over US military base incident (NBC News)
+> > Two men have been charged in the United Kingdom with providing assistance to Iran in connection with an incident at a US-run military base on British soil. The arrests come amid continued Iran-US-Israel tensions and fears of further escalation in the Middle East. [NBC News](https://www.nbcnews.com/world)
+>
+> > [!note]- World: Thousands protest cost of living across Italy; clashes reported (NBC News)
+> > Thousands took to the streets in cities across Italy to protest soaring living costs, with some demonstrations turning violent as clashes broke out between protesters and police. The unrest reflects widening discontent across Europe as inflation and energy prices continue to strain household finances. [NBC News](https://www.nbcnews.com/world)
+>
+> > [!note]- Tech: Apple overtakes Nvidia to hit $5.03T market cap amid AI chip selloff (AI Weekly)
+> > Apple's market capitalisation surpassed Nvidia's to reach $5.03 trillion as investors sold chip stocks on fears of overcapacity in AI data-centre spending. OpenAI trimmed its latest fundraising round to $20 billion at a $1.25 trillion valuation amid the correction, while Anthropic's IPO is still expected during the week of November 16. [AI Weekly](https://aiweekly.co)
+>
+> > [!note]- Science/Economy: Bank of England warns AI models threaten global financial stability (CNBC)
+> > The Bank of England Governor warned that advanced AI models pose systemic risks to global financial stability, citing their potential to amplify shocks through autonomous trading. Separately, OPEC+ reportedly agreed in principle to hold output targets steady in December, while markets brace for the US October jobs report — consensus sits at ~65,000 new jobs with unemployment steady at 4.2%. [CNBC](https://www.cnbc.com/world-economy/)
 
 ## 2026-10
 
