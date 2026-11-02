@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-03T05:12
+updated: 2026-11-03T05:13
 topic: daily news
 frequency: daily
 ongoing: false
@@ -62,23 +62,23 @@ unread: true
 
 ### [[11-03-26 Tue]]
 
-> [!note]- AI: DeepSeek unveils agentic "super agent" for coding, challenging OpenAI and Anthropic (Bloomberg)
-> DeepSeek's new agentic coding system operates autonomously across complex software engineering tasks, directly challenging OpenAI's Codex and Anthropic's Claude Code. The release continues China's accelerating push into frontier AI, days after Apple confirmed Alibaba's Qwen will power Chinese-market Apple Intelligence. [Bloomberg](https://www.bloomberg.com/ai)
+> [!note]- AI: Google's Gemini 4 Carbon drops Oct 28, OpenAI's GPT-6.1 Terra Oct 26 (Air Release Tracker)
+> Google released Gemini 4 Carbon on October 28 — distinct from its Genie 4 world-model announced the prior day — while OpenAI shipped GPT-6.1 Terra on October 26, marking a dense end-of-October frontier sprint. The rapid cadence underlines how both labs are racing to close 2026 with headline models before year-end evaluations. [Air Release Tracker](https://aireleasetracker.com/latest)
 
-> [!note]- Tech: Marvell acquires Lumentum for ~$115B in all-stock deal — largest public-tech acquisition on record (TechCrunch)
-> Marvell Technology agreed to buy optical-networking firm Lumentum in an all-stock deal worth approximately $115 billion, described as the largest acquisition in public-tech history. The deal positions Marvell to dominate AI data-centre optical interconnect supply chains as hyperscaler AI capex continues to surge. [TechCrunch](https://techcrunch.com/)
+> [!note]- Tech: Microsoft extends voluntary buyouts to ~60,000 staff in largest such offer in company history (Yahoo Finance)
+> Microsoft extended voluntary buyout packages to roughly 60,000 employees in October — the company's largest ever — as it restructures toward AI-centric roles after 4,800 formal layoffs in July. Oracle is cutting up to 30,000 jobs globally in parallel, and Monday.com is shedding 20% of its workforce, reflecting how AI adoption is reshaping headcount across enterprise tech. [Yahoo Finance](https://tech.yahoo.com/general/breaking-news/article/tech-layoffs-2026-tracking-the-job-losses-across-microsoft-netflix-electronic-arts-ebay-apple-meta-and-others-123137131.html)
 
-> [!breaking]- Macro: US midterms today; RBA set to hike 25bp; WTI oil tumbles 6.6% to $96.11 on Iran diplomacy (CNBC/Reuters)
-> US midterm elections are underway with both chambers in play; markets have partly priced in a Democratic House gain while the Senate outcome remains uncertain. The RBA is expected to raise rates 25bp (85% market odds). WTI crude slid sharply after reports the US may allow more time for Iran talks before resuming military action. [CNBC](https://www.cnbc.com/)
+> [!breaking]- Macro: Binance breach sends Bitcoin to $77K; oil at $110 on Iran conflict; gold at $3,915 (FX Street)
+> Bitcoin fell to ~$77,300 — below the key $80K level — after the Binance breach went public and triggered crypto funds' largest outflow since June. Oil held near $110/bbl after spiking to $114 on Iran Strait-of-Hormuz fears, while gold recovered to ~$3,915/oz from a one-year low below $4,000. The Fed held at 3.75–4.00% with two hawks favouring a December hike. [FX Street](https://www.fxstreet.com/analysis/oil-crashes-gold-rebounds-bitcoin-stalls-as-markets-reset-after-octobers-shockwave-202611021652)
 
-> [!note]- World: Gulf states hold emergency Bahrain talks to avert post-midterm Iran conflict; UN ends W. Sahara mission (Al Jazeera)
-> Gulf Arab foreign ministers convened in Manama this weekend to coordinate a push to prevent renewed US strikes on Iran following Tuesday's vote. Separately, the UN's 35-year peacekeeping mission in Western Sahara officially ceased operations yesterday, ending without a political settlement. [Al Jazeera](https://www.aljazeera.com/)
+> [!breaking]- World: Iran-US ceasefire talks stall; four tankers mined in Strait of Hormuz (CBS News)
+> Three days of Qatar-mediated indirect talks yielded no breakthrough, with Tehran saying "the ball is in the U.S. court" and Trump signalling the U.S. still has "targets to take care of." Four tankers were struck by mines in the Strait of Hormuz, amplifying oil-supply risk during the eighth month of the Iran-US conflict. Xi Jinping separately warned the Gulf must not become a great-power arena. [CBS News](https://www.cbsnews.com/live-updates/iran-war-us-trump-negotiations-midterms/)
 
-> [!note]- SG/MY: Singapore bids for first World Court judge in UN vote today; Johor-SG SEZ hits RM88.8B (CNA)
-> Singapore's candidate for the International Court of Justice faces a UN General Assembly vote today — a win would be historic. The Johor-Singapore Special Economic Zone has attracted RM88.8 billion in investment commitments, with ministers citing "good progress" on cross-border infrastructure. [CNA](https://www.channelnewsasia.com/)
+> [!note]- Malaysia: BNM OPR decision due Nov 5; thunderstorms and flash floods hit all 13 states (Malay Mail)
+> Bank Negara Malaysia is set to announce its Overnight Policy Rate decision on November 5, with analysts forecasting a hold as the ringgit trades narrowly against the USD. Nationwide thunderstorms, heavy rain and strong winds are forecast across all 13 states and three federal territories, with flash floods hitting parts of the Klang Valley. Haze has also returned, with Seremban and Johor's Larkin logging API readings of 169. [Malay Mail](https://www.malaymail.com/news/malaysia)
 
-> [!note]- Science: IceCube detects neutrinos at 10 billion× solar energies — highest-energy astrophysical particles ever (ScienceDaily)
-> The IceCube Neutrino Observatory has detected astrophysical neutrinos with energies approximately 10 billion times those of solar neutrinos, a record that opens new observational windows on extreme cosmic events like active galactic nuclei and core-collapse supernovae. [ScienceDaily](https://www.sciencedaily.com/)
+> [!note]- Science: Tiangong space station delivers record-precision test of Einstein's equivalence principle (SciTechDaily)
+> Rubidium atoms released in free fall aboard China's Tiangong space station accelerated at identical rates regardless of their quantum state, one of the most precise orbital confirmations of Einstein's equivalence principle ever performed. The result bolsters confidence in general relativity and supports next-generation gravitational wave and quantum precision experiments. [SciTechDaily](https://scitechdaily.com/)
 
 > [!note]- Nike (NKE): ~$38.87 (~+0.7%) — P&L ≈ −$1,510; objects to ICE/OKX tokenised trading; Barclays PT raised to $45 (Yahoo Finance)
 > NKE last traded ~$38.87, fractionally above Monday's close, still near 2026 lows (52-wk range $31.97–$69.14). Nike formally objected to a new ICE/OKX venue that would allow tokenised trading of its shares. Barclays raised PT to $45 (Overweight); Deutsche Bank cut to $33. Position: 46 shares @ $71.69 avg; unrealised P&L ≈ −$1,510. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
