@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-02T19:04
+updated: 2026-11-03T05:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -60,48 +60,73 @@ unread: true
 
 ## 2026-11
 
-### [[11-02-26 Mon]]
+### [[11-03-26 Tue]]
 
-> [!note]- AI: Anthropic files US IPO documents; OpenAI cuts fundraising target by $10B (Bloomberg)
-> Anthropic publicly filed IPO documents with the SEC showing extraordinary revenue growth alongside large losses, as AI sector investor scrutiny intensifies. Bloomberg separately reports OpenAI cut its funding target by $10 billion amid wider AI spending concerns, and S&P cut Meta's rating outlook to Negative on heavy AI capex. [Bloomberg](https://www.bloomberg.com/ai)
+> [!note]- AI: DeepSeek unveils agentic "super agent" for coding, challenging OpenAI and Anthropic (Bloomberg)
+> DeepSeek's new agentic coding system operates autonomously across complex software engineering tasks, directly challenging OpenAI's Codex and Anthropic's Claude Code. The release continues China's accelerating push into frontier AI, days after Apple confirmed Alibaba's Qwen will power Chinese-market Apple Intelligence. [Bloomberg](https://www.bloomberg.com/ai)
 
-> [!note]- Tech: Memory makers SK Hynix, Samsung, Kioxia post record Q3 earnings at ~80% operating margins (REALTECH News)
-> SK Hynix, Samsung, and Kioxia all reported record September-quarter results with operating margins near 80%, fueled by surging AI data-centre HBM and NAND demand. Micron's fiscal 2026 revenue also rose sharply. Microsoft's AI safety and privacy standard for schools simultaneously took effect on November 1. [REALTECH News](https://realtechnews.substack.com/p/realtech-news-november-2026)
+> [!note]- Tech: Marvell acquires Lumentum for ~$115B in all-stock deal — largest public-tech acquisition on record (TechCrunch)
+> Marvell Technology agreed to buy optical-networking firm Lumentum in an all-stock deal worth approximately $115 billion, described as the largest acquisition in public-tech history. The deal positions Marvell to dominate AI data-centre optical interconnect supply chains as hyperscaler AI capex continues to surge. [TechCrunch](https://techcrunch.com/)
 
-> [!note]- Macro: S&P −0.6%, Nasdaq −2.0% for third straight weekly loss; US midterms Tue, BoE rate decision Thu (ATB)
-> US equities posted a third consecutive weekly decline, led by Alphabet's 12.6% drop after reporting its first-ever negative free cash flow as a public company. This week: US midterm elections Tuesday, Bank of England expected to raise 25bp to 4.00% Thursday (98% market probability), and October jobs report Friday. [ATB](https://www.atb.com/wealth/good-advice/markets/weekly-market-update-november-2-2026/)
+> [!breaking]- Macro: US midterms today; RBA set to hike 25bp; WTI oil tumbles 6.6% to $96.11 on Iran diplomacy (CNBC/Reuters)
+> US midterm elections are underway with both chambers in play; markets have partly priced in a Democratic House gain while the Senate outcome remains uncertain. The RBA is expected to raise rates 25bp (85% market odds). WTI crude slid sharply after reports the US may allow more time for Iran talks before resuming military action. [CNBC](https://www.cnbc.com/)
 
-> [!breaking]- World: Iran reports 3 tankers on fire in Strait of Hormuz as ceasefire talks continue (Euronews)
-> Iran's Revolutionary Guard says three oil tankers are on fire in the Strait of Hormuz while diplomatic talks remain ongoing, keeping oil markets on edge ahead of the US midterms. France sees high school blockades resume Monday over rising prices, and the FBI attributed a $6.3 billion Binance crypto hack to North Korea. [Euronews](https://www.euronews.com/)
+> [!note]- World: Gulf states hold emergency Bahrain talks to avert post-midterm Iran conflict; UN ends W. Sahara mission (Al Jazeera)
+> Gulf Arab foreign ministers convened in Manama this weekend to coordinate a push to prevent renewed US strikes on Iran following Tuesday's vote. Separately, the UN's 35-year peacekeeping mission in Western Sahara officially ceased operations yesterday, ending without a political settlement. [Al Jazeera](https://www.aljazeera.com/)
 
-> [!note]- SG/MY: Singapore warns of Johor checkpoint congestion over Deepavali long weekend; haze panel probing firms (CNA/FMT)
-> Singapore authorities warned of long queues at Woodlands and Tuas checkpoints through the Deepavali holiday weekend. A seven-member expert panel is now investigating companies' transboundary haze links, with five Singapore-registered firms agreeing to independent scrutiny over ties to Indonesian fires. [FMT](https://www.freemalaysiatoday.com/category/tag/singapore)
+> [!note]- SG/MY: Singapore bids for first World Court judge in UN vote today; Johor-SG SEZ hits RM88.8B (CNA)
+> Singapore's candidate for the International Court of Justice faces a UN General Assembly vote today — a win would be historic. The Johor-Singapore Special Economic Zone has attracted RM88.8 billion in investment commitments, with ministers citing "good progress" on cross-border infrastructure. [CNA](https://www.channelnewsasia.com/)
 
-> [!note]- Science: First patient undergoes pioneering stem-cell therapy for Parkinson's disease (Phys.org)
-> A patient has received the world's first stem-cell treatment for Parkinson's disease, marking a landmark advance in regenerative neuroscience. Separately, researchers confirmed trees can sense their own shape and use specialised reaction wood — functioning like opposing muscles — to keep trunks upright. [Phys.org](https://phys.org/)
+> [!note]- Science: IceCube detects neutrinos at 10 billion× solar energies — highest-energy astrophysical particles ever (ScienceDaily)
+> The IceCube Neutrino Observatory has detected astrophysical neutrinos with energies approximately 10 billion times those of solar neutrinos, a record that opens new observational windows on extreme cosmic events like active galactic nuclei and core-collapse supernovae. [ScienceDaily](https://www.sciencedaily.com/)
 
-> [!note]- Nike (NKE): ~$38.60 (−0.2%) — P&L ≈ −$1,522; down ~40% YTD near 52-week lows; Investor Day Nov 16–17 (Yahoo Finance)
-> NKE closed around $38.60 on November 1, near the bottom of its 52-week range ($31.97–$69.14) after a 2026 decline of roughly 40%, having hit 13-year lows in early October. Analyst targets range from $27.50 (Berenberg Sell) to $45 (Barclays Overweight); consensus is "Reduce" at ~$40.93. Position: 46 shares @ $71.69 avg; unrealised P&L ≈ −$1,522. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/news/)
+> [!note]- Nike (NKE): ~$38.87 (~+0.7%) — P&L ≈ −$1,510; objects to ICE/OKX tokenised trading; Barclays PT raised to $45 (Yahoo Finance)
+> NKE last traded ~$38.87, fractionally above Monday's close, still near 2026 lows (52-wk range $31.97–$69.14). Nike formally objected to a new ICE/OKX venue that would allow tokenised trading of its shares. Barclays raised PT to $45 (Overweight); Deutsche Bank cut to $33. Position: 46 shares @ $71.69 avg; unrealised P&L ≈ −$1,510. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
 
-> **Evening update**
-
-> [!note]- SG/MY: Singapore-Indonesia establish joint fire taskforce; haze law tightened (The Edge SG / CNBC)
-> Singapore's Foreign Minister visited Jakarta and the two countries agreed to set up a joint taskforce on forest fires, a key diplomatic step after weeks of toxic haze from Kalimantan and Sumatra. Singapore is simultaneously strengthening its Transboundary Haze Pollution Act to probe corporate links to peatland fires, with five firms agreeing to independent scrutiny. Greenpeace Malaysia has urged Kuala Lumpur to adopt a similar legislative approach. [The Edge Singapore](https://www.theedgesingapore.com/news/trans-boundary-haze/indonesia-rain-set-ease-toxic-haze-singapore-malaysia)
-
-> [!note]- Malaysia: KL formally requests emergency ASEAN meeting on transboundary haze (Malay Mail)
-> Malaysia has formally requested an extraordinary ASEAN meeting to address the transboundary haze from Indonesian fires, with a minister saying "it is an issue that needs an ASEAN solution." Indonesian officials meanwhile brushed off regional criticism, with one saying Indonesia "sends oxygen when there's no smoke." Rain is forecast to begin easing the worst-affected areas only by mid-November. [Malay Mail](https://www.malaymail.com/news/malaysia/2026/10/12/we-send-oxygen-when-theres-no-smoke-indonesian-official-brushes-off-haze-criticism-in-malaysia-singapore/238761)
-
-> [!note]- World: Two men charged in UK with aiding Iran over incident at US military base (NBC News)
-> British authorities charged two men with assisting Iran in connection with an incident at a US-run military base in Britain, as Iran-linked regional tensions continue to simmer. Diplomatic talks involving Iranian delegations are ongoing, with the Middle East watching for any renewed flare-up while ceasefire negotiations remain fragile. [NBC News](https://www.nbcnews.com/world)
-
-> [!note]- World: Anxiety grips Russian men over fears of Putin's stealthy mobilisation (NBC News)
-> Russian men face growing anxiety amid reports the Kremlin may pursue an undisclosed mobilisation as casualties mount in Ukraine and frontline pressure intensifies. Protests over living costs also clashed in Italy, while Eastern European governments are closely monitoring the security situation. [NBC News](https://www.nbcnews.com/world)
-
-> [!note]- Tech: Abu Dhabi signs four OpenAI deals at ADIPEC for "AI-native government" push (AI Weekly)
-> Abu Dhabi signed four separate agreements with OpenAI at the ADIPEC energy conference, committing to build AI-native government services and infrastructure across the emirate in one of the year's largest sovereign AI deals. The announcement coincides with South Korea posting strong October chip export growth driven by AI data-centre HBM demand. [AI Weekly](https://aiweekly.co/ai-news-today)
-
-> [!note]- Economy: BoE governor warns advanced AI models threaten global financial stability (CNBC)
-> Bank of England Governor Andrew Bailey warned that rapidly advancing AI models pose a systemic risk to global financial stability, citing the potential for outsized market moves driven by AI-mediated trading and decision-making. Oil prices also fell further, with Brent crude slipping to around $109.69 a barrel and WTI near $100.63 amid a fragile Middle East ceasefire and rising demand concerns. [CNBC](https://www.cnbc.com/world-economy/)
+> [!note]- [[11-02-26 Mon]]
+>
+> > [!note]- AI: Anthropic files US IPO documents; OpenAI cuts fundraising target by $10B (Bloomberg)
+> > Anthropic publicly filed IPO documents with the SEC showing extraordinary revenue growth alongside large losses, as AI sector investor scrutiny intensifies. Bloomberg separately reports OpenAI cut its funding target by $10 billion amid wider AI spending concerns, and S&P cut Meta's rating outlook to Negative on heavy AI capex. [Bloomberg](https://www.bloomberg.com/ai)
+>
+> > [!note]- Tech: Memory makers SK Hynix, Samsung, Kioxia post record Q3 earnings at ~80% operating margins (REALTECH News)
+> > SK Hynix, Samsung, and Kioxia all reported record September-quarter results with operating margins near 80%, fueled by surging AI data-centre HBM and NAND demand. Micron's fiscal 2026 revenue also rose sharply. Microsoft's AI safety and privacy standard for schools simultaneously took effect on November 1. [REALTECH News](https://realtechnews.substack.com/p/realtech-news-november-2026)
+>
+> > [!note]- Macro: S&P −0.6%, Nasdaq −2.0% for third straight weekly loss; US midterms Tue, BoE rate decision Thu (ATB)
+> > US equities posted a third consecutive weekly decline, led by Alphabet's 12.6% drop after reporting its first-ever negative free cash flow as a public company. This week: US midterm elections Tuesday, Bank of England expected to raise 25bp to 4.00% Thursday (98% market probability), and October jobs report Friday. [ATB](https://www.atb.com/wealth/good-advice/markets/weekly-market-update-november-2-2026/)
+>
+> > [!breaking]- World: Iran reports 3 tankers on fire in Strait of Hormuz as ceasefire talks continue (Euronews)
+> > Iran's Revolutionary Guard says three oil tankers are on fire in the Strait of Hormuz while diplomatic talks remain ongoing, keeping oil markets on edge ahead of the US midterms. France sees high school blockades resume Monday over rising prices, and the FBI attributed a $6.3 billion Binance crypto hack to North Korea. [Euronews](https://www.euronews.com/)
+>
+> > [!note]- SG/MY: Singapore warns of Johor checkpoint congestion over Deepavali long weekend; haze panel probing firms (CNA/FMT)
+> > Singapore authorities warned of long queues at Woodlands and Tuas checkpoints through the Deepavali holiday weekend. A seven-member expert panel is now investigating companies' transboundary haze links, with five Singapore-registered firms agreeing to independent scrutiny over ties to Indonesian fires. [FMT](https://www.freemalaysiatoday.com/category/tag/singapore)
+>
+> > [!note]- Science: First patient undergoes pioneering stem-cell therapy for Parkinson's disease (Phys.org)
+> > A patient has received the world's first stem-cell treatment for Parkinson's disease, marking a landmark advance in regenerative neuroscience. Separately, researchers confirmed trees can sense their own shape and use specialised reaction wood — functioning like opposing muscles — to keep trunks upright. [Phys.org](https://phys.org/)
+>
+> > [!note]- Nike (NKE): ~$38.60 (−0.2%) — P&L ≈ −$1,522; down ~40% YTD near 52-week lows; Investor Day Nov 16–17 (Yahoo Finance)
+> > NKE closed around $38.60 on November 1, near the bottom of its 52-week range ($31.97–$69.14) after a 2026 decline of roughly 40%, having hit 13-year lows in early October. Analyst targets range from $27.50 (Berenberg Sell) to $45 (Barclays Overweight); consensus is "Reduce" at ~$40.93. Position: 46 shares @ $71.69 avg; unrealised P&L ≈ −$1,522. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/news/)
+>
+> > **Evening update**
+>
+> > [!note]- SG/MY: Singapore-Indonesia establish joint fire taskforce; haze law tightened (The Edge SG / CNBC)
+> > Singapore's Foreign Minister visited Jakarta and the two countries agreed to set up a joint taskforce on forest fires, a key diplomatic step after weeks of toxic haze from Kalimantan and Sumatra. Singapore is simultaneously strengthening its Transboundary Haze Pollution Act to probe corporate links to peatland fires, with five firms agreeing to independent scrutiny. Greenpeace Malaysia has urged Kuala Lumpur to adopt a similar legislative approach. [The Edge Singapore](https://www.theedgesingapore.com/news/trans-boundary-haze/indonesia-rain-set-ease-toxic-haze-singapore-malaysia)
+>
+> > [!note]- Malaysia: KL formally requests emergency ASEAN meeting on transboundary haze (Malay Mail)
+> > Malaysia has formally requested an extraordinary ASEAN meeting to address the transboundary haze from Indonesian fires, with a minister saying "it is an issue that needs an ASEAN solution." Indonesian officials meanwhile brushed off regional criticism, with one saying Indonesia "sends oxygen when there's no smoke." Rain is forecast to begin easing the worst-affected areas only by mid-November. [Malay Mail](https://www.malaymail.com/news/malaysia/2026/10/12/we-send-oxygen-when-theres-no-smoke-indonesian-official-brushes-off-haze-criticism-in-malaysia-singapore/238761)
+>
+> > [!note]- World: Two men charged in UK with aiding Iran over incident at US military base (NBC News)
+> > British authorities charged two men with assisting Iran in connection with an incident at a US-run military base in Britain, as Iran-linked regional tensions continue to simmer. Diplomatic talks involving Iranian delegations are ongoing, with the Middle East watching for any renewed flare-up while ceasefire negotiations remain fragile. [NBC News](https://www.nbcnews.com/world)
+>
+> > [!note]- World: Anxiety grips Russian men over fears of Putin's stealthy mobilisation (NBC News)
+> > Russian men face growing anxiety amid reports the Kremlin may pursue an undisclosed mobilisation as casualties mount in Ukraine and frontline pressure intensifies. Protests over living costs also clashed in Italy, while Eastern European governments are closely monitoring the security situation. [NBC News](https://www.nbcnews.com/world)
+>
+> > [!note]- Tech: Abu Dhabi signs four OpenAI deals at ADIPEC for "AI-native government" push (AI Weekly)
+> > Abu Dhabi signed four separate agreements with OpenAI at the ADIPEC energy conference, committing to build AI-native government services and infrastructure across the emirate in one of the year's largest sovereign AI deals. The announcement coincides with South Korea posting strong October chip export growth driven by AI data-centre HBM demand. [AI Weekly](https://aiweekly.co/ai-news-today)
+>
+> > [!note]- Economy: BoE governor warns advanced AI models threaten global financial stability (CNBC)
+> > Bank of England Governor Andrew Bailey warned that rapidly advancing AI models pose a systemic risk to global financial stability, citing the potential for outsized market moves driven by AI-mediated trading and decision-making. Oil prices also fell further, with Brent crude slipping to around $109.69 a barrel and WTI near $100.63 amid a fragile Middle East ceasefire and rising demand concerns. [CNBC](https://www.cnbc.com/world-economy/)
+>
+>
 
 > [!note]- [[11-01-26 Sun]]
 >
