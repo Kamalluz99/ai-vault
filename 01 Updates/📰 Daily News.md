@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-02T05:00
+updated: 2026-11-02T19:04
 topic: daily news
 frequency: daily
 ongoing: false
@@ -82,6 +82,26 @@ unread: true
 
 > [!note]- Nike (NKE): ~$38.60 (−0.2%) — P&L ≈ −$1,522; down ~40% YTD near 52-week lows; Investor Day Nov 16–17 (Yahoo Finance)
 > NKE closed around $38.60 on November 1, near the bottom of its 52-week range ($31.97–$69.14) after a 2026 decline of roughly 40%, having hit 13-year lows in early October. Analyst targets range from $27.50 (Berenberg Sell) to $45 (Barclays Overweight); consensus is "Reduce" at ~$40.93. Position: 46 shares @ $71.69 avg; unrealised P&L ≈ −$1,522. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/news/)
+
+> **Evening update**
+
+> [!note]- SG/MY: Singapore-Indonesia establish joint fire taskforce; haze law tightened (The Edge SG / CNBC)
+> Singapore's Foreign Minister visited Jakarta and the two countries agreed to set up a joint taskforce on forest fires, a key diplomatic step after weeks of toxic haze from Kalimantan and Sumatra. Singapore is simultaneously strengthening its Transboundary Haze Pollution Act to probe corporate links to peatland fires, with five firms agreeing to independent scrutiny. Greenpeace Malaysia has urged Kuala Lumpur to adopt a similar legislative approach. [The Edge Singapore](https://www.theedgesingapore.com/news/trans-boundary-haze/indonesia-rain-set-ease-toxic-haze-singapore-malaysia)
+
+> [!note]- Malaysia: KL formally requests emergency ASEAN meeting on transboundary haze (Malay Mail)
+> Malaysia has formally requested an extraordinary ASEAN meeting to address the transboundary haze from Indonesian fires, with a minister saying "it is an issue that needs an ASEAN solution." Indonesian officials meanwhile brushed off regional criticism, with one saying Indonesia "sends oxygen when there's no smoke." Rain is forecast to begin easing the worst-affected areas only by mid-November. [Malay Mail](https://www.malaymail.com/news/malaysia/2026/10/12/we-send-oxygen-when-theres-no-smoke-indonesian-official-brushes-off-haze-criticism-in-malaysia-singapore/238761)
+
+> [!note]- World: Two men charged in UK with aiding Iran over incident at US military base (NBC News)
+> British authorities charged two men with assisting Iran in connection with an incident at a US-run military base in Britain, as Iran-linked regional tensions continue to simmer. Diplomatic talks involving Iranian delegations are ongoing, with the Middle East watching for any renewed flare-up while ceasefire negotiations remain fragile. [NBC News](https://www.nbcnews.com/world)
+
+> [!note]- World: Anxiety grips Russian men over fears of Putin's stealthy mobilisation (NBC News)
+> Russian men face growing anxiety amid reports the Kremlin may pursue an undisclosed mobilisation as casualties mount in Ukraine and frontline pressure intensifies. Protests over living costs also clashed in Italy, while Eastern European governments are closely monitoring the security situation. [NBC News](https://www.nbcnews.com/world)
+
+> [!note]- Tech: Abu Dhabi signs four OpenAI deals at ADIPEC for "AI-native government" push (AI Weekly)
+> Abu Dhabi signed four separate agreements with OpenAI at the ADIPEC energy conference, committing to build AI-native government services and infrastructure across the emirate in one of the year's largest sovereign AI deals. The announcement coincides with South Korea posting strong October chip export growth driven by AI data-centre HBM demand. [AI Weekly](https://aiweekly.co/ai-news-today)
+
+> [!note]- Economy: BoE governor warns advanced AI models threaten global financial stability (CNBC)
+> Bank of England Governor Andrew Bailey warned that rapidly advancing AI models pose a systemic risk to global financial stability, citing the potential for outsized market moves driven by AI-mediated trading and decision-making. Oil prices also fell further, with Brent crude slipping to around $109.69 a barrel and WTI near $100.63 amid a fragile Middle East ceasefire and rising demand concerns. [CNBC](https://www.cnbc.com/world-economy/)
 
 > [!note]- [[11-01-26 Sun]]
 >
