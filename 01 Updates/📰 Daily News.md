@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-02T19:04
+updated: 2026-11-02T21:12
 topic: daily news
 frequency: daily
 ongoing: false
@@ -102,6 +102,17 @@ unread: true
 
 > [!note]- Economy: BoE governor warns advanced AI models threaten global financial stability (CNBC)
 > Bank of England Governor Andrew Bailey warned that rapidly advancing AI models pose a systemic risk to global financial stability, citing the potential for outsized market moves driven by AI-mediated trading and decision-making. Oil prices also fell further, with Brent crude slipping to around $109.69 a barrel and WTI near $100.63 amid a fragile Middle East ceasefire and rising demand concerns. [CNBC](https://www.cnbc.com/world-economy/)
+
+> **Late update**
+
+> [!breaking]- World: Rubio says Trump wants peaceful Iran solution; WTI plunges ~8%, breaks below $100 (CNBC/OilPrice)
+> Secretary of State Rubio stated Monday that President Trump wants to resolve the Iran conflict "peacefully," while Qatari mediators are holding fresh talks with Iranian officials. Markets reacted sharply: WTI crude fell ~8% to around $96.92 and Brent dropped to ~$105.60, WTI's first move below $100 in weeks. No ceasefire has been announced, but the diplomatic signal marks a notable shift ahead of Tuesday's US midterm elections. [Source](https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Plunge-7-as-US-and-Iran-Signal-Room-for-Diplomacy.html)
+
+> [!note]- SG/MY: Johor-Singapore SEZ surpasses RM88.8B in approved investments (CNA)
+> The Johor-Singapore Special Economic Zone has attracted approximately RM88.8 billion in approved investments, reflecting accelerating economic integration between Malaysia and Singapore. The two governments continue deepening cooperation on the SEZ as a hub for manufacturing, advanced industries, and data centres. [Source](https://www.channelnewsasia.com/singapore)
+
+> [!note]- Tech: Squarespace cuts ~300 jobs (19% of workforce) in product and engineering (Yahoo Finance)
+> Squarespace announced it is laying off approximately 300 employees — about 19% of its global headcount — with cuts concentrated in product and engineering roles. The company said the restructuring is not linked to AI infrastructure investment plans; departing staff receive at least 16 weeks of base pay and healthcare benefits through May 2027. [Source](https://sg.finance.yahoo.com/news/exclusive-squarespace-layoffs-fall-mostly-184122592.html)
 
 > [!note]- [[11-01-26 Sun]]
 >
