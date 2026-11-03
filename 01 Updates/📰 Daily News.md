@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-31T05:00
+updated: 2026-11-03T19:04
 topic: daily news
 frequency: daily
 ongoing: false
@@ -57,6 +57,149 @@ unread: true
 > > [!breaking]- World: Major diplomatic deadline expires tonight (Al Jazeera)
 > > A strategic chokepoint deadline expires at 8pm ET. Negotiations have stalled and military action looks imminent. [Source](https://example.com)
 > ```
+
+## 2026-11
+
+### [[11-03-26 Tue]]
+
+> [!note]- AI: Google's Gemini 4 Carbon drops Oct 28, OpenAI's GPT-6.1 Terra Oct 26 (Air Release Tracker)
+> Google released Gemini 4 Carbon on October 28 — distinct from its Genie 4 world-model announced the prior day — while OpenAI shipped GPT-6.1 Terra on October 26, marking a dense end-of-October frontier sprint. The rapid cadence underlines how both labs are racing to close 2026 with headline models before year-end evaluations. [Air Release Tracker](https://aireleasetracker.com/latest)
+
+> [!note]- Tech: Microsoft extends voluntary buyouts to ~60,000 staff in largest such offer in company history (Yahoo Finance)
+> Microsoft extended voluntary buyout packages to roughly 60,000 employees in October — the company's largest ever — as it restructures toward AI-centric roles after 4,800 formal layoffs in July. Oracle is cutting up to 30,000 jobs globally in parallel, and Monday.com is shedding 20% of its workforce, reflecting how AI adoption is reshaping headcount across enterprise tech. [Yahoo Finance](https://tech.yahoo.com/general/breaking-news/article/tech-layoffs-2026-tracking-the-job-losses-across-microsoft-netflix-electronic-arts-ebay-apple-meta-and-others-123137131.html)
+
+> [!breaking]- Macro: Binance breach sends Bitcoin to $77K; oil at $110 on Iran conflict; gold at $3,915 (FX Street)
+> Bitcoin fell to ~$77,300 — below the key $80K level — after the Binance breach went public and triggered crypto funds' largest outflow since June. Oil held near $110/bbl after spiking to $114 on Iran Strait-of-Hormuz fears, while gold recovered to ~$3,915/oz from a one-year low below $4,000. The Fed held at 3.75–4.00% with two hawks favouring a December hike. [FX Street](https://www.fxstreet.com/analysis/oil-crashes-gold-rebounds-bitcoin-stalls-as-markets-reset-after-octobers-shockwave-202611021652)
+
+> [!breaking]- World: Iran-US ceasefire talks stall; four tankers mined in Strait of Hormuz (CBS News)
+> Three days of Qatar-mediated indirect talks yielded no breakthrough, with Tehran saying "the ball is in the U.S. court" and Trump signalling the U.S. still has "targets to take care of." Four tankers were struck by mines in the Strait of Hormuz, amplifying oil-supply risk during the eighth month of the Iran-US conflict. Xi Jinping separately warned the Gulf must not become a great-power arena. [CBS News](https://www.cbsnews.com/live-updates/iran-war-us-trump-negotiations-midterms/)
+
+> [!note]- Malaysia: BNM OPR decision due Nov 5; thunderstorms and flash floods hit all 13 states (Malay Mail)
+> Bank Negara Malaysia is set to announce its Overnight Policy Rate decision on November 5, with analysts forecasting a hold as the ringgit trades narrowly against the USD. Nationwide thunderstorms, heavy rain and strong winds are forecast across all 13 states and three federal territories, with flash floods hitting parts of the Klang Valley. Haze has also returned, with Seremban and Johor's Larkin logging API readings of 169. [Malay Mail](https://www.malaymail.com/news/malaysia)
+
+> [!note]- Science: Tiangong space station delivers record-precision test of Einstein's equivalence principle (SciTechDaily)
+> Rubidium atoms released in free fall aboard China's Tiangong space station accelerated at identical rates regardless of their quantum state, one of the most precise orbital confirmations of Einstein's equivalence principle ever performed. The result bolsters confidence in general relativity and supports next-generation gravitational wave and quantum precision experiments. [SciTechDaily](https://scitechdaily.com/)
+
+> [!note]- Nike (NKE): ~$38.87 (~+0.7%) — P&L ≈ −$1,510; objects to ICE/OKX tokenised trading; Barclays PT raised to $45 (Yahoo Finance)
+> NKE last traded ~$38.87, fractionally above Monday's close, still near 2026 lows (52-wk range $31.97–$69.14). Nike formally objected to a new ICE/OKX venue that would allow tokenised trading of its shares. Barclays raised PT to $45 (Overweight); Deutsche Bank cut to $33. Position: 46 shares @ $71.69 avg; unrealised P&L ≈ −$1,510. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
+
+> **Evening update**
+
+> [!note]- SG/MY: Singapore to push stronger ASEAN haze action as 2027 Chair (Reuters)
+> Singapore announced it will use its 2027 ASEAN chairmanship to press member states for stronger implementation of the transboundary haze agreement, following weeks of toxic smoke from Indonesian peat fires affecting the region. The move comes amid a formal review of corporate links to fires and ongoing bilateral diplomacy with Jakarta. [Reuters](https://www.reuters.com/world/asia-pacific/)
+
+> [!note]- Malaysia: PM tells parliament key institutions to convene on cyber and geopolitical threats (Reuters)
+> Malaysian Prime Minister Anwar Ibrahim addressed parliament on Tuesday, announcing that key national institutions would convene to prepare responses to escalating cyber and geopolitical threats. The meeting coincides with heightened regional tensions and ongoing debate over Malaysia's national cybersecurity posture. [Reuters](https://www.reuters.com/world/asia-pacific/)
+
+> [!note]- World: Russian air strike kills 24 at school in Zaporizhzhia, Ukraine (Euronews)
+> Russian forces bombed a school in a village in Ukraine's southeastern Zaporizhzhia region on Monday, killing at least 24 people. Emergency services confirmed the death toll as rescue workers searched through the rubble, with the attack drawing renewed international condemnation amid stalled ceasefire talks. [Euronews](https://www.euronews.com/video/2026/11/03/latest-news-bulletin-november-3rd-2026-morning)
+
+> [!breaking]- World: Ebola kills 5,300+ in fastest-growing outbreak on record (Euronews)
+> The current Ebola outbreak has surpassed 5,300 deaths, making it the fastest-growing such outbreak ever recorded. Health authorities are struggling to contain the spread amid infrastructure and logistics challenges across affected regions, and international aid agencies have significantly scaled up response efforts. [Euronews](https://www.euronews.com/video/2026/11/03/latest-news-bulletin-november-3rd-2026-morning)
+
+> [!note]- Tech: Marvell agrees $115B all-stock deal for Lumentum — biggest public-tech M&A ever (Analytics Insight)
+> Marvell Technology has agreed to acquire photonics maker Lumentum in an all-stock deal valued at $115 billion, which analysts are calling the largest public-technology M&A transaction on record. Lumentum specialises in silicon-photonics switching used in AI data-centre infrastructure, and the deal signals a major push by Marvell into AI-driven networking hardware as data-centre buildout accelerates. [Analytics Insight](https://analyticsinsight.net/tech-news/top-tech-news-openais-usd-20b-funding-ai-chip-initiative-and-more)
+
+> [!note]- Economy: Australia raises key rate to 18-year high in split decision (Bloomberg)
+> Australia's central bank raised its key interest rate to an 18-year high in a split decision on Tuesday, citing persistent inflation despite global growth headwinds. The move comes as the Bank of England is also expected to raise rates this week and the US Federal Reserve holds, signalling divergence among developed-economy central banks. Markets remain on edge ahead of Tuesday's US midterm elections and Friday's October jobs report. [Bloomberg](https://www.bloomberg.com/economics)
+
+> [!note]- [[11-02-26 Mon]]
+>
+> > [!note]- AI: Anthropic files US IPO documents; OpenAI cuts fundraising target by $10B (Bloomberg)
+> > Anthropic publicly filed IPO documents with the SEC showing extraordinary revenue growth alongside large losses, as AI sector investor scrutiny intensifies. Bloomberg separately reports OpenAI cut its funding target by $10 billion amid wider AI spending concerns, and S&P cut Meta's rating outlook to Negative on heavy AI capex. [Bloomberg](https://www.bloomberg.com/ai)
+>
+> > [!note]- Tech: Memory makers SK Hynix, Samsung, Kioxia post record Q3 earnings at ~80% operating margins (REALTECH News)
+> > SK Hynix, Samsung, and Kioxia all reported record September-quarter results with operating margins near 80%, fueled by surging AI data-centre HBM and NAND demand. Micron's fiscal 2026 revenue also rose sharply. Microsoft's AI safety and privacy standard for schools simultaneously took effect on November 1. [REALTECH News](https://realtechnews.substack.com/p/realtech-news-november-2026)
+>
+> > [!note]- Macro: S&P −0.6%, Nasdaq −2.0% for third straight weekly loss; US midterms Tue, BoE rate decision Thu (ATB)
+> > US equities posted a third consecutive weekly decline, led by Alphabet's 12.6% drop after reporting its first-ever negative free cash flow as a public company. This week: US midterm elections Tuesday, Bank of England expected to raise 25bp to 4.00% Thursday (98% market probability), and October jobs report Friday. [ATB](https://www.atb.com/wealth/good-advice/markets/weekly-market-update-november-2-2026/)
+>
+> > [!breaking]- World: Iran reports 3 tankers on fire in Strait of Hormuz as ceasefire talks continue (Euronews)
+> > Iran's Revolutionary Guard says three oil tankers are on fire in the Strait of Hormuz while diplomatic talks remain ongoing, keeping oil markets on edge ahead of the US midterms. France sees high school blockades resume Monday over rising prices, and the FBI attributed a $6.3 billion Binance crypto hack to North Korea. [Euronews](https://www.euronews.com/)
+>
+> > [!note]- SG/MY: Singapore warns of Johor checkpoint congestion over Deepavali long weekend; haze panel probing firms (CNA/FMT)
+> > Singapore authorities warned of long queues at Woodlands and Tuas checkpoints through the Deepavali holiday weekend. A seven-member expert panel is now investigating companies' transboundary haze links, with five Singapore-registered firms agreeing to independent scrutiny over ties to Indonesian fires. [FMT](https://www.freemalaysiatoday.com/category/tag/singapore)
+>
+> > [!note]- Science: First patient undergoes pioneering stem-cell therapy for Parkinson's disease (Phys.org)
+> > A patient has received the world's first stem-cell treatment for Parkinson's disease, marking a landmark advance in regenerative neuroscience. Separately, researchers confirmed trees can sense their own shape and use specialised reaction wood — functioning like opposing muscles — to keep trunks upright. [Phys.org](https://phys.org/)
+>
+> > [!note]- Nike (NKE): ~$38.60 (−0.2%) — P&L ≈ −$1,522; down ~40% YTD near 52-week lows; Investor Day Nov 16–17 (Yahoo Finance)
+> > NKE closed around $38.60 on November 1, near the bottom of its 52-week range ($31.97–$69.14) after a 2026 decline of roughly 40%, having hit 13-year lows in early October. Analyst targets range from $27.50 (Berenberg Sell) to $45 (Barclays Overweight); consensus is "Reduce" at ~$40.93. Position: 46 shares @ $71.69 avg; unrealised P&L ≈ −$1,522. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/news/)
+>
+> > **Evening update**
+>
+> > [!note]- SG/MY: Singapore-Indonesia establish joint fire taskforce; haze law tightened (The Edge SG / CNBC)
+> > Singapore's Foreign Minister visited Jakarta and the two countries agreed to set up a joint taskforce on forest fires, a key diplomatic step after weeks of toxic haze from Kalimantan and Sumatra. Singapore is simultaneously strengthening its Transboundary Haze Pollution Act to probe corporate links to peatland fires, with five firms agreeing to independent scrutiny. Greenpeace Malaysia has urged Kuala Lumpur to adopt a similar legislative approach. [The Edge Singapore](https://www.theedgesingapore.com/news/trans-boundary-haze/indonesia-rain-set-ease-toxic-haze-singapore-malaysia)
+>
+> > [!note]- Malaysia: KL formally requests emergency ASEAN meeting on transboundary haze (Malay Mail)
+> > Malaysia has formally requested an extraordinary ASEAN meeting to address the transboundary haze from Indonesian fires, with a minister saying "it is an issue that needs an ASEAN solution." Indonesian officials meanwhile brushed off regional criticism, with one saying Indonesia "sends oxygen when there's no smoke." Rain is forecast to begin easing the worst-affected areas only by mid-November. [Malay Mail](https://www.malaymail.com/news/malaysia/2026/10/12/we-send-oxygen-when-theres-no-smoke-indonesian-official-brushes-off-haze-criticism-in-malaysia-singapore/238761)
+>
+> > [!note]- World: Two men charged in UK with aiding Iran over incident at US military base (NBC News)
+> > British authorities charged two men with assisting Iran in connection with an incident at a US-run military base in Britain, as Iran-linked regional tensions continue to simmer. Diplomatic talks involving Iranian delegations are ongoing, with the Middle East watching for any renewed flare-up while ceasefire negotiations remain fragile. [NBC News](https://www.nbcnews.com/world)
+>
+> > [!note]- World: Anxiety grips Russian men over fears of Putin's stealthy mobilisation (NBC News)
+> > Russian men face growing anxiety amid reports the Kremlin may pursue an undisclosed mobilisation as casualties mount in Ukraine and frontline pressure intensifies. Protests over living costs also clashed in Italy, while Eastern European governments are closely monitoring the security situation. [NBC News](https://www.nbcnews.com/world)
+>
+> > [!note]- Tech: Abu Dhabi signs four OpenAI deals at ADIPEC for "AI-native government" push (AI Weekly)
+> > Abu Dhabi signed four separate agreements with OpenAI at the ADIPEC energy conference, committing to build AI-native government services and infrastructure across the emirate in one of the year's largest sovereign AI deals. The announcement coincides with South Korea posting strong October chip export growth driven by AI data-centre HBM demand. [AI Weekly](https://aiweekly.co/ai-news-today)
+>
+> > [!note]- Economy: BoE governor warns advanced AI models threaten global financial stability (CNBC)
+> > Bank of England Governor Andrew Bailey warned that rapidly advancing AI models pose a systemic risk to global financial stability, citing the potential for outsized market moves driven by AI-mediated trading and decision-making. Oil prices also fell further, with Brent crude slipping to around $109.69 a barrel and WTI near $100.63 amid a fragile Middle East ceasefire and rising demand concerns. [CNBC](https://www.cnbc.com/world-economy/)
+>
+> > **Late update**
+>
+> > [!breaking]- World: Rubio says Trump wants peaceful Iran solution; WTI plunges ~8%, breaks below $100 (CNBC/OilPrice)
+> > Secretary of State Rubio stated Monday that President Trump wants to resolve the Iran conflict "peacefully," while Qatari mediators are holding fresh talks with Iranian officials. Markets reacted sharply: WTI crude fell ~8% to around $96.92 and Brent dropped to ~$105.60, WTI's first move below $100 in weeks. No ceasefire has been announced, but the diplomatic signal marks a notable shift ahead of Tuesday's US midterm elections. [Source](https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Plunge-7-as-US-and-Iran-Signal-Room-for-Diplomacy.html)
+>
+> > [!note]- SG/MY: Johor-Singapore SEZ surpasses RM88.8B in approved investments (CNA)
+> > The Johor-Singapore Special Economic Zone has attracted approximately RM88.8 billion in approved investments, reflecting accelerating economic integration between Malaysia and Singapore. The two governments continue deepening cooperation on the SEZ as a hub for manufacturing, advanced industries, and data centres. [Source](https://www.channelnewsasia.com/singapore)
+>
+> > [!note]- Tech: Squarespace cuts ~300 jobs (19% of workforce) in product and engineering (Yahoo Finance)
+> > Squarespace announced it is laying off approximately 300 employees — about 19% of its global headcount — with cuts concentrated in product and engineering roles. The company said the restructuring is not linked to AI infrastructure investment plans; departing staff receive at least 16 weeks of base pay and healthcare benefits through May 2027. [Source](https://sg.finance.yahoo.com/news/exclusive-squarespace-layoffs-fall-mostly-184122592.html)
+>
+
+> [!note]- [[11-01-26 Sun]]
+>
+> > [!note]- AI: Google launches Genie 4 — world model for real-time interactive simulation (AI Release Tracker)
+> > Google announced Genie 4 on October 27, a world model capable of generating real-time interactive simulated environments from a single image or prompt, pushing AI beyond static generation into dynamic, playable worlds. Separately, Microsoft is reportedly post-training MAI-Base-2, a 2.8-trillion-parameter model that would rank among the largest pre-training runs ever attempted. [AI Release Tracker](https://aireleasetracker.com/latest)
+>
+> > [!note]- Tech: Netflix to cut ~1,000 jobs (6% of workforce) in latest wave of October tech layoffs (InformationWeek)
+> > Netflix announced plans to lay off approximately 1,000 employees — about 6% of its workforce — as part of an ongoing cost realignment. The move extends a broad October wave that also hit Amazon (under 1,000 roles), HubSpot (~660), eBay (~9% of staff) and Electronic Arts (400 jobs plus the shutdown of BioWare); sector trackers put October's total tech job cuts above 5,000. [InformationWeek](https://www.informationweek.com/it-staffing-careers/2026-tech-company-layoffs)
+>
+> > [!note]- Macro: Gold hits 2026 yearly low below $3,900 as hawkish Fed bets surge; oil near $105 (BeinCrypto)
+> > Gold fell below $3,900 per ounce — its lowest level of the year and roughly 30% below its January peak — as Fed official Musalem said more rate hikes are needed "soon," with JPMorgan now forecasting rises in December and early 2027. Oil climbed toward $105 on Middle East supply fears linked to Iran-US tensions, while Bitcoin faced ETF outflows of $636M after a suspected Binance hack. [BeinCrypto](https://beincrypto.com/gold-price-lowest-point-2026-analysts)
+>
+> > [!breaking]- World: Iran warns US/Israel of unlimited retaliation; Qatar shuttles ceasefire draft (CBS News)
+> > Iran's Supreme Leader Mojtaba Khamenei warned the U.S. and Israel that if the conflict resumes, Iran will impose no geographical limits on its counter-attacks. Qatari mediators are shuttling an edited ceasefire draft and Trump said the war is "going to get wrapped up soon," but oil markets surged after reports the U.S. told Gulf allies to prepare for possible post-midterm strikes. [CBS News](https://www.cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks/)
+>
+> > [!note]- Malaysia: Melaka state election nominations held Oct 31; campaign begins for Nov 14 polling day (NST)
+> > Nominations for the 16th Melaka State Election were filed on October 31, with Pakatan Harapan and Perikatan Nasional candidates contesting seats including Tanjung Bidara. MCA secured the right to contest four seats after PN conceded Kota Laksamana. French President Macron is separately expected to make a state visit to Malaysia on November 16–17. [NST](https://nst.com.my/amp/news/nation/2026/10/1567162/news9-todays-top-headlines-october-30-2026-watch)
+>
+> > [!note]- Science: ISS-grown brain tumour organoids published in PNAS — closer to real GBM than Earth models (MedicalXpress)
+> > Notre Dame researchers grew glioblastoma organoids aboard the ISS for 40 days and found the microgravity environment produces 3-D tumour models that more accurately mirror how brain cancer actually behaves than lab-grown equivalents. The PNAS-published results could improve how new GBM treatments are screened and tested. [MedicalXpress](https://medicalxpress.com/news/2026-10-space-grown-glioblastoma-organoids-advance.html)
+>
+> > **Evening update**
+>
+> > [!note]- SG/MY: Malaysia-registered taxis entering Singapore to pay S$15/trip from 2027 (Malay Mail)
+> > Malaysia-registered taxis crossing into Singapore will be charged S$15 per trip under a new fee structure taking effect in 2027, up sharply from the current S$2-per-month flat charge. The move aims to level the playing field with locally licensed ride-hail and taxi operators and will apply to all cross-border taxis using the Johor Bahru–Singapore corridors. [Malay Mail](https://www.malaymail.com/singapore)
+>
+> > [!note]- Malaysia: Acosta wins Malaysian MotoGP Sprint at Sepang; main race Sunday (MotoGP.com)
+> > Pedro Acosta took victory in Saturday's Malaysian MotoGP Sprint Race at Sepang International Circuit, while pole-sitter Alex Márquez crashed out early in the race. The full grand prix was scheduled for Sunday, 1 November, with championship implications in play as the season enters its final rounds. [MotoGP](https://statsniper.com/leagues/motogp/race/2026/grand-prix-of-malaysia/)
+>
+> > [!note]- World: Two men charged in UK with aiding Iran over US military base incident (NBC News)
+> > Two men have been charged in the United Kingdom with providing assistance to Iran in connection with an incident at a US-run military base on British soil. The arrests come amid continued Iran-US-Israel tensions and fears of further escalation in the Middle East. [NBC News](https://www.nbcnews.com/world)
+>
+> > [!note]- World: Thousands protest cost of living across Italy; clashes reported (NBC News)
+> > Thousands took to the streets in cities across Italy to protest soaring living costs, with some demonstrations turning violent as clashes broke out between protesters and police. The unrest reflects widening discontent across Europe as inflation and energy prices continue to strain household finances. [NBC News](https://www.nbcnews.com/world)
+>
+> > [!note]- Tech: Apple overtakes Nvidia to hit $5.03T market cap amid AI chip selloff (AI Weekly)
+> > Apple's market capitalisation surpassed Nvidia's to reach $5.03 trillion as investors sold chip stocks on fears of overcapacity in AI data-centre spending. OpenAI trimmed its latest fundraising round to $20 billion at a $1.25 trillion valuation amid the correction, while Anthropic's IPO is still expected during the week of November 16. [AI Weekly](https://aiweekly.co)
+>
+> > [!note]- Science/Economy: Bank of England warns AI models threaten global financial stability (CNBC)
+> > The Bank of England Governor warned that advanced AI models pose systemic risks to global financial stability, citing their potential to amplify shocks through autonomous trading. Separately, OPEC+ reportedly agreed in principle to hold output targets steady in December, while markets brace for the US October jobs report — consensus sits at ~65,000 new jobs with unemployment steady at 4.2%. [CNBC](https://www.cnbc.com/world-economy/)
+>
+> > [!note]- Malaysia: Marc Márquez wins Malaysian MotoGP main race; title lead extends to 44 pts (crash.net)
+> > Marc Márquez won the 2026 Malaysian Grand Prix at Sepang on Sunday by 4.172 seconds, claiming his seventh victory of the season and his 80th premier-class win. Pedro Acosta, who had taken the Saturday sprint, finished second, with Alex Márquez third from pole position. Márquez now leads the championship by 44 points over Jorge Martín — who withdrew after a wrist injury at Phillip Island — with three rounds remaining: Qatar, Portimão and Valencia. [Source](https://www.crash.net/motogp/results/1108918/1/2026-malaysian-motogp-sepang-race-results)
 
 ## 2026-10
 
