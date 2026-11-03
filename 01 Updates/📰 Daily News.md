@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-03T19:04
+updated: 2026-11-04T05:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -59,6 +59,29 @@ unread: true
 > ```
 
 ## 2026-11
+
+### [[11-04-26 Wed]]
+
+> [!note]- AI: Anthropic warns it's "very close" to RSI — recursive self-improvement AI (TechCrunch)
+> Anthropic has warned publicly that it is very close to achieving RSI (recursive self-improvement) capability, meaning AI that can rebuild and improve itself. The announcement marks a significant escalation in AI safety discourse, as self-improving AI has long been considered a critical capability threshold. [TechCrunch](https://techcrunch.com/category/artificial-intelligence/)
+
+> [!note]- Tech: Apple Intelligence begins China testing with Alibaba's Qwen model (MacRumors)
+> Apple is testing Apple Intelligence in China through iOS developer betas, integrating Alibaba's Qwen model into Siri, Writing Tools, and Visual Intelligence. It marks the first Chinese-market rollout of Apple's AI suite and deepens Apple's partnership with Alibaba for regional compliance. [MacRumors](https://www.macrumors.com/2026/11/02/apple-isnt-done-with-2026-heres-whats-still-coming/)
+
+> [!breaking]- Macro: Nasdaq logs worst month since March 2025 on AI ROI fears; 10-yr yield at 4.93% (CNBC)
+> The Nasdaq Composite posted its worst month since March 2025 as investor concerns over returns on massive AI capital expenditure intensified. The 10-year Treasury yield fell nearly 6 basis points to 4.93% after the Fed held rates unchanged, as expected. The S&P 500 is nearing its 200-day moving average at 7,306. [CNBC](https://www.cnbc.com/2026/10/30/stock-market-next-week-outlook-for-nov-2-6-2026.html)
+
+> [!note]- World: Beijing expels record number of CCP officials post-plenum; Xi purge at historic scale (Taipei Times)
+> Beijing expelled a record number of Communist Party officials following a major political gathering, with many empty seats visible — a signal of the unprecedented scale of Xi Jinping's purges. The move follows an anti-corruption campaign sweeping through military and state enterprise leadership. [Taipei Times](https://www.taipeitimes.com/News/world/archives/2026/11/04/2003867145)
+
+> [!note]- Malaysia/Singapore: Johor-Singapore Economic Zone hits RM88.8B in investments after inaugural JSCMC meeting (AsiaOne)
+> The inaugural Johor-Singapore Cooperation Ministerial Committee meeting confirmed RM88.8 billion in investment commitments to the economic zone, covering manufacturing, logistics, and digital infrastructure. Both governments signed letters of intent signalling momentum ahead of full zone operationalisation. [AsiaOne](https://www.asiaone.com/singapore/johor-singapore-economic-zone-rm88-billion-investments)
+
+> [!note]- Science: Vera Rubin Observatory spots possible new dwarf planet beyond Pluto (ScienceDaily)
+> The Vera Rubin Observatory has identified a candidate dwarf planet in the outer solar system beyond Pluto's orbit, one of the facility's first significant discoveries since survey operations began. Researchers are conducting follow-up observations to confirm orbital parameters. [ScienceDaily](https://www.sciencedaily.com/)
+
+> [!note]- Nike (NKE): ~$38.78 (−1.75%) — objects to ICE/OKX tokenised trading; P&L ≈ −$1,514 (Yahoo Finance)
+> NKE last traded ~$38.78, down ~1.75% on the day, near 2026 lows (52-wk range $31.97–$69.14). Nike formally objected to ICE/OKX allowing tokenised trading of its shares. NKE is down 43% over the past year vs S&P +17.9%. Position: 46 shares @ $71.69 avg; unrealised P&L ≈ −$1,514. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
 
 ### [[11-03-26 Tue]]
 
