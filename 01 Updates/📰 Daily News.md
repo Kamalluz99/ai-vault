@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-04T05:00
+updated: 2026-11-03T05:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -60,71 +60,28 @@ unread: true
 
 ## 2026-11
 
-### [[11-04-26 Wed]]
-
-> [!note]- AI: Anthropic warns it's "very close" to RSI — recursive self-improvement AI (TechCrunch)
-> Anthropic has warned publicly that it is very close to achieving RSI (recursive self-improvement) capability, meaning AI that can rebuild and improve itself. The announcement marks a significant escalation in AI safety discourse, as self-improving AI has long been considered a critical capability threshold. [TechCrunch](https://techcrunch.com/category/artificial-intelligence/)
-
-> [!note]- Tech: Apple Intelligence begins China testing with Alibaba's Qwen model (MacRumors)
-> Apple is testing Apple Intelligence in China through iOS developer betas, integrating Alibaba's Qwen model into Siri, Writing Tools, and Visual Intelligence. It marks the first Chinese-market rollout of Apple's AI suite and deepens Apple's partnership with Alibaba for regional compliance. [MacRumors](https://www.macrumors.com/2026/11/02/apple-isnt-done-with-2026-heres-whats-still-coming/)
-
-> [!breaking]- Macro: Nasdaq logs worst month since March 2025 on AI ROI fears; 10-yr yield at 4.93% (CNBC)
-> The Nasdaq Composite posted its worst month since March 2025 as investor concerns over returns on massive AI capital expenditure intensified. The 10-year Treasury yield fell nearly 6 basis points to 4.93% after the Fed held rates unchanged, as expected. The S&P 500 is nearing its 200-day moving average at 7,306. [CNBC](https://www.cnbc.com/2026/10/30/stock-market-next-week-outlook-for-nov-2-6-2026.html)
-
-> [!note]- World: Beijing expels record number of CCP officials post-plenum; Xi purge at historic scale (Taipei Times)
-> Beijing expelled a record number of Communist Party officials following a major political gathering, with many empty seats visible — a signal of the unprecedented scale of Xi Jinping's purges. The move follows an anti-corruption campaign sweeping through military and state enterprise leadership. [Taipei Times](https://www.taipeitimes.com/News/world/archives/2026/11/04/2003867145)
-
-> [!note]- Malaysia/Singapore: Johor-Singapore Economic Zone hits RM88.8B in investments after inaugural JSCMC meeting (AsiaOne)
-> The inaugural Johor-Singapore Cooperation Ministerial Committee meeting confirmed RM88.8 billion in investment commitments to the economic zone, covering manufacturing, logistics, and digital infrastructure. Both governments signed letters of intent signalling momentum ahead of full zone operationalisation. [AsiaOne](https://www.asiaone.com/singapore/johor-singapore-economic-zone-rm88-billion-investments)
-
-> [!note]- Science: Vera Rubin Observatory spots possible new dwarf planet beyond Pluto (ScienceDaily)
-> The Vera Rubin Observatory has identified a candidate dwarf planet in the outer solar system beyond Pluto's orbit, one of the facility's first significant discoveries since survey operations began. Researchers are conducting follow-up observations to confirm orbital parameters. [ScienceDaily](https://www.sciencedaily.com/)
-
-> [!note]- Nike (NKE): ~$38.78 (−1.75%) — objects to ICE/OKX tokenised trading; P&L ≈ −$1,514 (Yahoo Finance)
-> NKE last traded ~$38.78, down ~1.75% on the day, near 2026 lows (52-wk range $31.97–$69.14). Nike formally objected to ICE/OKX allowing tokenised trading of its shares. NKE is down 43% over the past year vs S&P +17.9%. Position: 46 shares @ $71.69 avg; unrealised P&L ≈ −$1,514. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
-
 ### [[11-03-26 Tue]]
 
-> [!note]- AI: Google's Gemini 4 Carbon drops Oct 28, OpenAI's GPT-6.1 Terra Oct 26 (Air Release Tracker)
-> Google released Gemini 4 Carbon on October 28 — distinct from its Genie 4 world-model announced the prior day — while OpenAI shipped GPT-6.1 Terra on October 26, marking a dense end-of-October frontier sprint. The rapid cadence underlines how both labs are racing to close 2026 with headline models before year-end evaluations. [Air Release Tracker](https://aireleasetracker.com/latest)
+> [!note]- AI: Character.ai files Chapter 11 as AI spending boom shows first cracks (TechCrunch)
+> Character.ai, the popular AI companion chatbot platform, has filed for Chapter 11 bankruptcy protection, becoming one of the most prominent AI consumer startups to collapse amid rising infrastructure costs and intense competition from OpenAI and Google. The filing comes as TechCrunch reports cracks are showing in the broader AI spending boom, with Anthropic's Q3 revenue growth also slowing sharply. Separately, Anthropic is reportedly in early talks to raise at least $30 billion in what could be its largest funding round yet. [TechCrunch](https://techcrunch.com/category/artificial-intelligence/)
 
-> [!note]- Tech: Microsoft extends voluntary buyouts to ~60,000 staff in largest such offer in company history (Yahoo Finance)
-> Microsoft extended voluntary buyout packages to roughly 60,000 employees in October — the company's largest ever — as it restructures toward AI-centric roles after 4,800 formal layoffs in July. Oracle is cutting up to 30,000 jobs globally in parallel, and Monday.com is shedding 20% of its workforce, reflecting how AI adoption is reshaping headcount across enterprise tech. [Yahoo Finance](https://tech.yahoo.com/general/breaking-news/article/tech-layoffs-2026-tracking-the-job-losses-across-microsoft-netflix-electronic-arts-ebay-apple-meta-and-others-123137131.html)
+> [!note]- Tech: Apple Q4 beats on iPhone 18 Pro; Tesla Cybercab Dallas launch in December (CNBC)
+> Apple reported better-than-expected fourth-quarter results driven by strong iPhone 18 Pro sales, while Tesla CEO Elon Musk confirmed the Cybercab robotaxi service will launch commercially in Dallas next month as demand outpaces production. Meta is reportedly seeking up to $25 billion in debt financing to accelerate its AI infrastructure buildout, one of the largest corporate debt moves in the sector. [CNBC](https://www.cnbc.com/technology/)
 
-> [!breaking]- Macro: Binance breach sends Bitcoin to $77K; oil at $110 on Iran conflict; gold at $3,915 (FX Street)
-> Bitcoin fell to ~$77,300 — below the key $80K level — after the Binance breach went public and triggered crypto funds' largest outflow since June. Oil held near $110/bbl after spiking to $114 on Iran Strait-of-Hormuz fears, while gold recovered to ~$3,915/oz from a one-year low below $4,000. The Fed held at 3.75–4.00% with two hawks favouring a December hike. [FX Street](https://www.fxstreet.com/analysis/oil-crashes-gold-rebounds-bitcoin-stalls-as-markets-reset-after-octobers-shockwave-202611021652)
+> [!breaking]- Macro: Oil crashes ~8% on US-Iran peace signals; WTI near $96 (Reuters)
+> Crude oil fell sharply on Tuesday as Secretary of State Rubio signalled US openness to a peaceful resolution with Iran, sparking Brent's largest single-day drop since April, with WTI falling to around $95–97 per barrel. Gold stabilised near $3,930–3,975 per ounce after last week's slide to 2026 lows below $3,900. Bitcoin held around $77,500 as markets simultaneously processed the first results from US midterm elections. [Reuters](https://www.reuters.com/markets/)
 
-> [!breaking]- World: Iran-US ceasefire talks stall; four tankers mined in Strait of Hormuz (CBS News)
-> Three days of Qatar-mediated indirect talks yielded no breakthrough, with Tehran saying "the ball is in the U.S. court" and Trump signalling the U.S. still has "targets to take care of." Four tankers were struck by mines in the Strait of Hormuz, amplifying oil-supply risk during the eighth month of the Iran-US conflict. Xi Jinping separately warned the Gulf must not become a great-power arena. [CBS News](https://www.cbsnews.com/live-updates/iran-war-us-trump-negotiations-midterms/)
+> [!breaking]- World: US midterms underway — Congress control and Iran policy in play (CBS News)
+> Americans voted in the November 3 midterm elections with both the House and Senate in contention, as markets watch for shifts in AI regulation, Iran policy, and fiscal spending. Analysts warn that stronger Democratic gains could tighten AI oversight rules, while Republican gains would likely harden the administration's stance on Iran. Israel's simultaneous election resulted in a hung Knesset, leaving Netanyahu's bloc one seat short of a governing majority. [CBS News](https://www.cbsnews.com/)
 
-> [!note]- Malaysia: BNM OPR decision due Nov 5; thunderstorms and flash floods hit all 13 states (Malay Mail)
-> Bank Negara Malaysia is set to announce its Overnight Policy Rate decision on November 5, with analysts forecasting a hold as the ringgit trades narrowly against the USD. Nationwide thunderstorms, heavy rain and strong winds are forecast across all 13 states and three federal territories, with flash floods hitting parts of the Klang Valley. Haze has also returned, with Seremban and Johor's Larkin logging API readings of 169. [Malay Mail](https://www.malaymail.com/news/malaysia)
+> [!note]- Malaysia/Singapore: SG haze subsidies; MY extends school closures as Indonesian fires persist (FMT)
+> Singapore announced targeted subsidies for air purifiers and masks as haze from Indonesian peat fires continued to grip the region, while Malaysia extended school closures across several affected states. Singapore's Foreign Ministry is using the crisis to build its case for stronger ASEAN enforcement of the Transboundary Haze Pollution Agreement ahead of its 2027 chairmanship. API readings in parts of Johor and Selangor remained in the hazardous range. [FMT](https://www.freemalaysiatoday.com/category/tag/singapore)
 
-> [!note]- Science: Tiangong space station delivers record-precision test of Einstein's equivalence principle (SciTechDaily)
-> Rubidium atoms released in free fall aboard China's Tiangong space station accelerated at identical rates regardless of their quantum state, one of the most precise orbital confirmations of Einstein's equivalence principle ever performed. The result bolsters confidence in general relativity and supports next-generation gravitational wave and quantum precision experiments. [SciTechDaily](https://scitechdaily.com/)
+> [!note]- Science: All five DNA/RNA nucleobases confirmed in asteroid Ryugu samples (ScienceDaily)
+> Scientists analysing samples returned from asteroid Ryugu by Japan's Hayabusa2 mission have confirmed the presence of all five nucleobases used in DNA and RNA — adenine, guanine, cytosine, thymine, and uracil. The discovery strengthens the case that key building blocks of life were delivered to early Earth via asteroid impacts billions of years ago, and is considered one of the most significant results from the Hayabusa2 sample-return mission. [ScienceDaily](https://www.sciencedaily.com/news/space_time/)
 
-> [!note]- Nike (NKE): ~$38.87 (~+0.7%) — P&L ≈ −$1,510; objects to ICE/OKX tokenised trading; Barclays PT raised to $45 (Yahoo Finance)
-> NKE last traded ~$38.87, fractionally above Monday's close, still near 2026 lows (52-wk range $31.97–$69.14). Nike formally objected to a new ICE/OKX venue that would allow tokenised trading of its shares. Barclays raised PT to $45 (Overweight); Deutsche Bank cut to $33. Position: 46 shares @ $71.69 avg; unrealised P&L ≈ −$1,510. [Yahoo Finance](https://finance.yahoo.com/quote/NKE/)
-
-> **Evening update**
-
-> [!note]- SG/MY: Singapore to push stronger ASEAN haze action as 2027 Chair (Reuters)
-> Singapore announced it will use its 2027 ASEAN chairmanship to press member states for stronger implementation of the transboundary haze agreement, following weeks of toxic smoke from Indonesian peat fires affecting the region. The move comes amid a formal review of corporate links to fires and ongoing bilateral diplomacy with Jakarta. [Reuters](https://www.reuters.com/world/asia-pacific/)
-
-> [!note]- Malaysia: PM tells parliament key institutions to convene on cyber and geopolitical threats (Reuters)
-> Malaysian Prime Minister Anwar Ibrahim addressed parliament on Tuesday, announcing that key national institutions would convene to prepare responses to escalating cyber and geopolitical threats. The meeting coincides with heightened regional tensions and ongoing debate over Malaysia's national cybersecurity posture. [Reuters](https://www.reuters.com/world/asia-pacific/)
-
-> [!note]- World: Russian air strike kills 24 at school in Zaporizhzhia, Ukraine (Euronews)
-> Russian forces bombed a school in a village in Ukraine's southeastern Zaporizhzhia region on Monday, killing at least 24 people. Emergency services confirmed the death toll as rescue workers searched through the rubble, with the attack drawing renewed international condemnation amid stalled ceasefire talks. [Euronews](https://www.euronews.com/video/2026/11/03/latest-news-bulletin-november-3rd-2026-morning)
-
-> [!breaking]- World: Ebola kills 5,300+ in fastest-growing outbreak on record (Euronews)
-> The current Ebola outbreak has surpassed 5,300 deaths, making it the fastest-growing such outbreak ever recorded. Health authorities are struggling to contain the spread amid infrastructure and logistics challenges across affected regions, and international aid agencies have significantly scaled up response efforts. [Euronews](https://www.euronews.com/video/2026/11/03/latest-news-bulletin-november-3rd-2026-morning)
-
-> [!note]- Tech: Marvell agrees $115B all-stock deal for Lumentum — biggest public-tech M&A ever (Analytics Insight)
-> Marvell Technology has agreed to acquire photonics maker Lumentum in an all-stock deal valued at $115 billion, which analysts are calling the largest public-technology M&A transaction on record. Lumentum specialises in silicon-photonics switching used in AI data-centre infrastructure, and the deal signals a major push by Marvell into AI-driven networking hardware as data-centre buildout accelerates. [Analytics Insight](https://analyticsinsight.net/tech-news/top-tech-news-openais-usd-20b-funding-ai-chip-initiative-and-more)
-
-> [!note]- Economy: Australia raises key rate to 18-year high in split decision (Bloomberg)
-> Australia's central bank raised its key interest rate to an 18-year high in a split decision on Tuesday, citing persistent inflation despite global growth headwinds. The move comes as the Bank of England is also expected to raise rates this week and the US Federal Reserve holds, signalling divergence among developed-economy central banks. Markets remain on edge ahead of Tuesday's US midterm elections and Friday's October jobs report. [Bloomberg](https://www.bloomberg.com/economics)
+> [!note]- Nike (NKE): ~$39.11 (+1.1%); Wolfe Underperform $28; Inv Day Nov 16–17; P&L ≈ −$1,499 (MarketBeat)
+> NKE rose about 1.1% to $39.11 on Monday (Nov 2), remaining well below its 200-day moving average of $46.27 and near 2026 lows (52-wk range $31.97–$69.14). Wolfe Research initiated coverage with an Underperform rating and a $28 price target, while Barclays holds Overweight at $45 and Bernstein rates it Buy. Investor Day on November 16–17 is the next major catalyst to gauge turnaround progress. Position: 46 shares @ $71.69 avg; unrealised P&L ≈ −$1,499. [MarketBeat](https://marketbeat.com/instant-alerts/price-nike-nyse-nke-stock-jumps-11-should-you-buy-2026-11-02)
 
 > [!note]- [[11-02-26 Mon]]
 >
