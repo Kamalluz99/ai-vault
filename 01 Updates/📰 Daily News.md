@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-05T05:00
+updated: 2026-11-04T21:15
 topic: daily news
 frequency: daily
 ongoing: false
@@ -103,6 +103,15 @@ unread: true
 >
 > > [!note]- Economy: S&P 500 snaps 3-day skid on Election Day; euro zone inflation hits 4%; Fed hike odds at 85% (CNBC)
 > > The S&P 500 broke a three-session losing streak on Election Day as chip stocks rebounded, though analysts warn that the Democrat sweep could tighten AI and tech regulation. Euro zone inflation reached 4% for the first time in several years, raising fresh ECB rate-hike expectations. Deloitte's weekly update puts the probability of a US Fed rate hike at the December meeting at 85.3%, while underlying GDP growth ex-inventory is tracking at a soft 1.8%, almost entirely driven by AI investment. [CNBC](https://www.cnbc.com/markets/)
+>
+> > [!note]- AI: China's NDRC fast-tracks comprehensive AI law covering DeepSeek, Alibaba, Moonshot (AI Weekly)
+> > China's planning agency announced it will accelerate a sweeping AI law covering the full model lifecycle, with mandatory safety standards from development through deployment targeting all major domestic AI companies. The move is one of the most ambitious AI regulatory frameworks globally. Separately, Geoffrey Hinton endorsed a Finland-led plan backed by 32 countries calling for mandatory frontier-model testing and independent evaluation bodies. [AI Weekly](https://aiweekly.co/alerts/chinas-ndrc-speeds-ai-law-covering-deepseek-alibaba-moonshot)
+>
+> > [!note]- Science: Drug developed for spinal cord injuries shows promise against multiple Alzheimer's features (ScienceDaily)
+> > Researchers have found that a drug originally designed to treat spinal cord injuries can target several key biological hallmarks of Alzheimer's disease in preclinical tests, raising hopes for a new class of neuroprotective therapies. A separate study identified a small group of brain cells that suppresses dangerous blood pressure spikes, revealing a hidden cardiovascular risk factor that standard average readings miss. Mount Sinai human tissue models were also launched to the ISS on SpaceX CRS-35 to study accelerated aging in orbit. [ScienceDaily](https://www.sciencedaily.com/)
+>
+> > [!note]- Nike (NKE): ~$40.63 (+5.6%); Morgan Stanley cuts to $25 Underweight; P&L ≈ −$1,429 (StockAnalysis)
+> > NKE bounced roughly 5.6% to around $40.63 Wednesday on the broad market rally following the Democratic sweep, though the stock remains near multi-year lows. Morgan Stanley lowered its target to $25 (Underweight) and Deutsche Bank cut to $33 (Hold), while Barclays raised its target to $45 (Overweight); consensus sits at Hold with an average target of ~$36.50. Investor Day on November 16–17 is the next major catalyst. Position: 46 shares @ $71.69 avg; unrealised P&L ≈ −$1,429. [StockAnalysis](https://stockanalysis.com/stocks/nke/)
 
 > [!note]- [[11-03-26 Tue]]
 >
