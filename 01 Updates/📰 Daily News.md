@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-03T05:00
+updated: 2026-11-04T20:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -60,29 +60,50 @@ unread: true
 
 ## 2026-11
 
-### [[11-03-26 Tue]]
 
-> [!note]- AI: Character.ai files Chapter 11 as AI spending boom shows first cracks (TechCrunch)
-> Character.ai, the popular AI companion chatbot platform, has filed for Chapter 11 bankruptcy protection, becoming one of the most prominent AI consumer startups to collapse amid rising infrastructure costs and intense competition from OpenAI and Google. The filing comes as TechCrunch reports cracks are showing in the broader AI spending boom, with Anthropic's Q3 revenue growth also slowing sharply. Separately, Anthropic is reportedly in early talks to raise at least $30 billion in what could be its largest funding round yet. [TechCrunch](https://techcrunch.com/category/artificial-intelligence/)
+### [[11-04-26 Wed]]
 
-> [!note]- Tech: Apple Q4 beats on iPhone 18 Pro; Tesla Cybercab Dallas launch in December (CNBC)
-> Apple reported better-than-expected fourth-quarter results driven by strong iPhone 18 Pro sales, while Tesla CEO Elon Musk confirmed the Cybercab robotaxi service will launch commercially in Dallas next month as demand outpaces production. Meta is reportedly seeking up to $25 billion in debt financing to accelerate its AI infrastructure buildout, one of the largest corporate debt moves in the sector. [CNBC](https://www.cnbc.com/technology/)
+> [!breaking]- World: Democrats seize House and Senate in historic US midterm blue wave (CBS News)
+> Democrats swept to decisive control of the House of Representatives and flipped the Senate majority halfway through President Donald Trump's second term, in one of the most significant midterm repudiations in US history. Among the notable upsets, Democrat Troy Jackson defeated Republican Senator Susan Collins in Maine. Markets are now pricing in a tightening of AI and tech regulation and a possible shift in US Iran and trade policy under the new congressional balance effective January. [CBS News](https://www.cbsnews.com/)
 
-> [!breaking]- Macro: Oil crashes ~8% on US-Iran peace signals; WTI near $96 (Reuters)
-> Crude oil fell sharply on Tuesday as Secretary of State Rubio signalled US openness to a peaceful resolution with Iran, sparking Brent's largest single-day drop since April, with WTI falling to around $95–97 per barrel. Gold stabilised near $3,930–3,975 per ounce after last week's slide to 2026 lows below $3,900. Bitcoin held around $77,500 as markets simultaneously processed the first results from US midterm elections. [Reuters](https://www.reuters.com/markets/)
+> [!note]- World: US strikes Iran's Qeshm Island overnight; Russia hits Ukraine power grid (Reuters)
+> US forces launched overnight strikes on Iran's Qeshm Island in the latest secret attack on Iranian military infrastructure, even as President Trump signalled oil prices were falling because he saw no escalation ahead. Russia simultaneously struck power stations in Kyiv and Zhytomyr, and Israel's election commission found no evidence of fraud in last week's national vote, undercutting Netanyahu's attempts to discredit the result. [Reuters](https://www.reuters.com/)
 
-> [!breaking]- World: US midterms underway — Congress control and Iran policy in play (CBS News)
-> Americans voted in the November 3 midterm elections with both the House and Senate in contention, as markets watch for shifts in AI regulation, Iran policy, and fiscal spending. Analysts warn that stronger Democratic gains could tighten AI oversight rules, while Republican gains would likely harden the administration's stance on Iran. Israel's simultaneous election resulted in a hung Knesset, leaving Netanyahu's bloc one seat short of a governing majority. [CBS News](https://www.cbsnews.com/)
+> [!note]- SG/MY: Indonesia halts electricity exports to Singapore over pricing dispute (AsiaOne)
+> Indonesia has refused to proceed with cross-border electricity exports to Singapore until pricing and revenue-sharing terms are renegotiated, complicating Singapore's clean energy transition plans and its 4GW low-carbon import target for 2035. Haze from Indonesian peat fires continues to linger across the region, with Johor API readings remaining unhealthy. Johor authorities have also mapped flood-prone hotspots ahead of the northeast monsoon, which typically peaks November–January. [AsiaOne](https://www.asiaone.com/)
 
-> [!note]- Malaysia/Singapore: SG haze subsidies; MY extends school closures as Indonesian fires persist (FMT)
-> Singapore announced targeted subsidies for air purifiers and masks as haze from Indonesian peat fires continued to grip the region, while Malaysia extended school closures across several affected states. Singapore's Foreign Ministry is using the crisis to build its case for stronger ASEAN enforcement of the Transboundary Haze Pollution Agreement ahead of its 2027 chairmanship. API readings in parts of Johor and Selangor remained in the hazardous range. [FMT](https://www.freemalaysiatoday.com/category/tag/singapore)
+> [!note]- Malaysia: Melaka by-election tests Anwar's unity coalition as race politics resurfaces (SCMP)
+> A state by-election in Melaka is emerging as the first real stress test of Prime Minister Anwar Ibrahim's multi-racial unity government, with component parties clashing over race-based policy demands. The result is seen as a bellwether for whether the coalition can survive mounting internal tensions heading into 2027. Separately, Malaysia's debut Hyrox fitness event faces cancellation after officials pressed organisers to remove Carlsberg as a beer sponsor. [SCMP](https://www.scmp.com/news/asia/southeast-asia)
 
-> [!note]- Science: All five DNA/RNA nucleobases confirmed in asteroid Ryugu samples (ScienceDaily)
-> Scientists analysing samples returned from asteroid Ryugu by Japan's Hayabusa2 mission have confirmed the presence of all five nucleobases used in DNA and RNA — adenine, guanine, cytosine, thymine, and uracil. The discovery strengthens the case that key building blocks of life were delivered to early Earth via asteroid impacts billions of years ago, and is considered one of the most significant results from the Hayabusa2 sample-return mission. [ScienceDaily](https://www.sciencedaily.com/news/space_time/)
+> [!note]- Tech: Brookfield and Drax announce $27B AI data centre at UK power station (Reuters)
+> Brookfield Asset Management and UK energy group Drax have signed an agreement to develop a $27 billion AI data centre on the Drax power station estate in North Yorkshire, alongside Brookfield's neocloud platform Radiant. The project is one of the largest AI infrastructure investments announced in Europe and would repurpose the coal-to-biomass facility as a combined power and compute hub. The midterm result is expected to trigger new US congressional scrutiny of large AI sector capital expenditure. [Reuters](https://www.reuters.com/)
 
-> [!note]- Nike (NKE): ~$39.11 (+1.1%); Wolfe Underperform $28; Inv Day Nov 16–17; P&L ≈ −$1,499 (MarketBeat)
-> NKE rose about 1.1% to $39.11 on Monday (Nov 2), remaining well below its 200-day moving average of $46.27 and near 2026 lows (52-wk range $31.97–$69.14). Wolfe Research initiated coverage with an Underperform rating and a $28 price target, while Barclays holds Overweight at $45 and Bernstein rates it Buy. Investor Day on November 16–17 is the next major catalyst to gauge turnaround progress. Position: 46 shares @ $71.69 avg; unrealised P&L ≈ −$1,499. [MarketBeat](https://marketbeat.com/instant-alerts/price-nike-nyse-nke-stock-jumps-11-should-you-buy-2026-11-02)
+> [!note]- Economy: S&P 500 snaps 3-day skid on Election Day; euro zone inflation hits 4%; Fed hike odds at 85% (CNBC)
+> The S&P 500 broke a three-session losing streak on Election Day as chip stocks rebounded, though analysts warn that the Democrat sweep could tighten AI and tech regulation. Euro zone inflation reached 4% for the first time in several years, raising fresh ECB rate-hike expectations. Deloitte's weekly update puts the probability of a US Fed rate hike at the December meeting at 85.3%, while underlying GDP growth ex-inventory is tracking at a soft 1.8%, almost entirely driven by AI investment. [CNBC](https://www.cnbc.com/markets/)
 
+> [!note]- [[11-03-26 Tue]]
+>
+> > [!note]- AI: Character.ai files Chapter 11 as AI spending boom shows first cracks (TechCrunch)
+> > Character.ai, the popular AI companion chatbot platform, has filed for Chapter 11 bankruptcy protection, becoming one of the most prominent AI consumer startups to collapse amid rising infrastructure costs and intense competition from OpenAI and Google. The filing comes as TechCrunch reports cracks are showing in the broader AI spending boom, with Anthropic's Q3 revenue growth also slowing sharply. Separately, Anthropic is reportedly in early talks to raise at least $30 billion in what could be its largest funding round yet. [TechCrunch](https://techcrunch.com/category/artificial-intelligence/)
+>
+> > [!note]- Tech: Apple Q4 beats on iPhone 18 Pro; Tesla Cybercab Dallas launch in December (CNBC)
+> > Apple reported better-than-expected fourth-quarter results driven by strong iPhone 18 Pro sales, while Tesla CEO Elon Musk confirmed the Cybercab robotaxi service will launch commercially in Dallas next month as demand outpaces production. Meta is reportedly seeking up to $25 billion in debt financing to accelerate its AI infrastructure buildout, one of the largest corporate debt moves in the sector. [CNBC](https://www.cnbc.com/technology/)
+>
+> > [!breaking]- Macro: Oil crashes ~8% on US-Iran peace signals; WTI near $96 (Reuters)
+> > Crude oil fell sharply on Tuesday as Secretary of State Rubio signalled US openness to a peaceful resolution with Iran, sparking Brent's largest single-day drop since April, with WTI falling to around $95–97 per barrel. Gold stabilised near $3,930–3,975 per ounce after last week's slide to 2026 lows below $3,900. Bitcoin held around $77,500 as markets simultaneously processed the first results from US midterm elections. [Reuters](https://www.reuters.com/markets/)
+>
+> > [!breaking]- World: US midterms underway — Congress control and Iran policy in play (CBS News)
+> > Americans voted in the November 3 midterm elections with both the House and Senate in contention, as markets watch for shifts in AI regulation, Iran policy, and fiscal spending. Analysts warn that stronger Democratic gains could tighten AI oversight rules, while Republican gains would likely harden the administration's stance on Iran. Israel's simultaneous election resulted in a hung Knesset, leaving Netanyahu's bloc one seat short of a governing majority. [CBS News](https://www.cbsnews.com/)
+>
+> > [!note]- Malaysia/Singapore: SG haze subsidies; MY extends school closures as Indonesian fires persist (FMT)
+> > Singapore announced targeted subsidies for air purifiers and masks as haze from Indonesian peat fires continued to grip the region, while Malaysia extended school closures across several affected states. Singapore's Foreign Ministry is using the crisis to build its case for stronger ASEAN enforcement of the Transboundary Haze Pollution Agreement ahead of its 2027 chairmanship. API readings in parts of Johor and Selangor remained in the hazardous range. [FMT](https://www.freemalaysiatoday.com/category/tag/singapore)
+>
+> > [!note]- Science: All five DNA/RNA nucleobases confirmed in asteroid Ryugu samples (ScienceDaily)
+> > Scientists analysing samples returned from asteroid Ryugu by Japan's Hayabusa2 mission have confirmed the presence of all five nucleobases used in DNA and RNA — adenine, guanine, cytosine, thymine, and uracil. The discovery strengthens the case that key building blocks of life were delivered to early Earth via asteroid impacts billions of years ago, and is considered one of the most significant results from the Hayabusa2 sample-return mission. [ScienceDaily](https://www.sciencedaily.com/news/space_time/)
+>
+> > [!note]- Nike (NKE): ~$39.11 (+1.1%); Wolfe Underperform $28; Inv Day Nov 16–17; P&L ≈ −$1,499 (MarketBeat)
+> > NKE rose about 1.1% to $39.11 on Monday (Nov 2), remaining well below its 200-day moving average of $46.27 and near 2026 lows (52-wk range $31.97–$69.14). Wolfe Research initiated coverage with an Underperform rating and a $28 price target, while Barclays holds Overweight at $45 and Bernstein rates it Buy. Investor Day on November 16–17 is the next major catalyst to gauge turnaround progress. Position: 46 shares @ $71.69 avg; unrealised P&L ≈ −$1,499. [MarketBeat](https://marketbeat.com/instant-alerts/price-nike-nyse-nke-stock-jumps-11-should-you-buy-2026-11-02)
+>
 > [!note]- [[11-02-26 Mon]]
 >
 > > [!note]- AI: Anthropic files US IPO documents; OpenAI cuts fundraising target by $10B (Bloomberg)
