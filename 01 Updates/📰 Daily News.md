@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-04T20:00
+updated: 2026-11-05T05:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -61,25 +61,48 @@ unread: true
 ## 2026-11
 
 
-### [[11-04-26 Wed]]
+### [[11-05-26 Thu]]
 
-> [!breaking]- World: Democrats seize House and Senate in historic US midterm blue wave (CBS News)
-> Democrats swept to decisive control of the House of Representatives and flipped the Senate majority halfway through President Donald Trump's second term, in one of the most significant midterm repudiations in US history. Among the notable upsets, Democrat Troy Jackson defeated Republican Senator Susan Collins in Maine. Markets are now pricing in a tightening of AI and tech regulation and a possible shift in US Iran and trade policy under the new congressional balance effective January. [CBS News](https://www.cbsnews.com/)
+> [!note]- AI: Google cuts Search access for schools that reject its AI tools (ABC News)
+> Google announced that schools using its classroom software will lose access to Google Search unless they opt in to its AI tools — a sweeping policy that affects districts such as New York City and Los Angeles, which have already temporarily banned generative AI for elementary and middle school students. Critics say the move amounts to coercion, forcing school systems to adopt AI tools they may not have vetted for safety. The policy is set to take effect for the 2026–27 school year. [ABC News](https://abcnews.com/US/wireStory/google-cut-off-search-access-students-schools-reject-137823026)
 
-> [!note]- World: US strikes Iran's Qeshm Island overnight; Russia hits Ukraine power grid (Reuters)
-> US forces launched overnight strikes on Iran's Qeshm Island in the latest secret attack on Iranian military infrastructure, even as President Trump signalled oil prices were falling because he saw no escalation ahead. Russia simultaneously struck power stations in Kyiv and Zhytomyr, and Israel's election commission found no evidence of fraud in last week's national vote, undercutting Netanyahu's attempts to discredit the result. [Reuters](https://www.reuters.com/)
+> [!note]- Tech: Samsung November 2026 security patch fixes 160+ Android vulnerabilities on Galaxy devices (SamMobile)
+> Samsung has detailed its November 2026 security update, which patches over 160 vulnerabilities across its Android-based Galaxy smartphones and tablets, including critical fixes in the kernel and system components. The patch began rolling out in waves to flagship and mid-range Galaxy devices this week. The update arrives amid a broader wave of AI-era software complexity driving higher monthly CVE counts across the Android ecosystem. [SamMobile](https://sammobile.com/news/samsung-november-2026-security-patch-detailed)
 
-> [!note]- SG/MY: Indonesia halts electricity exports to Singapore over pricing dispute (AsiaOne)
-> Indonesia has refused to proceed with cross-border electricity exports to Singapore until pricing and revenue-sharing terms are renegotiated, complicating Singapore's clean energy transition plans and its 4GW low-carbon import target for 2035. Haze from Indonesian peat fires continues to linger across the region, with Johor API readings remaining unhealthy. Johor authorities have also mapped flood-prone hotspots ahead of the northeast monsoon, which typically peaks November–January. [AsiaOne](https://www.asiaone.com/)
+> [!note]- Macro: S&P 500 +1.69% to 7,697 on Election Day rally; Nasdaq posts worst month since Mar 2025 on AI ROI fears (CNBC)
+> The S&P 500 jumped 1.69% to 7,697 on November 4 as markets cheered the Democratic midterm sweep, pricing in a potential reset of AI and tech regulation. BlackRock noted the Nasdaq Composite wrapped its worst October since March 2025, dragged down by investor anxiety over whether $649 billion in annual hyperscaler AI capex will deliver returns. The Fed rate hike probability for December now sits at 85%, per Deloitte. [CNBC](https://www.cnbc.com/2026/10/30/stock-market-next-week-outlook-for-nov-2-6-2026.html)
 
-> [!note]- Malaysia: Melaka by-election tests Anwar's unity coalition as race politics resurfaces (SCMP)
-> A state by-election in Melaka is emerging as the first real stress test of Prime Minister Anwar Ibrahim's multi-racial unity government, with component parties clashing over race-based policy demands. The result is seen as a bellwether for whether the coalition can survive mounting internal tensions heading into 2027. Separately, Malaysia's debut Hyrox fitness event faces cancellation after officials pressed organisers to remove Carlsberg as a beer sponsor. [SCMP](https://www.scmp.com/news/asia/southeast-asia)
+> [!breaking]- World: Houthis advance within 50mi of Aden; Russia hits Kyiv & Zhytomyr power stations (Reuters)
+> Houthi fighters have advanced to within 50 miles of Yemen's Aden, triggering fresh Saudi airstrikes in the country's south as the conflict broadens. Meanwhile, Russia struck power infrastructure in Kyiv and Zhytomyr overnight, with an attack on an aid site reportedly killing at least 31 people, in one of the heaviest barrages since the summer. The dual escalations come as global powers absorb the implications of the Democratic midterm sweep in Washington. [Reuters](https://www.reuters.com/)
 
-> [!note]- Tech: Brookfield and Drax announce $27B AI data centre at UK power station (Reuters)
-> Brookfield Asset Management and UK energy group Drax have signed an agreement to develop a $27 billion AI data centre on the Drax power station estate in North Yorkshire, alongside Brookfield's neocloud platform Radiant. The project is one of the largest AI infrastructure investments announced in Europe and would repurpose the coal-to-biomass facility as a combined power and compute hub. The midterm result is expected to trigger new US congressional scrutiny of large AI sector capital expenditure. [Reuters](https://www.reuters.com/)
+> [!note]- SG/MY: Malaysia-registered taxis entering Singapore to pay S$15 per trip from 2027, up from S$2/month (CNA)
+> Channel NewsAsia reports that Malaysia-registered taxis will face a new S$15 per-trip charge upon entering Singapore from 2027, a dramatic jump from the current S$2 per month flat fee. The move is designed to level the playing field between cross-border cabs and Singapore-registered ride-hail services, which pay significantly higher operating costs. The new fee structure will substantially reshape the economics of cross-causeway taxi operations. [CNA](https://www.channelnewsasia.com/singapore)
 
-> [!note]- Economy: S&P 500 snaps 3-day skid on Election Day; euro zone inflation hits 4%; Fed hike odds at 85% (CNBC)
-> The S&P 500 broke a three-session losing streak on Election Day as chip stocks rebounded, though analysts warn that the Democrat sweep could tighten AI and tech regulation. Euro zone inflation reached 4% for the first time in several years, raising fresh ECB rate-hike expectations. Deloitte's weekly update puts the probability of a US Fed rate hike at the December meeting at 85.3%, while underlying GDP growth ex-inventory is tracking at a soft 1.8%, almost entirely driven by AI investment. [CNBC](https://www.cnbc.com/markets/)
+> [!note]- Science: Altermagnetism — third type of magnetism — confirmed by two independent teams (ScienceDaily)
+> Two independent research groups have confirmed the existence of altermagnetism, a distinct third category of magnetism separate from ferromagnetism and antiferromagnetism, using different experimental techniques. One team further discovered that mechanically squeezing an altermagnetic material can toggle its magnetic and electrical properties on demand, raising the prospect of a new class of ultra-compact memory and switching devices. [ScienceDaily](https://www.sciencedaily.com/)
+
+> [!note]- Nike (NKE): ~$41.02 (+7.0%) — Dow rally lifts consumer stocks; Investor Day Nov 16–17; P&L ≈ −$1,411 (247 Wall St)
+> NKE surged about 7% to $41.02 on November 4 as a broad consumer-stock rally carried Deckers (+7%) and Lululemon (+6%) alongside it. The stock remains down roughly 34% year-to-date, still well below its 52-week high of $69.14 and the user's average cost of $71.69. Stifel holds a Hold/$36 target; Investor Day on November 16–17 is the next major catalyst. Position: 46 shares @ $71.69; P&L ≈ −$1,411. [247 Wall St](https://247wallst.com/investing/2026/11/04/nike-climbs-7-as-dow-rally-lifts-consumer-stocks-deckers-gains-7-lululemon-rises-6/)
+
+> [!note]- [[11-04-26 Wed]]
+>
+> > [!breaking]- World: Democrats seize House and Senate in historic US midterm blue wave (CBS News)
+> > Democrats swept to decisive control of the House of Representatives and flipped the Senate majority halfway through President Donald Trump's second term, in one of the most significant midterm repudiations in US history. Among the notable upsets, Democrat Troy Jackson defeated Republican Senator Susan Collins in Maine. Markets are now pricing in a tightening of AI and tech regulation and a possible shift in US Iran and trade policy under the new congressional balance effective January. [CBS News](https://www.cbsnews.com/)
+>
+> > [!note]- World: US strikes Iran's Qeshm Island overnight; Russia hits Ukraine power grid (Reuters)
+> > US forces launched overnight strikes on Iran's Qeshm Island in the latest secret attack on Iranian military infrastructure, even as President Trump signalled oil prices were falling because he saw no escalation ahead. Russia simultaneously struck power stations in Kyiv and Zhytomyr, and Israel's election commission found no evidence of fraud in last week's national vote, undercutting Netanyahu's attempts to discredit the result. [Reuters](https://www.reuters.com/)
+>
+> > [!note]- SG/MY: Indonesia halts electricity exports to Singapore over pricing dispute (AsiaOne)
+> > Indonesia has refused to proceed with cross-border electricity exports to Singapore until pricing and revenue-sharing terms are renegotiated, complicating Singapore's clean energy transition plans and its 4GW low-carbon import target for 2035. Haze from Indonesian peat fires continues to linger across the region, with Johor API readings remaining unhealthy. Johor authorities have also mapped flood-prone hotspots ahead of the northeast monsoon, which typically peaks November–January. [AsiaOne](https://www.asiaone.com/)
+>
+> > [!note]- Malaysia: Melaka by-election tests Anwar's unity coalition as race politics resurfaces (SCMP)
+> > A state by-election in Melaka is emerging as the first real stress test of Prime Minister Anwar Ibrahim's multi-racial unity government, with component parties clashing over race-based policy demands. The result is seen as a bellwether for whether the coalition can survive mounting internal tensions heading into 2027. Separately, Malaysia's debut Hyrox fitness event faces cancellation after officials pressed organisers to remove Carlsberg as a beer sponsor. [SCMP](https://www.scmp.com/news/asia/southeast-asia)
+>
+> > [!note]- Tech: Brookfield and Drax announce $27B AI data centre at UK power station (Reuters)
+> > Brookfield Asset Management and UK energy group Drax have signed an agreement to develop a $27 billion AI data centre on the Drax power station estate in North Yorkshire, alongside Brookfield's neocloud platform Radiant. The project is one of the largest AI infrastructure investments announced in Europe and would repurpose the coal-to-biomass facility as a combined power and compute hub. The midterm result is expected to trigger new US congressional scrutiny of large AI sector capital expenditure. [Reuters](https://www.reuters.com/)
+>
+> > [!note]- Economy: S&P 500 snaps 3-day skid on Election Day; euro zone inflation hits 4%; Fed hike odds at 85% (CNBC)
+> > The S&P 500 broke a three-session losing streak on Election Day as chip stocks rebounded, though analysts warn that the Democrat sweep could tighten AI and tech regulation. Euro zone inflation reached 4% for the first time in several years, raising fresh ECB rate-hike expectations. Deloitte's weekly update puts the probability of a US Fed rate hike at the December meeting at 85.3%, while underlying GDP growth ex-inventory is tracking at a soft 1.8%, almost entirely driven by AI investment. [CNBC](https://www.cnbc.com/markets/)
 
 > [!note]- [[11-03-26 Tue]]
 >
