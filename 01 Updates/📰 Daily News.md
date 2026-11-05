@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-05T05:00
+updated: 2026-11-06T05:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -61,28 +61,51 @@ unread: true
 ## 2026-11
 
 
-### [[11-05-26 Thu]]
+### [[11-06-26 Fri]]
 
-> [!note]- AI: Google cuts Search access for schools that reject its AI tools (ABC News)
-> Google announced that schools using its classroom software will lose access to Google Search unless they opt in to its AI tools — a sweeping policy that affects districts such as New York City and Los Angeles, which have already temporarily banned generative AI for elementary and middle school students. Critics say the move amounts to coercion, forcing school systems to adopt AI tools they may not have vetted for safety. The policy is set to take effect for the 2026–27 school year. [ABC News](https://abcnews.com/US/wireStory/google-cut-off-search-access-students-schools-reject-137823026)
+> [!note]- AI: US extends compute controls to overseas data centers, cutting off Chinese AI devs from renting Nvidia GPUs abroad (Digitimes)
+> Washington has applied US export controls extraterritorially to overseas data centers, cutting off Chinese AI developers who had been renting Nvidia GPUs outside US borders. The move closes a loophole that allowed Chinese firms to access controlled compute via third-party cloud providers in Southeast Asia and the Middle East. Industry observers say the action signals a broad escalation in US efforts to restrict Chinese AI development. [Digitimes](https://www.digitimes.com/)
 
-> [!note]- Tech: Samsung November 2026 security patch fixes 160+ Android vulnerabilities on Galaxy devices (SamMobile)
-> Samsung has detailed its November 2026 security update, which patches over 160 vulnerabilities across its Android-based Galaxy smartphones and tablets, including critical fixes in the kernel and system components. The patch began rolling out in waves to flagship and mid-range Galaxy devices this week. The update arrives amid a broader wave of AI-era software complexity driving higher monthly CVE counts across the Android ecosystem. [SamMobile](https://sammobile.com/news/samsung-november-2026-security-patch-detailed)
+> [!note]- Tech: Apple releases 5 new products on Nov 6 — OLED iPad mini, touchscreen MacBook Pro among them (MacRumors)
+> Apple launched five new products on Friday following pre-orders opened last week, headlined by an OLED iPad mini and new MacBook Pro models with touchscreens. The simultaneous release is Apple's largest single-day product launch of 2026. Democrats also targeted Big Tech and AI in midterm victory speeches, signalling potential new congressional pressure on major platforms. [MacRumors](https://www.macrumors.com/2026/11/02/apple-isnt-done-with-2026-heres-whats-still-coming/)
 
-> [!note]- Macro: S&P 500 +1.69% to 7,697 on Election Day rally; Nasdaq posts worst month since Mar 2025 on AI ROI fears (CNBC)
-> The S&P 500 jumped 1.69% to 7,697 on November 4 as markets cheered the Democratic midterm sweep, pricing in a potential reset of AI and tech regulation. BlackRock noted the Nasdaq Composite wrapped its worst October since March 2025, dragged down by investor anxiety over whether $649 billion in annual hyperscaler AI capex will deliver returns. The Fed rate hike probability for December now sits at 85%, per Deloitte. [CNBC](https://www.cnbc.com/2026/10/30/stock-market-next-week-outlook-for-nov-2-6-2026.html)
+> [!note]- Macro: October jobs report today; stocks enter session buoyant as VIX retreats to ~18.3 after midterm sweep (Schwab/CNBC)
+> The October nonfarm payrolls report is due at 8:30am ET — analysts watch for cooling labour-market data to keep the Fed on hold in December. Markets entered Friday buoyed by the Democratic midterm sweep: the S&P 500 rallied post-election with the VIX retreating double-digits to ~18.3 from highs near 22. Preliminary November University of Michigan Consumer Sentiment is also due today. [Schwab](https://www.schwab.com/learn/story/stock-market-update-open)
 
-> [!breaking]- World: Houthis advance within 50mi of Aden; Russia hits Kyiv & Zhytomyr power stations (Reuters)
-> Houthi fighters have advanced to within 50 miles of Yemen's Aden, triggering fresh Saudi airstrikes in the country's south as the conflict broadens. Meanwhile, Russia struck power infrastructure in Kyiv and Zhytomyr overnight, with an attack on an aid site reportedly killing at least 31 people, in one of the heaviest barrages since the summer. The dual escalations come as global powers absorb the implications of the Democratic midterm sweep in Washington. [Reuters](https://www.reuters.com/)
+> [!breaking]- World: Paraguay president impeached after bank collapse; tanker struck off Qatar; Russia aid-centre toll hits 42 (NPR/Reuters)
+> Paraguayan President Santiago Peña resigned and was immediately impeached amid a digital bank collapse that froze citizens' savings, triggering one of Latin America's sharpest political crises of 2026. Separately, a tanker was struck by projectiles off Qatar's coast per the British military, while Russia's death toll from an aid-centre strike reached 42, with Erdoğan offering to mediate a Ukraine peace deal with Putin. [NPR](https://www.npr.org/sections/world/)
 
-> [!note]- SG/MY: Malaysia-registered taxis entering Singapore to pay S$15 per trip from 2027, up from S$2/month (CNA)
-> Channel NewsAsia reports that Malaysia-registered taxis will face a new S$15 per-trip charge upon entering Singapore from 2027, a dramatic jump from the current S$2 per month flat fee. The move is designed to level the playing field between cross-border cabs and Singapore-registered ride-hail services, which pay significantly higher operating costs. The new fee structure will substantially reshape the economics of cross-causeway taxi operations. [CNA](https://www.channelnewsasia.com/singapore)
+> [!note]- SG/MY: Johor-Singapore SEZ draws RM88.8B in investment at inaugural JSCMC meeting (AsiaOne)
+> The inaugural Johor-Singapore Cooperation Ministerial Committee (JSCMC) met in Singapore, with officials announcing the special economic zone has attracted RM88.8 billion in investment. Malaysia is pursuing Budget 2027 initiatives to support the zone. Deepavali toll discounts of 50% apply on Malaysian highways today and tomorrow, and causeway traffic is expected to ease after last week's gridlock. [AsiaOne](https://www.asiaone.com/singapore/johor-singapore-economic-zone-rm88-billion-investments)
 
-> [!note]- Science: Altermagnetism — third type of magnetism — confirmed by two independent teams (ScienceDaily)
-> Two independent research groups have confirmed the existence of altermagnetism, a distinct third category of magnetism separate from ferromagnetism and antiferromagnetism, using different experimental techniques. One team further discovered that mechanically squeezing an altermagnetic material can toggle its magnetic and electrical properties on demand, raising the prospect of a new class of ultra-compact memory and switching devices. [ScienceDaily](https://www.sciencedaily.com/)
+> [!note]- Science: FDA approves first drug offering a "functional cure" for chronic hepatitis B (ScienceAlert)
+> The US FDA approved the first drug that offers a functional cure for chronic hepatitis B, a disease affecting ~300 million people globally with serious risks of liver cirrhosis and cancer. The approval marks a breakthrough after decades of treatments that managed the virus without clearing it. Separately, Stanford researchers identified an AI-found natural molecule that dramatically suppresses appetite and promotes fat loss in animal models. [ScienceAlert](https://www.sciencealert.com/)
 
-> [!note]- Nike (NKE): ~$41.02 (+7.0%) — Dow rally lifts consumer stocks; Investor Day Nov 16–17; P&L ≈ −$1,411 (247 Wall St)
-> NKE surged about 7% to $41.02 on November 4 as a broad consumer-stock rally carried Deckers (+7%) and Lululemon (+6%) alongside it. The stock remains down roughly 34% year-to-date, still well below its 52-week high of $69.14 and the user's average cost of $71.69. Stifel holds a Hold/$36 target; Investor Day on November 16–17 is the next major catalyst. Position: 46 shares @ $71.69; P&L ≈ −$1,411. [247 Wall St](https://247wallst.com/investing/2026/11/04/nike-climbs-7-as-dow-rally-lifts-consumer-stocks-deckers-gains-7-lululemon-rises-6/)
+> [!note]- Nike (NKE): ~$39.51 (−3.7%) — Truist downgrades to Sell, $29 target, says rally ignores ongoing risks; P&L ≈ −$1,480 (Investing.com)
+> NKE pulled back ~3–4% on Thursday to around $39.51 during a broader market selloff, paring gains from the post-midterms consumer rally. Truist downgraded to Sell on November 5 at a $29 target, arguing the ~19% one-month gain reflects sector rotation, not fundamental improvement. Down ~38% YTD; Investor Day Nov 16–17 is the next catalyst. Position: 46 shares @ $71.69 avg; P&L ≈ −$1,480. [Investing.com](https://www.investing.com/news/stock-market-news/truist-downgrades-nike-to-sell-says-rally-ignores-ongoing-risks-5005164)
+
+> [!note]- [[11-05-26 Thu]]
+>
+> > [!note]- AI: Google cuts Search access for schools that reject its AI tools (ABC News)
+> > Google announced that schools using its classroom software will lose access to Google Search unless they opt in to its AI tools — a sweeping policy that affects districts such as New York City and Los Angeles, which have already temporarily banned generative AI for elementary and middle school students. Critics say the move amounts to coercion, forcing school systems to adopt AI tools they may not have vetted for safety. The policy is set to take effect for the 2026–27 school year. [ABC News](https://abcnews.com/US/wireStory/google-cut-off-search-access-students-schools-reject-137823026)
+>
+> > [!note]- Tech: Samsung November 2026 security patch fixes 160+ Android vulnerabilities on Galaxy devices (SamMobile)
+> > Samsung has detailed its November 2026 security update, which patches over 160 vulnerabilities across its Android-based Galaxy smartphones and tablets, including critical fixes in the kernel and system components. The patch began rolling out in waves to flagship and mid-range Galaxy devices this week. The update arrives amid a broader wave of AI-era software complexity driving higher monthly CVE counts across the Android ecosystem. [SamMobile](https://sammobile.com/news/samsung-november-2026-security-patch-detailed)
+>
+> > [!note]- Macro: S&P 500 +1.69% to 7,697 on Election Day rally; Nasdaq posts worst month since Mar 2025 on AI ROI fears (CNBC)
+> > The S&P 500 jumped 1.69% to 7,697 on November 4 as markets cheered the Democratic midterm sweep, pricing in a potential reset of AI and tech regulation. BlackRock noted the Nasdaq Composite wrapped its worst October since March 2025, dragged down by investor anxiety over whether $649 billion in annual hyperscaler AI capex will deliver returns. The Fed rate hike probability for December now sits at 85%, per Deloitte. [CNBC](https://www.cnbc.com/2026/10/30/stock-market-next-week-outlook-for-nov-2-6-2026.html)
+>
+> > [!breaking]- World: Houthis advance within 50mi of Aden; Russia hits Kyiv & Zhytomyr power stations (Reuters)
+> > Houthi fighters have advanced to within 50 miles of Yemen's Aden, triggering fresh Saudi airstrikes in the country's south as the conflict broadens. Meanwhile, Russia struck power infrastructure in Kyiv and Zhytomyr overnight, with an attack on an aid site reportedly killing at least 31 people, in one of the heaviest barrages since the summer. The dual escalations come as global powers absorb the implications of the Democratic midterm sweep in Washington. [Reuters](https://www.reuters.com/)
+>
+> > [!note]- SG/MY: Malaysia-registered taxis entering Singapore to pay S$15 per trip from 2027, up from S$2/month (CNA)
+> > Channel NewsAsia reports that Malaysia-registered taxis will face a new S$15 per-trip charge upon entering Singapore from 2027, a dramatic jump from the current S$2 per month flat fee. The move is designed to level the playing field between cross-border cabs and Singapore-registered ride-hail services, which pay significantly higher operating costs. The new fee structure will substantially reshape the economics of cross-causeway taxi operations. [CNA](https://www.channelnewsasia.com/singapore)
+>
+> > [!note]- Science: Altermagnetism — third type of magnetism — confirmed by two independent teams (ScienceDaily)
+> > Two independent research groups have confirmed the existence of altermagnetism, a distinct third category of magnetism separate from ferromagnetism and antiferromagnetism, using different experimental techniques. One team further discovered that mechanically squeezing an altermagnetic material can toggle its magnetic and electrical properties on demand, raising the prospect of a new class of ultra-compact memory and switching devices. [ScienceDaily](https://www.sciencedaily.com/)
+>
+> > [!note]- Nike (NKE): ~$41.02 (+7.0%) — Dow rally lifts consumer stocks; Investor Day Nov 16–17; P&L ≈ −$1,411 (247 Wall St)
+> > NKE surged about 7% to $41.02 on November 4 as a broad consumer-stock rally carried Deckers (+7%) and Lululemon (+6%) alongside it. The stock remains down roughly 34% year-to-date, still well below its 52-week high of $69.14 and the user's average cost of $71.69. Stifel holds a Hold/$36 target; Investor Day on November 16–17 is the next major catalyst. Position: 46 shares @ $71.69; P&L ≈ −$1,411. [247 Wall St](https://247wallst.com/investing/2026/11/04/nike-climbs-7-as-dow-rally-lifts-consumer-stocks-deckers-gains-7-lululemon-rises-6/)
 
 > [!note]- [[11-04-26 Wed]]
 >
