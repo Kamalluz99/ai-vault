@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-06T05:00
+updated: 2026-11-06T08:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -63,26 +63,23 @@ unread: true
 
 ### [[11-06-26 Fri]]
 
-> [!note]- AI: US extends compute controls to overseas data centers, cutting off Chinese AI devs from renting Nvidia GPUs abroad (Digitimes)
-> Washington has applied US export controls extraterritorially to overseas data centers, cutting off Chinese AI developers who had been renting Nvidia GPUs outside US borders. The move closes a loophole that allowed Chinese firms to access controlled compute via third-party cloud providers in Southeast Asia and the Middle East. Industry observers say the action signals a broad escalation in US efforts to restrict Chinese AI development. [Digitimes](https://www.digitimes.com/)
+> [!note]- AI: Eight state AGs sue frontier AI developer over children's data and rogue agents (Reuters)
+> A bipartisan coalition of eight state attorneys general has filed separate lawsuits against a major frontier AI developer, alleging violations of children's data privacy laws and inadequate safeguards against rogue AI agents. The suits mark a sharp escalation in state-level AI enforcement, arriving as federal oversight remains fragmented under the Trump administration's voluntary 30-day pre-release review framework. The developer was not named in reports, but the suits target a leading frontier model provider. [Reuters](https://www.reuters.com/)
 
-> [!note]- Tech: Apple releases 5 new products on Nov 6 — OLED iPad mini, touchscreen MacBook Pro among them (MacRumors)
-> Apple launched five new products on Friday following pre-orders opened last week, headlined by an OLED iPad mini and new MacBook Pro models with touchscreens. The simultaneous release is Apple's largest single-day product launch of 2026. Democrats also targeted Big Tech and AI in midterm victory speeches, signalling potential new congressional pressure on major platforms. [MacRumors](https://www.macrumors.com/2026/11/02/apple-isnt-done-with-2026-heres-whats-still-coming/)
+> [!note]- Tech: Canva cuts 1,271 staff — 22% of workforce — in restructuring amid slowing growth (TechCrunch)
+> Canva CEO Melanie Perkins told employees that 1,271 people, representing 22% of the company's workforce, will be let go as part of a major restructuring the company described as its "hardest year yet." Departing staff receive at least six months' severance. The cuts come as Canva faces slowing growth in its design software business alongside intensifying competition from AI-native design tools. [TechCrunch](https://techcrunch.com/2026/11/04/canva-lays-off-over-1200-people-amid-slowing-growth/)
 
-> [!note]- Macro: October jobs report today; stocks enter session buoyant as VIX retreats to ~18.3 after midterm sweep (Schwab/CNBC)
-> The October nonfarm payrolls report is due at 8:30am ET — analysts watch for cooling labour-market data to keep the Fed on hold in December. Markets entered Friday buoyed by the Democratic midterm sweep: the S&P 500 rallied post-election with the VIX retreating double-digits to ~18.3 from highs near 22. Preliminary November University of Michigan Consumer Sentiment is also due today. [Schwab](https://www.schwab.com/learn/story/stock-market-update-open)
+> [!note]- Macro: Brent crude drops to $94.62 on Iran diplomacy hopes; gold recovers to $4,119 (CNBC)
+> Brent crude settled at $94.62, its lowest since August 31, as reports of Qatari-mediated talks between Iran and the US raised hopes of a diplomatic off-ramp. Gold rebounded to around $4,119/oz after earlier losses, while Bitcoin held near $80,000. The Fed held rates at 3.75–4.00% in a 10–2 vote, with a December hike priced at 85% by markets. [CNBC](https://www.cnbc.com/amp/2026/11/02/gold-rises-on-softer-oil-markets-parse-fed-signals.html)
 
-> [!breaking]- World: Paraguay president impeached after bank collapse; tanker struck off Qatar; Russia aid-centre toll hits 42 (NPR/Reuters)
-> Paraguayan President Santiago Peña resigned and was immediately impeached amid a digital bank collapse that froze citizens' savings, triggering one of Latin America's sharpest political crises of 2026. Separately, a tanker was struck by projectiles off Qatar's coast per the British military, while Russia's death toll from an aid-centre strike reached 42, with Erdoğan offering to mediate a Ukraine peace deal with Putin. [NPR](https://www.npr.org/sections/world/)
+> [!note]- World: Russia, US and Ukraine set Abu Dhabi talks for Nov 10–11; G20 ends without communiqué (Reuters)
+> Russia has agreed to resume three-way negotiations with Washington and Kyiv in Abu Dhabi on November 10–11, the first such meeting since earlier Geneva talks stalled. Russia is demanding Ukrainian withdrawal from parts of occupied Donetsk while Kyiv insists on a ceasefire first. Separately, the G20 foreign ministers' meeting in Atlanta ended with only a US chair's statement, exposing deep rifts over Ukraine, Iran, and trade. [Reuters](https://www.reuters.com/)
 
-> [!note]- SG/MY: Johor-Singapore SEZ draws RM88.8B in investment at inaugural JSCMC meeting (AsiaOne)
-> The inaugural Johor-Singapore Cooperation Ministerial Committee (JSCMC) met in Singapore, with officials announcing the special economic zone has attracted RM88.8 billion in investment. Malaysia is pursuing Budget 2027 initiatives to support the zone. Deepavali toll discounts of 50% apply on Malaysian highways today and tomorrow, and causeway traffic is expected to ease after last week's gridlock. [AsiaOne](https://www.asiaone.com/singapore/johor-singapore-economic-zone-rm88-billion-investments)
+> [!note]- Malaysia: Deepavali 50% toll discount on Nov 6–7; Google confirms RM61B Malaysia investment (The Star)
+> The government is offering 50% toll discounts on all major highways on November 6 and 7 for Deepavali, with an estimated 3.28 million vehicles per day expected during peak travel. Google has also confirmed a RM61 billion (approximately US$15 billion) investment in Malaysia over the next two years, covering data centres and cloud infrastructure. [The Star](https://www.thestar.com.my/)
 
-> [!note]- Science: FDA approves first drug offering a "functional cure" for chronic hepatitis B (ScienceAlert)
-> The US FDA approved the first drug that offers a functional cure for chronic hepatitis B, a disease affecting ~300 million people globally with serious risks of liver cirrhosis and cancer. The approval marks a breakthrough after decades of treatments that managed the virus without clearing it. Separately, Stanford researchers identified an AI-found natural molecule that dramatically suppresses appetite and promotes fat loss in animal models. [ScienceAlert](https://www.sciencealert.com/)
-
-> [!note]- Nike (NKE): ~$39.51 (−3.7%) — Truist downgrades to Sell, $29 target, says rally ignores ongoing risks; P&L ≈ −$1,480 (Investing.com)
-> NKE pulled back ~3–4% on Thursday to around $39.51 during a broader market selloff, paring gains from the post-midterms consumer rally. Truist downgraded to Sell on November 5 at a $29 target, arguing the ~19% one-month gain reflects sector rotation, not fundamental improvement. Down ~38% YTD; Investor Day Nov 16–17 is the next catalyst. Position: 46 shares @ $71.69 avg; P&L ≈ −$1,480. [Investing.com](https://www.investing.com/news/stock-market-news/truist-downgrades-nike-to-sell-says-rally-ignores-ongoing-risks-5005164)
+> [!note]- Science: Hidden immune defence shields healthy cells from their own inflammation (ScienceDaily)
+> Researchers have uncovered a previously unknown immune mechanism that shields healthy cells from being destroyed by the same inflammatory response mounted to fight infections. The discovery reveals a molecular "off switch" that dampens inflammation once an immune target is eliminated, with implications for autoimmune disease treatment and sepsis management. [ScienceDaily](https://www.sciencedaily.com/)
 
 > [!note]- [[11-05-26 Thu]]
 >
@@ -259,48 +256,28 @@ unread: true
 
 ## 2026-10
 
-> [!note]- [[10-31-26 Sat]]
->
-> > [!note]- AI: Gemini 4 Argon hits general availability; Kimi K3 3T open weights published (AI Weekly)
-> > Google’s Gemini 4 Argon is now generally available to developers via the Gemini API and has rolled out to the Gemini app and Google Search for AI Pro and Ultra subscribers, completing a voluntary government pre-release access process before wider release. Moonshot AI separately published full weights for Kimi K3 on Hugging Face under a custom license, described as the first open-weight model in the 3-trillion-parameter class. OpenAI cancelled a planned GPT-6.1 Astra release after internal safety tests, with no replacement date set. [Source](https://aiweekly.co/)
->
-> > [!note]- Tech: Anduril-Qualcomm unveil BlueChip — rugged US-made laptop for government and military (CNBC)
-> > Anduril and Qualcomm announced BlueChip, a rugged laptop built from US-made components targeting government agencies, military personnel, law enforcement, and first responders, with orders expected to open in 2027. The initiative is part of a broader US push to reduce government dependence on foreign-manufactured hardware amid escalating geopolitical tensions. [Source](https://www.cnbc.com)
->
-> > [!note]- Macro: Markets closed (Sat); S&P 500 ~7,580 (−1.8% Fri); gold −3% to ~$3,900; oil above $117 (Yahoo Finance)
-> > US equity markets are closed today (Saturday). Friday’s S&P 500 fell about 1.8% to ~7,580, extending the week’s tech-led sell-off. Gold dropped approximately 3% to ~$3,900 an ounce — its lowest in a year — despite ongoing geopolitical risk, while oil climbed above $117 per barrel on Iran-Hormuz tensions. Bitcoin held near $77,000 and the VIX rose to ~19.4; the 10-year Treasury yield sits near 4.9%. [Source](https://finance.yahoo.com/markets/)
->
-> > [!breaking]- World: US-Israel set to resume Iran airstrikes; Hegseth fires top military planner (CNBC/Geopolitical Futures)
-> > The US and Israel are reportedly preparing to resume airstrikes against Iran after diplomacy collapsed — Iran’s senior officials rejected a US ceasefire proposal as unacceptable while Trump denied Iran talks were happening. Defense Secretary Hegseth fired a top US military planner amid the escalating crisis. Iran reported four tankers hit by mines in the Strait of Hormuz on Friday, driving oil above $117 and deepening fears of a broader regional war. [Source](https://www.cnbc.com/world-politics/)
->
-> > [!note]- Malaysia/Singapore: Malaysia seizes $12M in smuggled US AI chips at KLIA (SCMP)
-> > Malaysian authorities confiscated smuggled US-made AI chips worth approximately US$12 million at Kuala Lumpur International Airport, in a suspected attempt to circumvent US export controls on advanced semiconductors. The seizure is the latest Southeast Asian enforcement action following earlier reports of Nvidia GPUs being routed through the region. Indonesia’s ongoing haze fires have cost Malaysia an estimated US$1.97 billion this year. [Source](https://www.scmp.com/topics/malaysia)
->
-> > [!note]- Science: Hidden aggressive cells found in “lower-risk” children’s tumors — reclassification expected (ScienceDaily)
-> > Scientists discovered hidden aggressive cancer cells within rhabdomyosarcoma tumors classified as lower-risk in children, suggesting many pediatric cancer cases are currently under-treated. The finding is expected to prompt reclassification of pediatric cancer risk categories and earlier, more aggressive intervention protocols. Separately, Artemis I mission data confirms radiation near the Moon is elevated but less severe than previously feared for future crewed missions. [Source](https://www.sciencedaily.com/)
->
-> > [!note]- Nike (NKE): $38.67 (Fri close, +0.65%); D.A. Davidson grows position; Investor Day Nov 16–17; P&L ≈ −$1,519 (MarketBeat)
-> > NKE closed Friday at $38.67, up 0.65% from Thursday; markets are closed today (Saturday). D.A. Davidson disclosed a larger NKE position on October 31. Analyst ratings remain sharply split: Barclays Overweight at $45, Deutsche Bank Hold at $33, Berenberg Sell at $27.50; YTD performance down ~44%. Nike Investor Day is scheduled for November 16–17. Position: 46 shares @ $71.69 avg; unrealised P&L = 46 × ($38.67 − $71.69) ≈ −$1,519. [Source](https://marketbeat.com/instant-alerts/filing-nike-inc-nke-stock-da-davidson-co-grows-position-2026-10-31)
->
-> > **Evening update**
->
-> > [!note]- SG/MY: Singapore summons 10 firms over haze; runners retreat indoors (AsiaOne)
-> > Singapore’s Ministry of Sustainability and the Environment summoned the heads of 10 companies linked to Indonesia’s forest fires, stressing it is not seeking scapegoats but demanding accountability. With PSI readings elevated, runners and outdoor gym-goers have moved entirely indoors; the government has rolled out haze health subsidies for lower-income residents. [AsiaOne](https://www.asiaone.com/)
->
-> > [!note]- Malaysia: RMAF takes delivery of first FA-50M, replacing Hawk fleet (NST)
-> > The Royal Malaysian Air Force received its first FA-50M Golden Eagle light combat aircraft, the first delivery in its programme to retire the ageing BAE Hawk fleet. The FA-50M acquisition from South Korea’s KAI strengthens Malaysia’s air-combat modernisation within ASEAN. [NST](https://nst.com.my/)
->
-> > [!note]- World: Zelenskyy in Istanbul for talks with Erdoğan on Ukraine war (Euronews)
-> > Ukrainian President Volodymyr Zelenskyy made a working visit to Istanbul to meet Turkish President Recep Tayyip Erdoğan, with discussions centring on the Russia–Ukraine war and Black Sea shipping security. Turkey has maintained ties with both Kyiv and Moscow, positioning Erdoğan as a key potential mediator in any future negotiations. [Euronews](https://www.euronews.com/)
->
-> > [!note]- World: Jaishankar urges diplomacy at G20 FM meeting in Atlanta (NDTV)
-> > India’s External Affairs Minister S. Jaishankar addressed the G20 Foreign Ministers’ Meeting in Atlanta, hosted by US Secretary of State Marco Rubio, arguing that military solutions will not work and diplomacy must be given a chance. His remarks reflect India’s broader effort to position itself as a bridge-builder amid widening global divisions over the Ukraine war and Middle East tensions. [NDTV](https://www.ndtv.com/)
->
-> > [!note]- Tech: Mistral 1T-param model live; Big Tech AI pledges hit $3T (AI Weekly)
-> > Mistral released its trillion-parameter open-weight model to wider access, raising the ceiling for publicly available AI capabilities. Big Tech’s aggregated AI capital-spending pledges have climbed to approximately $3 trillion — up from $2.4 trillion in July — while Reddit’s CEO blamed Google’s AI Overviews for stripping the platform of over a million weekly referrals, sending shares down 29%. [AI Weekly](https://aiweekly.co/ai-news-today)
->
-> > [!note]- Science: Earth warming 0.35°C/decade since 2015 — fastest ever (ScienceDaily)
-> > Scientists have detected a major acceleration in global surface temperatures, with the planet warming at approximately 0.35°C per decade since around 2015 — the fastest sustained rate ever recorded. Researchers warn that exceeding the 1.5°C Paris Agreement target may occur sooner than earlier models projected if this acceleration continues. [ScienceDaily](https://www.sciencedaily.com/)
+### [[10-31-26 Sat]]
+
+> [!note]- AI: AI cracks 27-year-old computer science problem — OpenAI & Anthropic claim breakthrough (Science)
+> AI researchers at OpenAI and Anthropic independently reported cracking a 27-year-old foundational computer science problem, a significant theoretical milestone. IBM also linked two quantum chips in a key step toward building larger quantum computers. These developments come alongside Mistral releasing a trillion-parameter open-weight model and Anthropic’s ongoing Nasdaq IPO preparations. [Science](https://www.science.org/news)
+
+> [!note]- Tech: North Korea linked to $6.3B Binance hack; Tencent & Alibaba in talks to invest in DeepSeek at $20B+ (NPR/Bloomberg)
+> Blockchain intelligence firms linked North Korea to a $6.3 billion hack on Binance, though the exchange had not explicitly confirmed funds were taken as of October 30. Tencent and Alibaba are separately in talks to invest in Chinese AI startup DeepSeek at a valuation exceeding $20 billion, signalling accelerating consolidation of Chinese AI capital around domestic players. [NPR](https://www.npr.org)
+
+> [!note]- Macro: Markets closed (Sat); S&P 500 ~7,577 (−1.86% Fri); 10-yr yield ~5%; I-bond rate 5.51% from Nov 1 (CNBC/Kiplinger)
+> US equity markets are closed today (Saturday). Friday’s session closed the S&P 500 around 7,577, down 1.86%, as tech selling continued following Alphabet’s earnings disappointment. The 10-year Treasury yield holds near 5% after strong Q3 GDP data; the Fed held rates at 3.75–4.00% in a split 10-2 vote. Treasury set the new Series I bond composite rate at 5.51% effective November 1. [CNBC](https://www.cnbc.com/2026/10/30/stock-market-next-week-outlook-for-nov-2-6-2026.html)
+
+> [!note]- World: Norway mass shooting kills 2 at hunting party in Halden; FBI arrests Chinese American for surveilling Taiwan president’s family (Wikipedia/AP)
+> Two people were killed and one injured in a mass shooting at a hunting party in Halden, Norway; the perpetrator was arrested. Separately, the FBI arrested a Chinese American woman at Los Angeles International Airport accused of surveilling Taiwanese President Lai Ching-te’s son and family on US soil. [Wikipedia](https://en.wikipedia.org/wiki/Portal:Current_events/October_2026)
+
+> [!note]- Malaysia/Singapore: Singapore-Malaysia navies complete Malapura bilateral exercise; SG haze subsidies begin (AsiaOne)
+> Singapore and Malaysia completed Malapura, a five-day bilateral maritime exercise, on October 30. Singapore simultaneously began rolling out haze subsidies as Malaysia extended school closures from cross-border Indonesian smoke; Singapore also received conditional approval for a Vietnam-Malaysia renewable power cable project. [AsiaOne](https://www.asiaone.com/singapore/singapore-malaysia-navies-2026-exercise-malapura)
+
+> [!note]- Science: CME glancing blow possible Oct 31; diabetes remission in 6 months on low-calorie diet confirmed (EarthSky/ScienceDaily)
+> EarthSky reported a coronal mass ejection on a trajectory for a possible glancing blow to Earth late Friday through Saturday, with auroras possible at mid-latitudes. A separate ScienceDaily study found more than half of younger adults with type 2 diabetes could achieve full remission within six months on a structured low-calorie diet — a clinically significant result for global diabetes management. [ScienceDaily](https://www.sciencedaily.com/news/)
+
+> [!note]- Nike (NKE): $38.42 (+3.42%) — Vegam Run unveiled for India; YTD −41%; P&L ≈ −$1,530 (JournalArta)
+> NKE closed Thursday at $38.42, up 3.42%, after Nike unveiled the “Vegam Run” shoe targeting India’s large running market ahead of a November 1 launch. The stock is down ~41% year-to-date from a 52-week high of $67.76; Barclays holds Overweight at $45. Position: 46 shares @ $71.69 avg; unrealised P&L = 46 × ($38.42 − $71.69) ≈ −$1,530. [JournalArta](https://journalarta.com/en/2026/10/30/nke-stock-technicals-gains-3-42-on-thursday-testing-key-resistance/)
 
 > [!note]- [[10-30-26 Fri]]
 >
