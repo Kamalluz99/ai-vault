@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-06T08:00
+updated: 2026-11-06T19:04
 topic: daily news
 frequency: daily
 ongoing: false
@@ -80,6 +80,26 @@ unread: true
 
 > [!note]- Science: Hidden immune defence shields healthy cells from their own inflammation (ScienceDaily)
 > Researchers have uncovered a previously unknown immune mechanism that shields healthy cells from being destroyed by the same inflammatory response mounted to fight infections. The discovery reveals a molecular "off switch" that dampens inflammation once an immune target is eliminated, with implications for autoimmune disease treatment and sepsis management. [ScienceDaily](https://www.sciencedaily.com/)
+
+> **Evening update**
+
+> [!note]- SG/MY: Cross-border taxi quota raised to 500 per country; S$15/trip fee from 2027 (Business Today MY)
+> Singapore and Malaysia raised the licensed cross-border taxi quota from 300 to 500 per country, effective November 16, allowing up to 1,000 combined taxis. Separately, Malaysia-registered taxis entering Singapore will pay S$15 per trip from 2027, up from S$2 per month, to level the playing field with Singapore ride-hail operators. [Business Today MY](https://www.businesstoday.com.my/2026/11/06/singapore-malaysia-raise-cross-border-taxi-quota-to-500-per-country/)
+
+> [!note]- Malaysia: Najib settles RM50M SRC fine; UMNO confirms party paid the bill (The Star)
+> Former PM Najib Razak settled his RM50 million SRC International fine at the Criminal High Court registry on Friday, clearing a key condition linked to his house arrest. UMNO's secretary-general confirmed the party paid the fine on his behalf, reigniting debate over the use of party funds for a convicted former leader. His former wife Tengku Puteri Zainah has also died at the age of 70. [The Star](https://www.thestar.com.my/)
+
+> [!breaking]- World: Iran's Revolutionary Guard claims it downed two US drones over Qeshm Island (Anadolu)
+> Iran's Islamic Revolutionary Guard Corps announced it shot down two US reconnaissance drones flying over Qeshm Island in the Strait of Hormuz on Friday, the first such incident in months. The move comes as Trump warned Iran of "further destruction" and coincides with Qatari-mediated backchannel talks aimed at de-escalation. The incident threatens to derail diplomatic progress and raises the risk of a wider Gulf confrontation. [Anadolu Agency](https://www.aa.com.tr/en/world/morning-briefing-nov-6-2026/4113576)
+
+> [!note]- World: Melania Trump hosts Russian and Ukrainian envoys at White House ahead of Abu Dhabi talks (The Standard HK)
+> Melania Trump hosted senior Russian and Ukrainian officials at the White House on Friday, pressing both sides for flexibility ahead of the three-way peace talks in Abu Dhabi on November 10–11. The unusual diplomatic setting underscores the administration's reliance on personal channels to maintain momentum in talks that remain fragile after the G20 ended without a communiqué. [The Standard HK](https://www.thestandard.com.hk/news/article/347704/Morning-Recap-November-6-2026)
+
+> [!note]- Tech: Google launches Gemini Omni 1.2 Flash with 15-sec video creation and 30% price cut (Google Blog)
+> Google announced Gemini Omni 1.2 Flash, a new multimodal model supporting 15-second AI video generation and multi-turn editing, available now via API. The model is 30% cheaper than its predecessor and is targeted at developers building video-native applications, expanding Google's lead in affordable multimodal AI. [Google Blog](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash)
+
+> [!breaking]- Economy: Global tech rout: Nasdaq in correction, $1T wiped, Nikkei enters bear market (CNBC/ITV)
+> Wall Street's tech sell-off deepened on Friday — the Dow dropped 1,800 points, the Nasdaq fell into correction territory, and Nvidia slid 9%, with US tech giants shedding more than $1 trillion in combined market cap. The carnage spread globally: Japan's Nikkei 225 plunged 5.9% into bear market territory and South Korea's Kospi tumbled over 6%. Analysts linked the rout to Democrat midterm victories and investor anxiety over whether record AI capital expenditure will ever deliver returns. [CNBC](https://cnbc.com/2026/11/05/stock-market-today-live-updates.html) / [ITV](https://www.itv.com/news/2026-11-06/global-market-downturn-spreads-to-uk-and-europe-amid-tech-sell-off)
 
 > [!note]- [[11-05-26 Thu]]
 >
