@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-06T19:04
+updated: 2026-11-07T05:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -61,45 +61,69 @@ unread: true
 ## 2026-11
 
 
-### [[11-06-26 Fri]]
+### [[11-07-26 Sat]]
 
-> [!note]- AI: Eight state AGs sue frontier AI developer over children's data and rogue agents (Reuters)
-> A bipartisan coalition of eight state attorneys general has filed separate lawsuits against a major frontier AI developer, alleging violations of children's data privacy laws and inadequate safeguards against rogue AI agents. The suits mark a sharp escalation in state-level AI enforcement, arriving as federal oversight remains fragmented under the Trump administration's voluntary 30-day pre-release review framework. The developer was not named in reports, but the suits target a leading frontier model provider. [Reuters](https://www.reuters.com/)
+> [!breaking]- Macro: Nasdaq bounces after worst selloff since COVID; Oct jobs beat at 165K (Bloomberg/CNBC)
+> The Nasdaq 100 rebounded Friday as dip buyers stepped in after its worst single-day drop since the Covid-19 pandemic, when the index plunged 6.3% on Thursday, wiping $2.3 trillion from the AI trade. October jobs data showed 165,000 added — well above expectations — with unemployment easing to 4.1%, pushing Treasury yields higher. The Democratic midterm sweep continues to reshape rate expectations, with markets less certain about the Fed's rate-cut path. [Bloomberg](https://bloomberg.com/news/articles/2026-11-06/ai-stocks-rebound-as-investors-weigh-whether-selloff-is-over) / [CNBC](https://www.cnbc.com/)
 
-> [!note]- Tech: Canva cuts 1,271 staff — 22% of workforce — in restructuring amid slowing growth (TechCrunch)
-> Canva CEO Melanie Perkins told employees that 1,271 people, representing 22% of the company's workforce, will be let go as part of a major restructuring the company described as its "hardest year yet." Departing staff receive at least six months' severance. The cuts come as Canva faces slowing growth in its design software business alongside intensifying competition from AI-native design tools. [TechCrunch](https://techcrunch.com/2026/11/04/canva-lays-off-over-1200-people-amid-slowing-growth/)
+> [!note]- AI: METR finds Anthropic model capability growth nearly doubled since Oct 2025 (AI Weekly)
+> METR, an independent AI safety evaluator, found that Anthropic's model capability growth roughly doubled in pace since October 2025, one of the fastest improvement rates measured for any frontier lab. The finding arrives as AI stocks try to stabilise after this week's $2.3T rout. Claude also launched a Personal Finance tool allowing users to analyse spending directly within the assistant. [AI Weekly](https://aiweekly.co/)
 
-> [!note]- Macro: Brent crude drops to $94.62 on Iran diplomacy hopes; gold recovers to $4,119 (CNBC)
-> Brent crude settled at $94.62, its lowest since August 31, as reports of Qatari-mediated talks between Iran and the US raised hopes of a diplomatic off-ramp. Gold rebounded to around $4,119/oz after earlier losses, while Bitcoin held near $80,000. The Fed held rates at 3.75–4.00% in a 10–2 vote, with a December hike priced at 85% by markets. [CNBC](https://www.cnbc.com/amp/2026/11/02/gold-rises-on-softer-oil-markets-parse-fed-signals.html)
+> [!note]- Tech: Meta acquires AI coding startup Conductor; Blue Origin delays New Glenn to 2027 (TechCrunch)
+> Meta quietly acquired Conductor, an AI-powered coding startup, strengthening its developer tooling as it accelerates AI infrastructure spending. Meanwhile Blue Origin confirmed that New Glenn's return to flight has slipped into 2027, with repairs from an earlier explosion moving slower than expected. Separately, the FAA announced it is finally retiring floppy disks from air traffic control systems. [TechCrunch](https://techcrunch.com/)
 
-> [!note]- World: Russia, US and Ukraine set Abu Dhabi talks for Nov 10–11; G20 ends without communiqué (Reuters)
-> Russia has agreed to resume three-way negotiations with Washington and Kyiv in Abu Dhabi on November 10–11, the first such meeting since earlier Geneva talks stalled. Russia is demanding Ukrainian withdrawal from parts of occupied Donetsk while Kyiv insists on a ceasefire first. Separately, the G20 foreign ministers' meeting in Atlanta ended with only a US chair's statement, exposing deep rifts over Ukraine, Iran, and trade. [Reuters](https://www.reuters.com/)
+> [!note]- World: Iran IRGC claims two US drones downed over Qeshm Island; Abu Dhabi talks on for Nov 10–11 (Anadolu/Reuters)
+> Iran's Revolutionary Guard claimed it shot down two US reconnaissance drones over Qeshm Island in the Strait of Hormuz on Friday, the first such incident in months. Despite the escalation, Qatari-mediated talks remain on track, with Russia, the US, and Ukraine confirmed for three-way peace negotiations in Abu Dhabi on November 10–11. [Anadolu Agency](https://www.aa.com.tr/) / [Reuters](https://www.reuters.com/)
 
-> [!note]- Malaysia: Deepavali 50% toll discount on Nov 6–7; Google confirms RM61B Malaysia investment (The Star)
-> The government is offering 50% toll discounts on all major highways on November 6 and 7 for Deepavali, with an estimated 3.28 million vehicles per day expected during peak travel. Google has also confirmed a RM61 billion (approximately US$15 billion) investment in Malaysia over the next two years, covering data centres and cloud infrastructure. [The Star](https://www.thestar.com.my/)
+> [!note]- SG/MY: Cross-border taxi quota raised to 500/country from Nov 16; Deepavali toll relief today (Business Today MY)
+> Singapore and Malaysia raised the licensed cross-border taxi quota from 300 to 500 per country, effective November 16. Deepavali toll discounts of 50% are active today on major Malaysian highways. Singapore also raised its maximum haze pollution fine tenfold to S$20 million in a tougher enforcement crackdown. [Business Today MY](https://www.businesstoday.com.my/2026/11/06/singapore-malaysia-raise-cross-border-taxi-quota-to-500-per-country/)
 
-> [!note]- Science: Hidden immune defence shields healthy cells from their own inflammation (ScienceDaily)
-> Researchers have uncovered a previously unknown immune mechanism that shields healthy cells from being destroyed by the same inflammatory response mounted to fight infections. The discovery reveals a molecular "off switch" that dampens inflammation once an immune target is eliminated, with implications for autoimmune disease treatment and sepsis management. [ScienceDaily](https://www.sciencedaily.com/)
+> [!note]- Science: LHCb at CERN finds evidence for extremely rare particle decay; FDA approves first hep B cure (Sci.News/ScienceAlert)
+> The LHCb Collaboration at CERN's Large Hadron Collider announced evidence for an extremely rare particle decay, with potential implications for physics beyond the Standard Model. The FDA approved the first drug targeting a functional cure for chronic hepatitis B, which affects approximately 296 million people worldwide. [Sci.News](https://www.sci.news/) / [ScienceAlert](https://www.sciencealert.com/)
 
-> **Evening update**
+> [!note]- Nike (NKE): $38.62 (−2.4%) — Truist downgrades to Sell ($29); down 34% YTD; P&L ≈ −$1,521 (247 Wall St / MarketBeat)
+> NKE fell $0.94 to $38.62 on Friday as Truist downgraded to Sell with a $29 price target, arguing the recent rally ignores ongoing fundamental headwinds. Royal Bank of Canada also cut its target from $40 to $39 (Sector Perform). The stock is down 34% year-to-date, well below the user's $71.69 average cost. Next catalyst: Investor Day Nov 16–17; earnings Dec 17. Position: 46 shares @ $71.69 avg; P&L ≈ −$1,521. [247 Wall St](https://247wallst.com/companies/nke/) / [MarketBeat](https://marketbeat.com/)
 
-> [!note]- SG/MY: Cross-border taxi quota raised to 500 per country; S$15/trip fee from 2027 (Business Today MY)
-> Singapore and Malaysia raised the licensed cross-border taxi quota from 300 to 500 per country, effective November 16, allowing up to 1,000 combined taxis. Separately, Malaysia-registered taxis entering Singapore will pay S$15 per trip from 2027, up from S$2 per month, to level the playing field with Singapore ride-hail operators. [Business Today MY](https://www.businesstoday.com.my/2026/11/06/singapore-malaysia-raise-cross-border-taxi-quota-to-500-per-country/)
 
-> [!note]- Malaysia: Najib settles RM50M SRC fine; UMNO confirms party paid the bill (The Star)
-> Former PM Najib Razak settled his RM50 million SRC International fine at the Criminal High Court registry on Friday, clearing a key condition linked to his house arrest. UMNO's secretary-general confirmed the party paid the fine on his behalf, reigniting debate over the use of party funds for a convicted former leader. His former wife Tengku Puteri Zainah has also died at the age of 70. [The Star](https://www.thestar.com.my/)
-
-> [!breaking]- World: Iran's Revolutionary Guard claims it downed two US drones over Qeshm Island (Anadolu)
-> Iran's Islamic Revolutionary Guard Corps announced it shot down two US reconnaissance drones flying over Qeshm Island in the Strait of Hormuz on Friday, the first such incident in months. The move comes as Trump warned Iran of "further destruction" and coincides with Qatari-mediated backchannel talks aimed at de-escalation. The incident threatens to derail diplomatic progress and raises the risk of a wider Gulf confrontation. [Anadolu Agency](https://www.aa.com.tr/en/world/morning-briefing-nov-6-2026/4113576)
-
-> [!note]- World: Melania Trump hosts Russian and Ukrainian envoys at White House ahead of Abu Dhabi talks (The Standard HK)
-> Melania Trump hosted senior Russian and Ukrainian officials at the White House on Friday, pressing both sides for flexibility ahead of the three-way peace talks in Abu Dhabi on November 10–11. The unusual diplomatic setting underscores the administration's reliance on personal channels to maintain momentum in talks that remain fragile after the G20 ended without a communiqué. [The Standard HK](https://www.thestandard.com.hk/news/article/347704/Morning-Recap-November-6-2026)
-
-> [!note]- Tech: Google launches Gemini Omni 1.2 Flash with 15-sec video creation and 30% price cut (Google Blog)
-> Google announced Gemini Omni 1.2 Flash, a new multimodal model supporting 15-second AI video generation and multi-turn editing, available now via API. The model is 30% cheaper than its predecessor and is targeted at developers building video-native applications, expanding Google's lead in affordable multimodal AI. [Google Blog](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash)
-
-> [!breaking]- Economy: Global tech rout: Nasdaq in correction, $1T wiped, Nikkei enters bear market (CNBC/ITV)
-> Wall Street's tech sell-off deepened on Friday — the Dow dropped 1,800 points, the Nasdaq fell into correction territory, and Nvidia slid 9%, with US tech giants shedding more than $1 trillion in combined market cap. The carnage spread globally: Japan's Nikkei 225 plunged 5.9% into bear market territory and South Korea's Kospi tumbled over 6%. Analysts linked the rout to Democrat midterm victories and investor anxiety over whether record AI capital expenditure will ever deliver returns. [CNBC](https://cnbc.com/2026/11/05/stock-market-today-live-updates.html) / [ITV](https://www.itv.com/news/2026-11-06/global-market-downturn-spreads-to-uk-and-europe-amid-tech-sell-off)
+> [!note]- [[11-06-26 Fri]]
+>
+> > [!note]- AI: Eight state AGs sue frontier AI developer over children's data and rogue agents (Reuters)
+> > A bipartisan coalition of eight state attorneys general has filed separate lawsuits against a major frontier AI developer, alleging violations of children's data privacy laws and inadequate safeguards against rogue AI agents. The suits mark a sharp escalation in state-level AI enforcement, arriving as federal oversight remains fragmented under the Trump administration's voluntary 30-day pre-release review framework. The developer was not named in reports, but the suits target a leading frontier model provider. [Reuters](https://www.reuters.com/)
+>
+> > [!note]- Tech: Canva cuts 1,271 staff — 22% of workforce — in restructuring amid slowing growth (TechCrunch)
+> > Canva CEO Melanie Perkins told employees that 1,271 people, representing 22% of the company's workforce, will be let go as part of a major restructuring the company described as its "hardest year yet." Departing staff receive at least six months' severance. The cuts come as Canva faces slowing growth in its design software business alongside intensifying competition from AI-native design tools. [TechCrunch](https://techcrunch.com/2026/11/04/canva-lays-off-over-1200-people-amid-slowing-growth/)
+>
+> > [!note]- Macro: Brent crude drops to $94.62 on Iran diplomacy hopes; gold recovers to $4,119 (CNBC)
+> > Brent crude settled at $94.62, its lowest since August 31, as reports of Qatari-mediated talks between Iran and the US raised hopes of a diplomatic off-ramp. Gold rebounded to around $4,119/oz after earlier losses, while Bitcoin held near $80,000. The Fed held rates at 3.75–4.00% in a 10–2 vote, with a December hike priced at 85% by markets. [CNBC](https://www.cnbc.com/amp/2026/11/02/gold-rises-on-softer-oil-markets-parse-fed-signals.html)
+>
+> > [!note]- World: Russia, US and Ukraine set Abu Dhabi talks for Nov 10–11; G20 ends without communiqué (Reuters)
+> > Russia has agreed to resume three-way negotiations with Washington and Kyiv in Abu Dhabi on November 10–11, the first such meeting since earlier Geneva talks stalled. Russia is demanding Ukrainian withdrawal from parts of occupied Donetsk while Kyiv insists on a ceasefire first. Separately, the G20 foreign ministers' meeting in Atlanta ended with only a US chair's statement, exposing deep rifts over Ukraine, Iran, and trade. [Reuters](https://www.reuters.com/)
+>
+> > [!note]- Malaysia: Deepavali 50% toll discount on Nov 6–7; Google confirms RM61B Malaysia investment (The Star)
+> > The government is offering 50% toll discounts on all major highways on November 6 and 7 for Deepavali, with an estimated 3.28 million vehicles per day expected during peak travel. Google has also confirmed a RM61 billion (approximately US$15 billion) investment in Malaysia over the next two years, covering data centres and cloud infrastructure. [The Star](https://www.thestar.com.my/)
+>
+> > [!note]- Science: Hidden immune defence shields healthy cells from their own inflammation (ScienceDaily)
+> > Researchers have uncovered a previously unknown immune mechanism that shields healthy cells from being destroyed by the same inflammatory response mounted to fight infections. The discovery reveals a molecular "off switch" that dampens inflammation once an immune target is eliminated, with implications for autoimmune disease treatment and sepsis management. [ScienceDaily](https://www.sciencedaily.com/)
+>
+> > **Evening update**
+>
+> > [!note]- SG/MY: Cross-border taxi quota raised to 500 per country; S$15/trip fee from 2027 (Business Today MY)
+> > Singapore and Malaysia raised the licensed cross-border taxi quota from 300 to 500 per country, effective November 16, allowing up to 1,000 combined taxis. Separately, Malaysia-registered taxis entering Singapore will pay S$15 per trip from 2027, up from S$2 per month, to level the playing field with Singapore ride-hail operators. [Business Today MY](https://www.businesstoday.com.my/2026/11/06/singapore-malaysia-raise-cross-border-taxi-quota-to-500-per-country/)
+>
+> > [!note]- Malaysia: Najib settles RM50M SRC fine; UMNO confirms party paid the bill (The Star)
+> > Former PM Najib Razak settled his RM50 million SRC International fine at the Criminal High Court registry on Friday, clearing a key condition linked to his house arrest. UMNO's secretary-general confirmed the party paid the fine on his behalf, reigniting debate over the use of party funds for a convicted former leader. His former wife Tengku Puteri Zainah has also died at the age of 70. [The Star](https://www.thestar.com.my/)
+>
+> > [!breaking]- World: Iran's Revolutionary Guard claims it downed two US drones over Qeshm Island (Anadolu)
+> > Iran's Islamic Revolutionary Guard Corps announced it shot down two US reconnaissance drones flying over Qeshm Island in the Strait of Hormuz on Friday, the first such incident in months. The move comes as Trump warned Iran of "further destruction" and coincides with Qatari-mediated backchannel talks aimed at de-escalation. The incident threatens to derail diplomatic progress and raises the risk of a wider Gulf confrontation. [Anadolu Agency](https://www.aa.com.tr/en/world/morning-briefing-nov-6-2026/4113576)
+>
+> > [!note]- World: Melania Trump hosts Russian and Ukrainian envoys at White House ahead of Abu Dhabi talks (The Standard HK)
+> > Melania Trump hosted senior Russian and Ukrainian officials at the White House on Friday, pressing both sides for flexibility ahead of the three-way peace talks in Abu Dhabi on November 10–11. The unusual diplomatic setting underscores the administration's reliance on personal channels to maintain momentum in talks that remain fragile after the G20 ended without a communiqué. [The Standard HK](https://www.thestandard.com.hk/news/article/347704/Morning-Recap-November-6-2026)
+>
+> > [!note]- Tech: Google launches Gemini Omni 1.2 Flash with 15-sec video creation and 30% price cut (Google Blog)
+> > Google announced Gemini Omni 1.2 Flash, a new multimodal model supporting 15-second AI video generation and multi-turn editing, available now via API. The model is 30% cheaper than its predecessor and is targeted at developers building video-native applications, expanding Google's lead in affordable multimodal AI. [Google Blog](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash)
+>
+> > [!breaking]- Economy: Global tech rout: Nasdaq in correction, $1T wiped, Nikkei enters bear market (CNBC/ITV)
+> > Wall Street's tech sell-off deepened on Friday — the Dow dropped 1,800 points, the Nasdaq fell into correction territory, and Nvidia slid 9%, with US tech giants shedding more than $1 trillion in combined market cap. The carnage spread globally: Japan's Nikkei 225 plunged 5.9% into bear market territory and South Korea's Kospi tumbled over 6%. Analysts linked the rout to Democrat midterm victories and investor anxiety over whether record AI capital expenditure will ever deliver returns. [CNBC](https://cnbc.com/2026/11/05/stock-market-today-live-updates.html) / [ITV](https://www.itv.com/news/2026-11-06/global-market-downturn-spreads-to-uk-and-europe-amid-tech-sell-off)
 
 > [!note]- [[11-05-26 Thu]]
 >
