@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-07T05:00
+updated: 2026-11-06T21:15
 topic: daily news
 frequency: daily
 ongoing: false
@@ -61,28 +61,51 @@ unread: true
 ## 2026-11
 
 
-### [[11-07-26 Sat]]
+### [[11-06-26 Fri]]
 
-> [!breaking]- Macro: Nasdaq bounces after worst selloff since COVID; Oct jobs beat at 165K (Bloomberg/CNBC)
-> The Nasdaq 100 rebounded Friday as dip buyers stepped in after its worst single-day drop since the Covid-19 pandemic, when the index plunged 6.3% on Thursday, wiping $2.3 trillion from the AI trade. October jobs data showed 165,000 added — well above expectations — with unemployment easing to 4.1%, pushing Treasury yields higher. The Democratic midterm sweep continues to reshape rate expectations, with markets less certain about the Fed's rate-cut path. [Bloomberg](https://bloomberg.com/news/articles/2026-11-06/ai-stocks-rebound-as-investors-weigh-whether-selloff-is-over) / [CNBC](https://www.cnbc.com/)
+> [!note]- AI: OpenAI ships GPT-6 Cyber; model autonomously found 81 Firefox zero-days (DEV Community)
+> OpenAI released GPT-6 Cyber on November 5, a security-focused model that autonomously discovers and verifies software vulnerabilities — it found 81 previously unknown critical flaws in Firefox, providing the information needed for their fixes. Separately, METR published its November evaluation showing Anthropic's AI development pace has roughly doubled since October 2025, one of the fastest improvement rates ever measured at a frontier lab. [Source](https://dev.to/hiroki-ii-ai/ai-daily-digest-november-6-2026-openai-ships-gpt-6-cyber-meta-buys-conductor-anthropic-locks-1jij)
 
-> [!note]- AI: METR finds Anthropic model capability growth nearly doubled since Oct 2025 (AI Weekly)
-> METR, an independent AI safety evaluator, found that Anthropic's model capability growth roughly doubled in pace since October 2025, one of the fastest improvement rates measured for any frontier lab. The finding arrives as AI stocks try to stabilise after this week's $2.3T rout. Claude also launched a Personal Finance tool allowing users to analyse spending directly within the assistant. [AI Weekly](https://aiweekly.co/)
+> [!note]- Tech: NYT in advanced talks to buy Letterboxd for ~$330M; Musk firms shed $500B post-midterms (CNBC/Gizmodo)
+> The New York Times Company is reportedly in advanced negotiations to acquire Letterboxd, the film-tracking social network, for approximately $330 million, in one of the year's most significant media-tech deals. Tesla and SpaceX together shed nearly $500 billion in combined market value as Musk-linked companies bore the brunt of post-midterm investor anxiety over potential AI and tech regulation shifts. [Source](https://gizmodo.com/musks-companies-tank-as-tech-stocks-get-a-post-election-correction-2000835782)
 
-> [!note]- Tech: Meta acquires AI coding startup Conductor; Blue Origin delays New Glenn to 2027 (TechCrunch)
-> Meta quietly acquired Conductor, an AI-powered coding startup, strengthening its developer tooling as it accelerates AI infrastructure spending. Meanwhile Blue Origin confirmed that New Glenn's return to flight has slipped into 2027, with repairs from an earlier explosion moving slower than expected. Separately, the FAA announced it is finally retiring floppy disks from air traffic control systems. [TechCrunch](https://techcrunch.com/)
+> [!breaking]- Macro: Nasdaq rebounds as Oct jobs beat at 165K; WTI slides to $88 on Iran diplomacy hopes (Bloomberg/Mitrade)
+> The Nasdaq 100 bounced strongly on Friday as buyers returned after Thursday's historic 6.3% plunge — its worst day since the COVID-era rout — supported by an October payrolls report showing 165,000 non-farm jobs added, above consensus, with unemployment easing to 4.1%. WTI crude fell to around $88 a barrel and Brent to ~$94 as Qatari-mediated Iran-US back-channel talks kept energy bulls cautious, while gold held near $4,100 per ounce. [Source](https://bloomberg.com/news/articles/2026-11-06/ai-stocks-rebound-as-investors-weigh-whether-selloff-is-over)
 
-> [!note]- World: Iran IRGC claims two US drones downed over Qeshm Island; Abu Dhabi talks on for Nov 10–11 (Anadolu/Reuters)
-> Iran's Revolutionary Guard claimed it shot down two US reconnaissance drones over Qeshm Island in the Strait of Hormuz on Friday, the first such incident in months. Despite the escalation, Qatari-mediated talks remain on track, with Russia, the US, and Ukraine confirmed for three-way peace negotiations in Abu Dhabi on November 10–11. [Anadolu Agency](https://www.aa.com.tr/) / [Reuters](https://www.reuters.com/)
+> [!note]- World: Putin confirms Russia-US-Ukraine Abu Dhabi talks for Nov 10–11; Umerov to lead Kyiv (aNews/Kyiv Independent)
+> Vladimir Putin confirmed on Friday that trilateral Russia-US-Ukraine peace talks are scheduled for Abu Dhabi on November 10–11, with Ukraine's Defence Minister Rustem Umerov confirmed to lead Kyiv's delegation despite earlier confusion over the team's composition. US envoy Steve Witkoff said talks will address post-war security arrangements, de-escalation, and humanitarian issues, though the sides remain far apart on territorial questions and Russia's ongoing strikes on Ukrainian cities cast doubt on momentum. [Source](https://www.anews.com.tr/world/2026/11/06/putin-confirms-russia-us-ukraine-talks-scheduled-for-next-tuesday-in-abu-dhabi)
 
-> [!note]- SG/MY: Cross-border taxi quota raised to 500/country from Nov 16; Deepavali toll relief today (Business Today MY)
-> Singapore and Malaysia raised the licensed cross-border taxi quota from 300 to 500 per country, effective November 16. Deepavali toll discounts of 50% are active today on major Malaysian highways. Singapore also raised its maximum haze pollution fine tenfold to S$20 million in a tougher enforcement crackdown. [Business Today MY](https://www.businesstoday.com.my/2026/11/06/singapore-malaysia-raise-cross-border-taxi-quota-to-500-per-country/)
+> [!note]- SG/MY: Johor-Singapore Economic Zone draws RM88.8B in investments; Woodlands blackout jams Causeway (AsiaOne/SCMP)
+> The Johor-Singapore Special Economic Zone has attracted RM88.8 billion in investment commitments to date, announced at the inaugural Johor-Singapore Cooperation Ministerial Committee meeting in Singapore on November 2. Separately, a power outage in Woodlands triggered hours of traffic gridlock at the Causeway as vehicles backed up on both sides of the border, disrupting Deepavali travel. [Source](https://www.asiaone.com/singapore/johor-singapore-economic-zone-rm88-billion-investments)
 
-> [!note]- Science: LHCb at CERN finds evidence for extremely rare particle decay; FDA approves first hep B cure (Sci.News/ScienceAlert)
-> The LHCb Collaboration at CERN's Large Hadron Collider announced evidence for an extremely rare particle decay, with potential implications for physics beyond the Standard Model. The FDA approved the first drug targeting a functional cure for chronic hepatitis B, which affects approximately 296 million people worldwide. [Sci.News](https://www.sci.news/) / [ScienceAlert](https://www.sciencealert.com/)
+> [!note]- Science: NASA asks private firms to rescue Hubble before its 2033–34 reentry (ScienceDaily/iTechPost)
+> NASA issued a Request for Information on October 29 asking private companies to propose plans for raising the Hubble Space Telescope to at least 600 kilometres or servicing it, with proposals due November 30. Without a reboost, Hubble — launched in 1990 — faces uncontrolled reentry as early as 2033 or 2034 as its orbit continues to decay. NASA currently lacks a dedicated budget and is relying on affordable commercial proposals to save one of history's most productive science instruments. [Source](https://www.sciencedaily.com/releases/2026/11/261104012254.htm)
 
-> [!note]- Nike (NKE): $38.62 (−2.4%) — Truist downgrades to Sell ($29); down 34% YTD; P&L ≈ −$1,521 (247 Wall St / MarketBeat)
-> NKE fell $0.94 to $38.62 on Friday as Truist downgraded to Sell with a $29 price target, arguing the recent rally ignores ongoing fundamental headwinds. Royal Bank of Canada also cut its target from $40 to $39 (Sector Perform). The stock is down 34% year-to-date, well below the user's $71.69 average cost. Next catalyst: Investor Day Nov 16–17; earnings Dec 17. Position: 46 shares @ $71.69 avg; P&L ≈ −$1,521. [247 Wall St](https://247wallst.com/companies/nke/) / [MarketBeat](https://marketbeat.com/)
+> [!note]- Nike (NKE): $38.53 (−2.6%) — RBC cuts target to $39; P&L ≈ −$1,525 (MarketBeat/Investing.com)
+> NKE closed at approximately $38.53, down from a $39.56 prior close (−2.6%), as Royal Bank of Canada cut its price target from $40 to $39 and maintained a Sector Perform rating, citing continued fundamental headwinds. The stock is down over 34% year-to-date, well below the user's average cost of $71.69, with Investor Day on November 16–17 as the next major catalyst. Position: 46 shares @ $71.69 avg; unrealised P&L ≈ −$1,525. [Source](https://marketbeat.com/instant-alerts/analyst-nike-nyse-nke-stock-gets-price-target-cut-from-royal-bank-of-canada-2026-11-06)
+
+> [!note]- [[11-07-26 Sat]]
+>
+> > [!breaking]- Macro: Nasdaq bounces after worst selloff since COVID; Oct jobs beat at 165K (Bloomberg/CNBC)
+> > The Nasdaq 100 rebounded Friday as dip buyers stepped in after its worst single-day drop since the Covid-19 pandemic, when the index plunged 6.3% on Thursday, wiping $2.3 trillion from the AI trade. October jobs data showed 165,000 added — well above expectations — with unemployment easing to 4.1%, pushing Treasury yields higher. The Democratic midterm sweep continues to reshape rate expectations, with markets less certain about the Fed's rate-cut path. [Bloomberg](https://bloomberg.com/news/articles/2026-11-06/ai-stocks-rebound-as-investors-weigh-whether-selloff-is-over) / [CNBC](https://www.cnbc.com/)
+>
+> > [!note]- AI: METR finds Anthropic model capability growth nearly doubled since Oct 2025 (AI Weekly)
+> > METR, an independent AI safety evaluator, found that Anthropic's model capability growth roughly doubled in pace since October 2025, one of the fastest improvement rates measured for any frontier lab. The finding arrives as AI stocks try to stabilise after this week's $2.3T rout. Claude also launched a Personal Finance tool allowing users to analyse spending directly within the assistant. [AI Weekly](https://aiweekly.co/)
+>
+> > [!note]- Tech: Meta acquires AI coding startup Conductor; Blue Origin delays New Glenn to 2027 (TechCrunch)
+> > Meta quietly acquired Conductor, an AI-powered coding startup, strengthening its developer tooling as it accelerates AI infrastructure spending. Meanwhile Blue Origin confirmed that New Glenn's return to flight has slipped into 2027, with repairs from an earlier explosion moving slower than expected. Separately, the FAA announced it is finally retiring floppy disks from air traffic control systems. [TechCrunch](https://techcrunch.com/)
+>
+> > [!note]- World: Iran IRGC claims two US drones downed over Qeshm Island; Abu Dhabi talks on for Nov 10–11 (Anadolu/Reuters)
+> > Iran's Revolutionary Guard claimed it shot down two US reconnaissance drones over Qeshm Island in the Strait of Hormuz on Friday, the first such incident in months. Despite the escalation, Qatari-mediated talks remain on track, with Russia, the US, and Ukraine confirmed for three-way peace negotiations in Abu Dhabi on November 10–11. [Anadolu Agency](https://www.aa.com.tr/) / [Reuters](https://www.reuters.com/)
+>
+> > [!note]- SG/MY: Cross-border taxi quota raised to 500/country from Nov 16; Deepavali toll relief today (Business Today MY)
+> > Singapore and Malaysia raised the licensed cross-border taxi quota from 300 to 500 per country, effective November 16. Deepavali toll discounts of 50% are active today on major Malaysian highways. Singapore also raised its maximum haze pollution fine tenfold to S$20 million in a tougher enforcement crackdown. [Business Today MY](https://www.businesstoday.com.my/2026/11/06/singapore-malaysia-raise-cross-border-taxi-quota-to-500-per-country/)
+>
+> > [!note]- Science: LHCb at CERN finds evidence for extremely rare particle decay; FDA approves first hep B cure (Sci.News/ScienceAlert)
+> > The LHCb Collaboration at CERN's Large Hadron Collider announced evidence for an extremely rare particle decay, with potential implications for physics beyond the Standard Model. The FDA approved the first drug targeting a functional cure for chronic hepatitis B, which affects approximately 296 million people worldwide. [Sci.News](https://www.sci.news/) / [ScienceAlert](https://www.sciencealert.com/)
+>
+> > [!note]- Nike (NKE): $38.62 (−2.4%) — Truist downgrades to Sell ($29); down 34% YTD; P&L ≈ −$1,521 (247 Wall St / MarketBeat)
+> > NKE fell $0.94 to $38.62 on Friday as Truist downgraded to Sell with a $29 price target, arguing the recent rally ignores ongoing fundamental headwinds. Royal Bank of Canada also cut its target from $40 to $39 (Sector Perform). The stock is down 34% year-to-date, well below the user's $71.69 average cost. Next catalyst: Investor Day Nov 16–17; earnings Dec 17. Position: 46 shares @ $71.69 avg; P&L ≈ −$1,521. [247 Wall St](https://247wallst.com/companies/nke/) / [MarketBeat](https://marketbeat.com/)
 
 
 > [!note]- [[11-06-26 Fri]]
