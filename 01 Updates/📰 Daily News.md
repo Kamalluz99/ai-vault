@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-06T21:15
+updated: 2026-11-07T21:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -106,6 +106,26 @@ unread: true
 >
 > > [!note]- Nike (NKE): $38.62 (−2.4%) — Truist downgrades to Sell ($29); down 34% YTD; P&L ≈ −$1,521 (247 Wall St / MarketBeat)
 > > NKE fell $0.94 to $38.62 on Friday as Truist downgraded to Sell with a $29 price target, arguing the recent rally ignores ongoing fundamental headwinds. Royal Bank of Canada also cut its target from $40 to $39 (Sector Perform). The stock is down 34% year-to-date, well below the user's $71.69 average cost. Next catalyst: Investor Day Nov 16–17; earnings Dec 17. Position: 46 shares @ $71.69 avg; P&L ≈ −$1,521. [247 Wall St](https://247wallst.com/companies/nke/) / [MarketBeat](https://marketbeat.com/)
+>
+> > **Evening update**
+>
+> > [!note]- SG/MY: SG targets 7 Indonesian haze firms; KL stays diplomatic (The Vibes / Malaysiakini)
+> > Singapore issued legal notices to seven Indonesian companies under its Transboundary Haze Pollution Act and toughened the law with fines of up to S$20 million and new arrest powers. Malaysia's deputy minister confirmed Kuala Lumpur is "taking a different, more diplomatic stance," marking the two nations publicly split on how to handle transboundary haze from Indonesian fires. [The Vibes](https://www.thevibes.com/articles/world/128457/singapore-moves-against-seven-indonesian-firms-as-haze-clouds-region) / [Malaysiakini](https://www.malaysiakini.com/news/888577)
+>
+> > [!note]- Malaysia: AG's Chambers reportedly suspends Najib house arrest; lawyers dispute move (Malay Mail)
+> > Malaysia's Attorney-General's Chambers moved to suspend Najib Razak's house arrest pending legal clarification of his status, days after he settled his RM50 million SRC fine — which UMNO confirmed the party paid on his behalf. Najib's lawyers are reportedly disputing the suspension, creating a legal standoff while courts clarify whether his house arrest arrangement can continue. [Malay Mail](https://www.malaymail.com/)
+>
+> > [!note]- World: Russell Brand found guilty of rape and three sexual assaults at Southwark Crown Court (Euronews)
+> > A London jury found comedian Russell Brand guilty of rape and three counts of sexual assault following weeks of deliberations at Southwark Crown Court. Brand, 51, had pleaded not guilty throughout, arguing the alleged acts were consensual; he faces up to 19 years under UK sentencing guidelines. A sentencing date has not yet been set. [Euronews](https://www.euronews.com/video/2026/11/07/latest-news-bulletin-november-7th-2026-morning)
+>
+> > [!note]- World: Paraguay's president resigns as banking collapse triggers political crisis (Euronews)
+> > Paraguay's president stepped down amid a sudden collapse of the country's banking sector, triggering an acute political crisis in the landlocked South American nation. The resignation marks one of Latin America's most dramatic political implosions of 2026, leaving depositors facing uncertainty over access to their funds. [Euronews](https://www.euronews.com/video/2026/11/07/latest-news-bulletin-november-7th-2026-morning)
+>
+> > [!note]- Tech: Stanford 2026 AI Index: AI agents jump from ~12% to ~66% task success in one year (Stanford HAI)
+> > Stanford's 2026 AI Index reveals that AI agent success on the OSWorld computer-use benchmark leapt from roughly 12% to 66% year-on-year, one of the sharpest measurable capability jumps ever recorded at scale. The finding underscores how rapidly agentic AI systems are advancing, with broad implications for automation, employment, and enterprise deployment. [Stanford HAI](https://hai.stanford.edu/)
+>
+> > [!note]- Economy: FAO food price index near four-year high as El Niño and supply fears mount (Bloomberg / FAO)
+> > The UN FAO Food Price Index reached 136.0 points in September — its highest reading since late 2022 — driven by tightening cereal and vegetable oil supplies amid El Niño weather disruptions and ongoing Black Sea trade constraints. Bloomberg flagged the data this week as global food costs hit multi-year highs, with import-dependent Southeast Asian economies among the most exposed. [Bloomberg](https://www.bloomberg.com/economics) / [Daily Maverick](https://www.dailymaverick.co.za/article/2026-10-02-world-food-prices-near-four-year-high-in-september-un-say.md)
 
 
 > [!note]- [[11-06-26 Fri]]
