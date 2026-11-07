@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-07T21:00
+updated: 2026-11-08T05:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -59,6 +59,30 @@ unread: true
 > ```
 
 ## 2026-11
+
+
+### [[11-08-26 Sun]]
+
+> [!note]- AI: Anthropic warns it's close to recursive self-improvement capability (aiweekly.co)
+> Anthropic has publicly warned that it is approaching the threshold for recursive self-improvement (RSI) — the ability for an AI to meaningfully improve its own training process — a milestone that would significantly accelerate capability growth. The warning arrives as AI stocks try to stabilise after this week's $2.5 trillion rout, and as METR's latest evaluation found Anthropic's development pace has roughly doubled since October 2025. [Source](https://aiweekly.co/)
+
+> [!breaking]- Macro: AI stocks rebound from $2.5T wipeout, but Nasdaq records worst week since mid-October (Bloomberg/CNN)
+> US equities partially clawed back losses on Friday after the Nasdaq entered correction territory on Thursday, wiping roughly $2.5 trillion in AI-linked market value in a single session — its worst day since the COVID-era rout. The week still ended as the index's worst since mid-October, with chip stocks (Nvidia, Micron) lagging as investors reassessed the implications of the Democratic midterm sweep on AI regulation and rate paths. [Bloomberg](https://bloomberg.com) / [CNN](https://cnn.com/2026/11/05/markets/asian-markets-us-rout-ai-investment-intl-hnk)
+
+> [!note]- Tech: Democrats prepare post-midterm tech probes; local data center bans threaten AI build-out (Washington Post)
+> Following their midterm sweep, Democrats are laying the groundwork to investigate major tech companies that had cultivated close ties with the outgoing administration. Separately, local bans on new data centers — backed by newly elected governors and senators — are threatening to slow the AI infrastructure build-out at a critical moment for the industry. [Washington Post](https://www.washingtonpost.com/business/technology/)
+
+> [!note]- World: Pope Leo celebrates first Mass in South America; 6 killed in Polish market square shooting (CBS/ABC)
+> Thousands poured into a park in Uruguay as Pope Leo held his first Mass on the South American continent. In Europe, Polish police reported at least six people killed and several injured in a shooting at a market square, the deadliest mass shooting in Poland in years. [CBS News](https://www.cbsnews.com/news/this-week-on-sunday-morning-nov-8-2026/) / [ABC News](https://abcnews.com/international)
+
+> [!note]- SG/MY: Bitdeer eyes further Malaysia AI infrastructure investment; Deepavali holiday strains border crossings (Malay Mail/VnExpress)
+> Singapore-headquartered Bitdeer has signalled its intention to continue and expand investment in Malaysia's AI infrastructure, following discussions with PM Anwar Ibrahim. Separately, Singapore warned of long queues at Woodlands and Tuas checkpoints over the extended Deepavali holiday weekend (Nov 6–9), adding to congestion after last week's Causeway power outage. [Malay Mail](https://www.malaymail.com/news/malaysia/2026/11/07/singapore-based-bitdeer-eyes-further-investment-in-malaysias-ai-infrastructure-says-anwar/242274) / [VnExpress](https://e.vnexpress.net/news/travel/places/singapore-warns-of-long-queues-at-land-checkpoints-with-malaysia-over-holiday-weekend-5141558.html)
+
+> [!note]- Science: Chemical traces of blood found in 115-million-year-old dinosaur bones (ScienceDaily)
+> Researchers reported the detection of chemical signatures consistent with blood in dinosaur bones dating back approximately 115 million years, far outlasting the previously assumed preservation limit for biological molecules. The discovery challenges assumptions about how long organic compounds can survive fossilisation and may open new avenues for studying ancient life. [ScienceDaily](https://www.sciencedaily.com/)
+
+> [!note]- Nike (NKE): $38.61 (−2.4%) — RBC cuts target to $39; consensus "Reduce"; P&L ≈ −$1,522 (MarketBeat)
+> NKE ended the week at approximately $38.61, down 2.4%, after Royal Bank of Canada cut its price target from $40 to $39 (Sector Perform). The consensus rating sits at "Reduce" with an average target of $40.91 across 32 analysts, with the stock down over 34% year-to-date. Next catalyst: Investor Day November 16–17. Position: 46 shares @ $71.69 avg; unrealised P&L ≈ −$1,522. [MarketBeat](https://marketbeat.com/instant-alerts/analyst-nike-nyse-nke-stock-gets-price-target-cut-from-royal-bank-of-canada-2026-11-06)
 
 
 ### [[11-06-26 Fri]]
