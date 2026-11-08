@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-08T05:00
+updated: 2026-11-09T05:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -61,28 +61,52 @@ unread: true
 ## 2026-11
 
 
-### [[11-08-26 Sun]]
+### [[11-09-26 Mon]]
 
-> [!note]- AI: Anthropic warns it's close to recursive self-improvement capability (aiweekly.co)
-> Anthropic has publicly warned that it is approaching the threshold for recursive self-improvement (RSI) — the ability for an AI to meaningfully improve its own training process — a milestone that would significantly accelerate capability growth. The warning arrives as AI stocks try to stabilise after this week's $2.5 trillion rout, and as METR's latest evaluation found Anthropic's development pace has roughly doubled since October 2025. [Source](https://aiweekly.co/)
+> [!breaking]- Macro: Nasdaq enters correction post-midterms; October CPI due Tuesday; Fed speakers Monday (CNBC/ATB)
+> The Nasdaq Composite entered correction territory last week — down over 10% from its recent peak — as AI and data center stocks bore the brunt of post-midterm selling after the Democratic sweep raised fears of tech regulation and construction moratoriums on data centers. The Dow swung +1,500 pts Wednesday then −1,800 Thursday. October CPI is due Tuesday (Barclays forecasts +0.2% MoM), with Fed Governor Bowman and Chicago Fed President Goolsbee both speaking today. [CNBC](https://www.cnbc.com/2026/11/06/stock-market-next-week-outlook-for-nov-9-13-2026.html) / [ATB](https://www.atb.com/wealth/good-advice/markets/weekly-market-update-november-9-2026/)
 
-> [!breaking]- Macro: AI stocks rebound from $2.5T wipeout, but Nasdaq records worst week since mid-October (Bloomberg/CNN)
-> US equities partially clawed back losses on Friday after the Nasdaq entered correction territory on Thursday, wiping roughly $2.5 trillion in AI-linked market value in a single session — its worst day since the COVID-era rout. The week still ended as the index's worst since mid-October, with chip stocks (Nvidia, Micron) lagging as investors reassessed the implications of the Democratic midterm sweep on AI regulation and rate paths. [Bloomberg](https://bloomberg.com) / [CNN](https://cnn.com/2026/11/05/markets/asian-markets-us-rout-ai-investment-intl-hnk)
+> [!note]- AI: Anthropic nears IPO as Ramp data shows AI spending stalling; Claude launches Personal Finance tool (TechCrunch)
+> Ramp's latest enterprise spending data shows AI expenditure has plateaued even as Anthropic accelerates toward an IPO. Claude added a Personal Finance feature allowing users to track and analyse spending directly in the assistant. Microsoft separately shipped an open-source package manager for AI agents to simplify multi-agent deployments. [TechCrunch](https://techcrunch.com/category/artificial-intelligence/)
 
-> [!note]- Tech: Democrats prepare post-midterm tech probes; local data center bans threaten AI build-out (Washington Post)
-> Following their midterm sweep, Democrats are laying the groundwork to investigate major tech companies that had cultivated close ties with the outgoing administration. Separately, local bans on new data centers — backed by newly elected governors and senators — are threatening to slow the AI infrastructure build-out at a critical moment for the industry. [Washington Post](https://www.washingtonpost.com/business/technology/)
+> [!note]- Tech: Big Tech Q3 AI capex reports due Wednesday; CoreWeave debt hits distress (AI Weekly/Bloomberg)
+> Wall Street is watching Wednesday's earnings closely as hyperscalers report Q3 AI infrastructure spend — the first capex read since the midterm rout wiped $2.5T from AI stocks. CoreWeave's debt has moved into distress with spreads widening sharply, and Crusoe sold its troubled Wyoming data center project to Google. [AI Weekly](https://aiweekly.co/)
 
-> [!note]- World: Pope Leo celebrates first Mass in South America; 6 killed in Polish market square shooting (CBS/ABC)
-> Thousands poured into a park in Uruguay as Pope Leo held his first Mass on the South American continent. In Europe, Polish police reported at least six people killed and several injured in a shooting at a market square, the deadliest mass shooting in Poland in years. [CBS News](https://www.cbsnews.com/news/this-week-on-sunday-morning-nov-8-2026/) / [ABC News](https://abcnews.com/international)
+> [!note]- World: US Congress returns for post-midterm session; Russia-US-Ukraine Abu Dhabi talks begin tomorrow (Reuters)
+> Both chambers of the US Congress return today for a high-stakes five-week session following the midterm elections, with Democrats holding new leverage on AI regulation, data center policy, and defence spending. Russia, the US, and Ukraine are set to begin trilateral peace talks in Abu Dhabi tomorrow (Nov 10–11), with Ukraine's Defence Minister Rustem Umerov leading Kyiv's delegation. [Reuters](https://www.reuters.com/)
 
-> [!note]- SG/MY: Bitdeer eyes further Malaysia AI infrastructure investment; Deepavali holiday strains border crossings (Malay Mail/VnExpress)
-> Singapore-headquartered Bitdeer has signalled its intention to continue and expand investment in Malaysia's AI infrastructure, following discussions with PM Anwar Ibrahim. Separately, Singapore warned of long queues at Woodlands and Tuas checkpoints over the extended Deepavali holiday weekend (Nov 6–9), adding to congestion after last week's Causeway power outage. [Malay Mail](https://www.malaymail.com/news/malaysia/2026/11/07/singapore-based-bitdeer-eyes-further-investment-in-malaysias-ai-infrastructure-says-anwar/242274) / [VnExpress](https://e.vnexpress.net/news/travel/places/singapore-warns-of-long-queues-at-land-checkpoints-with-malaysia-over-holiday-weekend-5141558.html)
+> [!note]- SG/MY: Cross-border taxi quota rises to 500/country on Nov 16; SG 2026 haze costs hit S$2.32b (SCMP/Malay Mail)
+> Singapore and Malaysia will increase the licensed cross-border taxi quota from 300 to 500 per country effective November 16. Singapore's estimated 2026 haze costs have reached S$2.32 billion, surpassing the 2015 peak, as the city-state issued legal notices to seven Indonesian firms and toughened maximum fines to S$20 million. Melaka's upcoming election is testing Malaysia's fragile unity government. [SCMP](https://www.scmp.com/topics/singapore) / [Malay Mail](https://www.malaymail.com/)
 
-> [!note]- Science: Chemical traces of blood found in 115-million-year-old dinosaur bones (ScienceDaily)
-> Researchers reported the detection of chemical signatures consistent with blood in dinosaur bones dating back approximately 115 million years, far outlasting the previously assumed preservation limit for biological molecules. The discovery challenges assumptions about how long organic compounds can survive fossilisation and may open new avenues for studying ancient life. [ScienceDaily](https://www.sciencedaily.com/)
+> [!note]- Science: Voyager 1 approaching 1 light-day from Earth; fast solar wind may trigger aurora today (NASA/EarthSky)
+> NASA's Voyager 1 is nearing a historic milestone as the first spacecraft to reach one light-day (~26 billion km) from Earth. Separately, fast solar wind streaming from a large coronal hole is forecast to keep space weather active through today, with moderate aurora possible at higher latitudes. [SciTechDaily](https://scitechdaily.com/) / [EarthSky](https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/)
 
-> [!note]- Nike (NKE): $38.61 (−2.4%) — RBC cuts target to $39; consensus "Reduce"; P&L ≈ −$1,522 (MarketBeat)
-> NKE ended the week at approximately $38.61, down 2.4%, after Royal Bank of Canada cut its price target from $40 to $39 (Sector Perform). The consensus rating sits at "Reduce" with an average target of $40.91 across 32 analysts, with the stock down over 34% year-to-date. Next catalyst: Investor Day November 16–17. Position: 46 shares @ $71.69 avg; unrealised P&L ≈ −$1,522. [MarketBeat](https://marketbeat.com/instant-alerts/analyst-nike-nyse-nke-stock-gets-price-target-cut-from-royal-bank-of-canada-2026-11-06)
+> [!note]- Nike (NKE): $38.61 (−2.4%) — Truist downgrades to Sell ($29 target); Investor Day Nov 16–17; P&L ≈ −$1,522 (MarketBeat/247WallSt)
+> NKE closed Friday at $38.61, down $0.95 (−2.4%), as Truist downgraded from Hold to Sell with a $29 price target — implying ~25% further downside. RBC also cut its target from $40 to $39 (Sector Perform). Consensus sits at "Reduce" with $40.91 avg target across 32 analysts; stock down 34% YTD. Next catalysts: Investor Day Nov 16–17, earnings Dec 17. Position: 46 shares @ $71.69 avg; P&L ≈ −$1,522. [MarketBeat](https://marketbeat.com/instant-alerts/list-top-apparel-stocks-to-research-november-8th-2026-11-08) / [247WallSt](https://247wallst.com/companies/nke/)
+
+
+> [!note]- [[11-08-26 Sun]]
+>
+> > [!note]- AI: Anthropic warns it's close to recursive self-improvement capability (aiweekly.co)
+> > Anthropic has publicly warned that it is approaching the threshold for recursive self-improvement (RSI) — the ability for an AI to meaningfully improve its own training process — a milestone that would significantly accelerate capability growth. The warning arrives as AI stocks try to stabilise after this week's $2.5 trillion rout, and as METR's latest evaluation found Anthropic's development pace has roughly doubled since October 2025. [Source](https://aiweekly.co/)
+>
+> > [!breaking]- Macro: AI stocks rebound from $2.5T wipeout, but Nasdaq records worst week since mid-October (Bloomberg/CNN)
+> > US equities partially clawed back losses on Friday after the Nasdaq entered correction territory on Thursday, wiping roughly $2.5 trillion in AI-linked market value in a single session — its worst day since the COVID-era rout. The week still ended as the index's worst since mid-October, with chip stocks (Nvidia, Micron) lagging as investors reassessed the implications of the Democratic midterm sweep on AI regulation and rate paths. [Bloomberg](https://bloomberg.com) / [CNN](https://cnn.com/2026/11/05/markets/asian-markets-us-rout-ai-investment-intl-hnk)
+>
+> > [!note]- Tech: Democrats prepare post-midterm tech probes; local data center bans threaten AI build-out (Washington Post)
+> > Following their midterm sweep, Democrats are laying the groundwork to investigate major tech companies that had cultivated close ties with the outgoing administration. Separately, local bans on new data centers — backed by newly elected governors and senators — are threatening to slow the AI infrastructure build-out at a critical moment for the industry. [Washington Post](https://www.washingtonpost.com/business/technology/)
+>
+> > [!note]- World: Pope Leo celebrates first Mass in South America; 6 killed in Polish market square shooting (CBS/ABC)
+> > Thousands poured into a park in Uruguay as Pope Leo held his first Mass on the South American continent. In Europe, Polish police reported at least six people killed and several injured in a shooting at a market square, the deadliest mass shooting in Poland in years. [CBS News](https://www.cbsnews.com/news/this-week-on-sunday-morning-nov-8-2026/) / [ABC News](https://abcnews.com/international)
+>
+> > [!note]- SG/MY: Bitdeer eyes further Malaysia AI infrastructure investment; Deepavali holiday strains border crossings (Malay Mail/VnExpress)
+> > Singapore-headquartered Bitdeer has signalled its intention to continue and expand investment in Malaysia's AI infrastructure, following discussions with PM Anwar Ibrahim. Separately, Singapore warned of long queues at Woodlands and Tuas checkpoints over the extended Deepavali holiday weekend (Nov 6–9), adding to congestion after last week's Causeway power outage. [Malay Mail](https://www.malaymail.com/news/malaysia/2026/11/07/singapore-based-bitdeer-eyes-further-investment-in-malaysias-ai-infrastructure-says-anwar/242274) / [VnExpress](https://e.vnexpress.net/news/travel/places/singapore-warns-of-long-queues-at-land-checkpoints-with-malaysia-over-holiday-weekend-5141558.html)
+>
+> > [!note]- Science: Chemical traces of blood found in 115-million-year-old dinosaur bones (ScienceDaily)
+> > Researchers reported the detection of chemical signatures consistent with blood in dinosaur bones dating back approximately 115 million years, far outlasting the previously assumed preservation limit for biological molecules. The discovery challenges assumptions about how long organic compounds can survive fossilisation and may open new avenues for studying ancient life. [ScienceDaily](https://www.sciencedaily.com/)
+>
+> > [!note]- Nike (NKE): $38.61 (−2.4%) — RBC cuts target to $39; consensus "Reduce"; P&L ≈ −$1,522 (MarketBeat)
+> > NKE ended the week at approximately $38.61, down 2.4%, after Royal Bank of Canada cut its price target from $40 to $39 (Sector Perform). The consensus rating sits at "Reduce" with an average target of $40.91 across 32 analysts, with the stock down over 34% year-to-date. Next catalyst: Investor Day November 16–17. Position: 46 shares @ $71.69 avg; unrealised P&L ≈ −$1,522. [MarketBeat](https://marketbeat.com/instant-alerts/analyst-nike-nyse-nke-stock-gets-price-target-cut-from-royal-bank-of-canada-2026-11-06)
 
 
 ### [[11-06-26 Fri]]
