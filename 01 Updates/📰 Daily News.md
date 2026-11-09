@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-09T05:00
+updated: 2026-11-09T19:05
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,26 @@ unread: true
 
 > [!note]- Nike (NKE): $38.61 (−2.4%) — Truist downgrades to Sell ($29 target); Investor Day Nov 16–17; P&L ≈ −$1,522 (MarketBeat/247WallSt)
 > NKE closed Friday at $38.61, down $0.95 (−2.4%), as Truist downgraded from Hold to Sell with a $29 price target — implying ~25% further downside. RBC also cut its target from $40 to $39 (Sector Perform). Consensus sits at "Reduce" with $40.91 avg target across 32 analysts; stock down 34% YTD. Next catalysts: Investor Day Nov 16–17, earnings Dec 17. Position: 46 shares @ $71.69 avg; P&L ≈ −$1,522. [MarketBeat](https://marketbeat.com/instant-alerts/list-top-apparel-stocks-to-research-november-8th-2026-11-08) / [247WallSt](https://247wallst.com/companies/nke/)
+
+> **Evening update**
+
+> [!note]- SG/MY: PUB issues flash flood alert as thundery showers sweep Singapore on Monday afternoon (AsiaOne)
+> Singapore's national water agency PUB issued a flash flood alert on Monday afternoon as heavy thundery showers swept across the island, with ponding warnings in several low-lying areas. The wet weather follows a busy extended Deepavali holiday weekend that strained both Woodlands and Tuas border checkpoints. Authorities expect showers to ease by evening. [AsiaOne](https://www.asiaone.com/)
+
+> [!note]- Malaysia: Sultan Ibrahim warns against challenging Najib's house arrest, says pardon 'clear and unambiguous' (SCMP)
+> Malaysia's King Sultan Ibrahim firmly cautioned politicians and legal commentators against questioning the terms of former Prime Minister [[Najib Razak]]'s house arrest, stating that his royal pardon order was "clear, explicit and without any ambiguity." The statement arrives amid ongoing debate over whether the modified sentence constitutes a full commutation and what conditions apply. [SCMP](https://www.scmp.com/news/asia/southeast-asia)
+
+> [!breaking]- World: Mass shooting in Kraków treated as terror act; 6 dead, 15 injured (ABC News)
+> Polish prosecutors are treating a mass shooting in [[Kraków]] as a terrorist act after at least six people were killed and 15 others injured in the attack. Authorities detained a suspect and launched a broad national security investigation. The incident has prompted calls across Europe for a review of public security protocols. [ABC News](https://abcnews.com/international)
+
+> [!note]- World: Israel opposition leader Eisenkot asked to form new government; given 28 days (ABC News)
+> Israeli President Herzog formally asked opposition leader [[Gadi Eisenkot]] to form a new government following the collapse of the ruling coalition, setting a 28-day window to secure a parliamentary majority. Eisenkot faces a complex coalition-building task amid ongoing security pressures from multiple fronts and deep ideological divisions within the Knesset. [ABC News](https://abcnews.com/international)
+
+> [!note]- Tech: Thinking Machines Lab closes $5B round at $40B valuation; Nvidia in talks to co-invest $2.5B (AI Weekly)
+> [[Thinking Machines Lab]] has closed a $5 billion funding round led by Accel at a $40 billion pre-money valuation, one of the largest private AI fundraises of 2026. [[Nvidia]] is separately in advanced talks to co-invest approximately $2.5 billion, which would deepen the hardware maker's direct stake in frontier AI development alongside existing hyperscaler partnerships. [AI Weekly](https://aiweekly.co/)
+
+> [!note]- Science: Marine snow stickiness found to be key driver of deep-ocean carbon capture, study finds (ScienceDaily)
+> A study published November 8 found that the stickiness of "marine snow" — the organic particles that drift down through the ocean — is a surprisingly important variable in how much carbon reaches the deep seabed, with stickier particles clumping and sinking faster. The finding could refine estimates of the ocean's carbon-sequestration capacity and affect projections under various climate-warming scenarios. [ScienceDaily](https://www.sciencedaily.com/)
 
 
 > [!note]- [[11-08-26 Sun]]
