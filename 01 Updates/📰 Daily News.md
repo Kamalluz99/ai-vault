@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-09T19:05
+updated: 2026-11-10T05:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -61,48 +61,73 @@ unread: true
 ## 2026-11
 
 
-### [[11-09-26 Mon]]
+### [[11-10-26 Tue]]
 
-> [!breaking]- Macro: Nasdaq enters correction post-midterms; October CPI due Tuesday; Fed speakers Monday (CNBC/ATB)
-> The Nasdaq Composite entered correction territory last week — down over 10% from its recent peak — as AI and data center stocks bore the brunt of post-midterm selling after the Democratic sweep raised fears of tech regulation and construction moratoriums on data centers. The Dow swung +1,500 pts Wednesday then −1,800 Thursday. October CPI is due Tuesday (Barclays forecasts +0.2% MoM), with Fed Governor Bowman and Chicago Fed President Goolsbee both speaking today. [CNBC](https://www.cnbc.com/2026/11/06/stock-market-next-week-outlook-for-nov-9-13-2026.html) / [ATB](https://www.atb.com/wealth/good-advice/markets/weekly-market-update-november-9-2026/)
+> [!breaking]- AI: Nvidia board opens independent probe into foreign-intelligence targeting of CEO Jensen Huang (Bloomberg)
+> Nvidia's board has launched an independent investigation after reports that CEO Jensen Huang was targeted by a foreign intelligence operation, sending chip stocks sharply lower on Monday. The probe raises broader questions about geopolitical exposure across the AI supply chain and rattled the Nasdaq 100. Separately, Anthropic confirmed a $3.4B deal for AI data-centre power, and OpenAI released a new cybersecurity-focused model. [Bloomberg](https://www.bloomberg.com/ai) / [AI Weekly](https://aiweekly.co/ai-news-today)
 
-> [!note]- AI: Anthropic nears IPO as Ramp data shows AI spending stalling; Claude launches Personal Finance tool (TechCrunch)
-> Ramp's latest enterprise spending data shows AI expenditure has plateaued even as Anthropic accelerates toward an IPO. Claude added a Personal Finance feature allowing users to track and analyse spending directly in the assistant. Microsoft separately shipped an open-source package manager for AI agents to simplify multi-agent deployments. [TechCrunch](https://techcrunch.com/category/artificial-intelligence/)
+> [!note]- Tech: Web Summit 2026 opens in Lisbon with ~70,000 attendees; Agibot's robots and AI agents headline (Euronews)
+> The Web Summit 2026 conference opened in Lisbon with close to 70,000 attendees, 900 speakers, and over 2,000 startups, making it one of the largest editions yet. Chinese robotics firm Agibot brought its humanoid robots on stage, and AI agents were the dominant theme throughout the first day. The Nvidia board probe dominated backstage investor conversations. [Euronews](https://euronews.com/2026/11/09/web-summit-lisbon-2026-chinas-robotos-take-to-the-stage-as-tech-conference-launches)
 
-> [!note]- Tech: Big Tech Q3 AI capex reports due Wednesday; CoreWeave debt hits distress (AI Weekly/Bloomberg)
-> Wall Street is watching Wednesday's earnings closely as hyperscalers report Q3 AI infrastructure spend — the first capex read since the midterm rout wiped $2.5T from AI stocks. CoreWeave's debt has moved into distress with spreads widening sharply, and Crusoe sold its troubled Wyoming data center project to Google. [AI Weekly](https://aiweekly.co/)
+> [!breaking]- Macro: October CPI due today; Nasdaq in correction; Fed Dec hike odds at 85% (FXCM/ATB)
+> US October CPI data is released today — the week's key macro print — with Barclays forecasting +0.2% MoM. The Nasdaq entered correction territory last week (down 10%+ from its October peak) following the Democratic midterm sweep, even as the economy added a strong 165K jobs in October and Q3 GDP grew 3.4% annualised. Markets are pricing an 85% probability of a Fed rate hike at the December meeting. [FXCM](https://www.fxcm.com/markets/insights/global-macro-and-markets-briefing-9-november-2026/) / [ATB](https://www.atb.com/wealth/good-advice/markets/weekly-market-update-november-9-2026/)
 
-> [!note]- World: US Congress returns for post-midterm session; Russia-US-Ukraine Abu Dhabi talks begin tomorrow (Reuters)
-> Both chambers of the US Congress return today for a high-stakes five-week session following the midterm elections, with Democrats holding new leverage on AI regulation, data center policy, and defence spending. Russia, the US, and Ukraine are set to begin trilateral peace talks in Abu Dhabi tomorrow (Nov 10–11), with Ukraine's Defence Minister Rustem Umerov leading Kyiv's delegation. [Reuters](https://www.reuters.com/)
+> [!note]- World: Russia-US-Ukraine Abu Dhabi talks begin today; Trump warns US ready to strike Iran "anytime" (Reuters/Al Jazeera)
+> The Russia-US-Ukraine trilateral peace talks get underway today in Abu Dhabi (Nov 10–11), with Ukraine's Defence Minister Rustem Umerov leading Kyiv's delegation. Meanwhile, President Trump warned that the US is prepared to strike Iran "anytime we want," keeping Strait of Hormuz tensions elevated. Russell Brand was separately sentenced to 10 years 6 months in prison. [Reuters](https://www.reuters.com/) / [Al Jazeera](https://www.aljazeera.com/)
 
-> [!note]- SG/MY: Cross-border taxi quota rises to 500/country on Nov 16; SG 2026 haze costs hit S$2.32b (SCMP/Malay Mail)
-> Singapore and Malaysia will increase the licensed cross-border taxi quota from 300 to 500 per country effective November 16. Singapore's estimated 2026 haze costs have reached S$2.32 billion, surpassing the 2015 peak, as the city-state issued legal notices to seven Indonesian firms and toughened maximum fines to S$20 million. Melaka's upcoming election is testing Malaysia's fragile unity government. [SCMP](https://www.scmp.com/topics/singapore) / [Malay Mail](https://www.malaymail.com/)
+> [!note]- SG/MY: Singapore raises haze fines 10x to S$20M as 2026 haze costs surpass S$2.32B (Malay Mail/SCMP)
+> Singapore has raised maximum fines for haze-related offences tenfold to S$20 million and issued legal notices to seven Indonesian firms, calling the status quo "not tenable" as 2026 haze costs surpass the 2015 record of S$2.32 billion. The government also began rolling out haze subsidies while Malaysia extended school closures in affected states. [Malay Mail](https://www.malaymail.com/) / [SCMP](https://www.scmp.com/topics/singapore)
 
-> [!note]- Science: Voyager 1 approaching 1 light-day from Earth; fast solar wind may trigger aurora today (NASA/EarthSky)
-> NASA's Voyager 1 is nearing a historic milestone as the first spacecraft to reach one light-day (~26 billion km) from Earth. Separately, fast solar wind streaming from a large coronal hole is forecast to keep space weather active through today, with moderate aurora possible at higher latitudes. [SciTechDaily](https://scitechdaily.com/) / [EarthSky](https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/)
+> [!note]- Science: NASA's Swift Telescope falls to Earth after 22 years; warming accelerating at 0.35°C/decade (NASA/ScienceDaily)
+> NASA's Neil Gehrels Swift Observatory re-entered Earth's atmosphere, ending nearly 22 years of observing gamma-ray bursts and high-energy cosmic events. Separately, a Potsdam Institute study confirmed that global surface temperatures have risen at approximately 0.35°C per decade over the past 10 years — the fastest rate ever recorded. [ScienceDaily](https://www.sciencedaily.com/) / [NASA](https://www.nasa.gov/)
 
-> [!note]- Nike (NKE): $38.61 (−2.4%) — Truist downgrades to Sell ($29 target); Investor Day Nov 16–17; P&L ≈ −$1,522 (MarketBeat/247WallSt)
-> NKE closed Friday at $38.61, down $0.95 (−2.4%), as Truist downgraded from Hold to Sell with a $29 price target — implying ~25% further downside. RBC also cut its target from $40 to $39 (Sector Perform). Consensus sits at "Reduce" with $40.91 avg target across 32 analysts; stock down 34% YTD. Next catalysts: Investor Day Nov 16–17, earnings Dec 17. Position: 46 shares @ $71.69 avg; P&L ≈ −$1,522. [MarketBeat](https://marketbeat.com/instant-alerts/list-top-apparel-stocks-to-research-november-8th-2026-11-08) / [247WallSt](https://247wallst.com/companies/nke/)
+> [!note]- Nike (NKE): $38.59 (−2.45%) — Investor Day Nov 16–17 this week; Truist Sell/$29 target; P&L ≈ −$1,522 (MarketBeat/JournalArta)
+> NKE last closed at $38.59 on Friday November 6, down 2.45%, with Truist's $29 Sell target and RBC's $39 Sector Perform rating still the latest analyst calls. This week's key catalyst is Investor Day on November 16–17, where management is expected to outline turnaround strategy. Position: 46 shares @ $71.69 avg; unrealised P&L ≈ −$1,522. [MarketBeat](https://www.marketbeat.com/) / [JournalArta](https://journalarta.com/en/2026/11/09/nike-nke-stock-falls-2-45-golden-cross-formed-in-focus/)
 
-> **Evening update**
 
-> [!note]- SG/MY: PUB issues flash flood alert as thundery showers sweep Singapore on Monday afternoon (AsiaOne)
-> Singapore's national water agency PUB issued a flash flood alert on Monday afternoon as heavy thundery showers swept across the island, with ponding warnings in several low-lying areas. The wet weather follows a busy extended Deepavali holiday weekend that strained both Woodlands and Tuas border checkpoints. Authorities expect showers to ease by evening. [AsiaOne](https://www.asiaone.com/)
-
-> [!note]- Malaysia: Sultan Ibrahim warns against challenging Najib's house arrest, says pardon 'clear and unambiguous' (SCMP)
-> Malaysia's King Sultan Ibrahim firmly cautioned politicians and legal commentators against questioning the terms of former Prime Minister [[Najib Razak]]'s house arrest, stating that his royal pardon order was "clear, explicit and without any ambiguity." The statement arrives amid ongoing debate over whether the modified sentence constitutes a full commutation and what conditions apply. [SCMP](https://www.scmp.com/news/asia/southeast-asia)
-
-> [!breaking]- World: Mass shooting in Kraków treated as terror act; 6 dead, 15 injured (ABC News)
-> Polish prosecutors are treating a mass shooting in [[Kraków]] as a terrorist act after at least six people were killed and 15 others injured in the attack. Authorities detained a suspect and launched a broad national security investigation. The incident has prompted calls across Europe for a review of public security protocols. [ABC News](https://abcnews.com/international)
-
-> [!note]- World: Israel opposition leader Eisenkot asked to form new government; given 28 days (ABC News)
-> Israeli President Herzog formally asked opposition leader [[Gadi Eisenkot]] to form a new government following the collapse of the ruling coalition, setting a 28-day window to secure a parliamentary majority. Eisenkot faces a complex coalition-building task amid ongoing security pressures from multiple fronts and deep ideological divisions within the Knesset. [ABC News](https://abcnews.com/international)
-
-> [!note]- Tech: Thinking Machines Lab closes $5B round at $40B valuation; Nvidia in talks to co-invest $2.5B (AI Weekly)
-> [[Thinking Machines Lab]] has closed a $5 billion funding round led by Accel at a $40 billion pre-money valuation, one of the largest private AI fundraises of 2026. [[Nvidia]] is separately in advanced talks to co-invest approximately $2.5 billion, which would deepen the hardware maker's direct stake in frontier AI development alongside existing hyperscaler partnerships. [AI Weekly](https://aiweekly.co/)
-
-> [!note]- Science: Marine snow stickiness found to be key driver of deep-ocean carbon capture, study finds (ScienceDaily)
-> A study published November 8 found that the stickiness of "marine snow" — the organic particles that drift down through the ocean — is a surprisingly important variable in how much carbon reaches the deep seabed, with stickier particles clumping and sinking faster. The finding could refine estimates of the ocean's carbon-sequestration capacity and affect projections under various climate-warming scenarios. [ScienceDaily](https://www.sciencedaily.com/)
+> [!note]- [[11-09-26 Mon]]
+>
+>
+> > [!breaking]- Macro: Nasdaq enters correction post-midterms; October CPI due Tuesday; Fed speakers Monday (CNBC/ATB)
+> > The Nasdaq Composite entered correction territory last week — down over 10% from its recent peak — as AI and data center stocks bore the brunt of post-midterm selling after the Democratic sweep raised fears of tech regulation and construction moratoriums on data centers. The Dow swung +1,500 pts Wednesday then −1,800 Thursday. October CPI is due Tuesday (Barclays forecasts +0.2% MoM), with Fed Governor Bowman and Chicago Fed President Goolsbee both speaking today. [CNBC](https://www.cnbc.com/2026/11/06/stock-market-next-week-outlook-for-nov-9-13-2026.html) / [ATB](https://www.atb.com/wealth/good-advice/markets/weekly-market-update-november-9-2026/)
+>
+> > [!note]- AI: Anthropic nears IPO as Ramp data shows AI spending stalling; Claude launches Personal Finance tool (TechCrunch)
+> > Ramp's latest enterprise spending data shows AI expenditure has plateaued even as Anthropic accelerates toward an IPO. Claude added a Personal Finance feature allowing users to track and analyse spending directly in the assistant. Microsoft separately shipped an open-source package manager for AI agents to simplify multi-agent deployments. [TechCrunch](https://techcrunch.com/category/artificial-intelligence/)
+>
+> > [!note]- Tech: Big Tech Q3 AI capex reports due Wednesday; CoreWeave debt hits distress (AI Weekly/Bloomberg)
+> > Wall Street is watching Wednesday's earnings closely as hyperscalers report Q3 AI infrastructure spend — the first capex read since the midterm rout wiped $2.5T from AI stocks. CoreWeave's debt has moved into distress with spreads widening sharply, and Crusoe sold its troubled Wyoming data center project to Google. [AI Weekly](https://aiweekly.co/)
+>
+> > [!note]- World: US Congress returns for post-midterm session; Russia-US-Ukraine Abu Dhabi talks begin tomorrow (Reuters)
+> > Both chambers of the US Congress return today for a high-stakes five-week session following the midterm elections, with Democrats holding new leverage on AI regulation, data center policy, and defence spending. Russia, the US, and Ukraine are set to begin trilateral peace talks in Abu Dhabi tomorrow (Nov 10–11), with Ukraine's Defence Minister Rustem Umerov leading Kyiv's delegation. [Reuters](https://www.reuters.com/)
+>
+> > [!note]- SG/MY: Cross-border taxi quota rises to 500/country on Nov 16; SG 2026 haze costs hit S$2.32b (SCMP/Malay Mail)
+> > Singapore and Malaysia will increase the licensed cross-border taxi quota from 300 to 500 per country effective November 16. Singapore's estimated 2026 haze costs have reached S$2.32 billion, surpassing the 2015 peak, as the city-state issued legal notices to seven Indonesian firms and toughened maximum fines to S$20 million. Melaka's upcoming election is testing Malaysia's fragile unity government. [SCMP](https://www.scmp.com/topics/singapore) / [Malay Mail](https://www.malaymail.com/)
+>
+> > [!note]- Science: Voyager 1 approaching 1 light-day from Earth; fast solar wind may trigger aurora today (NASA/EarthSky)
+> > NASA's Voyager 1 is nearing a historic milestone as the first spacecraft to reach one light-day (~26 billion km) from Earth. Separately, fast solar wind streaming from a large coronal hole is forecast to keep space weather active through today, with moderate aurora possible at higher latitudes. [SciTechDaily](https://scitechdaily.com/) / [EarthSky](https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/)
+>
+> > [!note]- Nike (NKE): $38.61 (−2.4%) — Truist downgrades to Sell ($29 target); Investor Day Nov 16–17; P&L ≈ −$1,522 (MarketBeat/247WallSt)
+> > NKE closed Friday at $38.61, down $0.95 (−2.4%), as Truist downgraded from Hold to Sell with a $29 price target — implying ~25% further downside. RBC also cut its target from $40 to $39 (Sector Perform). Consensus sits at "Reduce" with $40.91 avg target across 32 analysts; stock down 34% YTD. Next catalysts: Investor Day Nov 16–17, earnings Dec 17. Position: 46 shares @ $71.69 avg; P&L ≈ −$1,522. [MarketBeat](https://marketbeat.com/instant-alerts/list-top-apparel-stocks-to-research-november-8th-2026-11-08) / [247WallSt](https://247wallst.com/companies/nke/)
+>
+> > **Evening update**
+>
+> > [!note]- SG/MY: PUB issues flash flood alert as thundery showers sweep Singapore on Monday afternoon (AsiaOne)
+> > Singapore's national water agency PUB issued a flash flood alert on Monday afternoon as heavy thundery showers swept across the island, with ponding warnings in several low-lying areas. The wet weather follows a busy extended Deepavali holiday weekend that strained both Woodlands and Tuas border checkpoints. Authorities expect showers to ease by evening. [AsiaOne](https://www.asiaone.com/)
+>
+> > [!note]- Malaysia: Sultan Ibrahim warns against challenging Najib's house arrest, says pardon 'clear and unambiguous' (SCMP)
+> > Malaysia's King Sultan Ibrahim firmly cautioned politicians and legal commentators against questioning the terms of former Prime Minister [[Najib Razak]]'s house arrest, stating that his royal pardon order was "clear, explicit and without any ambiguity." The statement arrives amid ongoing debate over whether the modified sentence constitutes a full commutation and what conditions apply. [SCMP](https://www.scmp.com/news/asia/southeast-asia)
+>
+> > [!breaking]- World: Mass shooting in Kraków treated as terror act; 6 dead, 15 injured (ABC News)
+> > Polish prosecutors are treating a mass shooting in [[Kraków]] as a terrorist act after at least six people were killed and 15 others injured in the attack. Authorities detained a suspect and launched a broad national security investigation. The incident has prompted calls across Europe for a review of public security protocols. [ABC News](https://abcnews.com/international)
+>
+> > [!note]- World: Israel opposition leader Eisenkot asked to form new government; given 28 days (ABC News)
+> > Israeli President Herzog formally asked opposition leader [[Gadi Eisenkot]] to form a new government following the collapse of the ruling coalition, setting a 28-day window to secure a parliamentary majority. Eisenkot faces a complex coalition-building task amid ongoing security pressures from multiple fronts and deep ideological divisions within the Knesset. [ABC News](https://abcnews.com/international)
+>
+> > [!note]- Tech: Thinking Machines Lab closes $5B round at $40B valuation; Nvidia in talks to co-invest $2.5B (AI Weekly)
+> > [[Thinking Machines Lab]] has closed a $5 billion funding round led by Accel at a $40 billion pre-money valuation, one of the largest private AI fundraises of 2026. [[Nvidia]] is separately in advanced talks to co-invest approximately $2.5 billion, which would deepen the hardware maker's direct stake in frontier AI development alongside existing hyperscaler partnerships. [AI Weekly](https://aiweekly.co/)
+>
+> > [!note]- Science: Marine snow stickiness found to be key driver of deep-ocean carbon capture, study finds (ScienceDaily)
+> > A study published November 8 found that the stickiness of "marine snow" — the organic particles that drift down through the ocean — is a surprisingly important variable in how much carbon reaches the deep seabed, with stickier particles clumping and sinking faster. The finding could refine estimates of the ocean's carbon-sequestration capacity and affect projections under various climate-warming scenarios. [ScienceDaily](https://www.sciencedaily.com/)
 
 
 > [!note]- [[11-08-26 Sun]]
