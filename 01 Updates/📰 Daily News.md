@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-10T05:00
+updated: 2026-11-10T05:15
 topic: daily news
 frequency: daily
 ongoing: false
@@ -63,26 +63,23 @@ unread: true
 
 ### [[11-10-26 Tue]]
 
-> [!breaking]- AI: Nvidia board opens independent probe into foreign-intelligence targeting of CEO Jensen Huang (Bloomberg)
-> Nvidia's board has launched an independent investigation after reports that CEO Jensen Huang was targeted by a foreign intelligence operation, sending chip stocks sharply lower on Monday. The probe raises broader questions about geopolitical exposure across the AI supply chain and rattled the Nasdaq 100. Separately, Anthropic confirmed a $3.4B deal for AI data-centre power, and OpenAI released a new cybersecurity-focused model. [Bloomberg](https://www.bloomberg.com/ai) / [AI Weekly](https://aiweekly.co/ai-news-today)
+> [!breaking]- AI: Nvidia board launches probe after Jensen Huang reportedly targeted by Chinese intel op (Bloomberg)
+> Nvidia's board has opened an independent investigation after reports that CEO Jensen Huang was the target of a Chinese intelligence operation, rattling chip stocks and the Nasdaq 100. The probe adds geopolitical risk to the AI supply chain narrative at a sensitive moment. The EU AI Office's enforcement powers over general-purpose AI model providers also came fully into force this week, while the US administration's voluntary frontier-model deployment framework continues to face scrutiny over how "covered models" are defined. [Bloomberg](https://www.bloomberg.com) / [Lawfare](https://www.lawfaremedia.org/article/the-many-open-questions-about-the-trump-administration-s-new-de-facto-ai-model-licensing-system)
 
-> [!note]- Tech: Web Summit 2026 opens in Lisbon with ~70,000 attendees; Agibot's robots and AI agents headline (Euronews)
-> The Web Summit 2026 conference opened in Lisbon with close to 70,000 attendees, 900 speakers, and over 2,000 startups, making it one of the largest editions yet. Chinese robotics firm Agibot brought its humanoid robots on stage, and AI agents were the dominant theme throughout the first day. The Nvidia board probe dominated backstage investor conversations. [Euronews](https://euronews.com/2026/11/09/web-summit-lisbon-2026-chinas-robotos-take-to-the-stage-as-tech-conference-launches)
+> [!note]- Tech: Skydance begins layoffs in games division after Warner Bros. Games acquisition (Insider Gaming)
+> Skydance has started cutting jobs in its games division following the completion of its Warner Bros. Games acquisition, with at least 30 employees let go and the final number expected to be higher. The company has not commented. The move follows a broader 2026 gaming industry downturn that also hit Bit Reactor, the studio behind Star Wars Zero Company. [Insider Gaming](https://insider-gaming.com/skydance-layoffs-games-division-warner-bros-games)
 
-> [!breaking]- Macro: October CPI due today; Nasdaq in correction; Fed Dec hike odds at 85% (FXCM/ATB)
-> US October CPI data is released today — the week's key macro print — with Barclays forecasting +0.2% MoM. The Nasdaq entered correction territory last week (down 10%+ from its October peak) following the Democratic midterm sweep, even as the economy added a strong 165K jobs in October and Q3 GDP grew 3.4% annualised. Markets are pricing an 85% probability of a Fed rate hike at the December meeting. [FXCM](https://www.fxcm.com/markets/insights/global-macro-and-markets-briefing-9-november-2026/) / [ATB](https://www.atb.com/wealth/good-advice/markets/weekly-market-update-november-9-2026/)
+> [!breaking]- Macro: October CPI out today; Nasdaq in correction; Fed Dec hike priced at 81% (FXCM/ATB)
+> US October CPI is the week's key macro print, with the Nasdaq still in correction territory after last week's post-midterm selloff. Markets price an 81% probability of a December Fed rate hike per CME FedWatch. Gold recovered to ~$4,141 after earlier margin-call selling, oil slid toward $86 on softened Iran-strike fears, and Bitcoin remains weak near $75,865. [FXCM](https://www.fxcm.com/markets/insights/global-macro-and-markets-briefing-9-november-2026/) / [ATB](https://www.atb.com/wealth/good-advice/markets/weekly-market-update-november-9-2026/)
 
-> [!note]- World: Russia-US-Ukraine Abu Dhabi talks begin today; Trump warns US ready to strike Iran "anytime" (Reuters/Al Jazeera)
-> The Russia-US-Ukraine trilateral peace talks get underway today in Abu Dhabi (Nov 10–11), with Ukraine's Defence Minister Rustem Umerov leading Kyiv's delegation. Meanwhile, President Trump warned that the US is prepared to strike Iran "anytime we want," keeping Strait of Hormuz tensions elevated. Russell Brand was separately sentenced to 10 years 6 months in prison. [Reuters](https://www.reuters.com/) / [Al Jazeera](https://www.aljazeera.com/)
+> [!note]- World: Russia-US-Ukraine Abu Dhabi talks open today; US-Iran nuclear negotiations ongoing in Qatar (CNN/CBS)
+> The first three-way Russia-US-Ukraine peace talks since February open today in Abu Dhabi (Nov 10–11), with European officials attending and Ukraine's Defence Minister leading Kyiv's delegation. Simultaneously, Qatar is hosting indirect US-Iran talks on a nuclear deal and reopening of the Strait of Hormuz, with Trump saying renewed US strikes are "highly unlikely" if progress is made. [CNN](https://www.cnn.com/2026/11/09/middleeast/iran-us-talks-explainer-intl) / [CBS](https://www.cbsnews.com/live-updates/iran-war-us-trump-deal-negotiations/)
 
-> [!note]- SG/MY: Singapore raises haze fines 10x to S$20M as 2026 haze costs surpass S$2.32B (Malay Mail/SCMP)
-> Singapore has raised maximum fines for haze-related offences tenfold to S$20 million and issued legal notices to seven Indonesian firms, calling the status quo "not tenable" as 2026 haze costs surpass the 2015 record of S$2.32 billion. The government also began rolling out haze subsidies while Malaysia extended school closures in affected states. [Malay Mail](https://www.malaymail.com/) / [SCMP](https://www.scmp.com/topics/singapore)
+> [!note]- Malaysia: Melaka state election on 14 Nov enters final stretch; 79 candidates, 28 seats (Malay Mail)
+> Campaigning for the November 14 Melaka state election is in its final week, with 79 candidates from multiple coalitions contesting 28 seats. Tensions between Bersatu and PAS within Perikatan Nasional have emerged, with Muhyiddin eyeing a clean sweep. MetMalaysia also issued continuous rain warnings at alert and severe levels for Kelantan, Terengganu, Pahang and Sabah through Wednesday. [Malay Mail](https://www.malaymail.com/news/malaysia)
 
-> [!note]- Science: NASA's Swift Telescope falls to Earth after 22 years; warming accelerating at 0.35°C/decade (NASA/ScienceDaily)
-> NASA's Neil Gehrels Swift Observatory re-entered Earth's atmosphere, ending nearly 22 years of observing gamma-ray bursts and high-energy cosmic events. Separately, a Potsdam Institute study confirmed that global surface temperatures have risen at approximately 0.35°C per decade over the past 10 years — the fastest rate ever recorded. [ScienceDaily](https://www.sciencedaily.com/) / [NASA](https://www.nasa.gov/)
-
-> [!note]- Nike (NKE): $38.59 (−2.45%) — Investor Day Nov 16–17 this week; Truist Sell/$29 target; P&L ≈ −$1,522 (MarketBeat/JournalArta)
-> NKE last closed at $38.59 on Friday November 6, down 2.45%, with Truist's $29 Sell target and RBC's $39 Sector Perform rating still the latest analyst calls. This week's key catalyst is Investor Day on November 16–17, where management is expected to outline turnaround strategy. Position: 46 shares @ $71.69 avg; unrealised P&L ≈ −$1,522. [MarketBeat](https://www.marketbeat.com/) / [JournalArta](https://journalarta.com/en/2026/11/09/nike-nke-stock-falls-2-45-golden-cross-formed-in-focus/)
+> [!note]- Science: Mysterious gas leaks suggest Mars may still be volcanically active (ScienceDaily)
+> New data from Mars orbiters has revealed unusual gas emissions that scientists say could indicate residual volcanic activity — a process previously thought to have ended billions of years ago. The findings, published this week, could reshape understanding of Mars' interior and its potential to have harboured life more recently than current models suggest. [ScienceDaily](https://sciencedaily.com/releases/2026/11/261106174525.htm)
 
 
 > [!note]- [[11-09-26 Mon]]
