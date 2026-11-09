@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-10T05:15
+updated: 2026-11-09T21:10
 topic: daily news
 frequency: daily
 ongoing: false
@@ -63,8 +63,8 @@ unread: true
 
 ### [[11-10-26 Tue]]
 
-> [!breaking]- AI: Nvidia board launches probe after Jensen Huang reportedly targeted by Chinese intel op (Bloomberg)
-> Nvidia's board has opened an independent investigation after reports that CEO Jensen Huang was the target of a Chinese intelligence operation, rattling chip stocks and the Nasdaq 100. The probe adds geopolitical risk to the AI supply chain narrative at a sensitive moment. The EU AI Office's enforcement powers over general-purpose AI model providers also came fully into force this week, while the US administration's voluntary frontier-model deployment framework continues to face scrutiny over how "covered models" are defined. [Bloomberg](https://www.bloomberg.com) / [Lawfare](https://www.lawfaremedia.org/article/the-many-open-questions-about-the-trump-administration-s-new-de-facto-ai-model-licensing-system)
+> [!breaking]- AI: Anthropic launches Fable 5.2 & Mythos 5.2 ahead of IPO; cuts prices 20% vs OpenAI (Anthropic/TechCrunch)
+> Anthropic released Claude Fable 5.2 and Claude Mythos 5.2 on Monday — up to 30% faster than 5.1 — at $8/M input tokens, undercutting OpenAI's GPT-6 Astra by ~20%. Mythos 5.2 is restricted to Anthropic's Cyber Verification Program members due to stronger covert capabilities, arriving days before a potential IPO. Nvidia's board also launched an independent probe after reports CEO Jensen Huang was targeted by a Chinese intelligence operation, rattling chip stocks and the Nasdaq 100. [Anthropic](https://www.anthropic.com/claude-fable-and-mythos-5-2) / [Bloomberg](https://www.bloomberg.com/ai)
 
 > [!note]- Tech: Skydance begins layoffs in games division after Warner Bros. Games acquisition (Insider Gaming)
 > Skydance has started cutting jobs in its games division following the completion of its Warner Bros. Games acquisition, with at least 30 employees let go and the final number expected to be higher. The company has not commented. The move follows a broader 2026 gaming industry downturn that also hit Bit Reactor, the studio behind Star Wars Zero Company. [Insider Gaming](https://insider-gaming.com/skydance-layoffs-games-division-warner-bros-games)
@@ -80,6 +80,9 @@ unread: true
 
 > [!note]- Science: Mysterious gas leaks suggest Mars may still be volcanically active (ScienceDaily)
 > New data from Mars orbiters has revealed unusual gas emissions that scientists say could indicate residual volcanic activity — a process previously thought to have ended billions of years ago. The findings, published this week, could reshape understanding of Mars' interior and its potential to have harboured life more recently than current models suggest. [ScienceDaily](https://sciencedaily.com/releases/2026/11/261106174525.htm)
+
+> [!note]- Nike (NKE): ~$40.08 (+3.85% Mon) — Investor Day Nov 16–17 this week; Truist Sell/$29; P&L ≈ −$1,454 (MarketBeat)
+> NKE closed Monday at approximately $40.08 (+3.85% from Friday's $38.61 close), carried by the broad market rally; day range $38.60–$40.13. Truist's $29 Sell target and RBC's $39 Sector Perform rating remain the latest analyst calls. This week's key catalyst is Investor Day on November 16–17. Position: 46 shares @ $71.69 avg; unrealised P&L ≈ −$1,454. [MarketBeat](https://www.marketbeat.com/) / [Motley Fool](https://fool.com/investing/2026/11/08/nike-is-down-78-from-its-peak-heres-how-much-10000)
 
 
 > [!note]- [[11-09-26 Mon]]
