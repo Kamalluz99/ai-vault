@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-09T21:10
+updated: 2026-11-10T19:04
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,26 @@ unread: true
 
 > [!note]- Nike (NKE): ~$40.08 (+3.85% Mon) — Investor Day Nov 16–17 this week; Truist Sell/$29; P&L ≈ −$1,454 (MarketBeat)
 > NKE closed Monday at approximately $40.08 (+3.85% from Friday's $38.61 close), carried by the broad market rally; day range $38.60–$40.13. Truist's $29 Sell target and RBC's $39 Sector Perform rating remain the latest analyst calls. This week's key catalyst is Investor Day on November 16–17. Position: 46 shares @ $71.69 avg; unrealised P&L ≈ −$1,454. [MarketBeat](https://www.marketbeat.com/) / [Motley Fool](https://fool.com/investing/2026/11/08/nike-is-down-78-from-its-peak-heres-how-much-10000)
+
+> **Evening update**
+
+> [!note]- Singapore & Malaysia: Singapore haze law empowers banks to cut loans to fire firms; Malaysia to raise at ASEAN FM (Eco-Business)
+> Singapore's toughened Transboundary Haze Pollution Act now empowers the government to direct banks to stop lending to companies linked to Indonesian forest fires, the first time financial sanctions have been embedded into the country's environmental framework. Malaysia's foreign minister is expected to raise the haze issue at the ASEAN foreign ministers' meeting in Manila on 12 November. Analysts are watching which firms receive the first designations. [Eco-Business](https://eco-business.com/news/will-singapores-tougher-haze-law-follow-the-money-what-to-watch-in-the-first-designations)
+
+> [!note]- Malaysia: King cautions against challenging Najib's house arrest as palace-prosecutor tension rises (SCMP)
+> Malaysia's king has publicly cautioned against legal or political challenges to former prime minister Najib Razak's house arrest arrangement, amid reporting that frames the matter as a clash between the palace and the prosecutor's office. The house arrest, granted earlier this year on health grounds, remains a flashpoint between rule-of-law advocates and those who argue royal prerogative should be respected. The situation is seen as a test of Malaysia's separation of powers. [SCMP](https://www.scmp.com/news/asia)
+
+> [!note]- World: COP31 climate talks enter second day in Antalya — energy and transport top the agenda (Euronews)
+> The COP31 climate conference, hosted in Antalya, Turkey, entered its second day with sessions centred on accelerating the energy transition and cutting transport emissions. The conference comes amid record 2026 global temperatures and renewed calls for binding commitments on coal phase-out timelines. Developing nations are pressing wealthy countries for increased climate finance pledges. [Euronews](https://www.euronews.com/tag/world-news)
+
+> [!note]- World: China escalates western Pacific drills with Liaoning carrier group; Taiwan defence minister raises concern (Euronews)
+> China has intensified military exercises in the western Pacific, prominently featuring the Liaoning aircraft carrier group in what analysts describe as a significant escalation in scope and proximity. Taiwan's defence minister has publicly voiced concern over the drills, which the PLA has not formally announced. The timing, as Abu Dhabi hosts US-Russia-Ukraine peace talks, has drawn attention to Beijing's strategic signalling in the Indo-Pacific. [Euronews](https://www.euronews.com/tag/world-news)
+
+> [!note]- Tech: DeepMind AI agents collapse years of cryptanalysis into weeks — RSA-2048 safe for now (TechCrunch)
+> DeepMind researchers have demonstrated that AI agents can dramatically accelerate cryptanalysis, compressing what traditionally takes years of expert effort into weeks. While current RSA-2048 encryption remains secure, the team frames the work as proof-of-concept that AI-driven cryptanalysis could eventually challenge widely used encryption standards. The research has prompted renewed discussion among security experts about post-quantum transition timelines. [TechCrunch](https://techcrunch.com/category/artificial-intelligence/)
+
+> [!note]- Economy: Brent crude falls ~7% to $91.61 on Iran deal hopes — Hormuz reopening could ease global inflation (Fox News)
+> Brent crude fell nearly 7% to around $91.61 a barrel as US-Iran back-channel talks in Qatar raised market hopes that the Strait of Hormuz could soon reopen. A resumption of normal shipping through the Strait — effectively closed for months — would ease a major supply constraint that has kept energy prices elevated and pushed global inflation higher. Analysts caution that no deal has been confirmed and talks remain fragile. [Fox News](https://foxnews.com/live-news/trump-says-he-s-unlikely-to-escalate-iran-conflict-amid-talks-responds-to-vance-assessment)
 
 
 > [!note]- [[11-09-26 Mon]]
