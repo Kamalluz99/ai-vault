@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-10T19:04
+updated: 2026-11-11T05:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -61,48 +61,71 @@ unread: true
 ## 2026-11
 
 
-### [[11-10-26 Tue]]
+### [[11-11-26 Wed]]
 
-> [!breaking]- AI: Anthropic launches Fable 5.2 & Mythos 5.2 ahead of IPO; cuts prices 20% vs OpenAI (Anthropic/TechCrunch)
-> Anthropic released Claude Fable 5.2 and Claude Mythos 5.2 on Monday — up to 30% faster than 5.1 — at $8/M input tokens, undercutting OpenAI's GPT-6 Astra by ~20%. Mythos 5.2 is restricted to Anthropic's Cyber Verification Program members due to stronger covert capabilities, arriving days before a potential IPO. Nvidia's board also launched an independent probe after reports CEO Jensen Huang was targeted by a Chinese intelligence operation, rattling chip stocks and the Nasdaq 100. [Anthropic](https://www.anthropic.com/claude-fable-and-mythos-5-2) / [Bloomberg](https://www.bloomberg.com/ai)
+> [!note]- AI: Meta releases Muse Ember lightweight agent model; Anthropic Fable 5.2 rollout continues (AI Weekly)
+> Meta launched Muse Ember, a compact model optimized for agent task execution and tool use. Anthropic's Fable 5.2 and Mythos 5.2 continue rolling out to enterprise customers — Ramp spending data shows AI tooling budgets plateauing even as new models land. The Senate HELP Committee separately floated the PATIENT AI Act with new Medicare payment codes and FDA software review tracks for AI-based tools. [AI Weekly](https://aiweekly.co/ai-news-today)
 
-> [!note]- Tech: Skydance begins layoffs in games division after Warner Bros. Games acquisition (Insider Gaming)
-> Skydance has started cutting jobs in its games division following the completion of its Warner Bros. Games acquisition, with at least 30 employees let go and the final number expected to be higher. The company has not commented. The move follows a broader 2026 gaming industry downturn that also hit Bit Reactor, the studio behind Star Wars Zero Company. [Insider Gaming](https://insider-gaming.com/skydance-layoffs-games-division-warner-bros-games)
+> [!note]- Tech: Google's November 2026 broad core update begins rolling out — ranking shifts expected for 2 weeks (Search Engine Roundtable)
+> Google kicked off its November 2026 broad core algorithm update on November 10, with the full rollout expected to take approximately two weeks. As with previous broad core updates, rankings for some sites may shift significantly during the rollout period. The update arrives alongside Android November system updates featuring a new Family Hub integration via Google Play services v26.43. [Search Engine Roundtable](https://seroundtable.com/google-november-2026-core-update-42504.html)
 
-> [!breaking]- Macro: October CPI out today; Nasdaq in correction; Fed Dec hike priced at 81% (FXCM/ATB)
-> US October CPI is the week's key macro print, with the Nasdaq still in correction territory after last week's post-midterm selloff. Markets price an 81% probability of a December Fed rate hike per CME FedWatch. Gold recovered to ~$4,141 after earlier margin-call selling, oil slid toward $86 on softened Iran-strike fears, and Bitcoin remains weak near $75,865. [FXCM](https://www.fxcm.com/markets/insights/global-macro-and-markets-briefing-9-november-2026/) / [ATB](https://www.atb.com/wealth/good-advice/markets/weekly-market-update-november-9-2026/)
+> [!breaking]- Macro: October CPI +0.4% tops forecast; Dec Fed rate hike fully priced in; yields surge, stocks fall (CNBC)
+> The October CPI report showed headline inflation rising 0.4% month-over-month, above the 0.3% consensus, with core CPI also edging above forecasts at 0.3%. Markets moved swiftly: Treasury yields surged, stocks fell, and CME FedWatch now fully prices in a 25bp rate hike at the December 8–9 FOMC meeting. Bond markets are closed today for Veterans Day but stock markets remain open — no major data is due Wednesday. [CNBC](https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html)
 
-> [!note]- World: Russia-US-Ukraine Abu Dhabi talks open today; US-Iran nuclear negotiations ongoing in Qatar (CNN/CBS)
-> The first three-way Russia-US-Ukraine peace talks since February open today in Abu Dhabi (Nov 10–11), with European officials attending and Ukraine's Defence Minister leading Kyiv's delegation. Simultaneously, Qatar is hosting indirect US-Iran talks on a nuclear deal and reopening of the Strait of Hormuz, with Trump saying renewed US strikes are "highly unlikely" if progress is made. [CNN](https://www.cnn.com/2026/11/09/middleeast/iran-us-talks-explainer-intl) / [CBS](https://www.cbsnews.com/live-updates/iran-war-us-trump-deal-negotiations/)
+> [!note]- World: Russia-Ukraine Abu Dhabi talks Day 2; Iran continues ship attacks near Strait of Hormuz (JustSecurity)
+> The first US-brokered trilateral Russia-US-Ukraine talks, underway in Abu Dhabi since November 10, enter their second day with Ukraine's Defence Minister Rustem Umerov leading Kyiv's delegation. Meanwhile Iran's IRGC has claimed 11 ship strikes near the Strait of Hormuz over the past 10 days, with two more vessels reported on fire and the Pentagon moving aircraft from a second UK base. [JustSecurity](https://www.justsecurity.org/163937/early-edition-november-10-2026/)
 
-> [!note]- Malaysia: Melaka state election on 14 Nov enters final stretch; 79 candidates, 28 seats (Malay Mail)
-> Campaigning for the November 14 Melaka state election is in its final week, with 79 candidates from multiple coalitions contesting 28 seats. Tensions between Bersatu and PAS within Perikatan Nasional have emerged, with Muhyiddin eyeing a clean sweep. MetMalaysia also issued continuous rain warnings at alert and severe levels for Kelantan, Terengganu, Pahang and Sabah through Wednesday. [Malay Mail](https://www.malaymail.com/news/malaysia)
+> [!note]- Malaysia/Singapore: Singapore launches 500-tonne gold storage service for foreign central banks (Malay Mail)
+> Singapore opened a new gold storage facility with 500-tonne capacity designed specifically for foreign central banks and financial institutions, reinforcing its position as a global precious metals trading hub. The service is part of Singapore's broader push to attract commodity finance and central bank reserve flows amid continued global de-dollarisation. [Malay Mail](https://malaymail.com/news/singapore/2026/11/10/singapore-opens-500-tonne-gold-storage-service-to-foreign-central-banks/242708)
 
-> [!note]- Science: Mysterious gas leaks suggest Mars may still be volcanically active (ScienceDaily)
-> New data from Mars orbiters has revealed unusual gas emissions that scientists say could indicate residual volcanic activity — a process previously thought to have ended billions of years ago. The findings, published this week, could reshape understanding of Mars' interior and its potential to have harboured life more recently than current models suggest. [ScienceDaily](https://sciencedaily.com/releases/2026/11/261106174525.htm)
+> [!note]- Science: WHO launches "Together for Science and Health" with 240+ organizations to rebuild global trust (WHO)
+> The World Health Organization officially launched "Together for Science and Health," a new global movement uniting more than 240 organizations spanning governments, academia, and civil society to combat health misinformation and strengthen public trust in scientific institutions. The initiative aims to coordinate messaging around vaccine safety, infectious disease response, and emerging health technologies. [WHO](https://who.int/news/item/10-11-2026-who-launches-together-for-science-and-health-movement-to-strengthen-trust-worldwide)
 
-> [!note]- Nike (NKE): ~$40.08 (+3.85% Mon) — Investor Day Nov 16–17 this week; Truist Sell/$29; P&L ≈ −$1,454 (MarketBeat)
-> NKE closed Monday at approximately $40.08 (+3.85% from Friday's $38.61 close), carried by the broad market rally; day range $38.60–$40.13. Truist's $29 Sell target and RBC's $39 Sector Perform rating remain the latest analyst calls. This week's key catalyst is Investor Day on November 16–17. Position: 46 shares @ $71.69 avg; unrealised P&L ≈ −$1,454. [MarketBeat](https://www.marketbeat.com/) / [Motley Fool](https://fool.com/investing/2026/11/08/nike-is-down-78-from-its-peak-heres-how-much-10000)
+> [!note]- Nike (NKE): ~$38.88 (−2.5% Tue); Cantor Fitzgerald initiates Neutral at $38 PT; P&L ≈ −$1,509 (MarketBeat)
+> NKE closed Tuesday at approximately $38.88, down ~2.5% from Monday's close, as broader markets fell on the hot CPI print. Cantor Fitzgerald initiated coverage Tuesday with a Neutral rating and $38 price target — the latest cautious analyst initiation following the stock's 35% year-to-date decline. Next catalyst: Investor Day November 16–17; earnings Dec 17. Position: 46 shares @ $71.69 avg; unrealised P&L ≈ −$1,509. [MarketBeat](https://www.marketbeat.com/instant-alerts/analyst-nike-nyse-nke-now-covered-by-cantor-fitzgerald-2026-11-10/)
 
-> **Evening update**
-
-> [!note]- Singapore & Malaysia: Singapore haze law empowers banks to cut loans to fire firms; Malaysia to raise at ASEAN FM (Eco-Business)
-> Singapore's toughened Transboundary Haze Pollution Act now empowers the government to direct banks to stop lending to companies linked to Indonesian forest fires, the first time financial sanctions have been embedded into the country's environmental framework. Malaysia's foreign minister is expected to raise the haze issue at the ASEAN foreign ministers' meeting in Manila on 12 November. Analysts are watching which firms receive the first designations. [Eco-Business](https://eco-business.com/news/will-singapores-tougher-haze-law-follow-the-money-what-to-watch-in-the-first-designations)
-
-> [!note]- Malaysia: King cautions against challenging Najib's house arrest as palace-prosecutor tension rises (SCMP)
-> Malaysia's king has publicly cautioned against legal or political challenges to former prime minister Najib Razak's house arrest arrangement, amid reporting that frames the matter as a clash between the palace and the prosecutor's office. The house arrest, granted earlier this year on health grounds, remains a flashpoint between rule-of-law advocates and those who argue royal prerogative should be respected. The situation is seen as a test of Malaysia's separation of powers. [SCMP](https://www.scmp.com/news/asia)
-
-> [!note]- World: COP31 climate talks enter second day in Antalya — energy and transport top the agenda (Euronews)
-> The COP31 climate conference, hosted in Antalya, Turkey, entered its second day with sessions centred on accelerating the energy transition and cutting transport emissions. The conference comes amid record 2026 global temperatures and renewed calls for binding commitments on coal phase-out timelines. Developing nations are pressing wealthy countries for increased climate finance pledges. [Euronews](https://www.euronews.com/tag/world-news)
-
-> [!note]- World: China escalates western Pacific drills with Liaoning carrier group; Taiwan defence minister raises concern (Euronews)
-> China has intensified military exercises in the western Pacific, prominently featuring the Liaoning aircraft carrier group in what analysts describe as a significant escalation in scope and proximity. Taiwan's defence minister has publicly voiced concern over the drills, which the PLA has not formally announced. The timing, as Abu Dhabi hosts US-Russia-Ukraine peace talks, has drawn attention to Beijing's strategic signalling in the Indo-Pacific. [Euronews](https://www.euronews.com/tag/world-news)
-
-> [!note]- Tech: DeepMind AI agents collapse years of cryptanalysis into weeks — RSA-2048 safe for now (TechCrunch)
-> DeepMind researchers have demonstrated that AI agents can dramatically accelerate cryptanalysis, compressing what traditionally takes years of expert effort into weeks. While current RSA-2048 encryption remains secure, the team frames the work as proof-of-concept that AI-driven cryptanalysis could eventually challenge widely used encryption standards. The research has prompted renewed discussion among security experts about post-quantum transition timelines. [TechCrunch](https://techcrunch.com/category/artificial-intelligence/)
-
-> [!note]- Economy: Brent crude falls ~7% to $91.61 on Iran deal hopes — Hormuz reopening could ease global inflation (Fox News)
-> Brent crude fell nearly 7% to around $91.61 a barrel as US-Iran back-channel talks in Qatar raised market hopes that the Strait of Hormuz could soon reopen. A resumption of normal shipping through the Strait — effectively closed for months — would ease a major supply constraint that has kept energy prices elevated and pushed global inflation higher. Analysts caution that no deal has been confirmed and talks remain fragile. [Fox News](https://foxnews.com/live-news/trump-says-he-s-unlikely-to-escalate-iran-conflict-amid-talks-responds-to-vance-assessment)
+> [!note]- [[11-10-26 Tue]]
+>
+> > [!breaking]- AI: Anthropic launches Fable 5.2 & Mythos 5.2 ahead of IPO; cuts prices 20% vs OpenAI (Anthropic/TechCrunch)
+> > Anthropic released Claude Fable 5.2 and Claude Mythos 5.2 on Monday — up to 30% faster than 5.1 — at $8/M input tokens, undercutting OpenAI's GPT-6 Astra by ~20%. Mythos 5.2 is restricted to Anthropic's Cyber Verification Program members due to stronger covert capabilities, arriving days before a potential IPO. Nvidia's board also launched an independent probe after reports CEO Jensen Huang was targeted by a Chinese intelligence operation, rattling chip stocks and the Nasdaq 100. [Anthropic](https://www.anthropic.com/claude-fable-and-mythos-5-2) / [Bloomberg](https://www.bloomberg.com/ai)
+>
+> > [!note]- Tech: Skydance begins layoffs in games division after Warner Bros. Games acquisition (Insider Gaming)
+> > Skydance has started cutting jobs in its games division following the completion of its Warner Bros. Games acquisition, with at least 30 employees let go and the final number expected to be higher. The company has not commented. The move follows a broader 2026 gaming industry downturn that also hit Bit Reactor, the studio behind Star Wars Zero Company. [Insider Gaming](https://insider-gaming.com/skydance-layoffs-games-division-warner-bros-games)
+>
+> > [!breaking]- Macro: October CPI out today; Nasdaq in correction; Fed Dec hike priced at 81% (FXCM/ATB)
+> > US October CPI is the week's key macro print, with the Nasdaq still in correction territory after last week's post-midterm selloff. Markets price an 81% probability of a December Fed rate hike per CME FedWatch. Gold recovered to ~$4,141 after earlier margin-call selling, oil slid toward $86 on softened Iran-strike fears, and Bitcoin remains weak near $75,865. [FXCM](https://www.fxcm.com/markets/insights/global-macro-and-markets-briefing-9-november-2026/) / [ATB](https://www.atb.com/wealth/good-advice/markets/weekly-market-update-november-9-2026/)
+>
+> > [!note]- World: Russia-US-Ukraine Abu Dhabi talks open today; US-Iran nuclear negotiations ongoing in Qatar (CNN/CBS)
+> > The first three-way Russia-US-Ukraine peace talks since February open today in Abu Dhabi (Nov 10–11), with European officials attending and Ukraine's Defence Minister leading Kyiv's delegation. Simultaneously, Qatar is hosting indirect US-Iran talks on a nuclear deal and reopening of the Strait of Hormuz, with Trump saying renewed US strikes are "highly unlikely" if progress is made. [CNN](https://www.cnn.com/2026/11/09/middleeast/iran-us-talks-explainer-intl) / [CBS](https://www.cbsnews.com/live-updates/iran-war-us-trump-deal-negotiations/)
+>
+> > [!note]- Malaysia: Melaka state election on 14 Nov enters final stretch; 79 candidates, 28 seats (Malay Mail)
+> > Campaigning for the November 14 Melaka state election is in its final week, with 79 candidates from multiple coalitions contesting 28 seats. Tensions between Bersatu and PAS within Perikatan Nasional have emerged, with Muhyiddin eyeing a clean sweep. MetMalaysia also issued continuous rain warnings at alert and severe levels for Kelantan, Terengganu, Pahang and Sabah through Wednesday. [Malay Mail](https://www.malaymail.com/news/malaysia)
+>
+> > [!note]- Science: Mysterious gas leaks suggest Mars may still be volcanically active (ScienceDaily)
+> > New data from Mars orbiters has revealed unusual gas emissions that scientists say could indicate residual volcanic activity — a process previously thought to have ended billions of years ago. The findings, published this week, could reshape understanding of Mars' interior and its potential to have harboured life more recently than current models suggest. [ScienceDaily](https://sciencedaily.com/releases/2026/11/261106174525.htm)
+>
+> > [!note]- Nike (NKE): ~$40.08 (+3.85% Mon) — Investor Day Nov 16–17 this week; Truist Sell/$29; P&L ≈ −$1,454 (MarketBeat)
+> > NKE closed Monday at approximately $40.08 (+3.85% from Friday's $38.61 close), carried by the broad market rally; day range $38.60–$40.13. Truist's $29 Sell target and RBC's $39 Sector Perform rating remain the latest analyst calls. This week's key catalyst is Investor Day on November 16–17. Position: 46 shares @ $71.69 avg; unrealised P&L ≈ −$1,454. [MarketBeat](https://www.marketbeat.com/) / [Motley Fool](https://fool.com/investing/2026/11/08/nike-is-down-78-from-its-peak-heres-how-much-10000)
+>
+> > **Evening update**
+>
+> > [!note]- Singapore & Malaysia: Singapore haze law empowers banks to cut loans to fire firms; Malaysia to raise at ASEAN FM (Eco-Business)
+> > Singapore's toughened Transboundary Haze Pollution Act now empowers the government to direct banks to stop lending to companies linked to Indonesian forest fires, the first time financial sanctions have been embedded into the country's environmental framework. Malaysia's foreign minister is expected to raise the haze issue at the ASEAN foreign ministers' meeting in Manila on 12 November. Analysts are watching which firms receive the first designations. [Eco-Business](https://eco-business.com/news/will-singapores-tougher-haze-law-follow-the-money-what-to-watch-in-the-first-designations)
+>
+> > [!note]- Malaysia: King cautions against challenging Najib's house arrest as palace-prosecutor tension rises (SCMP)
+> > Malaysia's king has publicly cautioned against legal or political challenges to former prime minister Najib Razak's house arrest arrangement, amid reporting that frames the matter as a clash between the palace and the prosecutor's office. The house arrest, granted earlier this year on health grounds, remains a flashpoint between rule-of-law advocates and those who argue royal prerogative should be respected. The situation is seen as a test of Malaysia's separation of powers. [SCMP](https://www.scmp.com/news/asia)
+>
+> > [!note]- World: COP31 climate talks enter second day in Antalya — energy and transport top the agenda (Euronews)
+> > The COP31 climate conference, hosted in Antalya, Turkey, entered its second day with sessions centred on accelerating the energy transition and cutting transport emissions. The conference comes amid record 2026 global temperatures and renewed calls for binding commitments on coal phase-out timelines. Developing nations are pressing wealthy countries for increased climate finance pledges. [Euronews](https://www.euronews.com/tag/world-news)
+>
+> > [!note]- World: China escalates western Pacific drills with Liaoning carrier group; Taiwan defence minister raises concern (Euronews)
+> > China has intensified military exercises in the western Pacific, prominently featuring the Liaoning aircraft carrier group in what analysts describe as a significant escalation in scope and proximity. Taiwan's defence minister has publicly voiced concern over the drills, which the PLA has not formally announced. The timing, as Abu Dhabi hosts US-Russia-Ukraine peace talks, has drawn attention to Beijing's strategic signalling in the Indo-Pacific. [Euronews](https://www.euronews.com/tag/world-news)
+>
+> > [!note]- Tech: DeepMind AI agents collapse years of cryptanalysis into weeks — RSA-2048 safe for now (TechCrunch)
+> > DeepMind researchers have demonstrated that AI agents can dramatically accelerate cryptanalysis, compressing what traditionally takes years of expert effort into weeks. While current RSA-2048 encryption remains secure, the team frames the work as proof-of-concept that AI-driven cryptanalysis could eventually challenge widely used encryption standards. The research has prompted renewed discussion among security experts about post-quantum transition timelines. [TechCrunch](https://techcrunch.com/category/artificial-intelligence/)
+>
+> > [!note]- Economy: Brent crude falls ~7% to $91.61 on Iran deal hopes — Hormuz reopening could ease global inflation (Fox News)
+> > Brent crude fell nearly 7% to around $91.61 a barrel as US-Iran back-channel talks in Qatar raised market hopes that the Strait of Hormuz could soon reopen. A resumption of normal shipping through the Strait — effectively closed for months — would ease a major supply constraint that has kept energy prices elevated and pushed global inflation higher. Analysts caution that no deal has been confirmed and talks remain fragile. [Fox News](https://foxnews.com/live-news/trump-says-he-s-unlikely-to-escalate-iran-conflict-amid-talks-responds-to-vance-assessment)
 
 
 > [!note]- [[11-09-26 Mon]]
