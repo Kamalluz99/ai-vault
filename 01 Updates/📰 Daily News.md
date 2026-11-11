@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-11T09:00
+updated: 2026-11-11T21:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,26 @@ unread: true
 
 > [!note]- Nike (NKE): ~$38.88 (−2.5% Tue); Cantor Fitzgerald initiates Neutral at $38 PT; P&L ≈ −$1,509 (MarketBeat)
 > NKE closed Tuesday at approximately $38.88, down ~2.5% from Monday's close, as broader markets fell on the hot CPI print. Cantor Fitzgerald initiated coverage Tuesday with a Neutral rating and $38 price target — the latest cautious analyst initiation following the stock's 35% year-to-date decline. Next catalyst: Investor Day November 16–17; earnings December 17. Position: 46 shares @ $71.69 avg; unrealised P&L ≈ −$1,509. [MarketBeat](https://www.marketbeat.com/instant-alerts/analyst-nike-nyse-nke-now-covered-by-cantor-fitzgerald-2026-11-10/)
+
+> **Evening update**
+
+> [!note]- Singapore & Malaysia: JS-SEZ hits RM88.8B in investments; Master Plan set for December launch (AsiaOne)
+> Singapore and Malaysia's Johor-Singapore Special Economic Zone has attracted RM88.83 billion in approved investments since January 2025, linked to nearly 29,000 potential jobs, confirmed at the inaugural Johor-Singapore Cooperation Ministerial Committee meeting on November 2. The JS-SEZ Master Plan is set to be formally launched at the 13th Malaysia-Singapore Leaders' Retreat on December 4–5. A bilateral cross-border carbon capture agreement is also expected to be concluded before year-end. [AsiaOne](https://www.asiaone.com/singapore/johor-singapore-economic-zone-rm88-billion-investments)
+
+> [!note]- Malaysia: Anthony Loke resigns as Transport Minister as Najib begins house arrest (Malay Mail)
+> Transport Minister Anthony Loke officially resigned with immediate effect on November 10 as former PM Najib Razak left Kajang Prison to serve his SRC International sentence under house arrest at his Taman Duta home until August 23, 2028. Loke had pre-announced his exit as a matter of principle when the King granted Najib a conditional pardon in September. Hannah Yeoh publicly said she should have been the one to resign instead, adding political pressure on the Madani coalition. [Malay Mail](https://www.malaymail.com/news/malaysia/2026/11/10/anthony-loke-officially-resigns-as-transport-minister-following-court-decision-on-najib/242738)
+
+> [!note]- World: Indonesia's DPR reconvenes to decide VP Gibran's fate; PSI breaks ranks (Jakarta Post)
+> Indonesia's House of Representatives returned from a month-long recess on November 10 to deliberate on Vice President Gibran Rakabuming Raka's eligibility after the Supreme Court ruled his school certificate invalid. Three PSI politicians publicly distanced themselves from Gibran, and opposition factions are pressing for either a voluntary resignation or formal Article 7A impeachment proceedings requiring a two-thirds supermajority. President Prabowo has not publicly commented on the crisis facing his deputy. [Jakarta Post](https://www.thejakartapost.com/indonesia/2026/11/10/ministers-leave-psi-as-house-sets-to-decide-on-gibran)
+
+> [!breaking]- World: Anthropic files Nasdaq IPO at $1.4T valuation; Trump hosts Silicon Valley AI safety summit (Bloomberg)
+> Anthropic publicly filed for a Nasdaq IPO with a valuation range of up to $1.4 trillion — one of the largest tech IPOs in history — arriving amid an AI sector sell-off with the Nasdaq in correction territory. Hours later, President Trump hosted a White House summit with Silicon Valley chiefs to discuss AI safety risks, signalling a more structured US government approach to frontier AI governance. The twin events mark a pivotal day for AI's relationship with public markets and federal oversight. [Bloomberg](https://www.bloomberg.com/ai) / [Fortune](https://fortune.com)
+
+> [!note]- Tech: Google launches Gemini 4 Carbon API; Notion discloses Fireworks AI data breach (AI Weekly)
+> Google made Gemini 4 Carbon available to paid API and AI Ultra users at introductory pricing of $2/M input and $10/M output, rising to $4/$20 after November 30 — the first major model launch since Fable 5.2. Separately, Notion disclosed that a Fireworks AI incident exposed unattributable Notion AI chat transcripts in less than 1% of workspaces, raising supply-chain security concerns for enterprise AI tools. Qualcomm also began India layoffs targeting approximately 1,000 senior engineers. [AI Weekly](https://aiweekly.co/ai-news-today)
+
+> [!note]- Economy: OpenAI Q3 loss hits $10.9B at −109% margin; TSMC bets $1B on Anthropic and OpenAI equity (WSJ)
+> The Wall Street Journal reports OpenAI's Q3 2026 operating loss jumped to $10.9 billion, with an adjusted margin of −109% — narrowing from −150% in Q2 as revenue climbs but infrastructure costs remain steep. The figures drop on the same day rival Anthropic filed its Nasdaq IPO, putting both companies' economics under intense scrutiny from public-market investors. TSMC separately earmarked up to $1 billion to acquire equity stakes in both Anthropic and OpenAI, cementing the chipmaker's bet on the AI model layer. [WSJ](https://www.wsj.com) / [Nikkei Asia](https://asia.nikkei.com/)
 
 > [!note]- [[11-10-26 Tue]]
 >
