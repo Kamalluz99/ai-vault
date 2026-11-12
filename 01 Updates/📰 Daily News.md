@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-12T21:00
+updated: 2026-11-13T05:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -61,48 +61,71 @@ unread: true
 ## 2026-11
 
 
-### [[11-12-26 Thu]]
+### [[11-13-26 Fri]]
 
-> [!note]- AI: Criteo ad chief predicts most AI platforms will adopt advertising (Digital Journal)
-> Criteo's global head of advertising said most AI companies will eventually adopt advertising as their primary business model, citing the same economics that powered Google and Facebook. Criteo already partners with OpenAI across 89 countries to develop ad campaigns for AI chatbots — positioning itself as the ad-tech layer for the AI-native web. The forecast arrives as OpenAI's Q3 loss of $10.9B highlights the pressure on subscription-first AI monetisation models. [Digital Journal](https://digitaljournal.com/article/many-ai-companies-will-adopt-advertising-says-ad-chief)
+> [!breaking]- Macro: Nvidia CEO Jensen Huang exits; Nasdaq −0.69% to 25,290; December hike odds near 99% (CNBC / Bloomberg)
+> Nvidia's board confirmed CEO Jensen Huang's departure effective immediately, with CFO Colette Kress named interim CEO. Nvidia shares fell sharply and dragged Taiwan's tech-heavy index down 2.6% and broader markets lower — the Nasdaq lost 0.69% to close at 25,290 and the S&P 500 shed 0.37% to 7,591. December rate hike odds jumped to ~98.8% after October CPI printed +0.4% m/m (above consensus), with the 10-year Treasury yield holding near 5%. [CNBC](https://www.cnbc.com/2026/11/11/stock-market-today-live-updates.html) / [Eurasia Business News](https://eurasiabusinessnews.com/2026/11/12/stock-market-today-november-12-2026-nvidia-stock-tumbles-after-jensen-huang-exit-ai-shares-face-leadership-shock)
 
-> [!note]- Tech: Mercor closes $750M Series D at $20B valuation — doubles in one year (TechStartups)
-> AI hiring platform Mercor raised $750M in a Series D round, doubling its valuation from roughly $10B twelve months ago. The same day saw Path Robotics ($300M Series E for industrial automation) and Blue J ($176M for tax-tech) close rounds, signalling continued appetite for applied AI outside the foundation-model layer. The raises come amid broad scrutiny of AI unit economics following OpenAI's Q3 $10.9B loss. [TechStartups](https://techstartups.com/2026/11/11/startup-funding-news-today-november-11-2026-alta-mercor-path-robotics-clara-reflect-orbital-more/)
+> [!note]- AI: Google releases Gemini 4 Hydrogen; OpenAI Q3 revenue reportedly crosses $10B (AI Release Tracker / TechCrunch)
+> Google's AI release tracker listed Gemini 4 Hydrogen as the most recent model release, dated November 12 — the latest in the Gemini 4 series following Argon and Carbon. Separately, TechCrunch reported that OpenAI's quarterly revenue has crossed $10 billion for the first time, though the figure is offset by a Q3 operating loss of $10.9 billion as infrastructure costs continue to run ahead of sales. [AI Release Tracker](https://aireleasetracker.com/latest) / [TechCrunch](https://techcrunch.com/)
 
-> [!note]- Macro: Cisco, Disney & Applied Materials report today; UK Q3 GDP and US jobless claims due (ForexFactory / Babypips)
-> Three high-profile earnings — Cisco, Disney, and Applied Materials — are due after the bell, with AI-related server demand and streaming margins the focal points. UK preliminary Q3 GDP is due at 7:00 am GMT (consensus: +0.7% q/q vs +0.4% prior). US initial jobless claims expected at 195K (prior: 189K). Fed speakers today include Hammack, Barr, Goolsbee, and Williams — all closely watched after last week's hot CPI print fully priced in a December hike. [ForexFactory](https://www.forexfactory.com/calendar?day=nov12.2026) / [Babypips](https://www.babypips.com/news/daily-financial-forex-market-recap-2026-11-10)
+> [!note]- Tech: GTA VI pre-loading begins ahead of launch; Supermicro starts shipping new AMD AI servers (TechCrunch)
+> Grand Theft Auto VI pre-loading has begun for console players ahead of its long-awaited launch, marking the end of one of gaming's most protracted development cycles. Concurrently, Supermicro began shipping its new AMD-powered AI server line, targeting the data centre inference market at a time when hyperscalers are racing to diversify beyond Nvidia-only infrastructure. [TechCrunch](https://techcrunch.com/)
 
-> [!note]- World: Russia-Ukraine Abu Dhabi talks close with large POW exchange deal agreed (Just Security)
-> The two-day US-brokered trilateral talks in Abu Dhabi concluded with Russia and Ukraine agreeing to a substantial prisoner-of-war exchange — the most concrete deliverable from any round since talks began. Donbas territorial demands remain the chief obstacle to a ceasefire; the swap is widely viewed as a confidence-building measure, not a breakthrough. Trump told CBS he was "very close to a deal" but analysts caution that core issues remain unresolved. [Just Security](https://www.justsecurity.org/164111/early-edition-november-11-2026/)
+> [!note]- World: US envoys meet Putin in Moscow; EU moves to approve more Russia sanctions (AP / OpenChronicle)
+> US diplomatic envoys held talks directly with Russian President Vladimir Putin in Moscow as the Ukraine peace process moves beyond the Abu Dhabi format. European foreign ministers are separately preparing a new sanctions package against Russia, expected to be formally approved Monday. The developments come after Wednesday's Abu Dhabi round produced a large POW exchange, the most concrete deliverable from any round so far. [AP](https://apnews.com/) / [OpenChronicle](https://openchronicle.org/2026/11/12/global-news-brief-key-developments-around-the-world-november-12-2026/)
 
-> [!note]- Malaysia/Singapore: 3 new TEL and DTL extension stations open for passengers Dec 26 (AsiaOne)
-> Singapore's LTA confirmed three new Thomson-East Coast Line and Downtown Line extension stations will open to passengers on December 26, expanding MRT coverage to new residential corridors. The opening arrives days after the December 4–5 Malaysia-Singapore Leaders' Retreat, where the JS-SEZ Master Plan — backed by RM88.8B in approved investments — is set for formal launch. [AsiaOne](https://www.asiaone.com/)
+> [!note]- Malaysia/Singapore: Melaka polls tomorrow (Nov 14); Joo Chiat scramble crossing trial from Nov 16 (Malay Mail / AsiaOne)
+> Melaka voters head to the polls Saturday November 14 with PN facing internal Bersatu-PAS tensions and MetMalaysia issuing severe rain warnings for key rural seats. Meanwhile, Singapore's LTA will trial a Shibuya-style scramble crossing in Joo Chiat from November 16, alongside new MRT station openings on December 26 and the JS-SEZ Master Plan launch on December 4–5. [Malay Mail](https://www.malaymail.com/news/malaysia) / [AsiaOne](https://www.asiaone.com/)
 
-> [!note]- Science: Antarctic ozone hole hits 7th-largest on record; HPV gum cuts oral viral load by 93% (ScienceDaily)
-> NASA confirmed the 2026 Antarctic ozone hole is the seventh-largest on record, with scientists crediting the Montreal Protocol's curbs on ozone-depleting substances for preventing worse outcomes. Separately, researchers published findings on a bioengineered chewing gum that reduced oral HPV levels by up to 93% in participants — a low-tech intervention against the virus linked to head and neck cancers, with potential for wide deployment in low-resource settings. [ScienceDaily](https://www.sciencedaily.com/)
+> [!note]- Science: Deadly virus DNA found preserved in 1,000-year-old manuscripts — ancient epidemic insights (ScienceDaily)
+> Scientists discovered intact DNA from a deadly pathogen embedded in 1,000-year-old manuscripts, suggesting that historical texts can serve as an unexpected archive of ancient viral and bacterial outbreaks. The finding opens a new avenue for retrospective epidemiological research and may help explain sudden population collapses documented in medieval records. [ScienceDaily](https://www.sciencedaily.com/)
 
-> [!note]- Nike (NKE): $37.92 (−1.95% Wed); Motley Fool argues buy-and-hold ahead of Nov 17 Investor Day (Motley Fool)
-> NKE closed Wednesday at $37.92 (down $0.76, −1.95%), now 78% below its all-time peak and sitting near Cantor Fitzgerald's $38 Neutral price target. A Motley Fool piece argues the stock is a 10-year buy-and-hold, with the November 17 Investor Day — when management will reveal a margin recovery target — as the near-term deciding catalyst. Position: 46 shares @ $71.69 avg; unrealised P&L ≈ −$1,553. [Motley Fool](https://www.fool.com/investing/2026/11/11/nike-stock-is-down-78-from-its-peak-heres-why-id/)
+> [!note]- Nike (NKE): ~$37.69 (−0.6% Thu); Truist downgrades to Sell/$29; Investor Day Nov 17 is key catalyst (Bloomberg / MarketBeat)
+> NKE ended Thursday around $37.69, down approximately 0.6% from Wednesday's $37.92 close, as the broader Nasdaq fell on the Nvidia leadership shock. Truist downgraded Nike to Sell from Hold with a $29 price target — the most bearish major analyst rating yet, joining Morgan Stanley's Underweight/$25. Investor Day on November 17 is the next key catalyst, where management will set a long-term margin recovery target. Position: 46 shares @ $71.69 avg; unrealised P&L ≈ −$1,564. [Bloomberg](https://www.bloomberg.com/) / [MarketBeat](https://www.marketbeat.com/stocks/NASDAQ/NKE)
 
-> **Evening update**
-
-> [!note]- Singapore & Malaysia: Malaysia taxis entering SG to pay S$15/trip from 2027, up from S$2 (AsiaOne)
-> Malaysia-registered taxis crossing into Singapore will face a significantly higher entry charge of S$15 per trip from 2027, up from the current S$2 — a move aimed at managing cross-border traffic flows as the Johor-Singapore Special Economic Zone ramps up. The increase also covers private-hire vehicles, and affected drivers will have a transition period to adjust fares. The announcement follows a broader bilateral push to manage transport and infrastructure ahead of the December JS-SEZ Master Plan launch. [AsiaOne](https://www.asiaone.com/)
-
-> [!note]- Malaysia: Melaka state polls eve — PN fractures over seats; 79 candidates contest 28 seats (Malay Mail)
-> Melaka voters head to the polls on Saturday (Nov 14) with Perikatan Nasional facing last-minute friction between Bersatu and PAS over seat allocation, raising concerns about coalition discipline. 79 candidates are contesting 28 seats in what analysts see as a bellwether for PN cohesion ahead of the next general election cycle. MetMalaysia extended severe rain warnings for Kelantan, Terengganu and Sabah through polling day, adding logistical pressure on turnout in rural seats. [Malay Mail](https://www.malaymail.com/news/malaysia)
-
-> [!breaking]- World: Three oil tankers ablaze in Strait of Hormuz; Iran ties reopening to US meeting 7 conditions (10 Things News)
-> Three oil tankers caught fire in the Strait of Hormuz on Thursday, sharply escalating tensions in one of the world's most critical energy chokepoints. Iran's security chief stated that the strait will not reopen until the US meets seven stated conditions for peace talks, citing a delayed response from Washington. The Israeli security cabinet has also ordered the military to prepare for a possible strike on Iran, adding to fears of a wider regional escalation. [10 Things News](https://10things.news/p/10-things-global-news-12th-november-646)
-
-> [!note]- World: DRC Ebola outbreak confirmed as second-largest on record (10 Things News)
-> The Democratic Republic of the Congo confirmed an active Ebola outbreak that has now become the second largest in recorded history, surpassing all previous outbreaks except the 2014–2016 West Africa epidemic. The WHO has deployed emergency response teams and neighboring countries have activated border health protocols. The outbreak is concentrated in a remote eastern province, complicating containment efforts and supply logistics for vaccines and treatments. [10 Things News](https://10things.news/p/10-things-global-news-12th-november-646)
-
-> [!note]- Tech: Nvidia board reportedly moves to oust CEO Jensen Huang as foreign intelligence probe widens (Bloomberg)
-> Nvidia's board has reportedly engaged an outside advisory firm and is moving toward removing CEO Jensen Huang, days after the company opened an internal investigation into reports that Huang was targeted by a Chinese foreign intelligence operation. Nvidia shares fell over 4% earlier this week on the news, dragging the Nasdaq lower. The board action, if confirmed, would mark a stunning reversal for one of tech's most celebrated CEOs and would arrive at a critical juncture for Nvidia's AI chip dominance. [Bloomberg](https://www.bloomberg.com/ai)
-
-> [!note]- Science: COP31 opens in Antalya; leaders warn current pledges fall well short of 1.5°C limit (10 Things News)
-> World leaders convened in Antalya, Turkey for the COP31 climate summit with UN climate scientists warning that existing national emissions commitments are collectively insufficient to limit global warming to 1.5°C. Meanwhile, a separate study projects 2026 global fossil-fuel emissions will fall for the first time, driven by rapid EV and renewable adoption, but rising deforestation emissions risk pushing total CO₂ to a new annual record. The summit faces pressure to accelerate finance flows to developing nations for adaptation measures. [10 Things News](https://10things.news/p/10-things-global-news-12th-november-646)
+> [!note]- [[11-12-26 Thu]]
+>
+> > [!note]- AI: Criteo ad chief predicts most AI platforms will adopt advertising (Digital Journal)
+> > Criteo's global head of advertising said most AI companies will eventually adopt advertising as their primary business model, citing the same economics that powered Google and Facebook. Criteo already partners with OpenAI across 89 countries to develop ad campaigns for AI chatbots — positioning itself as the ad-tech layer for the AI-native web. The forecast arrives as OpenAI's Q3 loss of $10.9B highlights the pressure on subscription-first AI monetisation models. [Digital Journal](https://digitaljournal.com/article/many-ai-companies-will-adopt-advertising-says-ad-chief)
+>
+> > [!note]- Tech: Mercor closes $750M Series D at $20B valuation — doubles in one year (TechStartups)
+> > AI hiring platform Mercor raised $750M in a Series D round, doubling its valuation from roughly $10B twelve months ago. The same day saw Path Robotics ($300M Series E for industrial automation) and Blue J ($176M for tax-tech) close rounds, signalling continued appetite for applied AI outside the foundation-model layer. The raises come amid broad scrutiny of AI unit economics following OpenAI's Q3 $10.9B loss. [TechStartups](https://techstartups.com/2026/11/11/startup-funding-news-today-november-11-2026-alta-mercor-path-robotics-clara-reflect-orbital-more/)
+>
+> > [!note]- Macro: Cisco, Disney & Applied Materials report today; UK Q3 GDP and US jobless claims due (ForexFactory / Babypips)
+> > Three high-profile earnings — Cisco, Disney, and Applied Materials — are due after the bell, with AI-related server demand and streaming margins the focal points. UK preliminary Q3 GDP is due at 7:00 am GMT (consensus: +0.7% q/q vs +0.4% prior). US initial jobless claims expected at 195K (prior: 189K). Fed speakers today include Hammack, Barr, Goolsbee, and Williams — all closely watched after last week's hot CPI print fully priced in a December hike. [ForexFactory](https://www.forexfactory.com/calendar?day=nov12.2026) / [Babypips](https://www.babypips.com/news/daily-financial-forex-market-recap-2026-11-10)
+>
+> > [!note]- World: Russia-Ukraine Abu Dhabi talks close with large POW exchange deal agreed (Just Security)
+> > The two-day US-brokered trilateral talks in Abu Dhabi concluded with Russia and Ukraine agreeing to a substantial prisoner-of-war exchange — the most concrete deliverable from any round since talks began. Donbas territorial demands remain the chief obstacle to a ceasefire; the swap is widely viewed as a confidence-building measure, not a breakthrough. Trump told CBS he was "very close to a deal" but analysts caution that core issues remain unresolved. [Just Security](https://www.justsecurity.org/164111/early-edition-november-11-2026/)
+>
+> > [!note]- Malaysia/Singapore: 3 new TEL and DTL extension stations open for passengers Dec 26 (AsiaOne)
+> > Singapore's LTA confirmed three new Thomson-East Coast Line and Downtown Line extension stations will open to passengers on December 26, expanding MRT coverage to new residential corridors. The opening arrives days after the December 4–5 Malaysia-Singapore Leaders' Retreat, where the JS-SEZ Master Plan — backed by RM88.8B in approved investments — is set for formal launch. [AsiaOne](https://www.asiaone.com/)
+>
+> > [!note]- Science: Antarctic ozone hole hits 7th-largest on record; HPV gum cuts oral viral load by 93% (ScienceDaily)
+> > NASA confirmed the 2026 Antarctic ozone hole is the seventh-largest on record, with scientists crediting the Montreal Protocol's curbs on ozone-depleting substances for preventing worse outcomes. Separately, researchers published findings on a bioengineered chewing gum that reduced oral HPV levels by up to 93% in participants — a low-cost intervention against the virus linked to head and neck cancers. [ScienceDaily](https://www.sciencedaily.com/)
+>
+> > [!note]- Nike (NKE): $37.92 (−1.95% Wed); Motley Fool argues buy-and-hold ahead of Nov 17 Investor Day (Motley Fool)
+> > NKE closed Wednesday at $37.92 (down $0.76, −1.95%), now 78% below its all-time peak and sitting near Cantor Fitzgerald's $38 Neutral price target. A Motley Fool piece argues the stock is a 10-year buy-and-hold, with the November 17 Investor Day — when management will reveal a margin recovery target — as the near-term deciding catalyst. Position: 46 shares @ $71.69 avg; unrealised P&L ≈ −$1,553. [Motley Fool](https://www.fool.com/investing/2026/11/11/nike-stock-is-down-78-from-its-peak-heres-why-id/)
+>
+> > **Evening update**
+>
+> > [!note]- Singapore & Malaysia: Malaysia taxis entering SG to pay S$15/trip from 2027, up from S$2 (AsiaOne)
+> > Malaysia-registered taxis crossing into Singapore will face a significantly higher entry charge of S$15 per trip from 2027, up from the current S$2 — a move aimed at managing cross-border traffic flows as the Johor-Singapore Special Economic Zone ramps up. The increase also covers private-hire vehicles, and affected drivers will have a transition period to adjust fares. The announcement follows a broader bilateral push to manage transport and infrastructure ahead of the December JS-SEZ Master Plan launch. [AsiaOne](https://www.asiaone.com/)
+>
+> > [!note]- Malaysia: Melaka state polls eve — PN fractures over seats; 79 candidates contest 28 seats (Malay Mail)
+> > Melaka voters head to the polls on Saturday (Nov 14) with Perikatan Nasional facing last-minute friction between Bersatu and PAS over seat allocation, raising concerns about coalition discipline. 79 candidates are contesting 28 seats in what analysts see as a bellwether for PN cohesion ahead of the next general election cycle. MetMalaysia extended severe rain warnings for Kelantan, Terengganu and Sabah through polling day, adding logistical pressure on turnout in rural seats. [Malay Mail](https://www.malaymail.com/news/malaysia)
+>
+> > [!breaking]- World: Three oil tankers ablaze in Strait of Hormuz; Iran ties reopening to US meeting 7 conditions (10 Things News)
+> > Three oil tankers caught fire in the Strait of Hormuz on Thursday, sharply escalating tensions in one of the world's most critical energy chokepoints. Iran's security chief stated that the strait will not reopen until the US meets seven stated conditions for peace talks, citing a delayed response from Washington. The Israeli security cabinet has also ordered the military to prepare for a possible strike on Iran, adding to fears of a wider regional escalation. [10 Things News](https://10things.news/p/10-things-global-news-12th-november-646)
+>
+> > [!note]- World: DRC Ebola outbreak confirmed as second-largest on record (10 Things News)
+> > The Democratic Republic of the Congo confirmed an active Ebola outbreak that has now become the second largest in recorded history, surpassing all previous outbreaks except the 2014–2016 West Africa epidemic. The WHO has deployed emergency response teams and neighboring countries have activated border health protocols. The outbreak is concentrated in a remote eastern province, complicating containment efforts and supply logistics for vaccines and treatments. [10 Things News](https://10things.news/p/10-things-global-news-12th-november-646)
+>
+> > [!note]- Tech: Nvidia board reportedly moves to oust CEO Jensen Huang as foreign intelligence probe widens (Bloomberg)
+> > Nvidia's board has reportedly engaged an outside advisory firm and is moving toward removing CEO Jensen Huang, days after the company opened an internal investigation into reports that Huang was targeted by a Chinese foreign intelligence operation. Nvidia shares fell over 4% earlier this week on the news, dragging the Nasdaq lower. The board action, if confirmed, would mark a stunning reversal for one of tech's most celebrated CEOs and would arrive at a critical juncture for Nvidia's AI chip dominance. [Bloomberg](https://www.bloomberg.com/ai)
+>
+> > [!note]- Science: COP31 opens in Antalya; leaders warn current pledges fall well short of 1.5°C limit (10 Things News)
+> > World leaders convened in Antalya, Turkey for the COP31 climate summit with UN climate scientists warning that existing national emissions commitments are collectively insufficient to limit global warming to 1.5°C. Meanwhile, a separate study projects 2026 global fossil-fuel emissions will fall for the first time, driven by rapid EV and renewable adoption, but rising deforestation emissions risk pushing total CO₂ to a new annual record. The summit faces pressure to accelerate finance flows to developing nations for adaptation measures. [10 Things News](https://10things.news/p/10-things-global-news-12th-november-646)
 
 > [!note]- [[11-11-26 Wed]]
 >
