@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-12T21:00
+updated: 2026-11-12T22:30
 topic: daily news
 frequency: daily
 ongoing: false
@@ -98,11 +98,19 @@ unread: true
 > [!note]- World: DRC Ebola outbreak confirmed as second-largest on record (10 Things News)
 > The Democratic Republic of the Congo confirmed an active Ebola outbreak that has now become the second largest in recorded history, surpassing all previous outbreaks except the 2014–2016 West Africa epidemic. The WHO has deployed emergency response teams and neighboring countries have activated border health protocols. The outbreak is concentrated in a remote eastern province, complicating containment efforts and supply logistics for vaccines and treatments. [10 Things News](https://10things.news/p/10-things-global-news-12th-november-646)
 
-> [!note]- Tech: Nvidia board reportedly moves to oust CEO Jensen Huang as foreign intelligence probe widens (Bloomberg)
-> Nvidia's board has reportedly engaged an outside advisory firm and is moving toward removing CEO Jensen Huang, days after the company opened an internal investigation into reports that Huang was targeted by a Chinese foreign intelligence operation. Nvidia shares fell over 4% earlier this week on the news, dragging the Nasdaq lower. The board action, if confirmed, would mark a stunning reversal for one of tech's most celebrated CEOs and would arrive at a critical juncture for Nvidia's AI chip dominance. [Bloomberg](https://www.bloomberg.com/ai)
+> [!breaking]- Tech: Jensen Huang resigns as Nvidia CEO; CFO Colette Kress named interim (CNN / Stocktitan)
+> Jensen Huang has resigned as Nvidia's CEO effective Thursday, ending his 31-year tenure after the board concluded its investigation into his relationship with Alice Huang, identified by US officials as a Chinese intelligence asset. CFO Colette Kress will serve as interim CEO while a permanent search begins. Nvidia shares fell approximately 5–9% intraday, one of the largest single-day drops for a mega-cap AI stock in 2026. [CNN](https://edition.cnn.com/2026/11/11/business/live-news/nvidia-jensen-huang-investigation-fallout) / [Stocktitan](https://www.stocktitan.net/articles/stock-market-today-live-november-12-2026)
 
 > [!note]- Science: COP31 opens in Antalya; leaders warn current pledges fall well short of 1.5°C limit (10 Things News)
 > World leaders convened in Antalya, Turkey for the COP31 climate summit with UN climate scientists warning that existing national emissions commitments are collectively insufficient to limit global warming to 1.5°C. Meanwhile, a separate study projects 2026 global fossil-fuel emissions will fall for the first time, driven by rapid EV and renewable adoption, but rising deforestation emissions risk pushing total CO₂ to a new annual record. The summit faces pressure to accelerate finance flows to developing nations for adaptation measures. [10 Things News](https://10things.news/p/10-things-global-news-12th-november-646)
+
+> **Market close update**
+
+> [!note]- Macro: S&P 500 −0.37% to 7,591; Nasdaq −0.49%; VIX +8.5% — Nvidia CEO exit weighs on markets (JournalArta / Yahoo Finance)
+> U.S. equities ended lower Thursday as Nvidia's CEO resignation dominated sentiment, with the S&P 500 at ~7,591 (−0.37%) and the Nasdaq at ~25,290 (−0.49%). The VIX spiked 8.52% to 18.98, while Cisco and Applied Materials reported earnings after the bell. Bond yields extended their recent rise, keeping December Fed hike expectations fully priced. [JournalArta](https://journalarta.com/en/2026/11/12/stock-market-today-sp-500-slips-0-32-to-7595-3-and-nasdaq-falls-0-49-as-vix-jumps-8-52/) / [Yahoo Finance](https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-12-sp-500-nasdaq-dow-nvidia-invest-110027430.html)
+
+> [!note]- Nike (NKE): ~$38 (Thu est.); Truist downgrades to Sell; KeyBanc Sector Weight; Investor Day Nov 17 (Benzinga / Investing.com)
+> Truist Securities downgraded Nike to Sell on Thursday, citing valuation concerns even after the stock's 35% year-to-date decline. KeyBanc separately maintained its Sector Weight rating ahead of the November 17 Investor Day, where management will outline a five-year framework through fiscal 2031. Position: 46 shares @ $71.69 avg; unrealised P&L ≈ −$1,549 (at ~$38). [Benzinga](https://www.benzinga.com/quote/NKE/analyst-ratings) / [Investing.com](https://investing.com/news/analyst-ratings/keybanc-maintains-sector-weight-on-nike-stock-ahead-of-investor-day-93CH-5018266)
 
 > [!note]- [[11-11-26 Wed]]
 >
