@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-12T05:00
+updated: 2026-11-12T21:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,26 @@ unread: true
 
 > [!note]- Nike (NKE): $37.92 (−1.95% Wed); Motley Fool argues buy-and-hold ahead of Nov 17 Investor Day (Motley Fool)
 > NKE closed Wednesday at $37.92 (down $0.76, −1.95%), now 78% below its all-time peak and sitting near Cantor Fitzgerald's $38 Neutral price target. A Motley Fool piece argues the stock is a 10-year buy-and-hold, with the November 17 Investor Day — when management will reveal a margin recovery target — as the near-term deciding catalyst. Position: 46 shares @ $71.69 avg; unrealised P&L ≈ −$1,553. [Motley Fool](https://www.fool.com/investing/2026/11/11/nike-stock-is-down-78-from-its-peak-heres-why-id/)
+
+> **Evening update**
+
+> [!note]- Singapore & Malaysia: Malaysia taxis entering SG to pay S$15/trip from 2027, up from S$2 (AsiaOne)
+> Malaysia-registered taxis crossing into Singapore will face a significantly higher entry charge of S$15 per trip from 2027, up from the current S$2 — a move aimed at managing cross-border traffic flows as the Johor-Singapore Special Economic Zone ramps up. The increase also covers private-hire vehicles, and affected drivers will have a transition period to adjust fares. The announcement follows a broader bilateral push to manage transport and infrastructure ahead of the December JS-SEZ Master Plan launch. [AsiaOne](https://www.asiaone.com/)
+
+> [!note]- Malaysia: Melaka state polls eve — PN fractures over seats; 79 candidates contest 28 seats (Malay Mail)
+> Melaka voters head to the polls on Saturday (Nov 14) with Perikatan Nasional facing last-minute friction between Bersatu and PAS over seat allocation, raising concerns about coalition discipline. 79 candidates are contesting 28 seats in what analysts see as a bellwether for PN cohesion ahead of the next general election cycle. MetMalaysia extended severe rain warnings for Kelantan, Terengganu and Sabah through polling day, adding logistical pressure on turnout in rural seats. [Malay Mail](https://www.malaymail.com/news/malaysia)
+
+> [!breaking]- World: Three oil tankers ablaze in Strait of Hormuz; Iran ties reopening to US meeting 7 conditions (10 Things News)
+> Three oil tankers caught fire in the Strait of Hormuz on Thursday, sharply escalating tensions in one of the world's most critical energy chokepoints. Iran's security chief stated that the strait will not reopen until the US meets seven stated conditions for peace talks, citing a delayed response from Washington. The Israeli security cabinet has also ordered the military to prepare for a possible strike on Iran, adding to fears of a wider regional escalation. [10 Things News](https://10things.news/p/10-things-global-news-12th-november-646)
+
+> [!note]- World: DRC Ebola outbreak confirmed as second-largest on record (10 Things News)
+> The Democratic Republic of the Congo confirmed an active Ebola outbreak that has now become the second largest in recorded history, surpassing all previous outbreaks except the 2014–2016 West Africa epidemic. The WHO has deployed emergency response teams and neighboring countries have activated border health protocols. The outbreak is concentrated in a remote eastern province, complicating containment efforts and supply logistics for vaccines and treatments. [10 Things News](https://10things.news/p/10-things-global-news-12th-november-646)
+
+> [!note]- Tech: Nvidia board reportedly moves to oust CEO Jensen Huang as foreign intelligence probe widens (Bloomberg)
+> Nvidia's board has reportedly engaged an outside advisory firm and is moving toward removing CEO Jensen Huang, days after the company opened an internal investigation into reports that Huang was targeted by a Chinese foreign intelligence operation. Nvidia shares fell over 4% earlier this week on the news, dragging the Nasdaq lower. The board action, if confirmed, would mark a stunning reversal for one of tech's most celebrated CEOs and would arrive at a critical juncture for Nvidia's AI chip dominance. [Bloomberg](https://www.bloomberg.com/ai)
+
+> [!note]- Science: COP31 opens in Antalya; leaders warn current pledges fall well short of 1.5°C limit (10 Things News)
+> World leaders convened in Antalya, Turkey for the COP31 climate summit with UN climate scientists warning that existing national emissions commitments are collectively insufficient to limit global warming to 1.5°C. Meanwhile, a separate study projects 2026 global fossil-fuel emissions will fall for the first time, driven by rapid EV and renewable adoption, but rising deforestation emissions risk pushing total CO₂ to a new annual record. The summit faces pressure to accelerate finance flows to developing nations for adaptation measures. [10 Things News](https://10things.news/p/10-things-global-news-12th-november-646)
 
 > [!note]- [[11-11-26 Wed]]
 >
