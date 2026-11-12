@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-13T05:00
+updated: 2026-11-13T08:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -63,26 +63,23 @@ unread: true
 
 ### [[11-13-26 Fri]]
 
-> [!breaking]- Macro: Nvidia CEO Jensen Huang exits; Nasdaq −0.69% to 25,290; December hike odds near 99% (CNBC / Bloomberg)
-> Nvidia's board confirmed CEO Jensen Huang's departure effective immediately, with CFO Colette Kress named interim CEO. Nvidia shares fell sharply and dragged Taiwan's tech-heavy index down 2.6% and broader markets lower — the Nasdaq lost 0.69% to close at 25,290 and the S&P 500 shed 0.37% to 7,591. December rate hike odds jumped to ~98.8% after October CPI printed +0.4% m/m (above consensus), with the 10-year Treasury yield holding near 5%. [CNBC](https://www.cnbc.com/2026/11/11/stock-market-today-live-updates.html) / [Eurasia Business News](https://eurasiabusinessnews.com/2026/11/12/stock-market-today-november-12-2026-nvidia-stock-tumbles-after-jensen-huang-exit-ai-shares-face-leadership-shock)
+> [!note]- AI: US nonprofits sue OpenAI, Google and Anthropic to freeze AI training (Al Jazeera)
+> A coalition of US nonprofits filed suit against major AI developers demanding a court-ordered freeze on AI model training and deployments, arguing the technology poses existential risks without adequate safety frameworks. The case builds on growing legal pressure from civil society as New York's RAISE Act — which mandates developer registration and safety frameworks — prepares to take effect January 1 with up to $1M penalties. The dual front of litigation and state regulation marks an intensifying push to impose binding constraints on frontier AI development. [Al Jazeera](https://www.aljazeera.com/news/2026/11/12/us-nonprofits-sue-tech-giants-to-halt-ai-development)
 
-> [!note]- AI: Google releases Gemini 4 Hydrogen; OpenAI Q3 revenue reportedly crosses $10B (AI Release Tracker / TechCrunch)
-> Google's AI release tracker listed Gemini 4 Hydrogen as the most recent model release, dated November 12 — the latest in the Gemini 4 series following Argon and Carbon. Separately, TechCrunch reported that OpenAI's quarterly revenue has crossed $10 billion for the first time, though the figure is offset by a Q3 operating loss of $10.9 billion as infrastructure costs continue to run ahead of sales. [AI Release Tracker](https://aireleasetracker.com/latest) / [TechCrunch](https://techcrunch.com/)
+> [!note]- Tech: Tech layoffs in 2026 surpass all of 2025, with AI cited as driver for cuts (TechCo)
+> Industry trackers confirm that total tech-sector layoffs in 2026 have already exceeded the full-year 2025 count, with Qualcomm India (1,000+ jobs), Canva (1,271 employees, 22% of workforce) and Fiserv (3,000 jobs) among the latest announcements. Many companies are explicitly citing AI automation as the reason for cutting headcount, raising questions about tech employment's long-term trajectory even as AI-focused investment rounds continue. The wave stands in contrast to record VC activity in AI startups. [TechCo](https://tech.co/news/tech-companies-layoffs)
 
-> [!note]- Tech: GTA VI pre-loading begins ahead of launch; Supermicro starts shipping new AMD AI servers (TechCrunch)
-> Grand Theft Auto VI pre-loading has begun for console players ahead of its long-awaited launch, marking the end of one of gaming's most protracted development cycles. Concurrently, Supermicro began shipping its new AMD-powered AI server line, targeting the data centre inference market at a time when hyperscalers are racing to diversify beyond Nvidia-only infrastructure. [TechCrunch](https://techcrunch.com/)
+> [!note]- Macro: Gold falls 2.4% to $4,039 as US 10-year yields approach 5% (Rio Times)
+> Spot gold slid 2.41% to US$4,039/oz as US 10-year Treasury yields pushed toward 5%, with traders fully pricing in a December Fed rate hike after last week's hot CPI print. The Fed is holding at 3.75–4% but markets see further tightening ahead, pressuring non-yielding assets including gold and Bitcoin, which has stalled near $74,876. Oil remains volatile around $92–$116 on mixed signals from US-Iran Strait of Hormuz negotiations. [Rio Times](https://www.riotimesonline.com/global-economy-briefing-november-11-2026/)
 
-> [!note]- World: US envoys meet Putin in Moscow; EU moves to approve more Russia sanctions (AP / OpenChronicle)
-> US diplomatic envoys held talks directly with Russian President Vladimir Putin in Moscow as the Ukraine peace process moves beyond the Abu Dhabi format. European foreign ministers are separately preparing a new sanctions package against Russia, expected to be formally approved Monday. The developments come after Wednesday's Abu Dhabi round produced a large POW exchange, the most concrete deliverable from any round so far. [AP](https://apnews.com/) / [OpenChronicle](https://openchronicle.org/2026/11/12/global-news-brief-key-developments-around-the-world-november-12-2026/)
+> [!breaking]- World: Trump says "we don't need a deal" as Iran holds firm and tankers burn in Hormuz (CBS News)
+> US President Trump told reporters the US does not need a deal with Iran as Tehran continues attacks on shipping through the Strait of Hormuz and sticks to its seven-condition demand for peace talks. The crisis, which began with coordinated US-Israeli airstrikes on Iran on 28 February 2026, is now entering its tenth month with no diplomatic resolution in sight. Three oil tankers caught fire in the strait Thursday — the latest attacks keeping global energy markets on edge. [CBS News](https://www.cbsnews.com/live-updates/iran-war-us-nuclear-strait-of-hormuz/)
 
-> [!note]- Malaysia/Singapore: Melaka polls tomorrow (Nov 14); Joo Chiat scramble crossing trial from Nov 16 (Malay Mail / AsiaOne)
-> Melaka voters head to the polls Saturday November 14 with PN facing internal Bersatu-PAS tensions and MetMalaysia issuing severe rain warnings for key rural seats. Meanwhile, Singapore's LTA will trial a Shibuya-style scramble crossing in Joo Chiat from November 16, alongside new MRT station openings on December 26 and the JS-SEZ Master Plan launch on December 4–5. [Malay Mail](https://www.malaymail.com/news/malaysia) / [AsiaOne](https://www.asiaone.com/)
+> [!note]- Malaysia: Najib to pay RM50m fine to unlock house arrest as courts prepare order (Malay Mail)
+> Former Prime Minister Najib Razak will pay a RM50 million fine as a condition for the court-ordered house arrest approved by the Home Ministry, with his immediate family permitted to stay with him during the arrangement. The development marks a significant softening of his custodial situation, though his 1MDB corruption convictions remain intact. Separately, DAP has yet to appoint a replacement for outgoing Transport Minister Anthony Loke, leaving the cabinet position temporarily vacant. [Malay Mail](https://www.malaymail.com/news/malaysia)
 
-> [!note]- Science: Deadly virus DNA found preserved in 1,000-year-old manuscripts — ancient epidemic insights (ScienceDaily)
-> Scientists discovered intact DNA from a deadly pathogen embedded in 1,000-year-old manuscripts, suggesting that historical texts can serve as an unexpected archive of ancient viral and bacterial outbreaks. The finding opens a new avenue for retrospective epidemiological research and may help explain sudden population collapses documented in medieval records. [ScienceDaily](https://www.sciencedaily.com/)
-
-> [!note]- Nike (NKE): ~$37.69 (−0.6% Thu); Truist downgrades to Sell/$29; Investor Day Nov 17 is key catalyst (Bloomberg / MarketBeat)
-> NKE ended Thursday around $37.69, down approximately 0.6% from Wednesday's $37.92 close, as the broader Nasdaq fell on the Nvidia leadership shock. Truist downgraded Nike to Sell from Hold with a $29 price target — the most bearish major analyst rating yet, joining Morgan Stanley's Underweight/$25. Investor Day on November 17 is the next key catalyst, where management will set a long-term margin recovery target. Position: 46 shares @ $71.69 avg; unrealised P&L ≈ −$1,564. [Bloomberg](https://www.bloomberg.com/) / [MarketBeat](https://www.marketbeat.com/stocks/NASDAQ/NKE)
+> [!note]- Science: NASA's Perseverance shatters record as farthest-travelled vehicle on another world (SciTechDaily)
+> NASA confirmed that the Perseverance rover has set a new all-time record for the greatest distance covered by any vehicle on a planetary surface beyond Earth, surpassing all previous rovers and landers. The achievement extends Perseverance's science reach across ancient river delta terrain in Jezero Crater, where it continues to cache rock samples for eventual Mars Sample Return. The milestone underscores the mission's growing legacy as NASA separately debates plans to rescue the ageing Hubble Space Telescope. [SciTechDaily](https://scitechdaily.com/)
 
 > [!note]- [[11-12-26 Thu]]
 >
@@ -102,7 +99,7 @@ unread: true
 > > Singapore's LTA confirmed three new Thomson-East Coast Line and Downtown Line extension stations will open to passengers on December 26, expanding MRT coverage to new residential corridors. The opening arrives days after the December 4–5 Malaysia-Singapore Leaders' Retreat, where the JS-SEZ Master Plan — backed by RM88.8B in approved investments — is set for formal launch. [AsiaOne](https://www.asiaone.com/)
 >
 > > [!note]- Science: Antarctic ozone hole hits 7th-largest on record; HPV gum cuts oral viral load by 93% (ScienceDaily)
-> > NASA confirmed the 2026 Antarctic ozone hole is the seventh-largest on record, with scientists crediting the Montreal Protocol's curbs on ozone-depleting substances for preventing worse outcomes. Separately, researchers published findings on a bioengineered chewing gum that reduced oral HPV levels by up to 93% in participants — a low-cost intervention against the virus linked to head and neck cancers. [ScienceDaily](https://www.sciencedaily.com/)
+> > NASA confirmed the 2026 Antarctic ozone hole is the seventh-largest on record, with scientists crediting the Montreal Protocol's curbs on ozone-depleting substances for preventing worse outcomes. Separately, researchers published findings on a bioengineered chewing gum that reduced oral HPV levels by up to 93% in participants — a low-tech intervention against the virus linked to head and neck cancers, with potential for wide deployment in low-resource settings. [ScienceDaily](https://www.sciencedaily.com/)
 >
 > > [!note]- Nike (NKE): $37.92 (−1.95% Wed); Motley Fool argues buy-and-hold ahead of Nov 17 Investor Day (Motley Fool)
 > > NKE closed Wednesday at $37.92 (down $0.76, −1.95%), now 78% below its all-time peak and sitting near Cantor Fitzgerald's $38 Neutral price target. A Motley Fool piece argues the stock is a 10-year buy-and-hold, with the November 17 Investor Day — when management will reveal a margin recovery target — as the near-term deciding catalyst. Position: 46 shares @ $71.69 avg; unrealised P&L ≈ −$1,553. [Motley Fool](https://www.fool.com/investing/2026/11/11/nike-stock-is-down-78-from-its-peak-heres-why-id/)
@@ -126,17 +123,6 @@ unread: true
 >
 > > [!note]- Science: COP31 opens in Antalya; leaders warn current pledges fall well short of 1.5°C limit (10 Things News)
 > > World leaders convened in Antalya, Turkey for the COP31 climate summit with UN climate scientists warning that existing national emissions commitments are collectively insufficient to limit global warming to 1.5°C. Meanwhile, a separate study projects 2026 global fossil-fuel emissions will fall for the first time, driven by rapid EV and renewable adoption, but rising deforestation emissions risk pushing total CO₂ to a new annual record. The summit faces pressure to accelerate finance flows to developing nations for adaptation measures. [10 Things News](https://10things.news/p/10-things-global-news-12th-november-646)
->
-> > [!breaking]- Tech: Jensen Huang resigns as Nvidia CEO; CFO Colette Kress named interim (CNN / Stocktitan)
-> > Jensen Huang has resigned as Nvidia's CEO effective Thursday, ending his 31-year tenure after the board concluded its investigation into his relationship with Alice Huang, identified by US officials as a Chinese intelligence asset. CFO Colette Kress will serve as interim CEO while a permanent search begins. Nvidia shares fell approximately 5–9% intraday, one of the largest single-day drops for a mega-cap AI stock in 2026. [CNN](https://edition.cnn.com/2026/11/11/business/live-news/nvidia-jensen-huang-investigation-fallout) / [Stocktitan](https://www.stocktitan.net/articles/stock-market-today-live-november-12-2026)
->
-> > **Market close update**
->
-> > [!note]- Macro: S&P 500 −0.37% to 7,591; Nasdaq −0.49%; VIX +8.5% — Nvidia CEO exit weighs on markets (JournalArta / Yahoo Finance)
-> > U.S. equities ended lower Thursday as Nvidia's CEO resignation dominated sentiment, with the S&P 500 at ~7,591 (−0.37%) and the Nasdaq at ~25,290 (−0.49%). The VIX spiked 8.52% to 18.98, while Cisco and Applied Materials reported earnings after the bell. Bond yields extended their recent rise, keeping December Fed hike expectations fully priced. [JournalArta](https://journalarta.com/en/2026/11/12/stock-market-today-sp-500-slips-0-32-to-7595-3-and-nasdaq-falls-0-49-as-vix-jumps-8-52/) / [Yahoo Finance](https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-12-sp-500-nasdaq-dow-nvidia-invest-110027430.html)
->
-> > [!note]- Nike (NKE): ~$38 (Thu close); Truist downgrades to Sell; KeyBanc Sector Weight; Investor Day Nov 17 (Benzinga / Investing.com)
-> > Truist Securities downgraded Nike to Sell on Thursday, citing valuation concerns even after the stock's 35% year-to-date decline. KeyBanc separately maintained its Sector Weight rating ahead of the November 17 Investor Day, where management will outline a five-year framework through fiscal 2031. Position: 46 shares @ $71.69 avg; unrealised P&L ≈ −$1,549 (at ~$38). [Benzinga](https://www.benzinga.com/quote/NKE/analyst-ratings) / [Investing.com](https://investing.com/news/analyst-ratings/keybanc-maintains-sector-weight-on-nike-stock-ahead-of-investor-day-93CH-5018266)
 
 > [!note]- [[11-11-26 Wed]]
 >
