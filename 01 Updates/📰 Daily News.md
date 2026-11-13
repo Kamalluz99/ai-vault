@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-13T20:00
+updated: 2026-11-14T05:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -61,45 +61,70 @@ unread: true
 ## 2026-11
 
 
-### [[11-13-26 Fri]]
+### [[11-14-26 Sat]]
 
-> [!note]- AI: US nonprofits sue OpenAI, Google and Anthropic to freeze AI training (Al Jazeera)
-> A coalition of US nonprofits filed suit against major AI developers demanding a court-ordered freeze on AI model training and deployments, arguing the technology poses existential risks without adequate safety frameworks. The case builds on growing legal pressure from civil society as New York's RAISE Act — which mandates developer registration and safety frameworks — prepares to take effect January 1 with up to $1M penalties. The dual front of litigation and state regulation marks an intensifying push to impose binding constraints on frontier AI development. [Al Jazeera](https://www.aljazeera.com/news/2026/11/12/us-nonprofits-sue-tech-giants-to-halt-ai-development)
+> [!breaking]- AI: Nvidia confirms Huang resignation; Colette Kress named interim CEO (Bloomberg)
+> Nvidia's board confirmed CEO Jensen Huang's resignation on Friday, naming CFO Colette Kress as interim chief executive while the board searches for a permanent successor. Huang departed after revelations of a personal relationship with Alice Huang, a Singapore national linked to the Megaspeed chip-smuggling network under investigation for exporting restricted Nvidia GPUs to China. Nvidia shares fell over 4% on the week. [Bloomberg](https://www.bloomberg.com/ai)
 
-> [!note]- Tech: Tech layoffs in 2026 surpass all of 2025, with AI cited as driver for cuts (TechCo)
-> Industry trackers confirm that total tech-sector layoffs in 2026 have already exceeded the full-year 2025 count, with Qualcomm India (1,000+ jobs), Canva (1,271 employees, 22% of workforce) and Fiserv (3,000 jobs) among the latest announcements. Many companies are explicitly citing AI automation as the reason for cutting headcount, raising questions about tech employment's long-term trajectory even as AI-focused investment rounds continue. The wave stands in contrast to record VC activity in AI startups. [TechCo](https://tech.co/news/tech-companies-layoffs)
+> [!note]- Tech: Microsoft 365 outage disrupts Outlook and Teams globally (CNBC)
+> A widespread outage disrupted Microsoft Outlook and Teams for enterprise users globally on Friday, with Microsoft's Azure status page attributing the incident to a configuration change. The disruption added to a turbulent week for tech, dominated by the Nvidia leadership shake-up and ongoing AI chip probe fallout. Services were restored within hours. [CNBC](https://www.cnbc.com/technology/)
 
-> [!note]- Macro: Gold falls 2.4% to $4,039 as US 10-year yields approach 5% (Rio Times)
-> Spot gold slid 2.41% to US$4,039/oz as US 10-year Treasury yields pushed toward 5%, with traders fully pricing in a December Fed rate hike after last week's hot CPI print. The Fed is holding at 3.75–4% but markets see further tightening ahead, pressuring non-yielding assets including gold and Bitcoin, which has stalled near $74,876. Oil remains volatile around $92–$116 on mixed signals from US-Iran Strait of Hormuz negotiations. [Rio Times](https://www.riotimesonline.com/global-economy-briefing-november-11-2026/)
+> [!note]- Macro: S&P 500 on track for best week since October; PPI +0.3% cooler than expected (BNN Bloomberg)
+> US equities steadied as Friday's October PPI of +0.3% month-over-month came in below consensus, easing some inflation concern after last week's hot CPI print. The S&P 500 was on track for a weekly gain of ~1.9% — its first winning week since early October. The 10-year Treasury yield held near 5.13% and Brent crude remained above $110/barrel on Hormuz tensions. [BNN Bloomberg](https://bnnbloomberg.ca/business/artificial-intelligence/2026/11/13/stocks-sway-as-wall-street-heads-for-a-winning-week-after-several-turbulent-days)
 
-> [!breaking]- World: Trump says "we don't need a deal" as Iran holds firm and tankers burn in Hormuz (CBS News)
-> US President Trump told reporters the US does not need a deal with Iran as Tehran continues attacks on shipping through the Strait of Hormuz and sticks to its seven-condition demand for peace talks. The crisis, which began with coordinated US-Israeli airstrikes on Iran on 28 February 2026, is now entering its tenth month with no diplomatic resolution in sight. Three oil tankers caught fire in the strait Thursday — the latest attacks keeping global energy markets on edge. [CBS News](https://www.cbsnews.com/live-updates/iran-war-us-nuclear-strait-of-hormuz/)
+> [!note]- World: Europol's Operation TorNado nets 354 arrests across 14 countries (Europol)
+> Europol announced Operation TorNado, a multinational dark-web crime sweep, resulted in 354 arrests across 14 countries in one of its largest-ever coordinated cybercrime takedowns. Separately, Bulgarian incumbent president Iliana Iotova was re-elected after her challenger conceded in the second round. COP31 continues in Antalya, Turkey with energy and transport the main agenda items. [Europol](https://www.europol.europa.eu/)
 
-> [!note]- Malaysia: Najib to pay RM50m fine to unlock house arrest as courts prepare order (Malay Mail)
-> Former Prime Minister Najib Razak will pay a RM50 million fine as a condition for the court-ordered house arrest approved by the Home Ministry, with his immediate family permitted to stay with him during the arrangement. The development marks a significant softening of his custodial situation, though his 1MDB corruption convictions remain intact. Separately, DAP has yet to appoint a replacement for outgoing Transport Minister Anthony Loke, leaving the cabinet position temporarily vacant. [Malay Mail](https://www.malaymail.com/news/malaysia)
+> [!breaking]- Malaysia: Melaka state election polls open — 79 candidates, 28 seats, PN cohesion on the line (Malay Mail)
+> Melaka voters head to the polls today (Nov 14) in a 28-seat election watched as a bellwether for Perikatan Nasional's internal cohesion following Bersatu-PAS friction over seat allocation. MetMalaysia issued severe rain warnings for parts of the peninsula, adding logistical pressure on rural turnout. Results are expected tonight. [Malay Mail](https://www.malaymail.com/news/malaysia)
 
-> [!note]- Science: NASA's Perseverance shatters record as farthest-travelled vehicle on another world (SciTechDaily)
-> NASA confirmed that the Perseverance rover has set a new all-time record for the greatest distance covered by any vehicle on a planetary surface beyond Earth, surpassing all previous rovers and landers. The achievement extends Perseverance's science reach across ancient river delta terrain in Jezero Crater, where it continues to cache rock samples for eventual Mars Sample Return. The milestone underscores the mission's growing legacy as NASA separately debates plans to rescue the ageing Hubble Space Telescope. [SciTechDaily](https://scitechdaily.com/)
+> [!note]- Singapore: 5th person charged in Nvidia chip case; Shi Bingzhe faces 41 counts (Tom's Hardware / Malay Mail)
+> Singapore charged Shi Bingzhe, 34, with 41 counts on November 13 — the fifth person charged in the Megaspeed-linked probe into the smuggling of 917 restricted Nvidia AI servers. Malaysia's PM Anwar Ibrahim said there was no evidence that Megaspeed-related hardware had left Malaysia, as both countries continue parallel investigations amid the Jensen Huang resignation fallout. [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/malaysia-and-singapore-step-up-nvidia-ai-chip-probes-as-charges-brought-against-chinese-national-over-917-smuggled-servers-firm-at-center-of-jensen-huang-controversy-announces-inventory-audit-to-account-for-all-restricted-gpus)
 
-> **Evening update**
+> [!note]- Science: Viral infections leave lasting hidden damage to the immune system, study finds (ScienceDaily)
+> A study published November 13 found that viral infections may leave behind hidden immune damage long after symptoms disappear, potentially explaining prolonged post-infection syndromes and conditions like long COVID. Separately, cosmologists published evidence that a mysterious force driving the universe's expansion may have undergone a dramatic reversal billions of years ago, challenging standard dark-energy models. [ScienceDaily](https://www.sciencedaily.com/)
 
-> [!breaking]- Singapore & Malaysia: Chips smuggled via SG and MY in Nvidia espionage probe (Malay Mail)
-> Singapore confirmed it barred Alice Huang from re-entering the country in February after she provided inaccurate information during a probe into chip exporter Megaspeed. Investigators say restricted Nvidia chips were exported through Singapore to Malaysia and may have been redirected elsewhere — potentially to China. Malaysia's trade ministry separately denied it ever cleared Megaspeed or its Malaysian affiliate Speedmatrix to operate. The case is now tied to the resignation of Nvidia CEO Jensen Huang, who allegedly had a personal relationship with the suspect. [Malay Mail](https://www.malaymail.com/news/singapore/2026/11/13/singapore-says-it-barred-alice-huang-from-re-entry-after-megaspeed-chip-probe-in-february/243068)
+> [!note]- Nike (NKE): $38.03 (+0.72% Fri) — BTIG reiterates Buy/$50; Investor Day Monday (MarketBeat)
+> NKE closed Friday at $38.03, up $0.27 (+0.72%), in a choppy session. BTIG reiterated its Buy rating and $50 price target on November 13 — a bullish outlier vs. the consensus Hold. Key catalyst this week: Investor Day on November 17, when management is expected to lay out a margin-recovery roadmap. Position: 46 shares @ $71.69 avg; unrealised P&L ≈ −$1,554. [MarketBeat](https://marketbeat.com/instant-alerts/analyst-nikes-nke-buy-rating-reiterated-at-btig-research-2026-11-13)
 
-> [!note]- Malaysia: Police shoot dead machete attacker who severed officer's hand in Kepong (SCMP)
-> Malaysian police fatally shot a machete-wielding man in Kepong after he severed an officer's hand and proceeded to attack firefighters and Health Ministry staff on the scene. The incident left multiple emergency responders injured and was confirmed fatal at the scene. The attack has sparked calls for a review of protocols when engaging armed and violent individuals. [SCMP](https://www.scmp.com/news/asia)
-
-> [!breaking]- World: Nvidia CEO Jensen Huang steps down amid affair with suspected Chinese spy (10 Things News)
-> Nvidia CEO Jensen Huang has reportedly resigned following revelations of an affair with Alice Huang, a woman suspected of being a Chinese intelligence operative and linked to the Megaspeed chip-smuggling investigation. CFO Colette Kress will serve as interim CEO while the board conducts a review. The development has sent shockwaves through the global AI industry, given Nvidia's central role in the AI chip supply chain and ongoing export-control scrutiny. [10 Things News](https://www.10things.news/p/10-things-global-news-13th-november-797)
-
-> [!note]- World: US tells Israel to prepare for further Iran action; Gaza hospital strike kills 6 (CBS News)
-> The United States reportedly told Israel to prepare for further military action against Iran even as tensions within the Trump administration surfaced — Trump clashed with Netanyahu over strikes and withdrew JD Vance from Iran negotiations. Separately, an Israeli strike killed six people at a hospital in Gaza. Ukraine also launched a drone strike that reportedly hit a Russian warship in the Baltic Sea. [CBS News](https://www.cbsnews.com/live-updates/iran-war-us-nuclear-strait-of-hormuz/)
-
-> [!note]- Tech: ChatGPT search volume reaches one-fifth of Google's globally, OpenAI says (AI Weekly)
-> OpenAI announced that ChatGPT's search feature has now reached roughly one-fifth of Google's global search traffic, marking a major inflection point in how users access information online. Publishers have reacted with alarm, arguing that AI-generated answers increasingly substitute for original news articles without compensation. The milestone is deepening legal and regulatory pressure around AI's role in the media ecosystem, running parallel to US nonprofit lawsuits targeting frontier AI development. [AI Weekly](https://aiweekly.co/)
-
-> [!note]- Science/Economy: Singapore opens gold vault to foreign central banks, challenging Hong Kong as bullion hub (SCMP)
-> Singapore has opened its gold vault to foreign central banks in a strategic move to cement its status as a leading Asian bullion hub and directly challenge Hong Kong's long-standing dominance. The initiative leverages Singapore's financial infrastructure and regulatory stability, which sovereign wealth managers find increasingly attractive as they diversify custodians. Analysts say the development could channel significant central bank gold reserves to Singapore over the coming years. [SCMP](https://www.scmp.com/news/asia)
+> [!note]- [[11-13-26 Fri]]
+> > [!note]- AI: US nonprofits sue OpenAI, Google and Anthropic to freeze AI training (Al Jazeera)
+> > A coalition of US nonprofits filed suit against major AI developers demanding a court-ordered freeze on AI model training and deployments, arguing the technology poses existential risks without adequate safety frameworks. The case builds on growing legal pressure from civil society as New York's RAISE Act — which mandates developer registration and safety frameworks — prepares to take effect January 1 with up to $1M penalties. The dual front of litigation and state regulation marks an intensifying push to impose binding constraints on frontier AI development. [Al Jazeera](https://www.aljazeera.com/news/2026/11/12/us-nonprofits-sue-tech-giants-to-halt-ai-development)
+>
+> > [!note]- Tech: Tech layoffs in 2026 surpass all of 2025, with AI cited as driver for cuts (TechCo)
+> > Industry trackers confirm that total tech-sector layoffs in 2026 have already exceeded the full-year 2025 count, with Qualcomm India (1,000+ jobs), Canva (1,271 employees, 22% of workforce) and Fiserv (3,000 jobs) among the latest announcements. Many companies are explicitly citing AI automation as the reason for cutting headcount, raising questions about tech employment's long-term trajectory even as AI-focused investment rounds continue. The wave stands in contrast to record VC activity in AI startups. [TechCo](https://tech.co/news/tech-companies-layoffs)
+>
+> > [!note]- Macro: Gold falls 2.4% to $4,039 as US 10-year yields approach 5% (Rio Times)
+> > Spot gold slid 2.41% to US$4,039/oz as US 10-year Treasury yields pushed toward 5%, with traders fully pricing in a December Fed rate hike after last week's hot CPI print. The Fed is holding at 3.75–4% but markets see further tightening ahead, pressuring non-yielding assets including gold and Bitcoin, which has stalled near $74,876. Oil remains volatile around $92–$116 on mixed signals from US-Iran Strait of Hormuz negotiations. [Rio Times](https://www.riotimesonline.com/global-economy-briefing-november-11-2026/)
+>
+> > [!breaking]- World: Trump says "we don't need a deal" as Iran holds firm and tankers burn in Hormuz (CBS News)
+> > US President Trump told reporters the US does not need a deal with Iran as Tehran continues attacks on shipping through the Strait of Hormuz and sticks to its seven-condition demand for peace talks. The crisis, which began with coordinated US-Israeli airstrikes on Iran on 28 February 2026, is now entering its tenth month with no diplomatic resolution in sight. Three oil tankers caught fire in the strait Thursday — the latest attacks keeping global energy markets on edge. [CBS News](https://www.cbsnews.com/live-updates/iran-war-us-nuclear-strait-of-hormuz/)
+>
+> > [!note]- Malaysia: Najib to pay RM50m fine to unlock house arrest as courts prepare order (Malay Mail)
+> > Former Prime Minister Najib Razak will pay a RM50 million fine as a condition for the court-ordered house arrest approved by the Home Ministry, with his immediate family permitted to stay with him during the arrangement. The development marks a significant softening of his custodial situation, though his 1MDB corruption convictions remain intact. Separately, DAP has yet to appoint a replacement for outgoing Transport Minister Anthony Loke, leaving the cabinet position temporarily vacant. [Malay Mail](https://www.malaymail.com/news/malaysia)
+>
+> > [!note]- Science: NASA's Perseverance shatters record as farthest-travelled vehicle on another world (SciTechDaily)
+> > NASA confirmed that the Perseverance rover has set a new all-time record for the greatest distance covered by any vehicle on a planetary surface beyond Earth, surpassing all previous rovers and landers. The achievement extends Perseverance's science reach across ancient river delta terrain in Jezero Crater, where it continues to cache rock samples for eventual Mars Sample Return. The milestone underscores the mission's growing legacy as NASA separately debates plans to rescue the ageing Hubble Space Telescope. [SciTechDaily](https://scitechdaily.com/)
+>
+> > **Evening update**
+>
+> > [!breaking]- Singapore & Malaysia: Chips smuggled via SG and MY in Nvidia espionage probe (Malay Mail)
+> > Singapore confirmed it barred Alice Huang from re-entering the country in February after she provided inaccurate information during a probe into chip exporter Megaspeed. Investigators say restricted Nvidia chips were exported through Singapore to Malaysia and may have been redirected elsewhere — potentially to China. Malaysia's trade ministry separately denied it ever cleared Megaspeed or its Malaysian affiliate Speedmatrix to operate. The case is now tied to the resignation of Nvidia CEO Jensen Huang, who allegedly had a personal relationship with the suspect. [Malay Mail](https://www.malaymail.com/news/singapore/2026/11/13/singapore-says-it-barred-alice-huang-from-re-entry-after-megaspeed-chip-probe-in-february/243068)
+>
+> > [!note]- Malaysia: Police shoot dead machete attacker who severed officer's hand in Kepong (SCMP)
+> > Malaysian police fatally shot a machete-wielding man in Kepong after he severed an officer's hand and proceeded to attack firefighters and Health Ministry staff on the scene. The incident left multiple emergency responders injured and was confirmed fatal at the scene. The attack has sparked calls for a review of protocols when engaging armed and violent individuals. [SCMP](https://www.scmp.com/news/asia)
+>
+> > [!breaking]- World: Nvidia CEO Jensen Huang steps down amid affair with suspected Chinese spy (10 Things News)
+> > Nvidia CEO Jensen Huang has reportedly resigned following revelations of an affair with Alice Huang, a woman suspected of being a Chinese intelligence operative and linked to the Megaspeed chip-smuggling investigation. CFO Colette Kress will serve as interim CEO while the board conducts a review. The development has sent shockwaves through the global AI industry, given Nvidia's central role in the AI chip supply chain and ongoing export-control scrutiny. [10 Things News](https://www.10things.news/p/10-things-global-news-13th-november-797)
+>
+> > [!note]- World: US tells Israel to prepare for further Iran action; Gaza hospital strike kills 6 (CBS News)
+> > The United States reportedly told Israel to prepare for further military action against Iran even as tensions within the Trump administration surfaced — Trump clashed with Netanyahu over strikes and withdrew JD Vance from Iran negotiations. Separately, an Israeli strike killed six people at a hospital in Gaza. Ukraine also launched a drone strike that reportedly hit a Russian warship in the Baltic Sea. [CBS News](https://www.cbsnews.com/live-updates/iran-war-us-nuclear-strait-of-hormuz/)
+>
+> > [!note]- Tech: ChatGPT search volume reaches one-fifth of Google's globally, OpenAI says (AI Weekly)
+> > OpenAI announced that ChatGPT's search feature has now reached roughly one-fifth of Google's global search traffic, marking a major inflection point in how users access information online. Publishers have reacted with alarm, arguing that AI-generated answers increasingly substitute for original news articles without compensation. The milestone is deepening legal and regulatory pressure around AI's role in the media ecosystem, running parallel to US nonprofit lawsuits targeting frontier AI development. [AI Weekly](https://aiweekly.co/)
+>
+> > [!note]- Science/Economy: Singapore opens gold vault to foreign central banks, challenging Hong Kong as bullion hub (SCMP)
+> > Singapore has opened its gold vault to foreign central banks in a strategic move to cement its status as a leading Asian bullion hub and directly challenge Hong Kong's long-standing dominance. The initiative leverages Singapore's financial infrastructure and regulatory stability, which sovereign wealth managers find increasingly attractive as they diversify custodians. Analysts say the development could channel significant central bank gold reserves to Singapore over the coming years. [SCMP](https://www.scmp.com/news/asia)
 
 > [!note]- [[11-12-26 Thu]]
 >
