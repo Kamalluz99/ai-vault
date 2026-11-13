@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-13T08:00
+updated: 2026-11-13T20:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -80,6 +80,26 @@ unread: true
 
 > [!note]- Science: NASA's Perseverance shatters record as farthest-travelled vehicle on another world (SciTechDaily)
 > NASA confirmed that the Perseverance rover has set a new all-time record for the greatest distance covered by any vehicle on a planetary surface beyond Earth, surpassing all previous rovers and landers. The achievement extends Perseverance's science reach across ancient river delta terrain in Jezero Crater, where it continues to cache rock samples for eventual Mars Sample Return. The milestone underscores the mission's growing legacy as NASA separately debates plans to rescue the ageing Hubble Space Telescope. [SciTechDaily](https://scitechdaily.com/)
+
+> **Evening update**
+
+> [!breaking]- Singapore & Malaysia: Chips smuggled via SG and MY in Nvidia espionage probe (Malay Mail)
+> Singapore confirmed it barred Alice Huang from re-entering the country in February after she provided inaccurate information during a probe into chip exporter Megaspeed. Investigators say restricted Nvidia chips were exported through Singapore to Malaysia and may have been redirected elsewhere — potentially to China. Malaysia's trade ministry separately denied it ever cleared Megaspeed or its Malaysian affiliate Speedmatrix to operate. The case is now tied to the resignation of Nvidia CEO Jensen Huang, who allegedly had a personal relationship with the suspect. [Malay Mail](https://www.malaymail.com/news/singapore/2026/11/13/singapore-says-it-barred-alice-huang-from-re-entry-after-megaspeed-chip-probe-in-february/243068)
+
+> [!note]- Malaysia: Police shoot dead machete attacker who severed officer's hand in Kepong (SCMP)
+> Malaysian police fatally shot a machete-wielding man in Kepong after he severed an officer's hand and proceeded to attack firefighters and Health Ministry staff on the scene. The incident left multiple emergency responders injured and was confirmed fatal at the scene. The attack has sparked calls for a review of protocols when engaging armed and violent individuals. [SCMP](https://www.scmp.com/news/asia)
+
+> [!breaking]- World: Nvidia CEO Jensen Huang steps down amid affair with suspected Chinese spy (10 Things News)
+> Nvidia CEO Jensen Huang has reportedly resigned following revelations of an affair with Alice Huang, a woman suspected of being a Chinese intelligence operative and linked to the Megaspeed chip-smuggling investigation. CFO Colette Kress will serve as interim CEO while the board conducts a review. The development has sent shockwaves through the global AI industry, given Nvidia's central role in the AI chip supply chain and ongoing export-control scrutiny. [10 Things News](https://www.10things.news/p/10-things-global-news-13th-november-797)
+
+> [!note]- World: US tells Israel to prepare for further Iran action; Gaza hospital strike kills 6 (CBS News)
+> The United States reportedly told Israel to prepare for further military action against Iran even as tensions within the Trump administration surfaced — Trump clashed with Netanyahu over strikes and withdrew JD Vance from Iran negotiations. Separately, an Israeli strike killed six people at a hospital in Gaza. Ukraine also launched a drone strike that reportedly hit a Russian warship in the Baltic Sea. [CBS News](https://www.cbsnews.com/live-updates/iran-war-us-nuclear-strait-of-hormuz/)
+
+> [!note]- Tech: ChatGPT search volume reaches one-fifth of Google's globally, OpenAI says (AI Weekly)
+> OpenAI announced that ChatGPT's search feature has now reached roughly one-fifth of Google's global search traffic, marking a major inflection point in how users access information online. Publishers have reacted with alarm, arguing that AI-generated answers increasingly substitute for original news articles without compensation. The milestone is deepening legal and regulatory pressure around AI's role in the media ecosystem, running parallel to US nonprofit lawsuits targeting frontier AI development. [AI Weekly](https://aiweekly.co/)
+
+> [!note]- Science/Economy: Singapore opens gold vault to foreign central banks, challenging Hong Kong as bullion hub (SCMP)
+> Singapore has opened its gold vault to foreign central banks in a strategic move to cement its status as a leading Asian bullion hub and directly challenge Hong Kong's long-standing dominance. The initiative leverages Singapore's financial infrastructure and regulatory stability, which sovereign wealth managers find increasingly attractive as they diversify custodians. Analysts say the development could channel significant central bank gold reserves to Singapore over the coming years. [SCMP](https://www.scmp.com/news/asia)
 
 > [!note]- [[11-12-26 Thu]]
 >
