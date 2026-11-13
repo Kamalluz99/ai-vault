@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-14T05:00
+updated: 2026-11-14T05:14
 topic: daily news
 frequency: daily
 ongoing: false
@@ -63,29 +63,23 @@ unread: true
 
 ### [[11-14-26 Sat]]
 
-> [!breaking]- AI: Nvidia confirms Huang resignation; Colette Kress named interim CEO (Bloomberg)
-> Nvidia's board confirmed CEO Jensen Huang's resignation on Friday, naming CFO Colette Kress as interim chief executive while the board searches for a permanent successor. Huang departed after revelations of a personal relationship with Alice Huang, a Singapore national linked to the Megaspeed chip-smuggling network under investigation for exporting restricted Nvidia GPUs to China. Nvidia shares fell over 4% on the week. [Bloomberg](https://www.bloomberg.com/ai)
+> [!note]- AI: DeepMind's Apollo 2 hits 96% success in Mercedes-Benz factory trial (Sam on AI)
+> DeepMind and Apptronik reported that Apollo 2 achieved a 96% success rate picking and packing automotive parts during a proof-of-concept on Mercedes-Benz production lines. The trial marks one of the most rigorous real-world deployments of a humanoid robot in a major automotive plant, though results come from a single vendor-reported test rather than independent verification. The milestone signals accelerating momentum for humanoid robotics in industrial settings as AI companies race to demonstrate commercial viability. [Sam on AI](https://samonai.substack.com/p/ai-brief-november-12-2026)
 
-> [!note]- Tech: Microsoft 365 outage disrupts Outlook and Teams globally (CNBC)
-> A widespread outage disrupted Microsoft Outlook and Teams for enterprise users globally on Friday, with Microsoft's Azure status page attributing the incident to a configuration change. The disruption added to a turbulent week for tech, dominated by the Nvidia leadership shake-up and ongoing AI chip probe fallout. Services were restored within hours. [CNBC](https://www.cnbc.com/technology/)
+> [!note]- Tech: Microsoft offers voluntary buyouts to ~60,000 staff — 27% of its workforce (CNBC)
+> Microsoft is offering voluntary buyouts to roughly 60,000 employees, covering about 27% of its global workforce, following 4,800 involuntary layoffs announced earlier in 2026. The move reflects Microsoft's shift toward leaner headcount as AI productivity tools reduce reliance on large engineering teams. 2026 tech-sector layoffs have now exceeded the full-year 2025 total across the industry. [Yahoo Tech](https://tech.yahoo.com/general/breaking-news/article/tech-layoffs-tracker-2026-all-the-job-losses-across-disney-amazon-microsoft-apple-meta-and-more-163131793.html)
 
-> [!note]- Macro: S&P 500 on track for best week since October; PPI +0.3% cooler than expected (BNN Bloomberg)
-> US equities steadied as Friday's October PPI of +0.3% month-over-month came in below consensus, easing some inflation concern after last week's hot CPI print. The S&P 500 was on track for a weekly gain of ~1.9% — its first winning week since early October. The 10-year Treasury yield held near 5.13% and Brent crude remained above $110/barrel on Hormuz tensions. [BNN Bloomberg](https://bnnbloomberg.ca/business/artificial-intelligence/2026/11/13/stocks-sway-as-wall-street-heads-for-a-winning-week-after-several-turbulent-days)
+> [!note]- Macro: Gold sinks to 13-month low near $3,900; Bitcoin near $69K as USD firms (Nexo)
+> Gold fell more than 4% on the week to near $3,900/oz — a 13-month low — as a strengthening US dollar and 10-year Treasury yields near 5.1% weigh on non-yielding assets. Bitcoin eased to around $69,000 with total crypto market cap near $2.3 trillion. Brent crude held above $95/barrel on Strait of Hormuz tensions, with PPI data due as a key catalyst for further Fed tightening expectations. [Nexo](https://nexo.com/blog/markets-today-november-13)
 
-> [!note]- World: Europol's Operation TorNado nets 354 arrests across 14 countries (Europol)
-> Europol announced Operation TorNado, a multinational dark-web crime sweep, resulted in 354 arrests across 14 countries in one of its largest-ever coordinated cybercrime takedowns. Separately, Bulgarian incumbent president Iliana Iotova was re-elected after her challenger conceded in the second round. COP31 continues in Antalya, Turkey with energy and transport the main agenda items. [Europol](https://www.europol.europa.eu/)
+> [!note]- World: Russia-Ukraine agree to largest prisoner exchange since 2022 after US-mediated talks (NPR)
+> Russia and Ukraine agreed to a large prisoner exchange following US-mediated talks in Abu Dhabi, the biggest humanitarian release since the war began in 2022. US envoys Jared Kushner and Steve Witkoff briefed Putin at the Kremlin then flew to Ireland for talks with Zelenskyy, though sources noted no breakthrough on ending the conflict. The exchange is a rare diplomatic milestone in a war that has otherwise seen few concessions from either side. [NPR](https://www.npr.org/sections/world/)
 
-> [!breaking]- Malaysia: Melaka state election polls open — 79 candidates, 28 seats, PN cohesion on the line (Malay Mail)
-> Melaka voters head to the polls today (Nov 14) in a 28-seat election watched as a bellwether for Perikatan Nasional's internal cohesion following Bersatu-PAS friction over seat allocation. MetMalaysia issued severe rain warnings for parts of the peninsula, adding logistical pressure on rural turnout. Results are expected tonight. [Malay Mail](https://www.malaymail.com/news/malaysia)
+> [!note]- Malaysia: Floods rising in Selangor; MetMalaysia warns 5 states of heavy monsoon storms (Bernama)
+> Selangor's flood evacuee count was rising on November 13 while Perak's declined, with MetMalaysia issuing warnings of thunderstorms, heavy rain and strong winds for Terengganu, Pahang, Johor, Sarawak, Sabah and the Federal Territory of Labuan. The warnings signal the onset of the Northeast Monsoon season, which typically brings Malaysia's worst annual flooding to east coast and Borneo states. Residents in low-lying areas have been advised to monitor water levels and prepare to evacuate. [Bernama](https://bernama.com/en/general/news.php?id=2633916)
 
-> [!note]- Singapore: 5th person charged in Nvidia chip case; Shi Bingzhe faces 41 counts (Tom's Hardware / Malay Mail)
-> Singapore charged Shi Bingzhe, 34, with 41 counts on November 13 — the fifth person charged in the Megaspeed-linked probe into the smuggling of 917 restricted Nvidia AI servers. Malaysia's PM Anwar Ibrahim said there was no evidence that Megaspeed-related hardware had left Malaysia, as both countries continue parallel investigations amid the Jensen Huang resignation fallout. [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/malaysia-and-singapore-step-up-nvidia-ai-chip-probes-as-charges-brought-against-chinese-national-over-917-smuggled-servers-firm-at-center-of-jensen-huang-controversy-announces-inventory-audit-to-account-for-all-restricted-gpus)
-
-> [!note]- Science: Viral infections leave lasting hidden damage to the immune system, study finds (ScienceDaily)
-> A study published November 13 found that viral infections may leave behind hidden immune damage long after symptoms disappear, potentially explaining prolonged post-infection syndromes and conditions like long COVID. Separately, cosmologists published evidence that a mysterious force driving the universe's expansion may have undergone a dramatic reversal billions of years ago, challenging standard dark-energy models. [ScienceDaily](https://www.sciencedaily.com/)
-
-> [!note]- Nike (NKE): $38.03 (+0.72% Fri) — BTIG reiterates Buy/$50; Investor Day Monday (MarketBeat)
-> NKE closed Friday at $38.03, up $0.27 (+0.72%), in a choppy session. BTIG reiterated its Buy rating and $50 price target on November 13 — a bullish outlier vs. the consensus Hold. Key catalyst this week: Investor Day on November 17, when management is expected to lay out a margin-recovery roadmap. Position: 46 shares @ $71.69 avg; unrealised P&L ≈ −$1,554. [MarketBeat](https://marketbeat.com/instant-alerts/analyst-nikes-nke-buy-rating-reiterated-at-btig-research-2026-11-13)
+> [!note]- Science: Perseverance confirms complex organic carbon in ancient Mars rocks (ScienceDaily)
+> NASA's Perseverance rover confirmed complex organic carbon compounds just beneath the surface of ancient rocks in Jezero Crater, findings published in Science Advances. The organics are consistent with material that could have supported or derived from microbial life, though an abiotic origin cannot be ruled out — scientists say the discovery narrows the search for biosignatures and strengthens the case for returning rock samples to Earth. It is the most direct detection of rich carbon chemistry in Martian rock made by the mission to date. [ScienceDaily](https://sciencedaily.com/releases/2026/11/261111005908.htm)
 
 > [!note]- [[11-13-26 Fri]]
 > > [!note]- AI: US nonprofits sue OpenAI, Google and Anthropic to freeze AI training (Al Jazeera)
