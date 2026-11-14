@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-14T05:14
+updated: 2026-11-14T19:04
 topic: daily news
 frequency: daily
 ongoing: false
@@ -80,6 +80,26 @@ unread: true
 
 > [!note]- Science: Perseverance confirms complex organic carbon in ancient Mars rocks (ScienceDaily)
 > NASA's Perseverance rover confirmed complex organic carbon compounds just beneath the surface of ancient rocks in Jezero Crater, findings published in Science Advances. The organics are consistent with material that could have supported or derived from microbial life, though an abiotic origin cannot be ruled out — scientists say the discovery narrows the search for biosignatures and strengthens the case for returning rock samples to Earth. It is the most direct detection of rich carbon chemistry in Martian rock made by the mission to date. [ScienceDaily](https://sciencedaily.com/releases/2026/11/261111005908.htm)
+
+> **Evening update**
+
+> [!note]- Singapore & Malaysia: Nvidia fallout puts SG/MY data centres under US export curb risk (Reuters)
+> Southeast Asia's booming AI data centre sector faces heightened US scrutiny following the Nvidia chip-smuggling scandal and Jensen Huang's resignation. The Wall Street Journal reports that officials are weighing new export licensing requirements for Nvidia chips sold in Malaysia, Thailand, Indonesia, and Singapore. Neither Singapore nor Malaysia had officially commented on the potential restrictions as of Saturday. [Reuters via AOL](https://www.aol.com/articles/nvidia-fallout-throws-spotlight-southeast-131149000.html)
+
+> [!note]- Malaysia: Polling day for the 16th Melaka State Election — BN and PH contest 28 seats (The Rakyat Post)
+> Voters across Melaka headed to the polls on November 14 for the 16th state election, with Barisan Nasional and Pakatan Harapan contesting all 28 seats. Colourful scenes from polling centres included an elderly voter who rode an electric mobility scooter directly into a voting room at SK Merlimau in Jasin. Early results are expected by Saturday evening. [The Rakyat Post](https://therakyatpost.com/news/malaysia/2026/11/14/senior-citizen-rides-electric-mobility-scooter-right-into-voting-room-in-melaka)
+
+> [!breaking]- World: Trump to hold first-ever US-China-Russia trilateral summit in Shenzhen next week (White House)
+> The White House confirmed that President Trump will hold a trilateral summit with Chinese President Xi Jinping and Russian President Vladimir Putin in Shenzhen, China next week — the first three-way US-China-Russia leadership meeting in modern history. The agenda has not been officially disclosed, though Ukraine, Taiwan, and the global AI chip supply chain are expected topics given current flashpoints. European and Asian allies are closely watching for signs of a broader diplomatic realignment. [Anadolu Agency](https://aa.com.tr/en/world/morning-briefing-nov-14-2026/4124855)
+
+> [!note]- World: US nationwide flight ground stop after telecom outage; cyberattack under investigation (FAA)
+> A telecommunications outage triggered a full FAA nationwide ground stop of all US domestic flights, grounding all departures in one of the most significant aviation disruptions in recent years. The FAA said all aircraft were accounted for and international operations were being handled case by case. Officials have not ruled out a deliberate cyberattack, and investigators are separately examining whether a recently deployed FAA AI program may have contributed to the failure. [Click2Houston](https://www.click2houston.com/news/local/2026/11/13/faa-investigating-whether-new-ai-technology-contributed-to-nationwide-ground-stop/)
+
+> [!note]- Tech: OpenAI eyes $1.2 trillion valuation as Nvidia's $500B AI fund wavers post-Jensen exit (Bloomberg)
+> OpenAI is reportedly weighing a new funding round at a valuation exceeding $1.2 trillion as it seeks capital following a $10.9B quarterly operating loss, per Bloomberg. The move comes as the planned $500B Nvidia-backed AI infrastructure fund faces uncertainty following Jensen Huang's resignation amid the Megaspeed chip-smuggling probe. Nvidia is still expected to close its reported $12.9B acquisition of Hugging Face in 2027. [AI Weekly](https://aiweekly.co/ai-news-today)
+
+> [!note]- Science/Economy: Mercedes-Benz freezes new German plant investment; IEA says oil supply overtakes demand (Euronews)
+> Mercedes-Benz has halted all new investment in its German manufacturing plants and is considering closures amid slowing EV demand and rising European production costs. Separately, the International Energy Agency reported that global oil supply has overtaken demand for the first time since the COVID-era glut, keeping European diesel prices stubbornly high even as crude softens. The twin developments signal deepening structural stress in Europe's industrial base heading into 2027. [Euronews](https://www.euronews.com/video/2026/11/14/latest-news-bulletin-november-14th-2026-morning)
 
 > [!note]- [[11-13-26 Fri]]
 > > [!note]- AI: US nonprofits sue OpenAI, Google and Anthropic to freeze AI training (Al Jazeera)
