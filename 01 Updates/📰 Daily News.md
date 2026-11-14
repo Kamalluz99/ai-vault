@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-14T19:04
+updated: 2026-11-15T05:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -60,6 +60,28 @@ unread: true
 
 ## 2026-11
 
+### [[11-15-26 Sun]]
+
+> [!breaking]- AI: Jensen Huang resigns as Nvidia CEO amid AI industry scrutiny (Washington Post)
+> Jensen Huang stepped down as Nvidia's CEO, triggering what analysts say will be broader examination of the AI chip industry's governance and export controls. The resignation comes amid ongoing probes into Nvidia hardware allegedly reaching China via third-party intermediaries in Southeast Asia. Nvidia's stock and the wider AI sector are expected to react when markets open Monday. [Washington Post](https://www.washingtonpost.com/technology/innovations/)
+
+> [!note]- Tech: ChatGPT Wallet lets AI agents shop and check out autonomously (TechCrunch)
+> OpenAI launched a Wallet feature for ChatGPT enabling AI agents to complete purchases end-to-end without human input at checkout, pushing into agentic commerce. The launch follows United Airlines' decision this week to block AI agents from booking flights, citing regulatory concerns. OpenAI's latest funding round values the company at $1.25T, below its initial $1.4T target. [TechCrunch](https://techcrunch.com/)
+
+> [!breaking]- Macro: Iran floats two-day Hormuz reopening plan; oil drops ~8%, yields ease (Benzinga)
+> Iran signaled it may allow oil tanker traffic through the Strait of Hormuz under a two-day interim plan, sending Brent crude down nearly 8% and bond yields lower. Homebuilders, gold miners and regional banks rallied on the news while Polymarket odds of broader escalation dipped to 41%. Big Tech debt nearing $400B remains a secondary concern for Treasury demand. [Benzinga](https://www.benzinga.com/macro-economic-events)
+
+> [!note]- World: Trump signals reluctance to resume war with Iran; three tankers hit by mines in Hormuz (Aaj News)
+> US media report Trump is reluctant to restart direct military action against Iran even as Iran reported three oil tanker incidents involving mines in the Strait of Hormuz. Mexico City is bracing for large anti-government protests on Sunday marching from the Monument to the Revolution to the Zócalo. The Hormuz situation remains the dominant geopolitical risk for energy markets this week. [Aaj News](https://english.aaj.tv/news/330480755/12am-headlines-15-nov-2026)
+
+> [!breaking]- Malaysia/Singapore: Both countries escalate Nvidia chip probe; Chinese national charged over 917 servers (Tom's Hardware)
+> Singapore charged a Chinese national in connection with the suspicious purchase of 917 AI servers, while Malaysia's Ministry of Investment, Trade and Industry is examining whether Speedmatrix (Malaysian subsidiary of Singapore-based Megaspeed) re-exported restricted Nvidia AI processors. PM Anwar Ibrahim said no evidence yet that hardware left Malaysia, but both governments are under US scrutiny as Jensen Huang's resignation adds further pressure. [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/malaysia-and-singapore-step-up-nvidia-ai-chip-probes-as-charges-brought-against-chinese-national-over-917-smuggled-servers-firm-at-center-of-jensen-huang-controversy-announces-inventory-audit-to-account-for-all-restricted-gpus)
+
+> [!note]- Science: Antarctic ozone hole expands to seventh-largest on record despite global restrictions (ScienceDaily)
+> The 2026 Antarctic ozone hole grew to its seventh-largest recorded size, though scientists say chemical restrictions under the Montreal Protocol have limited the damage. Separately, RSV vaccines showed significant reductions in infections in a new study, and researchers identified a faster screening method for diamond-based quantum materials with potential for next-generation sensors and quantum computers. [ScienceDaily](https://www.sciencedaily.com/)
+
+> [!note]- Nike (NKE): ~$37.73 last close (Fri) — Investor Day Mon–Tue Nov 16–17 is key catalyst (MarketBeat)
+> Nike's last close was ~$37.73 on Friday, leaving 46 shares at $71.69 avg cost with an unrealised loss of ~$1,567. Investor Day on November 16–17 is the key near-term catalyst, with Stifel expecting management to unveil a new financial outlook through FY2031. Analyst ratings remain split: BTIG Buy at $50 vs BofA Underperform at $24 and Truist Sell at $29. [MarketBeat](https://marketbeat.com/instant-alerts/analyst-nikes-nke-buy-rating-reiterated-at-btig-research-2026-11-13)
 
 ### [[11-14-26 Sat]]
 
