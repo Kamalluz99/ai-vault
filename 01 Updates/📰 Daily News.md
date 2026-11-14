@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-12T21:00
+updated: 2026-11-14T21:12
 topic: daily news
 frequency: daily
 ongoing: false
@@ -83,6 +83,9 @@ unread: true
 
 > [!note]- Nike (NKE): $37.92 (−1.95% Wed); Motley Fool argues buy-and-hold ahead of Nov 17 Investor Day (Motley Fool)
 > NKE closed Wednesday at $37.92 (down $0.76, −1.95%), now 78% below its all-time peak and sitting near Cantor Fitzgerald's $38 Neutral price target. A Motley Fool piece argues the stock is a 10-year buy-and-hold, with the November 17 Investor Day — when management will reveal a margin recovery target — as the near-term deciding catalyst. Position: 46 shares @ $71.69 avg; unrealised P&L ≈ −$1,553. [Motley Fool](https://www.fool.com/investing/2026/11/11/nike-stock-is-down-78-from-its-peak-heres-why-id/)
+
+> [!note]- Nike (NKE): ~$37.78 Fri close; Investor Day Nov 16–17 looms; P&L −$1,560 (Yahoo Finance)
+> NKE closed Friday at ~$37.78, leaving 46 shares at $71.69 avg cost with an unrealised loss of approximately −$1,560 (46 × (37.78 − 71.69)). The stock's first Investor Day under CEO Elliott Hill since 2017 runs November 16–17, with Stifel expecting management to reset the financial model through FY2031. Piper Sandler reiterated Neutral/$28 citing 21× FY2029 estimates as most expensive in its coverage; KeyBanc holds Sector Weight noting estimates remain at risk. [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/nike-future-comes-down-tuesday-215904122.html)
 
 > **Evening update**
 
