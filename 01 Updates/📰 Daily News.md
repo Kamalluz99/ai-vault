@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-15T08:00
+updated: 2026-11-15T19:06
 topic: daily news
 frequency: daily
 ongoing: false
@@ -82,6 +82,26 @@ unread: true
 
 > [!note]- Nike (NKE): ~$37.73 last close — Investor Day Mon–Tue Nov 16–17 is the key catalyst (MarketBeat)
 > Nike's last close was approximately $37.73 on Friday, with the two-day Investor Day beginning Monday the key near-term catalyst. Stifel expects management to unveil a new financial outlook through FY2031, while analyst ratings remain split: BTIG Buy at $50 vs BofA Underperform at $24 and Truist Sell at $29. Position: 46 shares at $71.69 avg cost; unrealised loss ~$1,567. [MarketBeat](https://marketbeat.com/instant-alerts/analyst-nikes-nke-buy-rating-reiterated-at-btig-research-2026-11-13)
+
+> **Evening update**
+
+> [!note]- SG & MY: 5th suspect charged in SG's Nvidia server case; Alice Huang barred from re-entry (FMT)
+> Singapore charged Shi Bingzhe on November 13 with 41 counts related to the purchase of 917 restricted AI servers, making him the fifth suspect in the Nvidia chip-smuggling probe. Singapore also confirmed that Alice Huang, the suspected Chinese intelligence operative at the centre of the Megaspeed investigation, has been barred from re-entering the country. Both moves signal authorities are aggressively advancing a case that has already claimed Nvidia CEO Jensen Huang. [Free Malaysia Today](https://www.freemalaysiatoday.com/category/tag/singapore)
+
+> [!note]- Malaysia: MITI says it never cleared Speedmatrix to handle restricted Nvidia chips (Malay Mail)
+> Malaysia's Ministry of Investment, Trade and Industry publicly stated it had never approved Singapore-based Megaspeed International or its Malaysian affiliate, Speedmatrix Sdn Bhd, to deal in US-restricted Nvidia GPUs, directly contradicting any suggestion the firm had government clearance. The ministry said it is cooperating with active investigations. The statement isolates Speedmatrix as operating outside any sanctioned trade framework as the broader chip-smuggling probe widens across both countries. [Malay Mail](https://www.malaymail.com/news/malaysia)
+
+> [!breaking]- World: IRGC says two tankers struck mines south of Hormuz; claims US MQ-1 drone downed (Anadolu)
+> Iran's Islamic Revolutionary Guard Corps Navy announced that two oil tankers hit naval mines and caught fire south of the Strait of Hormuz on November 15, and separately said it shot down a US MQ-1 surveillance drone over Qeshm Island. The incidents mark a sharp reversal from Friday's signals of a partial reopening that had sent oil prices crashing 8%. Reports also indicate the IRGC has declared the strait "closed," though major wire agencies had not confirmed that specific claim as of Sunday morning. [Anadolu Agency](https://www.aa.com.tr/en/world/morning-briefing-nov-15-2026/4125489)
+
+> [!note]- World: US aviation slowly recovers from worst FAA ground stop in 25 years; 6,000+ flights axed (Al Jazeera)
+> The US Federal Aviation Administration lifted a nationwide ground stop late Friday after a communications failure in the L3Harris-managed FTI network disabled all 22 air route traffic control centres for over four hours — the longest such stoppage in roughly 25 years. More than 6,000 flights were cancelled across Friday and Saturday, with the FAA and airlines expecting near-normal operations by Sunday evening. Transportation Secretary Sean Duffy blamed contractor L3Harris but said officials have ruled out a cyberattack. [Al Jazeera](https://www.aljazeera.com/news/2026/11/13/us-grounds-all-flights-after-communication-issue)
+
+> [!note]- Tech: Anthropic cuts IPO target to $1–1.4T amid AI trade wobble; OpenAI also eyeing Q4 listing (Fortune)
+> Anthropic has begun marketing its IPO at a valuation of roughly $1 trillion to $1.4 trillion — well below the $2 trillion figure investors had been targeting earlier in 2026 — after a broader tech sell-off cooled AI-sector appetite. Reuters and Bloomberg sources cite a likely range of $1.2–1.3 trillion, with final terms not yet set. OpenAI is separately eyeing a Q4 listing, setting up a potential twin AI mega-IPO sprint before year-end. [Fortune](https://fortune.com/2026/11/10/anthropic-lower-than-expected-ipo-valuation-smart-strategy-or-red-flag/)
+
+> [!note]- Science: SpaceX catches Starship's upper stage for first time in historic Mechazilla test (CNBC)
+> SpaceX successfully caught Starship's upper stage — the Ship — using the Mechazilla tower arms at Starbase, Texas on November 13, achieving a historic first after previously only catching the Super Heavy booster with the same system. The milestone brings SpaceX significantly closer to a fully reusable orbital stack, which could sharply reduce turnaround times and launch costs. The achievement is expected to accelerate the timeline for NASA's Artemis lunar missions and commercial heavy-lift contracts. [CNBC](https://www.cnbc.com/technology/)
 
 > [!note]- [[11-14-26 Sat]]
 >
