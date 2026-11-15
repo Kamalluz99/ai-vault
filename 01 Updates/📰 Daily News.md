@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-15T19:06
+updated: 2026-11-16T05:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -60,48 +60,73 @@ unread: true
 
 ## 2026-11
 
-### [[11-15-26 Sun]]
+### [[11-16-26 Mon]]
 
-> [!breaking]- AI: Jensen Huang resigns as Nvidia CEO amid Chinese spy chip scandal (Tom's Hardware)
-> Nvidia CEO Jensen Huang stepped down following revelations of an affair with Alice Huang, a woman suspected of being a Chinese intelligence operative at the centre of the Megaspeed chip-smuggling probe. CFO Colette Kress will serve as interim CEO while the board conducts a review. Singapore charged a Chinese national over the purchase of 917 AI servers, while Malaysia's trade ministry examines whether Speedmatrix re-exported restricted Nvidia GPUs. [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/malaysia-and-singapore-step-up-nvidia-ai-chip-probes-as-charges-brought-against-chinese-national-over-917-smuggled-servers-firm-at-center-of-jensen-huang-controversy-announces-inventory-audit-to-account-for-all-restricted-gpus)
+> [!breaking]- AI: Backdoored Claude Code extension hit ~5,000 devs via Cursor/Fireworks key leak (AI Weekly)
+> Cursor confirmed that a leaked Fireworks AI API key allowed attackers to publish a malicious version of the Claude Code VS Code extension, distributing it to approximately 5,000 developers before removal. The backdoor exfiltrated repository contents and credentials to attacker-controlled servers; Anthropic confirmed its own infrastructure was not breached. The incident highlights supply-chain risks in AI-tooling ecosystems as developer IDE extensions become high-value targets. [AI Weekly](https://aiweekly.co/ai-news-today)
 
-> [!note]- Tech: US nonprofits sue OpenAI, Google and Anthropic to freeze frontier AI development (Xenospectrum)
-> Four US nonprofits filed suit in San Francisco Superior Court under California's Unfair Competition Law on November 11–12, targeting frontier-model work at Anthropic, Google, Meta, OpenAI and SpaceX's AI unit. The suit demands a court-ordered freeze on AI model training and deployments, arguing the technology poses existential risks without adequate safety frameworks. The case builds on growing regulatory pressure as New York's RAISE Act prepares to take effect January 1 with up to $1M penalties. [Xenospectrum](https://xenospectrum.com/en/ai-giants-two-lawsuits-slowdown-freeze/)
+> [!note]- Tech: Anthropic IPO expected to price this week at $1–1.4T valuation (Fortune)
+> Anthropic is marketing its IPO during the week of November 16 at a valuation of $1–1.4 trillion, well below the $2 trillion investors had targeted earlier in 2026. OpenAI is also eyeing a Q4 listing, setting up a potential twin AI mega-IPO sprint before year-end. Microsoft Ignite begins November 17 and is expected to bring Copilot and Azure AI announcements. [Fortune](https://fortune.com/2026/11/10/anthropic-lower-than-expected-ipo-valuation-smart-strategy-or-red-flag/)
 
-> [!breaking]- Macro: Iran signals two-day Hormuz reopening; oil crashes ~8%, gold at 13-month low (Benzinga)
-> Iran signalled a possible two-day reopening of the Strait of Hormuz to oil tankers under an interim plan, sending Brent crude down nearly 8% and bond yields lower. Homebuilders, gold miners and regional banks rallied while Polymarket odds of broader escalation fell to 41%. Gold is near a 13-month low (~$3,875–$3,900/oz) and Bitcoin slid toward $69,000, both pressured by a firmer USD and 10-year Treasury yields approaching 5.1%. [Benzinga](https://www.benzinga.com/macro-economic-events)
+> [!note]- Macro: Fed Chair Warsh speaks today; Dec hike odds 75–85% after hot Oct CPI (Kiplinger)
+> Empire State Manufacturing Index prints at 8:30am ET while Fed Chair Kevin Warsh addresses markets at noon ET. December rate-hike odds have climbed to 75–85% following a hotter-than-expected October CPI print, with the Fed's October meeting minutes due Wednesday. Nvidia earnings on Wednesday and Anthropic's IPO pricing are the week's other dominant catalysts. [Kiplinger](https://www.kiplinger.com/investing/economy/this-weeks-economic-calendar)
 
-> [!breaking]- World: Trump confirms first-ever US-China-Russia trilateral summit in Shenzhen next week (Anadolu)
-> The White House confirmed that President Trump will meet Chinese President Xi Jinping and Russian President Vladimir Putin in Shenzhen next week — the first three-way US-China-Russia summit in modern history. Ukraine, Taiwan, and the AI chip supply chain are expected on the agenda. Separately, US media report Trump is reluctant to resume direct military action against Iran even as three tankers were hit by mines in the Hormuz Strait. [Anadolu Agency](https://aa.com.tr/en/world/morning-briefing-nov-14-2026/4124855)
+> [!breaking]- World: Hormuz escalates again — IRGC mines two tankers, downs US drone; strait "closed" (Anadolu)
+> Iran's IRGC hit two tankers with naval mines south of the Strait of Hormuz and claimed it shot down a US MQ-1 surveillance drone over Qeshm Island, sharply reversing Friday's signals of a partial reopening that had crashed oil prices ~8%. The incident coincides with Trump's planned Shenzhen trilateral summit with Xi and Putin this week, where Iran's strait blockade is expected on the agenda. Oil markets will be the first to react when Asian trading opens Monday. [Anadolu Agency](https://www.aa.com.tr/en/world/morning-briefing-nov-15-2026/4125489)
 
-> [!breaking]- Malaysia: BN wins Melaka state election 21-4; PH suffers worst result in years (Malay Mail)
-> Barisan Nasional won 21 of Melaka's 28 state seats in yesterday's 16th state election, with Pakatan Harapan retaining only four (all DAP) and PN three; the BN-PN combined total of 24 gives a two-thirds majority. PH conceded defeat in its worst Melaka result in recent memory, while caretaker CM Ab Rauf Yusoh is set to continue as chief minister. The result is a setback for PM Anwar's coalition following DAP's departure from the Melaka government in July. [Malay Mail](https://www.malaymail.com/news/malaysia/2026/11/14/live-2026-melaka-state-election-voting-ends-first-results-due-by-930pm/243278)
+> [!note]- SG & MY: Cross-border taxi quota raised 300→500 today; PM Wong at 49th ASEAN Summit in Manila (PMO)
+> Singapore and Malaysia raised the cross-border taxi quota from 300 to 500 cabs each effective November 16, adding CDG Zig and Kumpool alongside GrabCar. PM Lawrence Wong is simultaneously attending the 49th ASEAN Summit in Manila through November 17, with regional AI governance and the Hormuz energy impact on Southeast Asia expected as agenda items. [Singapore PMO](https://www.pmo.gov.sg/newsroom/)
 
-> [!note]- Science: Brain activity patterns may predict Alzheimer's risk years before memory decline (ScienceDaily)
-> Stanford researchers identified distinct patterns of brain activity that can predict Alzheimer's disease risk years before any memory problems appear, using neuroimaging to detect subtle deviations invisible to standard clinical tests. The findings could allow earlier intervention during the window when treatments are most effective. RSV vaccines also showed significant infection reduction in a separate study released this week. [ScienceDaily](https://www.sciencedaily.com/)
+> [!note]- Science: NASA warns 2026 El Niño could surpass historic 1997–98 event (ScienceDaily)
+> NASA scientists say satellite sea-surface temperature data suggest the rapidly intensifying 2026 El Niño may exceed the record 1997–98 event, raising the probability of severe winter flooding, drought disruptions, and large-scale coral bleaching. The warning arrives as Singapore and Malaysia are already managing an early-season haze spike and Northeast Monsoon rains. [ScienceDaily](https://sciencedaily.com/releases/2026/11/261114202227.htm)
 
-> [!note]- Nike (NKE): ~$37.73 last close — Investor Day Mon–Tue Nov 16–17 is the key catalyst (MarketBeat)
-> Nike's last close was approximately $37.73 on Friday, with the two-day Investor Day beginning Monday the key near-term catalyst. Stifel expects management to unveil a new financial outlook through FY2031, while analyst ratings remain split: BTIG Buy at $50 vs BofA Underperform at $24 and Truist Sell at $29. Position: 46 shares at $71.69 avg cost; unrealised loss ~$1,567. [MarketBeat](https://marketbeat.com/instant-alerts/analyst-nikes-nke-buy-rating-reiterated-at-btig-research-2026-11-13)
+> [!note]- Nike (NKE): ~$37.74 — Investor Day begins today; first reset under CEO Elliott Hill (MarketBeat)
+> Nike's two-day Investor Day under CEO Elliott Hill kicks off today (Nov 16–17) — the company's first since 2017 — with Stifel expecting management to unveil a new financial framework through FY2031 after several quarters of declining revenue. The stock trades near a 12-year low; Morgan Stanley holds Underweight at $25 PT, while Cantor Fitzgerald initiated at Neutral with $38 PT. Position: 46 shares at $71.69 avg cost; unrealised loss ~$1,566. [MarketBeat](https://www.marketbeat.com/stocks/NASDAQ/NKE)
 
-> **Evening update**
-
-> [!note]- SG & MY: 5th suspect charged in SG's Nvidia server case; Alice Huang barred from re-entry (FMT)
-> Singapore charged Shi Bingzhe on November 13 with 41 counts related to the purchase of 917 restricted AI servers, making him the fifth suspect in the Nvidia chip-smuggling probe. Singapore also confirmed that Alice Huang, the suspected Chinese intelligence operative at the centre of the Megaspeed investigation, has been barred from re-entering the country. Both moves signal authorities are aggressively advancing a case that has already claimed Nvidia CEO Jensen Huang. [Free Malaysia Today](https://www.freemalaysiatoday.com/category/tag/singapore)
-
-> [!note]- Malaysia: MITI says it never cleared Speedmatrix to handle restricted Nvidia chips (Malay Mail)
-> Malaysia's Ministry of Investment, Trade and Industry publicly stated it had never approved Singapore-based Megaspeed International or its Malaysian affiliate, Speedmatrix Sdn Bhd, to deal in US-restricted Nvidia GPUs, directly contradicting any suggestion the firm had government clearance. The ministry said it is cooperating with active investigations. The statement isolates Speedmatrix as operating outside any sanctioned trade framework as the broader chip-smuggling probe widens across both countries. [Malay Mail](https://www.malaymail.com/news/malaysia)
-
-> [!breaking]- World: IRGC says two tankers struck mines south of Hormuz; claims US MQ-1 drone downed (Anadolu)
-> Iran's Islamic Revolutionary Guard Corps Navy announced that two oil tankers hit naval mines and caught fire south of the Strait of Hormuz on November 15, and separately said it shot down a US MQ-1 surveillance drone over Qeshm Island. The incidents mark a sharp reversal from Friday's signals of a partial reopening that had sent oil prices crashing 8%. Reports also indicate the IRGC has declared the strait "closed," though major wire agencies had not confirmed that specific claim as of Sunday morning. [Anadolu Agency](https://www.aa.com.tr/en/world/morning-briefing-nov-15-2026/4125489)
-
-> [!note]- World: US aviation slowly recovers from worst FAA ground stop in 25 years; 6,000+ flights axed (Al Jazeera)
-> The US Federal Aviation Administration lifted a nationwide ground stop late Friday after a communications failure in the L3Harris-managed FTI network disabled all 22 air route traffic control centres for over four hours — the longest such stoppage in roughly 25 years. More than 6,000 flights were cancelled across Friday and Saturday, with the FAA and airlines expecting near-normal operations by Sunday evening. Transportation Secretary Sean Duffy blamed contractor L3Harris but said officials have ruled out a cyberattack. [Al Jazeera](https://www.aljazeera.com/news/2026/11/13/us-grounds-all-flights-after-communication-issue)
-
-> [!note]- Tech: Anthropic cuts IPO target to $1–1.4T amid AI trade wobble; OpenAI also eyeing Q4 listing (Fortune)
-> Anthropic has begun marketing its IPO at a valuation of roughly $1 trillion to $1.4 trillion — well below the $2 trillion figure investors had been targeting earlier in 2026 — after a broader tech sell-off cooled AI-sector appetite. Reuters and Bloomberg sources cite a likely range of $1.2–1.3 trillion, with final terms not yet set. OpenAI is separately eyeing a Q4 listing, setting up a potential twin AI mega-IPO sprint before year-end. [Fortune](https://fortune.com/2026/11/10/anthropic-lower-than-expected-ipo-valuation-smart-strategy-or-red-flag/)
-
-> [!note]- Science: SpaceX catches Starship's upper stage for first time in historic Mechazilla test (CNBC)
-> SpaceX successfully caught Starship's upper stage — the Ship — using the Mechazilla tower arms at Starbase, Texas on November 13, achieving a historic first after previously only catching the Super Heavy booster with the same system. The milestone brings SpaceX significantly closer to a fully reusable orbital stack, which could sharply reduce turnaround times and launch costs. The achievement is expected to accelerate the timeline for NASA's Artemis lunar missions and commercial heavy-lift contracts. [CNBC](https://www.cnbc.com/technology/)
+> [!note]- [[11-15-26 Sun]]
+>
+> > [!breaking]- AI: Jensen Huang resigns as Nvidia CEO amid Chinese spy chip scandal (Tom's Hardware)
+> > Nvidia CEO Jensen Huang stepped down following revelations of an affair with Alice Huang, a woman suspected of being a Chinese intelligence operative at the centre of the Megaspeed chip-smuggling probe. CFO Colette Kress will serve as interim CEO while the board conducts a review. Singapore charged a Chinese national over the purchase of 917 AI servers, while Malaysia's trade ministry examines whether Speedmatrix re-exported restricted Nvidia GPUs. [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/malaysia-and-singapore-step-up-nvidia-ai-chip-probes-as-charges-brought-against-chinese-national-over-917-smuggled-servers-firm-at-center-of-jensen-huang-controversy-announces-inventory-audit-to-account-for-all-restricted-gpus)
+>
+> > [!note]- Tech: US nonprofits sue OpenAI, Google and Anthropic to freeze frontier AI development (Xenospectrum)
+> > Four US nonprofits filed suit in San Francisco Superior Court under California's Unfair Competition Law on November 11–12, targeting frontier-model work at Anthropic, Google, Meta, OpenAI and SpaceX's AI unit. The suit demands a court-ordered freeze on AI model training and deployments, arguing the technology poses existential risks without adequate safety frameworks. The case builds on growing regulatory pressure as New York's RAISE Act prepares to take effect January 1 with up to $1M penalties. [Xenospectrum](https://xenospectrum.com/en/ai-giants-two-lawsuits-slowdown-freeze/)
+>
+> > [!breaking]- Macro: Iran signals two-day Hormuz reopening; oil crashes ~8%, gold at 13-month low (Benzinga)
+> > Iran signalled a possible two-day reopening of the Strait of Hormuz to oil tankers under an interim plan, sending Brent crude down nearly 8% and bond yields lower. Homebuilders, gold miners and regional banks rallied while Polymarket odds of broader escalation fell to 41%. Gold is near a 13-month low (~$3,875–$3,900/oz) and Bitcoin slid toward $69,000, both pressured by a firmer USD and 10-year Treasury yields approaching 5.1%. [Benzinga](https://www.benzinga.com/macro-economic-events)
+>
+> > [!breaking]- World: Trump confirms first-ever US-China-Russia trilateral summit in Shenzhen next week (Anadolu)
+> > The White House confirmed that President Trump will meet Chinese President Xi Jinping and Russian President Vladimir Putin in Shenzhen next week — the first three-way US-China-Russia summit in modern history. Ukraine, Taiwan, and the AI chip supply chain are expected on the agenda. Separately, US media report Trump is reluctant to resume direct military action against Iran even as three tankers were hit by mines in the Hormuz Strait. [Anadolu Agency](https://aa.com.tr/en/world/morning-briefing-nov-14-2026/4124855)
+>
+> > [!breaking]- Malaysia: BN wins Melaka state election 21-4; PH suffers worst result in years (Malay Mail)
+> > Barisan Nasional won 21 of Melaka's 28 state seats in yesterday's 16th state election, with Pakatan Harapan retaining only four (all DAP) and PN three; the BN-PN combined total of 24 gives a two-thirds majority. PH conceded defeat in its worst Melaka result in recent memory, while caretaker CM Ab Rauf Yusoh is set to continue as chief minister. The result is a setback for PM Anwar's coalition following DAP's departure from the Melaka government in July. [Malay Mail](https://www.malaymail.com/news/malaysia/2026/11/14/live-2026-melaka-state-election-voting-ends-first-results-due-by-930pm/243278)
+>
+> > [!note]- Science: Brain activity patterns may predict Alzheimer's risk years before memory decline (ScienceDaily)
+> > Stanford researchers identified distinct patterns of brain activity that can predict Alzheimer's disease risk years before any memory problems appear, using neuroimaging to detect subtle deviations invisible to standard clinical tests. The findings could allow earlier intervention during the window when treatments are most effective. RSV vaccines also showed significant infection reduction in a separate study released this week. [ScienceDaily](https://www.sciencedaily.com/)
+>
+> > [!note]- Nike (NKE): ~$37.73 last close — Investor Day Mon–Tue Nov 16–17 is the key catalyst (MarketBeat)
+> > Nike's last close was approximately $37.73 on Friday, with the two-day Investor Day beginning Monday the key near-term catalyst. Stifel expects management to unveil a new financial outlook through FY2031, while analyst ratings remain split: BTIG Buy at $50 vs BofA Underperform at $24 and Truist Sell at $29. Position: 46 shares at $71.69 avg cost; unrealised loss ~$1,567. [MarketBeat](https://marketbeat.com/instant-alerts/analyst-nikes-nke-buy-rating-reiterated-at-btig-research-2026-11-13)
+>
+> > **Evening update**
+>
+> > [!note]- SG & MY: 5th suspect charged in SG's Nvidia server case; Alice Huang barred from re-entry (FMT)
+> > Singapore charged Shi Bingzhe on November 13 with 41 counts related to the purchase of 917 restricted AI servers, making him the fifth suspect in the Nvidia chip-smuggling probe. Singapore also confirmed that Alice Huang, the suspected Chinese intelligence operative at the centre of the Megaspeed investigation, has been barred from re-entering the country. Both moves signal authorities are aggressively advancing a case that has already claimed Nvidia CEO Jensen Huang. [Free Malaysia Today](https://www.freemalaysiatoday.com/category/tag/singapore)
+>
+> > [!note]- Malaysia: MITI says it never cleared Speedmatrix to handle restricted Nvidia chips (Malay Mail)
+> > Malaysia's Ministry of Investment, Trade and Industry publicly stated it had never approved Singapore-based Megaspeed International or its Malaysian affiliate, Speedmatrix Sdn Bhd, to deal in US-restricted Nvidia GPUs, directly contradicting any suggestion the firm had government clearance. The ministry said it is cooperating with active investigations. The statement isolates Speedmatrix as operating outside any sanctioned trade framework as the broader chip-smuggling probe widens across both countries. [Malay Mail](https://www.malaymail.com/news/malaysia)
+>
+> > [!breaking]- World: IRGC says two tankers struck mines south of Hormuz; claims US MQ-1 drone downed (Anadolu)
+> > Iran's Islamic Revolutionary Guard Corps Navy announced that two oil tankers hit naval mines and caught fire south of the Strait of Hormuz on November 15, and separately said it shot down a US MQ-1 surveillance drone over Qeshm Island. The incidents mark a sharp reversal from Friday's signals of a partial reopening that had sent oil prices crashing 8%. Reports also indicate the IRGC has declared the strait "closed," though major wire agencies had not confirmed that specific claim as of Sunday morning. [Anadolu Agency](https://www.aa.com.tr/en/world/morning-briefing-nov-15-2026/4125489)
+>
+> > [!note]- World: US aviation slowly recovers from worst FAA ground stop in 25 years; 6,000+ flights axed (Al Jazeera)
+> > The US Federal Aviation Administration lifted a nationwide ground stop late Friday after a communications failure in the L3Harris-managed FTI network disabled all 22 air route traffic control centres for over four hours — the longest such stoppage in roughly 25 years. More than 6,000 flights were cancelled across Friday and Saturday, with the FAA and airlines expecting near-normal operations by Sunday evening. Transportation Secretary Sean Duffy blamed contractor L3Harris but said officials have ruled out a cyberattack. [Al Jazeera](https://www.aljazeera.com/news/2026/11/13/us-grounds-all-flights-after-communication-issue)
+>
+> > [!note]- Tech: Anthropic cuts IPO target to $1–1.4T amid AI trade wobble; OpenAI also eyeing Q4 listing (Fortune)
+> > Anthropic has begun marketing its IPO at a valuation of roughly $1 trillion to $1.4 trillion — well below the $2 trillion figure investors had been targeting earlier in 2026 — after a broader tech sell-off cooled AI-sector appetite. Reuters and Bloomberg sources cite a likely range of $1.2–1.3 trillion, with final terms not yet set. OpenAI is separately eyeing a Q4 listing, setting up a potential twin AI mega-IPO sprint before year-end. [Fortune](https://fortune.com/2026/11/10/anthropic-lower-than-expected-ipo-valuation-smart-strategy-or-red-flag/)
+>
+> > [!note]- Science: SpaceX catches Starship's upper stage for first time in historic Mechazilla test (CNBC)
+> > SpaceX successfully caught Starship's upper stage — the Ship — using the Mechazilla tower arms at Starbase, Texas on November 13, achieving a historic first after previously only catching the Super Heavy booster with the same system. The milestone brings SpaceX significantly closer to a fully reusable orbital stack, which could sharply reduce turnaround times and launch costs. The achievement is expected to accelerate the timeline for NASA's Artemis lunar missions and commercial heavy-lift contracts. [CNBC](https://www.cnbc.com/technology/)
+>
+>
 
 > [!note]- [[11-14-26 Sat]]
 >
