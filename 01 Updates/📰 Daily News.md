@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-16T05:00
+updated: 2026-11-16T05:13
 topic: daily news
 frequency: daily
 ongoing: false
@@ -62,26 +62,23 @@ unread: true
 
 ### [[11-16-26 Mon]]
 
-> [!breaking]- AI: Backdoored Claude Code extension hit ~5,000 devs via Cursor/Fireworks key leak (AI Weekly)
-> Cursor confirmed that a leaked Fireworks AI API key allowed attackers to publish a malicious version of the Claude Code VS Code extension, distributing it to approximately 5,000 developers before removal. The backdoor exfiltrated repository contents and credentials to attacker-controlled servers; Anthropic confirmed its own infrastructure was not breached. The incident highlights supply-chain risks in AI-tooling ecosystems as developer IDE extensions become high-value targets. [AI Weekly](https://aiweekly.co/ai-news-today)
+> [!note]- AI: Google Gemini 4 Hydrogen released; successor to 3.8 Flash now on paid API (LLM Gateway)
+> Google released Gemini 4 Hydrogen on November 13 — the successor to Gemini 3.8 Flash — marking the newest frontier model from any major lab. It opened to paid API users ahead of a planned December 1 price increase. Anthropic's Claude Fable 5.2 and restricted Mythos 5.2 also shipped November 9, keeping the pace of frontier releases elevated heading into year-end. [LLM Gateway](https://llmgateway.io/timeline)
 
-> [!note]- Tech: Anthropic IPO expected to price this week at $1–1.4T valuation (Fortune)
-> Anthropic is marketing its IPO during the week of November 16 at a valuation of $1–1.4 trillion, well below the $2 trillion investors had targeted earlier in 2026. OpenAI is also eyeing a Q4 listing, setting up a potential twin AI mega-IPO sprint before year-end. Microsoft Ignite begins November 17 and is expected to bring Copilot and Azure AI announcements. [Fortune](https://fortune.com/2026/11/10/anthropic-lower-than-expected-ipo-valuation-smart-strategy-or-red-flag/)
+> [!note]- Tech: Upwork to cut 37% of global workforce as AI automation reshapes freelance platform (TrueUp)
+> Upwork announced plans to eliminate approximately 37% of its global headcount — the most dramatic single-company cut of the week — as the platform pivots toward AI-assisted matching and reduces manual support roles. It joins Canva (1,271 affected), Qualcomm (~1,500 India jobs), and Squarespace (~300) in a tech-jobs wave that has surpassed 200,000 cuts globally in 2026. [TrueUp](https://www.trueup.io/layoffs)
 
-> [!note]- Macro: Fed Chair Warsh speaks today; Dec hike odds 75–85% after hot Oct CPI (Kiplinger)
-> Empire State Manufacturing Index prints at 8:30am ET while Fed Chair Kevin Warsh addresses markets at noon ET. December rate-hike odds have climbed to 75–85% following a hotter-than-expected October CPI print, with the Fed's October meeting minutes due Wednesday. Nvidia earnings on Wednesday and Anthropic's IPO pricing are the week's other dominant catalysts. [Kiplinger](https://www.kiplinger.com/investing/economy/this-weeks-economic-calendar)
+> [!note]- Macro: US 10-year yield breaks 5%; gold slides to $3,881 on hot CPI and Fed tightening bets (Rio Times)
+> The US 10-year Treasury yield topped 5% on November 13 as gold fell roughly 2.5% to around $3,881/oz, pressured by a hotter-than-expected October CPI and rising odds of a December Fed hike. Bitcoin dropped 3.5% to ~$71,400 while crude remained volatile on Hormuz tensions. Fed Chair Warsh speaks today with December hike odds near 75–85%. [Rio Times](https://www.riotimesonline.com/global-economy-briefing-november-13-2026/)
 
-> [!breaking]- World: Hormuz escalates again — IRGC mines two tankers, downs US drone; strait "closed" (Anadolu)
-> Iran's IRGC hit two tankers with naval mines south of the Strait of Hormuz and claimed it shot down a US MQ-1 surveillance drone over Qeshm Island, sharply reversing Friday's signals of a partial reopening that had crashed oil prices ~8%. The incident coincides with Trump's planned Shenzhen trilateral summit with Xi and Putin this week, where Iran's strait blockade is expected on the agenda. Oil markets will be the first to react when Asian trading opens Monday. [Anadolu Agency](https://www.aa.com.tr/en/world/morning-briefing-nov-15-2026/4125489)
+> [!breaking]- World: Bahrain intercepts Iranian strikes; IRGC mines tankers, downs US drone near Hormuz (CBS News)
+> Bahrain said it intercepted Iranian attacks after Tehran claimed it targeted US assets in the Gulf, escalating the conflict that began in February 2026. Iran's IRGC struck two tankers with mines south of the Strait of Hormuz and claimed to have downed a US MQ-1 drone over Qeshm Island, reversing last week's partial-reopening signals. Trump's Shenzhen trilateral summit with Xi and Putin this week is expected to put the Hormuz blockade on the agenda. [CBS News](https://www.cbsnews.com/live-updates/us-iran-war-trump-nuclear-material-no-deal/)
 
-> [!note]- SG & MY: Cross-border taxi quota raised 300→500 today; PM Wong at 49th ASEAN Summit in Manila (PMO)
-> Singapore and Malaysia raised the cross-border taxi quota from 300 to 500 cabs each effective November 16, adding CDG Zig and Kumpool alongside GrabCar. PM Lawrence Wong is simultaneously attending the 49th ASEAN Summit in Manila through November 17, with regional AI governance and the Hormuz energy impact on Southeast Asia expected as agenda items. [Singapore PMO](https://www.pmo.gov.sg/newsroom/)
+> [!note]- Malaysia: Melaka declares Nov 16 public holiday after BN-PN two-thirds sweep; Macron arrives for rare earth talks (The Vibes)
+> Melaka declared today a special state holiday after the BN-PN coalition won 24 of 28 seats in Saturday's election — Barisan alone took 21, with Pakatan retaining only four. French President Macron lands in Malaysia today for a two-day visit centred on securing alternative rare earth supplies, his first trip since 2017. PM Anwar is returning from Manila's ASEAN Summit to receive Macron tomorrow morning. [The Vibes](https://www.thevibes.com/articles/news/129595/melaka-declares-special-holiday-tomorrow-in-recognition-of-the-peoples-mandate)
 
-> [!note]- Science: NASA warns 2026 El Niño could surpass historic 1997–98 event (ScienceDaily)
-> NASA scientists say satellite sea-surface temperature data suggest the rapidly intensifying 2026 El Niño may exceed the record 1997–98 event, raising the probability of severe winter flooding, drought disruptions, and large-scale coral bleaching. The warning arrives as Singapore and Malaysia are already managing an early-season haze spike and Northeast Monsoon rains. [ScienceDaily](https://sciencedaily.com/releases/2026/11/261114202227.htm)
-
-> [!note]- Nike (NKE): ~$37.74 — Investor Day begins today; first reset under CEO Elliott Hill (MarketBeat)
-> Nike's two-day Investor Day under CEO Elliott Hill kicks off today (Nov 16–17) — the company's first since 2017 — with Stifel expecting management to unveil a new financial framework through FY2031 after several quarters of declining revenue. The stock trades near a 12-year low; Morgan Stanley holds Underweight at $25 PT, while Cantor Fitzgerald initiated at Neutral with $38 PT. Position: 46 shares at $71.69 avg cost; unrealised loss ~$1,566. [MarketBeat](https://www.marketbeat.com/stocks/NASDAQ/NKE)
+> [!note]- Science: ESA Euclid discovers 31 ancient quasars including two record-breaking objects (ScienceDaily)
+> The European Space Agency's Euclid telescope identified 31 ancient quasars — including two that set distance or luminosity records — in findings from its early-science data release. The discovery showcases Euclid's power for mapping the deep universe after its 2023 launch. Separately, a large-scale health study linked even occasional marijuana use to 40% higher odds of stroke. [ScienceDaily](https://www.sciencedaily.com/news/)
 
 > [!note]- [[11-15-26 Sun]]
 >
