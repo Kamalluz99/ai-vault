@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-16T05:13
+updated: 2026-11-16T19:05
 topic: daily news
 frequency: daily
 ongoing: false
@@ -79,6 +79,26 @@ unread: true
 
 > [!note]- Science: ESA Euclid discovers 31 ancient quasars including two record-breaking objects (ScienceDaily)
 > The European Space Agency's Euclid telescope identified 31 ancient quasars — including two that set distance or luminosity records — in findings from its early-science data release. The discovery showcases Euclid's power for mapping the deep universe after its 2023 launch. Separately, a large-scale health study linked even occasional marijuana use to 40% higher odds of stroke. [ScienceDaily](https://www.sciencedaily.com/news/)
+
+> **Evening update**
+
+> [!note]- SG & MY: Indonesia's Prabowo apologises to Malaysia and Singapore for 4-month haze crisis (The Star)
+> At the 49th ASEAN Summit in Manila, President Prabowo issued a formal apology to Malaysia and Singapore for near-continuous transboundary haze from Indonesian forest and peat fires over four months. Indonesia deployed 71,000 firefighters against the blazes, losing 16 lives and two helicopters. Singapore's PM Lawrence Wong called for an ASEAN-wide crackdown on firms responsible for forest fires and pushed for a regional haze control hub. Singapore and Indonesia have also agreed to establish a joint task force to investigate companies linked to the fires. [The Star](https://www.thestar.com.my/news/nation/2026/11/16/prabowo-apologises-to-malaysia-and-singapore-over-transboundary-haze)
+
+> [!note]- Malaysia: Macron meets Anwar in KL; France seeks rare earth supply diversification away from China (The Vibes)
+> French President Macron began a two-day state visit to Malaysia today, meeting PM Anwar Ibrahim to advance rare earth supply agreements as France seeks to diversify critical mineral sourcing away from China. The visit — Macron's first to Malaysia since 2017 — also covers defence cooperation and digital economy ties, with Anwar returning directly from the ASEAN Summit in Manila to receive his French counterpart. The meeting underscores how Southeast Asia is increasingly courted as a strategic supplier by Western powers amid ongoing supply chain realignments. [The Vibes](https://www.thevibes.com)
+
+> [!breaking]- World: Iran strikes Bahrain again; USS Theodore Roosevelt steaming toward Gulf (Anadolu)
+> Iran launched a second drone attack on Bahrain on Sunday — the second in three days — with the Islamic Revolutionary Guard Corps claiming successful strikes while Bahrain said its defences intercepted all projectiles. The USS Theodore Roosevelt carrier group is reportedly heading to the Middle East, which would bring US carrier presence in the region to three. Peace talks between Washington and Tehran remain stalled, as Trump's departure for the historic Shenzhen trilateral summit casts uncertainty over US strategic intentions in the Gulf. [Anadolu Agency](https://www.aa.com.tr/en/world/morning-briefing-nov-16-2026/4126094)
+
+> [!breaking]- World: Trump departs for historic US-China-Russia trilateral summit in Shenzhen (10 Things News)
+> President Trump departed for Asia today for the first-ever US-China-Russia trilateral summit to be held in Shenzhen, with nuclear weapons reduction at the top of the agenda following the expiry of the last major US-Russia arms treaty in February. Trump will meet both Xi Jinping and Vladimir Putin in what will be the most consequential three-way great-power summit in modern history. Ukraine, Taiwan, and AI export controls are expected on the sidelines as all three powers navigate the Gulf crisis and global AI chip trade war simultaneously. [10 Things Global News](https://www.10things.news/p/10-things-global-news-16th-november)
+
+> [!note]- Tech: US may designate Nvidia, OpenAI, Anthropic as AI national champions this week (BusinessToday)
+> The Trump administration is expected to designate over two dozen US companies — including Nvidia, Amazon, Microsoft, OpenAI, and Anthropic — as AI "national champions" within the week, granting them fast-tracked export approvals for chip and technology deals overseas. The Wall Street Journal reported the designations would help chosen firms win international deals while giving Washington leverage over how US AI technology spreads globally. The move comes as Nvidia navigates Jensen Huang's abrupt exit and pivots toward its role as a government-backed strategic asset in the AI race. [BusinessToday](https://businesstoday.in/technology/news/story/us-taps-nvidia-and-other-ai-giants-to-strengthen-its-global-tech-dominance-all-details-567674-2026-11-16)
+
+> [!note]- Science/Economy: Japan GDP contracts 0.1%; chipmakers fall as Nvidia earnings loom post-Jensen (InvestingLive)
+> Japan's economy contracted 0.1% in the third quarter — its first quarterly decline in four quarters — as elevated inflation squeezed household spending. Asian chipmakers led regional stock declines on Monday, with SK Hynix sliding over 6% on a double hit of Nvidia leadership uncertainty and looming US export curbs. Nvidia's first earnings call without Jensen Huang and the Anthropic IPO are seen as the two biggest market catalysts before year-end, with AI sector sentiment on a knife edge. [InvestingLive](https://investinglive.com/news/investinglive-asia-pacific-market-news-chipmakers-hit-ahead-of-nvidia)
 
 > [!note]- [[11-15-26 Sun]]
 >
