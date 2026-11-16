@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-16T19:05
+updated: 2026-11-17T05:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -60,45 +60,68 @@ unread: true
 
 ## 2026-11
 
-### [[11-16-26 Mon]]
+### [[11-17-26 Tue]]
 
-> [!note]- AI: Google Gemini 4 Hydrogen released; successor to 3.8 Flash now on paid API (LLM Gateway)
-> Google released Gemini 4 Hydrogen on November 13 — the successor to Gemini 3.8 Flash — marking the newest frontier model from any major lab. It opened to paid API users ahead of a planned December 1 price increase. Anthropic's Claude Fable 5.2 and restricted Mythos 5.2 also shipped November 9, keeping the pace of frontier releases elevated heading into year-end. [LLM Gateway](https://llmgateway.io/timeline)
+> [!note]- AI: Altman reassures AI industry after Huang ouster; Trump to name Nvidia, OpenAI as national champions (Bloomberg)
+> Sam Altman told a Semafor conference that the AI industry will be fine following Jensen Huang's abrupt exit from Nvidia, citing strong revenue and demand growth. Separately, the Trump administration is expected this week to formally designate over two dozen US companies — including Nvidia, Amazon, Microsoft, OpenAI, and Anthropic — as AI "national champions" eligible for fast-tracked export approvals. The designations are Washington's strategic move to help US firms win international deals while controlling how AI technology spreads globally. [Bloomberg](https://bloomberg.com/news/articles/2026-11-16/altman-says-ai-industry-will-be-fine-after-huang-s-ouster)
 
-> [!note]- Tech: Upwork to cut 37% of global workforce as AI automation reshapes freelance platform (TrueUp)
-> Upwork announced plans to eliminate approximately 37% of its global headcount — the most dramatic single-company cut of the week — as the platform pivots toward AI-assisted matching and reduces manual support roles. It joins Canva (1,271 affected), Qualcomm (~1,500 India jobs), and Squarespace (~300) in a tech-jobs wave that has surpassed 200,000 cuts globally in 2026. [TrueUp](https://www.trueup.io/layoffs)
+> [!breaking]- Tech: Anthropic IPO priced at $70–$78/share; Nvidia reports first earnings without Jensen Huang today (Bloomberg)
+> Anthropic set a price range of $70 to $78 per share for its IPO, with pricing expected November 18 and Nasdaq trading beginning under ticker ANT on November 19 — one of the largest tech IPOs of the decade. Nvidia also reports fiscal Q3 earnings today, its first results call without founder Jensen Huang and the first real test of whether AI hardware demand can hold without him. Microsoft Ignite 2026 opens in San Francisco through November 20. [Bloomberg](https://bloomberg.com/news/articles/2026-11-16/altman-says-ai-industry-will-be-fine-after-huang-s-ouster)
 
-> [!note]- Macro: US 10-year yield breaks 5%; gold slides to $3,881 on hot CPI and Fed tightening bets (Rio Times)
-> The US 10-year Treasury yield topped 5% on November 13 as gold fell roughly 2.5% to around $3,881/oz, pressured by a hotter-than-expected October CPI and rising odds of a December Fed hike. Bitcoin dropped 3.5% to ~$71,400 while crude remained volatile on Hormuz tensions. Fed Chair Warsh speaks today with December hike odds near 75–85%. [Rio Times](https://www.riotimesonline.com/global-economy-briefing-november-13-2026/)
+> [!note]- Macro: Nvidia earnings in focus; US Oct retail sales & industrial production due; 10-yr yield ~5.14% (Rio Times)
+> Markets are on edge ahead of Nvidia's earnings call today, with US October retail sales and industrial production data also due — prior retail reading was +0.2%. The 10-year US Treasury yield stands at ~5.14%, up 29 basis points last week on hot CPI at 3.7%; Bitcoin futures fell nearly 7% in early Monday trading. Home Depot and Disney also report today, and ECB policymakers signal a December hike followed by a pause. [Rio Times](https://www.riotimesonline.com/key-market-events-for-the-week-of-november-16-20-2026/)
 
-> [!breaking]- World: Bahrain intercepts Iranian strikes; IRGC mines tankers, downs US drone near Hormuz (CBS News)
-> Bahrain said it intercepted Iranian attacks after Tehran claimed it targeted US assets in the Gulf, escalating the conflict that began in February 2026. Iran's IRGC struck two tankers with mines south of the Strait of Hormuz and claimed to have downed a US MQ-1 drone over Qeshm Island, reversing last week's partial-reopening signals. Trump's Shenzhen trilateral summit with Xi and Putin this week is expected to put the Hormuz blockade on the agenda. [CBS News](https://www.cbsnews.com/live-updates/us-iran-war-trump-nuclear-material-no-deal/)
+> [!note]- World: Trump floats Kim Jong-un meeting at APEC; Modi at ASEAN-India Summit in Manila (SBS Korea)
+> President Trump, attending the APEC summit, said he could potentially meet North Korean leader Kim Jong-un in China on the sidelines — adding it depends on Xi Jinping. India's PM Modi is in Manila for the 23rd ASEAN-India Summit and 21st East Asia Summit. The flurry of APEC diplomacy follows the historic Shenzhen trilateral summit, keeping great-power activity at a peak. [SBS Korea](https://news.sbs.co.kr/english/article.do?news_id=N1008848853)
 
-> [!note]- Malaysia: Melaka declares Nov 16 public holiday after BN-PN two-thirds sweep; Macron arrives for rare earth talks (The Vibes)
-> Melaka declared today a special state holiday after the BN-PN coalition won 24 of 28 seats in Saturday's election — Barisan alone took 21, with Pakatan retaining only four. French President Macron lands in Malaysia today for a two-day visit centred on securing alternative rare earth supplies, his first trip since 2017. PM Anwar is returning from Manila's ASEAN Summit to receive Macron tomorrow morning. [The Vibes](https://www.thevibes.com/articles/news/129595/melaka-declares-special-holiday-tomorrow-in-recognition-of-the-peoples-mandate)
+> [!note]- SG & MY: Prabowo formally apologises to Malaysia and Singapore for 4-month haze at ASEAN Summit (Manila Times)
+> At the 49th ASEAN Summit in Manila, Indonesian President Prabowo issued a formal apology to Malaysia and Singapore for near-continuous transboundary haze from forest and peat fires over four months, citing 71,000 firefighters deployed and 2.88 million hectares burned. Meanwhile, both countries are advancing Nvidia chip-smuggling probes — Singapore charged an executive over 917 smuggled AI servers, and Speedmatrix in Malaysia announced a full inventory audit of restricted GPUs. [Manila Times](https://www.manilatimes.net/2026/11/17/world/asia-oceania/indonesia-apologizes-to-malaysia-singapore-over-toxic-haze/2470830)
 
-> [!note]- Science: ESA Euclid discovers 31 ancient quasars including two record-breaking objects (ScienceDaily)
-> The European Space Agency's Euclid telescope identified 31 ancient quasars — including two that set distance or luminosity records — in findings from its early-science data release. The discovery showcases Euclid's power for mapping the deep universe after its 2023 launch. Separately, a large-scale health study linked even occasional marijuana use to 40% higher odds of stroke. [ScienceDaily](https://www.sciencedaily.com/news/)
+> [!note]- Science: Stanford brain activity patterns may predict Alzheimer's risk years before symptoms appear (ScienceDaily)
+> Stanford researchers identified distinct neuroimaging patterns of brain activity that can forecast Alzheimer's disease risk years before memory problems emerge, well ahead of standard clinical detection windows. The findings could allow earlier intervention during the period when treatments are most effective. Separately, the US has lost its measles elimination status per the Pan American Health Organization. [ScienceDaily](https://www.sciencedaily.com/)
 
-> **Evening update**
+> [!note]- Nike (NKE): $37.88 (−0.29%) — first Investor Day in 9 years today; Wall Street Hold, avg target $36.45 (Benzinga)
+> Nike holds its first investor day in nine years today, with management expected to unveil a new financial outlook through FY2031 as the stock trades near 2014 levels, down ~80% from its all-time high. Cantor Fitzgerald initiated with Neutral at $38; Truist maintains Sell at $29; Wall Street consensus is Hold with a $36.45 average target. Position: 46 shares at $71.69 avg cost; unrealised loss ~$1,560. [Benzinga](https://www.benzinga.com/trading-ideas/movers/26/11/63305130/whats-going-on-with-nike-stock-today-2)
 
-> [!note]- SG & MY: Indonesia's Prabowo apologises to Malaysia and Singapore for 4-month haze crisis (The Star)
-> At the 49th ASEAN Summit in Manila, President Prabowo issued a formal apology to Malaysia and Singapore for near-continuous transboundary haze from Indonesian forest and peat fires over four months. Indonesia deployed 71,000 firefighters against the blazes, losing 16 lives and two helicopters. Singapore's PM Lawrence Wong called for an ASEAN-wide crackdown on firms responsible for forest fires and pushed for a regional haze control hub. Singapore and Indonesia have also agreed to establish a joint task force to investigate companies linked to the fires. [The Star](https://www.thestar.com.my/news/nation/2026/11/16/prabowo-apologises-to-malaysia-and-singapore-over-transboundary-haze)
-
-> [!note]- Malaysia: Macron meets Anwar in KL; France seeks rare earth supply diversification away from China (The Vibes)
-> French President Macron began a two-day state visit to Malaysia today, meeting PM Anwar Ibrahim to advance rare earth supply agreements as France seeks to diversify critical mineral sourcing away from China. The visit — Macron's first to Malaysia since 2017 — also covers defence cooperation and digital economy ties, with Anwar returning directly from the ASEAN Summit in Manila to receive his French counterpart. The meeting underscores how Southeast Asia is increasingly courted as a strategic supplier by Western powers amid ongoing supply chain realignments. [The Vibes](https://www.thevibes.com)
-
-> [!breaking]- World: Iran strikes Bahrain again; USS Theodore Roosevelt steaming toward Gulf (Anadolu)
-> Iran launched a second drone attack on Bahrain on Sunday — the second in three days — with the Islamic Revolutionary Guard Corps claiming successful strikes while Bahrain said its defences intercepted all projectiles. The USS Theodore Roosevelt carrier group is reportedly heading to the Middle East, which would bring US carrier presence in the region to three. Peace talks between Washington and Tehran remain stalled, as Trump's departure for the historic Shenzhen trilateral summit casts uncertainty over US strategic intentions in the Gulf. [Anadolu Agency](https://www.aa.com.tr/en/world/morning-briefing-nov-16-2026/4126094)
-
-> [!breaking]- World: Trump departs for historic US-China-Russia trilateral summit in Shenzhen (10 Things News)
-> President Trump departed for Asia today for the first-ever US-China-Russia trilateral summit to be held in Shenzhen, with nuclear weapons reduction at the top of the agenda following the expiry of the last major US-Russia arms treaty in February. Trump will meet both Xi Jinping and Vladimir Putin in what will be the most consequential three-way great-power summit in modern history. Ukraine, Taiwan, and AI export controls are expected on the sidelines as all three powers navigate the Gulf crisis and global AI chip trade war simultaneously. [10 Things Global News](https://www.10things.news/p/10-things-global-news-16th-november)
-
-> [!note]- Tech: US may designate Nvidia, OpenAI, Anthropic as AI national champions this week (BusinessToday)
-> The Trump administration is expected to designate over two dozen US companies — including Nvidia, Amazon, Microsoft, OpenAI, and Anthropic — as AI "national champions" within the week, granting them fast-tracked export approvals for chip and technology deals overseas. The Wall Street Journal reported the designations would help chosen firms win international deals while giving Washington leverage over how US AI technology spreads globally. The move comes as Nvidia navigates Jensen Huang's abrupt exit and pivots toward its role as a government-backed strategic asset in the AI race. [BusinessToday](https://businesstoday.in/technology/news/story/us-taps-nvidia-and-other-ai-giants-to-strengthen-its-global-tech-dominance-all-details-567674-2026-11-16)
-
-> [!note]- Science/Economy: Japan GDP contracts 0.1%; chipmakers fall as Nvidia earnings loom post-Jensen (InvestingLive)
-> Japan's economy contracted 0.1% in the third quarter — its first quarterly decline in four quarters — as elevated inflation squeezed household spending. Asian chipmakers led regional stock declines on Monday, with SK Hynix sliding over 6% on a double hit of Nvidia leadership uncertainty and looming US export curbs. Nvidia's first earnings call without Jensen Huang and the Anthropic IPO are seen as the two biggest market catalysts before year-end, with AI sector sentiment on a knife edge. [InvestingLive](https://investinglive.com/news/investinglive-asia-pacific-market-news-chipmakers-hit-ahead-of-nvidia)
+> [!note]- [[11-16-26 Mon]]
+>
+> > [!note]- AI: Google Gemini 4 Hydrogen released; successor to 3.8 Flash now on paid API (LLM Gateway)
+> > Google released Gemini 4 Hydrogen on November 13 — the successor to Gemini 3.8 Flash — marking the newest frontier model from any major lab. It opened to paid API users ahead of a planned December 1 price increase. Anthropic's Claude Fable 5.2 and restricted Mythos 5.2 also shipped November 9, keeping the pace of frontier releases elevated heading into year-end. [LLM Gateway](https://llmgateway.io/timeline)
+>
+> > [!note]- Tech: Upwork to cut 37% of global workforce as AI automation reshapes freelance platform (TrueUp)
+> > Upwork announced plans to eliminate approximately 37% of its global headcount — the most dramatic single-company cut of the week — as the platform pivots toward AI-assisted matching and reduces manual support roles. It joins Canva (1,271 affected), Qualcomm (~1,500 India jobs), and Squarespace (~300) in a tech-jobs wave that has surpassed 200,000 cuts globally in 2026. [TrueUp](https://www.trueup.io/layoffs)
+>
+> > [!note]- Macro: US 10-year yield breaks 5%; gold slides to $3,881 on hot CPI and Fed tightening bets (Rio Times)
+> > The US 10-year Treasury yield topped 5% on November 13 as gold fell roughly 2.5% to around $3,881/oz, pressured by a hotter-than-expected October CPI and rising odds of a December Fed hike. Bitcoin dropped 3.5% to ~$71,400 while crude remained volatile on Hormuz tensions. Fed Chair Warsh speaks today with December hike odds near 75–85%. [Rio Times](https://www.riotimesonline.com/global-economy-briefing-november-13-2026/)
+>
+> > [!breaking]- World: Bahrain intercepts Iranian strikes; IRGC mines tankers, downs US drone near Hormuz (CBS News)
+> > Bahrain said it intercepted Iranian attacks after Tehran claimed it targeted US assets in the Gulf, escalating the conflict that began in February 2026. Iran's IRGC struck two tankers with mines south of the Strait of Hormuz and claimed to have downed a US MQ-1 drone over Qeshm Island, reversing last week's partial-reopening signals. Trump's Shenzhen trilateral summit with Xi and Putin this week is expected to put the Hormuz blockade on the agenda. [CBS News](https://www.cbsnews.com/live-updates/us-iran-war-trump-nuclear-material-no-deal/)
+>
+> > [!note]- Malaysia: Melaka declares Nov 16 public holiday after BN-PN two-thirds sweep; Macron arrives for rare earth talks (The Vibes)
+> > Melaka declared today a special state holiday after the BN-PN coalition won 24 of 28 seats in Saturday's election — Barisan alone took 21, with Pakatan retaining only four. French President Macron lands in Malaysia today for a two-day visit centred on securing alternative rare earth supplies, his first trip since 2017. PM Anwar is returning from Manila's ASEAN Summit to receive Macron tomorrow morning. [The Vibes](https://www.thevibes.com/articles/news/129595/melaka-declares-special-holiday-tomorrow-in-recognition-of-the-peoples-mandate)
+>
+> > [!note]- Science: ESA Euclid discovers 31 ancient quasars including two record-breaking objects (ScienceDaily)
+> > The European Space Agency's Euclid telescope identified 31 ancient quasars — including two that set distance or luminosity records — in findings from its early-science data release. The discovery showcases Euclid's power for mapping the deep universe after its 2023 launch. Separately, a large-scale health study linked even occasional marijuana use to 40% higher odds of stroke. [ScienceDaily](https://www.sciencedaily.com/news/)
+>
+> > **Evening update**
+>
+> > [!note]- SG & MY: Indonesia's Prabowo apologises to Malaysia and Singapore for 4-month haze crisis (The Star)
+> > At the 49th ASEAN Summit in Manila, President Prabowo issued a formal apology to Malaysia and Singapore for near-continuous transboundary haze from Indonesian forest and peat fires over four months. Indonesia deployed 71,000 firefighters against the blazes, losing 16 lives and two helicopters. Singapore's PM Lawrence Wong called for an ASEAN-wide crackdown on firms responsible for forest fires and pushed for a regional haze control hub. Singapore and Indonesia have also agreed to establish a joint task force to investigate companies linked to the fires. [The Star](https://www.thestar.com.my/news/nation/2026/11/16/prabowo-apologises-to-malaysia-and-singapore-over-transboundary-haze)
+>
+> > [!note]- Malaysia: Macron meets Anwar in KL; France seeks rare earth supply diversification away from China (The Vibes)
+> > French President Macron began a two-day state visit to Malaysia today, meeting PM Anwar Ibrahim to advance rare earth supply agreements as France seeks to diversify critical mineral sourcing away from China. The visit — Macron's first to Malaysia since 2017 — also covers defence cooperation and digital economy ties, with Anwar returning directly from the ASEAN Summit in Manila to receive his French counterpart. The meeting underscores how Southeast Asia is increasingly courted as a strategic supplier by Western powers amid ongoing supply chain realignments. [The Vibes](https://www.thevibes.com)
+>
+> > [!breaking]- World: Iran strikes Bahrain again; USS Theodore Roosevelt steaming toward Gulf (Anadolu)
+> > Iran launched a second drone attack on Bahrain on Sunday — the second in three days — with the Islamic Revolutionary Guard Corps claiming successful strikes while Bahrain said its defences intercepted all projectiles. The USS Theodore Roosevelt carrier group is reportedly heading to the Middle East, which would bring US carrier presence in the region to three. Peace talks between Washington and Tehran remain stalled, as Trump's departure for the historic Shenzhen trilateral summit casts uncertainty over US strategic intentions in the Gulf. [Anadolu Agency](https://www.aa.com.tr/en/world/morning-briefing-nov-16-2026/4126094)
+>
+> > [!breaking]- World: Trump departs for historic US-China-Russia trilateral summit in Shenzhen (10 Things News)
+> > President Trump departed for Asia today for the first-ever US-China-Russia trilateral summit to be held in Shenzhen, with nuclear weapons reduction at the top of the agenda following the expiry of the last major US-Russia arms treaty in February. Trump will meet both Xi Jinping and Vladimir Putin in what will be the most consequential three-way great-power summit in modern history. Ukraine, Taiwan, and AI export controls are expected on the sidelines as all three powers navigate the Gulf crisis and global AI chip trade war simultaneously. [10 Things Global News](https://www.10things.news/p/10-things-global-news-16th-november)
+>
+> > [!note]- Tech: US may designate Nvidia, OpenAI, Anthropic as AI national champions this week (BusinessToday)
+> > The Trump administration is expected to designate over two dozen US companies — including Nvidia, Amazon, Microsoft, OpenAI, and Anthropic — as AI "national champions" within the week, granting them fast-tracked export approvals for chip and technology deals overseas. The Wall Street Journal reported the designations would help chosen firms win international deals while giving Washington leverage over how US AI technology spreads globally. The move comes as Nvidia navigates Jensen Huang's abrupt exit and pivots toward its role as a government-backed strategic asset in the AI race. [BusinessToday](https://businesstoday.in/technology/news/story/us-taps-nvidia-and-other-ai-giants-to-strengthen-its-global-tech-dominance-all-details-567674-2026-11-16)
+>
+> > [!note]- Science/Economy: Japan GDP contracts 0.1%; chipmakers fall as Nvidia earnings loom post-Jensen (InvestingLive)
+> > Japan's economy contracted 0.1% in the third quarter — its first quarterly decline in four quarters — as elevated inflation squeezed household spending. Asian chipmakers led regional stock declines on Monday, with SK Hynix sliding over 6% on a double hit of Nvidia leadership uncertainty and looming US export curbs. Nvidia's first earnings call without Jensen Huang and the Anthropic IPO are seen as the two biggest market catalysts before year-end, with AI sector sentiment on a knife edge. [InvestingLive](https://investinglive.com/news/investinglive-asia-pacific-market-news-chipmakers-hit-ahead-of-nvidia)
 
 > [!note]- [[11-15-26 Sun]]
 >
