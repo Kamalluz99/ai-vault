@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-17T05:14
+updated: 2026-11-17T19:05
 topic: daily news
 frequency: daily
 ongoing: false
@@ -82,6 +82,26 @@ unread: true
 
 > [!note]- Nike (NKE): $37.88 (−0.29%) — first Investor Day in 9 years today; Wall Street Hold, avg target $36.45 (Benzinga)
 > Nike holds its first investor day in nine years today, with management expected to unveil a new financial outlook through FY2031 as the stock trades near 2014 levels, down ~80% from its all-time high. Cantor Fitzgerald initiated with Neutral at $38; Truist maintains Sell at $29; Wall Street consensus is Hold with a $36.45 average target. Position: 46 shares at $71.69 avg cost; unrealised loss ~$1,560. [Benzinga](https://www.benzinga.com/trading-ideas/movers/26/11/63305130/whats-going-on-with-nike-stock-today-2)
+
+> **Evening update**
+
+> [!breaking]- SG & MY: US tightens AI chip export curbs to Malaysia, Singapore; data centre stocks crash (FMT)
+> Washington announced new export restrictions on advanced AI chips to Malaysia, Singapore, Thailand, Indonesia, and Brazil to crack down on overseas data centres and chip re-exports to China. Malaysian data-centre suppliers MN Holdings and Critical Holdings fell nearly 20% while Singapore's Frencken and AEM dropped about 3–4%. The curbs follow the Megaspeed chip-smuggling scandal that ended Jensen Huang's tenure at Nvidia and add new pressure on both countries' growing AI infrastructure sectors. [Free Malaysia Today](https://www.freemalaysiatoday.com/category/highlight/2026/11/17/us-curbs-export-of-advanced-ai-chips-to-malaysia-singapore)
+
+> [!note]- Malaysia: Penang plans worker housing for 38,000 as Batu Kawan industrial zone expands (Malay Mail)
+> Penang's chief minister unveiled a plan to build worker housing for 38,000 residents tied to the Batu Kawan industrial expansion, aiming to address a shortage of affordable accommodation near the state's growing semiconductor and manufacturing corridor. The project forms part of Penang's broader strategy to retain skilled labour and attract continued foreign investment in its manufacturing sector. The announcement comes as Penang continues to position itself as one of Southeast Asia's leading tech-manufacturing hubs. [Malay Mail](https://www.malaymail.com/news/malaysia)
+
+> [!note]- World: Trump in Manila for ASEAN and Quad ahead of Shenzhen US-China-Russia trilateral summit (Anadolu Agency)
+> US President Trump is at the ASEAN Summit in Manila for talks with regional allies, with nuclear arms reduction, the Iran-Gulf standoff, Ukraine, and AI export controls all on the agenda before his historic trilateral summit with Xi Jinping and Putin in Shenzhen. The UN Secretary-General said a joint denuclearisation commitment from all three major powers would be the most consequential diplomatic achievement possible. Trump also floated a possible sideline meeting with North Korean leader Kim Jong-un during the broader Asia trip. [Anadolu Agency](https://aa.com.tr/en/world/morning-briefing-nov-17-2026/4127219)
+
+> [!breaking]- World: Ukraine strikes Kerch Bridge in record drone barrage; Russia hits two major Kyiv bridges (10 Things News)
+> Ukraine launched its largest-ever drone offensive overnight, striking the Kerch Bridge — the strategic link between Russia and occupied Crimea — in what analysts called the most significant blow to Russian logistics infrastructure since the invasion. Russia responded with missiles and drones that struck two major bridges in Kyiv, with the city's mayor reporting structural damage. Japan and South Korea also scrambled fighters after a Russian aircraft breached regional airspace, signalling escalation beyond the European theatre. [10 Things Global News](https://www.10things.news/p/10-things-global-news-17th-november-e83)
+
+> [!note]- Tech: California AG sues OpenAI for testing advanced AI models without adequate containment (The Neuron)
+> California Attorney General Rob Bonta filed suit in San Francisco Superior Court alleging OpenAI tested advanced AI models without adequate containment or monitoring, citing links to a July breach at Hugging Face. OpenAI said the challenge is shared across major AI labs and noted it had investigated and improved its systems since the incident. The lawsuit is the second major legal action against frontier AI developers in a week, following the multi-nonprofit suit filed November 11–12, and could reshape safety obligations for US AI labs. [The Neuron](https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-tuesday-november-17-2026/)
+
+> [!note]- Science/Economy: Fed ranks AI risks as top threat to US financial system; IMF warns on circular AI financing (CNBC)
+> The Federal Reserve's latest financial stability report ranked AI-related risks as the top threat to the US financial system, with examiners flagging that AI agents could trigger bank runs and that speculative AI lending poses systemic risk. The IMF separately warned that circular AI financing — where AI companies invest in each other and in the chips powering them — has reached $1 trillion, masking true credit exposure across the sector. The dual warnings land on the eve of Anthropic's IPO pricing and Nvidia's first earnings call without Jensen Huang. [CNBC](https://www.cnbc.com/economy/)
 
 > [!note]- [[11-16-26 Mon]]
 >
