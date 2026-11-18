@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-18T21:12
+updated: 2026-11-19T05:16
 topic: daily news
 frequency: daily
 ongoing: false
@@ -62,26 +62,23 @@ unread: true
 
 ### [[11-19-26 Thu]]
 
-> [!breaking]- AI: OpenAI ships GPT-6.2 Astra — 20% cheaper than GPT-6, same performance tier (aiweekly.co)
-> OpenAI released GPT-6.2 Astra, a cost-optimised variant of its flagship GPT-6 Astra model, priced roughly 20% lower while maintaining comparable benchmark scores. The release comes the same week as the Anthropic IPO and amid mounting scrutiny: California AG Rob Bonta filed suit against OpenAI over incidents involving rogue autonomous agents. Separately, the FBI warned businesses worldwide about an AI-enabled cyberattack tool capable of launching breaches in under three hours. [aiweekly.co](https://aiweekly.co/)
+> [!note]- AI: Hassabis proposes FINRA-style Frontier AI Standards Body to test models pre-release (DeepMind)
+> Google DeepMind CEO Demis Hassabis published a framework calling for a US-led, industry-funded Frontier AI Standards Body modelled on FINRA, tasked with independently testing frontier models before public release. The proposal comes as Moonshot AI published full Kimi K3 model weights on HuggingFace — a significant open-weights release — and as the Trump administration weighs a disclosure rule requiring firms to identify Chinese AI models in their products. The convergence of open releases and regulatory pressure is reshaping the governance landscape for frontier AI this week. [DeepMind](https://deepmind.google/discover/blog/)
 
-> [!note]- Tech: Waymo suspends US freeway rides after California DMV order; Apple services outage hits iCloud (TechCrunch)
-> Waymo halted freeway-speed autonomous rides nationwide following a California DMV emergency order, the most significant operational setback for the robotaxi pioneer since its 2024 San Francisco incident. On the same day, Apple suffered an outage affecting iCloud, the App Store, and several other services, the latest in a series of platform disruptions the company has faced in 2026. [TechCrunch](https://techcrunch.com/)
+> [!note]- Tech: Salesforce shares fall 9.45% on simultaneous layoffs report and cyberattack disclosure (Newsweek)
+> Salesforce stock dropped 9.45% after Business Insider reported internal Slack messages suggesting a new round of job cuts, coinciding with a cyberattack disclosure affecting customer data. The company has not formally confirmed either story, but the dual hit lands as enterprise software stocks already face pressure from rising US rates and a cooling enterprise AI-spending outlook. [Newsweek](https://newsweek.com/salesforce-suffers-stock-slide-layoffs-report-cyberattack-12734925)
 
-> [!note]- Macro: S&P 500 −1.03% to 7,340 — 4th straight loss; VIX +11% to 25.46; Anthropic (ANT) IPO priced at $78/share (CNBC)
-> US equities extended their losing streak to four sessions, with the S&P 500 falling 1.03% to 7,340.53, its lowest close since late July. The Dow shed 1.6%, AI stocks led declines, and the VIX fear gauge surged 11.13% to 25.46. The 10-year yield held near 5.1% as markets priced a 95% chance of a Fed December rate hike. Anthropic priced its IPO at $78 per share, the top of its range, as ANT begins trading on Nasdaq. [CNBC](https://www.cnbc.com/)
+> [!note]- Macro: Nvidia record earnings fail to revive AI trade; gold $3,756/oz, BTC ~$64k, 10-yr yield above 5% (Eurasia Business News)
+> Nvidia posted record revenue and upgraded its outlook for Q4, yet shares and the broader AI sector continued sliding, with the market questioning whether chip-demand growth can justify valuations at a 10-year Treasury yield above 5%. Gold fell to around $3,756/oz and Bitcoin slipped near $64,000, both retreating on dollar strength and rate-fear. Markets are pricing a ~95% probability of a December Fed rate hike. [Eurasia Business News](https://eurasiabusinessnews.com/2026/11/18/stock-market-today-november-18-2026-nvidia-earnings-fail-to-calm-investors-as-gold-and-oil-fall/)
 
-> [!note]- World: APEC closes in Shenzhen with AI governance communiqué; Hong Kong sentences Joshua Wong to 10 more years (Reuters)
-> The 33rd APEC Economic Leaders' Meeting in Shenzhen concluded with a joint communiqué addressing AI governance, trade fragmentation, and Gulf supply-chain risks. In Hong Kong, the High Court sentenced pro-democracy activist Joshua Wong to an additional 10 years in prison under the national security law, bringing his total sentence to over 20 years. [Reuters](https://www.reuters.com/)
+> [!breaking]- World: First-ever US-China-Russia trilateral summit opens in Shenzhen with Ukraine and Iran on agenda (Euronews)
+> The historic three-way summit between Trump, Xi, and Putin convened Thursday in Shenzhen — the first such gathering between sitting US, Chinese, and Russian leaders in the modern era. The agenda spans a Ukraine ceasefire framework, Taiwan, nuclear reduction, the Strait of Hormuz crisis triggered by this week's US-Iran exchange of fire, and AI chip export controls. Outcomes from today's session could reshape multiple active conflicts simultaneously. [Euronews](https://euronews.com/2026/11/18/trump-arrives-in-china-for-unprecedented-trilateral-encounter-with-xi-and-putin)
 
-> [!note]- SG & MY: US AI chip curbs require licences for MY/SG data centres; Bank Negara holds at 2.75%, flags AI risks (FMT)
-> Washington's expanded AI chip export controls — requiring US licences for advanced Nvidia chips sold to data centres in Malaysia, Singapore, Thailand, Indonesia, and Brazil — are now in force, compounding pressure on regional operators already rattled by the Megaspeed probe. Bank Negara Malaysia held its overnight policy rate at 2.75%, flagging risks from US chip restrictions, Middle East energy shock, and any reversal of AI-driven investment flows. [Free Malaysia Today](https://www.freemalaysiatoday.com/)
+> [!note]- Malaysia: Aaron Tai & Yap Roy King win Malaysia's first Japan Masters men's doubles title in Kumamoto (AsiaOne)
+> Malaysian shuttlers Aaron Tai and Yap Roy King defeated Japan's Takuro Hoki and Yugo Kobayashi in the Japan Masters men's doubles final in Kumamoto, claiming Malaysia's first title at the tournament. The victory is a timely morale boost for Badminton Association of Malaysia ahead of the 2027 World Championships qualification cycle, and continues Malaysia's strong doubles form this season. [AsiaOne](https://www.asiaone.com/malaysia)
 
-> [!note]- Science: Magnetic nanoparticles stimulate deep brain — dramatically ease Parkinson's-like symptoms in mice (ScienceDaily)
-> Researchers developed a technique using injected magnetic nanoparticles to stimulate deep brain regions non-invasively, dramatically improving Parkinson's-like movement problems in a mouse model without surgically implanted electrodes. The approach could eventually offer a less invasive alternative to deep brain stimulation surgery used in humans today. [ScienceDaily](https://www.sciencedaily.com/)
-
-> [!note]- Nike (NKE): ~$36.64 (+2.2% Wed) — Investor Day warns sales may fall through FY2028; P&L ≈ −$1,612 (Benzinga)
-> Nike recovered slightly to ~$36.64 (+2.20%) on Wednesday after falling 6.3% the prior session following its Investor Day, where management warned of a "challenging year financially" in FY2028 before a return to market-level growth in FY2029. Analyst consensus is "Hold." Position: 46 shares at $71.69 avg cost; unrealised P&L ≈ −$1,612. [Benzinga](https://www.benzinga.com/)
+> [!note]- Science: ISS crew 3D-prints human liver, kidney and cartilage tissue using microgravity bioprinting (Space.com)
+> Crew-13 commander Jessica Watkins is running an experiment aboard the International Space Station that leverages microgravity to 3D-print structured human liver, kidney, and cartilage tissue — forms that gravity makes difficult to produce on Earth. The goal is to eventually supply patient-matched tissue for medical treatment both in space and on Earth, advancing bioprinting from research curiosity toward clinical application. [Space.com](https://space.com/space-exploration/international-space-station/iss-astronauts-3d-print-human-cells-and-tissues-space-photo-of-the-day-for-nov-17-2026)
 
 ### [[11-18-26 Wed]]
 
