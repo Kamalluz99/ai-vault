@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-19T05:00
+updated: 2026-11-18T21:12
 topic: daily news
 frequency: daily
 ongoing: false
@@ -125,6 +125,9 @@ unread: true
 
 > [!note]- Economy: Fed Dec hike odds 95%; Brent surges to $93 on Gulf escalation fears (Bloomberg)
 > US money markets now price a near-certain 95% probability of a December Federal Reserve rate hike, with the 10-year Treasury yield holding at 5.14% after October's hot 3.7% CPI print and persistent labour-market strength. Brent crude jumped to approximately $93 per barrel — its highest level since August — after the news of direct US-Iran strikes in the Gulf. The Reserve Bank of Australia separately raised its cash rate to 4.85%, its fifth hike of 2026, as global central banks continue tightening in parallel. [Bloomberg](https://www.bloomberg.com/news/articles/2026-11-17/stock-market-today-dow-s-p-live-updates)
+
+> [!note]- Macro: Gold breaks below $3,800 for first time in over a year — dollar firms on rate-hike bets (Reuters)
+> Spot gold slid to around $3,756–$3,790/oz on Wednesday, dropping below $3,800 for the first time since late 2025 as a strengthening US dollar and near-certain December Fed rate-hike expectations weighed on bullion. The move is notable given that Brent crude simultaneously surged to $93 on Gulf escalation, suggesting risk-off flows are favouring cash and bonds over gold at current levels. [Reuters](https://www.reuters.com)
 
 > [!note]- [[11-17-26 Tue]]
 >
