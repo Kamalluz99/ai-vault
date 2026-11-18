@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-18T05:00
+updated: 2026-11-18T20:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -82,6 +82,26 @@ unread: true
 
 > [!note]- Nike (NKE): ~$36.25 (−5.3% Tue close) — "Full Stride Ahead" targets $5B new revenue by FY2031; analysts split (Benzinga)
 > Nike closed Tuesday around $36.25 after falling 5.3% as investors gave a cool reception to the "Full Stride Ahead" investor-day plan, which targets $5 billion in incremental annual revenue and $2.5 billion in cost cuts by fiscal 2031. Analysts remain divided: Truist holds a Sell at $29, Cantor Fitzgerald is Neutral at $38, and BTIG keeps Buy at $50 with a $5.14 average target. Position: 46 shares at $71.69 avg cost; unrealised loss ~$1,585 at current price. [Benzinga](https://www.benzinga.com/markets/guidance/26/11/63357937/nike-targets-5-billion-incremental-revenue-growth-by-fiscal-2031)
+
+> **Evening update**
+
+> [!note]- SG & MY: US DOJ confirms Megaspeed criminal probe; SG cooperates fully (Malay Mail)
+> The US Department of Justice confirmed a criminal investigation into Singapore cloud provider Megaspeed for allegedly diverting Nvidia AI chips to restricted Chinese entities, deepening the scandal that rattled Singapore's data-centre sector this week. Singapore's government pledged full cooperation with US investigators while conducting its own domestic probe, as the case threatens the city-state's reputation as a trusted technology hub. PM Lawrence Wong separately called for a tougher ASEAN-wide response to firms responsible for the ongoing transboundary haze at the Manila summit. [Malay Mail](https://www.malaymail.com/news/singapore)
+
+> [!note]- Malaysia: Macron departs after rare earth deal framework; Anwar mandates WFH from April (Malay Mail)
+> French President Emmanuel Macron departed Malaysia after a two-day state visit that yielded a framework agreement giving France access to Malaysia's rare earth processing sector, part of Western efforts to reduce critical mineral dependence on China. The visit was France's highest-level diplomatic engagement with Kuala Lumpur in over a decade. Separately, PM Anwar announced mandatory work-from-home for all federal civil servants and government-linked companies starting April 15, citing national energy management needs during the ongoing haze crisis. [Malay Mail](https://www.malaymail.com/news/malaysia)
+
+> [!breaking]- World: US strikes Iran's Qeshm Island base; IRGC hits US forces in Kuwait and Bahrain (Euronews)
+> American aircraft struck an Iranian missile launch facility on Qeshm Island in the Persian Gulf after the Islamic Revolutionary Guard Corps targeted US military positions in Kuwait and Bahrain — the first direct exchange of fire between US forces and Iran since the Strait of Hormuz crisis began. Qatar announced emergency shuttle diplomacy and warned of "grave danger," while Brent crude surged past $93 per barrel on the escalation. The events put intense pressure on the Shenzhen summit, where Trump, Xi, and Putin are expected to discuss Gulf de-escalation alongside nuclear reduction, Taiwan, and AI chip agendas. [Euronews](https://www.euronews.com/tag/world-news)
+
+> [!note]- World: Ukraine drones damage Kerch Bridge; COP31 phaseout talks deadlock (Euronews)
+> Ukrainian drones struck the Kerch Bridge linking Crimea to Russia for the fourth time since 2022, causing structural damage to the roadway section and disrupting Russian military supply lines. Separately, a Russian military transport aircraft crashed in Siberia, killing 17 of the 19 on board, with authorities opening an investigation. At COP31 in Türkiye, climate negotiations hit a contentious impasse as OPEC nations and several emerging-economy delegates objected to draft language calling for a full fossil fuel phaseout. [Euronews](https://www.euronews.com/tag/world-news)
+
+> [!note]- Tech: Nvidia Q3 revenue $115.8B (+103% YoY); Anthropic IPO prices at $78 as ANT (Bloomberg)
+> Nvidia reported fiscal Q3 2027 revenues of $115.8 billion, up 103% year-on-year — its first earnings call without founder Jensen Huang — beating estimates and sending shares up 4–5% after hours, halting a four-day 11% selloff. The results landed the same evening that Anthropic priced its IPO at $78 per share, the top of the $70–78 range, with Nasdaq trading under ticker ANT set to begin Thursday morning. OpenAI also released GPT-6.2 Astra and GPT-6.2 Sol, flagged at its highest cybersecurity and biosecurity safety thresholds. [Bloomberg](https://www.bloomberg.com/news/articles/2026-11-17/stock-market-today-dow-s-p-live-updates)
+
+> [!note]- Economy: Fed Dec hike odds 95%; Brent surges to $93 on Gulf escalation fears (Bloomberg)
+> US money markets now price a near-certain 95% probability of a December Federal Reserve rate hike, with the 10-year Treasury yield holding at 5.14% after October's hot 3.7% CPI print and persistent labour-market strength. Brent crude jumped to approximately $93 per barrel — its highest level since August — after the news of direct US-Iran strikes in the Gulf. The Reserve Bank of Australia separately raised its cash rate to 4.85%, its fifth hike of 2026, as global central banks continue tightening in parallel. [Bloomberg](https://www.bloomberg.com/news/articles/2026-11-17/stock-market-today-dow-s-p-live-updates)
 
 > [!note]- [[11-17-26 Tue]]
 >
