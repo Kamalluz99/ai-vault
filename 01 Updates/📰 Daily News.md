@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-20T05:00
+updated: 2026-11-20T08:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -62,26 +62,23 @@ unread: true
 
 ### [[11-20-26 Fri]]
 
-> [!note]- AI: Microsoft unveils MAI Code 2 at Ignite — 98% of GPT-6.1 Sol performance at 40% cost (Microsoft)
-> Microsoft introduced MAI Code 2 and MAI Code 2 Flash at its annual Ignite conference, claiming the flagship model achieves 98% of GPT-6.1 Sol's performance at just 40% of the cost. The models target enterprise developers via Azure AI Studio. The announcement marks Microsoft's shift from API reseller to serious LLM competitor, arriving the same week that Palo Alto Networks agreed to acquire AI startup Applied Compute for $4.5 billion. [Source](https://microsoft.com/ignite)
+> [!note]- AI: OpenAI GPT-6.2 Astra is first released model rated 'High' for self-improvement (OpenAI)
+> OpenAI released GPT-6.2 Astra alongside GPT-6.2 Sol, with Astra becoming the first publicly available model to receive a 'High' capability rating for assisting in its own improvement — a milestone on OpenAI's preparedness framework. This follows Google making Gemini 4 Neon generally available on November 18 at $3/M input tokens, priced to compete in enterprise workflows. Separately, the US Commerce Department's tightened export controls on advanced AI chips took effect November 19 after publication in the Federal Register. [Source](https://emergent.sh/news/week-s-top-5-ai-stories-november-2026-roundup)
 
-> [!note]- Tech: GTA 6 reviews live and pre-load begins — critics weigh in on decade of hype (The Verge)
-> Grand Theft Auto 6 reviews went live today and pre-loading has started for players with enough storage, closing a years-long anticipation cycle for the biggest entertainment launch in memory. The launch also coincides with a Nike × Travis Scott $130 GTA 6 sneaker collab. Meanwhile, Nvidia RTX Spark mini PCs begin shipping from Asus, Dell, and MSI today. [Source](https://theverge.com)
+> [!note]- Tech: Nadella defends Microsoft's 60K-employee voluntary buyout at DealBook Summit (Fortune)
+> Microsoft CEO Satya Nadella defended the company's October offer of voluntary buyouts to roughly 60,000 employees — about 27% of the global workforce — at the DealBook Summit on November 18, the largest such programme in Microsoft's history. The move coincides with a broad tech layoff wave: Qualcomm filed WARN notices for 500+ California roles (effective January 12), Oracle sent layoff emails days after reporting 121% cloud revenue growth, and Visa announced 2,600 cuts. [Source](https://tech.yahoo.com/general/breaking-news/article/tech-layoffs-2026-tracking-the-job-losses-across-disney-amazon-microsoft-apple-meta-and-others-130524052.html)
 
-> [!note]- Macro: Fed signals more rate hikes; Brent ~$96/bbl; UMich consumer sentiment final reading due today (SP Global)
-> The Fed's latest minutes show nearly all officials expect further rate hikes, with two members flagging risk of a 50 bps December move if inflation persists. Brent crude holds around $96/barrel — down from an October peak above $116 — which should ease energy-driven inflation. The final University of Michigan consumer sentiment reading for November (preliminary: 51.0) is due at 3:00 pm UTC today. [Source](https://spglobal.com/market-intelligence/en/news-insights/research/2026/11/global-economic-outlook-november-2026)
+> [!note]- Macro: S&P 500 marks fifth straight loss; gold at 14-month low, BTC down 28% YTD (Market Pulse)
+> The S&P 500 fell to 7,323.6 on November 19 — its fifth consecutive losing session — as hawkish Fed minutes showed near-unanimous support for further hikes, with a December 25 bp move roughly 95% priced in. Gold slid to ~$3,739/oz, a 14-month low, while Bitcoin dropped to ~$63,384, now down 28% year-to-date. The dollar index climbed to 103.7 and the 10-year Treasury yield holds above 5%. [Source](https://nordfx.com/market-news/market-pulse-november-19-2026)
 
-> [!breaking]- World: Shenzhen trilateral day 2 — Ukraine ceasefire framework and nuclear reduction on table (Euronews)
-> The US-China-Russia trilateral summit entered its second day in Shenzhen with working groups on Ukraine, Iran, Taiwan, and nuclear disarmament. Trump, Xi, and Putin are under pressure to produce a framework before the summit closes; a jointly backed Ukraine ceasefire would be historically unprecedented. Overnight, Ukraine struck the Kerch Bridge for the third time in four days, complicating diplomatic momentum. [Source](https://euronews.com/2026/11/18/trump-arrives-in-china-for-unprecedented-trilateral-encounter-with-xi-and-putin)
+> [!breaking]- World: ICJ rules Myanmar committed genocide against Rohingya in historic court decision (UN)
+> The International Court of Justice issued a landmark ruling that Myanmar committed genocide against the Rohingya Muslim minority — one of the first times the world's top court has applied the genocide label to an ongoing case. The decision opens the path to binding orders on Myanmar and intensifies pressure on ASEAN members to respond. Myanmar has rejected the court's jurisdiction, complicating enforcement of any reparations. [Source](https://geopolitiki.com/)
 
-> [!note]- SG & MY: US criminal probe into Singapore cloud firm Megaspeed deepens; chip export curbs bite local data centres (FMT)
-> The US Department of Justice has confirmed a criminal investigation into Singapore-based Megaspeed for allegedly routing Nvidia AI chips to restricted Chinese entities — the probe that triggered the CEO's resignation and the subsequent wave of US export control tightening. Malaysian data-centre stocks remain under pressure, and both governments are in active diplomatic talks with Washington to limit collateral damage to their AI infrastructure buildouts. [Source](https://www.freemalaysiatoday.com/category/highlight/2026/11/17/us-curbs-export-of-advanced-ai-chips-to-malaysia-singapore)
+> [!note]- Malaysia: GDP grows 5.5% YoY in Q3 2026, driven by household spending and investment (BNM)
+> Bank Negara Malaysia reported that the economy expanded 5.5% year-on-year in Q3 2026, beating consensus estimates, underpinned by resilient household consumption, stronger investment, and improved exports. The ringgit opened slightly firmer on the data, though Bursa Malaysia tracked broader regional weakness. PM Anwar Ibrahim was in Shenzhen this week meeting Chinese tech executives to pursue AI and data-centre investment. [Source](https://www.malaymail.com/)
 
-> [!note]- Science: Mercury at greatest western elongation today — prime naked-eye viewing in dawn sky (SLSC)
-> Mercury reaches its greatest western elongation on November 20, sitting about 10° above the eastern horizon at dawn — the best chance to observe the planet this apparition. The Moon is also in conjunction with Saturn today. No telescope required; best seen around 06:00 local time looking east. [Source](https://slsc.org/night-sky-update-november-17-27-2026)
-
-> [!note]- Nike NKE: $34.65 (−4.57% Thu) — Investor Day leaves Wall Street cold; next earnings Dec 17 (Benzinga)
-> Nike shares closed at $34.65 Thursday, a 4.57% decline, after the company's Investor Day failed to energise sentiment on its turnaround timeline. Analyst split: 7 Buy / 14 Hold / 7 Sell; Barclays cut target from $45 to $42, Evercore holds at $35. Next catalyst: Q2 earnings on December 17. Position (46 shares at $71.69 avg) is currently down ~52% at ~$1,594 value vs $3,298 cost. [Source](https://www.benzinga.com/trading-ideas/movers/26/11/63406914/swoosh-and-a-miss-nike-investor-day-leaves-wall-street-cold-footed)
+> [!note]- Science: Supernova SN 2026ahvu captured live in NGC 1433, 50 million light-years away (Space.com)
+> Astronomers caught supernova SN 2026ahvu in real time as it erupted in galaxy NGC 1433, roughly 50 million light-years from Earth — a rare opportunity to study the explosion's early phases before observational lag obscures the onset. Supernovae of this Type Ia class are used as cosmic distance markers to map the universe's expansion, and catching one at onset provides data critical for calibrating the Hubble constant. [Source](https://space.com/astronomy/a-newfound-supernova-explodes-50-million-light-years-away-space-photo-of-the-day-for-nov-18-2026)
 
 ### [[11-19-26 Thu]]
 
