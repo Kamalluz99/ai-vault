@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-20T08:00
+updated: 2026-11-19T21:12
 topic: daily news
 frequency: daily
 ongoing: false
@@ -60,25 +60,48 @@ unread: true
 
 ## 2026-11
 
-### [[11-20-26 Fri]]
+### [[11-19-26 Thu]]
 
-> [!note]- AI: OpenAI GPT-6.2 Astra is first released model rated 'High' for self-improvement (OpenAI)
-> OpenAI released GPT-6.2 Astra alongside GPT-6.2 Sol, with Astra becoming the first publicly available model to receive a 'High' capability rating for assisting in its own improvement — a milestone on OpenAI's preparedness framework. This follows Google making Gemini 4 Neon generally available on November 18 at $3/M input tokens, priced to compete in enterprise workflows. Separately, the US Commerce Department's tightened export controls on advanced AI chips took effect November 19 after publication in the Federal Register. [Source](https://emergent.sh/news/week-s-top-5-ai-stories-november-2026-roundup)
+> [!note]- AI: Google DeepMind's Genie 4 enables real-time interactive world generation from text or images (Blockchain.News)
+> Google DeepMind launched Genie 4, a generative world model that creates playable, interactively editable environments in real time from text or image input. The release marks a significant step toward general-purpose simulation for game development, robotics training, and AI research. It arrives the same week that Gemini 4 Neon went generally available at $3/M input tokens and OpenAI's GPT-6.2 Astra became the first publicly released model rated 'High' for self-improvement capability under OpenAI's preparedness framework. [Source](https://blockchain.news/news/google-deepmind-launches-genie-4-with-real-time-world-editing)
 
-> [!note]- Tech: Nadella defends Microsoft's 60K-employee voluntary buyout at DealBook Summit (Fortune)
-> Microsoft CEO Satya Nadella defended the company's October offer of voluntary buyouts to roughly 60,000 employees — about 27% of the global workforce — at the DealBook Summit on November 18, the largest such programme in Microsoft's history. The move coincides with a broad tech layoff wave: Qualcomm filed WARN notices for 500+ California roles (effective January 12), Oracle sent layoff emails days after reporting 121% cloud revenue growth, and Visa announced 2,600 cuts. [Source](https://tech.yahoo.com/general/breaking-news/article/tech-layoffs-2026-tracking-the-job-losses-across-disney-amazon-microsoft-apple-meta-and-others-130524052.html)
+> [!note]- Tech: 2026 tech layoff wave tops 200,000; Nadella defends Microsoft's 60K-employee buyout at DealBook Summit (Fortune)
+> Global tech layoffs in 2026 have now exceeded 200,000 jobs, with Microsoft's October offer of voluntary buyouts to roughly 60,000 employees (27% of the workforce) — defended by CEO Satya Nadella at the DealBook Summit — the single largest such programme in the company's history. This week's additions include Qualcomm filing WARN notices for 500+ California roles, Oracle sending layoff emails days after reporting 121% cloud revenue growth, and Visa announcing 2,600 cuts. [Source](https://tech.yahoo.com/general/breaking-news/article/tech-layoffs-2026-tracking-the-job-losses-across-disney-amazon-microsoft-apple-meta-and-others-130524052.html)
 
-> [!note]- Macro: S&P 500 marks fifth straight loss; gold at 14-month low, BTC down 28% YTD (Market Pulse)
-> The S&P 500 fell to 7,323.6 on November 19 — its fifth consecutive losing session — as hawkish Fed minutes showed near-unanimous support for further hikes, with a December 25 bp move roughly 95% priced in. Gold slid to ~$3,739/oz, a 14-month low, while Bitcoin dropped to ~$63,384, now down 28% year-to-date. The dollar index climbed to 103.7 and the 10-year Treasury yield holds above 5%. [Source](https://nordfx.com/market-news/market-pulse-november-19-2026)
+> [!note]- Macro: Hawkish FOMC minutes ignite US equity rout — Dow −1,084 pts, Nasdaq −2.2%; gold 15-month low $3,694 (Saxo Bank)
+> The October FOMC minutes released Thursday showed near-unanimous support for further rate hikes, with Governor Waller flagging a possible 50 bps December move. US equities reversed earlier Anthropic-IPO gains: the Dow shed 1,084 points, the Nasdaq fell 2.2%, and the S&P 500 dropped to 7,323.6 — its fifth consecutive down session. Gold sank to a 15-month low of $3,694/oz and WTI crude fell 3.2% to $83/bbl; Bitcoin held near $63,384, down 28% YTD. [Source](https://www.home.saxo/en-mena/content/articles/macro/market-quick-take---metals-slide-while-fed-minutes-point-to-further-hikes---19-november-2026-19112026)
 
-> [!breaking]- World: ICJ rules Myanmar committed genocide against Rohingya in historic court decision (UN)
-> The International Court of Justice issued a landmark ruling that Myanmar committed genocide against the Rohingya Muslim minority — one of the first times the world's top court has applied the genocide label to an ongoing case. The decision opens the path to binding orders on Myanmar and intensifies pressure on ASEAN members to respond. Myanmar has rejected the court's jurisdiction, complicating enforcement of any reparations. [Source](https://geopolitiki.com/)
+> [!breaking]- World: ICJ rules Myanmar committed genocide against Rohingya in 2017 Rakhine operations (UN/Geopolitiki)
+> The International Court of Justice issued a landmark ruling finding that Myanmar's security forces committed genocide against the Rohingya Muslim minority during the 2017 Rakhine State military campaign that displaced over 700,000 people. The decision — the first time the ICJ has applied the genocide label to this case — opens the path to binding orders on Myanmar, though Naypyidaw has rejected the court's jurisdiction, complicating enforcement. The case was originally filed by The Gambia in 2019. [Source](https://geopolitiki.com/)
 
-> [!note]- Malaysia: GDP grows 5.5% YoY in Q3 2026, driven by household spending and investment (BNM)
-> Bank Negara Malaysia reported that the economy expanded 5.5% year-on-year in Q3 2026, beating consensus estimates, underpinned by resilient household consumption, stronger investment, and improved exports. The ringgit opened slightly firmer on the data, though Bursa Malaysia tracked broader regional weakness. PM Anwar Ibrahim was in Shenzhen this week meeting Chinese tech executives to pursue AI and data-centre investment. [Source](https://www.malaymail.com/)
+> [!note]- SG & MY: Malaysia Q3 GDP beats at 5.5% YoY; Bursa tracks regional weakness despite strong fundamentals (BNM)
+> Bank Negara Malaysia reported Q3 2026 GDP growth of 5.5% year-on-year, beating consensus estimates, driven by resilient household consumption, stronger investment flows, and improved export performance. The ringgit opened slightly firmer on the data, though Bursa Malaysia tracked broader regional weakness amid hawkish Fed signals. PM Anwar was separately in Shenzhen meeting Chinese tech executives to advance AI and data-centre investment ahead of the December 4 Johor-Singapore SEZ launch. [Source](https://www.malaymail.com/)
 
-> [!note]- Science: Supernova SN 2026ahvu captured live in NGC 1433, 50 million light-years away (Space.com)
-> Astronomers caught supernova SN 2026ahvu in real time as it erupted in galaxy NGC 1433, roughly 50 million light-years from Earth — a rare opportunity to study the explosion's early phases before observational lag obscures the onset. Supernovae of this Type Ia class are used as cosmic distance markers to map the universe's expansion, and catching one at onset provides data critical for calibrating the Hubble constant. [Source](https://space.com/astronomy/a-newfound-supernova-explodes-50-million-light-years-away-space-photo-of-the-day-for-nov-18-2026)
+> [!note]- Science: Supernova SN 2026ahvu caught live in NGC 1433 — Type Ia explosion 50 million light-years away (Space.com)
+> Astronomers captured supernova SN 2026ahvu in real time as it erupted in galaxy NGC 1433, roughly 50 million light-years from Earth, providing a rare chance to study the explosion's earliest phases before observational lag sets in. Type Ia supernovae serve as standard candles for mapping cosmic expansion; catching one at onset yields data critical for calibrating the Hubble constant and resolving the "Hubble tension." [Source](https://space.com/astronomy/a-newfound-supernova-explodes-50-million-light-years-away-space-photo-of-the-day-for-nov-18-2026)
+
+> [!note]- Nike NKE: $34.65 (−4.57%) — market selloff deepens losses; unrealised loss ~$1,704 on 46 shares (Benzinga)
+> Nike closed Thursday at $34.65, down 4.57%, dragged lower by both the broader equity rout triggered by hawkish FOMC minutes and lingering post-Investor Day scepticism about the FY2031 turnaround timeline. Analyst consensus: 7 Buy / 14 Hold / 7 Sell; targets range from $24 (BofA Underperform) to $50 (BTIG Buy). At $34.65, the 46-share position carries an unrealised loss of ~$1,704 (value ~$1,594 vs cost ~$3,298). [Source](https://www.benzinga.com/trading-ideas/movers/26/11/63443764/why-is-nike-stock-falling-on-thursday)
+
+> [!note]- [[11-20-26 Fri]]
+>
+> > [!note]- AI: OpenAI GPT-6.2 Astra is first released model rated 'High' for self-improvement (OpenAI)
+> > OpenAI released GPT-6.2 Astra alongside GPT-6.2 Sol, with Astra becoming the first publicly available model to receive a 'High' capability rating for assisting in its own improvement — a milestone on OpenAI's preparedness framework. This follows Google making Gemini 4 Neon generally available on November 18 at $3/M input tokens, priced to compete in enterprise workflows. Separately, the US Commerce Department's tightened export controls on advanced AI chips took effect November 19 after publication in the Federal Register. [Source](https://emergent.sh/news/week-s-top-5-ai-stories-november-2026-roundup)
+>
+> > [!note]- Tech: Nadella defends Microsoft's 60K-employee voluntary buyout at DealBook Summit (Fortune)
+> > Microsoft CEO Satya Nadella defended the company's October offer of voluntary buyouts to roughly 60,000 employees — about 27% of the global workforce — at the DealBook Summit on November 18, the largest such programme in Microsoft's history. The move coincides with a broad tech layoff wave: Qualcomm filed WARN notices for 500+ California roles (effective January 12), Oracle sent layoff emails days after reporting 121% cloud revenue growth, and Visa announced 2,600 cuts. [Source](https://tech.yahoo.com/general/breaking-news/article/tech-layoffs-2026-tracking-the-job-losses-across-disney-amazon-microsoft-apple-meta-and-others-130524052.html)
+>
+> > [!note]- Macro: S&P 500 marks fifth straight loss; gold at 14-month low, BTC down 28% YTD (Market Pulse)
+> > The S&P 500 fell to 7,323.6 on November 19 — its fifth consecutive losing session — as hawkish Fed minutes showed near-unanimous support for further hikes, with a December 25 bp move roughly 95% priced in. Gold slid to ~$3,739/oz, a 14-month low, while Bitcoin dropped to ~$63,384, now down 28% year-to-date. The dollar index climbed to 103.7 and the 10-year Treasury yield holds above 5%. [Source](https://nordfx.com/market-news/market-pulse-november-19-2026)
+>
+> > [!breaking]- World: ICJ rules Myanmar committed genocide against Rohingya in historic court decision (UN)
+> > The International Court of Justice issued a landmark ruling that Myanmar committed genocide against the Rohingya Muslim minority — one of the first times the world's top court has applied the genocide label to an ongoing case. The decision opens the path to binding orders on Myanmar and intensifies pressure on ASEAN members to respond. Myanmar has rejected the court's jurisdiction, complicating enforcement of any reparations. [Source](https://geopolitiki.com/)
+>
+> > [!note]- Malaysia: GDP grows 5.5% YoY in Q3 2026, driven by household spending and investment (BNM)
+> > Bank Negara Malaysia reported that the economy expanded 5.5% year-on-year in Q3 2026, beating consensus estimates, underpinned by resilient household consumption, stronger investment, and improved exports. The ringgit opened slightly firmer on the data, though Bursa Malaysia tracked broader regional weakness. PM Anwar Ibrahim was in Shenzhen this week meeting Chinese tech executives to pursue AI and data-centre investment. [Source](https://www.malaymail.com/)
+>
+> > [!note]- Science: Supernova SN 2026ahvu captured live in NGC 1433, 50 million light-years away (Space.com)
+> > Astronomers caught supernova SN 2026ahvu in real time as it erupted in galaxy NGC 1433, roughly 50 million light-years from Earth — a rare opportunity to study the explosion's early phases before observational lag obscures the onset. Supernovae of this Type Ia class are used as cosmic distance markers to map the universe's expansion, and catching one at onset provides data critical for calibrating the Hubble constant. [Source](https://space.com/astronomy/a-newfound-supernova-explodes-50-million-light-years-away-space-photo-of-the-day-for-nov-18-2026)
 
 ### [[11-19-26 Thu]]
 
