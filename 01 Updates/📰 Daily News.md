@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-19T05:16
+updated: 2026-11-19T20:30
 topic: daily news
 frequency: daily
 ongoing: false
@@ -79,6 +79,26 @@ unread: true
 
 > [!note]- Science: ISS crew 3D-prints human liver, kidney and cartilage tissue using microgravity bioprinting (Space.com)
 > Crew-13 commander Jessica Watkins is running an experiment aboard the International Space Station that leverages microgravity to 3D-print structured human liver, kidney, and cartilage tissue — forms that gravity makes difficult to produce on Earth. The goal is to eventually supply patient-matched tissue for medical treatment both in space and on Earth, advancing bioprinting from research curiosity toward clinical application. [Space.com](https://space.com/space-exploration/international-space-station/iss-astronauts-3d-print-human-cells-and-tissues-space-photo-of-the-day-for-nov-17-2026)
+
+> **Evening update**
+
+> [!note]- SG & MY: NEA contacts Malaysian authorities over new illegal waste dumping in Pontian (Malay Mail)
+> Singapore's National Environment Agency has reached out to Malaysian counterparts after fresh reports of illegal industrial waste disposal in Pontian, Johor, raising transboundary pollution concerns once again. The case echoes similar episodes over the past year that have strained bilateral environmental cooperation. Both sides have pledged to investigate responsible parties and strengthen cross-border monitoring. [Malay Mail](https://www.malaymail.com/news/singapore)
+
+> [!note]- Malaysia: Malaysia demands details from Anthropic over AI models used in voter influence operation (FMT)
+> Malaysia's government is seeking information from Anthropic after reports that its AI models were allegedly deployed in a political influence operation targeting Malaysian voters. The move follows growing regional concern about AI-driven disinformation ahead of election cycles, with Malaysia's election commission flagging several suspicious AI-generated campaigns in recent months. Anthropic has not publicly responded to the government's inquiry. [Free Malaysia Today](https://www.freemalaysiatoday.com)
+
+> [!note]- World: Ukraine strikes Kerch Bridge for third time in four days, rail traffic disrupted on Crimea crossing (Times of Israel)
+> Ukrainian forces launched another aerial attack on the Kerch Bridge connecting mainland Russia to Crimea — the third such strike in four days — disrupting rail traffic on the strategically vital crossing. The repeated targeting signals an intensified Ukrainian campaign against Russian logistics infrastructure as Shenzhen peace talks proceed in parallel. Russia has rerouted freight to alternative routes but has not fully disclosed the extent of damage. [Times of Israel](https://www.timesofisrael.com/liveblog-november-19-2026/)
+
+> [!note]- World: Houthi drone strikes Riyadh skyscraper as Yemen conflict escalates deep into Saudi territory (OpenChronicle)
+> A Houthi drone struck a Riyadh skyscraper on Thursday, causing visible structural damage in a rare attack that penetrated far into Saudi territory. The strike marks a significant escalation in Houthi reach beyond their usual targets near Yemen's border regions, raising questions about Saudi air defence capabilities. The incident comes as Gulf tensions feature prominently on the agenda at the Shenzhen trilateral summit. [OpenChronicle](https://openchronicle.org/2026/11/19/global-news-brief-key-developments-around-the-world-november-19-2026/)
+
+> [!breaking]- Tech: Anthropic IPO prices at $83/share — above guidance — raising $81B+ in the largest US tech listing ever (CNBC)
+> Anthropic priced its IPO at $83 per share, above its guided $70–78 range, raising over $81 billion in what is now the largest technology public offering on record — surpassing SpaceX's private valuation round. Trading began today on Nasdaq under the ticker "ANT," valuing the AI safety company at approximately $1.5 trillion. The listing lands the same week as the US-China-Russia Shenzhen trilateral and tightened AI chip export controls, making the broader sector signal unusually complex to read. [CNBC](https://www.cnbc.com/world/)
+
+> [!note]- Economy: Nvidia halts AI chip shipments to China despite prior US clearance, deepening US-China tech rift (AI Tools Recap)
+> Nvidia has ceased shipping certain AI accelerators to China even after Washington previously cleared them for export, in a unilateral move that further fragments the global AI hardware supply chain. The decision follows last week's expanded export controls and coincides with Nvidia stock's continued slide despite record Q3 earnings. Analysts say the halt reflects Nvidia's attempt to stay ahead of regulatory risk as US policy tightens faster than companies can adapt. [AI Tools Recap](https://aitoolsrecap.com/Blog/ai-news-november-19-2026)
 
 ### [[11-18-26 Wed]]
 
