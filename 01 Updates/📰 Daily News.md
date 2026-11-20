@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-19T21:12
+updated: 2026-11-20T19:09
 topic: daily news
 frequency: daily
 ongoing: false
@@ -102,6 +102,26 @@ unread: true
 >
 > > [!note]- Science: Supernova SN 2026ahvu captured live in NGC 1433, 50 million light-years away (Space.com)
 > > Astronomers caught supernova SN 2026ahvu in real time as it erupted in galaxy NGC 1433, roughly 50 million light-years from Earth — a rare opportunity to study the explosion's early phases before observational lag obscures the onset. Supernovae of this Type Ia class are used as cosmic distance markers to map the universe's expansion, and catching one at onset provides data critical for calibrating the Hubble constant. [Source](https://space.com/astronomy/a-newfound-supernova-explodes-50-million-light-years-away-space-photo-of-the-day-for-nov-18-2026)
+>
+> > **Evening update**
+>
+> > [!note]- SG & MY: US AI-chip controls take effect for SG/MY; Malaysia probes Megaspeed re-exports (AsiaOne)
+> > New US export controls on advanced AI semiconductors took formal effect November 19 for Singapore and Malaysia, restricting sales of Nvidia's most powerful chips to companies without verified end-user agreements. Malaysian authorities confirmed they are examining whether Megaspeed's local unit re-exported AI chips in breach of end-use declarations, as Singapore's probe into the Nvidia server fraud case — now involving five defendants and six companies — enters its pre-trial phase. [Source](https://www.asiaone.com/singapore)
+>
+> > [!note]- Malaysia: PM Anwar's Shenzhen visit yields RM9.2 bil in indicative China investment (The Star)
+> > Prime Minister Anwar Ibrahim's Shenzhen visit generated RM9.2 billion in indicative investment proposals from Chinese firms spanning data centres, semiconductors, and green energy, according to the Malaysia Investment Development Authority. Anwar held bilateral meetings with executives from Huawei, BYD, and other technology groups as part of the push to position Malaysia as a preferred destination for Chinese tech capital. The proposals are indicative and subject to formal approval before they become committed investments. [Source](https://thestar.com.my/aseanplus/aseanplus-news/2026/11/19/asean-news-headlines-at-10pm-on-thursday-nov-19-2026)
+>
+> > [!breaking]- World: Trump, Xi and Putin sign "Declaration toward Peace"; European leaders reject Yalta 2.0 (Euronews)
+> > The first-ever US-China-Russia trilateral summit, held in Shenzhen over two days, concluded November 20 with all three leaders co-signing a "Declaration toward Peace" committing to dialogue on nuclear risk reduction, a Ukraine ceasefire framework, and AI governance. European heads of government immediately rejected the terms, warning it amounted to a "Yalta 2.0" settlement decided without Kyiv or European capitals. Ukrainian President Zelensky called it "a surrender document written by others" and refused to recognise its authority. [Source](https://www.euronews.com/video/2026/11/20/latest-news-bulletin-november-20th-2026-morning)
+>
+> > [!note]- World: Houthi missile strikes Riyadh's Kingdom Tower, sparking fire visible across the city (Reuters)
+> > A Houthi ballistic missile struck the Kingdom Tower in Riyadh on November 20, causing structural damage to the upper floors of the 302-metre landmark and igniting a fire visible from several kilometres away. Saudi Arabia's air-defence systems intercepted two further missiles in the same salvo; casualty figures were not immediately confirmed. The strike represents a significant escalation, extending Houthi targeting from oil infrastructure to Saudi Arabia's most recognisable commercial skyline. [Source](https://www.reuters.com/)
+>
+> > [!note]- Tech: Anthropic IPO Day 2 — AI selloff spreads to Asia and Europe as ANT shares fall in premarket (Bloomberg)
+> > Anthropic shares — which debuted on Nasdaq Thursday at $111.50 before closing at $97.17 (up 17% on day one) — fell roughly 6% in Friday premarket as the broader AI selloff extended to Asian and European markets. Bloomberg reported US stock futures in the red, with investors questioning whether premium AI valuations can hold at 10-year Treasury yields above 5%. Separately, Palo Alto Networks announced a $4.5 billion all-stock acquisition of Applied Compute, an open-weight AI inference and post-training platform. [Source](https://bloomberg.com/news/articles/2026-11-20/us-stock-futures-fall-as-ai-selloff-spreads-to-asia-and-europe)
+>
+> > [!note]- Macro: IMF flags global public debt approaching 100% of GDP — highest since World War II (IMF)
+> > The International Monetary Fund's updated Fiscal Monitor warns that global public debt is nearing 100% of aggregate GDP — a level last seen in the immediate post-war era — driven by structural deficits in the US, Japan, and the UK. The Fund urged governments to rebuild fiscal buffers before the next downturn, cautioning that persistently high interest rates are compressing debt-service headroom faster than projected. Oil held near $93 a barrel, with the Strait of Hormuz standoff keeping energy costs elevated and adding to the global fiscal squeeze. [Source](https://www.imf.org/en/Publications/FM)
 
 ### [[11-19-26 Thu]]
 
