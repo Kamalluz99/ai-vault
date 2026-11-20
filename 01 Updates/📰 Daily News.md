@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-20T19:09
+updated: 2026-11-21T05:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -60,28 +60,51 @@ unread: true
 
 ## 2026-11
 
-### [[11-19-26 Thu]]
+### [[11-21-26 Sat]]
 
-> [!note]- AI: Google DeepMind's Genie 4 enables real-time interactive world generation from text or images (Blockchain.News)
-> Google DeepMind launched Genie 4, a generative world model that creates playable, interactively editable environments in real time from text or image input. The release marks a significant step toward general-purpose simulation for game development, robotics training, and AI research. It arrives the same week that Gemini 4 Neon went generally available at $3/M input tokens and OpenAI's GPT-6.2 Astra became the first publicly released model rated 'High' for self-improvement capability under OpenAI's preparedness framework. [Source](https://blockchain.news/news/google-deepmind-launches-genie-4-with-real-time-world-editing)
+> [!note]- AI: Anthropic IPO Day 2 — ANT loses 9%, giving back most of its 17% debut gain; Nvidia/AMD each down 13% (CNBC)
+> Anthropic's stock (ANT) retreated roughly 9% on its second trading day, surrendering most of its 17% first-day gain as a broad AI trade selloff intensified. Nvidia and AMD each fell 13%, with pressure compounded by an SEC probe into possible accounting irregularities at Nvidia and a California AG subpoena related to China chip diversion. [Source](https://cnbc.com/2026/11/19/stock-market-today-live-updates.html)
 
-> [!note]- Tech: 2026 tech layoff wave tops 200,000; Nadella defends Microsoft's 60K-employee buyout at DealBook Summit (Fortune)
-> Global tech layoffs in 2026 have now exceeded 200,000 jobs, with Microsoft's October offer of voluntary buyouts to roughly 60,000 employees (27% of the workforce) — defended by CEO Satya Nadella at the DealBook Summit — the single largest such programme in the company's history. This week's additions include Qualcomm filing WARN notices for 500+ California roles, Oracle sending layoff emails days after reporting 121% cloud revenue growth, and Visa announcing 2,600 cuts. [Source](https://tech.yahoo.com/general/breaking-news/article/tech-layoffs-2026-tracking-the-job-losses-across-disney-amazon-microsoft-apple-meta-and-others-130524052.html)
+> [!note]- Tech: Microsoft outage hits millions of users for a full day; generates 7.4M+ Downdetector reports (Reuters)
+> A Microsoft services outage disrupted email and online meetings for millions of users for an entire day, generating over 7.4 million reports on Downdetector — one of the largest recorded Microsoft outage events. The incident adds to a string of major cloud reliability failures in 2026, raising enterprise questions about single-provider dependency. [Source](https://business-standard.com/technology/tech-news/2026-major-cyberattacks-global-tech-outages-services-hit-126111800306_1.html)
 
-> [!note]- Macro: Hawkish FOMC minutes ignite US equity rout — Dow −1,084 pts, Nasdaq −2.2%; gold 15-month low $3,694 (Saxo Bank)
-> The October FOMC minutes released Thursday showed near-unanimous support for further rate hikes, with Governor Waller flagging a possible 50 bps December move. US equities reversed earlier Anthropic-IPO gains: the Dow shed 1,084 points, the Nasdaq fell 2.2%, and the S&P 500 dropped to 7,323.6 — its fifth consecutive down session. Gold sank to a 15-month low of $3,694/oz and WTI crude fell 3.2% to $83/bbl; Bitcoin held near $63,384, down 28% YTD. [Source](https://www.home.saxo/en-mena/content/articles/macro/market-quick-take---metals-slide-while-fed-minutes-point-to-further-hikes---19-november-2026-19112026)
+> [!note]- Macro: S&P 500 and Dow enter correction; Nasdaq erases all 2026 gains as AI selloff intensifies (CNBC)
+> The S&P 500 and Dow Jones entered official correction territory while the Nasdaq wiped out all 2026 year-to-date gains, as AI-related stocks led the selloff. The move came as the 10-year Treasury yield held above 5%, hawkish FOMC minutes reinforced a December rate hike, and the IMF warned global public debt is nearing 100% of GDP — the highest since World War II. [Source](https://cnbc.com/2026/11/19/stock-market-today-live-updates.html)
 
-> [!breaking]- World: ICJ rules Myanmar committed genocide against Rohingya in 2017 Rakhine operations (UN/Geopolitiki)
-> The International Court of Justice issued a landmark ruling finding that Myanmar's security forces committed genocide against the Rohingya Muslim minority during the 2017 Rakhine State military campaign that displaced over 700,000 people. The decision — the first time the ICJ has applied the genocide label to this case — opens the path to binding orders on Myanmar, though Naypyidaw has rejected the court's jurisdiction, complicating enforcement. The case was originally filed by The Gambia in 2019. [Source](https://geopolitiki.com/)
+> [!note]- World: 49th ASEAN Summit opens in Manila; "No Kings" Day of Action held at Lincoln Memorial (Inquirer/Wikipedia)
+> Foreign leaders arrived in Manila for the 49th ASEAN Summit, with the Johor-Singapore SEZ masterplan, regional AI chip controls, and security flashpoints on the agenda. In the US, a nationwide "No Kings" Day of Action was held at the Lincoln Memorial in Washington, D.C. as state officials completed 2026 midterm ballot reviews. [Source](https://en.wikipedia.org/wiki/Portal:Current_events/November_2026)
 
-> [!note]- SG & MY: Malaysia Q3 GDP beats at 5.5% YoY; Bursa tracks regional weakness despite strong fundamentals (BNM)
-> Bank Negara Malaysia reported Q3 2026 GDP growth of 5.5% year-on-year, beating consensus estimates, driven by resilient household consumption, stronger investment flows, and improved export performance. The ringgit opened slightly firmer on the data, though Bursa Malaysia tracked broader regional weakness amid hawkish Fed signals. PM Anwar was separately in Shenzhen meeting Chinese tech executives to advance AI and data-centre investment ahead of the December 4 Johor-Singapore SEZ launch. [Source](https://www.malaymail.com/)
+> [!note]- Malaysia/Singapore: US AI chip export curbs take effect; Malaysia probes Megaspeed for re-export violations (FMT/AsiaOne)
+> New US export controls on advanced AI semiconductors came into force on November 19 for Singapore and Malaysia, restricting sales of Nvidia's most powerful chips without verified end-use agreements. Malaysian authorities are examining Megaspeed's local unit for potential chip re-export violations, while Singapore's related fraud case — involving five defendants and six companies — enters its pre-trial phase. [Source](https://www.freemalaysiatoday.com/category/highlight/2026/11/17/us-curbs-export-of-advanced-ai-chips-to-malaysia-singapore)
 
-> [!note]- Science: Supernova SN 2026ahvu caught live in NGC 1433 — Type Ia explosion 50 million light-years away (Space.com)
-> Astronomers captured supernova SN 2026ahvu in real time as it erupted in galaxy NGC 1433, roughly 50 million light-years from Earth, providing a rare chance to study the explosion's earliest phases before observational lag sets in. Type Ia supernovae serve as standard candles for mapping cosmic expansion; catching one at onset yields data critical for calibrating the Hubble constant and resolving the "Hubble tension." [Source](https://space.com/astronomy/a-newfound-supernova-explodes-50-million-light-years-away-space-photo-of-the-day-for-nov-18-2026)
+> [!note]- Science: CERN reports first evidence of an extremely rare particle decay after 40+ years of searching (ScienceDaily)
+> CERN scientists reported the first experimental evidence of an extremely rare subatomic particle decay that physicists have searched for since the 1980s. The finding, drawn from years of Large Hadron Collider data, refines tests of the Standard Model and could signal physics beyond it. [Source](https://www.sciencedaily.com/breaking/)
 
-> [!note]- Nike NKE: $34.65 (−4.57%) — market selloff deepens losses; unrealised loss ~$1,704 on 46 shares (Benzinga)
-> Nike closed Thursday at $34.65, down 4.57%, dragged lower by both the broader equity rout triggered by hawkish FOMC minutes and lingering post-Investor Day scepticism about the FY2031 turnaround timeline. Analyst consensus: 7 Buy / 14 Hold / 7 Sell; targets range from $24 (BofA Underperform) to $50 (BTIG Buy). At $34.65, the 46-share position carries an unrealised loss of ~$1,704 (value ~$1,594 vs cost ~$3,298). [Source](https://www.benzinga.com/trading-ideas/movers/26/11/63443764/why-is-nike-stock-falling-on-thursday)
+> [!note]- Nike NKE: ~$34.23 (−1.2%) — Investor Day fallout continues; Cantor cuts PT to $33; loss ~$1,723 on 46 shares (Benzinga)
+> Nike drifted to approximately $34.23 on Friday, extending post-Investor Day losses as the market digests management's two-year sales decline forecast before a return to market-level growth in FY2029. Cantor Fitzgerald cut its price target from $38 to $33; analyst consensus is 7 Buy / 14 Hold / 7 Sell. The 46-share position (avg cost $71.69) carries an unrealised loss of ~$1,723 (value ~$1,575 vs cost ~$3,298). [Source](https://benzinga.com/trading-ideas/movers/26/11/63443764/why-is-nike-stock-falling-on-thursday)
+
+> [!note]- [[11-19-26 Thu]]
+>
+> > [!note]- AI: Google DeepMind's Genie 4 enables real-time interactive world generation from text or images (Blockchain.News)
+> > Google DeepMind launched Genie 4, a generative world model that creates playable, interactively editable environments in real time from text or image input. The release marks a significant step toward general-purpose simulation for game development, robotics training, and AI research. It arrives the same week that Gemini 4 Neon went generally available at $3/M input tokens and OpenAI's GPT-6.2 Astra became the first publicly released model rated 'High' for self-improvement capability under OpenAI's preparedness framework. [Source](https://blockchain.news/news/google-deepmind-launches-genie-4-with-real-time-world-editing)
+> >
+> > [!note]- Tech: 2026 tech layoff wave tops 200,000; Nadella defends Microsoft's 60K-employee buyout at DealBook Summit (Fortune)
+> > Global tech layoffs in 2026 have now exceeded 200,000 jobs, with Microsoft's October offer of voluntary buyouts to roughly 60,000 employees (27% of the workforce) — defended by CEO Satya Nadella at the DealBook Summit — the single largest such programme in the company's history. This week's additions include Qualcomm filing WARN notices for 500+ California roles, Oracle sending layoff emails days after reporting 121% cloud revenue growth, and Visa announcing 2,600 cuts. [Source](https://tech.yahoo.com/general/breaking-news/article/tech-layoffs-2026-tracking-the-job-losses-across-disney-amazon-microsoft-apple-meta-and-others-130524052.html)
+> >
+> > [!note]- Macro: Hawkish FOMC minutes ignite US equity rout — Dow −1,084 pts, Nasdaq −2.2%; gold 15-month low $3,694 (Saxo Bank)
+> > The October FOMC minutes released Thursday showed near-unanimous support for further rate hikes, with Governor Waller flagging a possible 50 bps December move. US equities reversed earlier Anthropic-IPO gains: the Dow shed 1,084 points, the Nasdaq fell 2.2%, and the S&P 500 dropped to 7,323.6 — its fifth consecutive down session. Gold sank to a 15-month low of $3,694/oz and WTI crude fell 3.2% to $83/bbl; Bitcoin held near $63,384, down 28% YTD. [Source](https://www.home.saxo/en-mena/content/articles/macro/market-quick-take---metals-slide-while-fed-minutes-point-to-further-hikes---19-november-2026-19112026)
+> >
+> > [!breaking]- World: ICJ rules Myanmar committed genocide against Rohingya in 2017 Rakhine operations (UN/Geopolitiki)
+> > The International Court of Justice issued a landmark ruling finding that Myanmar's security forces committed genocide against the Rohingya Muslim minority during the 2017 Rakhine State military campaign that displaced over 700,000 people. The decision — the first time the ICJ has applied the genocide label to this case — opens the path to binding orders on Myanmar, though Naypyidaw has rejected the court's jurisdiction, complicating enforcement. The case was originally filed by The Gambia in 2019. [Source](https://geopolitiki.com/)
+> >
+> > [!note]- SG & MY: Malaysia Q3 GDP beats at 5.5% YoY; Bursa tracks regional weakness despite strong fundamentals (BNM)
+> > Bank Negara Malaysia reported Q3 2026 GDP growth of 5.5% year-on-year, beating consensus estimates, driven by resilient household consumption, stronger investment flows, and improved export performance. The ringgit opened slightly firmer on the data, though Bursa Malaysia tracked broader regional weakness amid hawkish Fed signals. PM Anwar was separately in Shenzhen meeting Chinese tech executives to advance AI and data-centre investment ahead of the December 4 Johor-Singapore SEZ launch. [Source](https://www.malaymail.com/)
+> >
+> > [!note]- Science: Supernova SN 2026ahvu caught live in NGC 1433 — Type Ia explosion 50 million light-years away (Space.com)
+> > Astronomers captured supernova SN 2026ahvu in real time as it erupted in galaxy NGC 1433, roughly 50 million light-years from Earth, providing a rare chance to study the explosion's earliest phases before observational lag sets in. Type Ia supernovae serve as standard candles for mapping cosmic expansion; catching one at onset yields data critical for calibrating the Hubble constant and resolving the "Hubble tension." [Source](https://space.com/astronomy/a-newfound-supernova-explodes-50-million-light-years-away-space-photo-of-the-day-for-nov-18-2026)
+> >
+> > [!note]- Nike NKE: $34.65 (−4.57%) — market selloff deepens losses; unrealised loss ~$1,704 on 46 shares (Benzinga)
+> > Nike closed Thursday at $34.65, down 4.57%, dragged lower by both the broader equity rout triggered by hawkish FOMC minutes and lingering post-Investor Day scepticism about the FY2031 turnaround timeline. Analyst consensus: 7 Buy / 14 Hold / 7 Sell; targets range from $24 (BofA Underperform) to $50 (BTIG Buy). At $34.65, the 46-share position carries an unrealised loss of ~$1,704 (value ~$1,594 vs cost ~$3,298). [Source](https://www.benzinga.com/trading-ideas/movers/26/11/63443764/why-is-nike-stock-falling-on-thursday)
 
 > [!note]- [[11-20-26 Fri]]
 >
