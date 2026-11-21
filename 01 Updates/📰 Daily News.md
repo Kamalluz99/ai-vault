@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-21T05:15
+updated: 2026-11-21T19:06
 topic: daily news
 frequency: daily
 ongoing: false
@@ -82,6 +82,26 @@ unread: true
 
 > [!note]- Nike NKE: ~$34.23 (−1.2%) — Investor Day fallout continues; Cantor cuts PT to $33; loss ~$1,723 on 46 shares (Benzinga)
 > Nike drifted to approximately $34.23 on Friday, extending post-Investor Day losses as the market digests management's two-year sales decline forecast before a return to market-level growth in FY2029. Cantor Fitzgerald cut its price target from $38 to $33; analyst consensus is 7 Buy / 14 Hold / 7 Sell. The 46-share position (avg cost $71.69) carries an unrealised loss of ~$1,723 (value ~$1,575 vs cost ~$3,298). [Source](https://benzinga.com/trading-ideas/movers/26/11/63443764/why-is-nike-stock-falling-on-thursday)
+
+> **Evening update**
+
+> [!note]- SG & MY: PM Wong meets Xi; Singapore-China FTA upgrade talks launched at ASEAN sidelines (Mothership)
+> Prime Minister Lawrence Wong met President Xi Jinping on the sidelines of the 49th ASEAN Summit meetings in Shenzhen, with both sides formally launching negotiations to upgrade Singapore's 2009 bilateral free trade agreement with China. The upgrade discussions cover digital trade, green economy sectors, and AI governance cooperation, reinforcing Singapore's role as a conduit for Chinese investment in the region. Singapore shares fell more than 2% on Friday tracking the broader global tech sell-off, though the diplomatic outcome was broadly welcomed by analysts. [Source](https://mothership.sg/)
+
+> [!note]- Malaysia: Loke confirms Malaysia-Singapore RTS Link and ECRL "locked in" for Johor-Singapore SEZ (Nikkei Asia)
+> Malaysian Transport Minister Anthony Loke confirmed that both the Malaysia-Singapore Rapid Transit System Link and the China-backed East Coast Rail Link are proceeding without revision, dispelling speculation about further delays ahead of the December 4 Johor-Singapore SEZ masterplan launch. The dual confirmation signals continued infrastructure momentum despite global risk-off sentiment triggered by US AI chip export controls and equity market volatility. The RTS Link is expected to begin passenger services by mid-2027, connecting Johor Bahru and Singapore's Woodlands North. [Source](https://asia.nikkei.com/location/southeast-asia)
+
+> [!breaking]- World: Russian missiles crash in Poland during NATO drills; Rutte flies to Warsaw (France 24)
+> A Russian Kh-101 cruise missile and a suspected drone came down in southeastern Poland on November 20 during active European military exercises, with Polish authorities confirming no casualties near the village of Nowy Lipowiec. NATO Secretary-General Mark Rutte condemned the incident as a "grave violation" of Poland's airspace and flew to Warsaw on Saturday for emergency consultations, as Poland shared debris with the United States. Warsaw has not formally invoked Article 4 but is requesting expanded NATO air defence coverage, raising fears of wider escalation. [Source](https://www.france24.com/en/europe/20261120-poland-says-russian-missile-hit-its-territory-during-attack-on-ukraine)
+
+> [!note]- World: Trump threatens Iran military action over reported dirty bomb plot targeting DC (Anadolu Agency)
+> US President Donald Trump publicly threatened military action against Iran following intelligence reports of a suspected Houthi or Iranian-linked operation to detonate a dirty bomb in Washington DC. The announcement came as the Saudi-led coalition intercepted three Houthi ballistic missiles headed for Riyadh, deepening fears of a broader Gulf escalation. The warnings add pressure on COP31 climate negotiators in Antalya, where Gulf oil disruptions from the ongoing Iran war are reshaping the global energy and emissions debate. [Source](https://aa.com.tr/en/world/morning-briefing-nov-21-2026/4132676)
+
+> [!note]- Tech: Broadcom patches VMware vCenter CVE exploited as zero-day by Chinese APT since September (AI Weekly)
+> Broadcom released an emergency patch for VMware vCenter Server addressing CVE-2026-123890, a critical remote code-execution vulnerability that a Chinese state-linked group tracked as "Armory Castle" had been exploiting as a zero-day since at least September. The flaw carries a near-maximum CVSS score and affects enterprise vCenter deployments globally; administrators are urged to patch outside normal maintenance windows. The disclosure intensifies scrutiny of Chinese cyber operations amid the ongoing AI chip export control standoff between Beijing and Washington. [Source](https://aiweekly.co/ai-news-today)
+
+> [!note]- Economy: COP31 climate talks miss Antalya deadline; draft text strips fossil fuel phase-out pledge (OilPrice)
+> UN climate negotiators in Antalya failed to reach a final draft agreement by their November 21 deadline, with leaked text reportedly removing all references to phasing down fossil fuels — a rollback from commitments at COP28 and COP30. The absence of formal US participation under the Trump administration has weakened the political coalition needed to defend strong fossil fuel language, while Gulf oil disruptions from the Iran war complicate the emissions calculus. Former US Climate Envoy John Kerry, attending independently, told delegates that the Iran conflict has paradoxically begun to reduce global fossil fuel emissions through energy market disruption. [Source](https://oilprice.com/Latest-Energy-News/World-News/COP31-Opens-in-Antalya-With-a-UN-Push-for-Faster-Climate-Action.amp.html)
 
 > [!note]- [[11-19-26 Thu]]
 >
