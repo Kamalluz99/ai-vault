@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-22T05:09
+updated: 2026-11-22T05:14
 topic: daily news
 frequency: daily
 ongoing: false
@@ -62,26 +62,26 @@ unread: true
 
 ### [[11-22-26 Sun]]
 
-> [!note]- AI: Amazon nearing $7.5B acquisition of Israeli AI startup Decart ahead of AWS re:Invent (Reuters)
-> Amazon is reportedly nearing a roughly $7.5 billion acquisition of Decart, an Israeli AI startup, with a deal expected to close within days and an announcement anticipated at AWS re:Invent on November 30. The move would be one of the largest AI startup acquisitions of 2026 and signals Amazon's push to deepen foundational AI capabilities beyond its own R&D. Separately, a Dragos security audit of AI inference providers found compromised hosting providers and resellers logging user prompts across 2 million canary-token tests. [Source](https://aiweekly.co/ai-news-today)
+> [!breaking]- AI: OpenAI GPT-6.2 "Astra" is first model rated "High" for self-improvement risk (Emergent)
+> OpenAI released GPT-6.2 Astra on November 17 — the first publicly available model to receive a "High" capability rating for self-improvement under its internal safety framework, a threshold the company had previously said would trigger additional safeguards. The release intensifies scrutiny over how frontier labs disclose dangerous-capability assessments and whether voluntary commitments are holding. The companion model GPT-6.2 Sol was released alongside it. [Source](https://emergent.sh/news/week-s-top-5-ai-stories-november-2026-roundup)
 
-> [!breaking]- Tech: Nvidia tumbles 14% on Friday; Trump calls for Jensen Huang to return as CEO (Daily Telegraph NZ)
-> Nvidia shares fell 14% on Friday as the AI trade rout deepened, with the stock down sharply from its 2026 peak amid an SEC probe into accounting irregularities and a California AG subpoena related to China chip diversion. President Trump publicly backed former CEO Jensen Huang — who resigned earlier this year over alleged personal and national security concerns — to return to lead the company. The drop pushed the Nasdaq to its worst weekly performance since the COVID-19 lockdowns of March 2020. [Source](https://dailytelegraph.co.nz/world/trump-urges-second-chance-for-jensen-huang)
+> [!note]- Tech: Canva cuts 22% of workforce — 1,271 jobs — as AI feature costs bite growth forecast (TechRepublic)
+> Canva announced a major restructuring, cutting approximately 22% of its global workforce as AI feature delivery costs ran higher than expected and revenue growth guidance was cut from 30% to 20% for the year. CEO Melanie Perkins told staff roles would be eliminated or relocated to central hubs. The move is one of the largest headcount reductions at an Australian-founded tech unicorn and signals ongoing AI-era workforce pressures. [Source](https://www.techrepublic.com/article/news-canva-restructure-1271-workers-layoffs/)
 
-> [!breaking]- Macro: Bitcoin crashes to 2-year low; Nasdaq erases all 2026 gains as AI selloff enters week two (CNBC)
-> Bitcoin fell to its lowest level in more than two years as the second week of the AI trade rout intensified. The Nasdaq wiped out all 2026 year-to-date gains, while the S&P 500 and Dow Jones both entered official correction territory — both more than 10% off recent highs. US CPI sits at 3.7% with the Fed holding rates at 3.75–4%; a December hike is ~95% priced in and the 30-year Treasury yield fell to 5.3% as investors fled to bonds. [Source](https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394)
+> [!note]- Macro: Nasdaq erases all 2026 gains; Bitcoin near $60K; December Fed hike ~95% priced in (CNBC/Saxo)
+> Global markets head into a second straight losing week as the AI trade selloff deepens. The Nasdaq wiped all 2026 YTD gains, the S&P 500 and Dow remain in correction territory (>10% from highs), Bitcoin fell to around $60K, and gold slipped below $3,700 as hawkish signals from the Fed, ECB, and BoJ weighed on sentiment. A December Fed hike (target 4.00–4.25%) is ~95% priced in. [Source](https://home.saxo/en-gb/content/articles/macro/market-quick-take---asian-stocks-tumble-after-wall-streets-sixth-straight-decline---20-november-2026-20112026)
 
-> [!note]- World: Baltic cargo ship bound for Russia's Kaliningrad struck by drone; Finland tightens security (NBC)
-> A cargo vessel navigating toward Russia's Kaliningrad exclave was struck by drones in the Baltic Sea over the weekend, with Finland rapidly tightening maritime security patrols in response. The incident follows a string of undersea cable and shipping disruptions across the Baltic, raising concerns about escalating hybrid warfare targeting NATO-adjacent waters. Pope Leo XIV is currently on a historic 12-day South America tour. [Source](https://www.nbcnews.com/world)
+> [!note]- World: Russia-Ukraine Abu Dhabi talks: prisoner swap agreed, ceasefire gap remains wide (NBC News)
+> US-brokered peace talks between Russia and Ukraine in Abu Dhabi resulted in a large-scale prisoner exchange agreement but failed to bridge core gaps — Russia still demands all of the Donbas and Ukrainian neutrality, while Kyiv seeks a ceasefire and Western security guarantees. US mediators called the talks "constructive" but cautioned that confidence between the two sides remains very low. Jared Kushner separately said Russia is "comfortable" with NATO-style security guarantees for Ukraine. [Source](https://www.nbcnews.com/world/ukraine/us-mediated-talks-ending-war-russia-ukraine-begin-abu-dhabi-rcna608499)
 
-> [!note]- Malaysia/Singapore: Najib settles RM50M SRC fine, paving way for house arrest; Singapore tightens haze law (The Edge SG)
-> Former Malaysian Prime Minister Najib Razak settled a RM50 million fine in his SRC International corruption case, clearing a key condition blocking his application for house arrest. Separately, Singapore amended its Transboundary Haze Pollution Act to include arrest powers and significantly heavier fines, strengthening cross-border enforcement against companies responsible for haze. The Singapore criminal probe into Megaspeed over Nvidia AI chip re-exports — five defendants, six companies — also enters its pre-trial phase this week. [Source](https://www.theedgesingapore.com/)
+> [!note]- Malaysia: Negeri Sembilan palace demands MB Ismail Lasim prove assembly majority; crisis deepens (SCMP)
+> The Negeri Sembilan royal palace denied reports it asked Chief Minister Ismail Lasim to remain in office, instead demanding he demonstrate a majority in the state assembly. The standoff triggered a political crisis with rival Madani coalition factions jostling ahead of a potential confidence vote — the most significant sub-national governance crisis since the 2020 Sheraton Move. [Source](https://www.scmp.com/topics/malaysia)
 
-> [!note]- Science: AI solves long-standing math problem — but humans can't verify the proof (Science)
-> An AI system has made apparent progress on a long-standing unsolved mathematics problem, but the solution is so complex that human mathematicians cannot yet verify whether it is correct. The case raises a fundamental challenge in AI-assisted research: AI may now generate proofs faster than humans can validate them, complicating peer review and reproducibility in advanced mathematics. [Source](https://www.science.org/)
+> [!note]- Science: MIT finds aging severely weakens brain's overnight waste-clearance system (ScienceDaily)
+> MIT researchers found that aging significantly weakens the brain's glymphatic system — the nighttime mechanism responsible for flushing toxic proteins such as amyloid and tau linked to Alzheimer's disease. Older brains show markedly reduced cerebrospinal fluid circulation during sleep, leaving more accumulated waste and potentially explaining why age is the dominant risk factor for neurodegeneration. [Source](https://sciencedaily.com/releases/2026/11/261114202137.htm)
 
-> [!note]- Nike NKE: ~$32.94 (−4.1% Fri) — Cantor cuts PT to $33; YTD −47%; loss ~$1,783 on 46 shares (Benzinga)
-> Nike closed Friday at approximately $32.94, down 4.1% in a broad market selloff — YTD now −47%. Cantor Fitzgerald cut its price target from $38 to $33 (Neutral); Evercore ISI raised its target to $35 (In Line). The 46-share position (avg cost $71.69) carries an unrealised loss of approximately $1,783 (value ~$1,515 vs cost ~$3,298). Markets are closed this weekend; next earnings are due December 17. [Source](https://globalbankingandfinance.com/nike-nke-falls-2026-11-20)
+> [!note]- Nike NKE: Markets closed (weekend) — last close ~$32.94 (−4.1% Fri); YTD −47%; loss ~$1,783 on 46 shares (Benzinga)
+> Markets are closed for the weekend. Nike last closed at approximately $32.94 on Friday, down 4.1%, YTD now −47%. The 46-share position (avg cost $71.69) carries an unrealised loss of approximately $1,783 (value ~$1,515 vs cost ~$3,298). Next earnings: December 17. [Source](https://globalbankingandfinance.com/nike-nke-falls-2026-11-20)
 
 > [!note]- [[11-21-26 Sat]]
 
