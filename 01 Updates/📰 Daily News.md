@@ -126,6 +126,20 @@ unread: true
 > [!note]- Economy: COP31 climate talks miss Antalya deadline; draft text strips fossil fuel phase-out pledge (OilPrice)
 > UN climate negotiators in Antalya failed to reach a final draft agreement by their November 21 deadline, with leaked text reportedly removing all references to phasing down fossil fuels — a rollback from commitments at COP28 and COP30. The absence of formal US participation under the Trump administration has weakened the political coalition needed to defend strong fossil fuel language, while Gulf oil disruptions from the Iran war complicate the emissions calculus. Former US Climate Envoy John Kerry, attending independently, told delegates that the Iran conflict has paradoxically begun to reduce global fossil fuel emissions through energy market disruption. [Source](https://oilprice.com/Latest-Energy-News/World-News/COP31-Opens-in-Antalya-With-a-UN-Push-for-Faster-Climate-Action.amp.html)
 
+> **Late update**
+
+> [!breaking]- World: Russia launches largest missile barrage on Ukraine in weeks on Saturday (NBC News)
+> Russia launched a large-scale missile and drone barrage across Ukraine on November 21, one of the heaviest attacks in recent weeks, targeting energy infrastructure in multiple regions. The attack comes the day after Russian cruise missiles strayed into Polish territory during NATO exercises, compounding security alarm across the alliance. Finland separately restricted aviation and maritime traffic in the eastern Gulf of Finland following drone incidents near Kaliningrad-bound shipping. [Source](https://www.nbcnews.com/world)
+
+> [!note]- Malaysia/Singapore: Indonesia restores piped gas to Singapore after 18-day supply cut (Malay Mail)
+> Singapore's energy ministry confirmed that Indonesia resumed piped natural gas supplies to Singapore, ending an 18-day interruption that had prompted energy authorities to activate backup capacity. The resumption eases gas-security concerns as Singapore's industrial and power sectors depend heavily on the Sumatra-Singapore pipeline corridor. Separately, ex-Malaysian PM Najib Razak settled his RM50 million fine in the SRC case, clearing the final legal hurdle for a transition to house arrest. [Source](https://www.malaymail.com/news/singapore)
+
+> [!note]- Macro: S&P 500 falls 3.7% on Friday — 7th straight loss; gold at $3,503, Bitcoin hits multi-year low (Kitco/Bloomberg)
+> The S&P 500 dropped 3.7% on Friday — its seventh consecutive daily decline and the index's worst week since April 2025 — leaving both the S&P 500 and Dow officially 10% off recent highs. Gold fell to $3,502.93/oz and silver to $40.66, while Bitcoin tumbled to a multi-year low as spot-crypto ETFs saw an estimated $5 billion in single-day outflows. WTI crude settled at $83.98/bbl and Brent at $92.57/bbl. [Source](https://kitco.com/news/article/2026-11-20/gold-falls-toward-3500-silver-slides-stock-markets-enter-correction)
+
+> [!note]- Nike NKE: ~$33.04 (Sat est., −3.5%) — broad selloff deepens losses; unrealised loss ~$1,778 on 46 shares (Robinhood)
+> Nike extended its slide into Saturday, with estimates placing the stock around $33.04 — down approximately 3.5% from Friday's ~$34.23 close — as the broader market selloff and post-Investor Day scepticism continued to weigh. The 46-share position (avg cost $71.69) now carries an unrealised loss of approximately $1,778 (value ~$1,520 vs cost ~$3,298). [Source](https://robinhood.com/us/en/stocks/NKE/)
+
 > [!note]- [[11-19-26 Thu]]
 >
 > > [!note]- AI: Google DeepMind's Genie 4 enables real-time interactive world generation from text or images (Blockchain.News)
