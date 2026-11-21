@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-21T19:06
+updated: 2026-11-22T05:09
 topic: daily news
 frequency: daily
 ongoing: false
@@ -60,7 +60,30 @@ unread: true
 
 ## 2026-11
 
-### [[11-21-26 Sat]]
+### [[11-22-26 Sun]]
+
+> [!note]- AI: Amazon nearing $7.5B acquisition of Israeli AI startup Decart ahead of AWS re:Invent (Reuters)
+> Amazon is reportedly nearing a roughly $7.5 billion acquisition of Decart, an Israeli AI startup, with a deal expected to close within days and an announcement anticipated at AWS re:Invent on November 30. The move would be one of the largest AI startup acquisitions of 2026 and signals Amazon's push to deepen foundational AI capabilities beyond its own R&D. Separately, a Dragos security audit of AI inference providers found compromised hosting providers and resellers logging user prompts across 2 million canary-token tests. [Source](https://aiweekly.co/ai-news-today)
+
+> [!breaking]- Tech: Nvidia tumbles 14% on Friday; Trump calls for Jensen Huang to return as CEO (Daily Telegraph NZ)
+> Nvidia shares fell 14% on Friday as the AI trade rout deepened, with the stock down sharply from its 2026 peak amid an SEC probe into accounting irregularities and a California AG subpoena related to China chip diversion. President Trump publicly backed former CEO Jensen Huang — who resigned earlier this year over alleged personal and national security concerns — to return to lead the company. The drop pushed the Nasdaq to its worst weekly performance since the COVID-19 lockdowns of March 2020. [Source](https://dailytelegraph.co.nz/world/trump-urges-second-chance-for-jensen-huang)
+
+> [!breaking]- Macro: Bitcoin crashes to 2-year low; Nasdaq erases all 2026 gains as AI selloff enters week two (CNBC)
+> Bitcoin fell to its lowest level in more than two years as the second week of the AI trade rout intensified. The Nasdaq wiped out all 2026 year-to-date gains, while the S&P 500 and Dow Jones both entered official correction territory — both more than 10% off recent highs. US CPI sits at 3.7% with the Fed holding rates at 3.75–4%; a December hike is ~95% priced in and the 30-year Treasury yield fell to 5.3% as investors fled to bonds. [Source](https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394)
+
+> [!note]- World: Baltic cargo ship bound for Russia's Kaliningrad struck by drone; Finland tightens security (NBC)
+> A cargo vessel navigating toward Russia's Kaliningrad exclave was struck by drones in the Baltic Sea over the weekend, with Finland rapidly tightening maritime security patrols in response. The incident follows a string of undersea cable and shipping disruptions across the Baltic, raising concerns about escalating hybrid warfare targeting NATO-adjacent waters. Pope Leo XIV is currently on a historic 12-day South America tour. [Source](https://www.nbcnews.com/world)
+
+> [!note]- Malaysia/Singapore: Najib settles RM50M SRC fine, paving way for house arrest; Singapore tightens haze law (The Edge SG)
+> Former Malaysian Prime Minister Najib Razak settled a RM50 million fine in his SRC International corruption case, clearing a key condition blocking his application for house arrest. Separately, Singapore amended its Transboundary Haze Pollution Act to include arrest powers and significantly heavier fines, strengthening cross-border enforcement against companies responsible for haze. The Singapore criminal probe into Megaspeed over Nvidia AI chip re-exports — five defendants, six companies — also enters its pre-trial phase this week. [Source](https://www.theedgesingapore.com/)
+
+> [!note]- Science: AI solves long-standing math problem — but humans can't verify the proof (Science)
+> An AI system has made apparent progress on a long-standing unsolved mathematics problem, but the solution is so complex that human mathematicians cannot yet verify whether it is correct. The case raises a fundamental challenge in AI-assisted research: AI may now generate proofs faster than humans can validate them, complicating peer review and reproducibility in advanced mathematics. [Source](https://www.science.org/)
+
+> [!note]- Nike NKE: ~$32.94 (−4.1% Fri) — Cantor cuts PT to $33; YTD −47%; loss ~$1,783 on 46 shares (Benzinga)
+> Nike closed Friday at approximately $32.94, down 4.1% in a broad market selloff — YTD now −47%. Cantor Fitzgerald cut its price target from $38 to $33 (Neutral); Evercore ISI raised its target to $35 (In Line). The 46-share position (avg cost $71.69) carries an unrealised loss of approximately $1,783 (value ~$1,515 vs cost ~$3,298). Markets are closed this weekend; next earnings are due December 17. [Source](https://globalbankingandfinance.com/nike-nke-falls-2026-11-20)
+
+> [!note]- [[11-21-26 Sat]]
 
 > [!note]- AI: Anthropic IPO Day 2 — ANT loses 9%, giving back most of its 17% debut gain; Nvidia/AMD each down 13% (CNBC)
 > Anthropic's stock (ANT) retreated roughly 9% on its second trading day, surrendering most of its 17% first-day gain as a broad AI trade selloff intensified. Nvidia and AMD each fell 13%, with pressure compounded by an SEC probe into possible accounting irregularities at Nvidia and a California AG subpoena related to China chip diversion. [Source](https://cnbc.com/2026/11/19/stock-market-today-live-updates.html)
