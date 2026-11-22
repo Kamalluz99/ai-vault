@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-22T05:14
+updated: 2026-11-22T19:03
 topic: daily news
 frequency: daily
 ongoing: false
@@ -82,6 +82,26 @@ unread: true
 
 > [!note]- Nike NKE: Markets closed (weekend) — last close ~$32.94 (−4.1% Fri); YTD −47%; loss ~$1,783 on 46 shares (Benzinga)
 > Markets are closed for the weekend. Nike last closed at approximately $32.94 on Friday, down 4.1%, YTD now −47%. The 46-share position (avg cost $71.69) carries an unrealised loss of approximately $1,783 (value ~$1,515 vs cost ~$3,298). Next earnings: December 17. [Source](https://globalbankingandfinance.com/nike-nke-falls-2026-11-20)
+
+> **Evening update**
+
+> [!note]- SG & MY: US chip-smuggling scrutiny puts Malaysia, Singapore and Thailand in firing line (IntelliNews)
+> New US Commerce Department licensing rules for advanced AI chips, effective November 19, now require verified end-use agreements for shipments to Malaysia, Thailand, and Singapore — over fears Chinese firms are renting AI computing power through these countries. Malaysia has separately required export permits for US-made high-performance AI chips in transit since July 2025. The US Treasury is also pressing both Singapore and Malaysia on compliance with Iran sanctions. [Source](https://www.intellinews.com/asia-s-chip-smuggling-fears-put-malaysia-thailand-and-singapore-in-the-us-firing-line-486548/)
+
+> [!note]- Malaysia: Najib house arrest minutes to be declassified so govt can answer Malaysian Bar in court (The Star)
+> Malaysian Home Minister announced that the minutes of Najib Razak's house arrest arrangement will be declassified to allow the government to respond to the Malaysian Bar's challenge in court. The Bar filed legal action contesting the terms of Najib's house arrest, arguing it amounts to preferential treatment. The move is seen as an attempt to provide transparency around the controversial arrangement that allowed the former PM to serve his sentence outside prison. [Source](https://thestar.com.my/aseanplus/aseanplus-news/2026/11/21/asean-news-headlines-at-10pm-on-saturday-nov-21-2026)
+
+> [!breaking]- World: Iran's Revolutionary Guards claim destroying two US Patriot radars in Bahrain (Anadolu Agency)
+> Iran's Islamic Revolutionary Guard Corps claimed on Sunday it destroyed two US Patriot air defence radar systems stationed in Bahrain, a significant escalation in Gulf tensions. Bahrain had renewed its threat alert level following earlier Iranian activity in the region. Trump separately stated he is seeking a lasting agreement with Tehran that would permanently block future nuclear ambitions, as Turkey's foreign minister linked any US-Iran deal to easing broader global economic strain. [Source](https://aa.com.tr/en/anadolu-post/morning-briefing-nov-22-2026/4133301)
+
+> [!note]- World: Russian drone hits building in Kyiv region; at least 14 missing (NBC News)
+> At least 14 people are missing after a Russian drone struck a building in the Kyiv region, according to President Zelenskyy. The attack follows last week's large-scale missile barrage across Ukraine and compounds security alarm across NATO following the stray missile incident in Poland. US-brokered peace talks in Abu Dhabi earlier this week produced a prisoner swap agreement but no ceasefire, leaving the conflict trajectory unchanged. [Source](https://www.nbcnews.com/world)
+
+> [!note]- Tech: Amazon nearing $7.5B acquisition of Israeli AI chip-switching startup Decart (AI Weekly)
+> Amazon is reportedly nearing a $7.5 billion deal to acquire Decart, an Israeli AI startup that developed chip-switching technology to optimise workloads across GPU clusters and reduce inference costs. The deal would be one of the year's largest AI infrastructure acquisitions as hyperscalers race to lock in proprietary chip orchestration capabilities. AI server board demand is separately expected to squeeze supply chains for automotive, medical, and defence electronics through 2028. [Source](https://aiweekly.co/ai-news-today)
+
+> [!breaking]- Economy: US Supreme Court strikes down Trump's global tariffs; markets await clarity (Bloomberg)
+> The US Supreme Court struck down President Trump's sweeping global tariff programme, ruling it an overreach of executive trade authority. The decision injects major uncertainty into US trade policy heading into 2027, with financial markets expected to reprice on Monday as importers and exporters reassess supply chains built around the tariff regime. The ruling arrives as the IMF has separately warned that global public debt is approaching 100% of GDP — the highest since World War II. [Source](https://www.bloomberg.com/economics)
 
 > [!note]- [[11-21-26 Sat]]
 
