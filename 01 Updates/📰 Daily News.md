@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-22T21:11
+updated: 2026-11-23T05:13
 topic: daily news
 frequency: daily
 ongoing: false
@@ -62,26 +62,26 @@ unread: true
 
 ### [[11-23-26 Mon]]
 
-> [!note]- AI: Study finds AI may not process info like the brain despite matching its activity patterns (ScienceDaily)
-> New research published November 21 found that AI models can predict brain activity closely yet process information through fundamentally different mechanisms — a finding that challenges the assumption that predictive similarity implies cognitive equivalence. The study deepens questions about using AI as a proxy for human cognition and complicates interpretability research that draws on neural network analogies. MIT separately used LLMs to audit nearly 4,000 medical studies and found widespread gaps in reproducible code and data. [Source](https://www.sciencedaily.com/news/computers_math/artificial_intelligence/)
+> [!note]- AI: Google launches Gemini 4 Argon — frontier model for coding and cyber defense (AI Release Tracker)
+> Google deployed Gemini 4 Argon, a frontier model purpose-built for advanced coding and cyber defense applications, while confirming that plans for Gemini 3.5 Pro have been shelved. The release extends Google's Gemini 4 family beyond the Neon model that became generally available last week. Moonshot AI also released open weights for Kimi K3, a 3-trillion-parameter-class model, capping a crowded week of frontier model releases. [Source](https://aireleasetracker.com/latest)
 
-> [!note]- Tech: Italy fines Meta €805M ($887M) over Facebook's unauthorised access to Android photo galleries (Reuters)
-> Italy's data protection authority fined Meta €805 million — approximately $887 million — for a Facebook feature that accessed photos and videos stored in Android users' device galleries without adequate disclosure or consent. The fine is one of the largest GDPR-linked penalties issued outside Ireland and follows a string of EU enforcement actions targeting Meta's data practices in 2026. [Source](https://www.styletech.net/post/top-news-in-tech-november-2026)
+> [!note]- Tech: Uber cuts 3,300 jobs — nearly 10% of workforce — in AI-era restructuring (tech.co)
+> Uber announced plans to cut approximately 3,300 employees from its 34,000-strong global workforce as part of a restructuring described as essential for competing in an AI-driven market. The move adds to a 2026 tech layoff wave that has shed more than 200,000 industry jobs, with Oracle, Coinbase, and Palo Alto Networks also making cuts this month. [Source](https://tech.co/news/tech-companies-layoffs)
 
-> [!breaking]- Macro: PCE in focus this Thanksgiving week; flash PMIs today; December Fed hike ~95% priced in (FX Empire)
-> US markets open a Thanksgiving-shortened week with S&P 500 and Nasdaq in correction territory after last week's broad selloff. Flash manufacturing and services PMIs are due Monday alongside New York Fed President Williams speaking. Core PCE — due Wednesday — is forecast to rise to 2.9% from 2.6%, which could reinforce the ~95% market probability of a December Fed hike. Oil remains near $115/bbl as the Strait of Hormuz standoff persists. [Source](https://fxempire.com/forecasts/article/the-week-ahead-pce-in-focus-after-ai-sell-off-in-holiday-shortened-week-1646337)
+> [!breaking]- Macro: S&P 500 in correction entering Thanksgiving-short week; PCE Wed; Dec Fed hike ~95% priced in (FX Empire)
+> US markets open a Thanksgiving-shortened week with the S&P 500 at ~6,910 — over 10% off recent highs — after seven straight losing sessions. Core PCE is forecast to tick up to 2.9% on Wednesday, reinforcing the ~95% market probability of a December Fed rate hike to 4.00–4.25%. Bitcoin is near $60K, gold around $3,515, and WTI crude near $84/bbl amid the ongoing Strait of Hormuz standoff. [Source](https://fxempire.com/forecasts/article/the-week-ahead-pce-in-focus-after-ai-sell-off-in-holiday-shortened-week-1646337)
 
-> [!note]- World: China's intelligence campaign to procure advanced AI chips exposed ahead of Xi-Trump Shenzhen summit (DCN)
-> US intelligence officials revealed that China ran a systematic campaign to obtain advanced AI chips — including through Malaysia, Singapore, and Thailand — ahead of Xi Jinping's bilateral summit with President Trump in Shenzhen following the ASEAN leaders' meeting. The disclosure adds pressure on Beijing as Trump said he pressed Xi on chip diversion compliance during their meeting. The story runs alongside the Supreme Court's weekend ruling striking down Trump's global tariff programme. [Source](https://dailycuratednews.substack.com/p/news-headlines-november-23-2026)
+> [!breaking]- World: Trump-Xi-Putin Shenzhen trilateral ends with few results; Iran escalation continues (NPR)
+> President Trump, China's Xi Jinping, and Russia's Vladimir Putin held a historic first trilateral summit in Shenzhen covering Ukraine, Iran, nuclear disarmament, and AI chip controls — but NPR reported the meeting produced "few results" with no ceasefire pledge and no binding chip-diversion commitment from Beijing. Iran's IRGC separately claimed to have destroyed two US Patriot radar systems in Bahrain, while Trump publicly threatened further military action over a reported dirty bomb plot targeting Washington. [Source](https://www.npr.org/sections/world/)
 
-> [!note]- SG & MY: YMCA Singapore youth portal breach may affect 13,000+; PM Wong meets Xi in post-APEC bilateral (CNA/SCMP)
-> YMCA Singapore's Youth for Causes portal and its database suffered a cybersecurity breach potentially affecting more than 13,000 users, according to CNA. Separately, Prime Minister Lawrence Wong held a bilateral meeting with Chinese President Xi Jinping in Shenzhen in the wake of the APEC leaders' summit, with both sides expected to advance discussions on Singapore-China FTA upgrade talks launched November 21. [Source](https://bernama.com/en/world/news.php?id=2637704)
+> [!note]- Malaysia: Negeri Sembilan MB Ismail Lasim resigns; palace rejects request to stay (Free Malaysia Today)
+> Negeri Sembilan Chief Minister Ismail Lasim formally submitted his resignation after the state royal palace denied reports it had asked him to remain in office and instead demanded he demonstrate a majority in the state assembly. The standoff between Madani coalition factions may trigger a by-election or snap state polls, marking the most significant sub-national governance crisis since the 2020 Sheraton Move. [Source](https://www.freemalaysiatoday.com/category/nation/)
 
-> [!note]- Science: Voyager 1 makes history at one light-day from Earth — 26 billion km away, still transmitting after 49 years (ScienceDaily)
-> NASA's Voyager 1 probe has reached a historic milestone: now one full light-day from Earth — over 26 billion kilometres — the farthest any human-made object has ever travelled while still sending back science data. The achievement comes nearly 49 years after its 1977 launch and continues to yield data on interstellar space that no other mission can replicate. [Source](https://www.sciencedaily.com/news/)
+> [!note]- Science: James Webb telescope records first-ever real-time images of a star swallowing its companion (Space.com)
+> The James Webb Space Telescope captured first-ever observations of a giant star absorbing its binary companion in a live stellar merger — a process previously only inferred from remnants and theoretical models. The November 20 report opens a direct window into binary star end stages and may reshape models of stellar mass distribution and supernova progenitors. [Source](https://www.space.com/)
 
-> [!note]- Nike NKE: $32.94 (pre-mkt, last close Fri −4.1%) — guides FY2029 recovery; YTD −47%; loss ~$1,783 on 46 shares (Benzinga)
-> US markets open Monday with Nike's last close at $32.94, down 4.1% from the prior session. Post-Investor Day selling continues as management guided for FY2028 as another down year before market-level growth in FY2029. Cantor Fitzgerald PT $33 (Neutral); targets range from $24 (BofA Underperform) to $50 (BTIG Buy). The 46-share position (avg cost $71.69) carries an unrealised loss of ~$1,783 (value ~$1,515 vs cost ~$3,298). [Source](https://www.benzinga.com/markets/large-cap/26/11/63479913/nikes-jordan-and-sportswear-sales-may-face-further-declines-analyst-warns)
+> [!note]- Nike NKE: $32.94 (pre-mkt Mon) — Thanksgiving-week trading opens; YTD −47%; unrealised loss ~$1,783 on 46 shares (Benzinga)
+> Nike enters a Thanksgiving-shortened trading week around $32.94 pre-market, still carrying the weight of post-Investor Day selling and a likely December Fed hike. YTD performance sits at −47%; the 46-share position (avg cost $71.69) carries an unrealised loss of ~$1,783 (value ~$1,515 vs cost ~$3,298). Next catalyst: Q2 earnings December 17. [Source](https://www.benzinga.com/markets/large-cap/26/11/63479913/nikes-jordan-and-sportswear-sales-may-face-further-declines-analyst-warns)
 
 > **Late update (Sun evening)**
 
