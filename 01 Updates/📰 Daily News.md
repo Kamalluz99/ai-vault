@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-23T05:00
+updated: 2026-11-22T21:11
 topic: daily news
 frequency: daily
 ongoing: false
@@ -82,6 +82,11 @@ unread: true
 
 > [!note]- Nike NKE: $32.94 (pre-mkt, last close Fri −4.1%) — guides FY2029 recovery; YTD −47%; loss ~$1,783 on 46 shares (Benzinga)
 > US markets open Monday with Nike's last close at $32.94, down 4.1% from the prior session. Post-Investor Day selling continues as management guided for FY2028 as another down year before market-level growth in FY2029. Cantor Fitzgerald PT $33 (Neutral); targets range from $24 (BofA Underperform) to $50 (BTIG Buy). The 46-share position (avg cost $71.69) carries an unrealised loss of ~$1,783 (value ~$1,515 vs cost ~$3,298). [Source](https://www.benzinga.com/markets/large-cap/26/11/63479913/nikes-jordan-and-sportswear-sales-may-face-further-declines-analyst-warns)
+
+> **Late update (Sun evening)**
+
+> [!note]- World: King Salman fires anti-Houthi coalition commander in major Gulf military shake-up (Geopolitics Explained)
+> Saudi Arabia's King Salman dismissed the commander of the Saudi-led Arab coalition fighting the Houthis in Yemen on Sunday, Saudi state media SPA reported, in the most significant military restructuring of the Gulf conflict in months. The move follows last week's Houthi missile strike on Riyadh's Kingdom Tower and mounting criticism of coalition leadership after repeated Houthi aerial attacks penetrated Saudi air defences. The dismissal signals a command overhaul as the Iran–US confrontation escalates and Houthi missile sophistication continues to increase. [Source](https://geopoliticsexplained.substack.com/p/this-week-in-geopolitics-22nd-november)
 
 > [!note]- [[11-22-26 Sun]]
 
