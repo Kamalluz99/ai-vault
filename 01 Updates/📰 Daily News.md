@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-22T19:03
+updated: 2026-11-23T05:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -60,7 +60,30 @@ unread: true
 
 ## 2026-11
 
-### [[11-22-26 Sun]]
+### [[11-23-26 Mon]]
+
+> [!note]- AI: Study finds AI may not process info like the brain despite matching its activity patterns (ScienceDaily)
+> New research published November 21 found that AI models can predict brain activity closely yet process information through fundamentally different mechanisms — a finding that challenges the assumption that predictive similarity implies cognitive equivalence. The study deepens questions about using AI as a proxy for human cognition and complicates interpretability research that draws on neural network analogies. MIT separately used LLMs to audit nearly 4,000 medical studies and found widespread gaps in reproducible code and data. [Source](https://www.sciencedaily.com/news/computers_math/artificial_intelligence/)
+
+> [!note]- Tech: Italy fines Meta €805M ($887M) over Facebook's unauthorised access to Android photo galleries (Reuters)
+> Italy's data protection authority fined Meta €805 million — approximately $887 million — for a Facebook feature that accessed photos and videos stored in Android users' device galleries without adequate disclosure or consent. The fine is one of the largest GDPR-linked penalties issued outside Ireland and follows a string of EU enforcement actions targeting Meta's data practices in 2026. [Source](https://www.styletech.net/post/top-news-in-tech-november-2026)
+
+> [!breaking]- Macro: PCE in focus this Thanksgiving week; flash PMIs today; December Fed hike ~95% priced in (FX Empire)
+> US markets open a Thanksgiving-shortened week with S&P 500 and Nasdaq in correction territory after last week's broad selloff. Flash manufacturing and services PMIs are due Monday alongside New York Fed President Williams speaking. Core PCE — due Wednesday — is forecast to rise to 2.9% from 2.6%, which could reinforce the ~95% market probability of a December Fed hike. Oil remains near $115/bbl as the Strait of Hormuz standoff persists. [Source](https://fxempire.com/forecasts/article/the-week-ahead-pce-in-focus-after-ai-sell-off-in-holiday-shortened-week-1646337)
+
+> [!note]- World: China's intelligence campaign to procure advanced AI chips exposed ahead of Xi-Trump Shenzhen summit (DCN)
+> US intelligence officials revealed that China ran a systematic campaign to obtain advanced AI chips — including through Malaysia, Singapore, and Thailand — ahead of Xi Jinping's bilateral summit with President Trump in Shenzhen following the ASEAN leaders' meeting. The disclosure adds pressure on Beijing as Trump said he pressed Xi on chip diversion compliance during their meeting. The story runs alongside the Supreme Court's weekend ruling striking down Trump's global tariff programme. [Source](https://dailycuratednews.substack.com/p/news-headlines-november-23-2026)
+
+> [!note]- SG & MY: YMCA Singapore youth portal breach may affect 13,000+; PM Wong meets Xi in post-APEC bilateral (CNA/SCMP)
+> YMCA Singapore's Youth for Causes portal and its database suffered a cybersecurity breach potentially affecting more than 13,000 users, according to CNA. Separately, Prime Minister Lawrence Wong held a bilateral meeting with Chinese President Xi Jinping in Shenzhen in the wake of the APEC leaders' summit, with both sides expected to advance discussions on Singapore-China FTA upgrade talks launched November 21. [Source](https://bernama.com/en/world/news.php?id=2637704)
+
+> [!note]- Science: Voyager 1 makes history at one light-day from Earth — 26 billion km away, still transmitting after 49 years (ScienceDaily)
+> NASA's Voyager 1 probe has reached a historic milestone: now one full light-day from Earth — over 26 billion kilometres — the farthest any human-made object has ever travelled while still sending back science data. The achievement comes nearly 49 years after its 1977 launch and continues to yield data on interstellar space that no other mission can replicate. [Source](https://www.sciencedaily.com/news/)
+
+> [!note]- Nike NKE: $32.94 (pre-mkt, last close Fri −4.1%) — guides FY2029 recovery; YTD −47%; loss ~$1,783 on 46 shares (Benzinga)
+> US markets open Monday with Nike's last close at $32.94, down 4.1% from the prior session. Post-Investor Day selling continues as management guided for FY2028 as another down year before market-level growth in FY2029. Cantor Fitzgerald PT $33 (Neutral); targets range from $24 (BofA Underperform) to $50 (BTIG Buy). The 46-share position (avg cost $71.69) carries an unrealised loss of ~$1,783 (value ~$1,515 vs cost ~$3,298). [Source](https://www.benzinga.com/markets/large-cap/26/11/63479913/nikes-jordan-and-sportswear-sales-may-face-further-declines-analyst-warns)
+
+> [!note]- [[11-22-26 Sun]]
 
 > [!breaking]- AI: OpenAI GPT-6.2 "Astra" is first model rated "High" for self-improvement risk (Emergent)
 > OpenAI released GPT-6.2 Astra on November 17 — the first publicly available model to receive a "High" capability rating for self-improvement under its internal safety framework, a threshold the company had previously said would trigger additional safeguards. The release intensifies scrutiny over how frontier labs disclose dangerous-capability assessments and whether voluntary commitments are holding. The companion model GPT-6.2 Sol was released alongside it. [Source](https://emergent.sh/news/week-s-top-5-ai-stories-november-2026-roundup)
