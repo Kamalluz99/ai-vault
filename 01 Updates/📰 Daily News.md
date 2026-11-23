@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-23T20:30
+updated: 2026-11-24T05:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -60,7 +60,30 @@ unread: true
 
 ## 2026-11
 
-### [[11-23-26 Mon]]
+### [[11-24-26 Tue]]
+
+> [!note]- AI: Meta AI chief warns superintelligence is "arriving"; calls for urgent industry rethink (Al Jazeera)
+> Scale AI CEO and Meta's chief AI officer Alexandr Wang warned Sunday that artificial superintelligence is arriving sooner than expected, urging the industry to reconsider its trajectory before humans lose control. The alert came days after an Anthropic employee claimed to have used Claude to solve the Riemann hypothesis — unverified — and as OpenAI chief scientist Jakub Pachocki separately proposed industrywide development thresholds that labs would agree not to exceed until safety requirements are met. [Source](https://www.aljazeera.com/economy/2026/11/23/ai-superintelligence-arriving-warns-top-meta-executive)
+
+> [!note]- Tech: TSMC and Samsung suspend chip sales to Chinese customers amid expanded US export controls (Digitimes)
+> TSMC and Samsung Electronics halted certain semiconductor sales to Chinese customers following expanded US export controls requiring verified end-use agreements for advanced AI chips — the most sweeping measures since October 2022. The move adds further pressure to global AI chip supply chains already strained by earlier US-China restrictions. [Source](https://www.digitimes.com/news/a20261123VL200/investment-tsmc-equipment-chips-sk-hynix.html)
+
+> [!breaking]- Macro: Markets rebound entering Thanksgiving-short week; PCE Wed; Dec Fed hike ~95% priced in (Saxo)
+> US equities open a Thanksgiving-shortened week with the S&P 500 around 6,910 — over 10% off recent highs — following its worst week since April 2025. Friday's selloff sent Japan's Nikkei down 5.1% and Korea's Kospi down up to 5.8%. Core PCE is due Wednesday (~2.9% forecast), reinforcing ~95% probability of a December Fed hike to 4.00–4.25%. Brent crude near $90, WTI ~$83. US markets closed Thursday for Thanksgiving; early close Friday. [Source](https://home.saxo/en-mena/content/articles/macro/market-quick-take---sentiment-bounces-after-friday-mayhem---23-november-2026-23112026)
+
+> [!note]- World: FIDE World Chess Championship opens in Geneva with Gukesh vs Sindarov (Dainik Jagran)
+> The 2026 FIDE World Chess Championship begins in Geneva today with India's D Gukesh facing Nodirbek Sindarov in the opening classical game. South Korean media separately reported Nvidia's Jensen Huang has been reinstated as CEO with shares surging more than 30%, though confirmation from primary sources is still pending. [Source](https://english.dainikjagranmpcg.com/top-stories/november-24-2026-important-national-and-international-events/article-46008)
+
+> [!note]- SG & MY: Singapore-China hold 22nd Joint Council; announce 29 new cooperation initiatives (ISEAS)
+> Singapore Deputy PM Gan Kim Yong and Chinese Vice-Premier Ding Xuexiang co-chaired the 22nd Joint Council for Bilateral Cooperation, announcing 29 new initiatives spanning trade, AI, and green development. The meeting deepens bilateral ties following Xi's sideline meeting with PM Lawrence Wong in Shenzhen and comes amid intensifying US-China competition for Southeast Asian alignment. [Source](https://www.iseas.edu.sg/library/blog/daily-news-alerts/261105)
+
+> [!note]- Science: Beaver supermoon tonight — first of three consecutive supermoons (NASA Science)
+> Tonight's Full Beaver Moon is a supermoon, the first in a series of three consecutive supermoons running into January 2027. An Ariane 6 rocket is also scheduled for today, launching 36 Amazon Project Kuiper satellites to low-Earth orbit after a delay. [Source](https://science.nasa.gov/solar-system/skywatching/whats-up-november-2026-skywatching-tips-from-nasa/)
+
+> [!note]- Nike NKE: $33.80 (Mon close, +$0.88, +2.7%) — market bounce; YTD −47%; loss ~$1,743 on 46 shares (MarketBeat)
+> Nike closed Monday at approximately $33.80, up $0.88 (+2.7%), lifted by a broad market recovery after Friday's AI selloff. YTD performance remains at −47%; the 46-share position (avg cost $71.69) carries an unrealised loss of ~$1,743 (value ~$1,555 vs cost ~$3,298). Next catalyst: Q2 FY2027 earnings December 17. [Source](https://www.marketbeat.com/stocks/NYSE/NKE/)
+
+> [!note]- [[11-23-26 Mon]]
 
 > [!note]- AI: Google launches Gemini 4 Argon — frontier model for coding and cyber defense (AI Release Tracker)
 > Google deployed Gemini 4 Argon, a frontier model purpose-built for advanced coding and cyber defense applications, while confirming that plans for Gemini 3.5 Pro have been shelved. The release extends Google's Gemini 4 family beyond the Neon model that became generally available last week. Moonshot AI also released open weights for Kimi K3, a 3-trillion-parameter-class model, capping a crowded week of frontier model releases. [Source](https://aireleasetracker.com/latest)
