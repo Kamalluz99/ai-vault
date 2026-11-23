@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-23T05:13
+updated: 2026-11-23T20:30
 topic: daily news
 frequency: daily
 ongoing: false
@@ -87,6 +87,26 @@ unread: true
 
 > [!note]- World: King Salman fires anti-Houthi coalition commander in major Gulf military shake-up (Geopolitics Explained)
 > Saudi Arabia's King Salman dismissed the commander of the Saudi-led Arab coalition fighting the Houthis in Yemen on Sunday, Saudi state media SPA reported, in the most significant military restructuring of the Gulf conflict in months. The move follows last week's Houthi missile strike on Riyadh's Kingdom Tower and mounting criticism of coalition leadership after repeated Houthi aerial attacks penetrated Saudi air defences. The dismissal signals a command overhaul as the Iran–US confrontation escalates and Houthi missile sophistication continues to increase. [Source](https://geopoliticsexplained.substack.com/p/this-week-in-geopolitics-22nd-november)
+
+> **Evening update**
+
+> [!note]- SG & MY: Xi meets Singapore PM Lawrence Wong in Shenzhen; pushes AI cooperation (SCMP)
+> Chinese President Xi Jinping met Singapore PM Lawrence Wong bilaterally in Shenzhen following the APEC leaders' summit, with talks centred on deeper AI cooperation and regional connectivity. Xi also held separate meetings with Malaysia, Indonesia, and Thailand leaders, pressing for stronger AI partnerships days after Trump completed his own Southeast Asia deal-making tour. The dual US-China diplomatic offensive signals intensifying competition for Southeast Asian alignment ahead of a critical geopolitical year. [Source](https://www.scmp.com/topics/singapore)
+
+> [!note]- Malaysia: Malaysia to test nationwide flood SMS alert system Thursday (FMT)
+> Malaysia is set to run a nationwide test on Thursday that will push flood warnings directly to mobile phones across all carriers in affected areas, as the country enters the peak of its annual east-coast monsoon flood season. The system is designed to reach all residents simultaneously without requiring a specific app or registration. Authorities hope the platform will cut casualties by ensuring timely, wide-reaching alerts before flood waters rise. [Source](https://malaysia.news.yahoo.com/southeast-asia/)
+
+> [!breaking]- World: COP31 ends in Turkey without fossil fuel agreement (World News Group)
+> The COP31 climate summit in Turkey concluded on Sunday without a binding agreement after more than 190 nations failed to bridge sharp divisions over phasing down fossil fuels. Major oil-exporting countries continued to block stronger phase-down language, while climate-vulnerable nations called the outcome a failure. Negotiators will hold informal sessions before COP32, but the gap between the two blocs remains wide. [Source](https://wng.org/podcasts/monday-morning-news-november-23-2026-1795382024)
+
+> [!note]- World: Trump signals post-New Year Iran strikes if no nuclear deal reached (Anadolu Agency)
+> President Trump said he is inclined to resume military strikes on Iran after the New Year if negotiations produce no deal, escalating pressure on Tehran following the IRGC's claim of destroying two US Patriot radars in Bahrain. Democrats also criticised Trump for publicly calling Vladimir Putin a "friend," accusing him of undermining the Western alliance. The twin confrontations — with Iran and over Russia — are likely to define US foreign policy into early 2027. [Source](https://www.aa.com.tr/en/world/morning-briefing-nov-23-2026/4133974)
+
+> [!note]- Tech: Google Gemini 4 Neon tops coding benchmark; Trump–Xi agree on human oversight in military AI (AI Tools Recap)
+> Google's Gemini 4 Neon ranked first on the Artificial Analysis Coding Agent Index, priced at $3 per million input tokens, cementing Google's lead in the agent coding race. On the geopolitical AI front, Trump and Xi reportedly reached a rare area of agreement in Shenzhen: keeping humans in the loop for military AI decisions. South Korea's education minister separately resigned over widespread AI-assisted cheating that disrupted the national university entrance exam. [Source](https://aitoolsrecap.com/Blog/ai-news-november-23-2026)
+
+> [!note]- Economy: EU and Indonesia sign landmark trade deal after a decade of talks (Reuters/AA)
+> The European Union and Indonesia signed a landmark trade agreement on Monday after more than a decade of negotiations, covering goods, services, and digital commerce — a major milestone for ASEAN integration and a counterweight to China's dominant trade influence in the archipelago. Separately, Japan's economy unexpectedly shrank in the third quarter due to soaring energy costs, adding to global economic concerns as the US-Iran standoff continues to pressure oil prices. [Source](https://www.aa.com.tr/en/world/morning-briefing-nov-23-2026/4133974)
 
 > [!note]- [[11-22-26 Sun]]
 
