@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-24T05:00
+updated: 2026-11-24T05:15
 topic: daily news
 frequency: daily
 ongoing: false
@@ -62,26 +62,26 @@ unread: true
 
 ### [[11-24-26 Tue]]
 
-> [!note]- AI: Meta AI chief warns superintelligence is "arriving"; calls for urgent industry rethink (Al Jazeera)
-> Scale AI CEO and Meta's chief AI officer Alexandr Wang warned Sunday that artificial superintelligence is arriving sooner than expected, urging the industry to reconsider its trajectory before humans lose control. The alert came days after an Anthropic employee claimed to have used Claude to solve the Riemann hypothesis — unverified — and as OpenAI chief scientist Jakub Pachocki separately proposed industrywide development thresholds that labs would agree not to exceed until safety requirements are met. [Source](https://www.aljazeera.com/economy/2026/11/23/ai-superintelligence-arriving-warns-top-meta-executive)
+> [!note]- AI: OpenAI requires all API resellers to seek prior approval under new Usage Policies (ppc.land)
+> OpenAI's revised Usage Policies, effective November 20, now require any third-party company reselling API access to obtain prior written approval — the most restrictive access rules the company has introduced. The move follows OpenAI's broader crackdown on model misuse and aligns with the National Governors Association's bipartisan call for Congress to enact national AI oversight rules, including independent safety reviews and mandatory incident reporting for frontier models. [Source](https://ppc.land/openai-forces-ai-model-resellers-to-seek-its-approval-first/)
 
-> [!note]- Tech: TSMC and Samsung suspend chip sales to Chinese customers amid expanded US export controls (Digitimes)
-> TSMC and Samsung Electronics halted certain semiconductor sales to Chinese customers following expanded US export controls requiring verified end-use agreements for advanced AI chips — the most sweeping measures since October 2022. The move adds further pressure to global AI chip supply chains already strained by earlier US-China restrictions. [Source](https://www.digitimes.com/news/a20261123VL200/investment-tsmc-equipment-chips-sk-hynix.html)
+> [!note]- Tech: Intel cuts IT division again — 7,300 jobs shed in 2026 despite 21% revenue surge (TheStreet)
+> Intel has initiated another round of layoffs targeting its global IT organization, bringing total headcount reductions this year to roughly 7,300 even as Q3 revenue rose 21% on surging data-center chip demand. The cuts reflect Intel's strategy of redirecting resources toward AI chip production while automating internal functions — a pattern repeated across Oracle, Microsoft, and other large tech firms this year. [Source](https://thestreet.com/technology/intel-announces-more-layoffs-as-workforce-shrinks-by-7300)
 
-> [!breaking]- Macro: Markets rebound entering Thanksgiving-short week; PCE Wed; Dec Fed hike ~95% priced in (Saxo)
-> US equities open a Thanksgiving-shortened week with the S&P 500 around 6,910 — over 10% off recent highs — following its worst week since April 2025. Friday's selloff sent Japan's Nikkei down 5.1% and Korea's Kospi down up to 5.8%. Core PCE is due Wednesday (~2.9% forecast), reinforcing ~95% probability of a December Fed hike to 4.00–4.25%. Brent crude near $90, WTI ~$83. US markets closed Thursday for Thanksgiving; early close Friday. [Source](https://home.saxo/en-mena/content/articles/macro/market-quick-take---sentiment-bounces-after-friday-mayhem---23-november-2026-23112026)
+> [!breaking]- Macro: Bitcoin hits 2-year low of $55,500; $2B liquidated; PCE Wednesday key to Dec Fed hike (Bybit)
+> Bitcoin fell to approximately $55,500 over the weekend — its lowest level in two years — as more than $2 billion in leveraged long positions were forcibly liquidated within 24 hours. The S&P 500 had its worst week in 18 months (−8.6%), gold dropped to $3,539, and silver shed 15.6% before a Monday rebound partially recovered losses. Wednesday's PCE inflation print (~2.9% forecast) is the pivotal data point ahead of the December Fed decision, currently priced at ~95% probability of a 25 bps hike to 4.00–4.25%. [Source](https://www.bybit.com/en/learn/market-pulse/why-bitcoin-AI-stocks-gold-crash-can-rebound-november-23-27-2026)
 
-> [!note]- World: FIDE World Chess Championship opens in Geneva with Gukesh vs Sindarov (Dainik Jagran)
-> The 2026 FIDE World Chess Championship begins in Geneva today with India's D Gukesh facing Nodirbek Sindarov in the opening classical game. South Korean media separately reported Nvidia's Jensen Huang has been reinstated as CEO with shares surging more than 30%, though confirmation from primary sources is still pending. [Source](https://english.dainikjagranmpcg.com/top-stories/november-24-2026-important-national-and-international-events/article-46008)
+> [!note]- World: Ukraine sinks Russian warship in Libya with sea drones; NATO holds emergency council over missiles in Poland (Medium/Geopolitics)
+> Ukraine claimed its sea drones struck and sank a Russian warship moored at a Libyan port, a significant geographic extension of the naval conflict. Separately, NATO's North Atlantic Council convened in Brussels after three Russian cruise missiles violated Polish airspace, triggering Article 4 consultations. Trump told advisers he will not escalate against Iran unless directly provoked, offering measured relief to Gulf capitals. [Source](https://medium.com/@geopolitics_explained/this-week-in-geopolitics-22nd-november-2026-38803231f78b)
 
-> [!note]- SG & MY: Singapore-China hold 22nd Joint Council; announce 29 new cooperation initiatives (ISEAS)
-> Singapore Deputy PM Gan Kim Yong and Chinese Vice-Premier Ding Xuexiang co-chaired the 22nd Joint Council for Bilateral Cooperation, announcing 29 new initiatives spanning trade, AI, and green development. The meeting deepens bilateral ties following Xi's sideline meeting with PM Lawrence Wong in Shenzhen and comes amid intensifying US-China competition for Southeast Asian alignment. [Source](https://www.iseas.edu.sg/library/blog/daily-news-alerts/261105)
+> [!note]- Malaysia: Thunderstorm warnings issued as northeast monsoon peaks; 2,134 SPM candidates at flood risk (Yahoo News MY)
+> The Malaysian Meteorological Department issued thunderstorm warnings across multiple states in Peninsular Malaysia and parts of Sabah and Sarawak as the country enters peak northeast monsoon season. The timing is particularly sensitive as SPM national examinations are ongoing, with 2,134 candidates in Pahang flagged as at risk of flood disruption and authorities coordinating contingency plans for affected exam centres. [Source](https://malaysia.news.yahoo.com/thunderstorm-warning-issued-parts-peninsular-095400475.html)
 
-> [!note]- Science: Beaver supermoon tonight — first of three consecutive supermoons (NASA Science)
-> Tonight's Full Beaver Moon is a supermoon, the first in a series of three consecutive supermoons running into January 2027. An Ariane 6 rocket is also scheduled for today, launching 36 Amazon Project Kuiper satellites to low-Earth orbit after a delay. [Source](https://science.nasa.gov/solar-system/skywatching/whats-up-november-2026-skywatching-tips-from-nasa/)
+> [!note]- Science: SpaceX Dragon returns from ISS with cancer, aging, and antibiotic-resistance experiments (Newsweek)
+> An uncrewed SpaceX Dragon capsule splashed down in the Pacific near Los Angeles on November 21, bringing back biomedical research including 3D-printed tumor models, lab-grown blood vessels, and samples studying how microgravity alters antibiotic-resistant bacteria. The experiments aim to accelerate cancer treatment, anti-aging therapies, and characterisation of how drug-resistant superbugs become more dangerous during long-duration space missions. [Source](https://newsweek.com/spacex-dragon-returns-with-experiments-studying-cancer-aging-and-superbugs-12753562)
 
-> [!note]- Nike NKE: $33.80 (Mon close, +$0.88, +2.7%) — market bounce; YTD −47%; loss ~$1,743 on 46 shares (MarketBeat)
-> Nike closed Monday at approximately $33.80, up $0.88 (+2.7%), lifted by a broad market recovery after Friday's AI selloff. YTD performance remains at −47%; the 46-share position (avg cost $71.69) carries an unrealised loss of ~$1,743 (value ~$1,555 vs cost ~$3,298). Next catalyst: Q2 FY2027 earnings December 17. [Source](https://www.marketbeat.com/stocks/NYSE/NKE/)
+> [!note]- Nike NKE: ~$33.80 (Mon close, +2.7%) — monitoring Tue open; YTD −47%; loss ~$1,743 on 46 shares (MarketBeat)
+> Nike closed Monday at approximately $33.80, up $0.88 (+2.7%), lifted by the broader market recovery. YTD performance remains at −47%; the 46-share position (avg cost $71.69) carries an unrealised loss of ~$1,743 (value ~$1,555 vs cost ~$3,298). Markets open 9:30 am ET. Next catalyst: Q2 FY2027 earnings December 17. [Source](https://www.marketbeat.com/stocks/NYSE/NKE/)
 
 > [!note]- [[11-23-26 Mon]]
 
