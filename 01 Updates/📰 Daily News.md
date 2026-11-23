@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-18T05:00
+updated: 2026-11-24T05:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -60,6 +60,280 @@ unread: true
 
 ## 2026-11
 
+### [[11-24-26 Tue]]
+
+> [!note]- AI: Meta AI chief warns superintelligence is "arriving"; calls for urgent industry rethink (Al Jazeera)
+> Scale AI CEO and Meta's chief AI officer Alexandr Wang warned Sunday that artificial superintelligence is arriving sooner than expected, urging the industry to reconsider its trajectory before humans lose control. The alert came days after an Anthropic employee claimed to have used Claude to solve the Riemann hypothesis — unverified — and as OpenAI chief scientist Jakub Pachocki separately proposed industrywide development thresholds that labs would agree not to exceed until safety requirements are met. [Source](https://www.aljazeera.com/economy/2026/11/23/ai-superintelligence-arriving-warns-top-meta-executive)
+
+> [!note]- Tech: TSMC and Samsung suspend chip sales to Chinese customers amid expanded US export controls (Digitimes)
+> TSMC and Samsung Electronics halted certain semiconductor sales to Chinese customers following expanded US export controls requiring verified end-use agreements for advanced AI chips — the most sweeping measures since October 2022. The move adds further pressure to global AI chip supply chains already strained by earlier US-China restrictions. [Source](https://www.digitimes.com/news/a20261123VL200/investment-tsmc-equipment-chips-sk-hynix.html)
+
+> [!breaking]- Macro: Markets rebound entering Thanksgiving-short week; PCE Wed; Dec Fed hike ~95% priced in (Saxo)
+> US equities open a Thanksgiving-shortened week with the S&P 500 around 6,910 — over 10% off recent highs — following its worst week since April 2025. Friday's selloff sent Japan's Nikkei down 5.1% and Korea's Kospi down up to 5.8%. Core PCE is due Wednesday (~2.9% forecast), reinforcing ~95% probability of a December Fed hike to 4.00–4.25%. Brent crude near $90, WTI ~$83. US markets closed Thursday for Thanksgiving; early close Friday. [Source](https://home.saxo/en-mena/content/articles/macro/market-quick-take---sentiment-bounces-after-friday-mayhem---23-november-2026-23112026)
+
+> [!note]- World: FIDE World Chess Championship opens in Geneva with Gukesh vs Sindarov (Dainik Jagran)
+> The 2026 FIDE World Chess Championship begins in Geneva today with India's D Gukesh facing Nodirbek Sindarov in the opening classical game. South Korean media separately reported Nvidia's Jensen Huang has been reinstated as CEO with shares surging more than 30%, though confirmation from primary sources is still pending. [Source](https://english.dainikjagranmpcg.com/top-stories/november-24-2026-important-national-and-international-events/article-46008)
+
+> [!note]- SG & MY: Singapore-China hold 22nd Joint Council; announce 29 new cooperation initiatives (ISEAS)
+> Singapore Deputy PM Gan Kim Yong and Chinese Vice-Premier Ding Xuexiang co-chaired the 22nd Joint Council for Bilateral Cooperation, announcing 29 new initiatives spanning trade, AI, and green development. The meeting deepens bilateral ties following Xi's sideline meeting with PM Lawrence Wong in Shenzhen and comes amid intensifying US-China competition for Southeast Asian alignment. [Source](https://www.iseas.edu.sg/library/blog/daily-news-alerts/261105)
+
+> [!note]- Science: Beaver supermoon tonight — first of three consecutive supermoons (NASA Science)
+> Tonight's Full Beaver Moon is a supermoon, the first in a series of three consecutive supermoons running into January 2027. An Ariane 6 rocket is also scheduled for today, launching 36 Amazon Project Kuiper satellites to low-Earth orbit after a delay. [Source](https://science.nasa.gov/solar-system/skywatching/whats-up-november-2026-skywatching-tips-from-nasa/)
+
+> [!note]- Nike NKE: $33.80 (Mon close, +$0.88, +2.7%) — market bounce; YTD −47%; loss ~$1,743 on 46 shares (MarketBeat)
+> Nike closed Monday at approximately $33.80, up $0.88 (+2.7%), lifted by a broad market recovery after Friday's AI selloff. YTD performance remains at −47%; the 46-share position (avg cost $71.69) carries an unrealised loss of ~$1,743 (value ~$1,555 vs cost ~$3,298). Next catalyst: Q2 FY2027 earnings December 17. [Source](https://www.marketbeat.com/stocks/NYSE/NKE/)
+
+> [!note]- [[11-23-26 Mon]]
+
+> [!note]- AI: Google launches Gemini 4 Argon — frontier model for coding and cyber defense (AI Release Tracker)
+> Google deployed Gemini 4 Argon, a frontier model purpose-built for advanced coding and cyber defense applications, while confirming that plans for Gemini 3.5 Pro have been shelved. The release extends Google's Gemini 4 family beyond the Neon model that became generally available last week. Moonshot AI also released open weights for Kimi K3, a 3-trillion-parameter-class model, capping a crowded week of frontier model releases. [Source](https://aireleasetracker.com/latest)
+
+> [!note]- Tech: Uber cuts 3,300 jobs — nearly 10% of workforce — in AI-era restructuring (tech.co)
+> Uber announced plans to cut approximately 3,300 employees from its 34,000-strong global workforce as part of a restructuring described as essential for competing in an AI-driven market. The move adds to a 2026 tech layoff wave that has shed more than 200,000 industry jobs, with Oracle, Coinbase, and Palo Alto Networks also making cuts this month. [Source](https://tech.co/news/tech-companies-layoffs)
+
+> [!breaking]- Macro: S&P 500 in correction entering Thanksgiving-short week; PCE Wed; Dec Fed hike ~95% priced in (FX Empire)
+> US markets open a Thanksgiving-shortened week with the S&P 500 at ~6,910 — over 10% off recent highs — after seven straight losing sessions. Core PCE is forecast to tick up to 2.9% on Wednesday, reinforcing the ~95% market probability of a December Fed rate hike to 4.00–4.25%. Bitcoin is near $60K, gold around $3,515, and WTI crude near $84/bbl amid the ongoing Strait of Hormuz standoff. [Source](https://fxempire.com/forecasts/article/the-week-ahead-pce-in-focus-after-ai-sell-off-in-holiday-shortened-week-1646337)
+
+> [!breaking]- World: Trump-Xi-Putin Shenzhen trilateral ends with few results; Iran escalation continues (NPR)
+> President Trump, China's Xi Jinping, and Russia's Vladimir Putin held a historic first trilateral summit in Shenzhen covering Ukraine, Iran, nuclear disarmament, and AI chip controls — but NPR reported the meeting produced "few results" with no ceasefire pledge and no binding chip-diversion commitment from Beijing. Iran's IRGC separately claimed to have destroyed two US Patriot radar systems in Bahrain, while Trump publicly threatened further military action over a reported dirty bomb plot targeting Washington. [Source](https://www.npr.org/sections/world/)
+
+> [!note]- Malaysia: Negeri Sembilan MB Ismail Lasim resigns; palace rejects request to stay (Free Malaysia Today)
+> Negeri Sembilan Chief Minister Ismail Lasim formally submitted his resignation after the state royal palace denied reports it had asked him to remain in office and instead demanded he demonstrate a majority in the state assembly. The standoff between Madani coalition factions may trigger a by-election or snap state polls, marking the most significant sub-national governance crisis since the 2020 Sheraton Move. [Source](https://www.freemalaysiatoday.com/category/nation/)
+
+> [!note]- Science: James Webb telescope records first-ever real-time images of a star swallowing its companion (Space.com)
+> The James Webb Space Telescope captured first-ever observations of a giant star absorbing its binary companion in a live stellar merger — a process previously only inferred from remnants and theoretical models. The November 20 report opens a direct window into binary star end stages and may reshape models of stellar mass distribution and supernova progenitors. [Source](https://www.space.com/)
+
+> [!note]- Nike NKE: $32.94 (pre-mkt Mon) — Thanksgiving-week trading opens; YTD −47%; unrealised loss ~$1,783 on 46 shares (Benzinga)
+> Nike enters a Thanksgiving-shortened trading week around $32.94 pre-market, still carrying the weight of post-Investor Day selling and a likely December Fed hike. YTD performance sits at −47%; the 46-share position (avg cost $71.69) carries an unrealised loss of ~$1,783 (value ~$1,515 vs cost ~$3,298). Next catalyst: Q2 earnings December 17. [Source](https://www.benzinga.com/markets/large-cap/26/11/63479913/nikes-jordan-and-sportswear-sales-may-face-further-declines-analyst-warns)
+
+> **Late update (Sun evening)**
+
+> [!note]- World: King Salman fires anti-Houthi coalition commander in major Gulf military shake-up (Geopolitics Explained)
+> Saudi Arabia's King Salman dismissed the commander of the Saudi-led Arab coalition fighting the Houthis in Yemen on Sunday, Saudi state media SPA reported, in the most significant military restructuring of the Gulf conflict in months. The move follows last week's Houthi missile strike on Riyadh's Kingdom Tower and mounting criticism of coalition leadership after repeated Houthi aerial attacks penetrated Saudi air defences. The dismissal signals a command overhaul as the Iran–US confrontation escalates and Houthi missile sophistication continues to increase. [Source](https://geopoliticsexplained.substack.com/p/this-week-in-geopolitics-22nd-november)
+
+> **Evening update**
+
+> [!note]- SG & MY: Xi meets Singapore PM Lawrence Wong in Shenzhen; pushes AI cooperation (SCMP)
+> Chinese President Xi Jinping met Singapore PM Lawrence Wong bilaterally in Shenzhen following the APEC leaders' summit, with talks centred on deeper AI cooperation and regional connectivity. Xi also held separate meetings with Malaysia, Indonesia, and Thailand leaders, pressing for stronger AI partnerships days after Trump completed his own Southeast Asia deal-making tour. The dual US-China diplomatic offensive signals intensifying competition for Southeast Asian alignment ahead of a critical geopolitical year. [Source](https://www.scmp.com/topics/singapore)
+
+> [!note]- Malaysia: Malaysia to test nationwide flood SMS alert system Thursday (FMT)
+> Malaysia is set to run a nationwide test on Thursday that will push flood warnings directly to mobile phones across all carriers in affected areas, as the country enters the peak of its annual east-coast monsoon flood season. The system is designed to reach all residents simultaneously without requiring a specific app or registration. Authorities hope the platform will cut casualties by ensuring timely, wide-reaching alerts before flood waters rise. [Source](https://malaysia.news.yahoo.com/southeast-asia/)
+
+> [!breaking]- World: COP31 ends in Turkey without fossil fuel agreement (World News Group)
+> The COP31 climate summit in Turkey concluded on Sunday without a binding agreement after more than 190 nations failed to bridge sharp divisions over phasing down fossil fuels. Major oil-exporting countries continued to block stronger phase-down language, while climate-vulnerable nations called the outcome a failure. Negotiators will hold informal sessions before COP32, but the gap between the two blocs remains wide. [Source](https://wng.org/podcasts/monday-morning-news-november-23-2026-1795382024)
+
+> [!note]- World: Trump signals post-New Year Iran strikes if no nuclear deal reached (Anadolu Agency)
+> President Trump said he is inclined to resume military strikes on Iran after the New Year if negotiations produce no deal, escalating pressure on Tehran following the IRGC's claim of destroying two US Patriot radars in Bahrain. Democrats also criticised Trump for publicly calling Vladimir Putin a "friend," accusing him of undermining the Western alliance. The twin confrontations — with Iran and over Russia — are likely to define US foreign policy into early 2027. [Source](https://www.aa.com.tr/en/world/morning-briefing-nov-23-2026/4133974)
+
+> [!note]- Tech: Google Gemini 4 Neon tops coding benchmark; Trump–Xi agree on human oversight in military AI (AI Tools Recap)
+> Google's Gemini 4 Neon ranked first on the Artificial Analysis Coding Agent Index, priced at $3 per million input tokens, cementing Google's lead in the agent coding race. On the geopolitical AI front, Trump and Xi reportedly reached a rare area of agreement in Shenzhen: keeping humans in the loop for military AI decisions. South Korea's education minister separately resigned over widespread AI-assisted cheating that disrupted the national university entrance exam. [Source](https://aitoolsrecap.com/Blog/ai-news-november-23-2026)
+
+> [!note]- Economy: EU and Indonesia sign landmark trade deal after a decade of talks (Reuters/AA)
+> The European Union and Indonesia signed a landmark trade agreement on Monday after more than a decade of negotiations, covering goods, services, and digital commerce — a major milestone for ASEAN integration and a counterweight to China's dominant trade influence in the archipelago. Separately, Japan's economy unexpectedly shrank in the third quarter due to soaring energy costs, adding to global economic concerns as the US-Iran standoff continues to pressure oil prices. [Source](https://www.aa.com.tr/en/world/morning-briefing-nov-23-2026/4133974)
+
+> [!note]- [[11-22-26 Sun]]
+
+> [!breaking]- AI: OpenAI GPT-6.2 "Astra" is first model rated "High" for self-improvement risk (Emergent)
+> OpenAI released GPT-6.2 Astra on November 17 — the first publicly available model to receive a "High" capability rating for self-improvement under its internal safety framework, a threshold the company had previously said would trigger additional safeguards. The release intensifies scrutiny over how frontier labs disclose dangerous-capability assessments and whether voluntary commitments are holding. The companion model GPT-6.2 Sol was released alongside it. [Source](https://emergent.sh/news/week-s-top-5-ai-stories-november-2026-roundup)
+
+> [!note]- Tech: Canva cuts 22% of workforce — 1,271 jobs — as AI feature costs bite growth forecast (TechRepublic)
+> Canva announced a major restructuring, cutting approximately 22% of its global workforce as AI feature delivery costs ran higher than expected and revenue growth guidance was cut from 30% to 20% for the year. CEO Melanie Perkins told staff roles would be eliminated or relocated to central hubs. The move is one of the largest headcount reductions at an Australian-founded tech unicorn and signals ongoing AI-era workforce pressures. [Source](https://www.techrepublic.com/article/news-canva-restructure-1271-workers-layoffs/)
+
+> [!note]- Macro: Nasdaq erases all 2026 gains; Bitcoin near $60K; December Fed hike ~95% priced in (CNBC/Saxo)
+> Global markets head into a second straight losing week as the AI trade selloff deepens. The Nasdaq wiped all 2026 YTD gains, the S&P 500 and Dow remain in correction territory (>10% from highs), Bitcoin fell to around $60K, and gold slipped below $3,700 as hawkish signals from the Fed, ECB, and BoJ weighed on sentiment. A December Fed hike (target 4.00–4.25%) is ~95% priced in. [Source](https://home.saxo/en-gb/content/articles/macro/market-quick-take---asian-stocks-tumble-after-wall-streets-sixth-straight-decline---20-november-2026-20112026)
+
+> [!note]- World: Russia-Ukraine Abu Dhabi talks: prisoner swap agreed, ceasefire gap remains wide (NBC News)
+> US-brokered peace talks between Russia and Ukraine in Abu Dhabi resulted in a large-scale prisoner exchange agreement but failed to bridge core gaps — Russia still demands all of the Donbas and Ukrainian neutrality, while Kyiv seeks a ceasefire and Western security guarantees. US mediators called the talks "constructive" but cautioned that confidence between the two sides remains very low. Jared Kushner separately said Russia is "comfortable" with NATO-style security guarantees for Ukraine. [Source](https://www.nbcnews.com/world/ukraine/us-mediated-talks-ending-war-russia-ukraine-begin-abu-dhabi-rcna608499)
+
+> [!note]- Malaysia: Negeri Sembilan palace demands MB Ismail Lasim prove assembly majority; crisis deepens (SCMP)
+> The Negeri Sembilan royal palace denied reports it asked Chief Minister Ismail Lasim to remain in office, instead demanding he demonstrate a majority in the state assembly. The standoff triggered a political crisis with rival Madani coalition factions jostling ahead of a potential confidence vote — the most significant sub-national governance crisis since the 2020 Sheraton Move. [Source](https://www.scmp.com/topics/malaysia)
+
+> [!note]- Science: MIT finds aging severely weakens brain's overnight waste-clearance system (ScienceDaily)
+> MIT researchers found that aging significantly weakens the brain's glymphatic system — the nighttime mechanism responsible for flushing toxic proteins such as amyloid and tau linked to Alzheimer's disease. Older brains show markedly reduced cerebrospinal fluid circulation during sleep, leaving more accumulated waste and potentially explaining why age is the dominant risk factor for neurodegeneration. [Source](https://sciencedaily.com/releases/2026/11/261114202137.htm)
+
+> [!note]- Nike NKE: Markets closed (weekend) — last close ~$32.94 (−4.1% Fri); YTD −47%; loss ~$1,783 on 46 shares (Benzinga)
+> Markets are closed for the weekend. Nike last closed at approximately $32.94 on Friday, down 4.1%, YTD now −47%. The 46-share position (avg cost $71.69) carries an unrealised loss of approximately $1,783 (value ~$1,515 vs cost ~$3,298). Next earnings: December 17. [Source](https://globalbankingandfinance.com/nike-nke-falls-2026-11-20)
+
+> **Evening update**
+
+> [!note]- SG & MY: US chip-smuggling scrutiny puts Malaysia, Singapore and Thailand in firing line (IntelliNews)
+> New US Commerce Department licensing rules for advanced AI chips, effective November 19, now require verified end-use agreements for shipments to Malaysia, Thailand, and Singapore — over fears Chinese firms are renting AI computing power through these countries. Malaysia has separately required export permits for US-made high-performance AI chips in transit since July 2025. The US Treasury is also pressing both Singapore and Malaysia on compliance with Iran sanctions. [Source](https://www.intellinews.com/asia-s-chip-smuggling-fears-put-malaysia-thailand-and-singapore-in-the-us-firing-line-486548/)
+
+> [!note]- Malaysia: Najib house arrest minutes to be declassified so govt can answer Malaysian Bar in court (The Star)
+> Malaysian Home Minister announced that the minutes of Najib Razak's house arrest arrangement will be declassified to allow the government to respond to the Malaysian Bar's challenge in court. The Bar filed legal action contesting the terms of Najib's house arrest, arguing it amounts to preferential treatment. The move is seen as an attempt to provide transparency around the controversial arrangement that allowed the former PM to serve his sentence outside prison. [Source](https://thestar.com.my/aseanplus/aseanplus-news/2026/11/21/asean-news-headlines-at-10pm-on-saturday-nov-21-2026)
+
+> [!breaking]- World: Iran's Revolutionary Guards claim destroying two US Patriot radars in Bahrain (Anadolu Agency)
+> Iran's Islamic Revolutionary Guard Corps claimed on Sunday it destroyed two US Patriot air defence radar systems stationed in Bahrain, a significant escalation in Gulf tensions. Bahrain had renewed its threat alert level following earlier Iranian activity in the region. Trump separately stated he is seeking a lasting agreement with Tehran that would permanently block future nuclear ambitions, as Turkey's foreign minister linked any US-Iran deal to easing broader global economic strain. [Source](https://aa.com.tr/en/anadolu-post/morning-briefing-nov-22-2026/4133301)
+
+> [!note]- World: Russian drone hits building in Kyiv region; at least 14 missing (NBC News)
+> At least 14 people are missing after a Russian drone struck a building in the Kyiv region, according to President Zelenskyy. The attack follows last week's large-scale missile barrage across Ukraine and compounds security alarm across NATO following the stray missile incident in Poland. US-brokered peace talks in Abu Dhabi earlier this week produced a prisoner swap agreement but no ceasefire, leaving the conflict trajectory unchanged. [Source](https://www.nbcnews.com/world)
+
+> [!note]- Tech: Amazon nearing $7.5B acquisition of Israeli AI chip-switching startup Decart (AI Weekly)
+> Amazon is reportedly nearing a $7.5 billion deal to acquire Decart, an Israeli AI startup that developed chip-switching technology to optimise workloads across GPU clusters and reduce inference costs. The deal would be one of the year's largest AI infrastructure acquisitions as hyperscalers race to lock in proprietary chip orchestration capabilities. AI server board demand is separately expected to squeeze supply chains for automotive, medical, and defence electronics through 2028. [Source](https://aiweekly.co/ai-news-today)
+
+> [!breaking]- Economy: US Supreme Court strikes down Trump's global tariffs; markets await clarity (Bloomberg)
+> The US Supreme Court struck down President Trump's sweeping global tariff programme, ruling it an overreach of executive trade authority. The decision injects major uncertainty into US trade policy heading into 2027, with financial markets expected to reprice on Monday as importers and exporters reassess supply chains built around the tariff regime. The ruling arrives as the IMF has separately warned that global public debt is approaching 100% of GDP — the highest since World War II. [Source](https://www.bloomberg.com/economics)
+
+> [!note]- [[11-21-26 Sat]]
+
+> [!note]- AI: Anthropic IPO Day 2 — ANT loses 9%, giving back most of its 17% debut gain; Nvidia/AMD each down 13% (CNBC)
+> Anthropic's stock (ANT) retreated roughly 9% on its second trading day, surrendering most of its 17% first-day gain as a broad AI trade selloff intensified. Nvidia and AMD each fell 13%, with pressure compounded by an SEC probe into possible accounting irregularities at Nvidia and a California AG subpoena related to China chip diversion. [Source](https://cnbc.com/2026/11/19/stock-market-today-live-updates.html)
+
+> [!note]- Tech: Microsoft outage hits millions of users for a full day; generates 7.4M+ Downdetector reports (Reuters)
+> A Microsoft services outage disrupted email and online meetings for millions of users for an entire day, generating over 7.4 million reports on Downdetector — one of the largest recorded Microsoft outage events. The incident adds to a string of major cloud reliability failures in 2026, raising enterprise questions about single-provider dependency. [Source](https://business-standard.com/technology/tech-news/2026-major-cyberattacks-global-tech-outages-services-hit-126111800306_1.html)
+
+> [!note]- Macro: S&P 500 and Dow enter correction; Nasdaq erases all 2026 gains as AI selloff intensifies (CNBC)
+> The S&P 500 and Dow Jones entered official correction territory while the Nasdaq wiped out all 2026 year-to-date gains, as AI-related stocks led the selloff. The move came as the 10-year Treasury yield held above 5%, hawkish FOMC minutes reinforced a December rate hike, and the IMF warned global public debt is nearing 100% of GDP — the highest since World War II. [Source](https://cnbc.com/2026/11/19/stock-market-today-live-updates.html)
+
+> [!note]- World: 49th ASEAN Summit opens in Manila; "No Kings" Day of Action held at Lincoln Memorial (Inquirer/Wikipedia)
+> Foreign leaders arrived in Manila for the 49th ASEAN Summit, with the Johor-Singapore SEZ masterplan, regional AI chip controls, and security flashpoints on the agenda. In the US, a nationwide "No Kings" Day of Action was held at the Lincoln Memorial in Washington, D.C. as state officials completed 2026 midterm ballot reviews. [Source](https://en.wikipedia.org/wiki/Portal:Current_events/November_2026)
+
+> [!note]- Malaysia/Singapore: US AI chip export curbs take effect; Malaysia probes Megaspeed for re-export violations (FMT/AsiaOne)
+> New US export controls on advanced AI semiconductors came into force on November 19 for Singapore and Malaysia, restricting sales of Nvidia's most powerful chips without verified end-use agreements. Malaysian authorities are examining Megaspeed's local unit for potential chip re-export violations, while Singapore's related fraud case — involving five defendants and six companies — enters its pre-trial phase. [Source](https://www.freemalaysiatoday.com/category/highlight/2026/11/17/us-curbs-export-of-advanced-ai-chips-to-malaysia-singapore)
+
+> [!note]- Science: CERN reports first evidence of an extremely rare particle decay after 40+ years of searching (ScienceDaily)
+> CERN scientists reported the first experimental evidence of an extremely rare subatomic particle decay that physicists have searched for since the 1980s. The finding, drawn from years of Large Hadron Collider data, refines tests of the Standard Model and could signal physics beyond it. [Source](https://www.sciencedaily.com/breaking/)
+
+> [!note]- Nike NKE: ~$34.23 (−1.2%) — Investor Day fallout continues; Cantor cuts PT to $33; loss ~$1,723 on 46 shares (Benzinga)
+> Nike drifted to approximately $34.23 on Friday, extending post-Investor Day losses as the market digests management's two-year sales decline forecast before a return to market-level growth in FY2029. Cantor Fitzgerald cut its price target from $38 to $33; analyst consensus is 7 Buy / 14 Hold / 7 Sell. The 46-share position (avg cost $71.69) carries an unrealised loss of ~$1,723 (value ~$1,575 vs cost ~$3,298). [Source](https://benzinga.com/trading-ideas/movers/26/11/63443764/why-is-nike-stock-falling-on-thursday)
+
+> **Evening update**
+
+> [!note]- SG & MY: PM Wong meets Xi; Singapore-China FTA upgrade talks launched at ASEAN sidelines (Mothership)
+> Prime Minister Lawrence Wong met President Xi Jinping on the sidelines of the 49th ASEAN Summit meetings in Shenzhen, with both sides formally launching negotiations to upgrade Singapore's 2009 bilateral free trade agreement with China. The upgrade discussions cover digital trade, green economy sectors, and AI governance cooperation, reinforcing Singapore's role as a conduit for Chinese investment in the region. Singapore shares fell more than 2% on Friday tracking the broader global tech sell-off, though the diplomatic outcome was broadly welcomed by analysts. [Source](https://mothership.sg/)
+
+> [!note]- Malaysia: Loke confirms Malaysia-Singapore RTS Link and ECRL "locked in" for Johor-Singapore SEZ (Nikkei Asia)
+> Malaysian Transport Minister Anthony Loke confirmed that both the Malaysia-Singapore Rapid Transit System Link and the China-backed East Coast Rail Link are proceeding without revision, dispelling speculation about further delays ahead of the December 4 Johor-Singapore SEZ masterplan launch. The dual confirmation signals continued infrastructure momentum despite global risk-off sentiment triggered by US AI chip export controls and equity market volatility. The RTS Link is expected to begin passenger services by mid-2027, connecting Johor Bahru and Singapore's Woodlands North. [Source](https://asia.nikkei.com/location/southeast-asia)
+
+> [!breaking]- World: Russian missiles crash in Poland during NATO drills; Rutte flies to Warsaw (France 24)
+> A Russian Kh-101 cruise missile and a suspected drone came down in southeastern Poland on November 20 during active European military exercises, with Polish authorities confirming no casualties near the village of Nowy Lipowiec. NATO Secretary-General Mark Rutte condemned the incident as a "grave violation" of Poland's airspace and flew to Warsaw on Saturday for emergency consultations, as Poland shared debris with the United States. Warsaw has not formally invoked Article 4 but is requesting expanded NATO air defence coverage, raising fears of wider escalation. [Source](https://www.france24.com/en/europe/20261120-poland-says-russian-missile-hit-its-territory-during-attack-on-ukraine)
+
+> [!note]- World: Trump threatens Iran military action over reported dirty bomb plot targeting DC (Anadolu Agency)
+> US President Donald Trump publicly threatened military action against Iran following intelligence reports of a suspected Houthi or Iranian-linked operation to detonate a dirty bomb in Washington DC. The announcement came as the Saudi-led coalition intercepted three Houthi ballistic missiles headed for Riyadh, deepening fears of a broader Gulf escalation. The warnings add pressure on COP31 climate negotiators in Antalya, where Gulf oil disruptions from the ongoing Iran war are reshaping the global energy and emissions debate. [Source](https://aa.com.tr/en/world/morning-briefing-nov-21-2026/4132676)
+
+> [!note]- Tech: Broadcom patches VMware vCenter CVE exploited as zero-day by Chinese APT since September (AI Weekly)
+> Broadcom released an emergency patch for VMware vCenter Server addressing CVE-2026-123890, a critical remote code-execution vulnerability that a Chinese state-linked group tracked as "Armory Castle" had been exploiting as a zero-day since at least September. The flaw carries a near-maximum CVSS score and affects enterprise vCenter deployments globally; administrators are urged to patch outside normal maintenance windows. The disclosure intensifies scrutiny of Chinese cyber operations amid the ongoing AI chip export control standoff between Beijing and Washington. [Source](https://aiweekly.co/ai-news-today)
+
+> [!note]- Economy: COP31 climate talks miss Antalya deadline; draft text strips fossil fuel phase-out pledge (OilPrice)
+> UN climate negotiators in Antalya failed to reach a final draft agreement by their November 21 deadline, with leaked text reportedly removing all references to phasing down fossil fuels — a rollback from commitments at COP28 and COP30. The absence of formal US participation under the Trump administration has weakened the political coalition needed to defend strong fossil fuel language, while Gulf oil disruptions from the Iran war complicate the emissions calculus. Former US Climate Envoy John Kerry, attending independently, told delegates that the Iran conflict has paradoxically begun to reduce global fossil fuel emissions through energy market disruption. [Source](https://oilprice.com/Latest-Energy-News/World-News/COP31-Opens-in-Antalya-With-a-UN-Push-for-Faster-Climate-Action.amp.html)
+
+> **Late update**
+
+> [!breaking]- World: Russia launches largest missile barrage on Ukraine in weeks on Saturday (NBC News)
+> Russia launched a large-scale missile and drone barrage across Ukraine on November 21, one of the heaviest attacks in recent weeks, targeting energy infrastructure in multiple regions. The attack comes the day after Russian cruise missiles strayed into Polish territory during NATO exercises, compounding security alarm across the alliance. Finland separately restricted aviation and maritime traffic in the eastern Gulf of Finland following drone incidents near Kaliningrad-bound shipping. [Source](https://www.nbcnews.com/world)
+
+> [!note]- Malaysia/Singapore: Indonesia restores piped gas to Singapore after 18-day supply cut (Malay Mail)
+> Singapore's energy ministry confirmed that Indonesia resumed piped natural gas supplies to Singapore, ending an 18-day interruption that had prompted energy authorities to activate backup capacity. The resumption eases gas-security concerns as Singapore's industrial and power sectors depend heavily on the Sumatra-Singapore pipeline corridor. Separately, ex-Malaysian PM Najib Razak settled his RM50 million fine in the SRC case, clearing the final legal hurdle for a transition to house arrest. [Source](https://www.malaymail.com/news/singapore)
+
+> [!note]- Macro: S&P 500 falls 3.7% on Friday — 7th straight loss; gold at $3,503, Bitcoin hits multi-year low (Kitco/Bloomberg)
+> The S&P 500 dropped 3.7% on Friday — its seventh consecutive daily decline and the index's worst week since April 2025 — leaving both the S&P 500 and Dow officially 10% off recent highs. Gold fell to $3,502.93/oz and silver to $40.66, while Bitcoin tumbled to a multi-year low as spot-crypto ETFs saw an estimated $5 billion in single-day outflows. WTI crude settled at $83.98/bbl and Brent at $92.57/bbl. [Source](https://kitco.com/news/article/2026-11-20/gold-falls-toward-3500-silver-slides-stock-markets-enter-correction)
+
+> [!note]- Nike NKE: ~$33.04 (Sat est., −3.5%) — broad selloff deepens losses; unrealised loss ~$1,778 on 46 shares (Robinhood)
+> Nike extended its slide into Saturday, with estimates placing the stock around $33.04 — down approximately 3.5% from Friday's ~$34.23 close — as the broader market selloff and post-Investor Day scepticism continued to weigh. The 46-share position (avg cost $71.69) now carries an unrealised loss of approximately $1,778 (value ~$1,520 vs cost ~$3,298). [Source](https://robinhood.com/us/en/stocks/NKE/)
+
+> [!note]- [[11-19-26 Thu]]
+>
+> > [!note]- AI: Google DeepMind's Genie 4 enables real-time interactive world generation from text or images (Blockchain.News)
+> > Google DeepMind launched Genie 4, a generative world model that creates playable, interactively editable environments in real time from text or image input. The release marks a significant step toward general-purpose simulation for game development, robotics training, and AI research. It arrives the same week that Gemini 4 Neon went generally available at $3/M input tokens and OpenAI's GPT-6.2 Astra became the first publicly released model rated 'High' for self-improvement capability under OpenAI's preparedness framework. [Source](https://blockchain.news/news/google-deepmind-launches-genie-4-with-real-time-world-editing)
+> >
+> > [!note]- Tech: 2026 tech layoff wave tops 200,000; Nadella defends Microsoft's 60K-employee buyout at DealBook Summit (Fortune)
+> > Global tech layoffs in 2026 have now exceeded 200,000 jobs, with Microsoft's October offer of voluntary buyouts to roughly 60,000 employees (27% of the workforce) — defended by CEO Satya Nadella at the DealBook Summit — the single largest such programme in the company's history. This week's additions include Qualcomm filing WARN notices for 500+ California roles, Oracle sending layoff emails days after reporting 121% cloud revenue growth, and Visa announcing 2,600 cuts. [Source](https://tech.yahoo.com/general/breaking-news/article/tech-layoffs-2026-tracking-the-job-losses-across-disney-amazon-microsoft-apple-meta-and-others-130524052.html)
+> >
+> > [!note]- Macro: Hawkish FOMC minutes ignite US equity rout — Dow −1,084 pts, Nasdaq −2.2%; gold 15-month low $3,694 (Saxo Bank)
+> > The October FOMC minutes released Thursday showed near-unanimous support for further rate hikes, with Governor Waller flagging a possible 50 bps December move. US equities reversed earlier Anthropic-IPO gains: the Dow shed 1,084 points, the Nasdaq fell 2.2%, and the S&P 500 dropped to 7,323.6 — its fifth consecutive down session. Gold sank to a 15-month low of $3,694/oz and WTI crude fell 3.2% to $83/bbl; Bitcoin held near $63,384, down 28% YTD. [Source](https://www.home.saxo/en-mena/content/articles/macro/market-quick-take---metals-slide-while-fed-minutes-point-to-further-hikes---19-november-2026-19112026)
+> >
+> > [!breaking]- World: ICJ rules Myanmar committed genocide against Rohingya in 2017 Rakhine operations (UN/Geopolitiki)
+> > The International Court of Justice issued a landmark ruling finding that Myanmar's security forces committed genocide against the Rohingya Muslim minority during the 2017 Rakhine State military campaign that displaced over 700,000 people. The decision — the first time the ICJ has applied the genocide label to this case — opens the path to binding orders on Myanmar, though Naypyidaw has rejected the court's jurisdiction, complicating enforcement. The case was originally filed by The Gambia in 2019. [Source](https://geopolitiki.com/)
+> >
+> > [!note]- SG & MY: Malaysia Q3 GDP beats at 5.5% YoY; Bursa tracks regional weakness despite strong fundamentals (BNM)
+> > Bank Negara Malaysia reported Q3 2026 GDP growth of 5.5% year-on-year, beating consensus estimates, driven by resilient household consumption, stronger investment flows, and improved export performance. The ringgit opened slightly firmer on the data, though Bursa Malaysia tracked broader regional weakness amid hawkish Fed signals. PM Anwar was separately in Shenzhen meeting Chinese tech executives to advance AI and data-centre investment ahead of the December 4 Johor-Singapore SEZ launch. [Source](https://www.malaymail.com/)
+> >
+> > [!note]- Science: Supernova SN 2026ahvu caught live in NGC 1433 — Type Ia explosion 50 million light-years away (Space.com)
+> > Astronomers captured supernova SN 2026ahvu in real time as it erupted in galaxy NGC 1433, roughly 50 million light-years from Earth, providing a rare chance to study the explosion's earliest phases before observational lag sets in. Type Ia supernovae serve as standard candles for mapping cosmic expansion; catching one at onset yields data critical for calibrating the Hubble constant and resolving the "Hubble tension." [Source](https://space.com/astronomy/a-newfound-supernova-explodes-50-million-light-years-away-space-photo-of-the-day-for-nov-18-2026)
+> >
+> > [!note]- Nike NKE: $34.65 (−4.57%) — market selloff deepens losses; unrealised loss ~$1,704 on 46 shares (Benzinga)
+> > Nike closed Thursday at $34.65, down 4.57%, dragged lower by both the broader equity rout triggered by hawkish FOMC minutes and lingering post-Investor Day scepticism about the FY2031 turnaround timeline. Analyst consensus: 7 Buy / 14 Hold / 7 Sell; targets range from $24 (BofA Underperform) to $50 (BTIG Buy). At $34.65, the 46-share position carries an unrealised loss of ~$1,704 (value ~$1,594 vs cost ~$3,298). [Source](https://www.benzinga.com/trading-ideas/movers/26/11/63443764/why-is-nike-stock-falling-on-thursday)
+
+> [!note]- [[11-20-26 Fri]]
+>
+> > [!note]- AI: OpenAI GPT-6.2 Astra is first released model rated 'High' for self-improvement (OpenAI)
+> > OpenAI released GPT-6.2 Astra alongside GPT-6.2 Sol, with Astra becoming the first publicly available model to receive a 'High' capability rating for assisting in its own improvement — a milestone on OpenAI's preparedness framework. This follows Google making Gemini 4 Neon generally available on November 18 at $3/M input tokens, priced to compete in enterprise workflows. Separately, the US Commerce Department's tightened export controls on advanced AI chips took effect November 19 after publication in the Federal Register. [Source](https://emergent.sh/news/week-s-top-5-ai-stories-november-2026-roundup)
+>
+> > [!note]- Tech: Nadella defends Microsoft's 60K-employee voluntary buyout at DealBook Summit (Fortune)
+> > Microsoft CEO Satya Nadella defended the company's October offer of voluntary buyouts to roughly 60,000 employees — about 27% of the global workforce — at the DealBook Summit on November 18, the largest such programme in Microsoft's history. The move coincides with a broad tech layoff wave: Qualcomm filed WARN notices for 500+ California roles (effective January 12), Oracle sent layoff emails days after reporting 121% cloud revenue growth, and Visa announced 2,600 cuts. [Source](https://tech.yahoo.com/general/breaking-news/article/tech-layoffs-2026-tracking-the-job-losses-across-disney-amazon-microsoft-apple-meta-and-others-130524052.html)
+>
+> > [!note]- Macro: S&P 500 marks fifth straight loss; gold at 14-month low, BTC down 28% YTD (Market Pulse)
+> > The S&P 500 fell to 7,323.6 on November 19 — its fifth consecutive losing session — as hawkish Fed minutes showed near-unanimous support for further hikes, with a December 25 bp move roughly 95% priced in. Gold slid to ~$3,739/oz, a 14-month low, while Bitcoin dropped to ~$63,384, now down 28% year-to-date. The dollar index climbed to 103.7 and the 10-year Treasury yield holds above 5%. [Source](https://nordfx.com/market-news/market-pulse-november-19-2026)
+>
+> > [!breaking]- World: ICJ rules Myanmar committed genocide against Rohingya in historic court decision (UN)
+> > The International Court of Justice issued a landmark ruling that Myanmar committed genocide against the Rohingya Muslim minority — one of the first times the world's top court has applied the genocide label to an ongoing case. The decision opens the path to binding orders on Myanmar and intensifies pressure on ASEAN members to respond. Myanmar has rejected the court's jurisdiction, complicating enforcement of any reparations. [Source](https://geopolitiki.com/)
+>
+> > [!note]- Malaysia: GDP grows 5.5% YoY in Q3 2026, driven by household spending and investment (BNM)
+> > Bank Negara Malaysia reported that the economy expanded 5.5% year-on-year in Q3 2026, beating consensus estimates, underpinned by resilient household consumption, stronger investment, and improved exports. The ringgit opened slightly firmer on the data, though Bursa Malaysia tracked broader regional weakness. PM Anwar Ibrahim was in Shenzhen this week meeting Chinese tech executives to pursue AI and data-centre investment. [Source](https://www.malaymail.com/)
+>
+> > [!note]- Science: Supernova SN 2026ahvu captured live in NGC 1433, 50 million light-years away (Space.com)
+> > Astronomers caught supernova SN 2026ahvu in real time as it erupted in galaxy NGC 1433, roughly 50 million light-years from Earth — a rare opportunity to study the explosion's early phases before observational lag obscures the onset. Supernovae of this Type Ia class are used as cosmic distance markers to map the universe's expansion, and catching one at onset provides data critical for calibrating the Hubble constant. [Source](https://space.com/astronomy/a-newfound-supernova-explodes-50-million-light-years-away-space-photo-of-the-day-for-nov-18-2026)
+>
+> > **Evening update**
+>
+> > [!note]- SG & MY: US AI-chip controls take effect for SG/MY; Malaysia probes Megaspeed re-exports (AsiaOne)
+> > New US export controls on advanced AI semiconductors took formal effect November 19 for Singapore and Malaysia, restricting sales of Nvidia's most powerful chips to companies without verified end-user agreements. Malaysian authorities confirmed they are examining whether Megaspeed's local unit re-exported AI chips in breach of end-use declarations, as Singapore's probe into the Nvidia server fraud case — now involving five defendants and six companies — enters its pre-trial phase. [Source](https://www.asiaone.com/singapore)
+>
+> > [!note]- Malaysia: PM Anwar's Shenzhen visit yields RM9.2 bil in indicative China investment (The Star)
+> > Prime Minister Anwar Ibrahim's Shenzhen visit generated RM9.2 billion in indicative investment proposals from Chinese firms spanning data centres, semiconductors, and green energy, according to the Malaysia Investment Development Authority. Anwar held bilateral meetings with executives from Huawei, BYD, and other technology groups as part of the push to position Malaysia as a preferred destination for Chinese tech capital. The proposals are indicative and subject to formal approval before they become committed investments. [Source](https://thestar.com.my/aseanplus/aseanplus-news/2026/11/19/asean-news-headlines-at-10pm-on-thursday-nov-19-2026)
+>
+> > [!breaking]- World: Trump, Xi and Putin sign "Declaration toward Peace"; European leaders reject Yalta 2.0 (Euronews)
+> > The first-ever US-China-Russia trilateral summit, held in Shenzhen over two days, concluded November 20 with all three leaders co-signing a "Declaration toward Peace" committing to dialogue on nuclear risk reduction, a Ukraine ceasefire framework, and AI governance. European heads of government immediately rejected the terms, warning it amounted to a "Yalta 2.0" settlement decided without Kyiv or European capitals. Ukrainian President Zelensky called it "a surrender document written by others" and refused to recognise its authority. [Source](https://www.euronews.com/video/2026/11/20/latest-news-bulletin-november-20th-2026-morning)
+>
+> > [!note]- World: Houthi missile strikes Riyadh's Kingdom Tower, sparking fire visible across the city (Reuters)
+> > A Houthi ballistic missile struck the Kingdom Tower in Riyadh on November 20, causing structural damage to the upper floors of the 302-metre landmark and igniting a fire visible from several kilometres away. Saudi Arabia's air-defence systems intercepted two further missiles in the same salvo; casualty figures were not immediately confirmed. The strike represents a significant escalation, extending Houthi targeting from oil infrastructure to Saudi Arabia's most recognisable commercial skyline. [Source](https://www.reuters.com/)
+>
+> > [!note]- Tech: Anthropic IPO Day 2 — AI selloff spreads to Asia and Europe as ANT shares fall in premarket (Bloomberg)
+> > Anthropic shares — which debuted on Nasdaq Thursday at $111.50 before closing at $97.17 (up 17% on day one) — fell roughly 6% in Friday premarket as the broader AI selloff extended to Asian and European markets. Bloomberg reported US stock futures in the red, with investors questioning whether premium AI valuations can hold at 10-year Treasury yields above 5%. Separately, Palo Alto Networks announced a $4.5 billion all-stock acquisition of Applied Compute, an open-weight AI inference and post-training platform. [Source](https://bloomberg.com/news/articles/2026-11-20/us-stock-futures-fall-as-ai-selloff-spreads-to-asia-and-europe)
+>
+> > [!note]- Macro: IMF flags global public debt approaching 100% of GDP — highest since World War II (IMF)
+> > The International Monetary Fund's updated Fiscal Monitor warns that global public debt is nearing 100% of aggregate GDP — a level last seen in the immediate post-war era — driven by structural deficits in the US, Japan, and the UK. The Fund urged governments to rebuild fiscal buffers before the next downturn, cautioning that persistently high interest rates are compressing debt-service headroom faster than projected. Oil held near $93 a barrel, with the Strait of Hormuz standoff keeping energy costs elevated and adding to the global fiscal squeeze. [Source](https://www.imf.org/en/Publications/FM)
+
+### [[11-19-26 Thu]]
+
+> [!note]- AI: Hassabis proposes FINRA-style Frontier AI Standards Body to test models pre-release (DeepMind)
+> Google DeepMind CEO Demis Hassabis published a framework calling for a US-led, industry-funded Frontier AI Standards Body modelled on FINRA, tasked with independently testing frontier models before public release. The proposal comes as Moonshot AI published full Kimi K3 model weights on HuggingFace — a significant open-weights release — and as the Trump administration weighs a disclosure rule requiring firms to identify Chinese AI models in their products. The convergence of open releases and regulatory pressure is reshaping the governance landscape for frontier AI this week. [DeepMind](https://deepmind.google/discover/blog/)
+
+> [!note]- Tech: Salesforce shares fall 9.45% on simultaneous layoffs report and cyberattack disclosure (Newsweek)
+> Salesforce stock dropped 9.45% after Business Insider reported internal Slack messages suggesting a new round of job cuts, coinciding with a cyberattack disclosure affecting customer data. The company has not formally confirmed either story, but the dual hit lands as enterprise software stocks already face pressure from rising US rates and a cooling enterprise AI-spending outlook. [Newsweek](https://newsweek.com/salesforce-suffers-stock-slide-layoffs-report-cyberattack-12734925)
+
+> [!note]- Macro: Nvidia record earnings fail to revive AI trade; gold $3,756/oz, BTC ~$64k, 10-yr yield above 5% (Eurasia Business News)
+> Nvidia posted record revenue and upgraded its outlook for Q4, yet shares and the broader AI sector continued sliding, with the market questioning whether chip-demand growth can justify valuations at a 10-year Treasury yield above 5%. Gold fell to around $3,756/oz and Bitcoin slipped near $64,000, both retreating on dollar strength and rate-fear. Markets are pricing a ~95% probability of a December Fed rate hike. [Eurasia Business News](https://eurasiabusinessnews.com/2026/11/18/stock-market-today-november-18-2026-nvidia-earnings-fail-to-calm-investors-as-gold-and-oil-fall/)
+
+> [!breaking]- World: First-ever US-China-Russia trilateral summit opens in Shenzhen with Ukraine and Iran on agenda (Euronews)
+> The historic three-way summit between Trump, Xi, and Putin convened Thursday in Shenzhen — the first such gathering between sitting US, Chinese, and Russian leaders in the modern era. The agenda spans a Ukraine ceasefire framework, Taiwan, nuclear reduction, the Strait of Hormuz crisis triggered by this week's US-Iran exchange of fire, and AI chip export controls. Outcomes from today's session could reshape multiple active conflicts simultaneously. [Euronews](https://euronews.com/2026/11/18/trump-arrives-in-china-for-unprecedented-trilateral-encounter-with-xi-and-putin)
+
+> [!note]- Malaysia: Aaron Tai & Yap Roy King win Malaysia's first Japan Masters men's doubles title in Kumamoto (AsiaOne)
+> Malaysian shuttlers Aaron Tai and Yap Roy King defeated Japan's Takuro Hoki and Yugo Kobayashi in the Japan Masters men's doubles final in Kumamoto, claiming Malaysia's first title at the tournament. The victory is a timely morale boost for Badminton Association of Malaysia ahead of the 2027 World Championships qualification cycle, and continues Malaysia's strong doubles form this season. [AsiaOne](https://www.asiaone.com/malaysia)
+
+> [!note]- Science: ISS crew 3D-prints human liver, kidney and cartilage tissue using microgravity bioprinting (Space.com)
+> Crew-13 commander Jessica Watkins is running an experiment aboard the International Space Station that leverages microgravity to 3D-print structured human liver, kidney, and cartilage tissue — forms that gravity makes difficult to produce on Earth. The goal is to eventually supply patient-matched tissue for medical treatment both in space and on Earth, advancing bioprinting from research curiosity toward clinical application. [Space.com](https://space.com/space-exploration/international-space-station/iss-astronauts-3d-print-human-cells-and-tissues-space-photo-of-the-day-for-nov-17-2026)
+
+> **Evening update**
+
+> [!note]- SG & MY: NEA contacts Malaysian authorities over new illegal waste dumping in Pontian (Malay Mail)
+> Singapore's National Environment Agency has reached out to Malaysian counterparts after fresh reports of illegal industrial waste disposal in Pontian, Johor, raising transboundary pollution concerns once again. The case echoes similar episodes over the past year that have strained bilateral environmental cooperation. Both sides have pledged to investigate responsible parties and strengthen cross-border monitoring. [Malay Mail](https://www.malaymail.com/news/singapore)
+
+> [!note]- Malaysia: Malaysia demands details from Anthropic over AI models used in voter influence operation (FMT)
+> Malaysia's government is seeking information from Anthropic after reports that its AI models were allegedly deployed in a political influence operation targeting Malaysian voters. The move follows growing regional concern about AI-driven disinformation ahead of election cycles, with Malaysia's election commission flagging several suspicious AI-generated campaigns in recent months. Anthropic has not publicly responded to the government's inquiry. [Free Malaysia Today](https://www.freemalaysiatoday.com)
+
+> [!note]- World: Ukraine strikes Kerch Bridge for third time in four days, rail traffic disrupted on Crimea crossing (Times of Israel)
+> Ukrainian forces launched another aerial attack on the Kerch Bridge connecting mainland Russia to Crimea — the third such strike in four days — disrupting rail traffic on the strategically vital crossing. The repeated targeting signals an intensified Ukrainian campaign against Russian logistics infrastructure as Shenzhen peace talks proceed in parallel. Russia has rerouted freight to alternative routes but has not fully disclosed the extent of damage. [Times of Israel](https://www.timesofisrael.com/liveblog-november-19-2026/)
+
+> [!note]- World: Houthi drone strikes Riyadh skyscraper as Yemen conflict escalates deep into Saudi territory (OpenChronicle)
+> A Houthi drone struck a Riyadh skyscraper on Thursday, causing visible structural damage in a rare attack that penetrated far into Saudi territory. The strike marks a significant escalation in Houthi reach beyond their usual targets near Yemen's border regions, raising questions about Saudi air defence capabilities. The incident comes as Gulf tensions feature prominently on the agenda at the Shenzhen trilateral summit. [OpenChronicle](https://openchronicle.org/2026/11/19/global-news-brief-key-developments-around-the-world-november-19-2026/)
+
+> [!breaking]- Tech: Anthropic IPO prices at $83/share — above guidance — raising $81B+ in the largest US tech listing ever (CNBC)
+> Anthropic priced its IPO at $83 per share, above its guided $70–78 range, raising over $81 billion in what is now the largest technology public offering on record — surpassing SpaceX's private valuation round. Trading began today on Nasdaq under the ticker "ANT," valuing the AI safety company at approximately $1.5 trillion. The listing lands the same week as the US-China-Russia Shenzhen trilateral and tightened AI chip export controls, making the broader sector signal unusually complex to read. [CNBC](https://www.cnbc.com/world/)
+
+> [!note]- Economy: Nvidia halts AI chip shipments to China despite prior US clearance, deepening US-China tech rift (AI Tools Recap)
+> Nvidia has ceased shipping certain AI accelerators to China even after Washington previously cleared them for export, in a unilateral move that further fragments the global AI hardware supply chain. The decision follows last week's expanded export controls and coincides with Nvidia stock's continued slide despite record Q3 earnings. Analysts say the halt reflects Nvidia's attempt to stay ahead of regulatory risk as US policy tightens faster than companies can adapt. [AI Tools Recap](https://aitoolsrecap.com/Blog/ai-news-november-19-2026)
+
 ### [[11-18-26 Wed]]
 
 > [!breaking]- AI: Anthropic IPO pricing today — $70–$78/share range; Nasdaq ticker ANT starts tomorrow (Bloomberg)
@@ -82,6 +356,29 @@ unread: true
 
 > [!note]- Nike (NKE): ~$36.25 (−5.3% Tue close) — "Full Stride Ahead" targets $5B new revenue by FY2031; analysts split (Benzinga)
 > Nike closed Tuesday around $36.25 after falling 5.3% as investors gave a cool reception to the "Full Stride Ahead" investor-day plan, which targets $5 billion in incremental annual revenue and $2.5 billion in cost cuts by fiscal 2031. Analysts remain divided: Truist holds a Sell at $29, Cantor Fitzgerald is Neutral at $38, and BTIG keeps Buy at $50 with a $5.14 average target. Position: 46 shares at $71.69 avg cost; unrealised loss ~$1,585 at current price. [Benzinga](https://www.benzinga.com/markets/guidance/26/11/63357937/nike-targets-5-billion-incremental-revenue-growth-by-fiscal-2031)
+
+> **Evening update**
+
+> [!note]- SG & MY: US DOJ confirms Megaspeed criminal probe; SG cooperates fully (Malay Mail)
+> The US Department of Justice confirmed a criminal investigation into Singapore cloud provider Megaspeed for allegedly diverting Nvidia AI chips to restricted Chinese entities, deepening the scandal that rattled Singapore's data-centre sector this week. Singapore's government pledged full cooperation with US investigators while conducting its own domestic probe, as the case threatens the city-state's reputation as a trusted technology hub. PM Lawrence Wong separately called for a tougher ASEAN-wide response to firms responsible for the ongoing transboundary haze at the Manila summit. [Malay Mail](https://www.malaymail.com/news/singapore)
+
+> [!note]- Malaysia: Macron departs after rare earth deal framework; Anwar mandates WFH from April (Malay Mail)
+> French President Emmanuel Macron departed Malaysia after a two-day state visit that yielded a framework agreement giving France access to Malaysia's rare earth processing sector, part of Western efforts to reduce critical mineral dependence on China. The visit was France's highest-level diplomatic engagement with Kuala Lumpur in over a decade. Separately, PM Anwar announced mandatory work-from-home for all federal civil servants and government-linked companies starting April 15, citing national energy management needs during the ongoing haze crisis. [Malay Mail](https://www.malaymail.com/news/malaysia)
+
+> [!breaking]- World: US strikes Iran's Qeshm Island base; IRGC hits US forces in Kuwait and Bahrain (Euronews)
+> American aircraft struck an Iranian missile launch facility on Qeshm Island in the Persian Gulf after the Islamic Revolutionary Guard Corps targeted US military positions in Kuwait and Bahrain — the first direct exchange of fire between US forces and Iran since the Strait of Hormuz crisis began. Qatar announced emergency shuttle diplomacy and warned of "grave danger," while Brent crude surged past $93 per barrel on the escalation. The events put intense pressure on the Shenzhen summit, where Trump, Xi, and Putin are expected to discuss Gulf de-escalation alongside nuclear reduction, Taiwan, and AI chip agendas. [Euronews](https://www.euronews.com/tag/world-news)
+
+> [!note]- World: Ukraine drones damage Kerch Bridge; COP31 phaseout talks deadlock (Euronews)
+> Ukrainian drones struck the Kerch Bridge linking Crimea to Russia for the fourth time since 2022, causing structural damage to the roadway section and disrupting Russian military supply lines. Separately, a Russian military transport aircraft crashed in Siberia, killing 17 of the 19 on board, with authorities opening an investigation. At COP31 in Türkiye, climate negotiations hit a contentious impasse as OPEC nations and several emerging-economy delegates objected to draft language calling for a full fossil fuel phaseout. [Euronews](https://www.euronews.com/tag/world-news)
+
+> [!note]- Tech: Nvidia Q3 revenue $115.8B (+103% YoY); Anthropic IPO prices at $78 as ANT (Bloomberg)
+> Nvidia reported fiscal Q3 2027 revenues of $115.8 billion, up 103% year-on-year — its first earnings call without founder Jensen Huang — beating estimates and sending shares up 4–5% after hours, halting a four-day 11% selloff. The results landed the same evening that Anthropic priced its IPO at $78 per share, the top of the $70–78 range, with Nasdaq trading under ticker ANT set to begin Thursday morning. OpenAI also released GPT-6.2 Astra and GPT-6.2 Sol, flagged at its highest cybersecurity and biosecurity safety thresholds. [Bloomberg](https://www.bloomberg.com/news/articles/2026-11-17/stock-market-today-dow-s-p-live-updates)
+
+> [!note]- Economy: Fed Dec hike odds 95%; Brent surges to $93 on Gulf escalation fears (Bloomberg)
+> US money markets now price a near-certain 95% probability of a December Federal Reserve rate hike, with the 10-year Treasury yield holding at 5.14% after October's hot 3.7% CPI print and persistent labour-market strength. Brent crude jumped to approximately $93 per barrel — its highest level since August — after the news of direct US-Iran strikes in the Gulf. The Reserve Bank of Australia separately raised its cash rate to 4.85%, its fifth hike of 2026, as global central banks continue tightening in parallel. [Bloomberg](https://www.bloomberg.com/news/articles/2026-11-17/stock-market-today-dow-s-p-live-updates)
+
+> [!note]- Macro: Gold breaks below $3,800 for first time in over a year — dollar firms on rate-hike bets (Reuters)
+> Spot gold slid to around $3,756–$3,790/oz on Wednesday, dropping below $3,800 for the first time since late 2025 as a strengthening US dollar and near-certain December Fed rate-hike expectations weighed on bullion. The move is notable given that Brent crude simultaneously surged to $93 on Gulf escalation, suggesting risk-off flows are favouring cash and bonds over gold at current levels. [Reuters](https://www.reuters.com)
 
 > [!note]- [[11-17-26 Tue]]
 >
