@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-24T19:04
+updated: 2026-11-25T05:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -60,7 +60,30 @@ unread: true
 
 ## 2026-11
 
-### [[11-24-26 Tue]]
+### [[11-25-26 Wed]]
+
+> [!note]- AI: Anthropic drops below IPO price; Nvidia sinks 7% as Monday's rally reverses (Bloomberg)
+> Nvidia fell roughly 7% a day after its historic 31.5% surge on CEO-reinstatement news, as investors locked in gains and broader tech anxiety returned. Anthropic, which made its market debut earlier this month, dropped below its IPO price — the starkest sign yet that AI valuations may have stretched. The Nasdaq 100 fell about 2%, marking its eighth loss in nine sessions. [Source](https://bnnbloomberg.ca/investing/market-outlook/2026/11/24/tech-stocks-wane-a-day-after-a-huang-rally-as-anthropic-tumbles-below-its-initial-offering-price)
+
+> [!note]- Tech: Google November 2026 core update finishes; December update pre-announced (Search Engine Journal)
+> Google confirmed its November 2026 broad core update completed rollout on November 24 after roughly 14 days. The company also pre-announced a December 2026 core update with no release date — an unusual move that signals continued aggressive indexing changes heading into the holiday season. [Source](https://searchenginejournal.com/google-november-2026-core-update-complete/598751)
+
+> [!note]- Macro: Nasdaq 100 −2%, S&P 500 −0.5% — AI sell-off reverses Monday's euphoria (CNBC)
+> US equities gave back a portion of Monday's historic gains as the Nasdaq 100 fell roughly 2% and the S&P 500 slipped 0.5%, heading for its eighth loss in nine sessions. Nvidia's 7% drop led the AI-related sell-off; the Dow managed a small gain. Bond yields held steady, with high rates from the ongoing Iran conflict continuing to weigh on borrowing conditions. [Source](https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html)
+
+> [!note]- World: Top Chinese official investigated as Xi's anti-corruption campaign widens before party congress (ABC News)
+> China's Central Commission for Discipline Inspection confirmed it is investigating Chen Jining, a senior party official, as Xi Jinping's anti-corruption drive expands ahead of a key party congress expected next year. The probe signals that the campaign — already one of the longest-running in modern Chinese history — will reach further into the party elite before the congress reshuffles leadership. [Source](https://www.abc.net.au/news/world)
+
+> [!note]- Malaysia: Anwar rejects claims gov't leaked Najib pardon minutes; National Laureate A. Samad Said dies at 91 (Malay Mail / The Star)
+> PM Anwar Ibrahim flatly denied in Parliament that the government leaked the minutes of the Federal Territories Pardons Board meeting that led to Najib Razak's house arrest. Separately, Malaysia mourned the passing of National Laureate A. Samad Said at 91 — author and poet widely regarded as the father of modern Malaysian literature. [Source](https://www.malaymail.com/news/malaysia/2026/11/24/that-is-not-true-anwar-rejects-claims-government-leaked-najib-pardon-minutes/244550)
+
+> [!note]- Science: Antarctic ozone hole expands to seventh-largest on record in 2026 (NASA)
+> NASA reported that the 2026 Antarctic ozone hole peaked as the seventh-largest on record, raising new concerns about the pace of ozone recovery. Scientists noted that unexpected chemistry linked to wildfire aerosols and volcanic emissions may be slowing the recovery projected under the Montreal Protocol. [Source](https://www.sciencedaily.com/news/)
+
+> [!note]- Nike NKE: $35.76 (+5.91%) — jumps on Foot Locker's upbeat Q3 commentary; Jefferies Buy at $60 (Benzinga)
+> Nike shares surged nearly 6% on November 24 — the largest gain in the Dow — as Foot Locker's strong Q3 earnings highlighted early brand-momentum signs. YTD the stock remains down ~48%; the 46-share position (avg $71.69) carries an unrealised loss of ~$1,653 at $35.76. Next catalyst: Q2 FY2027 earnings December 17. [Source](https://www.benzinga.com/trading-ideas/movers/26/11/63593640/nike-stock-jumps-amid-foot-lockers-positive-q3-insights)
+
+> [!note]- [[11-24-26 Tue]]
 
 > [!note]- AI: OpenAI requires all API resellers to seek prior approval under new Usage Policies (ppc.land)
 > OpenAI's revised Usage Policies, effective November 20, now require any third-party company reselling API access to obtain prior written approval — the most restrictive access rules the company has introduced. The move follows OpenAI's broader crackdown on model misuse and aligns with the National Governors Association's bipartisan call for Congress to enact national AI oversight rules, including independent safety reviews and mandatory incident reporting for frontier models. [Source](https://ppc.land/openai-forces-ai-model-resellers-to-seek-its-approval-first/)
