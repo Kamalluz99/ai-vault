@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-25T05:00
+updated: 2026-11-25T05:13
 topic: daily news
 frequency: daily
 ongoing: false
@@ -62,26 +62,23 @@ unread: true
 
 ### [[11-25-26 Wed]]
 
-> [!note]- AI: Anthropic drops below IPO price; Nvidia sinks 7% as Monday's rally reverses (Bloomberg)
-> Nvidia fell roughly 7% a day after its historic 31.5% surge on CEO-reinstatement news, as investors locked in gains and broader tech anxiety returned. Anthropic, which made its market debut earlier this month, dropped below its IPO price — the starkest sign yet that AI valuations may have stretched. The Nasdaq 100 fell about 2%, marking its eighth loss in nine sessions. [Source](https://bnnbloomberg.ca/investing/market-outlook/2026/11/24/tech-stocks-wane-a-day-after-a-huang-rally-as-anthropic-tumbles-below-its-initial-offering-price)
+> [!note]- AI: Anthropic & OpenAI staff warn unreleased models too dangerous to deploy (Axios)
+> Some engineers and researchers at Anthropic and OpenAI have privately raised alarms that certain unreleased frontier models carry risks too severe for public release. While some believe improved safety measures could mitigate the danger, others argue that companies may need to halt development of increasingly powerful systems entirely. The warnings represent one of the most direct public challenges to the prevailing build-and-deploy culture at leading AI labs. [Source](https://mlq.ai/news/anthropic-and-openai-staff-fear-some-unreleased-models-are-too-unsafe-to-release)
 
-> [!note]- Tech: Google November 2026 core update finishes; December update pre-announced (Search Engine Journal)
-> Google confirmed its November 2026 broad core update completed rollout on November 24 after roughly 14 days. The company also pre-announced a December 2026 core update with no release date — an unusual move that signals continued aggressive indexing changes heading into the holiday season. [Source](https://searchenginejournal.com/google-november-2026-core-update-complete/598751)
+> [!note]- Tech: Canva cuts 22% of staff — 1,271 employees affected in major restructure (InformationWeek)
+> Canva CEO Melanie Perkins announced the design platform will cut approximately 1,271 employees, representing 22% of its global workforce, citing the need to restructure around AI-driven product development. The move follows Squarespace cutting 19% of its staff and Block beginning a second round of layoffs in 2026, reinforcing a broad trend of cost rationalisation at consumer-tech companies even as revenues hold steady. [Source](https://www.informationweek.com/it-staffing-careers/2026-tech-company-layoffs)
 
-> [!note]- Macro: Nasdaq 100 −2%, S&P 500 −0.5% — AI sell-off reverses Monday's euphoria (CNBC)
-> US equities gave back a portion of Monday's historic gains as the Nasdaq 100 fell roughly 2% and the S&P 500 slipped 0.5%, heading for its eighth loss in nine sessions. Nvidia's 7% drop led the AI-related sell-off; the Dow managed a small gain. Bond yields held steady, with high rates from the ongoing Iran conflict continuing to weigh on borrowing conditions. [Source](https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html)
+> [!note]- Macro: US PCE due today as Nasdaq enters bear territory and Bitcoin hovers near $60K (MarketAlleys)
+> The Federal Reserve's preferred inflation gauge — PCE — is due Wednesday alongside Q3 GDP revisions, the week's most pivotal data release. Markets are pricing roughly 95% odds of a 25 bps December rate hike, while the Nasdaq entered bear-market territory after falling 10% last week — its worst weekly loss since the COVID-era sell-off. Bitcoin sits near $60,000 and gold is down 19% year-to-date as fragile risk sentiment weighs on asset prices. [Source](https://www.marketalleys.com/post/us-gdp-and-pce-headline-the-three-day-calendar-2026-11-24)
 
-> [!note]- World: Top Chinese official investigated as Xi's anti-corruption campaign widens before party congress (ABC News)
-> China's Central Commission for Discipline Inspection confirmed it is investigating Chen Jining, a senior party official, as Xi Jinping's anti-corruption drive expands ahead of a key party congress expected next year. The probe signals that the campaign — already one of the longest-running in modern Chinese history — will reach further into the party elite before the congress reshuffles leadership. [Source](https://www.abc.net.au/news/world)
+> [!breaking]- World: Trump, Xi, and Putin convene historic trilateral summit in Shenzhen (Atalayar)
+> US President Trump, China's Xi Jinping, and Russia's Putin have gathered in Shenzhen for the first trilateral summit among the three powers, with Ukraine, the US-Israeli conflict with Iran, and nuclear disarmament on the agenda. The meeting is widely seen as the most consequential diplomatic moment of 2026, with outcomes expected to reshape multiple active conflict zones simultaneously. Talks also reportedly include proposals for a broader security architecture to replace collapsing post-Cold War frameworks. [Source](https://atalayar.com/en/gustavo-aristegui/gustavo-aristegui-geopolitical-analysis-of-23-november/20261123161337230677.html)
 
-> [!note]- Malaysia: Anwar rejects claims gov't leaked Najib pardon minutes; National Laureate A. Samad Said dies at 91 (Malay Mail / The Star)
-> PM Anwar Ibrahim flatly denied in Parliament that the government leaked the minutes of the Federal Territories Pardons Board meeting that led to Najib Razak's house arrest. Separately, Malaysia mourned the passing of National Laureate A. Samad Said at 91 — author and poet widely regarded as the father of modern Malaysian literature. [Source](https://www.malaymail.com/news/malaysia/2026/11/24/that-is-not-true-anwar-rejects-claims-government-leaked-najib-pardon-minutes/244550)
+> [!note]- Malaysia: Border agency officer arrested for allegedly smuggling undocumented migrants through KLIA2 (The Sun)
+> An officer of the Malaysian Border Control and Protection Agency (AKPS) has been arrested on suspicion of facilitating the entry of undocumented foreign nationals through Kuala Lumpur International Airport Terminal 2. Home Ministry Secretary-General Saifuddin Nasution Ismail said the arrest demonstrates the importance of integrity in enforcement agencies and warned that such abuses undermine national border security. [Source](https://thesun.my/news/akps-arrest-shows-importance-of-integrity-in-enforcement-agencies-saifuddin/)
 
-> [!note]- Science: Antarctic ozone hole expands to seventh-largest on record in 2026 (NASA)
-> NASA reported that the 2026 Antarctic ozone hole peaked as the seventh-largest on record, raising new concerns about the pace of ozone recovery. Scientists noted that unexpected chemistry linked to wildfire aerosols and volcanic emissions may be slowing the recovery projected under the Montreal Protocol. [Source](https://www.sciencedaily.com/news/)
-
-> [!note]- Nike NKE: $35.76 (+5.91%) — jumps on Foot Locker's upbeat Q3 commentary; Jefferies Buy at $60 (Benzinga)
-> Nike shares surged nearly 6% on November 24 — the largest gain in the Dow — as Foot Locker's strong Q3 earnings highlighted early brand-momentum signs. YTD the stock remains down ~48%; the 46-share position (avg $71.69) carries an unrealised loss of ~$1,653 at $35.76. Next catalyst: Q2 FY2027 earnings December 17. [Source](https://www.benzinga.com/trading-ideas/movers/26/11/63593640/nike-stock-jumps-amid-foot-lockers-positive-q3-insights)
+> [!note]- Science: Rocket test confirms protective coating keeps medicine stable in space (Phys.org)
+> University of Adelaide and German Aerospace Center researchers flew experimental medicines on a suborbital rocket to 300 km altitude and confirmed that a protective polymer coating preserves drug stability under microgravity and radiation. The findings, published in Advanced Healthcare Materials, bring researchers a step closer to supplying reliable on-board medicine for long-duration crewed missions to the Moon and Mars. [Source](https://phys.org/news/2026-11-rocket-mission-coating-space-medicine.html)
 
 > [!note]- [[11-24-26 Tue]]
 
