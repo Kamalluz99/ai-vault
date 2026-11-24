@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-24T05:15
+updated: 2026-11-24T19:04
 topic: daily news
 frequency: daily
 ongoing: false
@@ -82,6 +82,26 @@ unread: true
 
 > [!note]- Nike NKE: ~$33.80 (Mon close, +2.7%) — monitoring Tue open; YTD −47%; loss ~$1,743 on 46 shares (MarketBeat)
 > Nike closed Monday at approximately $33.80, up $0.88 (+2.7%), lifted by the broader market recovery. YTD performance remains at −47%; the 46-share position (avg cost $71.69) carries an unrealised loss of ~$1,743 (value ~$1,555 vs cost ~$3,298). Markets open 9:30 am ET. Next catalyst: Q2 FY2027 earnings December 17. [Source](https://www.marketbeat.com/stocks/NYSE/NKE/)
+
+> **Evening update**
+
+> [!note]- SG & MY: PM Wong says Singapore cooperating with US to curb chip rerouting (FMT)
+> Prime Minister Lawrence Wong, speaking from Australia, confirmed Singapore is running its own investigation into possible breaches of domestic law after US authorities began probing firms alleged to have used the country to route Nvidia chips to sanctioned destinations. Wong said Singapore is actively working with Washington and will not allow the country to be "exploited" as a rerouting hub. The statement marks Singapore's clearest acknowledgement yet of its role in the US-China chip-controls standoff. [Source](https://freemalaysiatoday.com/category/world/2026/11/24/singapore-working-with-us-on-rerouted-chips-says-pm-wong)
+
+> [!note]- Malaysia: US Treasury formally warns Malaysia over Iran sanctions compliance risk (Maritime Executive)
+> The US Treasury has formally warned both Malaysia and Singapore that their financial institutions face potential secondary sanctions exposure if they fail to tighten compliance with US sanctions on Iran. Singapore responded it "is firmly committed to doing our part," while Malaysia had not yet issued an official public response. The warning follows reported use of both countries' ports and financial channels to move sanctioned Iranian oil and goods. [Source](https://maritime-executive.com/article/u-s-treasury-warns-singapore-and-malaysia-over-iran-sanctions)
+
+> [!note]- World: Western intel warns Russia could deploy nuclear-warhead satellite by December (Anadolu)
+> Western intelligence agencies have warned that Russia may launch a satellite platform capable of carrying a nuclear warhead in orbit as early as next month, according to multiple briefings Tuesday. The Kremlin dismissed the reports as fabrications, but NATO allies are treating the warning seriously given ongoing Russia-Ukraine escalation and the collapse of arms-control dialogue. If confirmed, it would mark a significant escalation in Russia's space-weapons programme. [Source](https://aa.com.tr/en/world/morning-briefing-nov-24-2026/4135240)
+
+> [!note]- World: Trump signals post-New Year Iran military strikes if nuclear talks stall (Anadolu)
+> President Trump said he is "inclined" to authorise military strikes against Iran after the new year if ongoing negotiations produce no deal to constrain its nuclear programme. The statement followed Iran's IRGC claiming to have destroyed two US Patriot radar systems in Bahrain and reporting that three oil tankers struck mines in the Strait of Hormuz. Democrats criticised Trump for simultaneously describing Vladimir Putin as a "friend" while threatening Iran. [Source](https://aa.com.tr/en/world/morning-briefing-nov-24-2026/4135240)
+
+> [!breaking]- Tech: Jensen Huang reinstated as Nvidia CEO; NVDA surges 31.5%, Nasdaq jumps 6.5% (CNBC)
+> Nvidia's board voted to reinstate Jensen Huang as CEO roughly eleven days after he stepped aside amid a chip-smuggling investigation, reportedly following direct pressure from President Trump. Nvidia shares surged approximately 31.5% — the stock's best single-day gain on record — lifting the Nasdaq 6.5% and the S&P 500 4.7% in the strongest session in months. The rally partially reversed last week's brutal sell-off, though Nvidia remains down nearly 39% from its recent peak. [Source](https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-november-24-2026/)
+
+> [!note]- Economy: Iran mines three tankers in Hormuz; Brent near $89 as markets stage sharp recovery (Newsquawk)
+> Iran's Revolutionary Guard Navy reported three oil tankers struck mines in the Strait of Hormuz on Tuesday, further pressuring a waterway that carries roughly 20% of world oil supply. Brent crude climbed toward $89 per barrel even as a broader market rally — led by Nvidia's reinstatement surge — pushed equities sharply higher. Australia's Treasurer separately flagged weaker growth and higher unemployment ahead of Wednesday's inflation data. [Source](https://www.newsquawk.com/headlines/newsquawk-daily-european-opening-news---24th-november-2026)
 
 > [!note]- [[11-23-26 Mon]]
 
