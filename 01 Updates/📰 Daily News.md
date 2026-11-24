@@ -126,6 +126,11 @@ unread: true
 > [!note]- Economy: Iran mines three tankers in Hormuz; Brent near $89 as markets stage sharp recovery (Newsquawk)
 > Iran's Revolutionary Guard Navy reported three oil tankers struck mines in the Strait of Hormuz on Tuesday, further pressuring a waterway that carries roughly 20% of world oil supply. Brent crude climbed toward $89 per barrel even as a broader market rally — led by Nvidia's reinstatement surge — pushed equities sharply higher. Australia's Treasurer separately flagged weaker growth and higher unemployment ahead of Wednesday's inflation data. [Source](https://www.newsquawk.com/headlines/newsquawk-daily-european-opening-news---24th-november-2026)
 
+> **Late update**
+
+> [!note]- Nike NKE: ~$36.08 (Tue close, +6.9%) — Foot Locker Q3 lifts NKE; $12B dividend pledge; loss ~$1,638 on 46 shares (Yahoo Finance / Motley Fool)
+> Nike closed Tuesday at approximately $36.08, up $2.32 (+6.9%) — its strongest single-session gain in recent weeks — benefiting from the Nvidia-led Nasdaq surge (+6.5%) and Foot Locker's positive Q3 commentary highlighting Nike brand momentum. Motley Fool also flagged Nike's $12 billion dividend pledge, reinforcing shareholder return commitments despite continued YTD weakness. The 46-share position (avg cost $71.69) carries an unrealised loss of ~$1,638 (value ~$1,660 vs cost ~$3,298). [Source](https://finance.yahoo.com/quote/NKE/history/)
+
 > [!note]- [[11-23-26 Mon]]
 
 > [!note]- AI: Google launches Gemini 4 Argon — frontier model for coding and cyber defense (AI Release Tracker)
