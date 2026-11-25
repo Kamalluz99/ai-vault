@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-25T05:13
+updated: 2026-11-25T19:05
 topic: daily news
 frequency: daily
 ongoing: false
@@ -79,6 +79,26 @@ unread: true
 
 > [!note]- Science: Rocket test confirms protective coating keeps medicine stable in space (Phys.org)
 > University of Adelaide and German Aerospace Center researchers flew experimental medicines on a suborbital rocket to 300 km altitude and confirmed that a protective polymer coating preserves drug stability under microgravity and radiation. The findings, published in Advanced Healthcare Materials, bring researchers a step closer to supplying reliable on-board medicine for long-duration crewed missions to the Moon and Mars. [Source](https://phys.org/news/2026-11-rocket-mission-coating-space-medicine.html)
+
+> **Evening update**
+
+> [!note]- SG & MY: US blacklists Megaspeed; PM Wong pledges chip export enforcement cooperation (Asian News Network)
+> The US Commerce Department added Megaspeed International and six related entities in Singapore, Malaysia, and Thailand to its Entity List, citing risks of AI chip diversion to sanctioned destinations. Prime Minister Lawrence Wong said Singapore does not enforce US export controls but will not allow the country to be used as a conduit, and confirmed Singapore is working with Washington to establish a joint enforcement mechanism. Singapore's own investigation into whether Megaspeed breached local laws is ongoing; Wong noted the chips never physically transited Singapore before reaching their final destinations. [Source](https://asianews.network/singapore-working-with-us-on-chip-export-enforcement-as-megaspeed-probe-continues-pm-wong/)
+
+> [!note]- Malaysia: PAC flags RM225m idle R&D funds; 11 agencies hold RM183m in unreturned grants (FMT)
+> Malaysia's Public Accounts Committee warned that RM225 million in research and development funds is sitting idle, calling the state of the R&D commercialisation ecosystem "worrying." The committee also found that 11 government agencies have yet to return RM183.11 million in unutilised grants, raising concerns about accountability and oversight in publicly funded research. [Source](https://casrai.org/news/malaysia-pac-idle-research-funds-unreturned-grants-2026)
+
+> [!note]- World: Saudi coalition intercepts 4 Houthi drones over Ras Tanura oil hub (NewsLantern)
+> The Houthis claimed drone strikes on Saudi Arabia's Ras Tanura refinery — the world's largest crude oil processing facility — and Riyadh's financial district, though the Saudi-led coalition said it intercepted and destroyed all four drones with no casualties in an initial assessment. The strike follows a Saudi airstrike on Yemen's Hodeidah port, which the Houthis had warned would draw retaliation against Saudi energy infrastructure. Separately, Iran claimed two tankers struck naval mines in the Strait of Hormuz, a report that remains unconfirmed by independent sources. [Source](https://newslantern.com/news/25380/2026-11-25/saudi-arabia-intercepts-houthi-drone-attack-on-ras-tanura-oil)
+
+> [!breaking]- World: US jury convicts Huawei of fraud, trade secrets theft and Iran sanctions violations (CNBC)
+> A federal jury in Brooklyn convicted Huawei on 10 of 12 criminal counts including bank fraud, wire fraud, conspiracy to steal trade secrets, and sanctions violations, closing a landmark case that has been building for over six years. The conviction centres on Huawei's use of a front company, Skycom, to conduct business in Iran while misrepresenting the relationship to Western banks including HSBC. Huawei was acquitted of the most serious charge — criminal racketeering conspiracy — and sentencing is set for September 2027. [Source](https://www.cnbc.com/2026/11/25/huawei-fraud-trade-trial.html)
+
+> [!note]- Tech: Hackers breach CIA-ODNI shared network; no classified data taken, officials say (Globe TV)
+> Hackers reportedly broke into a shared computer system used by both the CIA and the Office of the Director of National Intelligence, in what officials are describing as a significant cybersecurity incident. Authorities said initial assessments found no classified information was accessed or exfiltrated, though investigations are ongoing. The breach comes amid heightened US intelligence concerns following this week's Shenzhen trilateral summit and multiple active conflict zones. [Source](https://globetv.app/news/world-news-24-hours-november-25-2026)
+
+> [!note]- Economy: Trump readies China-EU tariffs over manufacturing overcapacity (10 Things News)
+> The Trump administration is preparing a new round of tariffs targeting China, the European Union, and other trading partners, based on a government investigation finding systematic excess manufacturing capacity that the White House says distorts global trade. The move threatens to escalate trade tensions simultaneously across multiple fronts, adding pressure to markets already rattled by the Nasdaq's entry into bear territory and the looming December Fed rate decision. [Source](https://www.10things.news/p/10-things-global-news-25th-november-799)
 
 > [!note]- [[11-24-26 Tue]]
 
