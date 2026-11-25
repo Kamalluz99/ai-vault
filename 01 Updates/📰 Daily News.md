@@ -123,6 +123,9 @@ unread: true
 > [!note]- Economy: Trump readies China-EU tariffs over manufacturing overcapacity (10 Things News)
 > The Trump administration is preparing a new round of tariffs targeting China, the European Union, and other trading partners, based on a government investigation finding systematic excess manufacturing capacity that the White House says distorts global trade. The move threatens to escalate trade tensions simultaneously across multiple fronts, adding pressure to markets already rattled by the Nasdaq's entry into bear territory and the looming December Fed rate decision. [Source](https://www.10things.news/p/10-things-global-news-25th-november-799)
 
+> [!note]- Nike NKE: ~$35.47 (Wed intraday, −0.8%) — Foot Locker gains fade on PCE day; loss ~$1,666 on 46 shares (Seeking Alpha)
+> Nike pulled back to approximately $35.47 intraday Wednesday, down 0.78%, giving back a portion of Tuesday's 6.9% Foot Locker-driven surge as macro uncertainty around the PCE print and near-certain December Fed rate hike (~95% priced) weighed on consumer-discretionary names. The 46-share position (avg cost $71.69) carries an unrealised loss of ~$1,666 (value ~$1,632 vs cost ~$3,298). Next catalyst: Q2 FY2027 earnings December 17. [Source](https://seekingalpha.com/symbol/NKE)
+
 > [!note]- [[11-24-26 Tue]]
 
 > [!note]- AI: OpenAI requires all API resellers to seek prior approval under new Usage Policies (ppc.land)
