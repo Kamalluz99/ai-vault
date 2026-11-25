@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-25T19:05
+updated: 2026-11-26T05:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -60,7 +60,30 @@ unread: true
 
 ## 2026-11
 
-### [[11-25-26 Wed]]
+### [[11-26-26 Thu]]
+
+> [!note]- AI: Tidal removes all fully AI-generated tracks — effective December 9, 2026 (VnExpress)
+> Music streaming platform Tidal announced it will purge all songs created entirely by artificial intelligence from its catalogue starting December 9, 2026, taking the strongest stance yet among major streaming services on AI-generated content. The move follows growing pressure from artists and labels concerned about AI displacing human musicians and generating royalty revenue without authentic authorship. Tidal has not clarified how it will verify or enforce the policy at scale. [Source](https://dev.to/vuhung16au/vietnam-ai-llm-daily-briefing-nov-26-2026-34np)
+
+> [!note]- Tech: Dell AI server backlog hits $132.3B; raises full-year forecast to $202B (BNN Bloomberg)
+> Dell Technologies reported a record AI server backlog of $132.3 billion, lifting its full-year revenue forecast to approximately $202 billion as enterprise clients accelerate infrastructure investments in AI training and inference. The backlog surge reflects broad adoption of multi-rack GPU clusters by hyperscalers and large corporates, cementing Dell alongside Supermicro as a primary beneficiary of the AI infrastructure buildout. Separately, Steam is running a Black Friday event Nov 26–30, with Valve stepping back from its own curated deals for the first time. [Source](https://bnnbloomberg.ca/investing/market-outlook/2026/11/24/tech-stocks-wane-a-day-after-a-huang-rally-as-anthropic-tumbles-below-its-initial-offering-price)
+
+> [!breaking]- Macro: PCE at 3.8%; Nasdaq near bear territory (−20% from Oct peak); Dec rate hike near-certain (Bloomberg)
+> US PCE inflation rose to 3.8% in October — well above the Fed's 2% target — cementing market expectations of a 25 bps rate hike at the December FOMC meeting, now priced at ~95% probability. The Nasdaq 100 has fallen approximately 20% from its October record, approaching a formal bear market definition, as the AI-trade rotation and inflation worries weigh on growth equities. New US tariffs targeting 14 trading partners including China and the EU add further macro uncertainty ahead of year-end; US markets are closed today for Thanksgiving. [Source](https://bloomberg.com/news/articles/2026-11-24/asian-stocks-to-slide-as-ai-trade-doubts-resurface-markets-wrap)
+
+> [!note]- World: TSMC acquires 0.03% stake in Anthropic for $500M as big-tech AI investment cycle widens (Taipei Times)
+> Taiwan Semiconductor Manufacturing Company has taken a 0.03% stake in AI lab Anthropic for $500 million, marking the chipmaker's first direct equity investment in a frontier AI company. The move signals TSMC's strategic interest in securing deep partnerships with top AI developers beyond the foundry relationship, amid rapid expansion of AI model training demand. OpenAI's latest funding round simultaneously valued it at $1.25 trillion — below its $1.4 trillion target — as investor sentiment on AI unicorns remains volatile. [Source](https://www.taipeitimes.com/News/world/archives/2026/11/26/2003868432)
+
+> [!note]- Malaysia/Singapore: PM Wong pledges Singapore will not be used to reroute AI chips to sanctioned buyers (The Star)
+> Prime Minister Lawrence Wong reiterated that Singapore will cooperate fully with US export control investigations and will not allow the city-state to serve as a conduit for routing restricted AI chips to sanctioned destinations, following the US probe into Nvidia and Megaspeed International. Singapore's own legal investigation into whether domestic laws were broken is ongoing. Separately, Malaysia's MCMC is pursuing RM600 million in damages from Google over gambling, scam, and harmful YouTube content on its platform. [Source](https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/25/asean-news-headlines-at-10pm-on-wednesday-nov-25-2026)
+
+> [!note]- Science: Physicists send first real-world gravity message through a brick wall (ScienceDaily)
+> Researchers reported the first successful transmission of information through a solid brick wall using gravitational signals, a milestone that until now existed only in theoretical frameworks. The experiment used highly sensitive detectors to pick up minute gravitational perturbations, bypassing the need for electromagnetic pathways. While entirely impractical at current energy and equipment scales, the demonstration opens new conceptual territory in non-EM communication physics. [Source](https://www.sciencedaily.com/news/top/science/)
+
+> [!note]- Nike NKE: $36.70 (Wed close, +2.66%) — markets closed today (Thanksgiving); loss ~$1,610 on 46 shares (Yahoo Finance)
+> Nike closed Wednesday at $36.70, up $0.95 (+2.66%), lifted by continued retail-sector momentum following Foot Locker's positive Q3 commentary calling US Foot Locker stores "a particular bright spot." US markets are closed today for Thanksgiving; next trading session is Friday November 27 (abbreviated, closes 1 PM ET). The 46-share position (avg cost $71.69) carries an unrealised loss of ~$1,610 (value ~$1,688 vs cost ~$3,298). Next major catalyst: Q2 FY2027 earnings December 17. [Source](https://finance.yahoo.com/markets/stocks/articles/nike-soars-6-competitor-calls-185716230.html)
+
+> [!note]- [[11-25-26 Wed]]
 
 > [!note]- AI: Anthropic & OpenAI staff warn unreleased models too dangerous to deploy (Axios)
 > Some engineers and researchers at Anthropic and OpenAI have privately raised alarms that certain unreleased frontier models carry risks too severe for public release. While some believe improved safety measures could mitigate the danger, others argue that companies may need to halt development of increasingly powerful systems entirely. The warnings represent one of the most direct public challenges to the prevailing build-and-deploy culture at leading AI labs. [Source](https://mlq.ai/news/anthropic-and-openai-staff-fear-some-unreleased-models-are-too-unsafe-to-release)
