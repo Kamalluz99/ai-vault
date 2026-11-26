@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-27T05:00
+updated: 2026-11-27T05:14
 topic: daily news
 frequency: daily
 ongoing: false
@@ -62,26 +62,23 @@ unread: true
 
 ### [[11-27-26 Fri]]
 
-> [!note]- AI: Anthropic launches Claude Ship — AI agents now review, fix, and approve code changes (TechCrunch)
-> Anthropic launched Claude Ship, a new agentic product that allows AI agents to review code diffs, propose fixes, and either flag issues for humans or auto-approve changes within defined guardrails. The release marks Anthropic's first product aimed directly at the software development workflow rather than pure coding assistance. Early reports indicate it integrates with GitHub and reduces code-review cycle time significantly. [Source](https://techcrunch.com/category/artificial-intelligence/)
+> [!note]- AI: Anthropic launches Claude Ship — AI agents review, fix, and approve code changes (TechCrunch)
+> Anthropic launched Claude Ship, a new agentic product that allows AI agents to review code diffs, propose fixes, and either flag issues for humans or auto-approve changes within defined guardrails. The release marks Anthropic's first product aimed directly at the software development workflow rather than pure coding assistance. Early reports indicate it integrates with GitHub and significantly reduces code-review cycle times. [Source](https://techcrunch.com/category/artificial-intelligence/)
 
 > [!note]- Tech: Meta fined €805M ($887M) by Italy's Garante for Facebook Android photo-access feature (StyleTech)
-> Italy's data protection authority fined Meta €805 million — approximately $887 million — over a Facebook feature that accessed photos and videos on Android devices without clear user consent. The fine is one of the largest GDPR penalties issued against a major tech platform by a European regulator, and Meta said it intends to appeal. The ruling adds to Meta's mounting regulatory bill across the EU. [Source](https://www.styletech.net/post/top-news-in-tech-november-2026)
+> Italy's data protection authority fined Meta €805 million — approximately $887 million — over a Facebook feature that accessed photos and videos on Android devices without clear user consent. The fine is one of the largest GDPR penalties issued against a major tech platform by a European regulator, and Meta said it intends to appeal. The ruling adds to Meta's mounting EU regulatory bill. [Source](https://www.styletech.net/post/top-news-in-tech-november-2026)
 
-> [!breaking]- Macro: Nasdaq near bear territory (−8.5%); VIX hits 34; Black Friday shortened session opens (Schwab/Newsquawk)
+> [!breaking]- Macro: Nasdaq near bear territory (−8.5%); VIX hits 34; Black Friday shortened session (Newsquawk)
 > US equities open today for a shortened Black Friday session (NYSE/Nasdaq close 1pm ET) after a week of heavy selling that sent the Nasdaq down approximately 8.5% — pushing it toward bear-market territory — and spiked the VIX to 34, its highest level since March. The S&P 500 sits near 7,200 and the 10-year Treasury yield is at 4.84%, as the AI-trade rotation, 3.8% PCE print, and new US tariff threats on 14 trading partners combine into a volatile backdrop heading into December. [Source](https://www.newsquawk.com/headlines/newsquawk-daily-economic-release---27th-november-2026)
 
-> [!note]- World: Bangladesh Awami League shutdown Nov 27–28 as Hasina plans December return; UAE bus crash kills 13 (Observer Voice)
-> Bangladesh's Awami League announced a two-day general shutdown strike for November 27–28, raising political tensions ahead of deposed Prime Minister Sheikh Hasina's planned return to Dhaka in December. Separately, a passenger bus struck a truck in Ras Al Khaimah, UAE, killing 13 people. North Korea's Kim Jong-un vowed to build more nuclear weapons after rebuffing a Trump diplomatic overture, while South Africa's President Ramaphosa won a court bid to overturn an impeachment report. [Source](https://observervoice.com/todays-school-assembly-news-headlines-27-november-2026-255359/)
+> [!note]- World: North Korea vows more nuclear weapons after rejecting Trump diplomatic overture (Observer Voice)
+> North Korea's Kim Jong-un vowed to accelerate nuclear weapons development after rebuffing a diplomatic outreach from the Trump administration, signalling continued resistance to engagement and dimming denuclearisation prospects. Bangladesh's Awami League simultaneously launched a two-day general strike (Nov 27–28) ahead of deposed PM Hasina's planned December return to Dhaka. South Africa's President Ramaphosa separately won a court bid to overturn an impeachment report. [Source](https://observervoice.com/todays-school-assembly-news-headlines-27-november-2026-255359/)
 
-> [!breaking]- SG & MY: Nvidia freezes AI server shipments to SG, MY, Thailand and Indonesia (Malay Mail/FT)
-> Nvidia has instructed its primary manufacturing partners to freeze AI server shipments to Malaysia, Singapore, Thailand, and Indonesia, following the US tightening of export controls targeting China. The move affects a broad range of Nvidia AI hardware and raises concerns about Southeast Asian data-centre buildouts. Singapore's trade ministry said it is studying the impact; Malaysia's semiconductor industry body called for urgent government engagement with Washington. [Source](https://www.malaymail.com/news/money/2026/11/26/ft-nvidia-stops-ai-shipments-to-malaysia-singapore-thailand-indonesia-as-us-tightens-china-curbs/244856)
+> [!breaking]- Malaysia: Nvidia freezes AI server shipments to MY, SG, Thailand and Indonesia (Malay Mail/FT)
+> Nvidia has instructed its primary manufacturing partners to freeze AI server shipments to Malaysia, Singapore, Thailand, and Indonesia following the US tightening of export controls targeting China. The move affects a broad range of Nvidia AI hardware and raises concerns about Southeast Asian data-centre buildouts already underway. Singapore's trade ministry said it is studying the impact; Malaysia's semiconductor industry body called for urgent government engagement with Washington. [Source](https://www.malaymail.com/news/money/2026/11/26/ft-nvidia-stops-ai-shipments-to-malaysia-singapore-thailand-indonesia-as-us-tightens-china-curbs/244856)
 
-> [!note]- Science: ESA's Euclid telescope discovers its first previously unknown comet (ScienceDaily)
-> The European Space Agency's Euclid wide-field telescope — primarily designed to map dark matter and dark energy — identified its first previously unknown comet, a serendipitous finding that underscores the instrument's broad observational power. The discovery was made while processing wide-field survey data for gravitational lensing signatures, and was confirmed through follow-up ground observations. ESA says Euclid may detect additional solar system objects as its survey expands. [Source](https://www.sciencedaily.com/news/)
-
-> [!note]- Nike NKE: ~$36.70 (last close Wed Nov 25, +2.66%) — Black Friday session opens today (closes 1pm ET); loss ~$1,610 on 46 shares (Benzinga)
-> Nike's last close was $36.70 on Wednesday, with US markets closed Thursday for Thanksgiving and today's session abbreviated to 1pm ET. The stock is down approximately 42.5% year-to-date; the 46-share position (avg cost $71.69) carries an unrealised loss of ~$1,610 (value ~$1,688 vs cost ~$3,298). Key narrative: Foot Locker's Q3 turnaround commentary and a reported Formula 1 apparel deal support the near-term recovery case. Next hard catalyst: Q2 FY2027 earnings December 17. [Source](https://www.benzinga.com/trading-ideas/movers/26/11/63593640/nike-stock-jumps-amid-foot-locker-s-positive-q3-insights)
+> [!note]- Science: ESA's Euclid telescope makes first serendipitous comet discovery (ScienceDaily)
+> The European Space Agency's Euclid wide-field telescope — primarily designed to map dark matter and dark energy — identified its first previously unknown comet while processing wide-field survey data for gravitational lensing signatures, confirmed through follow-up ground observations. The serendipitous find underscores the instrument's broad observational power beyond its primary dark energy mission. ESA says Euclid may detect additional solar system objects as its survey expands. [Source](https://www.sciencedaily.com/news/)
 
 > [!note]- [[11-26-26 Thu]]
 
