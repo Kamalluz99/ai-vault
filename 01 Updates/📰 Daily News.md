@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-26T05:15
+updated: 2026-11-26T19:04
 topic: daily news
 frequency: daily
 ongoing: false
@@ -82,6 +82,26 @@ unread: true
 
 > [!note]- Nike NKE: $36.70 (Wed close, +2.66%) — markets closed today (Thanksgiving); loss ~$1,610 on 46 shares (Yahoo Finance)
 > Nike closed Wednesday at $36.70, up $0.95 (+2.66%), lifted by continued retail-sector momentum following Foot Locker's positive Q3 commentary calling US Foot Locker stores "a particular bright spot." US markets are closed today for Thanksgiving; next trading session is Friday November 27 (abbreviated, closes 1 PM ET). The 46-share position (avg cost $71.69) carries an unrealised loss of ~$1,610 (value ~$1,688 vs cost ~$3,298). Next major catalyst: Q2 FY2027 earnings December 17. [Source](https://finance.yahoo.com/markets/stocks/articles/nike-soars-6-competitor-calls-185716230.html)
+
+> **Evening update**
+
+> [!note]- SG & MY: Nvidia freezes AI server shipments to SG, MY, Thailand, Indonesia (Malay Mail/FT)
+> Nvidia has instructed its primary manufacturing partners to freeze shipments of AI servers to Malaysia, Singapore, Thailand, and Indonesia, following a tightening of US export controls targeting China. The Financial Times reported the freeze affects a broad range of Nvidia AI hardware, raising concerns across Southeast Asia about supply chain disruption and potential economic fallout for nations building out data-centre and AI infrastructure. Singapore's trade ministry said it is studying the impact, while Malaysia's semiconductor industry body called for urgent government engagement with Washington. [Source](https://www.malaymail.com/news/money/2026/11/26/ft-nvidia-stops-ai-shipments-to-malaysia-singapore-thailand-indonesia-as-us-tightens-china-curbs/244856)
+
+> [!note]- Malaysia: MACC hands Singapore fugitive to CPIB after 4-year manhunt (Yahoo News SG)
+> Malaysia's Anti-Corruption Commission (MACC) handed over a Singaporean national wanted for corruption to Singapore's Corrupt Practices Investigation Bureau (CPIB), ending a four-year fugitive case. The suspect had fled to Malaysia after being charged in Singapore, and the successful extradition is being cited by both governments as a positive example of bilateral law enforcement cooperation. Specific details of the charges were not publicly disclosed. [Source](https://sg.news.yahoo.com/live/malaysias-macc-hands-spore-fugitive-to-cpib-actor-darren-lim-doesnt-plan-to-leave-inheritance-for-kids-singapore-live-news-020723675.html)
+
+> [!note]- World: Ukraine strikes Russian oil refineries in Yaroslavl and Ufa; Zelenskyy awaits peace date (Anadolu Agency)
+> Ukraine launched drone attacks on major Russian oil refineries in Yaroslavl and Ufa — two of Russia's largest inland refining hubs — escalating its campaign to degrade Russian energy infrastructure and war financing capacity. Russia simultaneously approved a record military budget for 2027, signalling no intention to scale back its war effort. President Zelenskyy said Ukraine is waiting for the US to set a date for a new round of peace talks. [Source](https://aa.com.tr/en/world/morning-briefing-nov-26-2026/4138215)
+
+> [!note]- World: Ebola in DR Congo surpasses 12,000 cases; fuel tanker kills 31 near Cairo (10 Things News)
+> The World Health Organization reported the Ebola outbreak in the Democratic Republic of Congo has exceeded 12,000 confirmed cases, one of the largest on record, with WHO maintaining its highest emergency status. Separately, a fuel tanker explosion near Cairo killed at least 31 people and injured dozens more on a major highway, with Egyptian authorities investigating the cause. [Source](https://www.10things.news/p/10-things-global-news-26th-november-56a)
+
+> [!note]- Tech: FCC approves SpaceX Starmind — up to 1 million AI chip-equipped satellites (The Neuron AI)
+> The US Federal Communications Commission granted SpaceX full approval to deploy up to one million satellites carrying onboard AI processing chips as part of its Starmind constellation, marking the first regulatory green light for an AI satellite fleet at this scale. The constellation is designed to provide distributed AI inference globally, potentially transforming access to computing power in remote regions. Critics raised concerns about orbital congestion and the absence of a liability framework for autonomous AI-equipped satellites. [Source](https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-november-26-2026/)
+
+> [!note]- Economy: Global markets rally as bargain hunters return despite US tariff threats (CNBC)
+> Global equities rebounded on November 26 with Europe's Stoxx 600 climbing 1.4% and Asian indices gaining 0.9%, as investors bought the dip following the prior session's AI-driven sell-off — with US markets closed for Thanksgiving. The Trump administration's new tariffs targeting 14 trading partners including China and the EU did not derail the rally, though S&P 500 and Nasdaq futures rose only 0.3%. Analysts warned that with the December Fed rate hike near-certain and the Nasdaq near bear territory, the rebound may prove short-lived. [Source](https://www.cnbc.com/2026/11/26/stock-markets-today-.html)
 
 > [!note]- [[11-25-26 Wed]]
 
