@@ -103,6 +103,9 @@ unread: true
 > [!note]- Science: ESA's Euclid telescope makes first serendipitous comet discovery (ScienceDaily)
 > The European Space Agency's Euclid wide-field telescope — primarily designed to map dark matter and dark energy — identified its first previously unknown comet while processing wide-field survey data for gravitational lensing signatures, confirmed through follow-up ground observations. The serendipitous find underscores the instrument's broad observational power beyond its primary dark energy mission. ESA says Euclid may detect additional solar system objects as its survey expands. [Source](https://www.sciencedaily.com/news/)
 
+> [!note]- Nike NKE: $37.31 (Fri close, +1.66%) — Black Friday abbreviated session; loss ~$1,581 on 46 shares (Yahoo Finance)
+> Nike closed Friday's abbreviated Black Friday session at approximately $37.31, up $0.61 (+1.66%) from Wednesday's close of $36.70, as retail sector sentiment held firm heading into the holiday shopping weekend. The 46-share position (avg cost $71.69) carries an unrealised loss of approximately $1,581 (value ~$1,716 vs cost ~$3,298). Next major catalyst: Q2 FY2027 earnings December 17. [Source](https://finance.yahoo.com/quote/NKE)
+
 > **Evening update**
 
 > [!note]- SG & MY: Singapore, Malaysia brace for US tariff blowback amid trade fears (AsiaOne)
