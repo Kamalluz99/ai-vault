@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-27T19:04
+updated: 2026-11-28T05:00
 topic: daily news
 frequency: daily
 ongoing: false
@@ -60,7 +60,30 @@ unread: true
 
 ## 2026-11
 
-### [[11-27-26 Fri]]
+### [[11-28-26 Sat]]
+
+> [!note]- AI: Huawei develops 2× density HBM chip design — potential threat to Samsung, SK Hynix (Bloomberg)
+> Huawei researchers have developed a high-bandwidth memory design with twice the data-pin density of chips currently mass-produced by Samsung and SK Hynix, according to Bloomberg. If the design reaches mass production, it could significantly challenge South Korean chipmakers' dominance in AI memory — a critical bottleneck in GPU supply chains. The development comes despite US export controls aimed at restricting China's access to advanced semiconductor technology. [Source](https://www.bloomberg.com)
+
+> [!note]- Tech: Google November 2026 broad core update completes; ranking shifts across news and e-commerce (SER)
+> Google's November 2026 broad core update finished rolling out, with the Search Status Dashboard confirming completion on November 24 at 9:03 am ET. The update produced significant ranking shifts across news and e-commerce verticals; some sites penalised in the October update recovered while others saw further declines. It is the third broad core update of 2026. [Source](https://seroundtable.com/google-november-2026-core-update-done-42571.html)
+
+> [!breaking]- Macro: Dow on track for best week since Oct 2022; Nasdaq near bear; Black Friday closes 1 PM ET (CNBC)
+> US equities are set for a split holiday week close: the Dow Jones gained 500–600 points and is on track for its best week since October 2022, while the Nasdaq remains near bear-market territory after an AI-trade unwind that has sent it down approximately 8–9%. NYSE and Nasdaq close at 1 PM ET today for Black Friday. PCE at 3.8% and new US tariffs on 14 trading partners remain the dominant macro headwinds entering December. [Source](https://www.cnbc.com/2026/11/26/stock-markets-today-.html)
+
+> [!note]- World: UK warns military suppliers to Ukraine over rising Russian sabotage attempts (Taipei Times)
+> The UK's MI5 and Ministry of Defence warned British military suppliers providing equipment to Ukraine about increasing Russian sabotage attempts, including physical interference with logistics and cyberattacks on supply-route infrastructure. The alert comes as Ukrainian forces continue to receive Western arms. Lithuania separately threatened to revoke Taiwan's representative office status in a bid to repair ties with China. [Source](https://www.taipeitimes.com/News/world/archives/2026/11/28/2003868555)
+
+> [!note]- Malaysia/Singapore: Economy Minister Akmal — MY-SG can win bigger deals together via Johor-Singapore SEZ (HeadTopics)
+> Malaysia's Economy Minister Akmal Nasir said Malaysia and Singapore are well-positioned to jointly pursue larger investment deals through the Johor-Singapore Special Economic Zone, calling the cross-border zone a unique competitive advantage for attracting high-value manufacturing and digital economy investment. The remarks come amid broader US tariff uncertainty affecting regional trade. [Source](https://sg.headtopics.com/news/malaysia-singapore-can-win-bigger-deals-together-economy-90231236)
+
+> [!note]- Science: DARPA to evaluate Microsoft Majorana 2 quantum platform amid physicist scepticism (Live Science)
+> DARPA announced it will evaluate Microsoft's Majorana 2 quantum computing platform as part of its quantum benchmarking programme, bringing independent scrutiny to a system that has faced significant scepticism from physicists. The evaluation will test whether the platform can demonstrate fault-tolerant quantum advantage, and the outcome could meaningfully influence US government quantum investment priorities. [Source](https://www.livescience.com/news)
+
+> [!note]- Nike NKE: ~$37.06 (+1.1%) — jumps on Foot Locker Q3 "particular bright spot"; F1 apparel deal signed (Benzinga)
+> Nike shares rose from $36.66 (Wednesday close) to ~$37.06 in Friday's abbreviated Black Friday session, lifted by Foot Locker's Q3 commentary calling US Foot Locker stores "a particular bright spot" and by Nike signing a Formula 1 apparel deal with a new growth plan. Despite the bounce, NKE is still down ~42.5% in 2026; next catalyst is Q2 FY2027 earnings on December 17. The 46-share position (avg $71.69) carries an unrealised loss of ~$1,578 (value ~$1,705 vs cost ~$3,298). [Source](https://www.benzinga.com/trading-ideas/movers/26/11/63593640/nike-stock-jumps-amid-foot-lockers-positive-q3-insights)
+
+> [!note]- [[11-27-26 Fri]]
 
 > [!note]- AI: Anthropic launches Claude Ship — AI agents review, fix, and approve code changes (TechCrunch)
 > Anthropic launched Claude Ship, a new agentic product that allows AI agents to review code diffs, propose fixes, and either flag issues for humans or auto-approve changes within defined guardrails. The release marks Anthropic's first product aimed directly at the software development workflow rather than pure coding assistance. Early reports indicate it integrates with GitHub and significantly reduces code-review cycle times. [Source](https://techcrunch.com/category/artificial-intelligence/)
