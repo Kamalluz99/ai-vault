@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-27T05:14
+updated: 2026-11-27T19:04
 topic: daily news
 frequency: daily
 ongoing: false
@@ -79,6 +79,26 @@ unread: true
 
 > [!note]- Science: ESA's Euclid telescope makes first serendipitous comet discovery (ScienceDaily)
 > The European Space Agency's Euclid wide-field telescope — primarily designed to map dark matter and dark energy — identified its first previously unknown comet while processing wide-field survey data for gravitational lensing signatures, confirmed through follow-up ground observations. The serendipitous find underscores the instrument's broad observational power beyond its primary dark energy mission. ESA says Euclid may detect additional solar system objects as its survey expands. [Source](https://www.sciencedaily.com/news/)
+
+> **Evening update**
+
+> [!note]- SG & MY: Singapore, Malaysia brace for US tariff blowback amid trade fears (AsiaOne)
+> Singapore's trade ministry expressed disappointment after the Trump administration proposed sweeping tariffs targeting 14 trading partners including Singapore and Malaysia, citing them as barriers to balanced trade. Malaysia's trade ministry said it is studying the tariff list and will engage Washington through diplomatic channels. The move deepens regional economic uncertainty already heightened by the Nvidia AI chipset freeze affecting both countries' data-centre plans. [Source](https://www.asiaone.com/)
+
+> [!note]- Malaysia: Anwar pledges South China Sea diplomacy; 2026 GDP at 5.0–5.5% (The Star)
+> Prime Minister Anwar Ibrahim reaffirmed Malaysia's commitment to resolving South China Sea disputes through diplomacy while keeping the Royal Malaysian Navy at readiness, following ongoing tensions with Chinese vessels in Malaysia's exclusive economic zone. Official government projections for 2026 GDP growth were maintained at 5.0–5.5%, underpinned by strong services and export performance. The ringgit strengthened against the US dollar in Friday's trading session. [Source](https://thestar.com.my/aseanplus/aseanplus-news/2026/11/26/asean-news-headlines-at-10pm-on-thursday-nov-26-2026)
+
+> [!note]- World: Trump asks Putin to pull back in Europe, eyes quick end to Ukraine war (Reuters)
+> US President Trump said he told Russian President Vladimir Putin that he would like Russia to pull back its military aggression across Europe, expressing hope the gesture could accelerate an end to the Ukraine war. The statement came alongside Trump declaring victory over Iran to be "at hand" and urging Tehran toward a nuclear deal. Trump's simultaneous diplomatic overture to North Korea was rejected, with Kim Jong-un vowing to accelerate Pyongyang's nuclear arsenal. [Source](https://globetv.app/news/world-news-24-hours-november-27-2026)
+
+> [!note]- World: Iranian drones kill two Italian technicians in Kuwait; Tehran denies role (ANSA/Reuters)
+> Two Italian technicians were killed when Iranian drones struck a strategic facility in Kuwait, in what officials described as an attack on energy infrastructure. Iran denied involvement and proposed a joint investigation, while Kuwait called for international accountability. The attack is the first Iranian drone fatality on Kuwaiti soil since the broader Iran-US-Israel regional conflict began in early 2026. [Source](https://globetv.app/news/world-news-24-hours-november-27-2026)
+
+> [!note]- Tech: Switzerland confirms five AI-agent attacks on critical infrastructure (AI Weekly)
+> Swiss authorities confirmed that five separate AI-agent–driven cyberattacks targeted the country's power grid, water systems, and telecoms networks, among the first publicly acknowledged autonomous-AI infrastructure attacks. The attacks used LLM-based agents to identify and exploit system vulnerabilities without direct human oversight. Switzerland said it is coordinating with European cybersecurity agencies to build defences against AI-driven automated threats. [Source](https://aiweekly.co/ai-news-today)
+
+> [!note]- Economy: China industrial profits rebound led by AI sectors; Japan GDP contracts (CNBC)
+> China's industrial profits grew over the first ten months of 2026 for the first time in months, with electronics earnings roughly doubling as AI computing demand drove memory chip and related manufacturing. The recovery is bifurcated: AI-linked and export-oriented factories are thriving while consumer-goods manufacturers face persistent margin pressure from weak domestic demand. Japan's economy unexpectedly contracted in Q3 due to high energy costs, contrasting with the UK's 0.7% growth. [Source](https://cnbc.com/2026/11/27/china-industrial-profits-october.html)
 
 > [!note]- [[11-26-26 Thu]]
 
