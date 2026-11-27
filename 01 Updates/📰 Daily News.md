@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-28T05:00
+updated: 2026-11-28T05:13
 topic: daily news
 frequency: daily
 ongoing: false
@@ -62,26 +62,23 @@ unread: true
 
 ### [[11-28-26 Sat]]
 
-> [!note]- AI: Huawei develops 2× density HBM chip design — potential threat to Samsung, SK Hynix (Bloomberg)
-> Huawei researchers have developed a high-bandwidth memory design with twice the data-pin density of chips currently mass-produced by Samsung and SK Hynix, according to Bloomberg. If the design reaches mass production, it could significantly challenge South Korean chipmakers' dominance in AI memory — a critical bottleneck in GPU supply chains. The development comes despite US export controls aimed at restricting China's access to advanced semiconductor technology. [Source](https://www.bloomberg.com)
+> [!note]- AI: OpenAI and Anthropic staff doubt unreleased AI models are safe to ship (Axios)
+> More than two dozen insiders at OpenAI and Anthropic have raised doubts about whether some unreleased AI models are safe enough to deploy publicly, per Axios reporting. An OpenAI spokesperson acknowledged new internal safety requirements could slow releases, while Anthropic stated that keeping a model inside the company does not make it safe. The disclosures suggest frontier labs are grappling with increasingly capable systems that outpace current safety evaluations. [Source](https://gagadget.com/en/735603-staff-at-openai-and-anthropic-doubt-their-unreleased-ai-is-safe-to-ship/)
 
-> [!note]- Tech: Google November 2026 broad core update completes; ranking shifts across news and e-commerce (SER)
-> Google's November 2026 broad core update finished rolling out, with the Search Status Dashboard confirming completion on November 24 at 9:03 am ET. The update produced significant ranking shifts across news and e-commerce verticals; some sites penalised in the October update recovered while others saw further declines. It is the third broad core update of 2026. [Source](https://seroundtable.com/google-november-2026-core-update-done-42571.html)
+> [!note]- Tech: Canva restructures, cuts 22% of workforce (~1,271 employees) as teams merge (InformationWeek)
+> Design platform Canva is cutting roughly 1,271 employees — about 22% of its workforce — as part of a restructure that merges its product, growth, and platform teams. The move marks a significant reversal for a company that rapidly expanded during the pandemic-era remote-work boom. November 2026 has seen 54 layoff announcements cutting over 5,381 jobs across the industry. [Source](https://www.informationweek.com/it-staffing-careers/2026-tech-company-layoffs)
 
-> [!breaking]- Macro: Dow on track for best week since Oct 2022; Nasdaq near bear; Black Friday closes 1 PM ET (CNBC)
-> US equities are set for a split holiday week close: the Dow Jones gained 500–600 points and is on track for its best week since October 2022, while the Nasdaq remains near bear-market territory after an AI-trade unwind that has sent it down approximately 8–9%. NYSE and Nasdaq close at 1 PM ET today for Black Friday. PCE at 3.8% and new US tariffs on 14 trading partners remain the dominant macro headwinds entering December. [Source](https://www.cnbc.com/2026/11/26/stock-markets-today-.html)
+> [!note]- Macro: Gold rebounds to ~$3,600, oil holds $85; OPEC+ communiqué due Sunday (FXStreet)
+> Gold is bouncing toward $3,600 after falling to a 15-month low near $3,427, while WTI oil holds near $85 on Middle East supply concerns heading into month-end. Bitcoin's rebound remains muted by spot capital outflows. Markets close out November with the ECB flagging persistent inflation risks; a Sunday OPEC+ statement on production targets could set the tone for December crude prices. [Source](https://www.fxstreet.com/analysis/gold-rebounds-oil-holds-85-and-crypto-tests-a-floor-how-november-ends-and-what-awaits-in-december-202611271019)
 
-> [!note]- World: UK warns military suppliers to Ukraine over rising Russian sabotage attempts (Taipei Times)
-> The UK's MI5 and Ministry of Defence warned British military suppliers providing equipment to Ukraine about increasing Russian sabotage attempts, including physical interference with logistics and cyberattacks on supply-route infrastructure. The alert comes as Ukrainian forces continue to receive Western arms. Lithuania separately threatened to revoke Taiwan's representative office status in a bid to repair ties with China. [Source](https://www.taipeitimes.com/News/world/archives/2026/11/28/2003868555)
+> [!breaking]- World: Iranian mines strike two oil tankers in Strait of Hormuz; both catch fire (Particle News)
+> Iran's Revolutionary Guards Navy confirmed two oil tankers struck naval mines and caught fire while crossing the Strait of Hormuz, in a significant escalation of Middle East maritime tensions. The incident raises concerns about global oil supply at a critical chokepoint and comes as Iran's foreign minister maintains Tehran is ready to defend itself while open to diplomacy. Oil markets, already sensitive to regional conflict risk, face additional upward pressure. [Source](https://particle.news/story/diplomacy-stalls-as-trump-presses-putin-and-ukraine-steps-up-strikes)
 
-> [!note]- Malaysia/Singapore: Economy Minister Akmal — MY-SG can win bigger deals together via Johor-Singapore SEZ (HeadTopics)
-> Malaysia's Economy Minister Akmal Nasir said Malaysia and Singapore are well-positioned to jointly pursue larger investment deals through the Johor-Singapore Special Economic Zone, calling the cross-border zone a unique competitive advantage for attracting high-value manufacturing and digital economy investment. The remarks come amid broader US tariff uncertainty affecting regional trade. [Source](https://sg.headtopics.com/news/malaysia-singapore-can-win-bigger-deals-together-economy-90231236)
+> [!note]- Malaysia: 13 arrested at Subang Air Base drug bust, including 7 RMAF personnel (Malay Mail)
+> Thirteen people were arrested — including seven Royal Malaysian Air Force personnel — over a drug seizure at Subang Air Base, prompting the Cabinet to extend airport-style anti-narcotics measures to military installations nationwide. Home Minister Saifuddin Nasution promised further arrests "in the coming days." The SPM 2026 exam board also filed a police report over allegedly leaked examination papers. [Source](https://www.malaymail.com/news/malaysia)
 
-> [!note]- Science: DARPA to evaluate Microsoft Majorana 2 quantum platform amid physicist scepticism (Live Science)
-> DARPA announced it will evaluate Microsoft's Majorana 2 quantum computing platform as part of its quantum benchmarking programme, bringing independent scrutiny to a system that has faced significant scepticism from physicists. The evaluation will test whether the platform can demonstrate fault-tolerant quantum advantage, and the outcome could meaningfully influence US government quantum investment priorities. [Source](https://www.livescience.com/news)
-
-> [!note]- Nike NKE: ~$37.06 (+1.1%) — jumps on Foot Locker Q3 "particular bright spot"; F1 apparel deal signed (Benzinga)
-> Nike shares rose from $36.66 (Wednesday close) to ~$37.06 in Friday's abbreviated Black Friday session, lifted by Foot Locker's Q3 commentary calling US Foot Locker stores "a particular bright spot" and by Nike signing a Formula 1 apparel deal with a new growth plan. Despite the bounce, NKE is still down ~42.5% in 2026; next catalyst is Q2 FY2027 earnings on December 17. The 46-share position (avg $71.69) carries an unrealised loss of ~$1,578 (value ~$1,705 vs cost ~$3,298). [Source](https://www.benzinga.com/trading-ideas/movers/26/11/63593640/nike-stock-jumps-amid-foot-lockers-positive-q3-insights)
+> [!note]- Science: NASA preps Sunday Cygnus XL cargo launch to ISS aboard SpaceX Falcon 9 (NASA)
+> NASA confirmed preparations are on track for a Northrop Grumman Cygnus XL spacecraft to launch Sunday, November 29, at 10:47 a.m. EST aboard a SpaceX Falcon 9 from Cape Canaveral Space Force Station. The mission will resupply the International Space Station with science experiments, crew supplies, and hardware. It is the latest in a series of commercial cargo flights sustaining ISS operations ahead of the station's planned retirement window. [Source](https://www.nasa.gov/blogs/spacestation/2026/11/27/nasa-partners-preps-on-track-for-sunday-space-station-cargo-launch)
 
 > [!note]- [[11-27-26 Fri]]
 
