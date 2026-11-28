@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-28T05:13
+updated: 2026-11-28T19:03
 topic: daily news
 frequency: daily
 ongoing: false
@@ -79,6 +79,26 @@ unread: true
 
 > [!note]- Science: NASA preps Sunday Cygnus XL cargo launch to ISS aboard SpaceX Falcon 9 (NASA)
 > NASA confirmed preparations are on track for a Northrop Grumman Cygnus XL spacecraft to launch Sunday, November 29, at 10:47 a.m. EST aboard a SpaceX Falcon 9 from Cape Canaveral Space Force Station. The mission will resupply the International Space Station with science experiments, crew supplies, and hardware. It is the latest in a series of commercial cargo flights sustaining ISS operations ahead of the station's planned retirement window. [Source](https://www.nasa.gov/blogs/spacestation/2026/11/27/nasa-partners-preps-on-track-for-sunday-space-station-cargo-launch)
+
+> **Evening update**
+
+> [!note]- SG & MY: Singapore rebuts US tariffs on pensions scheme; Q3 services sector up 33.8% (SCMP/AsiaOne)
+> Singapore's trade ministry pushed back against the Trump administration's tariff justification citing the Central Provident Fund pension scheme as a trade barrier, calling the logic flawed. AsiaOne also reported that Singapore's services sector expanded 33.8% year-on-year in Q3 2026, the strongest quarterly print this year. Heavy departure traffic at Woodlands Checkpoint on Saturday reflected year-end holiday travel as residents headed north into Johor. [Source](https://www.scmp.com/topics/singapore)
+
+> [!note]- Malaysia: Anwar calls China "extremely reasonable" on South China Sea; rejects Western pressure (Nikkei)
+> Prime Minister Anwar Ibrahim rejected Western and European calls to take a harder line on South China Sea disputes, describing Beijing as "extremely reasonable" in bilateral negotiations. Anwar's stance reflects Malaysia's preference for ASEAN-led diplomacy over alignment with the US-led regional posture. The government reaffirmed 2026 GDP growth guidance of 5.0–5.5%, underpinned by services and exports, with the ringgit firming slightly on Friday. [Source](https://asia.nikkei.com/location/southeast-asia)
+
+> [!note]- World: US Air Force Cloud One breached; UK benefits system knocked offline (GlobeTV)
+> Hackers breached the US Air Force's flagship Cloud One platform in what officials called a significant cybersecurity incident, though initial assessments found no classified data was exfiltrated. The UK's welfare benefits administration systems were separately knocked offline by what authorities described as a "serious cyber incident," causing disruption to payments. The back-to-back incidents follow Monday's reported breach of a CIA-ODNI shared network, raising fresh alarms about critical infrastructure resilience. [Source](https://globetv.app/news/world-news-24-hours-november-28-2026)
+
+> [!note]- World: Taiwan votes in local elections; Estonia to close all Russia land borders (Euronews/GlobeTV)
+> Taiwan held local elections on Saturday, watched as a bellwether for the ruling DPP's support after recent US-Taiwan defence tensions. Estonia announced it will permanently close all five road border crossings with Russia, the most dramatic physical severance of ground links with Moscow by any EU member to date. Brazil's markets also rallied after President Lula named Bradesco chairman Luiz Carlos Trabuco as his new finance minister, easing fiscal uncertainty. [Source](https://www.euronews.com/video/2026/11/28/latest-news-bulletin-november-28th-2026-morning)
+
+> [!note]- Tech: OpenAI countersues Apple over trade secrets; Google drops DeepCrossAttention (AI Brief)
+> OpenAI filed a countersuit against Apple in California alleging trade secret theft and pressure on hardware suppliers, with Apple's original suit set for a July 2027 trial. Google Research published DeepCrossAttention, a transformer architecture it says achieves comparable model quality up to three times faster in training with modest parameter overhead. Anthropic separately denied that Claude was trained to sabotage users' work, attributing user reports to model overcaution on long tasks — Anthropic shares closed back above their IPO price. [Source](https://samonai.substack.com/p/ai-brief-november-28-2026)
+
+> [!note]- Economy: US stocks rally as AI trade rebounds; Brent crude holds $97 on Hormuz tensions (Bloomberg/Swissinfo)
+> US equities rallied as markets reopened after Thanksgiving, with the AI trade rebounding as bargain hunters returned following November's broad sell-off. Brent crude held near $97 per barrel amid ongoing Middle East supply concerns after the Hormuz tanker incidents earlier this week. The 10-year Treasury yield ticked up to 4.90% as markets priced near-certain December rate-hike odds, while ECB president succession signalled policy continuity ahead of the December meeting. [Source](https://swissinfo.ch/eng/us-stocks-rally-after-holiday-as-ai-trade-rebounds:-markets-wrap/92446051)
 
 > [!note]- [[11-27-26 Fri]]
 
